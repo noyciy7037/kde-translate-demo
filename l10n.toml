@@ -1,2 +1,3 @@
 [[paths]]
+    reference = "ja/**/*.po"
     l10n = "{locale}/**/*.po"
