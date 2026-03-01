@@ -1,0 +1,630 @@
+# Translation of kcmsmserver into Japanese.
+# This file is distributed under the same license as the kdebase package.
+#
+# Yoichiro Takehora <takehora@kde.gr.jp>, 2004.
+# Kenshi Muto <kmuto@debian.org>, 2004.
+# Shinichi Tsunoda <tsuno@ngy.1st.ne.jp>, 2005.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2006, 2007, 2008.
+# SPDX-FileCopyrightText: 2022, 2024, 2025 Ryuichi Yamada <ryuichi_ya220@outlook.jp>
+# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2024.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmsmserver\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2026-02-17 10:08+0100\n"
+"PO-Revision-Date: 2025-02-23 13:15+0900\n"
+"Last-Translator: Ryuichi Yamada <ryuichi_ya220@outlook.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 24.12.2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. i18n: ectx: label, entry (confirmLogout), group (General)
+#. +> trunk6 stable6 stable5
+#: smserversettings.kcfg:9
+#, kde-format
+msgid "Confirm logout"
+msgstr "ログアウトを確認する"
+
+#. i18n: ectx: label, entry (shutdownType), group (General)
+#. +> trunk6 stable6 stable5
+#: smserversettings.kcfg:13
+#, kde-format
+msgid "Default leave option"
+msgstr "デフォルトの終了オプション"
+
+#. i18n: ectx: label, entry (loginMode), group (General)
+#. +> trunk6 stable6 stable5
+#: smserversettings.kcfg:22
+#, kde-format
+msgid "On login"
+msgstr "ログイン時"
+
+#. i18n: ectx: label, entry (excludeApps), group (General)
+#. +> trunk6 stable6 stable5
+#: smserversettings.kcfg:26
+#, kde-format
+msgid "Applications to be excluded from session"
+msgstr "セッションから除外するアプリケーション"
+
+#. +> trunk6 stable6
+#: ui/main.qml:30
+#, fuzzy, kde-format
+#| msgid "Failed to request restart to firmware setup: %1"
+msgctxt "@info:status inlinemessage"
+msgid "Failed to request restart to firmware setup: %1"
+msgstr "ファームウェア設定のための再起動の要求に失敗しました: %1"
+
+#. +> stable5
+#: package/contents/ui/main.qml:30
+#, kde-format
+msgid ""
+"The system must be restarted before manual session saving becomes active."
+msgstr ""
+"手動でのセッションの保存を有効にするにはシステムを再起動する必要があります。"
+
+#. +> stable5
+#: package/contents/ui/main.qml:57
+#, kde-format
+msgid "Failed to request restart to firmware setup: %1"
+msgstr "ファームウェア設定のための再起動の要求に失敗しました: %1"
+
+#. +> trunk6
+#: ui/main.qml:31
+#, fuzzy, kde-format
+#| msgid ""
+#| "Next time the computer is restarted, it will enter the firmware setup "
+#| "screen."
+msgctxt "@info:status inlinemessage"
+msgid ""
+"Next time the computer is restarted, it will enter UEFI firmware settings."
+msgstr "次回の再起動時にファームウェア設定画面に入ります。"
+
+#. +> trunk6 stable6
+#: ui/main.qml:32
+#, fuzzy, kde-format
+#| msgid ""
+#| "Next time the computer is restarted, it will enter the firmware setup "
+#| "screen."
+msgctxt "@info:status inlinemessage"
+msgid ""
+"Next time the computer is restarted, it will enter the firmware setup screen."
+msgstr "次回の再起動時にファームウェア設定画面に入ります。"
+
+#. +> stable5
+#: package/contents/ui/main.qml:59
+#, kde-format
+msgid ""
+"Next time the computer is restarted, it will enter the firmware setup screen."
+msgstr "次回の再起動時にファームウェア設定画面に入ります。"
+
+#. +> stable6
+#: ui/main.qml:31
+#, fuzzy, kde-format
+#| msgid ""
+#| "Next time the computer is restarted, it will enter the UEFI setup screen."
+msgctxt "@info:status inlinemessage"
+msgid ""
+"Next time the computer is restarted, it will enter the UEFI setup screen."
+msgstr "次回の再起動時に UEFI 設定画面に入ります。"
+
+#. +> stable5
+#: package/contents/ui/main.qml:35
+#, kde-format
+msgid "Restart"
+msgstr "再起動"
+
+#. +> stable5
+#: package/contents/ui/main.qml:58
+#, kde-format
+msgid ""
+"Next time the computer is restarted, it will enter the UEFI setup screen."
+msgstr "次回の再起動時に UEFI 設定画面に入ります。"
+
+#. +> trunk6 stable6
+#: ui/main.qml:37
+#, fuzzy, kde-format
+#| msgid "Restart Now"
+msgctxt "@action:button"
+msgid "Restart Now"
+msgstr "今すぐコンピュータを再起動"
+
+#. +> stable5
+#: package/contents/ui/main.qml:64
+#, kde-format
+msgid "Restart Now"
+msgstr "今すぐコンピュータを再起動"
+
+#. +> trunk6 stable6
+#: ui/main.qml:46
+#, kde-format
+msgctxt "@title:group"
+msgid "General"
+msgstr "全般"
+
+#. +> trunk6 stable6
+#: ui/main.qml:51
+#, kde-format
+msgctxt ""
+"@label beginning of the logical sentence 'Ask for confirmation on shutdown, "
+"restart, and logout.'"
+msgid "Ask for confirmation:"
+msgstr "確認を求める:"
+
+#. +> trunk6 stable6
+#: ui/main.qml:52
+#, kde-format
+msgctxt ""
+"@option:check end of the logical sentence 'Ask for confirmation on shutdown, "
+"restart, and logout.'"
+msgid "On shutdown, restart, and logout"
+msgstr "シャットダウン、再起動、もしくはログアウト時"
+
+#. +> trunk6 stable6 stable5
+#: ui/main.qml:63
+#, kde-format
+msgctxt "@title:group"
+msgid "Session Restore"
+msgstr "セッション復元"
+
+#. +> trunk6 stable6
+#: ui/main.qml:71
+#, fuzzy, kde-format
+#| msgid "On login, launch apps that were open:"
+msgctxt "@title:group prefix for radiobuttons"
+msgid "On login, launch apps that were open:"
+msgstr "ログイン時:"
+
+#. +> stable5
+#: package/contents/ui/main.qml:104
+#, kde-format
+msgid "On login, launch apps that were open:"
+msgstr "ログイン時:"
+
+#. +> trunk6 stable6 stable5
+#: ui/main.qml:72
+#, kde-format
+msgctxt "@option:radio Automatic style of session restoration"
+msgid "On last logout"
+msgstr "最後のログアウト時に開かれていたアプリケーションを開く"
+
+#. +> stable5
+#: package/contents/ui/main.qml:75
+#, kde-format
+msgid "Show:"
+msgstr "表示:"
+
+#. +> trunk6 stable6 stable5
+#: ui/main.qml:85
+#, kde-format
+msgctxt "@option:radio Manual style of session restoration"
+msgid "When session was manually saved"
+msgstr "手動で保存したセッションを復元する"
+
+#. +> trunk6 stable6 stable5
+#: ui/main.qml:94
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"A <interface>Save Session</interface> button will appear in the "
+"<interface>Application Launcher</interface> menu. When you click it, Plasma "
+"will remember the apps that are open and restore them on the next login. "
+"Click it again to replace the set of remembered apps."
+msgstr ""
+"<interface>セッションを保存</interface>ボタンが<interface>アプリケーションラ"
+"ンチャー</interface>のメニューに表示されるようになります。このボタンをクリッ"
+"クすると、Plasma は開かれているアプリケーションを記憶し、次のログイン時に復元"
+"します。もう一度クリックすると、記憶が上書きされます。"
+
+#. +> stable5
+#: package/contents/ui/main.qml:89
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"When this setting is turned on, the logout confirmation screen will be shown "
+"when you log out, shut down, restart, press the power button, or click on "
+"buttons or menu items labeled <interface>Leave…</interface>."
+msgstr ""
+"この設定がオンの場合、ログアウト、シャットダウン、再起動時や、電源ボタンを押"
+"したとき、<interface>終了…</interface>ボタンをクリックしたときにログアウト確"
+"認画面が表示されます。"
+
+#. +> trunk6 stable6 stable5
+#: ui/main.qml:99
+#, kde-format
+msgctxt ""
+"@option:radio Here 'session' refers to the technical concept of session "
+"restoration, whereby the windows that were open on logout are re-opened on "
+"the next login"
+msgid "Start with an empty session"
+msgstr "空のセッションで開始"
+
+#. +> trunk6 stable6
+#: ui/main.qml:113
+#, fuzzy, kde-format
+#| msgid "Ignored applications:"
+msgctxt "@label:textbox"
+msgid "Ignored applications:"
+msgstr "復元しないアプリケーション:"
+
+#. +> stable5
+#: package/contents/ui/main.qml:146
+#, kde-format
+msgid "Ignored applications:"
+msgstr "復元しないアプリケーション:"
+
+#. +> trunk6 stable6
+#: ui/main.qml:132
+#, fuzzy, kde-format
+#| msgid ""
+#| "Write apps' desktop file identifier or, on X11, executable names here "
+#| "(separated by commas or colons, for example "
+#| "'xterm:org.kde.konsole.desktop' or 'xterm,org.kde.konsole.desktop') to "
+#| "prevent them from autostarting along with other session-restored apps."
+msgctxt "@info:whatsthis contextualhelpbutton tooltip"
+msgid ""
+"Write apps' desktop file identifier or, on X11, executable names here "
+"(separated by commas or colons, for example 'xterm:org.kde.konsole.desktop' "
+"or 'xterm,org.kde.konsole.desktop') to prevent them from autostarting along "
+"with other session-restored apps."
+msgstr ""
+"アプリケーションのデスクトップファイルの識別子を入力してください。X11 では、"
+"アプリケーションの実行ファイルの名前を入力してください。(コンマもしくはコロン"
+"で区切ることができます。例: 'xterm:org.kde.konsole.desktop' もしくは "
+"'xterm,org.kde.konsole.desktop') セッションが復元される際に、自動的に起動され"
+"ないようになります。"
+
+#. +> stable5
+#: package/contents/ui/main.qml:169
+#, kde-format
+msgid ""
+"Write apps' executable names here (separated by commas or colons, for "
+"example 'xterm:konsole' or 'xterm,konsole') to prevent them from "
+"autostarting along with other session-restored apps."
+msgstr ""
+"アプリケーションの実行ファイルの名前 (コンマもしくはコロンで区切ることができ"
+"ます。例: 'xterm:konsole' もしくは 'xterm,konsole') を入力してください。セッ"
+"ションが復元される際に、自動的に起動されないようになります。"
+
+#. +> trunk6 stable6 stable5
+#: ui/main.qml:138
+#, kde-format
+msgctxt "@title:group"
+msgid "Firmware"
+msgstr "ファームウェア"
+
+#. +> stable5
+#: package/contents/ui/main.qml:72
+#, kde-format
+msgctxt "@title:group"
+msgid "Logout Screen"
+msgstr "ログアウト画面"
+
+#. +> trunk6 stable6 stable5
+#: ui/main.qml:144
+#, kde-format
+msgctxt ""
+"@label:check part of a sentence: After next restart enter UEFI/Firmware "
+"setup screen"
+msgid "After next restart:"
+msgstr "次の再起動後:"
+
+#. +> trunk6
+#: ui/main.qml:145
+#, fuzzy, kde-format
+#| msgctxt "@option:check"
+#| msgid "Enter firmware setup screen"
+msgctxt "@option:check"
+msgid "Enter UEFI firmware settings"
+msgstr "ファームウェア設定画面に入る"
+
+#. +> trunk6 stable6 stable5
+#: ui/main.qml:146
+#, kde-format
+msgctxt "@option:check"
+msgid "Enter firmware setup screen"
+msgstr "ファームウェア設定画面に入る"
+
+#. +> stable6 stable5
+#: ui/main.qml:145
+#, kde-format
+msgctxt "@option:check"
+msgid "Enter UEFI setup screen"
+msgstr "UEFI 設定画面に入る"
+
+#. +> stable5
+#: kcmsmserver.cpp:49
+#, kde-format
+msgid ""
+"<h1>Session Manager</h1> You can configure the session manager here. This "
+"includes options such as whether or not the session exit (logout) should be "
+"confirmed, whether the session should be restored again when logging in and "
+"whether the computer should be automatically shut down after session exit by "
+"default."
+msgstr ""
+"<h1>セッションマネージャ</h1>ここでセッションマネージャの設定を行います。これ"
+"には、セッションの終了 (ログアウト) を確認するかどうか、前回のセッションをロ"
+"グイン時に復元するかどうか、セッションの終了と同時にシャットダウンするかどう"
+"か、といったオプションが含まれます。"
+
+#, kde-format
+#~ msgid ""
+#~ "Write apps' desktop file identifier or, on X11, executable names here "
+#~ "(separated by commas or colons, for example "
+#~ "'xterm:org.kde.konsole.desktop' or 'xterm,org.kde.konsole.desktop') to "
+#~ "prevent them from autostarting along with other session-restored apps."
+#~ msgstr ""
+#~ "アプリケーションのデスクトップファイルの識別子を入力してください。X11 で"
+#~ "は、アプリケーションの実行ファイルの名前を入力してください。(コンマもしく"
+#~ "はコロンで区切ることができます。例: 'xterm:org.kde.konsole.desktop' もしく"
+#~ "は 'xterm,org.kde.konsole.desktop') セッションが復元される際に、自動的に起"
+#~ "動されないようになります。"
+
+#, kde-format
+#~ msgid "Desktop Session"
+#~ msgstr "デスクトップセッション"
+
+#, kde-format
+#~ msgid "Desktop Session Login and Logout"
+#~ msgstr "デスクトップセッション ログインとログアウト"
+
+#, kde-format
+#~ msgid "Copyright © 2000–2020 Desktop Session team"
+#~ msgstr "Copyright © 2000–2020 Desktop Session team"
+
+#, kde-format
+#~ msgid "Oswald Buddenhagen"
+#~ msgstr "Oswald Buddenhagen"
+
+#, kde-format
+#~ msgid "Carl Schwan"
+#~ msgstr "Carl Schwan"
+
+#, kde-format
+#~ msgid "General:"
+#~ msgstr "全般:"
+
+#, kde-format
+#~ msgid "Offer shutdown options"
+#~ msgstr "シャットダウンオプションを提供する"
+
+#, kde-format
+#~ msgid "Default leave option:"
+#~ msgstr "デフォルトの終了オプション:"
+
+# ACCELERATOR changed by translator
+#, kde-format
+#~ msgid "End current session"
+#~ msgstr "現在のセッションを終了"
+
+# ACCELERATOR changed by translator
+#, kde-format
+#~ msgid "Restart computer"
+#~ msgstr "コンピュータを再起動"
+
+#, kde-format
+#~ msgid "Turn off computer"
+#~ msgstr "コンピュータを停止"
+
+#, kde-format
+#~ msgid "When logging in:"
+#~ msgstr "ログイン時:"
+
+#, kde-format
+#~ msgid "Restore previous saved session"
+#~ msgstr "前回保存したセッションを復元"
+
+#, kde-format
+#~ msgid "Restore manually saved session"
+#~ msgstr "手動で保存したセッションを復元"
+
+#, kde-format
+#~ msgid "Start with an empty session"
+#~ msgstr "空のセッションで開始"
+
+#, kde-format
+#~ msgid ""
+#~ "Here you can enter a colon or comma separated list of applications that "
+#~ "should not be saved in sessions, and therefore will not be started when "
+#~ "restoring a session. For example 'xterm:konsole' or 'xterm,konsole'."
+#~ msgstr ""
+#~ "ここにはセッションに保存しないアプリケーションを “xterm:konsole” または "
+#~ "“xterm,konsole” のようにコロンかコンマで区切って入力します。指定されたアプ"
+#~ "リケーションはセッションを復元する際に起動されません。"
+
+#, kde-format
+#~ msgid "Don't restore these applications:"
+#~ msgstr "これらのアプリケーションを復元しない:"
+
+#, kde-format
+#~ msgid "Enter firmware setup screen on next restart"
+#~ msgstr "次の再起動時ファームウェア設定画面に入る"
+
+#, kde-format
+#~ msgctxt "NAME OF TRANSLATORS"
+#~ msgid "Your names"
+#~ msgstr "Ryuichi Yamada"
+
+#, kde-format
+#~ msgctxt "EMAIL OF TRANSLATORS"
+#~ msgid "Your emails"
+#~ msgstr "ryuichi_ya220@outlook.jp"
+
+# ACCELERATOR changed by translator
+#, kde-format
+#~ msgctxt "@option:radio"
+#~ msgid "Restart computer"
+#~ msgstr "コンピュータを再起動"
+
+#, kde-format
+#~ msgctxt "@option:radio"
+#~ msgid "Turn off computer"
+#~ msgstr "コンピュータを停止"
+
+# ACCELERATOR changed by translator
+#, kde-format
+#~ msgctxt ""
+#~ "@option:radio Here 'session' refers to the technical concept of session "
+#~ "restoration, whereby the windows that were open on logout are re-opened "
+#~ "on the next login"
+#~ msgid "End current session"
+#~ msgstr "現在のセッションを終了"
+
+#, kde-format
+#~ msgctxt ""
+#~ "@option:radio Here 'session' refers to the technical concept of session "
+#~ "restoration, whereby the windows that were open on logout are re-opened "
+#~ "on the next login"
+#~ msgid "Restore last session"
+#~ msgstr "前回のセッションを復元"
+
+#, kde-format
+#~ msgctxt ""
+#~ "@option:radio Here 'session' refers to the technical concept of session "
+#~ "restoration, whereby the windows that were open on logout are re-opened "
+#~ "on the next login"
+#~ msgid "Restore last manually saved session"
+#~ msgstr "最後の手動で保存したセッションを復元"
+
+#, kde-format
+#~ msgctxt "@option:check"
+#~ msgid "Confirm logout"
+#~ msgstr "ログアウトを確認する"
+
+#, kde-format
+#~ msgctxt "@option:check"
+#~ msgid "Offer shutdown options"
+#~ msgstr "シャットダウンオプションを提供する"
+
+#, kde-format
+#~ msgctxt "@option:check"
+#~ msgid "Enter firmware setup screen on next restart"
+#~ msgstr "次の再起動時ファームウェア設定画面に入る"
+
+#, fuzzy, kde-format
+#~| msgid "Default leave option:"
+#~ msgid "Default option:"
+#~ msgstr "デフォルトの終了オプション:"
+
+# ACCELERATOR changed by translator
+#, fuzzy, kde-format
+#~| msgid "Restart Now"
+#~ msgctxt "@option:radio"
+#~ msgid "Restart"
+#~ msgstr "今すぐコンピュータを再起動"
+
+#, kde-format
+#~ msgid ""
+#~ "Check this option if you want the session manager to display a logout "
+#~ "confirmation dialog box."
+#~ msgstr ""
+#~ "セッションマネージャにログアウトの確認ダイアログを表示させる場合、このオプ"
+#~ "ションを有効にしてください。"
+
+#, kde-format
+#~ msgid "Conf&irm logout"
+#~ msgstr "ログアウトを確認する(&I)"
+
+#, kde-format
+#~ msgid "O&ffer shutdown options"
+#~ msgstr "シャットダウンオプションを提供する(&F)"
+
+#, kde-format
+#~ msgid ""
+#~ "Here you can choose what should happen by default when you log out. This "
+#~ "only has meaning, if you logged in through KDM."
+#~ msgstr ""
+#~ "ログアウト後のデフォルトの動作を選択します。これは KDM からログインした場"
+#~ "合にのみ有効です。"
+
+#, kde-format
+#~ msgid "Default Leave Option"
+#~ msgstr "デフォルトの終了オプション"
+
+# ACCELERATOR changed by translator
+#, kde-format
+#~ msgid "&End current session"
+#~ msgstr "現在のセッションを終了(&N)"
+
+# ACCELERATOR changed by translator
+#, kde-format
+#~ msgid "&Restart computer"
+#~ msgstr "コンピュータを再起動(&K)"
+
+#, kde-format
+#~ msgid "&Turn off computer"
+#~ msgstr "コンピュータを停止(&T)"
+
+#, kde-format
+#~ msgid ""
+#~ "<ul>\n"
+#~ "<li><b>Restore previous session:</b> Will save all applications running "
+#~ "on exit and restore them when they next start up</li>\n"
+#~ "<li><b>Restore manually saved session: </b> Allows the session to be "
+#~ "saved at any time via \"Save Session\" in the K-Menu. This means the "
+#~ "currently started applications will reappear when they next start up.</"
+#~ "li>\n"
+#~ "<li><b>Start with an empty session:</b> Do not save anything. Will come "
+#~ "up with an empty desktop on next start.</li>\n"
+#~ "</ul>"
+#~ msgstr ""
+#~ "<qt><ul><li>前回のセッションを復元: 終了時に稼働していたすべてのアプリケー"
+#~ "ションを保存し、次回の起動時にそれらを復元します。</li><li>手動で保存した"
+#~ "セッションを復元: これを選択すると、K メニューの「セッションを保存」を使っ"
+#~ "ていつでもセッションを保存できるようになります。次回の起動時には、保存した"
+#~ "ときに稼動していたアプリケーションが復元されます。</li><li>空のセッション"
+#~ "で起動: 何も保存しません。次回のセッションは空のデスクトップで開始されま"
+#~ "す。</li></ul></qt>"
+
+#, kde-format
+#~ msgid "On Login"
+#~ msgstr "ログイン時"
+
+#, kde-format
+#~ msgid "Restore &previous session"
+#~ msgstr "前回のセッションを復元(&P)"
+
+#, kde-format
+#~ msgid "Restore &manually saved session"
+#~ msgstr "手動で保存したセッションを復元(&M)"
+
+#, kde-format
+#~ msgid "Start with an empty &session"
+#~ msgstr "空のセッションで開始(&S)"
+
+#, kde-format
+#~ msgid "Applications to be e&xcluded from sessions:"
+#~ msgstr "セッションから除外するアプリケーション(&X):"
+
+#~ msgid "Default Shutdown Option"
+#~ msgstr "デフォルトのシャットダウンオプション"
+
+#~ msgid ""
+#~ "The new window manager will be used when KDE is started the next time."
+#~ msgstr "新しいウィンドウマネージャは KDE の次回起動時に使用されます。"
+
+#~ msgid "Window manager change"
+#~ msgstr "ウィンドウマネージャの変更"
+
+#~ msgid "KWin (KDE default)"
+#~ msgstr "KWin (KDE 標準)"
+
+#~ msgid "Window Manager"
+#~ msgstr "ウィンドウマネージャ"
+
+#~ msgid "Advanced"
+#~ msgstr "詳細オプション"
+
+#~ msgid ""
+#~ "Here you can enter a comma-separated list of applications that should not "
+#~ "be saved in sessions, and therefore will not be started when restoring a "
+#~ "session. For example 'xterm,xconsole'."
+#~ msgstr ""
+#~ "ここにはセッションに保存しないアプリケーションを “xterm,xconsole” のように"
+#~ "コンマで区切って入力します。指定されたアプリケーションはセッションを復元す"
+#~ "るときに起動しません。"

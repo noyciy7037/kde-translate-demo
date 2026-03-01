@@ -1,0 +1,1905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE glossary SYSTEM "divergloss.dtd">
+
+<!-- Glossary key (the id attribute) is used by various tools
+     e.g. to derive file names, so keep it reasonable.
+     Glossary default language is given by a key (language code recommended),
+     in the lang attribute, which must be defined in key definitions. -->
+<glossary id="kdegloss" lang="ja">
+
+  <metadata>
+    <!-- Title of the glossary. -->
+    <title>KDE 用語集</title>
+  </metadata>
+
+  <!-- Definitions of various keys used in the glossary. -->
+  <keydefs>
+    <languages>
+      <!-- Unique key, name and short name of each language. -->
+      <language id="en">
+        <name>英語</name>
+        <shortname>英</shortname>
+      </language>
+      <language id="ja">
+        <name>日本語</name>
+        <shortname>日</shortname>
+      </language>
+    </languages>
+  </keydefs>
+
+  <!-- Concepts.
+       Each concept requires only a unique key in the id attribute, but
+       minimalistically it should additionally have some terms that name it,
+       possibly a description too. Descriptions can reference other
+       concepts using in-text <ref c="key">...</ref> markup. -->
+  <concepts>
+
+  <!-- Standard Actions -->
+
+    <concept id="copy">
+      <term lang="en">Copy</term>
+      <term>コピー</term>
+    </concept>
+
+    <concept id="paste">
+      <term lang="en">Paste</term>
+      <term>貼り付け</term>
+    </concept>
+
+    <concept id="cut">
+      <term lang="en">Cut</term>
+      <term>切り取り</term>
+    </concept>
+
+    <concept id="insert">
+      <term lang="en">Insert</term>
+      <term>挿入</term>
+    </concept>
+
+    <concept id="replace">
+      <term lang="en">Replace</term>
+      <term>置換</term>
+    </concept>
+
+    <concept id="undo">
+      <term lang="en">Undo</term>
+      <term>元に戻す</term>
+    </concept>
+
+    <concept id="redo">
+      <term lang="en">Redo</term>
+      <term>やり直す</term>
+    </concept>
+
+    <concept id="rename">
+      <term lang="en">Rename</term>
+      <term>名前変更</term>
+    </concept>
+
+    <concept id="create_new">
+      <term lang="en">Create New</term>
+      <term>新規作成</term>
+    </concept>
+
+    <concept id="edit">
+      <term lang="en">Edit</term>
+      <term>編集</term>
+    </concept>
+
+    <concept id="save">
+      <term lang="en">Save</term>
+      <term>保存</term>
+    </concept>
+
+    <concept id="save_as">
+      <desc>ファイルや要素を新しい名前で保存します。原文に目的語が明示されている場合は「名前を付けてリンクを保存」のようにしています。</desc>
+      <term lang="en">Save As...</term>
+      <term>名前を付けて保存...</term>
+    </concept>
+
+    <concept id="overwrite">
+      <term lang="en">Overwrite</term>
+      <term>上書き</term>
+    </concept>
+
+    <concept id="delete">
+      <term lang="en">Delete</term>
+      <term>削除</term>
+    </concept>
+
+    <concept id="stop">
+      <term lang="en">Stop</term>
+      <term>停止</term>
+    </concept>
+
+    <concept id="pause">
+      <term lang="en">Pause</term>
+      <term>一時停止</term>
+    </concept>
+
+    <concept id="abort">
+      <term lang="en">Abort</term>
+      <term>中止</term>
+    </concept>
+
+    <concept id="open">
+      <term lang="en">Open...</term>
+      <term>開く...</term>
+    </concept>
+
+    <concept id="close">
+      <term lang="en">Close</term>
+      <term>閉じる</term>
+    </concept>
+
+    <concept id="quit">
+      <term lang="en">Quit</term>
+      <term>終了</term>
+    </concept>
+
+    <concept id="select_all">
+      <term lang="en">Select All</term>
+      <term>すべて選択</term>
+    </concept>
+
+    <concept id="deselect">
+      <term lang="en">Deselect</term>
+      <term>選択解除</term>
+    </concept>
+
+    <concept id="deselect_all">
+      <term lang="en">Deselect All</term>
+      <term>すべて選択解除</term>
+    </concept>
+
+    <concept id="invert_selection">
+      <term lang="en">Invert Selection</term>
+      <term>選択反転</term>
+    </concept>
+
+    <concept id="cancel">
+      <term lang="en">Cancel</term>
+      <term>キャンセル</term>
+    </concept>
+
+    <concept id="reset">
+      <term lang="en">Reset</term>
+      <term>リセット</term>
+    </concept>
+
+    <concept id="apply">
+      <desc>変更を適用します。</desc>
+      <term lang="en">Apply</term>
+      <term>適用</term>
+    </concept>
+
+    <concept id="discard">
+      <desc>変更を破棄します。</desc>
+      <term lang="en">Discard</term>
+      <term>破棄</term>
+    </concept>
+
+    <concept id="discard_changes">
+      <desc>変更を破棄します。</desc>
+      <term lang="en">Discard Changes</term>
+      <term>変更を破棄</term>
+    </concept>
+
+    <concept id="defaults">
+      <desc>設定ページのすべての項目を標準の値に戻します。</desc>
+      <term lang="en">Defaults</term>
+      <term>標準設定</term>
+    </concept>
+
+    <concept id="reset_to_defaults">
+      <term lang="en">Reset to Defaults</term>
+      <term>標準設定に戻す</term>
+    </concept>
+
+    <concept id="clear">
+      <term lang="en">Clear</term>
+      <term>クリア</term>
+    </concept>
+
+    <concept id="maximize">
+      <term lang="en">Maximize</term>
+      <term>最大化</term>
+    </concept>
+
+    <concept id="minimize">
+      <term lang="en">Minimize</term>
+      <term>最小化</term>
+    </concept>
+
+    <concept id="restore">
+      <term lang="en">Restore</term>
+      <term>復元</term>
+    </concept>
+
+    <concept id="import">
+      <term lang="en">import</term>
+      <term>インポート</term>
+    </concept>
+
+    <concept id="export">
+      <term lang="en">export</term>
+      <term>エクスポート</term>
+    </concept>
+
+    <concept id="move_to_trash">
+      <term lang="en">Move to Trash</term>
+      <term>ごみ箱に移動</term>
+    </concept>
+
+    <concept id="empty_trash">
+      <term lang="en">Empty Trash</term>
+      <term>ごみ箱を空にする</term>
+    </concept>
+
+    <concept id="copy_here">
+      <term lang="en">Copy Here</term>
+      <term>ここにコピー</term>
+    </concept>
+
+    <concept id="move_here">
+      <term lang="en">Move Here</term>
+      <term>ここに移動</term>
+    </concept>
+
+    <concept id="link_here">
+      <term lang="en">Link Here</term>
+      <term>ここにリンク</term>
+    </concept>
+
+    <concept id="move_up">
+      <desc>選択したアイテムをリストの上位へ移動</desc>
+      <term lang="en">Move Up</term>
+      <term>上へ移動</term>
+    </concept>
+
+    <concept id="move_down">
+      <desc>選択したアイテムをリストの下位へ移動</desc>
+      <term lang="en">Move Down</term>
+      <term>下へ移動</term>
+    </concept>
+
+    <concept id="clear_text_action">
+      <term lang="en">Clear Text</term>
+      <term>テキストをクリア</term>
+    </concept>
+
+    <concept id="search">
+      <term lang="en">Search</term>
+      <term>検索</term>
+    </concept>
+
+    <concept id="find">
+      <term lang="en">Find</term>
+      <term>検索</term>
+    </concept>
+
+    <concept id="find_next">
+      <term lang="en">Find Next</term>
+      <term>次を検索</term>
+    </concept>
+
+    <concept id="find_previous">
+      <term lang="en">Find Previous</term>
+      <term>前を検索</term>
+    </concept>
+
+    <concept id="find_prev">
+      <term lang="en">Find Prev</term>
+      <term>前を検索</term>
+    </concept>
+
+    <concept id="print">
+      <term lang="en">Print...</term>
+      <term>印刷...</term>
+    </concept>
+
+    <concept id="print_preview">
+      <term lang="en">Print Preview</term>
+      <term>印刷プレビュー</term>
+    </concept>
+
+    <concept id="play">
+      <desc>音声や動画などのメディアファイルを再生</desc>
+      <term lang="en">Play</term>
+      <term>再生</term>
+    </concept>
+
+    <concept id="play2">
+      <desc>ゲームをプレイ</desc>
+      <term lang="en">Play</term>
+      <term>プレイ</term>
+    </concept>
+
+    <concept id="collapse_all">
+      <desc>すべてのツリーをたたみます。</desc>
+      <term lang="en">Collapse All</term>
+      <term>すべてたたむ</term>
+    </concept>
+
+    <concept id="expand_all">
+      <desc>すべてのツリーを展開します。</desc>
+      <term lang="en">Expand All</term>
+      <term>すべて展開</term>
+    </concept>
+
+    <concept id="volume_up">
+      <term lang="en">Volume Up</term>
+      <term>音量を上げる</term>
+    </concept>
+
+    <concept id="volume_down">
+      <term lang="en">Volume Down</term>
+      <term>音量を下げる</term>
+    </concept>
+
+    <concept id="increase_volume">
+      <term lang="en">Increase Volume</term>
+      <term>音量を上げる</term>
+    </concept>
+
+    <concept id="decrease_volume">
+      <term lang="en">Decrease Volume</term>
+      <term>音量を下げる</term>
+    </concept>
+
+    <concept id="open_with">
+      <term lang="en">Open With...</term>
+      <term>アプリケーションで開く...</term>
+    </concept>
+
+    <concept id="reload">
+      <term lang="en">Reload</term>
+      <term>再読み込み</term>
+    </concept>
+
+    <concept id="forward">
+      <desc>閲覧履歴や移動履歴の一つ先へ進む</desc>
+      <term lang="en">Forward</term>
+      <term>進む</term>
+    </concept>
+
+    <concept id="forward2">
+      <desc>メッセージを転送</desc>
+      <term lang="en">Forward</term>
+      <term>転送</term>
+    </concept>
+
+    <concept id="forward3">
+      <desc>ポートをフォワード</desc>
+      <term lang="en">Forward</term>
+      <term>フォワード</term>
+    </concept>
+
+    <concept id="back">
+      <desc>閲覧履歴や移動履歴の一つ前に戻る</desc>
+      <term lang="en">Back</term>
+      <term>戻る</term>
+    </concept>
+
+    <concept id="next">
+      <term lang="en">Next</term>
+      <term>次へ</term>
+    </concept>
+
+    <concept id="previous">
+      <term lang="en">Previous</term>
+      <term>前へ</term>
+    </concept>
+
+    <concept id="up">
+      <desc>上位フォルダへ移動</desc>
+      <term lang="en">Up</term>
+      <term>上へ</term>
+    </concept>
+
+    <concept id="up2">
+      <desc>選択したアイテムをリストの上位へ移動 (Move Up)</desc>
+      <term lang="en">Up</term>
+      <term>上へ</term>
+    </concept>
+
+    <concept id="down">
+      <desc>選択したアイテムをリストの下位へ移動 (Move Down)</desc>
+      <term lang="en">Down</term>
+      <term>下へ</term>
+    </concept>
+
+    <concept id="enlarge_font">
+      <term lang="en">Enlarge Font</term>
+      <term>フォントサイズを大きく</term>
+    </concept>
+
+    <concept id="shrink_font">
+      <term lang="en">Shrink Font</term>
+      <term>フォントサイズを小さく</term>
+    </concept>
+
+    <concept id="increase_font_size">
+      <term lang="en">Increase Font Size</term>
+      <term>フォントサイズを大きく</term>
+    </concept>
+
+    <concept id="decrease_font_size">
+      <term lang="en">Decrease Font Size</term>
+      <term>フォントサイズを小さく</term>
+    </concept>
+
+    <concept id="fit_to_page">
+      <term lang="en">Fit to Page</term>
+      <term>ページに合わせる</term>
+    </concept>
+
+    <concept id="fit_to_width">
+      <term lang="en">Fit to Width</term>
+      <term>幅に合わせる</term>
+    </concept>
+
+    <concept id="fit_to_height">
+      <term lang="en">Fit to Height</term>
+      <term>高さに合わせる</term>
+    </concept>
+
+    <concept id="fit_to_selection">
+      <term lang="en">Fit to Selection</term>
+      <term>選択範囲に合わせる</term>
+    </concept>
+
+    <concept id="snap_to_grid">
+      <term lang="en">Snap to Grid</term>
+      <term>グリッドに合わせる</term>
+    </concept>
+
+    <concept id="browse">
+      <desc>ファイル選択ダイアログを開くボタンまたはメニュー項目。ファイルシステムをブラウズしてファイルやフォルダを選択します。</desc>
+      <term lang="en">Browse...</term>
+      <term>ブラウズ...</term>
+    </concept>
+
+    <!-- UI Elements -->
+
+    <concept id="widget">
+      <term lang="en">widget</term>
+      <term>ウィジェット</term>
+    </concept>
+
+    <concept id="main_window">
+      <term lang="en">main window</term>
+      <term>メインウィンドウ</term>
+    </concept>
+
+    <concept id="main_toolbar">
+      <term lang="en">main toolbar</term>
+      <term>メインツールバー</term>
+    </concept>
+
+    <concept id="statusbar">
+      <term lang="en">statusbar</term>
+      <term>ステータスバー</term>
+    </concept>
+
+    <concept id="location_bar">
+      <term lang="en">location bar</term>
+      <term>場所バー</term>
+    </concept>
+
+    <concept id="progress_bar">
+      <term lang="en">progress bar</term>
+      <term>進捗バー</term>
+    </concept>
+
+    <concept id="extra_toolbar">
+      <term lang="en">extra toolbar</term>
+      <term>拡張ツールバー</term>
+    </concept>
+
+    <concept id="format_toolbar">
+      <term lang="en">format toolbar</term>
+      <term>書式ツールバー</term>
+    </concept>
+
+    <concept id="search_bar">
+      <term lang="en">search bar</term>
+      <term>検索バー</term>
+    </concept>
+
+    <concept id="filter_bar">
+      <term lang="en">filter bar</term>
+      <term>フィルタバー</term>
+    </concept>
+
+    <concept id="title_bar">
+      <term lang="en">title bar</term>
+      <term>タイトルバー</term>
+    </concept>
+
+    <concept id="tab_bar">
+      <term lang="en">tab bar</term>
+      <term>タブバー</term>
+    </concept>
+
+    <concept id="file_dialog">
+      <desc>ファイルを選択するためのダイアログボックス</desc>
+      <term lang="en">file dialog</term>
+      <term>ファイル選択ダイアログ</term>
+    </concept>
+
+    <concept id="color_dialog">
+      <desc>色を選択するためのダイアログボックス</desc>
+      <term lang="en">color dialog</term>
+      <term>色選択ダイアログ</term>
+    </concept>
+
+    <concept id="password_dialog">
+      <desc>パスワードの入力を促すダイアログボックス</desc>
+      <term lang="en">password dialog</term>
+      <term>パスワード入力ダイアログ</term>
+    </concept>
+
+    <concept id="system_tray">
+      <term lang="en">system tray</term>
+      <term>システムトレイ</term>
+    </concept>
+
+    <concept id="context_menu">
+      <term lang="en">context menu</term>
+      <term>コンテキストメニュー</term>
+    </concept>
+
+    <concept id="tooltip">
+      <term lang="en">tooltip</term>
+      <term>ツールチップ</term>
+    </concept>
+
+    <concept id="scroll_bar">
+      <term lang="en">scroll bar</term>
+      <term>スクロールバー</term>
+    </concept>
+
+    <!-- Applications -->
+
+    <concept id="file_manager">
+      <term lang="en">file manager</term>
+      <term>ファイルマネージャ</term>
+    </concept>
+
+    <concept id="web_browser">
+      <term lang="en">web browser</term>
+      <term>ウェブブラウザ</term>
+    </concept>
+
+    <concept id="mail_client">
+      <term lang="en">mail client</term>
+      <term>メールクライアント</term>
+    </concept>
+
+    <concept id="instant_messenger">
+      <term lang="en">instant messenger</term>
+      <term>インスタントメッセンジャー</term>
+    </concept>
+
+    <concept id="media_player">
+      <desc>コンピュータ上で音楽や映像を再生するためのアプリケーション</desc>
+      <term lang="en">media player</term>
+      <term>メディアプレーヤー</term>
+    </concept>
+
+    <concept id="ripper">
+      <desc>DVD や音楽 CD のデジタルデータをパソコンに取り込むためのツール</desc>
+      <term lang="en">ripper</term>
+      <term>リッパー</term>
+    </concept>
+
+    <concept id="text_editor">
+      <term lang="en">text editor</term>
+      <term>テキストエディタ</term>
+    </concept>
+
+    <concept id="hex_editor">
+      <term lang="en">hex editor</term>
+      <term>バイナリエディタ</term>
+    </concept>
+
+    <concept id="address_book">
+      <term lang="en">address book</term>
+      <term>アドレス帳</term>
+    </concept>
+
+    <concept id="screen_ruler">
+      <term lang="en">screen ruler</term>
+      <term>スクリーンルーラー</term>
+    </concept>
+
+    <concept id="terminal">
+      <term lang="en">terminal</term>
+      <term>ターミナル</term>
+    </concept>
+
+    <concept id="terminal_emulator">
+      <term lang="en">terminal emulator</term>
+      <term>ターミナルエミュレータ</term>
+    </concept>
+
+    <concept id="archiver">
+      <desc><ref c="archive">アーカイブ</ref>を行うソフトウェア</desc>
+      <term lang="en">archiver</term>
+      <term>アーカイバ</term>
+    </concept>
+
+    <concept id="viewer">
+      <term lang="en">viewer</term>
+      <term>ビューア</term>
+    </concept>
+
+    <concept id="launcher">
+      <desc>プログラムを呼び出すためのソフトウェア</desc>
+      <term lang="en">launcher</term>
+      <term>ランチャー</term>
+    </concept>
+
+    <concept id="switcher">
+      <desc>ウィンドウスイッチャー、デスクトップスイッチャーなど</desc>
+      <term lang="en">switcher</term>
+      <term>スイッチャー</term>
+    </concept>
+
+    <concept id="systemsettings">
+      <desc>KDE3 のコントロールセンターに相当するもの。日本語の場合は単語の先頭を大文字にすることで固有名詞と普通名詞を区別することができないので、前に KDE を付けています。</desc>
+      <term lang="en">System Settings</term>
+      <term>KDE システム設定</term>
+    </concept>
+
+    <concept id="color_picker">
+      <desc>色を採取するツール</desc>
+      <term lang="en">color picker</term>
+      <term>カラーピッカー</term>
+    </concept>
+
+    <concept id="parser">
+      <desc>構文解析を行うプログラム</desc>
+      <term lang="en">parser</term>
+      <term>パーサ</term>
+    </concept>
+
+    <concept id="wizard">
+      <desc>複雑な設定やタスクを対話形式で順を追って行うユーティリティ。cf. <ref c="assistant">assistant</ref></desc>
+      <term lang="en">wizard</term>
+      <term>ウィザード</term>
+    </concept>
+
+    <concept id="assistant">
+      <desc>複雑な設定やタスクを対話形式で順を追って行うユーティリティ。KDE では Windows で使われている <ref c="wizard">wizard</ref> ではなく Mac OS X で使われている assistant という用語を採用することになったようですが、実際にはまだあまり使われていないのと、日本語でも「アシスタント」より「ウィザード」の方が一般的だと思われるので、今のところは「ウィザード」と訳しています。Krita の Ruler Assistant のようにウィザードではないものもあるので注意が必要です。</desc>
+      <term lang="en">assistant</term>
+      <term>ウィザード</term>
+    </concept>
+
+    <concept id="assistant2">
+      <desc>助手、補佐</desc>
+      <term lang="en">assistant</term>
+      <term>アシスタント</term>
+    </concept>
+
+    <!-- Other terms -->
+
+    <concept id="file_format">
+      <term lang="en">file format</term>
+      <term>ファイルフォーマット</term>
+    </concept>
+
+    <concept id="file_size">
+      <term lang="en">file size</term>
+      <term>ファイルサイズ</term>
+    </concept>
+
+    <concept id="temporary_file">
+      <term lang="en">temporary file</term>
+      <term>一時ファイル</term>
+    </concept>
+
+    <concept id="hidden_file">
+      <term lang="en">hidden file</term>
+      <term>隠しファイル</term>
+    </concept>
+
+    <concept id="view_mode">
+      <term lang="en">view mode</term>
+      <term>表示モード</term>
+    </concept>
+
+    <concept id="tree_view">
+      <desc>表示モード</desc>
+      <term lang="en">tree view</term>
+      <term>ツリー表示</term>
+    </concept>
+
+    <concept id="tree_view2">
+      <desc>ウィジェットの種類</desc>
+      <term lang="en">tree view</term>
+      <term>ツリービュー</term>
+    </concept>
+
+    <concept id="flat_view">
+      <desc>表示モード</desc>
+      <term lang="en">flat view</term>
+      <term>フラット表示</term>
+    </concept>
+
+    <concept id="fullscreen">
+      <term lang="en">fullscreen</term>
+      <term>フルスクリーン</term>
+    </concept>
+
+    <concept id="fixed_font">
+      <term lang="en">fixed font</term>
+      <term>固定幅フォント</term>
+    </concept>
+
+    <concept id="fixed_width_font">
+      <term lang="en">fixed width font</term>
+      <term>固定幅フォント</term>
+    </concept>
+
+    <concept id="bold">
+      <desc>フォントスタイル</desc>
+      <term lang="en">bold</term>
+      <term>ボールド</term>
+    </concept>
+
+    <concept id="italic">
+      <desc>フォントスタイル</desc>
+      <term lang="en">italic</term>
+      <term>イタリック</term>
+    </concept>
+
+    <concept id="oblique">
+      <desc>フォントスタイル</desc>
+      <term lang="en">oblique</term>
+      <term>オブリック</term>
+    </concept>
+
+    <concept id="underline">
+      <desc>テキスト装飾</desc>
+      <term lang="en">underline</term>
+      <term>下線</term>
+    </concept>
+
+    <concept id="strikeout">
+      <desc>テキスト装飾</desc>
+      <term lang="en">strikeout</term>
+      <term>取り消し線</term>
+    </concept>
+
+    <concept id="encryption_key">
+      <term lang="en">encryption key</term>
+      <term>暗号化鍵</term>
+    </concept>
+
+    <concept id="signing_key">
+      <term lang="en">signing key</term>
+      <term>署名鍵</term>
+    </concept>
+
+    <concept id="decryption_key">
+      <term lang="en">decryption key</term>
+      <term>復号鍵</term>
+    </concept>
+
+    <concept id="finger_print">
+      <term lang="en">finger print</term>
+      <term>フィンガープリント</term>
+    </concept>
+
+    <concept id="CA">
+      <desc>他者に対して電子証明書を発行する権限を持つ機関 (CA)</desc>
+      <term lang="en">certificate authority</term>
+      <term>認証局</term>
+    </concept>
+
+    <concept id="CRL">
+      <desc>認証局が管理する、失効した電子証明書のリスト (CRL)</desc>
+      <term lang="en">certificate revocation list</term>
+      <term>証明書失効リスト</term>
+    </concept>
+
+    <concept id="public_key">
+      <term lang="en">public key</term>
+      <term>公開鍵</term>
+    </concept>
+
+    <concept id="private_key">
+      <term lang="en">private key</term>
+      <term>秘密鍵</term>
+    </concept>
+
+    <concept id="secret_key">
+      <term lang="en">secret key</term>
+      <term>秘密鍵</term>
+    </concept>
+
+    <concept id="key_pair">
+      <desc>秘密鍵とそれに対応する公開鍵</desc>
+      <term lang="en">key pair</term>
+      <term>鍵ペア</term>
+    </concept>
+
+    <concept id="email_address">
+      <term lang="en">email address</term>
+      <term>メールアドレス</term>
+    </concept>
+
+    <concept id="wep_key">
+      <term lang="en">WEP key</term>
+      <term>WEP キー</term>
+    </concept>
+
+    <concept id="security">
+      <term lang="en">security</term>
+      <term>セキュリティ</term>
+      <term>安全</term>
+      <term>安全性</term>
+    </concept>
+
+    <concept id="spam">
+      <term lang="en">spam</term>
+      <term>スパム</term>
+    </concept>
+
+    <concept id="virus">
+      <term lang="en">virus</term>
+      <term>ウイルス</term>
+    </concept>
+
+    <concept id="firewall">
+      <term lang="en">firewall</term>
+      <term>ファイアウォール</term>
+    </concept>
+
+    <concept id="mount">
+      <term lang="en">mount</term>
+      <term>マウント</term>
+    </concept>
+
+    <concept id="unmount">
+      <term lang="en">unmount</term>
+      <term>アンマウント</term>
+    </concept>
+
+    <concept id="mount_point">
+      <term lang="en">mount point</term>
+      <term>マウントポイント</term>
+    </concept>
+
+    <concept id="read_only">
+      <term lang="en">read only</term>
+      <term>読み取り専用</term>
+    </concept>
+
+    <concept id="aspect_ratio">
+      <desc>画面や画像の縦横の長さの比</desc>
+      <term lang="en">aspect ratio</term>
+      <term>アスペクト比</term>
+    </concept>
+
+    <concept id="player">
+      <desc>音楽や映像を再生するための機器、<ref c="media_player">メディアプレーヤー</ref></desc>
+      <term lang="en">player</term>
+      <term>プレーヤー</term>
+    </concept>
+
+    <concept id="player2">
+      <desc>ゲームの参加者</desc>
+      <term lang="en">player</term>
+      <term>プレイヤー</term>
+    </concept>
+
+    <concept id="case_sensitive">
+      <desc>検索のオプション</desc>
+      <term lang="en">case sensitive</term>
+      <term>大文字と小文字を区別</term>
+    </concept>
+
+    <concept id="whole_words_only">
+      <desc>検索のオプション。文字列の両端に単語境界がある場合にのみマッチします。"file" は "files" にマッチしません。</desc>
+      <term lang="en">whole words only</term>
+      <term>単語単位</term>
+    </concept>
+
+    <concept id="from_cursor">
+      <desc>検索やスペルチェックのオプション</desc>
+      <term lang="en">from cursor</term>
+      <term>カーソル位置から</term>
+    </concept>
+
+    <concept id="thumbnail">
+      <term lang="en">thumbnail</term>
+      <term>サムネイル</term>
+    </concept>
+
+    <concept id="template">
+      <term lang="en">template</term>
+      <term>テンプレート</term>
+    </concept>
+
+    <concept id="threshold">
+      <term lang="en">threshold</term>
+      <term>しきい値</term>
+    </concept>
+
+    <concept id="property">
+      <term lang="en">property</term>
+      <term>プロパティ</term>
+    </concept>
+
+    <concept id="parameter">
+      <ldesc>
+        <para>関数やサブルーチンが呼び出されたときに渡されるであろう実<ref c="argument">引数</ref>に名前を付けて定義内で変数として扱えるようにしたもの。仮引数 (formal argument)。</para>
+	<para>例: square(x) = x * x の x</para>
+	<para>実際には argument と parameter は厳密に使い分けされていないようです。</para>
+      </ldesc>
+      <term lang="en">parameter</term>
+      <term>パラメータ</term>
+    </concept>
+
+    <concept id="argument">
+      <ldesc>
+        <para>関数やサブルーチンが呼び出されたときに<ref c="parameter">パラメータ</ref>に代入される実際の値や参照。実引数 (actual argument)。</para>
+	<para>例: y = square(3+5) の 3+5</para>
+	<para>実際には argument と parameter は厳密に使い分けされていないようです。</para>
+      </ldesc>
+      <term lang="en">argument</term>
+      <term>引数</term>
+    </concept>
+
+    <concept id="argument2">
+      <desc>複素数 (complex number) の偏角</desc>
+      <term lang="en">argument</term>
+      <term>偏角</term>
+    </concept>
+
+    <concept id="variable">
+      <term lang="en">variable</term>
+      <term>変数</term>
+    </concept>
+
+    <concept id="variable2">
+      <term lang="en">variable</term>
+      <term>可変</term>
+    </concept>
+
+    <concept id="variable3">
+      <desc>明るさが変化する恒星 (variable star)</desc>
+      <term lang="en">variable</term>
+      <term>変光星</term>
+    </concept>
+
+    <concept id="environment_variable">
+      <term lang="en">environment variable</term>
+      <term>環境変数</term>
+    </concept>
+
+    <concept id="variable_bitrate">
+      <term lang="en">variable bitrate</term>
+      <term>可変ビットレート</term>
+    </concept>
+
+    <concept id="constant_bitrate">
+      <term lang="en">constant bitrate</term>
+      <term>固定ビットレート</term>
+    </concept>
+
+    <concept id="attribute">
+      <term lang="en">attribute</term>
+      <term>属性</term>
+    </concept>
+
+    <concept id="value">
+      <term lang="en">value</term>
+      <term>値</term>
+    </concept>
+
+    <concept id="element">
+      <desc>GUI や XML の要素</desc>
+      <term lang="en">element</term>
+      <term>要素</term>
+    </concept>
+
+    <concept id="element2">
+      <desc>化学元素</desc>
+      <term lang="en">element</term>
+      <term>元素</term>
+    </concept>
+
+    <concept id="value2">
+      <desc>色相 (Hue)、彩度 (Saturation) とともに HSV カラースペースを構成する要素。色の明るさ。</desc>
+      <term lang="en">value</term>
+      <term>明度</term>
+    </concept>
+
+    <concept id="hue">
+      <desc>赤、青、黄色のような色の種類</desc>
+      <term lang="en">hue</term>
+      <term>色相</term>
+    </concept>
+
+    <concept id="saturation">
+      <desc>色の鮮かさ、純度</desc>
+      <term lang="en">saturation</term>
+      <term>彩度</term>
+    </concept>
+
+    <concept id="color_space">
+      <term lang="en">color space</term>
+      <term>カラースペース</term>
+    </concept>
+
+    <concept id="command_line">
+      <term lang="en">command line</term>
+      <term>コマンドライン</term>
+    </concept>
+
+    <concept id="return_value">
+      <term lang="en">return value</term>
+      <term>戻り値</term>
+    </concept>
+
+    <concept id="interface">
+      <term lang="en">interface</term>
+      <term>インターフェース</term>
+    </concept>
+
+    <concept id="user">
+      <term lang="en">user</term>
+      <term>ユーザ</term>
+    </concept>
+
+    <concept id="server">
+      <term lang="en">server</term>
+      <term>サーバ</term>
+    </concept>
+
+    <concept id="column">
+      <desc>リストや表計算シートなどの縦方向の列</desc>
+      <term lang="en">column</term>
+      <term>カラム</term>
+      <term>列</term>
+    </concept>
+
+    <concept id="line_number">
+      <term lang="en">line number</term>
+      <term>行番号</term>
+    </concept>
+
+    <concept id="end_of_line">
+      <term lang="en">end of line</term>
+      <term>行末</term>
+    </concept>
+
+    <concept id="end_of_line2">
+      <desc>コンピュータにおいて、行の終端を表す文字コード</desc>
+      <term lang="en">end of line</term>
+      <term>改行コード</term>
+    </concept>
+
+    <concept id="newline">
+      <term lang="en">newline</term>
+      <term>改行</term>
+    </concept>
+
+    <concept id="line_break">
+      <term lang="en">line break</term>
+      <term>改行</term>
+    </concept>
+
+    <concept id="screen_saver">
+      <term lang="en">screen saver</term>
+      <term>スクリーンセーバー</term>
+    </concept>
+
+    <concept id="playlist">
+      <term lang="en">playlist</term>
+      <term>プレイリスト</term>
+    </concept>
+
+    <concept id="accessibility">
+      <term lang="en">accessibility</term>
+      <term>アクセシビリティ</term>
+    </concept>
+
+    <concept id="mime_type">
+      <term lang="en">MIME type</term>
+      <term>MIME タイプ</term>
+    </concept>
+
+    <concept id="filename">
+      <term lang="en">filename</term>
+      <term>ファイル名</term>
+    </concept>
+
+    <concept id="username">
+      <term lang="en">username</term>
+      <term>ユーザ名</term>
+    </concept>
+
+    <concept id="plain_text">
+      <desc>文字の色や形状などの情報を含まず、純粋にテキストのみで構成されるデータ</desc>
+      <term lang="en">plain text</term>
+      <term>プレーンテキスト</term>
+    </concept>
+
+    <concept id="plain_text2">
+      <desc>暗号化されていないデータ</desc>
+      <term lang="en">plain text</term>
+      <term>平文</term>
+    </concept>
+
+    <concept id="clear_text">
+      <desc>暗号化されていないデータ</desc>
+      <term lang="en">clear text</term>
+      <term>平文</term>
+    </concept>
+
+    <concept id="extension">
+      <desc>ファイル名の末尾に付けられたファイルフォーマットを識別するための文字列</desc>
+      <term lang="en">extension</term>
+      <term>拡張子</term>
+    </concept>
+
+    <concept id="extension2">
+      <desc>既存の機能を強化・改良する付加的なプログラムやパッケージ</desc>
+      <term lang="en">extension</term>
+      <term>エクステンション</term>
+      <term>拡張機能</term>
+    </concept>
+
+    <concept id="utility">
+      <term lang="en">utility</term>
+      <term>ユーティリティ</term>
+    </concept>
+
+    <concept id="drag_and_drop">
+      <term lang="en">drag and drop</term>
+      <term>ドラッグ＆ドロップ</term>
+    </concept>
+
+    <concept id="time_zone">
+      <term lang="en">time zone</term>
+      <term>タイムゾーン</term>
+    </concept>
+
+    <concept id="bookmark">
+      <term lang="en">bookmark</term>
+      <term>ブックマーク</term>
+    </concept>
+
+    <concept id="raw_image">
+      <desc>デモザイク処理されていないデジタルカメラの生の画像データ</desc>
+      <term lang="en">Raw image</term>
+      <term>RAW 画像</term>
+    </concept>
+
+    <concept id="sort">
+      <term lang="en">sort</term>
+      <term>ソート</term>
+    </concept>
+
+    <concept id="descending">
+      <desc>ソートのオプション (Z → A)</desc>
+      <term lang="en">descending</term>
+      <term>降順</term>
+    </concept>
+
+    <concept id="ascending">
+      <desc>ソートのオプション (A → Z)</desc>
+      <term lang="en">ascending</term>
+      <term>昇順</term>
+    </concept>
+
+    <concept id="appearance">
+      <term lang="en">appearance</term>
+      <term>外観</term>
+    </concept>
+
+    <concept id="space">
+      <desc>ラテン文字、ギリシャ文字、キリル文字などにおいて、語と語の区切りを表すために空ける空白</desc>
+      <term lang="en">space</term>
+      <term>スペース</term>
+    </concept>
+
+    <concept id="space2">
+      <desc>ディスク領域、スワップ領域、メモリ領域など</desc>
+      <term lang="en">space</term>
+      <term>領域</term>
+    </concept>
+
+    <concept id="space3">
+      <term lang="en">space</term>
+      <term>宇宙</term>
+    </concept>
+
+    <concept id="space4">
+      <desc>空間、場所</desc>
+      <term lang="en">space</term>
+      <term>スペース</term>
+    </concept>
+
+    <concept id="free_space">
+      <term lang="en">free space</term>
+      <term>空き領域</term>
+      <term>空き容量</term>
+    </concept>
+
+    <concept id="delimiter">
+      <desc>データのフィールドを区切るために用いる文字 (スペース、コンマ、タブなど)</desc>
+      <term lang="en">delimiter</term>
+      <term>区切り文字</term>
+    </concept>
+
+    <concept id="delimiter2">
+      <desc>LaTeX の数式に使う括弧その他の記号</desc>
+      <term lang="en">delimiter</term>
+      <term>デリミタ</term>
+    </concept>
+
+    <concept id="proxy">
+      <term lang="en">proxy</term>
+      <term>プロキシ</term>
+    </concept>
+
+    <concept id="resource">
+      <term lang="en">resource</term>
+      <term>リソース</term>
+    </concept>
+
+    <concept id="sample_rate">
+      <term lang="en">sample rate</term>
+      <term>サンプリングレート</term>
+    </concept>
+
+    <concept id="sampling_rate">
+      <term lang="en">sampling rate</term>
+      <term>サンプリングレート</term>
+    </concept>
+
+    <concept id="entity">
+      <term lang="en">entity</term>
+      <term>エンティティ</term>
+    </concept>
+
+    <concept id="request">
+      <term lang="en">request</term>
+      <term>要求</term>
+    </concept>
+
+    <concept id="bandwidth">
+      <term lang="en">bandwidth</term>
+      <term>帯域幅</term>
+    </concept>
+
+    <concept id="working_folder">
+      <term lang="en">working folder</term>
+      <term>作業フォルダ</term>
+    </concept>
+
+    <concept id="working_copy">
+      <term lang="en">working copy</term>
+      <term>作業コピー</term>
+    </concept>
+
+    <concept id="document">
+      <term lang="en">document</term>
+      <term>文書</term>
+    </concept>
+
+    <concept id="document2">
+      <desc>マニュアルやハンドブックなど</desc>
+      <term lang="en">document</term>
+      <term>ドキュメント</term>
+    </concept>
+
+    <concept id="default">
+      <desc>KDE やディストリビューションが推奨する標準的な設定</desc>
+      <term lang="en">default</term>
+      <term>標準</term>
+    </concept>
+
+    <concept id="default2">
+      <desc>ユーザが好みに応じて設定する既定値</desc>
+      <term lang="en">default</term>
+      <term>デフォルト</term>
+    </concept>
+
+    <concept id="default3">
+      <desc>普通の状態</desc>
+      <term lang="en">default</term>
+      <term>通常</term>
+    </concept>
+
+    <concept id="archive">
+      <desc>複数のファイルを一つのファイルにまとめたファイル、またはそれを作成する過程</desc>
+      <term lang="en">archive</term>
+      <term>アーカイブ</term>
+    </concept>
+
+    <concept id="extract">
+      <desc><ref c="archive">アーカイブ</ref>から元のファイルを取り出すこと</desc>
+      <term lang="en">extract</term>
+      <term>展開</term>
+    </concept>
+
+    <concept id="extract2">
+      <term lang="en">extract</term>
+      <term>抽出</term>
+      <term>取り出す</term>
+    </concept>
+
+    <concept id="wallet">
+      <desc>KWallet がパスワードを格納する入れ物</desc>
+      <term lang="en">wallet</term>
+      <term>ウォレット</term>
+    </concept>
+
+    <concept id="attachment">
+      <desc>メールに添付するファイル</desc>
+      <term lang="en">attachment</term>
+      <term>添付ファイル</term>
+    </concept>
+
+    <concept id="fax">
+      <term lang="en">fax</term>
+      <term>ファクス</term>
+    </concept>
+
+    <concept id="font_size">
+      <term lang="en">font size</term>
+      <term>フォントサイズ</term>
+    </concept>
+
+    <concept id="eject">
+      <desc>CD などのメディアをドライブから取り出すこと</desc>
+      <term lang="en">eject</term>
+      <term>イジェクト</term>
+    </concept>
+
+    <concept id="separator">
+      <desc>メニューやツールバーで項目のグループを区切る線</desc>
+      <term lang="en">separator</term>
+      <term>セパレータ</term>
+    </concept>
+
+    <concept id="separator2">
+      <term lang="en">separator</term>
+      <term>区切り</term>
+      <term>区切り文字</term>
+    </concept>
+
+    <concept id="todo">
+      <term lang="en">to-do</term>
+      <term>To-Do</term>
+    </concept>
+
+    <concept id="content">
+      <desc>入れ物の中にあるもの。ファイルやフォルダの内容、クリップボードの中身など。</desc>
+      <term lang="en">content</term>
+      <term>中身</term>
+      <term>内容</term>
+    </concept>
+
+    <concept id="content2">
+      <desc>情報の内容。複合語としては、ウェブコンテンツ、デジタルコンテンツ、アクティブコンテンツ、コンテンツプロバイダなど。</desc>
+      <term lang="en">content</term>
+      <term>コンテンツ</term>
+    </concept>
+
+    <concept id="content3">
+      <desc>table of contents</desc>
+      <term lang="en">content</term>
+      <term>目次</term>
+    </concept>
+
+    <concept id="table_of_contents">
+      <term lang="en">table of contents</term>
+      <term>目次</term>
+    </concept>
+
+    <concept id="pager">
+      <term lang="en">pager</term>
+      <term>ポケットベル</term>
+    </concept>
+
+    <concept id="pager2">
+      <desc>仮想デスクトップを切り替えるためのアプレット。デスクトップページャ。</desc>
+      <term lang="en">pager</term>
+      <term>ページャ</term>
+    </concept>
+
+    <concept id="journal">
+      <desc></desc>
+      <term lang="en">journal</term>
+      <term>日記</term>
+    </concept>
+
+    <concept id="emoticon">
+      <desc>チャットやメールで感情を表現するために用いられる小さな画像</desc>
+      <term lang="en">emoticon</term>
+      <term>感情アイコン</term>
+    </concept>
+
+    <concept id="smiley">
+      <desc>:-) とか :-(</desc>
+      <term lang="en">smiley</term>
+      <term>顔文字</term>
+    </concept>
+
+    <concept id="favicon">
+      <desc>ウェブサイトやウェブページに関連付けられたアイコン</desc>
+      <term lang="en">favicon</term>
+      <term>ファビコン</term>
+    </concept>
+
+    <concept id="avatar">
+      <desc>チャットや掲示板などでユーザが自分の分身として表示させる画像</desc>
+      <term lang="en">avatar</term>
+      <term>アバター</term>
+    </concept>
+
+    <concept id="cookie">
+      <term lang="en">cookie</term>
+      <term>クッキー</term>
+    </concept>
+
+    <concept id="do_not_ask_again">
+      <desc>確認メッセージの表示を無効にするオプション</desc>
+      <term lang="en">Do not ask again</term>
+      <term>次回から確認しない</term>
+    </concept>
+
+      <concept id="do_not_show_this_message_again">
+      <desc>警告などのメッセージの表示を無効にするオプション</desc>
+      <term lang="en">Do not show this message again</term>
+      <term>次回からこのメッセージを表示しない</term>
+    </concept>
+
+    <concept id="preferences">
+      <term lang="en">preferences</term>
+      <term>設定</term>
+    </concept>
+
+    <concept id="syntax">
+      <term lang="en">syntax</term>
+      <term>構文</term>
+      <term>文法</term>
+    </concept>
+
+    <concept id="syntax_error">
+      <term lang="en">syntax error</term>
+      <term>構文エラー</term>
+    </concept>
+
+    <concept id="syntax_highlighting">
+      <term lang="en">syntax highlighting</term>
+      <term>構文強調表示</term>
+    </concept>
+
+    <concept id="parse">
+      <term lang="en">parse</term>
+      <term>解析</term>
+    </concept>
+
+    <concept id="network_failure">
+      <term lang="en">network failure</term>
+      <term>ネットワーク障害</term>
+    </concept>
+
+    <concept id="facing_pages">
+      <desc>文書の表示モード。本を開いたときのように 2 ページを左右に表示します。</desc>
+      <term lang="en">facing pages</term>
+      <term>見開きページ</term>
+    </concept>
+
+    <concept id="monospace">
+      <desc>固定幅フォントの総称、エイリアス名</desc>
+      <term lang="en">monospace</term>
+      <term>モノスペース</term>
+    </concept>
+
+    <concept id="serif">
+      <desc>セリフ (文字のストロークの端に付ける小さな飾り) のあるフォントの総称、エイリアス名</desc>
+      <term lang="en">serif</term>
+      <term>セリフ</term>
+    </concept>
+
+    <concept id="sans_serif">
+      <desc>セリフ (文字のストロークの端に付ける小さな飾り) のないフォントの総称、エイリアス名</desc>
+      <term lang="en">sans serif</term>
+      <term>サンセリフ</term>
+    </concept>
+
+    <concept id="binary">
+      <term lang="en">binary</term>
+      <term>二進</term>
+      <term>二進法</term>
+    </concept>
+
+    <concept id="binary2">
+      <desc>コンピュータが処理するために二進化されたファイル、またはその内部表現の形式</desc>
+      <term lang="en">binary</term>
+      <term>バイナリ</term>
+    </concept>
+
+    <concept id="binary3">
+      <desc><ref c="executable_file">executable file</ref> のこと</desc>
+      <term lang="en">binary</term>
+      <term>実行ファイル</term>
+    </concept>
+
+    <concept id="executable">
+      <desc>executable file のこと</desc>
+      <term lang="en">executable</term>
+      <term>実行ファイル</term>
+    </concept>
+
+    <concept id="executable2">
+      <desc>ファイルのパーミッション、属性</desc>
+      <term lang="en">executable</term>
+      <term>実行可能</term>
+    </concept>
+
+    <concept id="executable_file">
+      <desc>コンピュータがプログラムとして実行できるファイル。executable, executable program, binary とも呼ばれる。</desc>
+      <term lang="en">executable file</term>
+      <term>実行ファイル</term>
+    </concept>
+
+    <concept id="executable_program">
+      <desc>executable file のこと</desc>
+      <term lang="en">executable program</term>
+      <term>実行ファイル</term>
+    </concept>
+
+    <concept id="display">
+      <desc>コンピュータから出力される映像信号を表示する装置 (モニタ)</desc>
+      <term lang="en">display</term>
+      <term>ディスプレイ</term>
+    </concept>
+
+    <concept id="display2">
+      <term lang="en">display</term>
+      <term>表示</term>
+    </concept>
+
+    <concept id="capture">
+      <desc>コンピュータから<ref c="display">ディスプレイ</ref>に送られている映像信号を画像データとして記録すること</desc>
+      <term lang="en">capture</term>
+      <term>キャプチャ</term>
+    </concept>
+
+    <concept id="monitor">
+      <desc>コンピュータから出力される映像信号を表示する装置 (ディスプレイ)</desc>
+      <term lang="en">monitor</term>
+      <term>モニタ</term>
+    </concept>
+
+    <concept id="monitor2">
+      <desc>システムやネットワークなどの状態を監視すること。動詞。</desc>
+      <term lang="en">monitor</term>
+      <term>監視</term>
+    </concept>
+
+    <concept id="monitor3">
+      <desc>システムやネットワークの状態を監視する機能またはソフトウェア</desc>
+      <term lang="en">monitor</term>
+      <term>モニタ</term>
+    </concept>
+
+    <concept id="provider">
+      <desc>商品やサービスを提供する人や会社や物</desc>
+      <term lang="en">provider</term>
+      <term>プロバイダ</term>
+    </concept>
+
+    <concept id="isp">
+      <term lang="en">internet service provider</term>
+      <term>インターネットサービスプロバイダ</term>
+      <term>ISP</term>
+    </concept>
+
+    <concept id="search_provider">
+      <term lang="en">search provider</term>
+      <term>検索プロバイダ</term>
+    </concept>
+
+    <concept id="full_text_search">
+      <desc>ファイル名や見出しなどの特定の要素ではなく、文書に含まれるすべてのデータを検索対象とする検索方法</desc>
+      <term lang="en">full text search</term>
+      <term>全文検索</term>
+    </concept>
+
+    <concept id="desktop_search">
+      <term lang="en">desktop search</term>
+      <term>デスクトップ検索</term>
+    </concept>
+
+    <concept id="index">
+      <term lang="en">index</term>
+      <term>索引</term>
+    </concept>
+
+    <concept id="index2">
+      <desc>検索に用いる索引データ</desc>
+      <term lang="en">index</term>
+      <term>インデックス</term>
+    </concept>
+
+    <concept id="index3">
+      <desc>暑さ指数 (heat index)、肥満度指数 (BMI) など</desc>
+      <term lang="en">index</term>
+      <term>指数</term>
+    </concept>
+
+    <concept id="indexing">
+      <desc>検索を高速化するために検索対象となる文書を事前に走査してインデックスを作成すること</desc>
+      <term lang="en">indexing</term>
+      <term>インデックス作成</term>
+    </concept>
+
+    <concept id="indexer">
+      <desc>検索インデックスを作成するプログラム</desc>
+      <term lang="en">indexer</term>
+      <term>インデクサ</term>
+    </concept>
+
+    <concept id="wireless">
+      <term lang="en">wireless</term>
+      <term>ワイヤレス</term>
+    </concept>
+
+    <concept id="wired">
+      <term lang="en">wired</term>
+      <term>有線</term>
+    </concept>
+
+    <concept id="device">
+      <term lang="en">device</term>
+      <term>デバイス</term>
+    </concept>
+
+    <concept id="storage">
+      <desc>ハードディスク、フラッシュメモリ、光学ディスク、磁気テープなどの記憶装置の総称</desc>
+      <term lang="en">storage</term>
+      <term>ストレージ</term>
+    </concept>
+
+    <concept id="storage2">
+      <term lang="en">storage</term>
+      <term>保存</term>
+    </concept>
+
+    <concept id="osd">
+      <term lang="en">on screen display</term>
+      <term>オンスクリーンディスプレイ</term>
+      <term>OSD</term>
+    </concept>
+
+    <concept id="permission">
+      <desc>ファイルの属性。特定のユーザやグループに対して読み取り、書き込み、実行などのアクセスを許可するかどうかをファイルごとに設定します。</desc>
+      <term lang="en">permission</term>
+      <term>パーミッション</term>
+    </concept>
+
+    <concept id="permission2">
+      <desc>人が主語で "do not have" のような表現に続く場合は「書き込み権限がない」あるいは「する権限がない」のようにしています。cf. <ref c="access2">access</ref></desc>
+      <term lang="en">permission</term>
+      <term>権限</term>
+    </concept>
+
+    <concept id="permission3">
+      <term lang="en">permission</term>
+      <term>許可</term>
+    </concept>
+
+    <concept id="access">
+      <term lang="en">access</term>
+      <term>アクセス</term>
+    </concept>
+
+    <concept id="access2">
+      <desc>人が主語で "do not have read/write" のような表現に続く場合は「書き込み権限がない」あるいは「する権限がない」のようにしています。cf. <ref c="permission2">permission</ref></desc>
+      <term lang="en">access</term>
+      <term>権限</term>
+    </concept>
+
+    <concept id="modifier_key">
+      <desc>コンピュータのキーボードにおいて、他のキーの入力文字や機能を変えるために併用するキー。Shift, Ctrl, Alt など。</desc>
+      <term lang="en">modifier key</term>
+      <term>修飾キー</term>
+    </concept>
+
+    <concept id="character_set">
+      <term lang="en">character set</term>
+      <term>文字セット</term>
+    </concept>
+
+    <concept id="charset">
+      <term lang="en">charset</term>
+      <term>文字セット</term>
+    </concept>
+
+    <concept id="exit_status">
+      <term lang="en">exit status</term>
+      <term>終了ステータス</term>
+    </concept>
+
+    <concept id="encryption_certificate">
+      <term lang="en">encryption certificate</term>
+      <term>暗号化用証明書</term>
+    </concept>
+
+    <concept id="signing_certificate">
+      <term lang="en">signing certificate</term>
+      <term>署名用証明書</term>
+    </concept>
+
+    <concept id="frame">
+      <desc>ウィンドウの装飾</desc>
+      <term lang="en">frame</term>
+      <term>枠</term>
+    </concept>
+
+    <concept id="frame2">
+      <desc>ウェブブラウザのウィンドウを複数に分割して、それぞれに別のリソースを表示させる表現技法</desc>
+      <term lang="en">frame</term>
+      <term>フレーム</term>
+    </concept>
+
+    <concept id="frame3">
+      <desc>伝送単位</desc>
+      <term lang="en">frame</term>
+      <term>フレーム</term>
+    </concept>
+
+    <concept id="version_control_system">
+      <desc>主にプログラムの開発において、ソースコードやその他のデータを管理するために用いられるシステム</desc>
+      <term lang="en">version control system</term>
+      <term>バージョン管理システム</term>
+    </concept>
+
+    <concept id="compact">
+      <desc>フォルダやデータベースを最適化すること (動詞)</desc>
+      <term lang="en">compact</term>
+      <term>最適化</term>
+    </concept>
+
+    <concept id="compaction">
+      <desc>フォルダやデータベースを最適化すること (名詞)</desc>
+      <term lang="en">compaction</term>
+      <term>最適化</term>
+    </concept>
+
+    <concept id="landscape">
+      <desc>用紙の向き</desc>
+      <term lang="en">landscape</term>
+      <term>横長</term>
+    </concept>
+
+    <concept id="portrait">
+      <desc>用紙の向き</desc>
+      <term lang="en">portrait</term>
+      <term>縦長</term>
+    </concept>
+
+    <concept id="landscape2">
+      <desc>写真の撮影モード</desc>
+      <term lang="en">landscape</term>
+      <term>ランドスケープ</term>
+    </concept>
+
+    <concept id="portrait2">
+      <desc>写真の撮影モード</desc>
+      <term lang="en">portrait</term>
+      <term>ポートレート</term>
+    </concept>
+
+    <concept id="audio">
+      <ldesc><para>映像に対する音声</para><para>用例: audio input/output, audio capture, audio device, audio backend, audio track, audio channel, audio stream, audio sampling rate, audio bitrate, audio delay</para></ldesc>
+      <term lang="en">audio</term>
+      <term>音声</term>
+    </concept>
+
+    <concept id="audio2">
+      <desc>用例: audio file, audio file format, audio codec</desc>
+      <term lang="en">audio</term>
+      <term>音声</term>
+    </concept>
+
+    <concept id="audio3">
+      <desc>用例: audio CD/DVD, audio player, audio card, audio server</desc>
+      <term lang="en">audio</term>
+      <term>オーディオ</term>
+    </concept>
+
+    <concept id="video">
+      <ldesc><para>音声に対する映像</para><para>用例: video input/output, video capture, video device, video track, video channel, video stream, video sampling rate, video bitrate</para></ldesc>
+      <term lang="en">video</term>
+      <term>映像</term>
+    </concept>
+
+    <concept id="video2">
+      <ldesc><para>静止画に対する動画</para><para>用例: video file, video file format, video codec, video player</para></ldesc>
+      <term lang="en">video</term>
+      <term>動画</term>
+    </concept>
+
+    <concept id="video3">
+      <desc>用例: video CD/DVD, video card, video driver, video port, video chat, video camera, video conference</desc>
+      <term lang="en">video</term>
+      <term>ビデオ</term>
+    </concept>
+
+    <concept id="vendor">
+      <term lang="en">vendor</term>
+      <term>ベンダー</term>
+    </concept>
+
+    <concept id="ascii">
+      <desc>英語や西ヨーロッパ言語で使われるラテン文字を中心とした文字コード。American Standard Code for Information Interchange の略。原文が Ascii や ascii になっている場合も、すべて大文字にしています。ASCII Art は例外的に「アスキーアート」とカナ書きにしています。</desc>
+      <term lang="en">ASCII</term>
+      <term>ASCII</term>
+    </concept>
+
+    <concept id="authentication">
+      <desc>ユーザ名とパスワードやその他の方法を用いて本人であることを確認すること。動詞は authenticate。</desc>
+      <term lang="en">authentication</term>
+      <term>認証</term>
+    </concept>
+
+    <concept id="authorization">
+      <ldesc><para>権限を与えること、許可すること。与えられた権限、許可。動詞は authorize。</para><para>not authorized: 権限が与えられていない → 権限がない、許可されていない</para><para>unauthorized access: 許可されていないアクセス → 不正アクセス</para></ldesc>
+      <term lang="en">authorization</term>
+      <term>権限付与</term>
+      <term>権限</term>
+      <term>許可</term>
+      <term>承認</term>
+    </concept>
+
+    <concept id="image">
+      <ldesc><para>二次元平面上に描かれた絵</para><para>用例: 画像ビューア、画像処理、画像ファイル、画像フォーマット</para></ldesc>
+      <term lang="en">image</term>
+      <term>画像</term>
+    </concept>
+
+    <concept id="image2">
+      <ldesc><para>ファイルシステムの完全な内容と構造を一つのファイルに格納したデータのこと。</para><para>用例: ディスクイメージ、ブートイメージ、イメージファイル、ISO イメージ</para></ldesc>
+      <term lang="en">image</term>
+      <term>イメージ</term>
+    </concept>
+
+    <concept id="chapter">
+      <desc>詩や文などの大段落</desc>
+      <term lang="en">chapter</term>
+      <term>章</term>
+    </concept>
+
+    <concept id="chapter2">
+      <desc>DVD の映像シーンの区切り</desc>
+      <term lang="en">chapter</term>
+      <term>チャプター</term>
+    </concept>
+
+    <concept id="dock">
+      <desc>動詞で、分離したパネルをメインウィンドウにドッキングさせること</desc>
+      <term lang="en">dock</term>
+      <term>ドッキング</term>
+    </concept>
+
+    <concept id="docker">
+      <desc>メインウィンドウから分離したり、ドッキングさせたりできるパネル。パネルの表示/非表示を切り替えるためのメニュー項目のタイトルとして使われている場合は、単に「パネル」としています。</desc>
+      <term lang="en">docker</term>
+      <term>パネル</term>
+      <term>ドッキングパネル</term>
+    </concept>
+  </concepts>
+</glossary>

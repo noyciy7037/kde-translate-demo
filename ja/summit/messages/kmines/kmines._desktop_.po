@@ -1,0 +1,228 @@
+# Translation of desktop_kdegames into Japanese.
+# Taiki Komoda <kom@kde.gr.jp>, 2002.
+# Takuro Ashie <ashie@homa.ne.jp>, 2004.
+# Kurose Shushi <md81@bird.email.ne.jp>, 2004.
+# AWASHIRO Ikuya <ikuya@oooug.jp>, 2004.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2006.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2007, 2008, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdegames\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-10-19 15:11+0200\n"
+"PO-Revision-Date: 2009-01-08 23:33+0900\n"
+"Last-Translator: Yukiko Bando <ybando@k6.dion.ne.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: \n"
+"X-Text-Markup: \n"
+
+#. +> trunk6 stable6
+#: data/org.kde.kmines.desktop:2
+msgctxt "Name"
+msgid "KMines"
+msgstr "KMines"
+
+#. +> trunk6 stable6
+#: data/org.kde.kmines.desktop:80
+msgctxt "GenericName"
+msgid "Minesweeper-like Game"
+msgstr "地雷ゲーム"
+
+#. +> trunk6 stable6
+#: data/org.kde.kmines.desktop:146
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Minesweeper-like Game"
+msgctxt "Comment"
+msgid "Minesweeper-like Game"
+msgstr "地雷ゲーム"
+
+#. +> trunk6 stable6
+#: themes/classic.desktop:2
+msgctxt "Name"
+msgid "Classic"
+msgstr "クラシック"
+
+#. +> trunk6 stable6
+#: themes/classic.desktop:66
+msgctxt "Description"
+msgid "Classic theme for KMines"
+msgstr "KMines のクラシックテーマ"
+
+#. +> trunk6 stable6
+#: themes/clean_blue.desktop:5
+#, fuzzy
+#| msgctxt "Description"
+#| msgid "Classic theme for KMines"
+msgctxt "Description"
+msgid "A light, high contrast theme for KMines."
+msgstr "KMines のクラシックテーマ"
+
+#. +> trunk6 stable6
+#: themes/clean_blue.desktop:39
+msgctxt "Name"
+msgid "Clean Blue"
+msgstr ""
+
+#. +> trunk6 stable6
+#: themes/clean_blue_dark.desktop:5
+#, fuzzy
+#| msgctxt "Description"
+#| msgid "Classic theme for KMines"
+msgctxt "Description"
+msgid "A dark, high contrast theme for KMines."
+msgstr "KMines のクラシックテーマ"
+
+#. +> trunk6 stable6
+#: themes/clean_blue_dark.desktop:39
+msgctxt "Name"
+msgid "Clean Blue Dark"
+msgstr ""
+
+#. +> trunk6 stable6
+#: themes/default.desktop:2
+msgctxt "Name"
+msgid "Default"
+msgstr "標準"
+
+#. +> trunk6 stable6
+#: themes/default.desktop:68
+#, fuzzy
+#| msgctxt "Description"
+#| msgid "KMines Oxygen theme for KDE 4"
+msgctxt "Description"
+msgid "KMines Oxygen theme"
+msgstr "KMines の KDE4 用 Oxygen テーマ"
+
+#. +> trunk6 stable6
+#: themes/graveyard-mayhem.desktop:2
+msgctxt "Name"
+msgid "Graveyard Mayhem"
+msgstr ""
+
+#. +> trunk6 stable6
+#: themes/graveyard-mayhem.desktop:52
+msgctxt "Description"
+msgid ""
+"A spooky theme for KMines. Don't get caught by the zombies in the graveyard!"
+msgstr ""
+
+#. +> trunk6 stable6
+#: themes/green.desktop:2
+msgctxt "Name"
+msgid "Gardens of Danger"
+msgstr "危険な庭"
+
+#. +> trunk6 stable6
+#: themes/green.desktop:56
+#, fuzzy
+#| msgctxt "Description"
+#| msgid "A funny theme for KDE4 mines game"
+msgctxt "Description"
+msgid "A funny theme for KMines"
+msgstr "KDE4 用のおかしなテーマ"
+
+#. +> trunk6 stable6
+#: themes/kmines_waste2.desktop:2
+msgctxt "Name"
+msgid "Cig Waste No. 2"
+msgstr ""
+
+#. +> trunk6 stable6
+#: themes/kmines_waste2.desktop:38
+msgctxt "Description"
+msgid "The cleaning of the Earth begins"
+msgstr ""
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Minesweeper-like Game"
+#~ msgctxt "Comment"
+#~ msgid "KMines Minesweeper-like Game"
+#~ msgstr "地雷ゲーム"
+
+#~ msgctxt "Name"
+#~ msgid "Reveal Case"
+#~ msgstr "開いたとき"
+
+#~ msgctxt "Comment"
+#~ msgid "Reveal case"
+#~ msgstr "開いたとき"
+
+#~ msgctxt "Name"
+#~ msgid "Autoreveal Case"
+#~ msgstr "自動で開いたとき"
+
+#~ msgctxt "Comment"
+#~ msgid "Autoreveal case"
+#~ msgstr "自動で開いたとき"
+
+#~ msgctxt "Name"
+#~ msgid "Mark Case"
+#~ msgstr "マークしたとき"
+
+#~ msgctxt "Comment"
+#~ msgid "Mark case"
+#~ msgstr "マークしたとき"
+
+#~ msgctxt "Name"
+#~ msgid "Unmark Case"
+#~ msgstr "マークを外したとき"
+
+#~ msgctxt "Comment"
+#~ msgid "Unmark case"
+#~ msgstr "マークを外したとき"
+
+#~ msgctxt "Name"
+#~ msgid "Explosion"
+#~ msgstr "爆発"
+
+#~ msgctxt "Comment"
+#~ msgid "Explosion"
+#~ msgstr "爆発"
+
+#~ msgctxt "Name"
+#~ msgid "Game Won"
+#~ msgstr "ゲームに勝ち"
+
+#~ msgctxt "Comment"
+#~ msgid "Game won"
+#~ msgstr "ゲームに勝ち"
+
+#~ msgctxt "Name"
+#~ msgid "Game Lost"
+#~ msgstr "ゲームに負け"
+
+#~ msgctxt "Comment"
+#~ msgid "Game lost"
+#~ msgstr "ゲームに負け"
+
+#~ msgctxt "Name"
+#~ msgid "Set Question Mark"
+#~ msgstr "クエスチョンマークをセットする"
+
+#~ msgctxt "Comment"
+#~ msgid "Set question mark"
+#~ msgstr "クエスチョンマークをセットする"
+
+#~ msgctxt "Name"
+#~ msgid "Unset Question Mark"
+#~ msgstr "クエスチョンマークを外す"
+
+#~ msgctxt "Comment"
+#~ msgid "Unset question mark"
+#~ msgstr "クエスチョンマークを外す"
+
+#~ msgctxt "Description"
+#~ msgid "KMines Oxygen theme for KDE 4"
+#~ msgstr "KMines の KDE4 用 Oxygen テーマ"
+
+#~ msgctxt "Description"
+#~ msgid "A funny theme for KDE4 mines game"
+#~ msgstr "KDE4 用のおかしなテーマ"

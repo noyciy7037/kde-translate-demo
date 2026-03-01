@@ -1,0 +1,45 @@
+# SPDX-FileCopyrightText: 2024 Ryuichi Yamada <ryuichi_ya220@outlook.jp>
+# SPDX-FileCopyrightText: 2025 Yuma Kakei <yumasansansan@gmail.com>
+msgid ""
+msgstr ""
+"Project-Id-Version: org.kde.plasma-systemmonitor.metainfo\n"
+"POT-Creation-Date: 2025-05-16 12:12+0200\n"
+"PO-Revision-Date: 2025-09-21 16:22+0900\n"
+"Last-Translator: Yuma Kakei <yumasansansan@gmail.com>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+"X-Generator: Lokalize 25.08.1\n"
+
+#. (itstool) path: component/name
+#. +> trunk6 stable6 stable5
+#: org.kde.plasma-systemmonitor.metainfo.xml:10
+msgid "Plasma System Monitor"
+msgstr "Plasma システムモニタ"
+
+#. (itstool) path: component/summary
+#. +> trunk6 stable6
+#: org.kde.plasma-systemmonitor.metainfo.xml:11
+msgid "Monitor app and system resource usage"
+msgstr "アプリとシステムリソース使用状況を監視"
+
+#. (itstool) path: component/summary
+#. +> stable5
+#: org.kde.plasma-systemmonitor.metainfo.xml:11
+msgid "An application for monitoring system resources"
+msgstr "システムリソース監視アプリケーション"
+
+#. (itstool) path: description/p
+#. +> trunk6 stable6 stable5
+#: org.kde.plasma-systemmonitor.metainfo.xml:13
+msgid ""
+"Plasma System Monitor provides an interface for monitoring system sensors, "
+"process information and other system resources."
+msgstr ""
+"Plasma システムモニタは、センサーやプロセス情報などのシステム情報を監視するた"
+"めのインターフェースを提供します。"

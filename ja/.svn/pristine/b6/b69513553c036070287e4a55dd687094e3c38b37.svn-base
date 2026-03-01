@@ -1,0 +1,99 @@
+# Translation of kdevclassbrowser into Japanese.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2008.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdevclassbrowser\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-07-21 18:02+0200\n"
+"PO-Revision-Date: 2010-07-16 23:46-0700\n"
+"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. +> trunk6 stable6
+#: classbrowserplugin.cpp:70 classbrowserplugin.cpp:121 classwidget.cpp:35
+#, fuzzy, kde-format
+#| msgid "Classes"
+msgctxt "@title:window"
+msgid "Classes"
+msgstr "クラス"
+
+#. +> trunk6 stable6
+#: classbrowserplugin.cpp:73
+#, fuzzy, kde-format
+#| msgid "Find in &Class Browser"
+msgctxt "@action"
+msgid "Find in &Class Browser"
+msgstr "クラスブラウザで検索(&C)"
+
+#. +> trunk6 stable6
+#: classwidget.cpp:72
+#, fuzzy, kde-format
+#| msgid "S&earch:"
+msgctxt "@label:textbox"
+msgid "S&earch:"
+msgstr "検索(&E):"
+
+#. +> trunk6 stable6
+#: classwidget.cpp:89
+#, fuzzy, kde-format
+#| msgid "Class Browser"
+msgctxt "@info:whatsthis"
+msgid "Class Browser"
+msgstr "クラスブラウザ"
+
+#~ msgid "Classes"
+#~ msgstr "クラス"
+
+#~ msgid "Find in &Class Browser"
+#~ msgstr "クラスブラウザで検索(&C)"
+
+#~ msgid "S&earch:"
+#~ msgstr "検索(&E):"
+
+#~ msgid "Class Browser"
+#~ msgstr "クラスブラウザ"
+
+#~ msgctxt "NAME OF TRANSLATORS"
+#~ msgid "Your names"
+#~ msgstr "Fumiaki Okushi"
+
+#~ msgctxt "EMAIL OF TRANSLATORS"
+#~ msgid "Your emails"
+#~ msgstr "okushi@kde.gr.jp"
+
+#~ msgid "All projects classes"
+#~ msgstr "すべてのプロジェクトクラス"
+
+#, fuzzy
+#~| msgid "Classes"
+#~ msgid "Base classes"
+#~ msgstr "クラス"
+
+#~ msgid "Classes in project %1"
+#~ msgstr "プロジェクト %1 のクラス"
+
+#~ msgid "Browser for all known classes"
+#~ msgstr "すべてのクラスをブラウズ"
+
+#~ msgid "Show &Declaration"
+#~ msgstr "宣言を表示(&D)"
+
+#~ msgid "Show De&finition"
+#~ msgstr "定義を表示(&F)"
+
+#~ msgid "Global Functions"
+#~ msgstr "グローバル関数"
+
+#~ msgid "Global Variables"
+#~ msgstr "グローバル変数"
+
+#~ msgid "Code View"
+#~ msgstr "コードビュー"

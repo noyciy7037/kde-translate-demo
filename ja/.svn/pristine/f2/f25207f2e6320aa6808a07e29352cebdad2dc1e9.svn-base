@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: org.kde.kup.appdata\n"
+"POT-Creation-Date: 2026-02-23 08:06+0100\n"
+"PO-Revision-Date: 2019-11-21 14:07-0800\n"
+"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. (itstool) path: component/name
+#. +> trunk5
+#: org.kde.kup.appdata.xml:8
+msgid "Kup"
+msgstr ""
+
+#. (itstool) path: component/summary
+#. +> trunk5
+#: org.kde.kup.appdata.xml:9
+msgid "Backup scheduler for KDE's Plasma desktop"
+msgstr ""
+
+#. (itstool) path: description/p
+#. +> trunk5
+#: org.kde.kup.appdata.xml:11
+msgid ""
+"Kup can help you remember to keep up-to-date backups of your personal files. "
+"It provides:"
+msgstr ""
+
+#. (itstool) path: ul/li
+#. +> trunk5
+#: org.kde.kup.appdata.xml:13
+msgid "Incremental backup archive with the use of \"bup\"."
+msgstr ""
+
+#. (itstool) path: ul/li
+#. +> trunk5
+#: org.kde.kup.appdata.xml:14
+msgid "Synchronized folders with the use of \"rsync\"."
+msgstr ""
+
+#. (itstool) path: ul/li
+#. +> trunk5
+#: org.kde.kup.appdata.xml:15
+msgid "Support for local filesystem or external usb storage."
+msgstr ""
+
+#. (itstool) path: ul/li
+#. +> trunk5
+#: org.kde.kup.appdata.xml:16
+msgid ""
+"Monitor availability of backup destinations, like for example a mounted "
+"network storage."
+msgstr ""
+
+#. (itstool) path: ul/li
+#. +> trunk5
+#: org.kde.kup.appdata.xml:17
+msgid "Integration into KDE's Plasma desktop."
+msgstr ""
+
+#. (itstool) path: component/developer_name
+#. +> trunk5
+#: org.kde.kup.appdata.xml:27
+msgid "Simon Persson &lt;simon.persson@mykolab.com&gt;"
+msgstr ""

@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: json files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-09-20 11:49+0200\n"
+"PO-Revision-Date: 2024-05-12 09:41+0900\n"
+"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: \n"
+"X-Text-Markup: \n"
+
+#. +> trunk6 stable6
+#: src/kcm/kcm_krdpserver.json
+msgctxt "X-KDE-Keywords"
+msgid "KRDP,remote desktop"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/kcm/kcm_krdpserver.json
+msgctxt "Name"
+msgid "Remote Desktop"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/kcm/kcm_krdpserver.json
+msgctxt "Description"
+msgid "Configure Remote Desktop"
+msgstr ""

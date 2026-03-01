@@ -1,0 +1,471 @@
+# translation of desktop_extragear-multimedia_k3b.po to Japanese
+# SATOH Satoru <ss@kde.gr.jp>, 2004.
+# Shintaro Matsuoka <shin@shoegazed.org>, 2005.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2006, 2007, 2008.
+# Yasuhiko Kamata <belphegor@belbel.or.jp>, 2012.
+# translation of desktop_extragear-multimedia_k3b.pot to Japanese
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2011, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_extragear-multimedia_k3b\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-09-09 08:56+0200\n"
+"PO-Revision-Date: 2012-03-24 16:20-0700\n"
+"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: \n"
+"X-Text-Markup: \n"
+
+#. +> trunk6 stable6
+#: kioworkers/videodvd/videodvd.desktop:5
+msgctxt "Name"
+msgid "Video DVD Browser"
+msgstr "ビデオ DVD ブラウザ"
+
+#. +> trunk6 stable6
+#: src/helper/k3b.actions:2
+msgctxt "Name"
+msgid "Update device and programs permissions"
+msgstr "デバイスとプログラムのパーミッションを更新する"
+
+#. +> trunk6 stable6
+#: src/helper/k3b.actions:58
+msgctxt "Description"
+msgid ""
+"Authentication is required to update permissions of devices and programs"
+msgstr "デバイスやプログラムのパーミッションを更新するには、認証が必要です"
+
+#. +> trunk6 stable6
+#: src/helper/k3b.actions:116
+msgctxt "Name"
+msgid "Adds current user to a specified group"
+msgstr "現在のユーザを指定したグループに追加する"
+
+#. +> trunk6 stable6
+#: src/helper/k3b.actions:168
+msgctxt "Description"
+msgid "Authentication is required to add current user to a group"
+msgstr "現在のユーザをグループに追加するには、認証が必要です"
+
+#. +> trunk6 stable6
+#: src/k3b-cue.desktop:6 src/k3b-iso.desktop:6 src/org.kde.k3b.desktop:121
+msgctxt "Name"
+msgid "K3b"
+msgstr "K3b"
+
+#. +> trunk6 stable6
+#: src/k3b.notifyrc:4
+msgctxt "Comment"
+msgid "K3b"
+msgstr "K3b"
+
+#. +> trunk6 stable6
+#: src/k3b.notifyrc:71
+msgctxt "Name"
+msgid "Process successful"
+msgstr "プロセス成功"
+
+#. +> trunk6 stable6
+#: src/k3b.notifyrc:136
+msgctxt "Comment"
+msgid "Process successfully finished"
+msgstr "プロセスが正常に終了しました"
+
+#. +> trunk6 stable6
+#: src/k3b.notifyrc:202
+msgctxt "Name"
+msgid "Process error"
+msgstr "プロセスエラー"
+
+#. +> trunk6 stable6
+#: src/k3b.notifyrc:267
+msgctxt "Comment"
+msgid "Process finished with errors"
+msgstr "プロセスがエラーで終了しました"
+
+#. +> trunk6 stable6
+#: src/k3b.notifyrc:336
+msgctxt "Name"
+msgid "Waiting for medium"
+msgstr "メディア待ち"
+
+#. +> trunk6 stable6
+#: src/k3b.notifyrc:400
+msgctxt "Comment"
+msgid "The user needs to insert a medium"
+msgstr "ユーザがメディアを挿入する必要があります"
+
+#. +> trunk6 stable6
+#: src/k3b.notifyrc:466
+msgctxt "Name"
+msgid "Busy"
+msgstr "ビジー"
+
+#. +> trunk6 stable6
+#: src/k3b.notifyrc:521
+msgctxt "Comment"
+msgid "K3b is currently busy and cannot start any other operations"
+msgstr "K3B は現在ビジー状態にあり、他の操作を開始することができません"
+
+#. +> trunk6 stable6
+#: src/k3b.notifyrc:577
+msgctxt "Name"
+msgid "No problems found"
+msgstr "問題なし"
+
+#. +> trunk6 stable6
+#: src/k3b.notifyrc:630
+msgctxt "Comment"
+msgid "No problems found in system configuration"
+msgstr "システム設定に問題はありません"
+
+#. +> trunk6 stable6
+#: src/k3b.notifyrc:686
+msgctxt "Name"
+msgid "Mount/unmount failed"
+msgstr "マウント/アンマウントに失敗"
+
+#. +> trunk6 stable6
+#: src/k3b.notifyrc:739
+msgctxt "Comment"
+msgid "Medium cannot be mount or unmounted"
+msgstr "メディアをマウント/アンマウントできません"
+
+#. +> trunk6 stable6
+#: src/k3b.notifyrc:795
+msgctxt "Name"
+msgid "Track data not found"
+msgstr "トラックデータが見つかりません"
+
+#. +> trunk6 stable6
+#: src/k3b.notifyrc:848
+msgctxt "Comment"
+msgid "Track information has not been found in the online database"
+msgstr "オンラインデータベースには、トラック情報がありませんでした"
+
+#. +> trunk6 stable6
+#: src/org.kde.k3b.desktop:6
+msgctxt "GenericName"
+msgid "Disk Burning"
+msgstr "ディスク作成"
+
+#. +> trunk6 stable6
+#: src/org.kde.k3b.desktop:63
+msgctxt "Comment"
+msgid "Disk writing program"
+msgstr "ディスク書き込みプログラム"
+
+#. +> trunk6 stable6
+#: src/services/k3b_audiocd_rip.desktop:9
+msgctxt "Name"
+msgid "Extract Digital Audio with K3b"
+msgstr "K3b でデジタルオーディオを吸い出し"
+
+#. +> trunk6 stable6
+#: src/services/k3b_copy_disc.desktop:9
+msgctxt "Name"
+msgid "Copy with K3b"
+msgstr "K3b でコピー"
+
+#. +> trunk6 stable6
+#: src/services/k3b_create_audio_cd.desktop:9
+#: src/services/k3b_create_audio_cd_from_blank_medium.desktop:10
+msgctxt "Name"
+msgid "Create Audio CD with K3b"
+msgstr "K3b でオーディオ CD を作成"
+
+#. +> trunk6 stable6
+#: src/services/k3b_create_data_project.desktop:10
+#: src/services/k3b_create_data_project_from_blank_medium.desktop:10
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Create file project with K3b"
+msgctxt "Name"
+msgid "Create data project with K3b"
+msgstr "K3b でファイルプロジェクトを作成"
+
+#. +> trunk6 stable6
+#: src/services/k3b_create_video_cd.desktop:9
+msgctxt "Name"
+msgid "Create Video CD with K3b"
+msgstr "K3b でビデオ CD を作成"
+
+#. +> trunk6 stable6
+#: src/services/k3b_dvd_copy.desktop:8
+msgctxt "Name"
+msgid "Copy DVD with K3b"
+msgstr "K3b で DVD をコピー"
+
+#. +> trunk6 stable6
+#: src/services/k3b_videodvd_rip.desktop:9
+msgctxt "Name"
+msgid "Rip Video DVD Titles with K3b"
+msgstr "K3b で DVD タイトルを吸い出し"
+
+#. +> trunk6 stable6
+#: src/services/k3b_write_bin_image.desktop:9
+msgctxt "Name"
+msgid "Write CD Image with K3b"
+msgstr "K3b で CD イメージを書き込み"
+
+#. +> trunk6 stable6
+#: src/services/k3b_write_iso_image.desktop:9
+msgctxt "Name"
+msgid "Write image to disc with K3b"
+msgstr "K3b でイメージをディスクに書き込み"
+
+#~ msgctxt "Name"
+#~ msgid "K3b Plugin"
+#~ msgstr "K3b プラグイン"
+
+#~ msgctxt "Name"
+#~ msgid "K3b External Audio Encoder Config Widget"
+#~ msgstr "K3b 外部オーディオエンコーダ設定ウィジェット"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "K3b Lame Mp3 Encoder Config Module"
+#~ msgctxt "Name"
+#~ msgid "K3b Lame MP3 Encoder Config Module"
+#~ msgstr "K3b Lame MP3 エンコーダ設定モジュール"
+
+#~ msgctxt "Name"
+#~ msgid "K3b Ogg Vorbis Encoder Config Widget"
+#~ msgstr "K3b Ogg Vorbis エンコーダ設定ウィジェット"
+
+#~ msgctxt "Name"
+#~ msgid "K3b SoX Audio Encoder Config Module"
+#~ msgstr "K3b SoX オーディオエンコーダ設定モジュール"
+
+#~ msgctxt "Name"
+#~ msgid "Create file project with K3b"
+#~ msgstr "K3b でファイルプロジェクトを作成"
+
+#~ msgctxt "Description"
+#~ msgid ""
+#~ "A kioslave that allows files to be copied from a Video DVD (including "
+#~ "decryption)"
+#~ msgstr ""
+#~ "ビデオ DVD からファイルをコピーすることを可能にする kioslave (暗号解除も含"
+#~ "む)"
+
+#~ msgctxt "Name"
+#~ msgid "K3b FFMpeg Decoder"
+#~ msgstr "K3b FFMpeg デコーダ"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Decoding module to decode FLAC files"
+#~ msgctxt "Comment"
+#~ msgid "Decoding module to decode WMA files"
+#~ msgstr "FLAC ファイルをデコードするモジュール"
+
+#~ msgctxt "Name"
+#~ msgid "K3b FLAC Decoder"
+#~ msgstr "K3b FLAC デコーダ"
+
+#~ msgctxt "Comment"
+#~ msgid "Decoding module to decode FLAC files"
+#~ msgstr "FLAC ファイルをデコードするモジュール"
+
+#~ msgctxt "Name"
+#~ msgid "K3b Libsndfile Decoder"
+#~ msgstr "K3b Libsndfile デコーダ"
+
+#~ msgctxt "Comment"
+#~ msgid "Decoding module to decode audio files supported by libsndfile"
+#~ msgstr "libsndfile がサポートするオーディオファイルをデコードするモジュール"
+
+#~ msgctxt "Name"
+#~ msgid "K3b MAD Decoder"
+#~ msgstr "K3b MAD デコーダ"
+
+#~ msgctxt "Comment"
+#~ msgid "Decoding module to decode MPEG 1 Layer III files"
+#~ msgstr "MPEG 1 Layer III ファイルをデコードするモジュール"
+
+#~ msgctxt "Name"
+#~ msgid "K3b Musepack Decoder"
+#~ msgstr "K3b Musepack デコーダ"
+
+#~ msgctxt "Comment"
+#~ msgid "Decoding module to decode Musepack audio files"
+#~ msgstr "Musepack オーディオファイルをデコードするモジュール"
+
+#~ msgctxt "Name"
+#~ msgid "K3b Ogg Vorbis Decoder"
+#~ msgstr "K3b Ogg Vorbis デコーダ"
+
+#~ msgctxt "Comment"
+#~ msgid "Decoding module to decode Ogg Vorbis files"
+#~ msgstr "Ogg Vorbis ファイルをデコードするモジュール"
+
+#~ msgctxt "Name"
+#~ msgid "K3b ??? Decoder"
+#~ msgstr "K3b ??? デコーダ"
+
+#~ msgctxt "Comment"
+#~ msgid "Decoding module to decode ??? files"
+#~ msgstr "??? ファイルをデコードするモジュール"
+
+#~ msgctxt "Name"
+#~ msgid "K3b Wave Decoder"
+#~ msgstr "K3b wave デコーダ"
+
+#~ msgctxt "Comment"
+#~ msgid "Decoding module to decode wave files"
+#~ msgstr "wave ファイルをデコードするモジュール"
+
+#~ msgctxt "Name"
+#~ msgid "K3b External Audio Encoder"
+#~ msgstr "K3b 外部オーディオエンコーダ"
+
+#~ msgctxt "Comment"
+#~ msgid "Encoding module that allows specifying an encoding command"
+#~ msgstr "エンコードコマンドの指定を可能にするエンコードモジュール"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "K3b Lame Mp3 Encoder"
+#~ msgctxt "Name"
+#~ msgid "K3b Lame MP3 Encoder"
+#~ msgstr "K3b Lame MP3 エンコーダ"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Encoding module to encode MPEG1 Layer III (mp3) files"
+#~ msgctxt "Comment"
+#~ msgid "Encoding module to encode MPEG1 Layer III (MP3) files"
+#~ msgstr "MPEG 1 Layer III (MP3) ファイルをエンコードするモジュール"
+
+#~ msgctxt "Name"
+#~ msgid "K3b Ogg Vorbis Encoder"
+#~ msgstr "K3b Ogg Vorbis エンコーダ"
+
+#~ msgctxt "Comment"
+#~ msgid "Encoding module to encode Ogg Vorbis files"
+#~ msgstr "Ogg Vorbis ファイルをエンコードするモジュール"
+
+#~ msgctxt "Name"
+#~ msgid "K3b ??? Encoder"
+#~ msgstr "K3b ??? エンコーダ"
+
+#~ msgctxt "Comment"
+#~ msgid "Encoding module to encode <name> files"
+#~ msgstr "<name> ファイルをエンコードするモジュール"
+
+#~ msgctxt "Name"
+#~ msgid "K3b SoX Audio Encoder"
+#~ msgstr "K3b SoX オーディオエンコーダ"
+
+#~ msgctxt "Comment"
+#~ msgid "Encoding module to encode many file formats using SoX"
+#~ msgstr ""
+#~ "SoX を使ってさまざまなファイルフォーマットをエンコードするモジュール"
+
+#~ msgctxt "Name"
+#~ msgid "K3b Audio Metainfo Renamer"
+#~ msgstr "K3b オーディオメタデータ名称変更"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Plugin to rename audio files in a data project based on the meta info."
+#~ msgstr ""
+#~ "メタデータの情報を元に、データプロジェクト内のオーディオファイルの名前を変"
+#~ "更するプラグイン"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "K3b Cddb Audio Plugin"
+#~ msgctxt "Name"
+#~ msgid "K3b CDDB Audio Plugin"
+#~ msgstr "K3b Cddb オーディオプラグイン"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid ""
+#~| "Plugin to query a cddb server for information about an audio project."
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Plugin to query a CDDB server for information about an audio project."
+#~ msgstr "オーディオプロジェクトの情報を cddb サーバに問い合わせるプラグイン"
+
+#~ msgctxt "Comment"
+#~ msgid "Decoding module to decode wma files"
+#~ msgstr "WMA ファイルをデコードするモジュール"
+
+#~ msgctxt "Name"
+#~ msgid "K3b Lame Mp3 Encoder"
+#~ msgstr "K3b Lame MP3 エンコーダ"
+
+#~ msgctxt "Comment"
+#~ msgid "Encoding module to encode MPEG1 Layer III (mp3) files"
+#~ msgstr "MPEG 1 Layer III (MP3) ファイルをエンコードするモジュール"
+
+#~ msgctxt "Name"
+#~ msgid "K3b Lame Mp3 Encoder Config Module"
+#~ msgstr "K3b Lame MP3 エンコーダ設定モジュール"
+
+#~ msgctxt "Name"
+#~ msgid "K3b Cddb Audio Plugin"
+#~ msgstr "K3b Cddb オーディオプラグイン"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Plugin to query a cddb server for information about an audio project."
+#~ msgstr "オーディオプロジェクトの情報を cddb サーバに問い合わせるプラグイン"
+
+#~ msgctxt "Comment"
+#~ msgid "K3bSetup – modify permission for CD/DVD burning with K3b"
+#~ msgstr "K3bSetup - K3b で CD/DVD に書き込むための権限を設定"
+
+#, fuzzy
+#~| msgctxt "Keywords"
+#~| msgid "K3bSetup,k3bsetup"
+#~ msgctxt "Keywords"
+#~ msgid "K3bSetup;k3bsetup;"
+#~ msgstr "K3bSetup,k3bsetup"
+
+#~ msgctxt "Name"
+#~ msgid "K3bSetup"
+#~ msgstr "K3bSetup"
+
+#, fuzzy
+#~| msgctxt "Keywords"
+#~| msgid "K3bSetup,k3bsetup"
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "k3b,k3bsetup,cd,dvd"
+#~ msgstr "K3bSetup,k3bsetup"
+
+#~ msgctxt "GenericName"
+#~ msgid "CD/DVD/BD Burning Setup"
+#~ msgstr "CD/DVD/BD 作成の設定"
+
+#~ msgctxt "Name"
+#~ msgid "K3b Project Info"
+#~ msgstr "K3b プロジェクト情報"
+
+#~ msgctxt "Comment"
+#~ msgid "K3b Project"
+#~ msgstr "K3b プロジェクト"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Create Data CD with K3b..."
+#~ msgstr "K3b でオーディオ CD を作成"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Create Data DVD with K3b..."
+#~ msgstr "K3b でオーディオ CD を作成"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Write CD or DVD Image with K3b..."
+#~ msgstr "K3b で CD イメージを書き込み"

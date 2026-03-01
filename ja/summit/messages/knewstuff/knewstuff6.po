@@ -1,0 +1,2419 @@
+# Translation of kdelibs4 into Japanese.
+# This file is distributed under the same license as the kdelibs package.
+#
+# Taiki Komoda <kom@kde.gr.jp>, 2002, 2004, 2006, 2010.
+# Noboru Sinohara <shinobo@leo.bekkoame.ne.jp>, 2004.
+# Toyohiro Asukai <toyohiro@ksmplus.com>, 2004.
+# Kurose Shushi <md81@bird.email.ne.jp>, 2004.
+# AWASHIRO Ikuya <ikuya@oooug.jp>, 2004.
+# Shinichi Tsunoda <tsuno@ngy.1st.ne.jp>, 2005.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2006, 2007, 2008, 2009, 2010.
+# Tomohiro Hyakutake <tomhioo@outlook.jp>, 2019, 2020.
+# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2006, 2007, 2008, 2010, 2011, 2019, 2020.
+# SPDX-FileCopyrightText: 2023, 2024 Ryuichi Yamada <ryuichi_ya220@outlook.jp>
+msgid ""
+msgstr ""
+"Project-Id-Version: kdelibs4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-05-30 22:28+0200\n"
+"PO-Revision-Date: 2024-09-15 18:58+0900\n"
+"Last-Translator: UTUMI Hirosi <utuhiro78@yahoo.co.jp>\n"
+"Language-Team: ja\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#. +> trunk6 trunk5
+#: attica/atticaprovider.cpp:167
+#, kde-format
+msgid "All categories are missing"
+msgstr "カテゴリがありません"
+
+#. +> trunk6 trunk5
+#: attica/atticaprovider.cpp:352
+#, kde-format
+msgctxt ""
+"the price of a download item, parameter 1 is the currency, 2 is the price"
+msgid ""
+"This item costs %1 %2.\n"
+"Do you want to buy it?"
+msgstr ""
+"このアイテムの価格は %1 %2 です。\n"
+"購入しますか？"
+
+#. +> trunk6 trunk5
+#: attica/atticaprovider.cpp:366
+#, kde-format
+msgid ""
+"Your account balance is too low:\n"
+"Your balance: %1\n"
+"Price: %2"
+msgstr ""
+"口座の残高が不足しています。\n"
+"残高: %1\n"
+"価格: %2"
+
+#. +> trunk6 trunk5
+#: attica/atticaprovider.cpp:398
+#, kde-format
+msgctxt "voting for an item (good/bad)"
+msgid "Your vote was recorded."
+msgstr "投票に成功しました。"
+
+#. +> trunk6 trunk5
+#: attica/atticaprovider.cpp:413
+#, kde-format
+msgid "You are now a fan."
+msgstr "ファンに登録しました。"
+
+#. +> trunk6 trunk5
+#: attica/atticaprovider.cpp:441 core/enginebase.cpp:269
+#: opds/opdsprovider.cpp:291
+#, kde-format
+msgid ""
+"The service is currently undergoing maintenance and is expected to be back "
+"in %1."
+msgstr "現在、サービスはメンテナンス中です。%1 に復帰する予定です。"
+
+#. +> trunk6 trunk5
+#: attica/atticaprovider.cpp:446
+#, kde-format
+msgid "Network error %1: %2"
+msgstr "ネットワークエラー %1: %2"
+
+#. +> trunk6 trunk5
+#: attica/atticaprovider.cpp:453
+#, kde-format
+msgid "Too many requests to server. Please try again in a few minutes."
+msgstr "サーバへの要求が多すぎます。数分待ってから再び試してみてください。"
+
+#. +> trunk6 trunk5
+#: attica/atticaprovider.cpp:457
+#, kde-format
+msgid ""
+"The Open Collaboration Services instance %1 does not support the attempted "
+"function."
+msgstr ""
+"Open Collaboration Services のインスタンス %1 はこの機能をサポートしていませ"
+"ん。"
+
+#. +> trunk6 trunk5
+#: attica/atticaprovider.cpp:461
+#, kde-format
+msgid "Unknown Open Collaboration Service API error. (%1)"
+msgstr "未知の Open Collaboration Service API エラーです (%1)"
+
+#. +> trunk6 trunk5
+#: core/commentsmodel.cpp:154
+#, kde-format
+msgctxt ""
+"The value returned for an unknown role when requesting data from the model."
+msgid "Unknown CommentsModel role"
+msgstr "未知の CommentsModel ロール"
+
+#. +> trunk6 trunk5
+#: core/enginebase.cpp:98
+#, kde-format
+msgid ""
+"An error occurred during the installation process:\n"
+"%1"
+msgstr ""
+"インストール中にエラーが発生しました:\n"
+"%1"
+
+#. +> trunk6
+#: core/enginebase.cpp:134
+#, kde-format
+msgid "Configuration file does not exist: \"%1\""
+msgstr "設定ファイルが存在しません: \"%1\""
+
+#. +> trunk6 trunk5
+#: core/enginebase.cpp:142
+#, kde-format
+msgid "Configuration file exists, but cannot be opened: \"%1\""
+msgstr "設定ファイルは存在しますが、開けませんでした: \"%1\""
+
+#. +> trunk6 trunk5
+#: core/enginebase.cpp:149
+#, kde-format
+msgid "Configuration file is invalid: \"%1\""
+msgstr "無効な設定ファイルです: \"%1\""
+
+#. +> trunk6 trunk5
+#: core/enginebase.cpp:158
+#, kde-format
+msgid "Use"
+msgstr "使用する"
+
+#. +> trunk6
+#: core/enginebase.cpp:187
+#, kde-format
+msgid ""
+"Could not initialise the installation handler for %1:\n"
+"%2\n"
+"This is a critical error and should be reported to the application author"
+msgstr ""
+"%1 のインストールハンドラを初期化できませんでした。\n"
+"%2\n"
+"これは重大なエラーです。アプリケーションの作者に報告することを検討してくださ"
+"い"
+
+#. +> trunk6 trunk5
+#: core/enginebase.cpp:354
+#, kde-format
+msgid "Loading of providers from file: %1 failed"
+msgstr "ファイル ‘%1’ からプロバイダを読み込めませんでした"
+
+#. +> trunk6 trunk5
+#: core/enginebase.cpp:372
+#, kde-format
+msgid "Could not load get hot new stuff providers from file: %1"
+msgstr "ファイル ‘%1’ からホットな新しいもののプロバイダを読み込めませんでした"
+
+#. +> trunk6 trunk5
+#: core/enginebase.cpp:403
+#, kde-format
+msgid "Error initializing provider."
+msgstr "プロバイダの初期化に失敗。"
+
+#. +> trunk6 trunk5
+#: core/installation.cpp:101
+#, kde-format
+msgid "Invalid item."
+msgstr "無効なアイテムです。"
+
+#. +> trunk6 trunk5
+#: core/installation.cpp:108
+#, kde-format
+msgid "Download of item failed: no download URL for \"%1\"."
+msgstr ""
+"アイテムのダウンロードに失敗しました: 「%1」のダウンロード URL がありません。"
+
+#. +> trunk6 trunk5
+#: core/installation.cpp:139
+#, kde-format
+msgid "Download of \"%1\" failed, error: %2"
+msgstr "「%1」のダウンロードに失敗しました。エラー: %2"
+
+#. +> trunk6 trunk5
+#: core/installation.cpp:148
+#, kde-format
+msgid ""
+"Cannot install '%1' because it points to a web page. Click <a "
+"href='%2'>here</a> to finish the installation."
+msgstr ""
+"ウェブページが示されているため、'%1' をインストールできませんでした。<a "
+"href='%2'>ここ</a>をクリックしてインストールを完了してください。"
+
+#. +> trunk6 trunk5
+#: core/installation.cpp:186
+#, kde-format
+msgid "Could not install \"%1\": file not found."
+msgstr "%1 をインストールできませんでした: ファイルが見つかりません。"
+
+#. +> trunk6 trunk5
+#: core/installation.cpp:352 core/installation.cpp:599
+#, kde-format
+msgid "Installation of %1 failed: %2"
+msgstr "%1 のインストールに失敗しました: %2"
+
+#. +> trunk6 trunk5
+#: core/installation.cpp:386
+#, kde-format
+msgid "Could not determine the type of archive of the downloaded file %1"
+msgstr "ダウンロードしたファイル %1 のアーカイブの種類を判別できませんでした"
+
+#. +> trunk6 trunk5
+#: core/installation.cpp:398
+#, kde-format
+msgid "Failed to open the archive file %1. The reported error was: %2"
+msgstr "アーカイブファイル %1 を開けませんでした。報告されたエラー: %2"
+
+#. +> trunk6 trunk5
+#: core/installation.cpp:465
+#, kde-format
+msgid ""
+"This file already exists on disk (possibly due to an earlier failed download "
+"attempt). Continuing means overwriting it. Do you wish to overwrite the "
+"existing file?"
+msgstr ""
+"このファイルは既にディスクに存在します (以前のダウンロード試行が失敗した可能"
+"性があります)。続行すると上書きされます。既存のファイルを上書きしますか？"
+
+#. +> trunk6 trunk5
+#: core/installation.cpp:468
+#, kde-format
+msgid "Overwrite File"
+msgstr "ファイルを上書き"
+
+#. +> trunk6 trunk5
+#: core/installation.cpp:487
+#, kde-format
+msgid "Unable to move the file %1 to the intended destination %2"
+msgstr "ファイル %1 を目的の場所 %2 に移動できません"
+
+#. +> trunk5
+#: core/installation.cpp:493
+#, kde-format
+msgid "The installation of %1 failed to create the expected new directory %2"
+msgstr ""
+"%1 のインストールにおいて、必要な新ディレクトリ %2 を作成できませんでした"
+
+#. +> trunk6 trunk5
+#: core/installation.cpp:510
+#, kde-format
+msgid ""
+"The installation failed while attempting to run the command:\n"
+"%1\n"
+"\n"
+"The returned output was:\n"
+"%2"
+msgstr ""
+"コマンドの実行中にインストールが失敗しました:\n"
+"%1\n"
+"\n"
+"返された出力は次のとおりです:\n"
+"%2"
+
+#. +> trunk6 trunk5
+#: core/installation.cpp:521
+#, kde-format
+msgid ""
+"The installation failed with code %1 while attempting to run the command:\n"
+"%2\n"
+"\n"
+"The returned output was:\n"
+"%3"
+msgstr ""
+"コマンドの実行中にコード %1 でインストールが失敗しました:\n"
+"%2\n"
+"\n"
+"返された出力は次のとおりです:\n"
+"%3"
+
+#. +> trunk5
+#: core/installation.cpp:525
+#, kde-format
+msgid ""
+"The installation of %1 failed, as the service type %2 was not accepted by "
+"the system (did you forget to install the KPackage support plugin for this "
+"type of package?)"
+msgstr ""
+"サービスタイプ %2 がシステムによって受け入れられなかったため、%1 のインストー"
+"ルに失敗しました (このタイプのパッケージの KPackage サポートプラグインをイン"
+"ストールしていますか？)"
+
+#. +> trunk5
+#: core/installation.cpp:535
+#, kde-format
+msgid ""
+"The installation of %1 failed, as the downloaded package does not contain a "
+"correct KPackage structure."
+msgstr ""
+
+#. +> trunk5
+#: core/installation.cpp:541
+#, kde-format
+msgid ""
+"The installation of %1 failed, as the downloaded package does not list a "
+"service type."
+msgstr ""
+
+#. +> trunk5
+#: core/installation.cpp:548
+#, kde-format
+msgid ""
+"The installation of %1 failed, as the downloaded package does not contain "
+"any useful meta information, which means it is not a valid KPackage."
+msgstr ""
+
+#. +> trunk6 trunk5
+#: core/installation.cpp:563
+#, kde-format
+msgid ""
+"The removal of %1 failed, as the installed file %2 could not be "
+"automatically removed. You can attempt to manually delete this file, if you "
+"believe this is an error."
+msgstr ""
+
+#. +> trunk5
+#: core/installation.cpp:900
+#, kde-format
+msgid ""
+"The removal of %1 failed, as the downloaded file %2 could not be "
+"automatically removed."
+msgstr ""
+
+#. +> trunk5
+#: core/installation.cpp:905
+#, kde-format
+msgid ""
+"The removal of %1 failed, due to the installed file not being a KPackage. "
+"The file in question was %2, and you can attempt to delete it yourself, if "
+"you are certain that it is not needed."
+msgstr ""
+
+#. +> trunk6 trunk5
+#: core/installation.cpp:632
+#, kde-format
+msgid ""
+"The uninstallation process failed to successfully run the command %1\n"
+"The output of was: \n"
+"%2\n"
+"If you think this is incorrect, you can continue or cancel the "
+"uninstallation process"
+msgstr ""
+"アンインストールプロセスでコマンド %1 を正常に実行できませんでした\n"
+"出力は次のとおりでした: \n"
+"%2\n"
+"これが間違っていると思う場合は、アンインストールプロセスを続行するかキャンセ"
+"ルできます"
+
+#. +> trunk5
+#: core/installation.cpp:848
+#, kde-format
+msgid ""
+"The removal of %1 failed, as the installed package does not contain a "
+"correct KPackage structure."
+msgstr ""
+
+#. +> trunk5
+#: core/installation.cpp:853
+#, kde-format
+msgid ""
+"The removal of %1 failed, as the installed package is not a supported type "
+"(did you forget to install the KPackage support plugin for this type of "
+"package?)"
+msgstr ""
+
+#. +> trunk5
+#: core/installation.cpp:860
+#, kde-format
+msgid ""
+"The removal of %1 failed, as the installed package does not contain any "
+"useful meta information, which means it is not a valid KPackage."
+msgstr ""
+
+#. +> trunk5
+#: core/installation.cpp:913
+#, kde-format
+msgid ""
+"The removal of %1 failed, as there seems to somehow be more than one thing "
+"installed, which is not supposed to be possible for KPackage based entries."
+msgstr ""
+
+#. +> trunk6 trunk5
+#: core/jobs/filecopyworker.cpp:60
+#, kde-format
+msgid "Could not open %1 for writing"
+msgstr "%1 を書き込み用に開けませんでした"
+
+#. +> trunk6 trunk5
+#: core/jobs/filecopyworker.cpp:63
+#, kde-format
+msgid "Could not open %1 for reading"
+msgstr "%1 を読み取り用に開けませんでした"
+
+#. +> trunk6 trunk5
+#: core/transaction.cpp:126
+#, kde-format
+msgid ""
+"Could not perform an installation of the entry %1 as it does not have any "
+"downloadable items defined. Please contact the author so they can fix this."
+msgstr ""
+"ダウンロード可能なアイテムが定義されていないため、エントリ %1 のインストール"
+"を実行できませんでした。作成者に連絡して修正を依頼してください。"
+
+#. +> trunk6 trunk5
+#: core/transaction.cpp:341
+#, kde-format
+msgid "Pick Update Item"
+msgstr "アップデートアイテムを選択"
+
+#. +> trunk6 trunk5
+#: core/transaction.cpp:343
+#, kde-format
+msgid ""
+"Please pick the item from the list below which should be used to apply this "
+"update. We were unable to identify which item to select, based on the "
+"original item, which was named %1"
+msgstr ""
+"このアップデートを適用するために使用するアイテムを以下のリストから選択してく"
+"ださい。元のアイテムの名前が %1 であるため、どのアイテムを選択すればよいか特"
+"定できませんでした"
+
+#. +> trunk6 trunk5
+#: core/transaction.cpp:367
+#, kde-format
+msgid ""
+"We failed to identify a good link for updating %1, and are unable to perform "
+"the update"
+msgstr ""
+"%1 をアップデートするための適切なリンクを特定できなかったため、アップデートを"
+"実行できません"
+
+#. +> trunk6 trunk5
+#: core/transaction.cpp:460
+#, kde-format
+msgid ""
+"Failed to adopt '%1'\n"
+"%2"
+msgstr ""
+"「%1」を採用できませんでした\n"
+"%2"
+
+#. +> trunk6 trunk5
+#: qtquick/categoriesmodel.cpp:52
+#, kde-format
+msgctxt ""
+"The first entry in the category selection list (also the default value)"
+msgid "All Categories"
+msgstr "すべてのカテゴリ"
+
+#. +> trunk6 trunk5
+#: qtquick/categoriesmodel.cpp:74
+#, kde-format
+msgctxt ""
+"The string passed back in the case the requested category is not known"
+msgid "Unknown Category"
+msgstr "不明なカテゴリ"
+
+#. i18nd("knewstuff6", "Download New %1…").
+#.
+#. \note For the sake of consistency, you should NOT override the text property, just set this one
+#.
+#. +> trunk6
+#: qtquick/qml/Button.qml:46
+#, kde-format
+msgctxt ""
+"Used to construct the button's label (which will become Download New 'this "
+"value'…)"
+msgid "Stuff"
+msgstr "もの"
+
+#. i18nd("knewstuff5", "Download New %1...").
+#. *
+#. @note For the sake of consistency, you should NOT override the text property, just set this one
+#.
+#. +> trunk5
+#: qtquick/qml/Button.qml:43
+#, kde-format
+msgctxt ""
+"Used to construct the button's label (which will become Download New 'this "
+"value'...)"
+msgid "Stuff"
+msgstr "もの"
+
+#. +> trunk6
+#: qtquick/qml/Button.qml:47
+#, kde-format
+msgid "Download New %1…"
+msgstr "新しい %1 をダウンロード…"
+
+#. +> trunk5
+#: qtquick/qml/Button.qml:44
+#, kde-format
+msgid "Download New %1..."
+msgstr "新しい %1 をダウンロード..."
+
+#. +> trunk6 trunk5
+#: qtquick/qml/Dialog.qml:47
+#, kde-format
+msgctxt "The dialog title when we know which type of stuff is being requested"
+msgid "Download New %1"
+msgstr "新しい %1 をダウンロード"
+
+#. +> trunk6 trunk5
+#: qtquick/qml/Dialog.qml:48
+#, kde-format
+msgctxt ""
+"A placeholder title used in the dialog when there is no better title "
+"available"
+msgid "Download New Stuff"
+msgstr "新しいものをダウンロード"
+
+#. +> trunk6 trunk5
+#: qtquick/qml/DownloadItemsSheet.qml:38
+#, kde-format
+msgid "Pick Your Installation Option"
+msgstr "インストールオプションを選択"
+
+#. +> trunk6 trunk5
+#: qtquick/qml/DownloadItemsSheet.qml:50
+#, kde-format
+msgid ""
+"Please select the option you wish to install from the list of downloadable "
+"items below. If it is unclear which you should chose out of the available "
+"options, please contact the author of this item and ask that they clarify "
+"this through the naming of the items."
+msgstr ""
+"以下のダウンロード可能なアイテムのリストからインストールしたいものを選択して"
+"ください。どれを選択すべきか分からない場合、このアイテムの作者に連絡し、アイ"
+"テムを明確にするためにわかりやすい名前付けをするよう尋ねてみてください。"
+
+#. +> trunk6 trunk5
+#: qtquick/qml/DownloadItemsSheet.qml:91
+#, kde-format
+msgid "Install"
+msgstr "インストール"
+
+#. +> trunk6 trunk5
+#: qtquick/qml/EntryDetails.qml:92
+#, kde-format
+msgctxt ""
+"A passive notification shown when installation of an item is initiated"
+msgid "Installing %1 from %2"
+msgstr "%2 から %1 をインストール中"
+
+#. +> trunk6 trunk5
+#: qtquick/qml/EntryDetails.qml:109
+#, kde-format
+msgctxt ""
+"Combined title for the entry details page made of the name of the entry, and "
+"the author's name"
+msgid "%1 by %2"
+msgstr "%1 作者: %2"
+
+#. +> trunk6 trunk5
+#: qtquick/qml/EntryDetails.qml:114
+#: qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:43
+#: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:48
+#, kde-format
+msgctxt ""
+"Request installation of this item, available when there is exactly one "
+"downloadable item"
+msgid "Install"
+msgstr "インストール"
+
+#. +> trunk6
+#: qtquick/qml/EntryDetails.qml:115
+#: qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:44
+#: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:49
+#, kde-format
+msgctxt ""
+"Show installation options, where there is more than one downloadable item"
+msgid "Install…"
+msgstr "インストール…"
+
+#. +> trunk5
+#: qtquick/qml/EntryDetails.qml:87
+#: qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:49
+#: qtquick/qml/private/entrygriddelegates/ThumbDelegate.qml:42
+#: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:56
+#, kde-format
+msgctxt ""
+"Show installation options, where there is more than one downloadable item"
+msgid "Install..."
+msgstr "インストール..."
+
+#. +> trunk6 trunk5
+#: qtquick/qml/EntryDetails.qml:131
+#: qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:59
+#: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:64
+#, kde-format
+msgctxt "Request updating of this item"
+msgid "Update"
+msgstr "アップデート"
+
+#. +> trunk6 trunk5
+#: qtquick/qml/EntryDetails.qml:138 qtquick/qml/Page.qml:121
+#, kde-format
+msgctxt "Request uninstallation of this item"
+msgid "Uninstall"
+msgstr "アンインストール"
+
+#. +> trunk5
+#: qtquick/qml/EntryDetails.qml:153
+#, kde-format
+msgid "Comments and Reviews:"
+msgstr "コメントとレビュー:"
+
+#. +> trunk6
+#: qtquick/qml/EntryDetails.qml:160
+#, kde-format
+msgctxt ""
+"Status message to be shown when the entry is in the process of being "
+"installed OR uninstalled"
+msgid "Currently working on the item %1 by %2. Please wait…"
+msgstr "%2 の %1 に関する処理を実行しています。しばらくお待ちください..."
+
+#. +> trunk5
+#: qtquick/qml/EntryDetails.qml:65
+#, kde-format
+msgctxt ""
+"Status message to be shown when the entry is in the process of being "
+"installed OR uninstalled"
+msgid "Currently working on the item %1 by %2. Please wait..."
+msgstr "%2 の %1 に関する処理を実行しています。しばらくお待ちください..."
+
+#. +> trunk6
+#: qtquick/qml/EntryDetails.qml:162
+#, kde-format
+msgctxt ""
+"Status message to be shown when the entry is in the process of being updated"
+msgid "Currently updating the item %1 by %2. Please wait…"
+msgstr "%2 の %1 を更新しています。しばらくお待ちください..."
+
+#. +> trunk5
+#: qtquick/qml/EntryDetails.qml:67
+#, kde-format
+msgctxt ""
+"Status message to be shown when the entry is in the process of being updated"
+msgid "Currently updating the item %1 by %2. Please wait..."
+msgstr "%2 の %1 を更新しています。しばらくお待ちください..."
+
+#. +> trunk6 trunk5
+#: qtquick/qml/EntryDetails.qml:164
+#, kde-format
+msgctxt ""
+"Status message which should only be shown when the entry has been given some "
+"unknown or invalid status."
+msgid ""
+"This item is currently in an invalid or unknown state. <a href=\"https://"
+"bugs.kde.org/enter_bug.cgi?product=frameworks-knewstuff\">Please report this "
+"to the KDE Community in a bug report</a>."
+msgstr ""
+"このアイテムは現在、無効もしくは不明な状態です。<a href=\"https://"
+"bugs.kde.org/enter_bug.cgi?product=frameworks-knewstuff\">KDE Community にこ"
+"のバグを報告してください</a>"
+
+#. +> trunk6 trunk5
+#: qtquick/qml/EntryDetails.qml:218
+#, kde-format
+msgid "Rating:"
+msgstr "評価:"
+
+#. +> trunk6
+#: qtquick/qml/EntryDetails.qml:226
+#, fuzzy, kde-format
+#| msgctxt ""
+#| "A link which, when clicked, opens a new sub page with comments (comments "
+#| "with or without ratings) for this entry"
+#| msgid "%1 Reviews and Comments"
+msgctxt "@action:button Opens a new sub-page with comments for this entry"
+msgid "See %1 Reviews and Comments"
+msgstr "%1 個のレビューとコメント"
+
+#. +> trunk5
+#: qtquick/qml/EntryDetails.qml:155
+#, kde-format
+msgctxt ""
+"A link which, when clicked, opens a new sub page with comments (comments "
+"with or without ratings) for this entry"
+msgid "%1 Reviews and Comments"
+msgstr "%1 個のレビューとコメント"
+
+#. +> trunk6 trunk5
+#: qtquick/qml/EntryDetails.qml:231
+#, kde-format
+msgid "Homepage:"
+msgstr "ホームページ:"
+
+#. +> trunk6 trunk5
+#: qtquick/qml/EntryDetails.qml:232
+#, kde-format
+msgctxt ""
+"A link which, when clicked, opens the website associated with the entry "
+"(this could be either one specific to the project, the author's homepage, or "
+"any other website they have chosen for the purpose)"
+msgid "Open the homepage for %1"
+msgstr "%1 のホームページを開く"
+
+#. +> trunk6 trunk5
+#: qtquick/qml/EntryDetails.qml:238
+#, kde-format
+msgid "How To Donate:"
+msgstr "寄付の方法:"
+
+#. +> trunk6 trunk5
+#: qtquick/qml/EntryDetails.qml:239
+#, kde-format
+msgctxt ""
+"A link which, when clicked, opens a website with information on donation in "
+"support of the entry"
+msgid "Find out how to donate to this project"
+msgstr "このプロジェクトに寄付する方法を調べる"
+
+#. +> trunk5
+#: qtquick/qml/Page.qml:132
+#, kde-format
+msgctxt ""
+"A message which is shown when the user attempts to display a specific entry "
+"from a specific provider, but that entry isn't found"
+msgid ""
+"The entry you attempted to display, identified by the unique ID %1, could "
+"not be found."
+msgstr ""
+"あなたが表示しようとしたエントリ (ユニーク ID: %1) は見つかりませんでした。"
+
+#. +> trunk6
+#: qtquick/qml/Page.qml:147
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info displayed as InlineMessage"
+#| msgid ""
+#| "Use caution when accessing user-created content shown here, as it may "
+#| "contain executable code that hasn't been tested by KDE or your "
+#| "distributor for safety, stability, or quality."
+msgctxt "@info displayed as InlineMessage"
+msgid ""
+"Use caution when accessing user-created content shown here, as it may "
+"contain executable code that hasn't been tested by KDE or %1 for safety, "
+"stability, or quality."
+msgstr ""
+"ここに表示されているユーザ作成コンテンツにアクセスするときは注意してくださ"
+"い。KDE またはディストリビュータによって安全性、安定性、品質がテストされてい"
+"ない実行可能コードが含まれている可能性があります。"
+
+#. +> trunk6
+#: qtquick/qml/Page.qml:148
+#, fuzzy, kde-format
+#| msgctxt "@info displayed as InlineMessage"
+#| msgid ""
+#| "User-created content shown here hasn't been tested by KDE or your "
+#| "distributor for functionality or quality."
+msgctxt "@info displayed as InlineMessage"
+msgid ""
+"User-created content shown here hasn't been tested by KDE or %1 for "
+"functionality or quality."
+msgstr ""
+"ここに表示されているユーザ作成コンテンツは、KDE ​​またはディストリビュータに"
+"よって機能や品質がテストされていません。"
+
+#. +> trunk6
+#: qtquick/qml/Page.qml:179
+#, kde-format
+msgctxt "@action:button opening menu similar to combobox, filter list"
+msgid "All"
+msgstr "すべて"
+
+#. +> trunk5
+#: qtquick/qml/Page.qml:179
+#, kde-format
+msgid ""
+"The content available here has been uploaded by users like you, and has not "
+"been reviewed by your distributor for functionality or stability."
+msgstr ""
+"ここで取得できるコンテンツは、あなたのようなユーザによってアップロードされて"
+"います。そのため、ディストリビュータによる機能性や安定性の確認はされていませ"
+"ん。"
+
+#. +> trunk6
+#: qtquick/qml/Page.qml:181
+#, kde-format
+msgctxt "@action:button opening menu similar to combobox, filter list"
+msgid "Installed"
+msgstr "インストール済み"
+
+#. +> trunk6
+#: qtquick/qml/Page.qml:183
+#, kde-format
+msgctxt "@action:button opening menu similar to combobox, filter list"
+msgid "Updateable"
+msgstr "アップデート可能"
+
+#. +> trunk6
+#: qtquick/qml/Page.qml:193
+#, kde-format
+msgctxt ""
+"@option:radio similar to combobox item, List option which will set the "
+"filter to show everything"
+msgid "All"
+msgstr "すべて"
+
+#. +> trunk5
+#: qtquick/qml/Page.qml:282
+#, kde-format
+msgctxt "List option which will set the filter to show everything"
+msgid "Show All Entries"
+msgstr "すべてのエントリを表示"
+
+#. +> trunk6
+#: qtquick/qml/Page.qml:204
+#, kde-format
+msgctxt ""
+"@option:radio similar to combobox item, List option which will set the "
+"filter so only installed items are shown"
+msgid "Installed"
+msgstr "インストール済み"
+
+#. +> trunk5
+#: qtquick/qml/Page.qml:214
+#, kde-format
+msgid "Tiles"
+msgstr "タイトル"
+
+#. +> trunk5
+#: qtquick/qml/Page.qml:290
+#, kde-format
+msgctxt ""
+"List option which will set the filter so only installed items are shown"
+msgid "Show Only Installed Entries"
+msgstr "インストール済みのエントリのみ表示"
+
+#. +> trunk6
+#: qtquick/qml/Page.qml:215
+#, kde-format
+msgctxt ""
+"@option:radio similar to combobox item, List option which will set the "
+"filter so only installed items with updates available are shown"
+msgid "Updateable"
+msgstr "アップデート可能"
+
+#. +> trunk5
+#: qtquick/qml/Page.qml:216
+#, kde-format
+msgid "Icons"
+msgstr "アイコン"
+
+#. +> trunk5
+#: qtquick/qml/Page.qml:218
+#, kde-format
+msgid "Preview"
+msgstr "プレビュー"
+
+#. +> trunk5
+#: qtquick/qml/Page.qml:298
+#, kde-format
+msgctxt ""
+"List option which will set the filter so only installed items with updates "
+"available are shown"
+msgid "Show Only Updateable Entries"
+msgstr "アップデートできるエントリのみ表示"
+
+#. +> trunk6
+#: qtquick/qml/Page.qml:228
+#, kde-format
+msgctxt "@action:button opening menu similar to combobox, filter list"
+msgid "Sort: Release date"
+msgstr "並び替え: リリース日"
+
+#. +> trunk6
+#: qtquick/qml/Page.qml:230
+#, kde-format
+msgctxt "@action:button opening menu similar to combobox, filter list"
+msgid "Sort: Name"
+msgstr "並べ替え: 名前"
+
+#. +> trunk6
+#: qtquick/qml/Page.qml:232
+#, kde-format
+msgctxt "@action:button opening menu similar to combobox, filter list"
+msgid "Sort: Rating"
+msgstr "並べ替え: 評価"
+
+#. +> trunk5
+#: qtquick/qml/Page.qml:233
+#, kde-format
+msgid "Detailed Tiles View Mode"
+msgstr "詳細タイル表示モード"
+
+#. +> trunk6
+#: qtquick/qml/Page.qml:234
+#, kde-format
+msgctxt "@action:button opening menu similar to combobox, filter list"
+msgid "Sort: Downloads"
+msgstr "並べ替え: ダウンロード数"
+
+#. +> trunk5
+#: qtquick/qml/Page.qml:241
+#, kde-format
+msgid "Icons Only View Mode"
+msgstr "アイコン表示モード"
+
+#. +> trunk6
+#: qtquick/qml/Page.qml:243
+#, kde-format
+msgctxt ""
+"@option:radio in menu, List option which will set the sort order to be "
+"alphabetical based on the name"
+msgid "Name"
+msgstr "名前"
+
+#. +> trunk5
+#: qtquick/qml/Page.qml:249
+#, kde-format
+msgid "Large Preview View Mode"
+msgstr "大きなプレビュー表示モード"
+
+#. +> trunk5
+#: qtquick/qml/Page.qml:341
+#, kde-format
+msgctxt ""
+"List option which will set the sort order to be alphabetical based on the "
+"name"
+msgid "Sort Alphabetically By Name"
+msgstr "アルファベット順にソート"
+
+#. +> trunk6
+#: qtquick/qml/Page.qml:254
+#, kde-format
+msgctxt ""
+"@option:radio in menu, List option which will set the sort order to based on "
+"user ratings"
+msgid "Rating"
+msgstr "評価"
+
+#. +> trunk5
+#: qtquick/qml/Page.qml:259
+#, kde-format
+msgid "Everything"
+msgstr "すべて"
+
+#. +> trunk5
+#: qtquick/qml/Page.qml:263
+#, kde-format
+msgid "Updateable"
+msgstr "アップデートできるもの"
+
+#. +> trunk5
+#: qtquick/qml/Page.qml:349
+#, kde-format
+msgctxt "List option which will set the sort order to based on user ratings"
+msgid "Show Highest Rated First"
+msgstr "高評価順に表示"
+
+#. +> trunk6
+#: qtquick/qml/Page.qml:265
+#, kde-format
+msgctxt ""
+"@option:radio similar to combobox item, List option which will set the sort "
+"order to based on number of downloads"
+msgid "Downloads"
+msgstr "ダウンロード数"
+
+#. +> trunk5
+#: qtquick/qml/Page.qml:314
+#, kde-format
+msgid "Downloads"
+msgstr "ダウンロード"
+
+#. +> trunk5
+#: qtquick/qml/Page.qml:357
+#, kde-format
+msgctxt ""
+"List option which will set the sort order to based on number of downloads"
+msgid "Show Most Downloaded First"
+msgstr "ダウンロード数が多い順に表示"
+
+#. +> trunk6
+#: qtquick/qml/Page.qml:276
+#, kde-format
+msgctxt ""
+"@option:radio similar to combobox item, List option which will set the sort "
+"order to based on when items were most recently updated"
+msgid "Release date"
+msgstr "リリース日"
+
+#. +> trunk5
+#: qtquick/qml/Page.qml:333
+#, kde-format
+msgctxt ""
+"List option which will set the sort order to based on when items were most "
+"recently updated"
+msgid "Show Most Recent First"
+msgstr "最新のもの順に表示"
+
+#. +> trunk6
+#: qtquick/qml/Page.qml:289
+#, kde-format
+msgid "Upload…"
+msgstr "アップロード…"
+
+#. +> trunk5
+#: qtquick/qml/Page.qml:366
+#, kde-format
+msgid "Upload..."
+msgstr "アップロード..."
+
+#. +> trunk6 trunk5
+#: qtquick/qml/Page.qml:290
+#, kde-format
+msgid "Learn how to add your own hot new stuff to this list"
+msgstr "作成したものをこのリストに追加する方法を知る"
+
+#. +> trunk6
+#: qtquick/qml/Page.qml:300
+#, kde-format
+msgid "Go to…"
+msgstr "移動…"
+
+#. +> trunk5
+#: qtquick/qml/Page.qml:375
+#, kde-format
+msgid "Go to..."
+msgstr "移動..."
+
+#. +> trunk6
+#: qtquick/qml/Page.qml:307 qtquick/qml/Page.qml:316
+#, kde-format
+msgid "Search…"
+msgstr "検索…"
+
+#. +> trunk5
+#: qtquick/qml/Page.qml:308
+#, kde-format
+msgid "Recent"
+msgstr "最近更新"
+
+#. +> trunk5
+#: qtquick/qml/Page.qml:310
+#, kde-format
+msgid "Alphabetical"
+msgstr "アルファベット順"
+
+#. +> trunk6 trunk5
+#: qtquick/qml/Page.qml:370
+#, kde-format
+msgid "Category:"
+msgstr "カテゴリ:"
+
+#. +> trunk6
+#: qtquick/qml/Page.qml:390
+#, kde-format
+msgid "Contribute Your Own…"
+msgstr "作成したものを投稿..."
+
+#. +> trunk5
+#: qtquick/qml/Page.qml:442
+#, kde-format
+msgid "Contribute your own…"
+msgstr "作成したものをアップロード..."
+
+#. +> trunk5
+#: qtquick/qml/Page.qml:508
+#, kde-format
+msgctxt ""
+"A text shown beside a busy indicator suggesting that data is being fetched"
+msgid "Loading more…"
+msgstr "読み込み中..."
+
+#. +> trunk6 trunk5
+#: qtquick/qml/private/EntryCommentDelegate.qml:103
+#, kde-format
+msgctxt ""
+"Placeholder title for when a comment has no subject, but does have a rating"
+msgid "<i>(no title)</i>"
+msgstr "(タイトルなし)"
+
+#. +> trunk6 trunk5
+#: qtquick/qml/private/EntryCommentDelegate.qml:136
+#, kde-format
+msgctxt ""
+"The author label in case the comment was written by the author of the "
+"content entry the comment is attached to"
+msgid "%1 <i>(author)</i>"
+msgstr "%1 <i>(作者)</i>"
+
+#. +> trunk6 trunk5
+#: qtquick/qml/private/EntryCommentsPage.qml:27
+#, kde-format
+msgctxt "Title for the page containing a view of the comments for the entry"
+msgid "Comments and Reviews for %1"
+msgstr "%1 のコメントとレビュー"
+
+#. +> trunk6 trunk5
+#: qtquick/qml/private/EntryCommentsPage.qml:30
+#, kde-format
+msgctxt "Title for the item which is checked when all comments should be shown"
+msgid "Show All Comments"
+msgstr "すべてのコメントを表示"
+
+#. +> trunk6 trunk5
+#: qtquick/qml/private/EntryCommentsPage.qml:38
+#, kde-format
+msgctxt ""
+"Title for the item which is checked when only comments which are reviews "
+"should be shown"
+msgid "Show Reviews Only"
+msgstr "レビューのみ表示"
+
+#. +> trunk6 trunk5
+#: qtquick/qml/private/EntryCommentsPage.qml:46
+#, kde-format
+msgctxt ""
+"Title for the item which is checked when comments which are reviews, and "
+"their children should be shown"
+msgid "Show Reviews and Replies"
+msgstr "レビューと返信を表示"
+
+#. +> trunk6 trunk5
+#: qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:140
+#: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:185
+#, kde-format
+msgctxt "The number of times the item has been downloaded"
+msgid "%1 downloads"
+msgstr "%1 回のダウンロード"
+
+#. +> trunk6 trunk5
+#: qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:153
+#: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:164
+#, kde-format
+msgctxt ""
+"Subheading for the tile view, located immediately underneath the name of the "
+"item"
+msgid "By <i>%1</i>"
+msgstr "作者: <i>%1</i>"
+
+#. +> trunk6
+#: qtquick/qml/private/entrygriddelegates/FeedbackOverlay.qml:46
+#, kde-format
+msgctxt ""
+"Label for the busy indicator showing an item is being installed OR "
+"uninstalled"
+msgid "Working…"
+msgstr "進行中…"
+
+#. +> trunk5
+#: qtquick/qml/private/entrygriddelegates/FeedbackOverlay.qml:44
+#, kde-format
+msgctxt ""
+"Label for the busy indicator showing an item is being installed OR "
+"uninstalled"
+msgid "Working..."
+msgstr "進行中..."
+
+#. +> trunk6
+#: qtquick/qml/private/entrygriddelegates/FeedbackOverlay.qml:48
+#, kde-format
+msgctxt ""
+"Label for the busy indicator showing an item is in the process of being "
+"updated"
+msgid "Updating…"
+msgstr "アップデート中…"
+
+#. +> trunk5
+#: qtquick/qml/private/entrygriddelegates/FeedbackOverlay.qml:46
+#, kde-format
+msgctxt ""
+"Label for the busy indicator showing an item is in the process of being "
+"updated"
+msgid "Updating..."
+msgstr "アップデート中..."
+
+#. +> trunk6 trunk5
+#: qtquick/qml/private/entrygriddelegates/FeedbackOverlay.qml:50
+#, kde-format
+msgctxt ""
+"Label for the busy indicator which should only be shown when the entry has "
+"been given some unknown or invalid status."
+msgid ""
+"Invalid or unknown state. <a href=\"https://bugs.kde.org/enter_bug.cgi?"
+"product=frameworks-knewstuff\">Please report this to the KDE Community in a "
+"bug report</a>."
+msgstr ""
+"無効もしくは不明な状態です。<a href=\"https://bugs.kde.org/enter_bug.cgi?"
+"product=frameworks-knewstuff\">KDE Community にこのバグを報告してください</a>"
+
+#. +> trunk6
+#: qtquick/qml/private/entrygriddelegates/FeedbackOverlay.qml:63
+#, kde-format
+msgctxt "Label for the busy indicator showing an item is installing"
+msgid "Installing…"
+msgstr "インストール中…"
+
+#. +> trunk5
+#: qtquick/qml/private/entrygriddelegates/FeedbackOverlay.qml:61
+#, kde-format
+msgctxt "Label for the busy indicator showing an item is installing"
+msgid "Installing..."
+msgstr "インストール中..."
+
+#. +> trunk6 trunk5
+#: qtquick/qml/private/ErrorDisplayer.qml:15
+#, kde-format
+msgctxt "Title for a dialog box which shows error messages"
+msgid "An Error Occurred"
+msgstr "エラーが発生しました"
+
+#. +> trunk6 trunk5
+#: qtquick/qml/private/ErrorDisplayer.qml:82
+#, kde-format
+msgid "Please try again later."
+msgstr "しばらくたってからやり直してください。"
+
+#. +> trunk6 trunk5
+#: qtquick/qml/private/GridTileDelegate.qml:120
+#, kde-format
+msgid "None"
+msgstr "なし"
+
+#. +> trunk6 trunk5
+#: qtquick/qml/private/Rating.qml:81
+#, kde-format
+msgctxt ""
+"A text representation of the rating, shown as a fraction of the max value"
+msgid "(%1/%2)"
+msgstr "(%1/%2)"
+
+#. +> trunk6
+#: qtquick/qml/UploadPage.qml:53
+#, kde-format
+msgctxt "@knewstuff6"
+msgid "Upload New Stuff: %1"
+msgstr "新しいものをアップロード: %1"
+
+#. +> trunk5
+#: qtquick/qml/UploadPage.qml:51
+#, kde-format
+msgctxt "@knewstuff5"
+msgid "Upload New Stuff: %1"
+msgstr "新しいものをアップロード: %1"
+
+#. +> trunk6
+#: qtquick/qml/UploadPage.qml:114
+#, kde-format
+msgctxt ""
+"A text shown beside a busy indicator suggesting that data is being fetched"
+msgid "Updating information…"
+msgstr "情報を更新中..."
+
+#. +> trunk5
+#: qtquick/qml/UploadPage.qml:83
+#, kde-format
+msgctxt ""
+"A text shown beside a busy indicator suggesting that data is being fetched"
+msgid "Updating information..."
+msgstr "情報を更新中..."
+
+#. +> trunk6 trunk5
+#: qtquick/qml/UploadPage.qml:129
+#, kde-format
+msgctxt "The name of the KDE Store"
+msgid "KDE Store"
+msgstr "KDE Store"
+
+#. +> trunk6 trunk5
+#: qtquick/qml/UploadPage.qml:135
+#, kde-format
+msgctxt "An unnamed provider"
+msgid "Your Provider"
+msgstr "プロバイダ"
+
+#. +> trunk6 trunk5
+#: qtquick/qml/UploadPage.qml:144
+#, kde-format
+msgctxt ""
+"Text for an action which causes the specified website to be opened using the "
+"user's system default browser"
+msgid "Open Website: %1"
+msgstr "ウェブサイトを開く: %1"
+
+#. +> trunk6 trunk5
+#: qtquick/qml/UploadPage.qml:152
+#, kde-format
+msgctxt ""
+"Text for an action which will attempt to send an email using the user's "
+"system default email client"
+msgid "Send Email To: %1"
+msgstr "メールを送信する: %1"
+
+#. +> trunk6
+#: qtquick/qml/UploadPage.qml:162
+#, kde-format
+msgctxt "A description of how to upload content to a generic provider"
+msgid ""
+"To upload new entries, or to add content to an existing entry on the KDE "
+"Store, please open the website and log in. Once you have done this, you will "
+"be able to find the My Products entry in the menu which pops up when you "
+"click your user icon. Click on this entry to go to the product management "
+"system, where you can work on your products."
+msgstr ""
+"新しいエントリをアップロードしたり、KDE ストアの既存のエントリにコンテンツを"
+"追加するには、ウェブサイトを開いてログインしてください。これが完了すると、"
+"ユーザアイコンのクリックでポップアップする「My Products」エントリが表示されま"
+"す。このエントリをクリックすると、プロダクト管理システムに移動し、プロダクト"
+"の作業を行うことができます。"
+
+#. +> trunk5
+#: qtquick/qml/UploadPage.qml:121
+#, kde-format
+msgctxt "A description of how to upload content to a generic provider"
+msgid ""
+"To upload new entries, or to add content to an existing entry on the KDE "
+"Store, please open the website and log in. Once you have done this, you will "
+"be able to find the My Products entry in the menu which pops up when you "
+"click your user icon. Click on this entry to go to the product management "
+"system, where you can work on your products ."
+msgstr ""
+"新しいエントリをアップロード、もしくは既存のエントリに何かを追加するには、"
+"KDE Store を開いてログインしてください。あなたのユーザアイコンをクリックする"
+"と表示されるメニューに、\"My Products\" エントリがあります。このエントリをク"
+"リックして管理システムを開き、あなたの製作物を公開してください。"
+
+#. +> trunk6 trunk5
+#: qtquick/qml/UploadPage.qml:163
+#, kde-format
+msgctxt "A description of how to upload content to the KDE Store specifically"
+msgid ""
+"To upload new entries, or to add content to an existing entry, please open "
+"the provider's website and follow the instructions there. You will likely "
+"need to create a user and log in to a product management system, where you "
+"will need to follow the instructions for how to add. Alternatively, you "
+"might be required to contact the managers of the site directly to get new "
+"content added."
+msgstr ""
+"新しいエントリをアップロード、もしくは既存のエントリに何かを追加するには、プ"
+"ロバイダのウェブサイトの指示に従ってください。おそらく、まず管理システムの"
+"ユーザアカウントを作成してログインする必要があります。コンテンツを追加するた"
+"めに、ウェブサイトの管理者への連絡が要求されることもあります。"
+
+#. +> trunk6 trunk5
+#: qtquick/quickengine.cpp:82 qtquick/quickengine.cpp:168
+#: qtquick/quickengine.cpp:176
+#, kde-format
+msgid "Loading data"
+msgstr "データをロード中"
+
+#. +> trunk6 trunk5
+#: qtquick/quickengine.cpp:172
+#, kde-format
+msgid "Installing"
+msgstr "インストール中"
+
+#. +> trunk6 trunk5
+#: qtquick/quickengine.cpp:227
+#, kde-format
+msgctxt ""
+"An informational message which is shown to inform the user they are not "
+"authorized to use GetHotNewStuff functionality"
+msgid ""
+"You are not authorized to Get Hot New Stuff. If you think this is in error, "
+"please contact the person in charge of your permissions."
+msgstr ""
+"あなたには「Get Hot New Stuff」の権限がありません。これが誤りだと思う場合は、"
+"権限の担当者に連絡してください。"
+
+#. +> trunk6 trunk5
+#: qtquick/searchpresetmodel.cpp:46
+#, kde-format
+msgctxt "Knewstuff5"
+msgid "Back"
+msgstr "戻る"
+
+#. +> trunk6 trunk5
+#: qtquick/searchpresetmodel.cpp:48
+#, kde-format
+msgctxt "Knewstuff5"
+msgid "Popular"
+msgstr "人気"
+
+#. +> trunk6 trunk5
+#: qtquick/searchpresetmodel.cpp:50
+#, kde-format
+msgctxt "Knewstuff5"
+msgid "Featured"
+msgstr "おすすめ"
+
+#. +> trunk6 trunk5
+#: qtquick/searchpresetmodel.cpp:52
+#, kde-format
+msgctxt "Knewstuff5"
+msgid "Restart"
+msgstr "再起動"
+
+#. +> trunk6 trunk5
+#: qtquick/searchpresetmodel.cpp:54
+#, kde-format
+msgctxt "Knewstuff5"
+msgid "New"
+msgstr "最新"
+
+#. +> trunk6 trunk5
+#: qtquick/searchpresetmodel.cpp:56
+#, kde-format
+msgctxt "Knewstuff5"
+msgid "Home"
+msgstr "ホーム"
+
+#. +> trunk6 trunk5
+#: qtquick/searchpresetmodel.cpp:58
+#, kde-format
+msgctxt "Knewstuff5"
+msgid "Shelf"
+msgstr "棚"
+
+#. +> trunk6 trunk5
+#: qtquick/searchpresetmodel.cpp:60
+#, kde-format
+msgctxt "Knewstuff5"
+msgid "Up"
+msgstr "上へ"
+
+#. +> trunk6 trunk5
+#: qtquick/searchpresetmodel.cpp:62
+#, kde-format
+msgctxt "Knewstuff5"
+msgid "Recommended"
+msgstr "おすすめ"
+
+#. +> trunk6 trunk5
+#: qtquick/searchpresetmodel.cpp:64
+#, kde-format
+msgctxt "Knewstuff5"
+msgid "Subscriptions"
+msgstr "サブスクリプション"
+
+#. +> trunk6 trunk5
+#: qtquick/searchpresetmodel.cpp:66
+#, kde-format
+msgctxt "Knewstuff5"
+msgid "All Entries"
+msgstr "すべてのエントリ"
+
+#. +> trunk6 trunk5
+#: qtquick/searchpresetmodel.cpp:70
+#, kde-format
+msgctxt "Knewstuff5"
+msgid "Search Preset: %1"
+msgstr "検索プリセット: %1"
+
+#. +> trunk6 trunk5
+#: tools/knewstuff-dialog/main.cpp:30
+#, kde-format
+msgid ""
+"The KNSRC file you want to show. If none is passed, you will be presented "
+"with a dialog which lets you switch between all the config files installed "
+"into the systemwide knsrc file location"
+msgstr ""
+"表示する KNSRC ファイル。何も渡されない場合は、システム全体の KNSRC ファイル"
+"の場所にインストールされている、すべての設定ファイルを切り替えることができる"
+"ダイアログが表示されます。"
+
+#. +> trunk6
+#: tools/knewstuff-dialog/main.cpp:34
+#, kde-format
+msgid ""
+"A kns url to show information from. The format for a kns url is kns://"
+"knsrcfile/providerid/entryid\n"
+"'knsrcfile'\n"
+"is the name of a knsrc file as might be passed directly through this tool's "
+"knsrcfile argument\n"
+"'providerid'\n"
+"is the hostname of the provider the entry should exist on\n"
+"'entryid'\n"
+"is the unique ID of an entry found in the provider specified by the knsrc "
+"file.\n"
+" An example of such a url is kns://sddmtheme.knsrc/api.kde-look.org/2059021"
+msgstr ""
+"情報を表示する kns url。kns url の形式は kns://knsrcfile/providerid/entryid\n"
+"「knsrcfile」は、\n"
+"このツールの knsrcfile 引数を介して直接渡される可能性のある knsrc ファイルの"
+"名前です\n"
+"「providerid」は、\n"
+"エントリが存在するプロバイダのホスト名です\n"
+"「entryid」は、\n"
+"knsrc ファイルで指定されたプロバイダで見つかったエントリの一意の ID です。\n"
+"url の例 kns://sddmtheme.knsrc/api.kde-look.org/2059021"
+
+#. +> trunk5
+#: tools/knewstuff-dialog/main.cpp:35
+#, kde-format
+msgid ""
+"A kns url to show information from. The format for a kns url is kns://"
+"knsrcfile/providerid/entryid\n"
+"'knsrcfile'\n"
+"is the name of a knsrc file as might be passed directly through this tool's "
+"knsrcfile argument\n"
+"'providerid'\n"
+"is the hostname of the provider the entry should exist on\n"
+"'entryid'\n"
+"is the unique ID of an entry found in the provider specified by the knsrc "
+"file.\n"
+" An example of such a url is kns://peruse.knsrc/api.kde-look.org/1316714"
+msgstr ""
+"情報を表示する kns url。kns url の形式は kns://knsrcfile/providerid/entryid\n"
+"「knsrcfile」は、\n"
+"このツールの knsrcfile 引数を介して直接渡される可能性のある knsrc ファイルの"
+"名前です\n"
+"「providerid」は、\n"
+"エントリが存在するプロバイダのホスト名です\n"
+"「entryid」は、\n"
+"knsrc ファイルで指定されたプロバイダで見つかったエントリの一意の ID です。\n"
+"url の例 kns://peruse.knsrc/api.kde-look.org/1316714"
+
+#. +> trunk6
+#: widgets/action.cpp:28 widgets/button.cpp:70
+#, kde-format
+msgctxt "@action"
+msgid "Download New Stuff…"
+msgstr "新しいものをダウンロード..."
+
+#. +> trunk5
+#: button.cpp:43 widgets/action.cpp:34 widgets/button.cpp:58
+#, kde-format
+msgid "Download New Stuff..."
+msgstr "新しいものをダウンロード..."
+
+#. +> trunk5
+#: core/engine.cpp:203
+#, kde-format
+msgid "Initializing"
+msgstr "初期化中"
+
+#. +> trunk5
+#: core/engine.cpp:284
+#, kde-format
+msgid ""
+"Could not initialise the installation handler for %1\n"
+"This is a critical error and should be reported to the application author"
+msgstr ""
+"%1 のインストールハンドラを初期化できませんでした。\n"
+"これは重大なエラーです。アプリケーションの作者に報告することを検討してくださ"
+"い"
+
+#. +> trunk5
+#: core/engine.cpp:359
+#, kde-format
+msgid "Loading provider information"
+msgstr "プロバイダ情報を読み込み中"
+
+#. +> trunk5
+#: core/engine.cpp:496
+#, kde-format
+msgid "Loading data from provider"
+msgstr "プロバイダからデータを読み込み中"
+
+#. +> trunk5
+#: core/engine.cpp:972
+#, kde-format
+msgid "Re: %1"
+msgstr "Re: %1"
+
+#. +> trunk5
+#: core/engine.cpp:1018
+#, kde-format
+msgid "Loading one preview"
+msgid_plural "Loading %1 previews"
+msgstr[0] "プレビューを %1 つ読み込み中"
+
+#. +> trunk5
+#: core/jobs/kpackagejob.cpp:114
+#, kde-format
+msgid ""
+"Failed to create a job for the package management task. This is usually "
+"because the package is invalid. We attempted to operate on the package %1"
+msgstr ""
+"パッケージ管理タスクのジョブを作成できませんでした。これは通常、パッケージが"
+"無効であることが原因です。パッケージ %1 を操作しようとしました"
+
+#. +> trunk5
+#: core/jobs/kpackagejob.cpp:121
+#, kde-format
+msgid ""
+"Could not create a package installer for the service type %1: The installer "
+"does not have a valid structure"
+msgstr ""
+"サービスタイプ %1 のパッケージインストーラを作成できませんでした: インストー"
+"ラの構造が無効です"
+
+#. +> trunk5
+#: core/jobs/kpackagejob.cpp:125
+#, kde-format
+msgid "The service type %1 was not understood by the KPackage installer"
+msgstr ""
+"サービスタイプ %1 は、KPackage インストーラによって認識されませんでした"
+
+#. +> trunk5
+#: core/security.cpp:69
+#, kde-format
+msgid ""
+"<qt>Cannot start <i>gpg</i> and retrieve the available keys. Make sure that "
+"<i>gpg</i> is installed, otherwise verification of downloaded resources will "
+"not be possible.</qt>"
+msgstr ""
+"<qt><tt>gpg</tt> を起動して有効な鍵を読み出すことができません。<tt>gpg</tt> "
+"がインストールされているか確認してください。インストールされていないと、ダウ"
+"ンロードしたリソースの検証はできません。</qt>"
+
+#. +> trunk5
+#: core/security.cpp:191
+#, kde-format
+msgid ""
+"<qt>Enter passphrase for key <b>0x%1</b>, belonging to<br /><i>%2&lt;%3&gt;</"
+"i><br />:</qt>"
+msgstr ""
+"<qt>%2&lt;%3&gt; が所有する<br />鍵 <b>0x%1</b><br /> のパスフレーズを入力し"
+"てください<br />:</qt>"
+
+#. +> trunk5
+#: core/security.cpp:264
+#, kde-format
+msgid ""
+"<qt>Cannot start <i>gpg</i> and check the validity of the file. Make sure "
+"that <i>gpg</i> is installed, otherwise verification of downloaded resources "
+"will not be possible.</qt>"
+msgstr ""
+"<qt><tt>gpg</tt> を起動してファイルの有効性をチェックすることができません。"
+"<tt>gpg</tt> がインストールされているか確認してください。インストールされてい"
+"ないと、ダウンロードしたリソースの検証はできません。</qt>"
+
+#. +> trunk5
+#: core/security.cpp:320
+#, kde-format
+msgid "Key used for signing:"
+msgstr "署名に使う鍵:"
+
+#. +> trunk5
+#: core/security.cpp:321
+#, kde-format
+msgid "Select Signing Key"
+msgstr "署名鍵を選択"
+
+#. +> trunk5
+#: core/security.cpp:348
+#, kde-format
+msgid ""
+"<qt>Cannot start <i>gpg</i> and sign the file. Make sure that <i>gpg</i> is "
+"installed, otherwise signing of the resources will not be possible.</qt>"
+msgstr ""
+"<qt><tt>gpg</tt> を起動してファイルに署名できません。<tt>gpg</tt> がインス"
+"トールされていることを確認してください。インストールされていないと、リソース"
+"に署名できません。</qt>"
+
+#. +> trunk5
+#: downloaddialog.cpp:69 downloadwidget.cpp:213
+#, kde-format
+msgid "Get Hot New Stuff"
+msgstr "ホットな新しいものを取得"
+
+#. +> trunk5
+#: downloaddialog.cpp:86
+#, kde-format
+msgctxt "Program name followed by 'Add On Installer'"
+msgid "%1 Add-On Installer"
+msgstr "%1 のアドオンインストーラ"
+
+#. +> trunk5
+#: downloadwidget.cpp:123
+#, kde-format
+msgid "Timeout. Check Internet connection."
+msgstr "タイムアウトしました。インターネット接続を確認してください。"
+
+#. +> trunk5
+#: downloadwidget.cpp:186
+#, kde-format
+msgid "Server: %1"
+msgstr "サーバ: %1"
+
+#. +> trunk5
+#: downloadwidget.cpp:187
+#, kde-format
+msgid "<br />Provider: %1"
+msgstr "<br/>プロバイダ: %1"
+
+#. +> trunk5
+#: downloadwidget.cpp:188
+#, kde-format
+msgid "<br />Version: %1"
+msgstr "<br/>バージョン: %1"
+
+#. +> trunk5
+#: downloadwidget.cpp:190
+#, kde-format
+msgid "Provider information"
+msgstr "プロバイダ情報"
+
+#. +> trunk5
+#: downloadwidget.cpp:203
+#, kde-format
+msgid "Could not install %1"
+msgstr "%1 をインストールできませんでした"
+
+#. +> trunk5
+#: downloadwidget.cpp:203
+#, kde-format
+msgid "Get Hot New Stuff!"
+msgstr "ホットな新しいものを手に入れよう！"
+
+#. +> trunk5
+#: downloadwidget.cpp:262
+#, kde-format
+msgid "Icons view mode"
+msgstr "アイコン表示モード"
+
+#. +> trunk5
+#: downloadwidget.cpp:264
+#, kde-format
+msgid "Details view mode"
+msgstr "詳細表示モード"
+
+#. +> trunk5
+#: downloadwidget.cpp:279
+#, kde-format
+msgid "All Providers"
+msgstr "すべてのプロバイダ"
+
+#. +> trunk5
+#: downloadwidget.cpp:286
+#, kde-format
+msgid "All Categories"
+msgstr "すべてのカテゴリ"
+
+#. i18n: ectx: property (text), widget (QLabel, m_providerLabel)
+#. +> trunk5
+#: downloadwidget.ui:54
+#, kde-format
+msgid "Provider:"
+msgstr "プロバイダ:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, mostDownloadsRadio)
+#. +> trunk5
+#: downloadwidget.ui:90
+#, kde-format
+msgid "Most downloads"
+msgstr "最もダウンロード数が多い"
+
+#. i18n: ectx: property (text), widget (QRadioButton, newestRadio)
+#. +> trunk5
+#: downloadwidget.ui:103
+#, kde-format
+msgid "Newest"
+msgstr "最新"
+
+#. i18n: ectx: property (text), widget (QRadioButton, ratingRadio)
+#. +> trunk5
+#: downloadwidget.ui:110 qtquick/qml/Page.qml:312
+#, kde-format
+msgid "Rating"
+msgstr "評価"
+
+#. i18n: ectx: property (text), widget (QRadioButton, installedRadio)
+#. +> trunk5
+#: downloadwidget.ui:117 qtquick/qml/Page.qml:261
+#, kde-format
+msgid "Installed"
+msgstr "インストール済み"
+
+#. i18n: ectx: property (text), widget (QLabel, orderLabel)
+#. +> trunk5
+#: downloadwidget.ui:175
+#, kde-format
+msgid "Order by:"
+msgstr "ソート基準:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#. +> trunk5
+#: downloadwidget.ui:185
+#, kde-format
+msgid "Search:"
+msgstr "検索:"
+
+#. i18n: ectx: property (placeholderText), widget (KLineEdit, m_searchEdit)
+#. +> trunk5
+#: downloadwidget.ui:217 qtquick/qml/Page.qml:381 qtquick/qml/Page.qml:388
+#, kde-format
+msgid "Search..."
+msgstr "検索..."
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk5
+#: downloadwidget.ui:371
+#, kde-format
+msgid "Author:"
+msgstr "作者:"
+
+#. i18n: ectx: property (text), widget (QLabel, homepageLabel)
+#. +> trunk5
+#: downloadwidget.ui:396
+#, kde-format
+msgid "<a href=\"https://opendesktop.org\">Homepage</a>"
+msgstr "<a href=\"https://opendesktop.org\">ホームページ</a>"
+
+#. i18n: ectx: property (text), widget (QPushButton, updateButton)
+#. +> trunk5
+#: downloadwidget.ui:572 ui/itemsgridviewdelegate.cpp:324
+#: ui/itemsviewdelegate.cpp:112
+#, kde-format
+msgid "Update"
+msgstr "アップデート"
+
+#. i18n: ectx: property (text), widget (QPushButton, uninstallButton)
+#. +> trunk5
+#: downloadwidget.ui:582 ui/itemsgridviewdelegate.cpp:320
+#: ui/itemsviewdelegate.cpp:108 ui/itemsviewdelegate.cpp:173
+#, kde-format
+msgid "Uninstall"
+msgstr "アンインストール"
+
+#. i18n: ectx: property (text), widget (QPushButton, becomeFanButton)
+#. +> trunk5
+#: downloadwidget.ui:589
+#, kde-format
+msgid "Become a Fan"
+msgstr "ファンに登録する"
+
+#. +> trunk5
+#: kmoretools/kmoretools.cpp:521
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Not installed:"
+msgstr "未インストール:"
+
+#. +> trunk5
+#: kmoretools/kmoretools.cpp:618
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "More"
+msgstr "その他"
+
+#. +> trunk5
+#: kmoretools/kmoretools.cpp:654
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Configure..."
+msgstr "設定..."
+
+#. +> trunk5
+#: kmoretools/kmoretools_p.h:373
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Visit homepage"
+msgstr "ホームページへアクセス"
+
+#. +> trunk5
+#: kmoretools/kmoretools_p.h:386
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Install"
+msgstr "インストール"
+
+#. +> trunk5
+#: kmoretools/kmoretools_p.h:395
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "No further information available."
+msgstr "さらなる情報はありません。"
+
+#. +> trunk5
+#: kmoretools/kmoretoolsconfigdialog_p.cpp:170
+#, kde-format
+msgid "Configure menu"
+msgstr "メニューを設定"
+
+#. +> trunk5
+#: kmoretools/kmoretoolsconfigdialog_p.cpp:172
+#, kde-format
+msgid "Configure menu - %1"
+msgstr "メニューを設定 - %1"
+
+#. +> trunk5
+#: kmoretools/kmoretoolsmenufactory.cpp:173
+#, kde-format
+msgctxt "@action:inmenu %1=\"$GenericName\""
+msgid "%1 - current folder"
+msgstr "%1 - 現在のフォルダ"
+
+#. +> trunk5
+#: kmoretools/kmoretoolsmenufactory.cpp:182
+#, kde-format
+msgctxt "@action:inmenu %1=\"$GenericName\""
+msgid "%1 - current device"
+msgstr "%1 - 現在のデバイス"
+
+#. +> trunk5
+#: kmoretools/kmoretoolsmenufactory.cpp:195
+#, kde-format
+msgctxt "@action:inmenu %1=\"$GenericName\""
+msgid "%1 - all devices"
+msgstr "%1 - すべてのデバイス"
+
+#. i18n: ectx: property (title), widget (QGroupBox, gbMainSection)
+#. +> trunk5
+#: kmoretools/ui/kmoretoolsconfigwidget.ui:25
+#, kde-format
+msgid "Main section"
+msgstr "メインセクション "
+
+#. i18n: ectx: property (text), widget (QToolButton, buttonMoveDown)
+#. +> trunk5
+#: kmoretools/ui/kmoretoolsconfigwidget.ui:58
+#, kde-format
+msgid "Move down"
+msgstr "下へ移動"
+
+#. i18n: ectx: property (text), widget (QToolButton, buttonMoveUp)
+#. +> trunk5
+#: kmoretools/ui/kmoretoolsconfigwidget.ui:77
+#, kde-format
+msgid "Move up"
+msgstr "上へ移動"
+
+#. i18n: ectx: property (text), widget (QToolButton, buttonMoveToMain)
+#. +> trunk5
+#: kmoretools/ui/kmoretoolsconfigwidget.ui:96
+#, kde-format
+msgid "Move to Main section"
+msgstr "メインセクションへ移動"
+
+#. i18n: ectx: property (text), widget (QToolButton, buttonMoveToMore)
+#. +> trunk5
+#: kmoretools/ui/kmoretoolsconfigwidget.ui:115
+#, kde-format
+msgid "Move to More section"
+msgstr "その他セクションへ移動"
+
+#. i18n: ectx: property (text), widget (QToolButton, buttonReset)
+#. +> trunk5
+#: kmoretools/ui/kmoretoolsconfigwidget.ui:134
+#, kde-format
+msgid "Reset"
+msgstr "リセット"
+
+#. i18n: ectx: property (title), widget (QGroupBox, gbMoreSection)
+#. +> trunk5
+#: kmoretools/ui/kmoretoolsconfigwidget.ui:154
+#, kde-format
+msgid "More section"
+msgstr "その他セクション"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk5
+#: kmoretools/ui/kmoretoolsconfigwidget.ui:206
+#, kde-format
+msgid ""
+"For this menu there are some more tools suggested which are currently not "
+"installed:"
+msgstr ""
+"このメニューでは、いくつかの現在インストールされていないツールが提案されてい"
+"ます:"
+
+#. i18n: ectx: property (text), widget (QPushButton, buttonNotInstalledTools)
+#. +> trunk5
+#: kmoretools/ui/kmoretoolsconfigwidget.ui:216
+#, kde-format
+msgid "More tools..."
+msgstr "その他のツール..."
+
+#. +> trunk5
+#: qtquick/qml/NewStuffItem.qml:22
+#, kde-format
+msgctxt "Request installation of this item"
+msgid "Install"
+msgstr "インストール"
+
+#. +> trunk5
+#: qtquick/qml/NewStuffList.qml:68
+#, kde-format
+msgctxt "List option which will set the filter to show everything"
+msgid "Show Everything"
+msgstr "すべて表示"
+
+#. +> trunk5
+#: qtquick/qml/NewStuffList.qml:69
+#, kde-format
+msgctxt ""
+"List option which will set the filter so only installed items are shown"
+msgid "Installed Only"
+msgstr "インストール済みのみ"
+
+#. +> trunk5
+#: qtquick/qml/NewStuffList.qml:70
+#, kde-format
+msgctxt ""
+"List option which will set the filter so only installed items with updates "
+"available are shown"
+msgid "Updateable Only"
+msgstr "アップデートできるもののみ"
+
+#. +> trunk5
+#: qtquick/qml/NewStuffList.qml:82
+#, kde-format
+msgctxt ""
+"List option which will set the sort order to based on when items were most "
+"recently updated"
+msgid "Show most recent first"
+msgstr "最新のもの順に表示"
+
+#. +> trunk5
+#: qtquick/qml/NewStuffList.qml:83
+#, kde-format
+msgctxt ""
+"List option which will set the sort order to be alphabetical based on the "
+"name"
+msgid "Sort alphabetically"
+msgstr "アルファベット順にソート"
+
+#. +> trunk5
+#: qtquick/qml/NewStuffList.qml:84
+#, kde-format
+msgctxt "List option which will set the sort order to based on user ratings"
+msgid "Show highest rated first"
+msgstr "高評価順に表示"
+
+#. +> trunk5
+#: qtquick/qml/NewStuffList.qml:85
+#, kde-format
+msgctxt ""
+"List option which will set the sort order to based on number of downloads"
+msgid "Show most downloaded first"
+msgstr "ダウンロード数が多い順に表示"
+
+#. +> trunk5
+#: ui/entrydetailsdialog.cpp:84
+#, kde-format
+msgid "Details for %1"
+msgstr "%1 の詳細"
+
+#. +> trunk5
+#: ui/entrydetailsdialog.cpp:100
+#, kde-format
+msgid "Changelog:"
+msgstr "更新履歴:"
+
+#. +> trunk5
+#: ui/entrydetailsdialog.cpp:106
+#, kde-format
+msgctxt "A link to the description of this Get Hot New Stuff item"
+msgid "Homepage"
+msgstr "ホームページ"
+
+#. +> trunk5
+#: ui/entrydetailsdialog.cpp:110
+#, kde-format
+msgctxt ""
+"A link to make a donation for a Get Hot New Stuff item (opens a web browser)"
+msgid "Make a donation"
+msgstr "寄付する"
+
+#. +> trunk5
+#: ui/entrydetailsdialog.cpp:115
+#, kde-format
+msgctxt "A link to the knowledgebase (like a forum) (opens a web browser)"
+msgid "Knowledgebase (no entries)"
+msgid_plural "Knowledgebase (%1 entries)"
+msgstr[0] "知識データベース (%1 項目)"
+
+#. +> trunk5
+#: ui/entrydetailsdialog.cpp:121
+#, kde-format
+msgctxt "Tooltip for a link in a dialog"
+msgid "Opens in a browser window"
+msgstr "新しいブラウザウィンドウで開く"
+
+#. +> trunk5
+#: ui/itemsgridviewdelegate.cpp:86 ui/itemsviewdelegate.cpp:284
+#, kde-format
+msgid "Rating: %1%"
+msgstr "評価: %1%"
+
+#. +> trunk5
+#: ui/itemsgridviewdelegate.cpp:123
+#, kde-format
+msgctxt "Show the size of the file in a list"
+msgid "<br />Size: %1"
+msgstr "<br/>サイズ: %1"
+
+#. +> trunk5
+#: ui/itemsgridviewdelegate.cpp:146 ui/itemsgridviewdelegate.cpp:150
+#: ui/itemsgridviewdelegate.cpp:153 ui/itemsviewdelegate.cpp:241
+#: ui/itemsviewdelegate.cpp:245 ui/itemsviewdelegate.cpp:248
+#, kde-format
+msgctxt "Show the author of this item in a list"
+msgid "By <i>%1</i>"
+msgstr "作者: %1"
+
+#. +> trunk5
+#: ui/itemsgridviewdelegate.cpp:176 ui/itemsviewdelegate.cpp:262
+#, kde-format
+msgctxt "fan as in supporter"
+msgid "1 fan"
+msgid_plural "%1 fans"
+msgstr[0] "%1 人のファン"
+
+#. +> trunk5
+#: ui/itemsgridviewdelegate.cpp:179 ui/itemsviewdelegate.cpp:265
+#, kde-format
+msgid "1 download"
+msgid_plural "%1 downloads"
+msgstr[0] "%1 回のダウンロード"
+
+#. +> trunk5
+#: ui/itemsgridviewdelegate.cpp:245 ui/itemsviewdelegate.cpp:342
+#, kde-format
+msgid "Loading Preview"
+msgstr "プレビューを読み込み中"
+
+#. +> trunk5
+#: ui/itemsgridviewdelegate.cpp:272 ui/itemsviewdelegate.cpp:184
+#, kde-format
+msgid "Details"
+msgstr "詳細"
+
+#. +> trunk5
+#: ui/itemsgridviewdelegate.cpp:334 ui/itemsviewdelegate.cpp:122
+#, kde-format
+msgid "Updating"
+msgstr "アップデート中"
+
+#. +> trunk5
+#: ui/itemsgridviewdelegate.cpp:344 ui/itemsviewdelegate.cpp:132
+#, kde-format
+msgid "Install Again"
+msgstr "再インストール"
+
+#. +> trunk5
+#: ui/itemsviewdelegate.cpp:228
+#, kde-format
+msgctxt "Show the size of the file in a list"
+msgid "<p>Size: %1</p>"
+msgstr "<p>サイズ: %1</p>"
+
+#. +> trunk5
+#: ui/widgetquestionlistener.cpp:89
+#, kde-format
+msgctxt "@action:button"
+msgid "Yes"
+msgstr "はい"
+
+#. +> trunk5
+#: ui/widgetquestionlistener.cpp:90
+#, kde-format
+msgctxt "@action:button"
+msgid "No"
+msgstr "いいえ"
+
+#, kde-format
+#~ msgid ""
+#~ "The downloaded file is a html file. This indicates a link to a website "
+#~ "instead of the actual download. Would you like to open the site with a "
+#~ "browser instead?"
+#~ msgstr ""
+#~ "ダウンロードされたファイルは HTML ファイルです。リンクは、ダウンロードのた"
+#~ "めのものではなく、ウェブサイトへのリンクのようです。このサイトをブラウザで"
+#~ "開きますか？"
+
+#, kde-format
+#~ msgid "Possibly bad download link"
+#~ msgstr "ダウンロードリンクに問題があるかもしれません"
+
+#, kde-format
+#~ msgid "Downloaded file was a HTML file. Opened in browser."
+#~ msgstr ""
+#~ "ダウンロードしたファイルは HTML ファイルでした。ブラウザで開きました。"
+
+#~ msgctxt "Opposite to Back"
+#~ msgid "Next"
+#~ msgstr "次へ"
+
+#~ msgid "Finish"
+#~ msgstr "完了"
+
+#~ msgid "Fetching license data from server..."
+#~ msgstr "サーバからライセンスデータを取得中..."
+
+#~ msgid "Fetching content data from server..."
+#~ msgstr "サーバからコンテンツデータを取得中..."
+
+#~ msgid "Could not fetch provider information."
+#~ msgstr "プロバイダ情報を取得できませんでした。"
+
+#~ msgid "Checking login..."
+#~ msgstr "ログインを確認中..."
+
+#~ msgid "Fetching your previously updated content..."
+#~ msgstr "以前にアップロードしたコンテンツを取得中..."
+
+#~ msgid "Could not verify login, please try again."
+#~ msgstr "ログインを確認できませんでした。やり直してください。"
+
+#~ msgid "Fetching your previously updated content finished."
+#~ msgstr "以前アップロードしたコンテンツの取得が完了しました。"
+
+#~ msgid "Fetching content data from server finished."
+#~ msgstr "サーバからコンテンツデータの取得を完了しました。"
+
+#~ msgctxt ""
+#~ "A link to the website where the get hot new stuff upload can be seen"
+#~ msgid "Visit website"
+#~ msgstr "ウェブサイトを訪問"
+
+#~ msgid "Share Hot New Stuff"
+#~ msgstr "ホットな新しいものを共有"
+
+#~ msgctxt "Program name followed by 'Add On Uploader'"
+#~ msgid "%1 Add-On Uploader"
+#~ msgstr "%1 のアドオンアップローダー"
+
+#~ msgid "File not found: %1"
+#~ msgstr "ファイルが見つかりません: %1"
+
+#~ msgid "Upload Failed"
+#~ msgstr "アップロード失敗"
+
+#~ msgid ""
+#~ "The server does not recognize the category %2 to which you are trying to "
+#~ "upload."
+#~ msgid_plural ""
+#~ "The server does not recognize any of the categories to which you are "
+#~ "trying to upload: %2"
+#~ msgstr[0] "サーバがアップロード先のカテゴリのどれ一つもを認識しません: %2"
+
+#~ msgid "Error"
+#~ msgstr "エラー"
+
+#~ msgid "The selected category \"%1\" is invalid."
+#~ msgstr "選択したカテゴリ「%1」は無効です。"
+
+#~ msgid "Select preview image"
+#~ msgstr "プレビューイメージを選択"
+
+#~ msgid "There was a network error."
+#~ msgstr "ネットワーク障害がありました。"
+
+#~ msgid "Uploading Failed"
+#~ msgstr "アップロード失敗"
+
+#~ msgid "Authentication error."
+#~ msgstr "認証エラー。"
+
+#~ msgid "Upload failed: %1"
+#~ msgstr "アップロード失敗: %1"
+
+#~ msgid "Password:"
+#~ msgstr "パスワード:"
+
+#~ msgid "Username:"
+#~ msgstr "ユーザ名:"
+
+#~ msgid "File to upload:"
+#~ msgstr "アップロードするファイル:"
+
+#~ msgid "GPL"
+#~ msgstr "GPL"
+
+#~ msgid "LGPL"
+#~ msgstr "LGPL"
+
+#~ msgid "BSD"
+#~ msgstr "BSD"
+
+#~ msgid "Description:"
+#~ msgstr "説明:"
+
+#~ msgid "Version:"
+#~ msgstr "バージョン:"
+
+#~ msgid "License:"
+#~ msgstr "ライセンス:"
+
+#~ msgid "Please fill out the information about your upload in English."
+#~ msgstr "このアップロードに関する情報を英語で入力してください。"
+
+#~ msgid "Title:"
+#~ msgstr "タイトル:"
+
+#~ msgid "Name of the file as it will appear on the website"
+#~ msgstr "ウェブサイトでのファイル名"
+
+#~ msgid ""
+#~ "This should clearly describe the file content. It can be the same text as "
+#~ "the title of the kvtml file."
+#~ msgstr ""
+#~ "ファイルの中身をはっきりと表すものにしてください。KVTML ファイルのタイトル"
+#~ "と同じでもかまいません。"
+
+#~ msgid "Preview Images"
+#~ msgstr "プレビュー画像"
+
+#~ msgid "Select Preview..."
+#~ msgstr "プレビューを選択..."
+
+#~ msgid "Set a price for this item"
+#~ msgstr "このアイテムに価格を設定する"
+
+#~ msgid "Price"
+#~ msgstr "価格"
+
+#~ msgid "Price:"
+#~ msgstr "価格:"
+
+#~ msgid "Reason for price:"
+#~ msgstr "価格の理由:"
+
+#~ msgid "Fetch content link from server"
+#~ msgstr "サーバからコンテンツリンクを取得"
+
+#~ msgid "Create content on server"
+#~ msgstr "サーバにコンテンツを作成"
+
+#~ msgid "Upload content"
+#~ msgstr "コンテンツをアップロード"
+
+#~ msgid "Upload first preview"
+#~ msgstr "最初のプレビューをアップロード"
+
+#~ msgid "Note: You can edit, update and delete your content on the website."
+#~ msgstr ""
+#~ "注) ウェブサイトにある自分のコンテンツを編集、更新、削除することができま"
+#~ "す。"
+
+#~ msgid "Upload second preview"
+#~ msgstr "二つ目のプレビューをアップロード"
+
+#~ msgid "Upload third preview"
+#~ msgstr "三つ目のプレビューをアップロード"
+
+#~ msgid ""
+#~ "I ensure that this content does not violate any existing copyright, law "
+#~ "or trademark. I agree for my IP address to be logged. (Distributing "
+#~ "content without the permission of the copyright holder is illegal.)"
+#~ msgstr ""
+#~ "コンテンツが現行の著作権、法律、商標に違反しないことを保証します。また、自"
+#~ "分の IP アドレスが記録されることに同意します。(著作権者の許可なくコンテン"
+#~ "ツを配布することは違法です。)"
+
+#~ msgid "Start Upload"
+#~ msgstr "アップロード開始"
+
+#~ msgctxt "Label for the busy indicator showing an item is being installed"
+#~ msgid "Installing..."
+#~ msgstr "インストール中..."
+
+#, fuzzy
+#~| msgid "Details view mode"
+#~ msgid "Tiles view mode"
+#~ msgstr "詳細表示モード"
+
+#, fuzzy
+#~| msgctxt ""
+#~| "List option which will set the sort order to based on when items were "
+#~| "most recently updated"
+#~| msgid "Show most recent first"
+#~ msgctxt ""
+#~ "List option which will set the sort order to based on when items were "
+#~ "most recently updated"
+#~ msgid "Most recent first"
+#~ msgstr "最新のもの順に表示"
+
+#, fuzzy
+#~| msgctxt ""
+#~| "List option which will set the sort order to based on user ratings"
+#~| msgid "Show highest rated first"
+#~ msgctxt "List option which will set the sort order to based on user ratings"
+#~ msgid "Highest rated first"
+#~ msgstr "高評価順に表示"
+
+#, fuzzy
+#~| msgctxt ""
+#~| "List option which will set the sort order to based on number of downloads"
+#~| msgid "Show most downloaded first"
+#~ msgctxt ""
+#~ "List option which will set the sort order to based on number of downloads"
+#~ msgid "Most downloaded first"
+#~ msgstr "ダウンロード数が多い順に表示"
+
+#~ msgctxt "Show a page with details for this item"
+#~ msgid "Details..."
+#~ msgstr "詳細..."
+
+#~ msgid "Enter search phrase here"
+#~ msgstr "ここに検索語を入力します"
+
+#, fuzzy
+#~ msgid "Download File"
+#~ msgstr "ダウンロードするファイル:"

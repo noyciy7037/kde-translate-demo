@@ -1,0 +1,278 @@
+# Translation of plasma_applet_windowlist into Japanese.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2010.
+# Ryuichi Yamada <ryuichi_ya220@outlook.jp>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_windowlist\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2026-02-02 09:39+0100\n"
+"PO-Revision-Date: 2022-07-09 13:26+0900\n"
+"Last-Translator: Ryuichi Yamada <ryuichi_ya220@outlook.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+"X-Generator: Lokalize 21.12.3\n"
+
+#. +> trunk6 stable6
+#: config.qml:13
+#, fuzzy, kde-format
+#| msgid "General"
+msgctxt "@title:group for configuration dialog page"
+msgid "General"
+msgstr "全般"
+
+#. +> trunk6 stable6
+#: ConfigGeneral.qml:37
+#, kde-format
+msgctxt "@label:listbox"
+msgid "For active application, show:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: ConfigGeneral.qml:42
+#, kde-format
+msgctxt ""
+"@item:inlistbox what to show for active application in horizontal panel"
+msgid "Icon and name"
+msgstr ""
+
+#. +> trunk6 stable6
+#: ConfigGeneral.qml:43
+#, kde-format
+msgctxt ""
+"@item:inlistbox what to show for active application in horizontal panel"
+msgid "Icon"
+msgstr ""
+
+#. +> trunk6 stable6
+#: ConfigGeneral.qml:44
+#, kde-format
+msgctxt ""
+"@item:inlistbox what to show for active application in horizontal panel"
+msgid "Name"
+msgstr ""
+
+#. +> trunk6 stable6
+#: ConfigGeneral.qml:91
+#, fuzzy, kde-format
+#| msgid "Only icons can be shown when the Panel is vertical."
+msgctxt "@info:usagetip display mode for active application"
+msgid "Only icons can be shown when the Panel is vertical."
+msgstr "パネルが垂直である場合はアイコンのみが表示されます。"
+
+#. +> trunk6 stable6
+#: ConfigGeneral.qml:93
+#, fuzzy, kde-format
+#| msgid "Not applicable when the widget is on the Desktop."
+msgctxt "@info:usagetip display mode for active application"
+msgid "Not applicable when the widget is on the Desktop."
+msgstr "ウィジェットがデスクトップ上にある場合適用できません。"
+
+#. +> trunk6 stable6
+#: ConfigGeneral.qml:106
+#, kde-format
+msgctxt "@label:checkbox"
+msgid "Open on hover:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: ConfigGeneral.qml:111
+#, kde-format
+msgctxt "@option:check open-on-hover is enabled, with the following delay:"
+msgid "Enabled, with delay:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: ConfigGeneral.qml:124
+#, kde-format
+msgctxt "@item:valuesuffix, %1 is hover activation delay in ms"
+msgid "%1 ms"
+msgid_plural "%1 ms"
+msgstr[0] ""
+
+#. +> trunk6 stable6
+#: ConfigGeneral.qml:133
+#, kde-format
+msgctxt "short for millisecond(s)"
+msgid "ms"
+msgid_plural "ms"
+msgstr[0] ""
+
+#. +> trunk6 stable6
+#: ConfigGeneral.qml:136
+#, kde-format
+msgctxt "@label:spinbox accessible %1 is milliseconds"
+msgid "Hover open delay %1 ms"
+msgstr ""
+
+#. +> trunk6 stable6
+#: ConfigGeneral.qml:146
+#, fuzzy, kde-format
+#| msgid "No windows"
+msgctxt ""
+"@label for checkbox group, completes sentence like: … from current screen"
+msgid "Show only windows:"
+msgstr "ウィンドウがありません"
+
+#. +> trunk6 stable6
+#: ConfigGeneral.qml:147
+#, fuzzy, kde-format
+#| msgid "Current desktop"
+msgctxt "@option:check completes sentence: show only windows"
+msgid "From the current desktop"
+msgstr "現在のデスクトップ"
+
+#. +> trunk6 stable6
+#: ConfigGeneral.qml:152
+#, kde-format
+msgctxt "@option:check completes sentence: show only windows"
+msgid "From the current activity"
+msgstr ""
+
+#. +> trunk6 stable6
+#: ConfigGeneral.qml:157
+#, kde-format
+msgctxt "@option:check completes sentence: show only windows"
+msgid "From the current screen"
+msgstr ""
+
+#. +> trunk6 stable6
+#: ConfigGeneral.qml:162
+#, kde-format
+msgctxt "@option:check completes sentence: show only windows"
+msgid "That are minimized"
+msgstr ""
+
+#. +> trunk6
+#: ConfigGeneral.qml:171
+#, kde-format
+msgctxt "@label:listbox sort windows is list"
+msgid "Sort:"
+msgstr ""
+
+#. +> trunk6
+#: ConfigGeneral.qml:178
+#, kde-format
+msgctxt "@item:inlistbox sort windows in list"
+msgid "By time opened"
+msgstr ""
+
+#. +> trunk6
+#: ConfigGeneral.qml:182
+#, kde-format
+msgctxt "@item:inlistbox sort windows in list"
+msgid "Alphabetically"
+msgstr ""
+
+#. +> trunk6
+#: ConfigGeneral.qml:186
+#, kde-format
+msgctxt "@item:inlistbox sort windows in list"
+msgid "Alphabetically, grouped by virtual desktop"
+msgstr ""
+
+#. +> trunk6
+#: ConfigGeneral.qml:190
+#, kde-format
+msgctxt "@item:inlistbox sort windows in list"
+msgid "Alphabetically, grouped by activity"
+msgstr ""
+
+#. +> trunk6
+#: ConfigGeneral.qml:194
+#, kde-format
+msgctxt "@item:inlistbox sort windows in list"
+msgid "By last activated time"
+msgstr ""
+
+#. +> trunk6
+#: ConfigGeneral.qml:198
+#, kde-format
+msgctxt "@item:inlistbox sort windows in list"
+msgid "By horizontal window position"
+msgstr ""
+
+#. +> trunk6 stable6
+#: main.qml:41
+#, fuzzy, kde-format
+#| msgid "No windows"
+msgctxt "@info:placeholder"
+msgid "No open windows"
+msgstr "ウィンドウがありません"
+
+#. +> trunk6 stable6
+#: main.qml:362
+#, fuzzy, kde-format
+#| msgid "Plasma Desktop"
+msgctxt "@title:window title shown e.g. for desktop and expanded widgets"
+msgid "Plasma Desktop"
+msgstr "Plasma デスクトップ"
+
+#. +> stable5
+#: contents/config/config.qml:13
+#, kde-format
+msgid "General"
+msgstr "全般"
+
+#. +> stable5
+#: contents/ui/ConfigGeneral.qml:27
+#, kde-format
+msgid "Show active application's name on Panel button"
+msgstr "アクティブなアプリケーションの名前をパネルボタンに表示"
+
+#. +> stable5
+#: contents/ui/ConfigGeneral.qml:47
+#, kde-format
+msgid "Only icons can be shown when the Panel is vertical."
+msgstr "パネルが垂直である場合はアイコンのみが表示されます。"
+
+#. +> stable5
+#: contents/ui/ConfigGeneral.qml:49
+#, kde-format
+msgid "Not applicable when the widget is on the Desktop."
+msgstr "ウィジェットがデスクトップ上にある場合適用できません。"
+
+#. +> stable5
+#: contents/ui/main.qml:85
+#, kde-format
+msgid "Plasma Desktop"
+msgstr "Plasma デスクトップ"
+
+#, kde-format
+#~ msgid "Show list of opened windows"
+#~ msgstr "開いているウィンドウの一覧を表示します"
+
+#, kde-format
+#~ msgid "On all desktops"
+#~ msgstr "すべてのデスクトップ"
+
+#, fuzzy
+#~| msgid "Window list"
+#~ msgid "Window List"
+#~ msgstr "ウィンドウ一覧"
+
+#~ msgid "Window list"
+#~ msgstr "ウィンドウ一覧"
+
+#~ msgid "Actions"
+#~ msgstr "アクション"
+
+#~ msgid "Unclutter Windows"
+#~ msgstr "ウィンドウを整頓"
+
+#~ msgid "Cascade Windows"
+#~ msgstr "ウィンドウをカスケード表示"
+
+#~ msgid "Desktops"
+#~ msgstr "デスクトップ"
+
+#, fuzzy
+#~| msgid "Desktops"
+#~ msgctxt "%1 is the name of the desktop"
+#~ msgid "Desktop %1"
+#~ msgstr "デスクトップ"

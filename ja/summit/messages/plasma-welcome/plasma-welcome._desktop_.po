@@ -1,0 +1,50 @@
+# Ryuichi Yamada <ryuichi_ya220@outlook.jp>, 2023.
+# SPDX-FileCopyrightText: 2026 Mint <5602mint@gmail.com>
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-11-23 11:27+0100\n"
+"PO-Revision-Date: 2026-02-21 11:15+0900\n"
+"Last-Translator: Mint <5602mint@gmail.com>\n"
+"Language-Team: Japanese <kde-i18n-doc@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: \n"
+"X-Text-Markup: \n"
+"X-Generator: Lokalize 25.12.2\n"
+
+#. +> trunk6 stable6
+#: org.kde.plasma-welcome.desktop:6
+msgctxt "Comment"
+msgid "Learn more about KDE Plasma"
+msgstr "KDE Plasma についてもっと知る"
+
+#. +> stable5
+#: org.kde.plasma-welcome.desktop:6
+msgctxt "Comment"
+msgid "Friendly onboarding wizard for Plasma"
+msgstr "フレンドリーな Plasma 初期設定ウィザード"
+
+#. +> trunk6 stable6
+#: org.kde.plasma-welcome.desktop:50
+msgctxt "GenericName"
+msgid "Welcome Center"
+msgstr "ようこそセンター"
+
+#. +> trunk6 stable6 stable5
+#: org.kde.plasma-welcome.desktop:88
+msgctxt "Keywords"
+msgid "Welcome;Wizard;Onboarding;Contribute;Get involved;"
+msgstr ""
+"Welcome;Wizard;Onboarding;Contribute;Get involved;ようこそ;参加;初期設定;ウィ"
+"ザード;"
+
+#. +> trunk6 stable6 stable5
+#: org.kde.plasma-welcome.desktop:134
+msgctxt "Name"
+msgid "Welcome Center"
+msgstr "ようこそセンター"

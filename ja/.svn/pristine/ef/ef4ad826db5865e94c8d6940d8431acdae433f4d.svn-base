@@ -1,0 +1,364 @@
+# Translation of desktop_kdebase into Japanese.
+# Noboru Sinohara <shinobo@leo.bekkoame.ne.jp>, 2002.
+# Taiki Komoda <kom@kde.gr.jp>, 2002,2003, 2004, 2010.
+# Masaharu 'Max' Goto <magotou@fubyshare.gr.jp>, 2004.
+# Toyohiro Asukai <toyohiro@ksmplus.com>, 2004.
+# Kurose Shushi <md81@bird.email.ne.jp>, 2004.
+# AWASHIRO Ikuya <ikuya@oooug.jp>, 2004.
+# Shinichi Tsunoda <tsuno@ngy.1st.ne.jp>, 2005.
+# Awashiro Ikuya <ikuya@fruitsbasket.info>, 2006.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2006, 2007, 2008, 2009, 2010.
+# phanect <phanective@gmail.com>, 2010.
+# Jumpei Ogawa (phanect) <phanective@gmail.com>, 2010.
+# Tomohiro Hyakutake <tomhioo@outlook.jp>, 2019, 2020.
+# Ryuichi Yamada <ryuichi_ya220@outlook.jp>, 2022.
+# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2005, 2006, 2007, 2010, 2011, 2022.
+# SPDX-FileCopyrightText: 2025 Yuma Kakei <yumasansansan@gmail.com>
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdebase\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-12-11 04:44+0100\n"
+"PO-Revision-Date: 2025-09-24 14:46+0900\n"
+"Last-Translator: Yuma Kakei <yumasansansan@gmail.com>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: \n"
+"X-Text-Markup: \n"
+"X-Generator: Lokalize 25.08.1\n"
+
+#. +> trunk6 stable6 stable5
+#: categories/basicinformation.desktop:8
+msgctxt "Name"
+msgid "Basic Information"
+msgstr "基本的な情報"
+
+#. +> trunk6 stable6 stable5
+#: categories/deviceinfocategory.desktop:8
+msgctxt "Name"
+msgid "Devices"
+msgstr "デバイス"
+
+#. +> trunk6 stable6 stable5
+#: categories/graphicalinfocategory.desktop:8
+msgctxt "Name"
+msgid "Graphics"
+msgstr "グラフィック"
+
+#. +> trunk6 stable6 stable5
+#: categories/lostfoundcategory.desktop:8
+msgctxt "Name"
+msgid "Lost And Found"
+msgstr "Lost And Found"
+
+#. +> trunk6 stable6 stable5
+#: categories/networkinfocategory.desktop:8
+msgctxt "Name"
+msgid "Network"
+msgstr "ネットワーク"
+
+#. +> trunk6 stable6 stable5
+#: kcms/helpers/dmidecode-helper/org.kde.kinfocenter.dmidecode.actions:8
+msgctxt "Name"
+msgid "Desktop Management Interface"
+msgstr "デスクトップ管理インターフェース"
+
+#. +> trunk6 stable6
+#: kcms/helpers/dmidecode-helper/org.kde.kinfocenter.dmidecode.actions:57
+msgctxt "Name"
+msgid "Memory Information"
+msgstr "メモリの情報"
+
+#. +> trunk6 stable6
+#: kcms/helpers/dmidecode-helper/org.kde.kinfocenter.dmidecode.actions:96
+msgctxt "Description"
+msgid ""
+"Read memory information from system's Desktop Management Interface (DMI)"
+msgstr ""
+"システムのデスクトップ管理インターフェース (DMI) からメモリ情報を読み取ります"
+
+#. +> trunk6 stable6 stable5
+#: kcms/helpers/dmidecode-helper/org.kde.kinfocenter.dmidecode.actions:138
+msgctxt "Name"
+msgid "System Information"
+msgstr "システム情報"
+
+#. +> trunk6 stable6 stable5
+#: kcms/helpers/dmidecode-helper/org.kde.kinfocenter.dmidecode.actions:188
+msgctxt "Description"
+msgid ""
+"Read system information from system's Desktop Management Interface (DMI)"
+msgstr ""
+"システムのデスクトップ管理インターフェース (DMI) からシステム情報を読み取りま"
+"す"
+
+#. +> trunk6 stable6 stable5
+#: org.kde.kinfocenter.desktop:9
+msgctxt "Name"
+msgid "Info Center"
+msgstr "システム情報センター"
+
+#. +> trunk6 stable6 stable5
+#: org.kde.kinfocenter.desktop:63
+msgctxt "GenericName"
+msgid "Info Center"
+msgstr "システム情報センター"
+
+#. +> trunk6 stable6
+#: org.kde.kinfocenter.desktop:155
+msgctxt "Comment"
+msgid "Learn about the system's hardware and status"
+msgstr "システムのハードウェアと状態について知る"
+
+#. +> stable5
+#: org.kde.kinfocenter.desktop:150
+msgctxt "Comment"
+msgid "Centralized and convenient overview of system information"
+msgstr "便利な一元化されたシステム情報の概要"
+
+#. +> trunk6 stable6 stable5
+#: org.kde.kinfocenter.desktop:186
+msgctxt "Keywords"
+msgid "kinfocenter"
+msgstr "kinfocenter"
+
+#. +> stable5
+#: Categories/detailedinformation.desktop:8
+msgctxt "Name"
+msgid "Detailed Information"
+msgstr "詳細な情報"
+
+#. +> stable5
+#: kcontrol/menus/kinfocenter.directory:3
+msgctxt "Name"
+msgid "Information"
+msgstr "情報"
+
+#~ msgctxt "Name"
+#~ msgid "KInfoCenter Category"
+#~ msgstr "KInfoCenter カテゴリ"
+
+#~ msgctxt "Name"
+#~ msgid "About this System"
+#~ msgstr "このシステムについて"
+
+#~ msgctxt "Name"
+#~ msgid "Device Information"
+#~ msgstr "デバイス情報"
+
+#~ msgctxt "Name"
+#~ msgid "Graphical Information"
+#~ msgstr "グラフィック情報"
+
+#~ msgctxt "Name"
+#~ msgid "Network Information"
+#~ msgstr "ネットワーク情報"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "about,info,information,distribution,distro,system,kernel,qt,kde"
+#~ msgstr "情報,ディストリビューション,ディストリ,システム,カーネル"
+
+#~ msgctxt "Comment"
+#~ msgid "Information About This System"
+#~ msgstr "このシステムに関する情報"
+
+#~ msgctxt "Name"
+#~ msgid "Device Viewer"
+#~ msgstr "デバイスビューア"
+
+#~ msgctxt "Comment"
+#~ msgid "Device Viewer"
+#~ msgstr "デバイスビューア"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "device,devices,disk,drive,processor,cpu"
+#~ msgstr "デバイス,ディスク,ドライブ,プロセッサ"
+
+#~ msgctxt "Name"
+#~ msgid "Energy Information"
+#~ msgstr "エネルギー情報"
+
+#~ msgctxt "Comment"
+#~ msgid "Energy Consumption Statistics"
+#~ msgstr "エネルギー消費の統計"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "Battery,Energy,Statistics,History,Power"
+#~ msgstr "バッテリ,エネルギー,統計,履歴,電源"
+
+#~ msgctxt "Comment"
+#~ msgid "Statistics about energy consumption"
+#~ msgstr "エネルギー消費に関する統計"
+
+#~ msgctxt "Name"
+#~ msgid "DMA-Channels"
+#~ msgstr "DMA チャンネル"
+
+#~ msgctxt "Comment"
+#~ msgid "DMA information"
+#~ msgstr "DMA の情報"
+
+#~ msgctxt "Name"
+#~ msgid "Interrupts"
+#~ msgstr "割り込み"
+
+#~ msgctxt "Comment"
+#~ msgid "Interrupt information"
+#~ msgstr "割り込みの情報"
+
+#, fuzzy
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "Interrupts,IRQ,System Information"
+#~ msgstr "割り込みの情報"
+
+#~ msgctxt "Name"
+#~ msgid "IO-Ports"
+#~ msgstr "I/O ポート"
+
+#~ msgctxt "Comment"
+#~ msgid "IO-port information"
+#~ msgstr "I/O ポートの情報"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "Information about the Wayland Compositor"
+#~ msgstr "ファイルとディレクトリに関する情報"
+
+#~ msgctxt "Name"
+#~ msgid "X-Server"
+#~ msgstr "X サーバ"
+
+#~ msgctxt "Comment"
+#~ msgid "X-Server information"
+#~ msgstr "X サーバの情報"
+
+#~ msgctxt "Name"
+#~ msgid "Memory"
+#~ msgstr "メモリ"
+
+#~ msgctxt "Name"
+#~ msgid "Network Interfaces"
+#~ msgstr "ネットワークインターフェース"
+
+#~ msgctxt "Comment"
+#~ msgid "Network interface information"
+#~ msgstr "ネットワークインターフェースの情報"
+
+#~ msgctxt "Name"
+#~ msgid "OpenGL"
+#~ msgstr "OpenGL"
+
+#~ msgctxt "Comment"
+#~ msgid "OpenGL information"
+#~ msgstr "OpenGL の情報"
+
+#~ msgctxt "Name"
+#~ msgid "PCI"
+#~ msgstr "PCI"
+
+#~ msgctxt "Comment"
+#~ msgid "PCI information"
+#~ msgstr "PCI の情報"
+
+#~ msgctxt "Name"
+#~ msgid "Samba Status"
+#~ msgstr "Samba の状態"
+
+#~ msgctxt "Comment"
+#~ msgid "Samba status monitor"
+#~ msgstr "Samba の状態を監視します"
+
+#~ msgctxt "Name"
+#~ msgid "USB Devices"
+#~ msgstr "USB デバイス"
+
+#~ msgctxt "Comment"
+#~ msgid "USB devices attached to this computer"
+#~ msgstr "コンピュータに接続されている USB デバイス"
+
+#~ msgctxt "Name"
+#~ msgid "IEEE 1394 Devices"
+#~ msgstr "IEEE 1394 デバイス"
+
+#~ msgctxt "Comment"
+#~ msgid "Attached IEEE 1394 devices"
+#~ msgstr "接続されている IEEE 1394 デバイス"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Device Information"
+#~ msgctxt "Comment"
+#~ msgid "Advanced CPU Information"
+#~ msgstr "デバイス情報"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Graphical Information"
+#~ msgctxt "Comment"
+#~ msgid "Vulkan graphics API information"
+#~ msgstr "グラフィック情報"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "OpenGL"
+#~ msgctxt "Name"
+#~ msgid "OpenGL (EGL)"
+#~ msgstr "OpenGL"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "OpenGL information"
+#~ msgctxt "Comment"
+#~ msgid "EGL information"
+#~ msgstr "OpenGL の情報"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "OpenGL"
+#~ msgctxt "Name"
+#~ msgid "OpenGL (GLX)"
+#~ msgstr "OpenGL"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "OpenGL information"
+#~ msgctxt "Comment"
+#~ msgid "GLX information"
+#~ msgstr "OpenGL の情報"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "information,distribution,distro,system,kernel,qt,kde"
+#~ msgstr "情報,ディストリビューション,ディストリ,システム,カーネル"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "device,devices"
+#~ msgstr "デバイス"
+
+#~ msgctxt "Name"
+#~ msgid "SCSI"
+#~ msgstr "SCSI"
+
+#~ msgctxt "Comment"
+#~ msgid "SCSI information"
+#~ msgstr "SCSI の情報"
+
+#, fuzzy
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "SCSI,SCSI-Bus,System Information"
+#~ msgstr "SCSI の情報"
+
+#~ msgctxt "Name"
+#~ msgid "KInfoCenter"
+#~ msgstr "KInfoCenter"
+
+#~ msgctxt "Name"
+#~ msgid "Summary"
+#~ msgstr "概要"
+
+#~ msgctxt "Comment"
+#~ msgid "Hardware Information Summary"
+#~ msgstr "ハードウェア情報概要"

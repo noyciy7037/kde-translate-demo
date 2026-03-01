@@ -1,0 +1,45 @@
+# rokuosan <rokuosan.dev@gmail.com>, 2021.
+# SPDX-FileCopyrightText: 2025 Yuma Kakei <yumasansansan@gmail.com>
+msgid ""
+msgstr ""
+"Project-Id-Version: org.kde.systemsettings.metainfo\n"
+"POT-Creation-Date: 2025-09-18 15:51+0200\n"
+"PO-Revision-Date: 2025-09-21 17:38+0900\n"
+"Last-Translator: Yuma Kakei <yumasansansan@gmail.com>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+"X-Generator: Lokalize 25.08.1\n"
+
+#. (itstool) path: component/name
+#. +> trunk6 stable6 stable5
+#: org.kde.systemsettings.metainfo.xml:19
+msgid "System Settings"
+msgstr "システム設定"
+
+#. (itstool) path: component/summary
+#. +> trunk6 stable6
+#: org.kde.systemsettings.metainfo.xml:20
+msgid "Configure the system’s behavior and appearance"
+msgstr "システムの挙動と外観を設定"
+
+#. (itstool) path: component/summary
+#. +> stable5
+#: org.kde.systemsettings.metainfo.xml:20
+msgid "Configuration tools for your computer"
+msgstr "コンピュータ設定ツール"
+
+#. (itstool) path: description/p
+#. +> trunk6 stable6 stable5
+#: org.kde.systemsettings.metainfo.xml:23
+msgid ""
+"System Settings allows you to configure and tweak your KDE Plasma desktop to "
+"make it better meet your needs."
+msgstr ""
+"システム設定では、KDE Plasma デスクトップをよりニーズに合ったものにするため"
+"に、設定や調整を行うことができます。"

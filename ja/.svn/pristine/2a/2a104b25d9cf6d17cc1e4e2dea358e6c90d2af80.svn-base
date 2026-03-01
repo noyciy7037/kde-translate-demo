@@ -1,0 +1,1467 @@
+# Translation of kplatowork into Japanese.
+# This file is distributed under the same license as the koffice package.
+# Taiki Komoda <kom@kde.gr.jp>, 2002.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2008, 2009.
+# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2006, 2012, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: kplatowork\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-10-25 10:23+0200\n"
+"PO-Revision-Date: 2015-04-25 16:38-0700\n"
+"Last-Translator: Fumiaki Okushi <fumiaki.okushi@gmail.com>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. +> trunk6
+#: aboutdata.h:20 aboutdata.h:29
+#, kde-format
+msgid "PlanWork - Work Package handler for the Plan Project Planning Tool"
+msgstr "PlanWork - Plan プロジェクト管理ツールのためのワークパッケージハンドラ"
+
+#. +> trunk6
+#: aboutdata.h:27
+#, kde-format
+msgctxt "application name"
+msgid "Plan WorkPackage Handler"
+msgstr "Plan ワークパッケージハンドラ"
+
+#. +> trunk6
+#: aboutdata.h:31
+#, fuzzy, kde-format
+#| msgid "© 1998-%1, The Plan Team"
+msgid "Copyright 1998-%1, The Plan Team"
+msgstr "(c) 1998-%1, Plan 開発チーム"
+
+#. +> trunk6
+#: aboutdata.h:35
+#, kde-format
+msgid "Dag Andersen"
+msgstr "Dag Andersen"
+
+#. i18n translator strings
+#. +> trunk6
+#: aboutdata.h:37
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Taiki Komoda,Yukiko Bando"
+
+#. +> trunk6
+#: aboutdata.h:38
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "kom@kde.gr.jp,ybando@k6.dion.ne.jp"
+
+#. i18n: ectx: Menu (edit)
+#. +> trunk6
+#: calligraplanwork.rc:4 calligraplanworkui.rc:4
+#, kde-format
+msgid "&Edit"
+msgstr "編集(&E)"
+
+#. i18n: ectx: ToolBar (view_selection)
+#. +> trunk6
+#: calligraplanwork.rc:8
+#, kde-format
+msgid "View"
+msgstr "表示"
+
+#. i18n: ectx: Menu (view)
+#. +> trunk6
+#: calligraplanwork_readonly.rc:4
+#, kde-format
+msgid "&View"
+msgstr "表示(&V)"
+
+#. +> trunk6
+#: commandlineparser.cpp:33
+#, kde-format
+msgid "File to open"
+msgstr "開くファイル"
+
+#. +> trunk6
+#: commandlineparser.cpp:85
+#, kde-format
+msgid "Failed to open document"
+msgstr "文書を開くことができませんでした"
+
+#. +> trunk6
+#: mainwindow.cpp:92
+#, kde-format
+msgid "The file %1 does not exist."
+msgstr "ファイル ‘%1’ は存在しません"
+
+#. +> trunk6
+#: part.cpp:139 part.cpp:170
+#, kde-format
+msgid "Document is already open:<br>%1"
+msgstr "文書は既に開いています:<br>%1"
+
+#. +> trunk6
+#: part.cpp:151 part.cpp:178 workpackage.cpp:608
+#, kde-format
+msgid "Could not extract document from storage:<br>%1"
+msgstr "ファイルをストレージから取り出せませんでした:<br>%1"
+
+#. +> trunk6
+#: part.cpp:159 part.cpp:186 workpackage.cpp:614
+#, kde-format
+msgid "Invalid URL:<br>%1"
+msgstr "無効な URL:<br>%1"
+
+#. +> trunk6
+#: part.cpp:198
+#, kde-format
+msgid "Document is already open:<br> %1"
+msgstr "文書は既に開いています:<br>%1"
+
+#. +> trunk6
+#: part.cpp:202
+#, kde-format
+msgid "File does not exist:<br>%1"
+msgstr "ファイルは存在しません:<br>%1"
+
+#. +> trunk6
+#: part.cpp:228
+#, kde-format
+msgid "Edit with:"
+msgstr "アプリケーションで編集:"
+
+#. +> trunk6
+#: part.cpp:380
+#, kde-format
+msgid ""
+"<p>The work package already exists in the projects store.</p><p>Project: "
+"%1<br>Task: %2</p><p>Do you want to update the existing package with data "
+"from the new?</p>"
+msgstr ""
+
+#. +> trunk6
+#: part.cpp:384
+#, fuzzy, kde-format
+#| msgid "Work Package: %1"
+msgctxt "@title:window"
+msgid "Update Work Package"
+msgstr "ワークパッケージ: %1"
+
+#. +> trunk6
+#: part.cpp:414
+#, kde-format
+msgid "Remove failed. Cannot find work package"
+msgstr ""
+
+#. +> trunk6
+#: part.cpp:418
+#, fuzzy
+#| msgid "Remove work package"
+#| msgid_plural "Remove work packages"
+msgctxt "(qtundo-format) @action"
+msgid "Remove work package"
+msgstr "ワークパッケージを削除"
+
+#. +> trunk6
+#: part.cpp:429
+msgctxt "(qtundo-format)"
+msgid "Remove work package"
+msgid_plural "Remove work packages"
+msgstr[0] "ワークパッケージを削除"
+
+#. +> trunk6
+#: part.cpp:470
+#, kde-format
+msgid "Failed to load file:<br>%1"
+msgstr "ファイルを書き込めませんでした:<br>%1"
+
+#. +> trunk6
+#: part.cpp:492
+#, kde-format
+msgid "Not a valid work package file:<br>%1"
+msgstr "無効なワークパッケージです:<br>%1"
+
+#. +> trunk6
+#: part.cpp:522
+#, kde-format
+msgid "Invalid document. The document does not contain 'maindoc.xml'."
+msgstr "無効な文書です。‘maindoc.xml’ がありません。"
+
+#. +> trunk6
+#: part.cpp:550
+#, kde-format
+msgid "Failed to open file: %1"
+msgstr "ファイルを開けませんでした: %1"
+
+#. +> trunk6
+#: part.cpp:564
+#, kde-format
+msgid "Parsing error in file '%1' at line %2, column %3<br>Error message: %4"
+msgstr ""
+
+#. +> trunk6
+#: part.cpp:583 part.cpp:634
+#, kde-format
+msgid "Invalid document. No mimetype specified."
+msgstr "無効な文書です。MIME タイプが指定されていません。"
+
+#. +> trunk6
+#: part.cpp:591
+#, kde-format
+msgid ""
+"Invalid document. Expected mimetype application/x-vnd.kde.plan.work, got %1"
+msgstr ""
+"無効な文書です。MIME タイプ application/x-vnd.kde.plan.work が期待されます"
+"が、%1 でした。"
+
+#. +> trunk6
+#: part.cpp:602 part.cpp:650
+#, kde-format
+msgid ""
+"This document is a newer version than supported by PlanWork (syntax version: "
+"%1)<br>Opening it in this version of PlanWork will lose some information."
+msgstr ""
+"この文書は PlanWork がサポートするより新しいバージョン (構文バージョン: %1) "
+"で作成されています。<br/>このバージョンの PlanWork で開くと一部の情報が失われ"
+"ます。"
+
+#. +> trunk6
+#: part.cpp:604 part.cpp:652
+#, kde-format
+msgid "Continue"
+msgstr "続行"
+
+#. +> trunk6
+#: part.cpp:604 part.cpp:652
+#, kde-format
+msgid "File-Format Mismatch"
+msgstr "ファイルフォーマット不一致"
+
+#. +> trunk6
+#: part.cpp:640
+#, fuzzy, kde-format
+#| msgid ""
+#| "Invalid document. Expected mimetype application/x-vnd.kde.plan.work, got "
+#| "%1"
+msgid "Invalid document. Expected mimetype %2, got %1"
+msgstr ""
+"無効な文書です。MIME タイプ application/x-vnd.kde.plan.work が期待されます"
+"が、%1 でした。"
+
+#. +> trunk6
+#: part.cpp:742
+#, kde-format
+msgid "Edit failed. Cannot find a work package."
+msgstr ""
+
+#. +> trunk6
+#: taskcompletiondialog.cpp:32
+#, kde-format
+msgid "Task Progress"
+msgstr "タスク進捗"
+
+#. i18n: ectx: property (text), widget (QCheckBox, started)
+#. +> trunk6
+#: taskcompletionpanel.ui:33
+#, kde-format
+msgid "Started:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, finished)
+#. +> trunk6
+#: taskcompletionpanel.ui:50
+#, kde-format
+msgid "Finished:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, addEntryBtn)
+#. +> trunk6
+#: taskcompletionpanel.ui:143
+#, kde-format
+msgid "Add Entry"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, removeEntryBtn)
+#. +> trunk6
+#: taskcompletionpanel.ui:150
+#, kde-format
+msgid "Remove Entry"
+msgstr ""
+
+#. +> trunk6
+#: taskworkpackagemodel.cpp:289
+#, kde-format
+msgid "<p><strong>%1: %2</strong></p><p>%3</p>"
+msgstr ""
+
+#. +> trunk6
+#: taskworkpackagemodel.cpp:411
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Type: %1<nl/>Url: %2"
+msgstr ""
+
+#. +> trunk6
+#: taskworkpackagemodel.cpp:433
+#, no-c-format
+msgctxt "(qtundo-format)"
+msgid "Modify completion"
+msgstr ""
+
+#. +> trunk6
+#: taskworkpackagemodel.cpp:468
+msgctxt "(qtundo-format)"
+msgid "Set finished"
+msgstr ""
+
+#. +> trunk6
+#: taskworkpackagemodel.cpp:489
+msgctxt "(qtundo-format)"
+msgid "Modify remaining effort"
+msgstr ""
+
+#. +> trunk6
+#: taskworkpackagemodel.cpp:502
+msgctxt "(qtundo-format)"
+msgid "Modify actual effort"
+msgstr ""
+
+#. +> trunk6
+#: taskworkpackagemodel.cpp:600
+#, fuzzy, kde-kuit-format
+#| msgid "Name"
+msgctxt "@title:column"
+msgid "Name"
+msgstr "名前"
+
+#. +> trunk6
+#: taskworkpackagemodel.cpp:601
+#, fuzzy, kde-kuit-format
+#| msgid "Type"
+msgctxt "@title:column"
+msgid "Type"
+msgstr "タイプ"
+
+#. +> trunk6
+#: taskworkpackagemodel.cpp:602
+#, kde-kuit-format
+msgctxt "@title:column"
+msgid "Responsible"
+msgstr ""
+
+#. +> trunk6
+#: taskworkpackagemodel.cpp:603
+#, kde-kuit-format
+msgctxt "@title:column"
+msgid "Description"
+msgstr ""
+
+#. +> trunk6
+#: taskworkpackagemodel.cpp:606
+#, fuzzy, kde-kuit-format
+#| msgid "Planned Start"
+msgctxt "@title:column"
+msgid "Planned Start"
+msgstr "開始計画日"
+
+#. +> trunk6
+#: taskworkpackagemodel.cpp:607
+#, fuzzy, kde-kuit-format
+#| msgid "Planned Finish"
+msgctxt "@title:column"
+msgid "Planned Finish"
+msgstr "終了計画日"
+
+#. +> trunk6
+#: taskworkpackagemodel.cpp:608
+#, fuzzy, kde-kuit-format
+#| msgid "Resource Assignments"
+msgctxt "@title:column"
+msgid "Resource Assignments"
+msgstr "リソースの割り当て"
+
+#. +> trunk6
+#: taskworkpackagemodel.cpp:611
+#, fuzzy, kde-kuit-format
+#| msgid "Completion"
+msgctxt "@title:column"
+msgid "Completion"
+msgstr "完了"
+
+#. +> trunk6
+#: taskworkpackagemodel.cpp:612
+#, kde-kuit-format
+msgctxt "@title:column"
+msgid "Actual Effort"
+msgstr ""
+
+#. +> trunk6
+#: taskworkpackagemodel.cpp:613
+#, fuzzy, kde-kuit-format
+#| msgid "Planned Start"
+msgctxt "@title:column"
+msgid "Remaining Effort"
+msgstr "開始計画日"
+
+#. +> trunk6
+#: taskworkpackagemodel.cpp:614
+#, fuzzy, kde-kuit-format
+#| msgid "Planned Start"
+msgctxt "@title:column"
+msgid "Planned Effort"
+msgstr "開始計画日"
+
+#. +> trunk6
+#: taskworkpackagemodel.cpp:615
+#, kde-kuit-format
+msgctxt "@title:column"
+msgid "Actual Start"
+msgstr ""
+
+#. +> trunk6
+#: taskworkpackagemodel.cpp:616
+#, fuzzy, kde-kuit-format
+#| msgid "Started"
+msgctxt "@title:column"
+msgid "Started"
+msgstr "開始済み"
+
+#. +> trunk6
+#: taskworkpackagemodel.cpp:617
+#, kde-kuit-format
+msgctxt "@title:column"
+msgid "Actual Finish"
+msgstr ""
+
+#. +> trunk6
+#: taskworkpackagemodel.cpp:618
+#, fuzzy, kde-kuit-format
+#| msgid "Finished"
+msgctxt "@title:column"
+msgid "Finished"
+msgstr "完了"
+
+#. +> trunk6
+#: taskworkpackagemodel.cpp:619
+#, kde-kuit-format
+msgctxt "@title:column"
+msgid "Status"
+msgstr ""
+
+#. +> trunk6
+#: taskworkpackagemodel.cpp:620
+#, fuzzy, kde-kuit-format
+#| msgid "Note"
+msgctxt "@title:column"
+msgid "Note"
+msgstr "メモ"
+
+#. +> trunk6
+#: taskworkpackagemodel.cpp:622
+#, fuzzy, kde-kuit-format
+#| msgid "Project Name"
+msgctxt "@title:column"
+msgid "Project Name"
+msgstr "プロジェクト名"
+
+#. +> trunk6
+#: taskworkpackagemodel.cpp:623
+#, fuzzy, kde-kuit-format
+#| msgid "Project Manager"
+msgctxt "@title:column"
+msgid "Project Manager"
+msgstr "プロジェクトマネージャ"
+
+#. +> trunk6
+#: taskworkpackageview.cpp:404 taskworkpackageview.cpp:935
+#, kde-format
+msgid "Configure View..."
+msgstr "ビューを設定..."
+
+#. +> trunk6
+#: taskworkpackageview.cpp:631
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid ""
+"Task: %1<nl/>Actual finish: %2<nl/>Planned finish: %3<nl/>Status: %4<nl/"
+">Project: %5"
+msgstr ""
+
+#. +> trunk6
+#: taskworkpackageview.cpp:646
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid ""
+"Task: %1<nl/>Completion: %2 %<nl/>Actual start: %3<nl/>Planned: %4 - %5<nl/"
+">Status: %6<nl/>Project: %7"
+msgstr ""
+
+#. +> trunk6
+#: taskworkpackageview.cpp:667
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Task: %1<nl/>Planned: %2 - %3<nl/>Status: %4<nl/>Project: %5"
+msgstr ""
+
+#. +> trunk6
+#: view.cpp:85
+#, kde-format
+msgid "Remove Packages"
+msgstr "パッケージを削除"
+
+#. +> trunk6
+#: view.cpp:89
+#, kde-format
+msgid "Remove Package"
+msgstr "パッケージを削除"
+
+#. +> trunk6
+#: view.cpp:93
+#, kde-format
+msgid "List"
+msgstr ""
+
+#. +> trunk6
+#: view.cpp:94
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Select task list"
+msgstr ""
+
+#. +> trunk6
+#: view.cpp:98
+#, kde-format
+msgid "Gantt"
+msgstr ""
+
+#. +> trunk6
+#: view.cpp:99
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Select timeline"
+msgstr ""
+
+#. +> trunk6
+#: view.cpp:104
+#, kde-format
+msgid "Configure PlanWork..."
+msgstr "PlanWork を設定..."
+
+#. +> trunk6
+#: view.cpp:109
+#, kde-format
+msgid "Edit..."
+msgstr "編集..."
+
+#. +> trunk6
+#: view.cpp:113
+#, kde-format
+msgctxt "@verb"
+msgid "View..."
+msgstr "表示..."
+
+#. +> trunk6
+#: view.cpp:117
+#, fuzzy, kde-format
+#| msgid "Open Document"
+msgid "Remove document"
+msgstr "文書を開く"
+
+#. +> trunk6
+#: view.cpp:121
+#, kde-format
+msgid "Send Package..."
+msgstr "パッケージを送信..."
+
+#. +> trunk6
+#: view.cpp:125
+#, kde-format
+msgid "Edit Progress..."
+msgstr "進捗を編集..."
+
+#. +> trunk6
+#: view.cpp:129
+#, kde-format
+msgid "View Description..."
+msgstr ""
+
+#. +> trunk6
+#: view.cpp:316
+#, kde-format
+msgid "This file is not editable"
+msgstr "このファイルは編集不可です"
+
+#. +> trunk6
+#: view.cpp:336
+#, kde-format
+msgid "No work package is selected"
+msgstr "ワークパッケージが選択されていません"
+
+#. +> trunk6
+#: view.cpp:342
+#, kde-format
+msgid "Cannot find work package"
+msgstr "ワークパッケージを見つけることができません"
+
+#. +> trunk6
+#: view.cpp:359
+#, kde-format
+msgid "Could not open file. Sending is aborted."
+msgstr ""
+
+#. +> trunk6
+#: view.cpp:367
+#, kde-format
+msgid "Could not open temporary file. Sending is aborted."
+msgstr ""
+
+#. +> trunk6
+#: view.cpp:376
+#, kde-format
+msgid "Work Package: %1"
+msgstr "ワークパッケージ: %1"
+
+#. +> trunk6
+#: workpackage.cpp:103
+#, kde-format
+msgid "Document is already open"
+msgstr "文書は既に開いています"
+
+#. +> trunk6
+#: workpackage.cpp:169 workpackage.cpp:224
+#, kde-format
+msgid "Failed to load project: %1"
+msgstr "プロジェクトを読み込めませんでした: %1"
+
+#. +> trunk6
+#: workpackage.cpp:286
+#, kde-format
+msgid "Cannot save to empty filename"
+msgstr ""
+
+#. +> trunk6
+#: workpackage.cpp:294
+#, fuzzy, kde-format
+#| msgid "Could not create the file for saving"
+msgid "Could not create the file for saving"
+msgstr "保存のためにファイルを作成できませんでした: %1"
+
+#. +> trunk6
+#: workpackage.cpp:308
+#, kde-format
+msgid "Not able to write '%1'. Partition full?"
+msgstr ""
+
+#. +> trunk6
+#: workpackage.cpp:334
+#, kde-format
+msgid ""
+"Failed to open store:\n"
+" %1"
+msgstr ""
+"ストアを開けませんでした:\n"
+"%1"
+
+#. +> trunk6
+#: workpackage.cpp:412
+#, kde-format
+msgid ""
+"Cannot save to projects store:\n"
+"%1"
+msgstr ""
+"プロジェクトストアに保存できません:\n"
+"%1"
+
+#. +> trunk6
+#: workpackage.cpp:455
+#, fuzzy
+#| msgid "Open Document"
+msgctxt "(qtundo-format)"
+msgid "Remove document"
+msgstr "文書を開く"
+
+#. +> trunk6
+#: workpackage.cpp:464
+#, kde-format
+msgid ""
+"Failed read file:\n"
+" %1"
+msgstr ""
+"ファイルを読めませんでした:\n"
+"%1"
+
+#. +> trunk6
+#: workpackage.cpp:470
+#, kde-format
+msgid ""
+"Failed write file:\n"
+" %1"
+msgstr ""
+"ファイルを書き込めませんでした:\n"
+"%1"
+
+#. +> trunk6
+#: workpackage.cpp:514
+msgctxt "(qtundo-format)"
+msgid "Merge data"
+msgstr "データを統合"
+
+#. +> trunk6
+#: workpackage.cpp:638
+#, kde-format
+msgid ""
+"<p>The work package <b>'%2'</b> has an open document.</p><p>Data may be lost "
+"if you continue.</p>"
+msgid_plural ""
+"<p>The work package <b>'%2'</b> has open documents.</p><p>Data may be lost "
+"if you continue.</p>"
+msgstr[0] ""
+
+#. +> trunk6
+#: workpackage.cpp:661
+#, kde-format
+msgid ""
+"<p>The work package <b>'%1'</b> has been modified.</p><p>Do you want to save "
+"it?</p>"
+msgstr ""
+
+#. +> trunk6
+#: workpackage.cpp:688
+#, kde-format
+msgid "<p>Work package <b>'%1'</b></p><p>Could not open store:</p><p>%2</p>"
+msgstr ""
+
+#. +> trunk6
+#: workpackage.cpp:706
+#, kde-format
+msgid "<p>Work package <b>'%1'</b></p><p>Could not extract file:</p><p>%2</p>"
+msgstr ""
+
+#, kde-format
+#~ msgid ""
+#~ "Invalid document. Expected mimetype application/x-vnd.kde.kplato.work, "
+#~ "got %1"
+#~ msgstr ""
+#~ "無効な文書です。MIME タイプ application/x-vnd.kde.kplato.work が期待されま"
+#~ "すが、%1 でした。"
+
+#~ msgid "Name"
+#~ msgstr "名前"
+
+#~ msgid "Type"
+#~ msgstr "タイプ"
+
+#~ msgid "Planned Start"
+#~ msgstr "開始計画日"
+
+#~ msgid "Planned Finish"
+#~ msgstr "終了計画日"
+
+#~ msgid "Resource Assignments"
+#~ msgstr "リソースの割り当て"
+
+#~ msgid "Completion"
+#~ msgstr "完了"
+
+#~ msgid "Started"
+#~ msgstr "開始済み"
+
+#~ msgid "Finished"
+#~ msgstr "完了"
+
+#~ msgid "Note"
+#~ msgstr "メモ"
+
+#~ msgid "Project Name"
+#~ msgstr "プロジェクト名"
+
+#~ msgid "Project Manager"
+#~ msgstr "プロジェクトマネージャ"
+
+#~ msgid "Package Settings..."
+#~ msgstr "パッケージの設定..."
+
+#~ msgid "Work Package Settings"
+#~ msgstr "ワークパッケージの設定"
+
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Modify package settings"
+#~ msgstr "パッケージの設定を変更"
+
+#~ msgid "Progress"
+#~ msgstr "進捗"
+
+#~ msgid "The documents attached to this task"
+#~ msgstr "このタスクに添付された文書"
+
+#~ msgid "Documents"
+#~ msgstr "文書"
+
+#, fuzzy
+#~| msgid "PlanWork - Work Package handler for the Plan Project Planning Tool"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "PlanWork - Work Package handler for the Plan Project Planning Tool"
+#~ msgstr ""
+#~ "PlanWork - Plan プロジェクト管理ツールのためのワークパッケージハンドラ"
+
+#, fuzzy
+#~| msgctxt "application name"
+#~| msgid "Plan WorkPackage Handler"
+#~ msgctxt "(qtundo-format) application name"
+#~ msgid "Plan WorkPackage Handler"
+#~ msgstr "Plan ワークパッケージハンドラ"
+
+#~ msgid "© 1998-%1, The Plan Team"
+#~ msgstr "(c) 1998-%1, Plan 開発チーム"
+
+#, fuzzy
+#~| msgid "© 1998-%1, The Plan Team"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "© 1998-%1, The Plan Team"
+#~ msgstr "(c) 1998-%1, Plan 開発チーム"
+
+#, fuzzy
+#~| msgid "Dag Andersen"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Dag Andersen"
+#~ msgstr "Dag Andersen"
+
+#, fuzzy
+#~| msgid "The file %1 does not exist."
+#~ msgctxt "(qtundo-format)"
+#~ msgid "The file %1 does not exist."
+#~ msgstr "ファイル ‘%1’ は存在しません"
+
+#, fuzzy
+#~| msgid "Work Package Settings"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Work Package Settings"
+#~ msgstr "ワークパッケージの設定"
+
+#, fuzzy
+#~| msgid "Document is already open:<br>%1"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Document is already open:<br>%1"
+#~ msgstr "文書は既に開いています:<br>%1"
+
+#, fuzzy
+#~| msgid "Could not extract document from storage:<br>%1"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Could not extract document from storage:<br>%1"
+#~ msgstr "ファイルをストレージから取り出せませんでした:<br>%1"
+
+#, fuzzy
+#~| msgid "Invalid URL:<br>%1"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Invalid URL:<br>%1"
+#~ msgstr "無効な URL:<br>%1"
+
+#, fuzzy
+#~| msgid "Document is already open:<br> %1"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Document is already open:<br> %1"
+#~ msgstr "文書は既に開いています:<br>%1"
+
+#, fuzzy
+#~| msgid "File does not exist:<br>%1"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "File does not exist:<br>%1"
+#~ msgstr "ファイルは存在しません:<br>%1"
+
+#, fuzzy
+#~| msgid "Edit with:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Edit with:"
+#~ msgstr "アプリケーションで編集:"
+
+#, fuzzy
+#~| msgid "Cannot find work package"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Remove failed. Cannot find work package"
+#~ msgstr "ワークパッケージを見つけることができません"
+
+#, fuzzy
+#~| msgid "Failed to load file:<br>%1"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Failed to load file:<br>%1"
+#~ msgstr "ファイルを書き込めませんでした:<br>%1"
+
+#, fuzzy
+#~| msgid "Not a valid work package file:<br>%1"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Not a valid work package file:<br>%1"
+#~ msgstr "無効なワークパッケージです:<br>%1"
+
+#, fuzzy
+#~| msgid "Invalid document. The document does not contain 'maindoc.xml'."
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Invalid document. The document does not contain 'maindoc.xml'."
+#~ msgstr "無効な文書です。‘maindoc.xml’ がありません。"
+
+#, fuzzy
+#~| msgid "Failed to open file: %1"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Failed to open file: %1"
+#~ msgstr "ファイルを開けませんでした: %1"
+
+#, fuzzy
+#~| msgid "Invalid document. No mimetype specified."
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Invalid document. No mimetype specified."
+#~ msgstr "無効な文書です。MIME タイプが指定されていません。"
+
+#, fuzzy
+#~| msgid ""
+#~| "Invalid document. Expected mimetype application/x-vnd.kde.plan.work, got "
+#~| "%1"
+#~ msgctxt "(qtundo-format)"
+#~ msgid ""
+#~ "Invalid document. Expected mimetype application/x-vnd.kde.plan.work, got "
+#~ "%1"
+#~ msgstr ""
+#~ "無効な文書です。MIME タイプ application/x-vnd.kde.plan.work が期待されます"
+#~ "が、%1 でした。"
+
+#, fuzzy
+#~| msgid ""
+#~| "This document is a newer version than supported by PlanWork (syntax "
+#~| "version: %1)<br>Opening it in this version of PlanWork will lose some "
+#~| "information."
+#~ msgctxt "(qtundo-format)"
+#~ msgid ""
+#~ "This document is a newer version than supported by PlanWork (syntax "
+#~ "version: %1)<br>Opening it in this version of PlanWork will lose some "
+#~ "information."
+#~ msgstr ""
+#~ "この文書は PlanWork がサポートするより新しいバージョン (構文バージョン: "
+#~ "%1) で作成されています。<br/>このバージョンの PlanWork で開くと一部の情報"
+#~ "が失われます。"
+
+#, fuzzy
+#~| msgid "Continue"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Continue"
+#~ msgstr "続行"
+
+#, fuzzy
+#~| msgid "File-Format Mismatch"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "File-Format Mismatch"
+#~ msgstr "ファイルフォーマット不一致"
+
+#, fuzzy
+#~| msgid ""
+#~| "Invalid document. Expected mimetype application/x-vnd.kde.kplato.work, "
+#~| "got %1"
+#~ msgctxt "(qtundo-format)"
+#~ msgid ""
+#~ "Invalid document. Expected mimetype application/x-vnd.kde.kplato.work, "
+#~ "got %1"
+#~ msgstr ""
+#~ "無効な文書です。MIME タイプ application/x-vnd.kde.kplato.work が期待されま"
+#~ "すが、%1 でした。"
+
+#, fuzzy
+#~| msgid "Cannot find work package"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Edit failed. Cannot find a work package."
+#~ msgstr "ワークパッケージを見つけることができません"
+
+#, fuzzy
+#~| msgid "Task Progress"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Task Progress"
+#~ msgstr "タスク進捗"
+
+#, fuzzy
+#~| msgid "Name"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Name"
+#~ msgstr "名前"
+
+#, fuzzy
+#~| msgid "Type"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Type"
+#~ msgstr "タイプ"
+
+#, fuzzy
+#~| msgid "Planned Start"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Planned Start"
+#~ msgstr "開始計画日"
+
+#, fuzzy
+#~| msgid "Planned Finish"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Planned Finish"
+#~ msgstr "終了計画日"
+
+#, fuzzy
+#~| msgid "Resource Assignments"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Resource Assignments"
+#~ msgstr "リソースの割り当て"
+
+#, fuzzy
+#~| msgid "Completion"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Completion"
+#~ msgstr "完了"
+
+#, fuzzy
+#~| msgid "Started"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Started"
+#~ msgstr "開始済み"
+
+#, fuzzy
+#~| msgid "Finished"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Finished"
+#~ msgstr "完了"
+
+#, fuzzy
+#~| msgid "Note"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Note"
+#~ msgstr "メモ"
+
+#, fuzzy
+#~| msgid "Project Name"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Project Name"
+#~ msgstr "プロジェクト名"
+
+#, fuzzy
+#~| msgid "Project Manager"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Project Manager"
+#~ msgstr "プロジェクトマネージャ"
+
+#, fuzzy
+#~| msgid "Configure View..."
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Configure View..."
+#~ msgstr "ビューを設定..."
+
+#, fuzzy
+#~| msgid "Remove Packages"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Remove Packages"
+#~ msgstr "パッケージを削除"
+
+#, fuzzy
+#~| msgid "Remove Package"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Remove Package"
+#~ msgstr "パッケージを削除"
+
+#, fuzzy
+#~| msgid "Configure PlanWork..."
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Configure PlanWork..."
+#~ msgstr "PlanWork を設定..."
+
+#, fuzzy
+#~| msgid "Edit..."
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Edit..."
+#~ msgstr "編集..."
+
+#, fuzzy
+#~| msgctxt "@verb"
+#~| msgid "View..."
+#~ msgctxt "(qtundo-format) @verb"
+#~ msgid "View..."
+#~ msgstr "表示..."
+
+#, fuzzy
+#~| msgid "Send Package..."
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Send Package..."
+#~ msgstr "パッケージを送信..."
+
+#, fuzzy
+#~| msgid "Package Settings..."
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Package Settings..."
+#~ msgstr "パッケージの設定..."
+
+#, fuzzy
+#~| msgid "Edit Progress..."
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Edit Progress..."
+#~ msgstr "進捗を編集..."
+
+#, fuzzy
+#~| msgid "This file is not editable"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "This file is not editable"
+#~ msgstr "このファイルは編集不可です"
+
+#, fuzzy
+#~| msgid "No work package is selected"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "No work package is selected"
+#~ msgstr "ワークパッケージが選択されていません"
+
+#, fuzzy
+#~| msgid "Cannot find work package"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Cannot find work package"
+#~ msgstr "ワークパッケージを見つけることができません"
+
+#, fuzzy
+#~| msgid "Work Package: %1"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Work Package: %1"
+#~ msgstr "ワークパッケージ: %1"
+
+#, fuzzy
+#~| msgid "Document is already open"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Document is already open"
+#~ msgstr "文書は既に開いています"
+
+#, fuzzy
+#~| msgid "Failed to load project: %1"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Failed to load project: %1"
+#~ msgstr "プロジェクトを読み込めませんでした: %1"
+
+#, fuzzy
+#~| msgid ""
+#~| "Cannot save to projects store:\n"
+#~| "%1"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Cannot save to empty filename"
+#~ msgstr ""
+#~ "プロジェクトストアに保存できません:\n"
+#~ "%1"
+
+#, fuzzy
+#~| msgid "Could not create the file for saving"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Could not create the file for saving"
+#~ msgstr "保存のためにファイルを作成できませんでした: %1"
+
+#, fuzzy
+#~| msgid ""
+#~| "Failed to open store:\n"
+#~| " %1"
+#~ msgctxt "(qtundo-format)"
+#~ msgid ""
+#~ "Failed to open store:\n"
+#~ " %1"
+#~ msgstr ""
+#~ "ストアを開けませんでした:\n"
+#~ "%1"
+
+#, fuzzy
+#~| msgid ""
+#~| "Cannot save to projects store:\n"
+#~| "%1"
+#~ msgctxt "(qtundo-format)"
+#~ msgid ""
+#~ "Cannot save to projects store:\n"
+#~ "%1"
+#~ msgstr ""
+#~ "プロジェクトストアに保存できません:\n"
+#~ "%1"
+
+#, fuzzy
+#~| msgid ""
+#~| "Failed read file:\n"
+#~| " %1"
+#~ msgctxt "(qtundo-format)"
+#~ msgid ""
+#~ "Failed read file:\n"
+#~ " %1"
+#~ msgstr ""
+#~ "ファイルを読めませんでした:\n"
+#~ "%1"
+
+#, fuzzy
+#~| msgid ""
+#~| "Failed write file:\n"
+#~| " %1"
+#~ msgctxt "(qtundo-format)"
+#~ msgid ""
+#~ "Failed write file:\n"
+#~ " %1"
+#~ msgstr ""
+#~ "ファイルを書き込めませんでした:\n"
+#~ "%1"
+
+#, fuzzy
+#~| msgid ""
+#~| "This workpackage is not in your project store:\n"
+#~| "%1\n"
+#~| "Do you want to save it?"
+#~ msgctxt "(qtundo-format)"
+#~ msgid ""
+#~ "<p>The work package <b>'%1'</b> has been modified.</p><p>Do you want to "
+#~ "save it?</p>"
+#~ msgstr ""
+#~ "このワークパッケージはあなたのプロジェクトストアにありません:\n"
+#~ "%1\n"
+#~ "保存しますか？"
+
+#, fuzzy
+#~| msgctxt "NAME OF TRANSLATORS"
+#~| msgid "Your names"
+#~ msgctxt "(qtundo-format) NAME OF TRANSLATORS"
+#~ msgid "Your names"
+#~ msgstr "Taiki Komoda,Yukiko Bando"
+
+#, fuzzy
+#~| msgctxt "EMAIL OF TRANSLATORS"
+#~| msgid "Your emails"
+#~ msgctxt "(qtundo-format) EMAIL OF TRANSLATORS"
+#~ msgid "Your emails"
+#~ msgstr "kom@kde.gr.jp,ybando@k6.dion.ne.jp"
+
+#, fuzzy
+#~| msgid "Started"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Started:"
+#~ msgstr "開始済み"
+
+#, fuzzy
+#~| msgid "Finished"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Finished:"
+#~ msgstr "完了"
+
+#, fuzzy
+#~| msgid "The documents attached to this task"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "The effort you have used on this task."
+#~ msgstr "このタスクに添付された文書"
+
+#, fuzzy
+#~| msgid "Progress"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Progress"
+#~ msgstr "進捗"
+
+#, fuzzy
+#~| msgid "The documents attached to this task"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "The documents attached to this task"
+#~ msgstr "このタスクに添付された文書"
+
+#, fuzzy
+#~| msgid "Documents"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Documents"
+#~ msgstr "文書"
+
+#, fuzzy
+#~| msgid "&Edit"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "&Edit"
+#~ msgstr "編集(&E)"
+
+#, fuzzy
+#~| msgid "View"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "View"
+#~ msgstr "表示"
+
+#, fuzzy
+#~| msgid "&View"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "&View"
+#~ msgstr "表示(&V)"
+
+#, fuzzy
+#~| msgid "Failed to open document"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Failed to open document"
+#~ msgstr "文書を開くことができませんでした"
+
+#, fuzzy
+#~| msgid "File to open"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "File to open"
+#~ msgstr "開くファイル"
+
+#, fuzzy
+#~| msgid "© 1998-%1, The Plan Team"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Copyright 1998-%1, The Plan Team"
+#~ msgstr "(c) 1998-%1, Plan 開発チーム"
+
+#, fuzzy
+#~| msgid "(c) 2007-2011, The Plan Team"
+#~ msgid "Copyright (C) 2007-2013, The Plan Team"
+#~ msgstr "(c) 2007-2011, Plan 開発チーム"
+
+#~ msgid "(c) 2007-2011, The Plan Team"
+#~ msgstr "(c) 2007-2011, Plan 開発チーム"
+
+#~ msgid "&Settings"
+#~ msgstr "設定(&S)"
+
+#~ msgid ""
+#~ "KPlatoWork - Work Package handler for the KPlato Project Planning Tool"
+#~ msgstr ""
+#~ "KPlatoWork - KPlato プロジェクト管理ツールのためのワークパッケージハンドラ"
+
+#~ msgid "KPlato WorkPackage Handler"
+#~ msgstr "KPlato ワークパッケージハンドラ"
+
+#~ msgid "(c) 2007-2010, The KPlato Team"
+#~ msgstr "(c) 2007-2010, KPlato 開発チーム"
+
+#~ msgid "Modify package settings"
+#~ msgstr "パッケージの設定を変更"
+
+#~ msgid ""
+#~ "This document is a newer version than supported by KPlatoWork (syntax "
+#~ "version: %1)<br>Opening it in this version of KPlatoWork will lose some "
+#~ "information."
+#~ msgstr ""
+#~ "この文書は新しいバージョンの KPlatoWork (構文バージョン: %1) で作成されて"
+#~ "います。<br/>このバージョンで開くと一部の情報が失われます。"
+
+#~ msgid "Edit Mode:"
+#~ msgstr "編集モード:"
+
+#~ msgid "Calculate"
+#~ msgstr "計算する"
+
+#~ msgid "Configure KPlatoWork..."
+#~ msgstr "KPlatoWork を設定..."
+
+#, fuzzy
+#~| msgid "Invalid url: %1"
+#~ msgid "Invalid url:<br>%1"
+#~ msgstr "無効な URL: %1"
+
+#, fuzzy
+#~| msgid "(c) 1998-2007, The KPlato Team"
+#~ msgid "(c) 2007-2009, The KPlato Team"
+#~ msgstr "(c) 1998-2007, KPlato 開発チーム"
+
+#~ msgid "KPlatoWP - Work Package handler for the KPlato Project Planning Tool"
+#~ msgstr ""
+#~ "KPlatoWP - KPlato プロジェクト管理ツールのためのワークパッケージハンドラ"
+
+#~ msgid "No template found for: %1 "
+#~ msgstr "テンプレートが見つかりませんでした: %1"
+
+#~ msgid "Too many templates found for: %1"
+#~ msgstr "見つかったテンプレートが多すぎます: %1"
+
+#~ msgid "Template %1 failed to load."
+#~ msgstr "テンプレート “%1” を読み込めませんでした。"
+
+#~ msgid "Close"
+#~ msgstr "閉じる"
+
+#~ msgid "Empty"
+#~ msgstr "空"
+
+#~ msgctxt "Main document"
+#~ msgid " [main]"
+#~ msgstr " [メイン]"
+
+#~ msgid " [write protected]"
+#~ msgstr " [書き込み保護]"
+
+#~ msgid "%1 Handbook"
+#~ msgstr "%1 ハンドブック"
+
+#~ msgid "Save"
+#~ msgstr "保存"
+
+#~ msgid ""
+#~ "Could not open workpackage store:\n"
+#~ " %1"
+#~ msgstr ""
+#~ "ワークパッケージストアを開けませんでした:\n"
+#~ "%1"
+
+#~ msgid ""
+#~ "Could not extract file:\n"
+#~ " %1"
+#~ msgstr ""
+#~ "ファイルを取り出せませんでした:\n"
+#~ "%1"
+
+#~ msgid ""
+#~ "Could not extract file:\n"
+#~ "%1"
+#~ msgstr ""
+#~ "ファイルを取り出せませんでした:\n"
+#~ "%1"
+
+#~ msgid ""
+#~ "Document is already open:\n"
+#~ " %1"
+#~ msgstr ""
+#~ "文書は既に開いています:\n"
+#~ "%1"
+
+#, fuzzy
+#~| msgid "Could not extract file: %1"
+#~ msgid "Could not find %1"
+#~ msgstr "ファイルを取り出せませんでした: %1"
+
+#~ msgid ""
+#~ "This workpackage already exists in your project store:\n"
+#~ "%1\n"
+#~ "Do you want to overwrite it?"
+#~ msgstr ""
+#~ "このワークパッケージは既にあなたのプロジェクトストアに存在します:\n"
+#~ "%1\n"
+#~ "上書きしますか？"
+
+#~ msgid ""
+#~ "This workpackage is not in your project store:\n"
+#~ "%1\n"
+#~ "Do you want to save it?"
+#~ msgstr ""
+#~ "このワークパッケージはあなたのプロジェクトストアにありません:\n"
+#~ "%1\n"
+#~ "保存しますか？"
+
+#~ msgid "none"
+#~ msgstr "なし"
+
+#, fuzzy
+#~| msgid ""
+#~| "Could not open workpackage store:\n"
+#~| " %1"
+#~ msgid "Failed to set workpackage, project: %1"
+#~ msgstr ""
+#~ "ワークパッケージストアを開けませんでした:\n"
+#~ "%1"
+
+#~ msgid "Failed to create KOffice document"
+#~ msgstr "KOffice 文書を作成できませんでした"
+
+#, fuzzy
+#~| msgid "KPlato WorkPackage Handler"
+#~ msgid "No WorkPackage handles this document"
+#~ msgstr "KPlato ワークパッケージハンドラ"
+
+#~ msgid "Information"
+#~ msgstr "情報"
+
+#~ msgid "Add Schedule %1"
+#~ msgstr "スケジュール “%1” を追加"
+
+#~ msgid "Delete Schedule %1"
+#~ msgstr "スケジュール “%1” を削除"
+
+#~ msgid "Not scheduled"
+#~ msgstr "スケジュールされていません"

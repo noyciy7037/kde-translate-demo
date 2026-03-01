@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kleopatra.appdata\n"
+"POT-Creation-Date: 2025-08-27 09:27+0200\n"
+"PO-Revision-Date: 2024-12-25 13:41+0900\n"
+"Last-Translator: NIIBE Yutaka <gniibe@fsij.org>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. (itstool) path: component/name
+#. +> trunk6 stable6
+#: org.kde.kleopatra.appdata.xml:10
+msgid "Kleopatra"
+msgstr "Kleopatra"
+
+#. (itstool) path: component/summary
+#. +> trunk6 stable6
+#: org.kde.kleopatra.appdata.xml:11
+msgid "Certificate manager and cryptography app"
+msgstr "証明書マネージャと暗号アプリ"
+
+#. (itstool) path: description/p
+#. +> trunk6 stable6
+#: org.kde.kleopatra.appdata.xml:13
+msgid ""
+"Kleopatra is an open-source certificate manager and graphical front-end for "
+"cryptographic services, primarily designed to handle OpenPGP and S/MIME "
+"(X.509) certificates. Part of the KDE ecosystem, it provides an accessible "
+"interface for managing encryption keys, signing and verifying data, and "
+"encrypting or decrypting files and emails."
+msgstr ""
+"Kleopatra は自由ソフトウェアの証明書マネージャで暗号サービスのグラフィカルな"
+"フロントエンドで、主に OpenPGP と S/MIME (X.509) の証明書を取り扱うように設計"
+"されています。KDE のエコシステムの一部として、暗号鍵の管理、データの署名と署"
+"名の検証、ファイルとメールの暗号化と復号のためのアクセシブルなインターフェー"
+"スを提供します。"
+
+#. (itstool) path: screenshot/caption
+#. +> trunk6 stable6
+#: org.kde.kleopatra.appdata.xml:30
+msgid "Certificate overview in Kleopatra"
+msgstr "Kleopatra の証明書概覧"
+
+#. (itstool) path: screenshot/caption
+#. +> trunk6 stable6
+#: org.kde.kleopatra.appdata.xml:34
+msgid "Encrypted email viewer in Kleopatra"
+msgstr "Kleopatra の暗号メールビューア"
+
+#. (itstool) path: screenshot/caption
+#. +> trunk6 stable6
+#: org.kde.kleopatra.appdata.xml:38
+msgid "Notepad"
+msgstr "Notepad"
+
+#. (itstool) path: screenshot/caption
+#. +> trunk6 stable6
+#: org.kde.kleopatra.appdata.xml:42
+msgid "Certificate details"
+msgstr "証明書の詳細"
+
+#~ msgid ""
+#~ "Kleopatra is a certificate manager and a universal crypto GUI. It "
+#~ "supports managing OpenPGP and S/MIME certificates and encrypts files and "
+#~ "text."
+#~ msgstr ""
+#~ "Kleopatraは証明書マネージャで汎用暗号GUIです。OpenPGP と S/MIME の証明書の"
+#~ "管理をサポートし、ファイルとテクストを暗号化します。"

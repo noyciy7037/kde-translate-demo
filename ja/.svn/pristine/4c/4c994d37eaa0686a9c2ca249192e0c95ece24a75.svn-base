@@ -1,0 +1,5527 @@
+# Translation of smb4k to Japanese.
+# This file is distributed under the same license as the smb4k package.
+# Toyohiro Asukai <toyohiro@ksmplus.com>, 2004, 2005, 2006, 2007, 2008.
+# Taiki Komoda <kom@kde.gr.jp>, 2010.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: smb4k\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2026-02-17 10:08+0100\n"
+"PO-Revision-Date: 2011-04-24 13:22-0700\n"
+"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+"X-Generator: Lokalize 1.0\n"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#. +> trunk6 stable6
+#, fuzzy, kde-format
+#| msgid "Show details"
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "詳細を表示"
+
+#. +> trunk6 stable6
+#: helpers/smb4kmounthelper.cpp:68
+#, fuzzy, kde-format
+#| msgid "The wallet is not in use."
+msgid "The computer is not online."
+msgstr "ウォレットは未使用です。"
+
+#. +> trunk6 stable6
+#: helpers/smb4kmounthelper.cpp:77
+#, kde-format
+msgid "Could not create mount point for share %1."
+msgstr ""
+
+#. +> trunk6 stable6
+#: helpers/smb4kmounthelper.cpp:83
+#, fuzzy, kde-format
+#| msgid "The network browser could not be created."
+msgid "The mount command could not be found."
+msgstr "ネットワークブラウザは、作成できません"
+
+#. +> trunk6 stable6
+#: helpers/smb4kmounthelper.cpp:89
+#, kde-format
+msgid "Forbidden mount options were passed."
+msgstr ""
+
+#. +> trunk6 stable6
+#: helpers/smb4kmounthelper.cpp:139
+#, kde-format
+msgid "There is something wrong with the provided Kerberos ticket."
+msgstr ""
+
+#. +> trunk6 stable6
+#: helpers/smb4kmounthelper.cpp:179
+#, fuzzy, kde-format
+#| msgid "The network browser could not be created."
+msgid "The mount process could not be started."
+msgstr "ネットワークブラウザは、作成できません"
+
+#. +> trunk6 stable6
+#: helpers/smb4kmounthelper.cpp:192
+#, fuzzy, kde-format
+#| msgid "Show the mount point instead of the share name"
+msgid "The mountpoint %1 is illegal."
+msgstr "共有名の代わりにマウントポイントを表示"
+
+#. +> trunk6 stable6
+#: helpers/smb4kmounthelper.cpp:198
+#, fuzzy, kde-format
+#| msgid "The network browser could not be created."
+msgid "The umount command could not be found."
+msgstr "ネットワークブラウザは、作成できません"
+
+#. +> trunk6 stable6
+#: helpers/smb4kmounthelper.cpp:204
+#, fuzzy, kde-format
+#| msgid "<qt>The process crashed (error code: %1).</qt>"
+msgid "Forbidden unmount options were passed."
+msgstr "<qt>プロセスがクラッシュしました。(エラーコード: %1)</qt>"
+
+#. +> trunk6 stable6
+#: helpers/smb4kmounthelper.cpp:246
+#, fuzzy, kde-format
+#| msgid "The network browser could not be created."
+msgid "The unmount process could not be started."
+msgstr "ネットワークブラウザは、作成できません"
+
+#. +> trunk6 stable6
+#: smb4k/main.cpp:40 smb4k/smb4ksystemtray.cpp:49
+#, kde-format
+msgid "Smb4K"
+msgstr "Smb4K"
+
+#. +> trunk6 stable6
+#: smb4k/main.cpp:42
+#, fuzzy, kde-format
+#| msgid "The advanced network neighborhood browser for KDE."
+msgid "Advanced network neighborhood browser and Samba share mounting utility"
+msgstr "KDE の高度なネットワーク近傍ブラウザ"
+
+#. +> trunk6
+#: smb4k/main.cpp:44
+#, fuzzy, kde-format
+#| msgid "\\u00A9 2007-2009, Alexander Reinholdt"
+msgid "© 2003-2025 Alexander Reinholdt"
+msgstr "\\u00A9 2007-2009, Alexander Reinholdt"
+
+#. +> stable6
+#: smb4k/main.cpp:44
+#, fuzzy, kde-format
+#| msgid "\\u00A9 2007-2009, Alexander Reinholdt"
+msgid "© 2003-2024 Alexander Reinholdt"
+msgstr "\\u00A9 2007-2009, Alexander Reinholdt"
+
+#. +> trunk6 stable6
+#: smb4k/main.cpp:53
+#, kde-format
+msgid "Alexander Reinholdt"
+msgstr "Alexander Reinholdt"
+
+#. +> trunk6 stable6
+#: smb4k/main.cpp:53
+#, kde-format
+msgid "Developer"
+msgstr "開発者"
+
+#. +> trunk6 stable6
+#: smb4k/main.cpp:58
+#, kde-format
+msgid "Wolfgang Geisendörfer"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/main.cpp:58
+#, kde-format
+msgid "Donator"
+msgstr ""
+
+#. i18n: ectx: Menu (file)
+#. +> trunk6 stable6
+#: smb4k/smb4k_shell.rc:4
+#, kde-format
+msgid "&File"
+msgstr "ファイル(&F)"
+
+#. i18n: ectx: Menu (network)
+#. +> trunk6 stable6
+#: smb4k/smb4k_shell.rc:9
+#, kde-format
+msgid "&Network"
+msgstr "ネットワーク(&N)"
+
+#. i18n: ectx: Menu (shares)
+#. +> trunk6 stable6
+#: smb4k/smb4k_shell.rc:12
+#, kde-format
+msgid "Sh&ares"
+msgstr "共有(&A)"
+
+#. i18n: ectx: Menu (bookmarks)
+#. +> trunk6 stable6
+#: smb4k/smb4k_shell.rc:15
+#, kde-format
+msgid "&Bookmarks"
+msgstr "ブックマーク(&B)"
+
+#. i18n: ectx: Menu (settings)
+#. +> trunk6 stable6
+#: smb4k/smb4k_shell.rc:17
+#, kde-format
+msgid "&Settings"
+msgstr "設定(&S)"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#. +> trunk6 stable6
+#: smb4k/smb4k_shell.rc:29
+#, kde-format
+msgid "Main Toolbar"
+msgstr "メインツールバー"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kbookmarkdialog.cpp:32
+#, fuzzy, kde-format
+#| msgid "Bookmark Editor"
+msgid "Bookmark Shares"
+msgstr "ブックマークエディタ"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kbookmarkdialog.cpp:49
+#, kde-format
+msgid ""
+"All listed shares will be bookmarked. To add a label or category, double-"
+"click the respective bookmark entry."
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4kbookmarkdialog.cpp:74 smb4k/smb4kconfigpagebookmarks.cpp:58
+#: smb4k/smb4kmountdialog.cpp:117
+#, fuzzy, kde-format
+#| msgid "Label"
+msgid "Label:"
+msgstr "ラベル"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kbookmarkdialog.cpp:81 smb4k/smb4kconfigpagebookmarks.cpp:66
+#: smb4k/smb4kmountdialog.cpp:124
+#, kde-format
+msgid "Category:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4kbookmarkeditor.cpp:29
+#, kde-format
+msgid "Bookmark Editor"
+msgstr "ブックマークエディタ"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kbookmarkmenu.cpp:30 smb4k/smb4kconfigdialog.cpp:131
+#, kde-format
+msgid "Bookmarks"
+msgstr "ブックマーク"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kbookmarkmenu.cpp:36
+#, kde-format
+msgid "&Edit Bookmarks"
+msgstr "ブックマークを編集(&E)"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kbookmarkmenu.cpp:42 smb4k/smb4kmainwindow.cpp:111
+#: smb4k/smb4knetworkbrowserdockwidget.cpp:133
+#: smb4k/smb4ksharesviewdockwidget.cpp:200
+#, kde-format
+msgid "Add &Bookmark"
+msgstr "ブックマークを追加(&B)"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kbookmarkmenu.cpp:50 smb4k/smb4kbookmarkmenu.cpp:106
+#, fuzzy, kde-format
+#| msgid "Add Bookmarks"
+msgid "Mount Bookmarks"
+msgstr "ブックマークを追加(&B)"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigdialog.cpp:125
+#, kde-format
+msgid "User Interface"
+msgstr "ユーザインターフェース"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigdialog.cpp:126 smb4k/smb4knetworkbrowser.cpp:42
+#, kde-format
+msgid "Network"
+msgstr "ネットワーク"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigdialog.cpp:127
+#, kde-format
+msgid "Mounting"
+msgstr "マウント中"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigdialog.cpp:128 smb4k/smb4ksynchronizationdialog.cpp:29
+#: smb4k/smb4ksynchronizationdialog.cpp:47
+#, kde-format
+msgid "Synchronization"
+msgstr "同期化"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigdialog.cpp:129
+#, kde-format
+msgid "Authentication"
+msgstr "認証"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigdialog.cpp:130 smb4k/smb4kconfigdialog.cpp:132
+#: smb4k/smb4kconfigdialog.cpp:134 smb4k/smb4kconfigdialog.cpp:241
+#: smb4k/smb4kconfigdialog.cpp:242 smb4k/smb4kconfigdialog.cpp:243
+#, kde-format
+msgid " (Profile: %1)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigdialog.cpp:133
+#, fuzzy, kde-format
+#| msgid "Common Options"
+msgid "Custom Settings"
+msgstr "共通オプション"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigdialog.cpp:135 smb4k/smb4kconfigpageprofiles.cpp:54
+#: smb4k/smb4kprofilesmenu.cpp:22
+#, kde-format
+msgid "Profiles"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigdialog.cpp:160
+#, kde-format
+msgid ""
+"An incorrect setting has been found. You are now taken\n"
+"to the corresponding configuration page to fix it."
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigdialog.cpp:228
+#, kde-format
+msgid ""
+"You have made changes to the profiles. You have to apply\n"
+"them in order to be able to use them in the rest of the\n"
+"configuration dialog."
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpageauthentication.cpp:31
+#, kde-format
+msgid "Default Login"
+msgstr "デフォルト・ログイン"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpageauthentication.cpp:34
+#: smb4k/smb4kconfigpagebookmarks.cpp:75 smb4k/smb4khomesuserdialog.cpp:63
+#: smb4k/smb4ktooltip.cpp:230
+#, fuzzy, kde-format
+#| msgid "User:"
+msgid "Username:"
+msgstr "ユーザ:"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpageauthentication.cpp:42
+#, fuzzy, kde-format
+#| msgid "Password"
+msgid "Password:"
+msgstr "パスワード"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagebookmarks.cpp:84
+#: smb4k/smb4kcustomsettingseditorwidget.cpp:81
+#: smb4k/smb4kcustomsettingseditorwidget.cpp:311 smb4k/smb4kmountdialog.cpp:82
+#: smb4k/smb4ktooltip.cpp:167
+#, kde-format
+msgid "Workgroup:"
+msgstr "ワークグループ:"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagebookmarks.cpp:92
+#: smb4k/smb4kcustomsettingseditorwidget.cpp:73
+#: smb4k/smb4kcustomsettingseditorwidget.cpp:303 smb4k/smb4kmountdialog.cpp:75
+#: smb4k/smb4ktooltip.cpp:164 smb4k/smb4ktooltip.cpp:193
+#, kde-format
+msgid "IP Address:"
+msgstr "IP アドレス:"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagebookmarks.cpp:125
+#: smb4k/smb4kconfigpagecustomsettings.cpp:80
+#, kde-format
+msgid "Edit"
+msgstr "編集"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagebookmarks.cpp:131
+#, kde-format
+msgid "Add Category"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagebookmarks.cpp:137
+#: smb4k/smb4kconfigpagecustomsettings.cpp:84
+#: smb4k/smb4kconfigpageprofiles.cpp:78
+#, kde-format
+msgid "Remove"
+msgstr "削除"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagebookmarks.cpp:143
+#: smb4k/smb4kconfigpagecustomsettings.cpp:88
+#, kde-format
+msgid "Clear List"
+msgstr "クリアーリスト"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagebookmarks.cpp:455
+#, kde-format
+msgid "New Category"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagecustomsettings.cpp:64
+#, kde-format
+msgid "All fine."
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagecustomsettings.cpp:195
+#, kde-format
+msgid "The item <b>%1</b> was removed, because all custom settings were reset."
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagemounting.cpp:101 smb4k/smb4kconfigpagemounting.cpp:407
+#: smb4k/smb4kconfigpagenetwork.cpp:105
+#: smb4k/smb4kconfigpagesynchronization.cpp:51
+#, kde-format
+msgid "Behavior"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagemounting.cpp:126 smb4k/smb4kconfigpagemounting.cpp:432
+#, kde-format
+msgid " min"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagemounting.cpp:156 smb4k/smb4kconfigpagemounting.cpp:458
+#: smb4k/smb4kconfigpagenetwork.cpp:126
+#: smb4k/smb4kconfigpagesynchronization.cpp:118
+#: smb4k/smb4kcustomsettingseditorwidget.cpp:100
+#: smb4k/smb4kcustomsettingseditorwidget.cpp:330
+#, fuzzy, kde-format
+#| msgid "&Settings"
+msgid "Basic Settings"
+msgstr "設定(&S)"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagemounting.cpp:167 smb4k/smb4kconfigpagemounting.cpp:469
+#, kde-format
+msgid "Common Options"
+msgstr "共通オプション"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagemounting.cpp:207
+#, kde-format
+msgid "CIFS Unix Extensions Support"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagemounting.cpp:225 smb4k/smb4kconfigpagemounting.cpp:476
+#: smb4k/smb4kcustomsettingseditorwidget.cpp:123
+#: smb4k/smb4kcustomsettingseditorwidget.cpp:337
+#, kde-format
+msgid "User ID:"
+msgstr "ユーザ ID:"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagemounting.cpp:231 smb4k/smb4kconfigpagemounting.cpp:482
+#: smb4k/smb4kcustomsettingseditorwidget.cpp:129
+#: smb4k/smb4kcustomsettingseditorwidget.cpp:343
+#, kde-format
+msgid "Group ID:"
+msgstr "グループ ID:"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagemounting.cpp:276
+#: smb4k/smb4kcustomsettingseditorwidget.cpp:171
+#, fuzzy, kde-format
+#| msgid "Common Options"
+msgid "Common Mount Settings"
+msgstr "共通オプション"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagemounting.cpp:284
+#, kde-format
+msgid "Advanced Options"
+msgstr "高度なオプション"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagemounting.cpp:387
+#: smb4k/smb4kcustomsettingseditorwidget.cpp:206
+#, fuzzy, kde-format
+#| msgid "Advanced Options"
+msgid "Advanced Mount Settings"
+msgstr "高度なオプション"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagemounting.cpp:525
+#, fuzzy, kde-format
+#| msgid "Client character set:"
+msgid "Character Sets"
+msgstr "クライアント キャラクタ セット:"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagemounting.cpp:579
+#: smb4k/smb4kcustomsettingseditorwidget.cpp:380
+#, fuzzy, kde-format
+#| msgid "Common Options"
+msgid "Mount Settings"
+msgstr "共通オプション"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagenetwork.cpp:40
+#: smb4k/smb4kcustomsettingseditorwidget.cpp:255
+#: smb4k/smb4kcustomsettingseditorwidget.cpp:429
+#, fuzzy, kde-format
+#| msgid "&Settings"
+msgid "Browse Settings"
+msgstr "設定(&S)"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagenetwork.cpp:137
+#, fuzzy, kde-format
+#| msgid "Samba"
+msgid "Samba"
+msgstr "Samba"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagenetwork.cpp:178
+#, kde-format
+msgid "Wake-On-LAN"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagenetwork.cpp:198
+#, kde-format
+msgid " s"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagenetwork.cpp:207
+#, kde-format
+msgid ""
+"Define the hosts that should be woken up via the custom settings editor."
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagenetwork.cpp:217
+#, fuzzy, kde-format
+#| msgid "Advanced Options"
+msgid "Advanced Settings"
+msgstr "高度なオプション"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpageprofiles.cpp:44
+#, fuzzy, kde-format
+#| msgid "&Settings"
+msgid "Settings"
+msgstr "設定(&S)"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpageprofiles.cpp:75
+#, fuzzy, kde-format
+#| msgid "A&dd"
+msgid "Add"
+msgstr "追加(&D)"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpageprofiles.cpp:82
+#, kde-format
+msgid "Set Active"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpageprofiles.cpp:86
+#, kde-format
+msgid "Move Up"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpageprofiles.cpp:90
+#, fuzzy, kde-format
+#| msgid "Item"
+msgid "Move Down"
+msgstr "アイテム"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpageprofiles.cpp:94
+#, fuzzy, kde-format
+#| msgid "User Interface"
+msgid "Rename"
+msgstr "ユーザインターフェース"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagesynchronization.cpp:32
+#, fuzzy, kde-format
+#| msgid "Synchronization prefix:"
+msgid "Synchronization Directory"
+msgstr "同期拡張子:"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagesynchronization.cpp:82
+#, fuzzy, kde-format
+#| msgid "Backup"
+msgid "Backups"
+msgstr "バックアップ"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagesynchronization.cpp:127
+#, kde-format
+msgid "General"
+msgstr "一般"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagesynchronization.cpp:163
+#, kde-format
+msgid "Links"
+msgstr "リンク"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagesynchronization.cpp:210
+#, fuzzy, kde-format
+#| msgid "File Deletion"
+msgid "File Handling"
+msgstr "ファイル削除"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagesynchronization.cpp:218
+#, kde-format
+msgid "File Attributes"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagesynchronization.cpp:263
+#, fuzzy, kde-format
+#| msgid "Owner:"
+msgid "Ownership"
+msgstr "オーナ:"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagesynchronization.cpp:279
+#, kde-format
+msgid "File Attributes && Ownership"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagesynchronization.cpp:288
+#, kde-format
+msgid "Compression"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagesynchronization.cpp:327
+#, fuzzy, kde-format
+#| msgid "File"
+msgid "Files"
+msgstr "ファイル"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagesynchronization.cpp:337
+#: smb4k/smb4kconfigpagesynchronization.cpp:348
+#, kde-format
+msgid " kB"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagesynchronization.cpp:373
+#: smb4k/smb4kconfigpagesynchronization.cpp:592
+#: smb4k/smb4kconfigpagesynchronization.cpp:608
+#, fuzzy, kde-format
+#| msgid "General Settings"
+msgid "Miscellaneous"
+msgstr "一般的な設定"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagesynchronization.cpp:383
+#, kde-format
+msgid " kB/s"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagesynchronization.cpp:390
+#, kde-format
+msgid "File Transfer"
+msgstr "ファイル転送"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagesynchronization.cpp:399
+#, fuzzy, kde-format
+#| msgid "Hidden Files && Directories"
+msgid "Files && Directories"
+msgstr "隠しファイルとディレクトリ"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagesynchronization.cpp:445
+#, kde-format
+msgid "Restrictions"
+msgstr "制限事項"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagesynchronization.cpp:461
+#, kde-format
+msgid "File Deletion"
+msgstr "ファイル削除"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagesynchronization.cpp:470
+#, kde-format
+msgid "General Filtering Settings"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagesynchronization.cpp:525
+#, kde-format
+msgid "Filter Rules"
+msgstr "フィルタルール"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagesynchronization.cpp:552
+#, kde-format
+msgid "Filtering"
+msgstr "フィルタリング"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpagesynchronization.cpp:561
+#, kde-format
+msgid "Checksums"
+msgstr "チェックサム"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpageuserinterface.cpp:36
+#, kde-format
+msgid "Main Window"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpageuserinterface.cpp:63 smb4k/smb4kmainwindow.cpp:169
+#, kde-format
+msgid "Network Neighborhood"
+msgstr "ネットワーク近傍"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kconfigpageuserinterface.cpp:106
+#, kde-format
+msgid "Shares View"
+msgstr "共有表示"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kcustomsettingseditor.cpp:29
+#, fuzzy, kde-format
+#| msgid "Common Options"
+msgid "Custom Settings Editor"
+msgstr "共通オプション"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kcustomsettingseditor.cpp:52
+#, fuzzy, kde-format
+#| msgid "Network"
+msgid "No network item was set."
+msgstr "ネットワーク"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kcustomsettingseditor.cpp:115
+#, fuzzy, kde-format
+#| msgid "The share could not be unmounted."
+msgid ""
+"Define custom settings for host <b>%1</b> and all the shares it provides."
+msgstr "共有表示が作成できません"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kcustomsettingseditor.cpp:149
+#, fuzzy, kde-format
+#| msgid "The share could not be unmounted."
+msgid "Define custom settings for share <b>%1</b>."
+msgstr "共有表示が作成できません"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kcustomsettingseditorwidget.cpp:88
+#: smb4k/smb4kcustomsettingseditorwidget.cpp:318
+#, fuzzy, kde-format
+#| msgid "Show the mount point instead of the share name"
+msgid "Always remount this share"
+msgstr "共有名の代わりにマウントポイントを表示"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kcustomsettingseditorwidget.cpp:117
+#, kde-format
+msgid "This server supports the CIFS Unix extensions"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4kcustomsettingseditorwidget.cpp:266
+#: smb4k/smb4kcustomsettingseditorwidget.cpp:440
+#, fuzzy, kde-format
+#| msgid "UNC Address:"
+msgid "MAC Address:"
+msgstr "UNC アドレス:"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kcustomsettingseditorwidget.cpp:273
+#: smb4k/smb4kcustomsettingseditorwidget.cpp:447
+#, fuzzy, kde-format
+#| msgid "IP address:"
+msgid "Find MAC address"
+msgstr "IP アドレス:"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kcustomsettingseditorwidget.cpp:282
+#: smb4k/smb4kcustomsettingseditorwidget.cpp:456
+#, kde-format
+msgid "Send magic packet before scanning the network neighborhood"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4kcustomsettingseditorwidget.cpp:284
+#: smb4k/smb4kcustomsettingseditorwidget.cpp:458
+#, kde-format
+msgid "Send magic packet before mounting a share"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4kcustomsettingseditorwidget.cpp:295
+#: smb4k/smb4kcustomsettingseditorwidget.cpp:469
+#, fuzzy, kde-format
+#| msgid "General Settings"
+msgid "Wake-On-LAN Settings"
+msgstr "一般的な設定"
+
+#. +> trunk6 stable6
+#: smb4k/smb4khomesuserdialog.cpp:31
+#, kde-format
+msgid "Specify User"
+msgstr "指定ユーザ"
+
+#. +> trunk6 stable6
+#: smb4k/smb4khomesuserdialog.cpp:47
+#, kde-format
+msgid "Please specify a username."
+msgstr "ユーザ名を指定します。"
+
+#. +> trunk6 stable6
+#: smb4k/smb4khomesuserdialog.cpp:123
+#, fuzzy, kde-format
+#| msgid "<qt>Please enter a username and a password for the share %1.</qt>"
+msgid "Please specify a username for share<br><b>%1</b>."
+msgstr "<qt>共有 %1 のユーザ名とパスワードを入力してください。</qt>"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kmainwindow.cpp:107
+#, kde-format
+msgid "Dock Widgets"
+msgstr "ドック・ウィジェット"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kmainwindow.cpp:180 smb4k/smb4ksharesmenu.cpp:39
+#, kde-format
+msgid "Mounted Shares"
+msgstr "マウントされた共有"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kmainwindow.cpp:282
+#, fuzzy, kde-format
+#| msgid ""
+#| "<qt>Closing the main window will keep Smb4K running in the system tray. "
+#| "Use 'Quit' from the 'File' menu to quit the application.</qt>"
+msgid ""
+"<qt>Closing the main window will keep Smb4K running in the system tray."
+"<br>Use <i>Quit</i> from the <i>File</i> menu to quit the application.</qt>"
+msgstr ""
+"<qt>メインウィンドウを閉じても Smb4K はシステムトレイで実行し続けます。アプリ"
+"ケーションを終了するには、「ファイル」メニューから「終了」を選んでください。"
+"</qt>"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kmainwindow.cpp:284
+#, kde-format
+msgid "Docking"
+msgstr "ドック"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kmainwindow.cpp:339
+#, kde-format
+msgid "There are currently no shares mounted."
+msgstr "マウントされている共有はありません。"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kmainwindow.cpp:342
+#, kde-format
+msgid "There is currently %1 share mounted."
+msgid_plural "There are currently %1 shares mounted."
+msgstr[0] "%1 の共有がマウントされています。"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kmainwindow.cpp:488
+#, kde-format
+msgid "Looking for workgroups and domains..."
+msgstr "ワークグループとドメインを探しています..."
+
+#. +> trunk6 stable6
+#: smb4k/smb4kmainwindow.cpp:493
+#, kde-format
+msgid "Looking for hosts in domain %1..."
+msgstr "ドメイン %1 中のホストを探しています..."
+
+#. +> trunk6 stable6
+#: smb4k/smb4kmainwindow.cpp:498
+#, kde-format
+msgid "Looking for shares provided by host %1..."
+msgstr "ホスト %1 の共有を探しています..."
+
+#. +> trunk6 stable6
+#: smb4k/smb4kmainwindow.cpp:506 smb4k/smb4kmainwindow.cpp:515
+#, fuzzy, kde-format
+#| msgid "Looking for hosts in domain %1..."
+msgid "Looking for files and directories in %1..."
+msgstr "ドメイン %1 中のホストを探しています..."
+
+#. +> trunk6 stable6
+#: smb4k/smb4kmainwindow.cpp:532
+#, kde-format
+msgid "Waking up remote hosts..."
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4kmainwindow.cpp:537
+#, kde-format
+msgid "Sending file to printer %1..."
+msgstr "ファイルをプリンタ %1 へ転送中..."
+
+#. +> trunk6 stable6
+#: smb4k/smb4kmainwindow.cpp:541
+#, fuzzy, kde-format
+#| msgid "Searching for \"%1\"..."
+msgid "Searching..."
+msgstr "「%1」を検索中..."
+
+#. +> trunk6 stable6
+#: smb4k/smb4kmainwindow.cpp:562 smb4k/smb4kmainwindow.cpp:609
+#: smb4k/smb4kmainwindow.cpp:698
+#, kde-format
+msgid "Done."
+msgstr "完了"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kmainwindow.cpp:580
+#, fuzzy, kde-format
+#| msgid "Mounting"
+msgid "Mounting..."
+msgstr "マウント中"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kmainwindow.cpp:584
+#, fuzzy, kde-format
+#| msgid "Unmounting share %1..."
+msgid "Unmounting..."
+msgstr "共有「%1」をマウント解除中..."
+
+#. +> trunk6 stable6
+#: smb4k/smb4kmainwindow.cpp:588
+#, fuzzy, kde-format
+#| msgid "Looking for hosts in domain %1..."
+msgid "Waking up host..."
+msgstr "ドメイン %1 中のホストを探しています..."
+
+#. +> trunk6 stable6
+#: smb4k/smb4kmainwindow.cpp:622
+#, kde-format
+msgid "%1 has been mounted successfully."
+msgstr "%1 を無事にマウントしました。"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kmainwindow.cpp:645
+#, kde-format
+msgid "%1 has been unmounted successfully."
+msgstr "%1 を無事にマウント解除しました。"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kmainwindow.cpp:684
+#, kde-format
+msgid "Synchronizing %1"
+msgstr "%1 を同期中"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kmountdialog.cpp:34
+#, fuzzy, kde-format
+#| msgid "Mounting"
+msgid "Mount Dialog"
+msgstr "マウント中"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kmountdialog.cpp:51
+#, kde-format
+msgid ""
+"Enter the location and optionally the IP address and workgroup to mount a "
+"share."
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4kmountdialog.cpp:66 smb4k/smb4ktooltip.cpp:196
+#: smb4k/smb4ktooltip.cpp:224
+#, fuzzy, kde-format
+#| msgid "Restrictions"
+msgid "Location:"
+msgstr "制限事項"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kmountdialog.cpp:107
+#, fuzzy, kde-format
+#| msgid "Bookmark Editor"
+msgid "Bookmark this share"
+msgstr "ブックマークエディタ"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kmountdialog.cpp:146
+#, fuzzy, kde-format
+#| msgid "Bookmark"
+msgctxt "Bookmark a share in the mount dialog."
+msgid "Bookmark >>"
+msgstr "ブックマーク"
+
+#. +> trunk6 stable6
+#: smb4k/smb4knetworkbrowser.cpp:43
+#, kde-format
+msgid "Type"
+msgstr "タイプ"
+
+#. +> trunk6 stable6
+#: smb4k/smb4knetworkbrowser.cpp:44
+#, kde-format
+msgid "IP Address"
+msgstr "IP アドレス"
+
+#. +> trunk6 stable6
+#: smb4k/smb4knetworkbrowser.cpp:45
+#, kde-format
+msgid "Comment"
+msgstr "コメント"
+
+#. +> trunk6 stable6
+#: smb4k/smb4knetworkbrowserdockwidget.cpp:101
+#: smb4k/smb4knetworkbrowserdockwidget.cpp:383
+#: smb4k/smb4knetworkbrowserdockwidget.cpp:446
+#, kde-format
+msgid "Scan Netwo&rk"
+msgstr "ネットワークを検索(&R)"
+
+#. +> trunk6 stable6
+#: smb4k/smb4knetworkbrowserdockwidget.cpp:103
+#, kde-format
+msgid "&Abort"
+msgstr "中断(&A)"
+
+#. +> trunk6 stable6
+#: smb4k/smb4knetworkbrowserdockwidget.cpp:115
+#, kde-format
+msgid "&Search"
+msgstr "検索(&S)"
+
+#. +> trunk6 stable6
+#: smb4k/smb4knetworkbrowserdockwidget.cpp:139
+#: smb4k/smb4ksharesviewdockwidget.cpp:205
+#, kde-format
+msgid "Ctrl+B"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4knetworkbrowserdockwidget.cpp:144 smb4k/smb4ksharesmenu.cpp:184
+#: smb4k/smb4ksharesviewdockwidget.cpp:210
+#, fuzzy, kde-format
+#| msgid "&Custom Options"
+msgid "Add &Custom Settings"
+msgstr "カスタムオプション(&C)"
+
+#. +> trunk6 stable6
+#: smb4k/smb4knetworkbrowserdockwidget.cpp:150
+#: smb4k/smb4ksharesviewdockwidget.cpp:215
+#, kde-format
+msgid "Ctrl+C"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4knetworkbrowserdockwidget.cpp:156 smb4k/smb4ksystemtray.cpp:53
+#, kde-format
+msgid "&Open Mount Dialog"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4knetworkbrowserdockwidget.cpp:162
+#, kde-format
+msgid "Ctrl+O"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4knetworkbrowserdockwidget.cpp:175
+#, kde-format
+msgid "Au&thentication"
+msgstr "認証(&T)"
+
+#. +> trunk6 stable6
+#: smb4k/smb4knetworkbrowserdockwidget.cpp:181
+#, kde-format
+msgid "Ctrl+T"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4knetworkbrowserdockwidget.cpp:186
+#, kde-format
+msgid "Pre&view"
+msgstr "プレビュー(&V)"
+
+#. +> trunk6 stable6
+#: smb4k/smb4knetworkbrowserdockwidget.cpp:192
+#, kde-format
+msgid "Ctrl+V"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4knetworkbrowserdockwidget.cpp:197
+#, kde-format
+msgid "&Print File"
+msgstr "ファイルを印刷(&P)"
+
+#. +> trunk6 stable6
+#: smb4k/smb4knetworkbrowserdockwidget.cpp:203
+#, kde-format
+msgid "Ctrl+P"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4knetworkbrowserdockwidget.cpp:209
+#, kde-format
+msgid "&Mount"
+msgstr "マウント(&M)"
+
+#. +> trunk6 stable6
+#: smb4k/smb4knetworkbrowserdockwidget.cpp:210
+#: smb4k/smb4ksharesviewdockwidget.cpp:172
+#, kde-format
+msgid "&Unmount"
+msgstr "アンマウント(&U)"
+
+#. +> trunk6 stable6
+#: smb4k/smb4knetworkbrowserdockwidget.cpp:221
+#: smb4k/smb4knetworkbrowserdockwidget.cpp:949
+#, kde-format
+msgid "Ctrl+M"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4knetworkbrowserdockwidget.cpp:397
+#: smb4k/smb4knetworkbrowserdockwidget.cpp:408
+#, kde-format
+msgid "Scan Compute&r"
+msgstr "コンピュータを検索(&R)"
+
+#. +> trunk6 stable6
+#: smb4k/smb4knetworkbrowserdockwidget.cpp:433
+#, kde-format
+msgid "Scan Wo&rkgroup"
+msgstr "ワークグループを検索(&R)"
+
+#. +> trunk6 stable6
+#: smb4k/smb4knetworkbrowserdockwidget.cpp:951
+#: smb4k/smb4ksharesviewdockwidget.cpp:177
+#, kde-format
+msgid "Ctrl+U"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4knetworksearchtoolbar.cpp:34
+#, kde-format
+msgid "Close"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4knetworksearchtoolbar.cpp:41
+#, fuzzy, kde-format
+#| msgid "Server string:"
+msgid "Search string"
+msgstr "サーバ:"
+
+#. +> trunk6 stable6
+#: smb4k/smb4knetworksearchtoolbar.cpp:52
+#, kde-format
+msgid "Search"
+msgstr "検索"
+
+#. +> trunk6 stable6
+#: smb4k/smb4knetworksearchtoolbar.cpp:54
+#, kde-format
+msgid "Stop"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4knetworksearchtoolbar.cpp:63
+#, fuzzy, kde-format
+#| msgid "Item"
+msgid "Item Down"
+msgstr "アイテム"
+
+#. +> trunk6 stable6
+#: smb4k/smb4knetworksearchtoolbar.cpp:72
+#, fuzzy, kde-format
+#| msgid "Item"
+msgid "Item Up"
+msgstr "アイテム"
+
+#. +> trunk6 stable6
+#: smb4k/smb4knetworksearchtoolbar.cpp:81
+#, fuzzy, kde-format
+#| msgid "&Clear"
+msgid "Clear"
+msgstr "クリアー(&C)"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kpassworddialog.cpp:39
+#, fuzzy, kde-format
+#| msgid "<qt>Please enter a username and a password for the share %1.</qt>"
+msgid "Please enter a username and a password for the host <b>%1</b>."
+msgstr "<qt>共有 %1 のユーザ名とパスワードを入力してください。</qt>"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kpassworddialog.cpp:52
+#, fuzzy, kde-format
+#| msgid "<qt>Please enter a username and a password for the share %1.</qt>"
+msgid "Please enter a username and a password for the share <b>%1</b>."
+msgstr "<qt>共有 %1 のユーザ名とパスワードを入力してください。</qt>"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kpreviewdialog.cpp:30
+#, fuzzy, kde-format
+#| msgid "Preview Dialog"
+msgid "Preview Dialog"
+msgstr "プレビュダイアログ"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kpreviewdialog.cpp:47
+#, kde-format
+msgid "Reload"
+msgstr "再読み込み"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kpreviewdialog.cpp:49
+#, kde-format
+msgid "Abort"
+msgstr "中断"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kpreviewdialog.cpp:57
+#, kde-format
+msgid "Up"
+msgstr "上"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kpreviewdialog.cpp:130
+#, fuzzy, kde-format
+#| msgid "Preview"
+msgid "Preview of %1"
+msgstr "プレビュー"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kprintdialog.cpp:29
+#, fuzzy, kde-format
+#| msgid "Preview Dialog"
+msgid "Print Dialog"
+msgstr "プレビュダイアログ"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kprintdialog.cpp:46
+#, fuzzy, kde-format
+#| msgid "Print File"
+msgid "Print a file."
+msgstr "ファイルを印刷"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kprintdialog.cpp:61
+#, kde-format
+msgid "File:"
+msgstr "ファイル:"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kprintdialog.cpp:69
+#, kde-format
+msgid "Copies:"
+msgstr "部数:"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kprintdialog.cpp:87
+#, fuzzy, kde-format
+#| msgid "Printer"
+msgid "Print"
+msgstr "プリンタ"
+
+#. +> trunk6 stable6
+#: smb4k/smb4kprintdialog.cpp:123
+#, fuzzy, kde-format
+#| msgid "Sending file to printer %1..."
+msgid "Print a file to printer <b>%1</b>."
+msgstr "ファイルをプリンタ %1 へ転送中..."
+
+#. +> trunk6 stable6
+#: smb4k/smb4ksharesmenu.cpp:47 smb4k/smb4ksharesviewdockwidget.cpp:182
+#, kde-format
+msgid "U&nmount All"
+msgstr "すべてアンマウント(&N)"
+
+#. +> trunk6 stable6
+#: smb4k/smb4ksharesmenu.cpp:152
+#, fuzzy, kde-format
+#| msgid "&Unmount"
+msgid "Unmount"
+msgstr "アンマウント(&U)"
+
+#. +> trunk6 stable6
+#: smb4k/smb4ksharesmenu.cpp:171
+#, fuzzy, kde-format
+#| msgid "Add Bookmarks"
+msgid "Add Bookmark"
+msgstr "ブックマークを追加(&B)"
+
+#. +> trunk6 stable6
+#: smb4k/smb4ksharesmenu.cpp:197 smb4k/smb4ksynchronizationdialog.cpp:92
+#, kde-format
+msgid "Synchronize"
+msgstr "同期"
+
+#. +> trunk6 stable6
+#: smb4k/smb4ksharesmenu.cpp:216
+#, fuzzy, kde-format
+#| msgid "Open with Konso&le"
+msgid "Open with Konsole"
+msgstr "Konsole で開く(&L)"
+
+#. +> trunk6 stable6
+#: smb4k/smb4ksharesmenu.cpp:230
+#, fuzzy, kde-format
+#| msgid "Open with F&ile Manager"
+msgid "Open with File Manager"
+msgstr "ファイルマネジャで開く(&I)"
+
+#. +> trunk6 stable6
+#: smb4k/smb4ksharesviewdockwidget.cpp:127
+#, kde-format
+msgid "View Modes"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4ksharesviewdockwidget.cpp:133
+#, kde-format
+msgid "Icon View"
+msgstr "アイコン表示"
+
+#. +> trunk6 stable6
+#: smb4k/smb4ksharesviewdockwidget.cpp:139
+#, kde-format
+msgid "List View"
+msgstr "リスト表示"
+
+#. +> trunk6 stable6
+#: smb4k/smb4ksharesviewdockwidget.cpp:187
+#, kde-format
+msgid "Ctrl+N"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4ksharesviewdockwidget.cpp:220
+#, kde-format
+msgid "S&ynchronize"
+msgstr "同期化(&Y)"
+
+#. +> trunk6 stable6
+#: smb4k/smb4ksharesviewdockwidget.cpp:225
+#, kde-format
+msgid "Ctrl+Y"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4ksharesviewdockwidget.cpp:238
+#, kde-format
+msgid "Open with Konso&le"
+msgstr "Konsole で開く(&L)"
+
+#. +> trunk6 stable6
+#: smb4k/smb4ksharesviewdockwidget.cpp:243
+#, kde-format
+msgid "Ctrl+L"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4ksharesviewdockwidget.cpp:245
+#, kde-format
+msgid "Open with F&ile Manager"
+msgstr "ファイルマネジャで開く(&I)"
+
+#. +> trunk6 stable6
+#: smb4k/smb4ksharesviewdockwidget.cpp:250
+#, kde-format
+msgid "Ctrl+I"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4ksharesviewdockwidget.cpp:364
+#, kde-format
+msgid ""
+"<qt>There is no active connection to the share <b>%1</b>! You cannot drop "
+"any files here.</qt>"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4ksynchronizationdialog.cpp:62
+#, kde-format
+msgid "Source:"
+msgstr "元:"
+
+#. +> trunk6 stable6
+#: smb4k/smb4ksynchronizationdialog.cpp:72
+#, kde-format
+msgid "Destination:"
+msgstr "行き先:"
+
+#. +> trunk6 stable6
+#: smb4k/smb4ksynchronizationdialog.cpp:90
+#, kde-format
+msgid "Swap Paths"
+msgstr "スワップパス"
+
+#. +> trunk6 stable6
+#: smb4k/smb4ksynchronizationdialog.cpp:130
+#, kde-format
+msgid ""
+"Please provide the source and destination directory for the synchronization "
+"of <b>%1</b>."
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4ktooltip.cpp:128
+#, kde-format
+msgid "Type:"
+msgstr "タイプ:"
+
+#. +> trunk6 stable6
+#: smb4k/smb4ktooltip.cpp:137
+#, kde-format
+msgid "DNS-SD Browsing Domain"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4ktooltip.cpp:139
+#, kde-format
+msgid "Workgroup"
+msgstr "ワークグループ"
+
+#. +> trunk6 stable6
+#: smb4k/smb4ktooltip.cpp:144
+#, fuzzy, kde-format
+#| msgid "Master browser:"
+msgid "Master Browser:"
+msgstr "マスターブラウザー:"
+
+#. +> trunk6 stable6
+#: smb4k/smb4ktooltip.cpp:158
+#, fuzzy, kde-format
+#| msgid "Host:"
+msgid "Host"
+msgstr "ホスト:"
+
+#. +> trunk6 stable6
+#: smb4k/smb4ktooltip.cpp:161 smb4k/smb4ktooltip.cpp:177
+#, kde-format
+msgid "Comment:"
+msgstr "コメント:"
+
+#. +> trunk6 stable6
+#: smb4k/smb4ktooltip.cpp:174
+#, fuzzy, kde-format
+#| msgid "Share"
+msgid "Share (%1)"
+msgstr "共有:"
+
+#. +> trunk6 stable6
+#: smb4k/smb4ktooltip.cpp:181
+#, fuzzy, kde-format
+#| msgid "Mounted:"
+msgid "Mounted:"
+msgstr "マウント:"
+
+#. +> trunk6 stable6
+#: smb4k/smb4ktooltip.cpp:184
+#, kde-format
+msgid "yes"
+msgstr "はい"
+
+#. +> trunk6 stable6
+#: smb4k/smb4ktooltip.cpp:184
+#, kde-format
+msgid "no"
+msgstr "いいえ"
+
+#. +> trunk6 stable6
+#: smb4k/smb4ktooltip.cpp:190
+#, fuzzy, kde-format
+#| msgid "Host:"
+msgid "Host:"
+msgstr "ホスト:"
+
+#. +> trunk6 stable6
+#: smb4k/smb4ktooltip.cpp:227
+#, fuzzy, kde-format
+#| msgid "Mount point:"
+msgid "Mountpoint:"
+msgstr "マウントポイント:"
+
+#. +> trunk6 stable6
+#: smb4k/smb4ktooltip.cpp:229 smb4k/smb4ktooltip.cpp:232
+#: smb4k/smb4ktooltip.cpp:233 smb4k/smb4ktooltip.cpp:246
+#, kde-format
+msgid "unknown"
+msgstr "未知"
+
+#. +> trunk6 stable6
+#: smb4k/smb4ktooltip.cpp:236
+#, kde-format
+msgid "Owner:"
+msgstr "オーナ:"
+
+#. +> trunk6 stable6
+#: smb4k/smb4ktooltip.cpp:239
+#, fuzzy, kde-format
+#| msgid "File system:"
+msgid "File system:"
+msgstr "ファイルシステム:"
+
+#. +> trunk6 stable6
+#: smb4k/smb4ktooltip.cpp:244
+#, kde-format
+msgid "%1 free of %2 (%3 used)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: smb4k/smb4ktooltip.cpp:250
+#, kde-format
+msgid "Size:"
+msgstr ""
+
+#, kde-format
+#~ msgid "Directories"
+#~ msgstr "ディレクトリ"
+
+#, kde-format
+#~ msgid "Choose a different user"
+#~ msgstr "別のユーザを選択"
+
+#, kde-format
+#~ msgid "Choose a different group"
+#~ msgstr "別のグループを選択"
+
+#, fuzzy, kde-format
+#~| msgid "Additional options:"
+#~ msgid "Edit the additional CIFS options."
+#~ msgstr "追加オプション:"
+
+#, fuzzy, kde-format
+#~| msgid "Additional options:"
+#~ msgid "Additional CIFS Options"
+#~ msgstr "追加オプション:"
+
+#, fuzzy, kde-format
+#~| msgid "unknown"
+#~ msgid "Unknown"
+#~ msgstr "未知"
+
+#, fuzzy, kde-format
+#~| msgid "Default Login"
+#~ msgid "Default Profile"
+#~ msgstr "デフォルト・ログイン"
+
+#, kde-format
+#~ msgid "Wallet Entries"
+#~ msgstr "ウォレットエントリ"
+
+#, kde-format
+#~ msgid "Load"
+#~ msgstr "読み込み"
+
+#, kde-format
+#~ msgid "Save"
+#~ msgstr "保存"
+
+#, kde-format
+#~ msgid "Enter the default login information."
+#~ msgstr "デフォルトログイン情報を入力します。"
+
+#, fuzzy, kde-format
+#~| msgid "<qt>Please enter a username and a password for the host %1.</qt>"
+#~ msgid "Set the username and password for wallet entry %1."
+#~ msgstr "<qt>ホスト %1 のユーザ名とパスワードを入力してください。</qt>"
+
+#, fuzzy, kde-format
+#~| msgid "<qt>Please enter a username and a password for the host %1.</qt>"
+#~ msgid "Set the username and password for the default login."
+#~ msgstr "<qt>ホスト %1 のユーザ名とパスワードを入力してください。</qt>"
+
+#, fuzzy, kde-format
+#~| msgid "The wallet is in use."
+#~ msgid "The wallet is used."
+#~ msgstr "ウォレットを使用中です。"
+
+#, fuzzy, kde-format
+#~| msgid "The password is not correct. "
+#~ msgid "The password dialog is used."
+#~ msgstr "パスワードは、正確ではありません "
+
+#, fuzzy, kde-format
+#~| msgid "\\u00A9 2007-2009, Alexander Reinholdt"
+#~ msgid "© 2003-2023 Alexander Reinholdt"
+#~ msgstr "\\u00A9 2007-2009, Alexander Reinholdt"
+
+#, fuzzy, kde-format
+#~| msgid "Common Options"
+#~ msgid "Mounting: Common Settings"
+#~ msgstr "共通オプション"
+
+#, fuzzy, kde-format
+#~| msgid "Advanced Options"
+#~ msgid "Mounting: Advanced Settings"
+#~ msgstr "高度なオプション"
+
+#, fuzzy, kde-format
+#~| msgid "&Settings"
+#~ msgid "Browsing"
+#~ msgstr "設定(&S)"
+
+#, fuzzy, kde-format
+#~| msgid "Mounting"
+#~ msgid "Page 1: Mounting"
+#~ msgstr "マウント中"
+
+#, fuzzy, kde-format
+#~| msgid "Mounting"
+#~ msgid "Page 2: Mounting"
+#~ msgstr "マウント中"
+
+#, fuzzy, kde-format
+#~| msgid "Mounting"
+#~ msgid "Page 3: Mounting"
+#~ msgstr "マウント中"
+
+#, fuzzy, kde-format
+#~| msgid "General Settings"
+#~ msgid "Page 5: Wake-On-LAN"
+#~ msgstr "一般的な設定"
+
+#, fuzzy, kde-format
+#~| msgid "Mounting"
+#~ msgid "Page 2: Browsing"
+#~ msgstr "マウント中"
+
+#, fuzzy, kde-format
+#~| msgid "General Settings"
+#~ msgid "Page 3: Wake-On-LAN"
+#~ msgstr "一般的な設定"
+
+#, fuzzy, kde-format
+#~| msgid "\\u00A9 2007-2009, Alexander Reinholdt"
+#~ msgid "© 2003-2022 Alexander Reinholdt"
+#~ msgstr "\\u00A9 2007-2009, Alexander Reinholdt"
+
+#, fuzzy, kde-format
+#~| msgid "Add Bookmarks"
+#~ msgid "Mount All Bookmarks"
+#~ msgstr "ブックマークを追加(&B)"
+
+#, kde-format
+#~ msgid "Custom Options"
+#~ msgstr "カスタムオプション"
+
+#, fuzzy, kde-format
+#~| msgid "Show details"
+#~ msgid "Details"
+#~ msgstr "詳細を表示"
+
+#, kde-format
+#~ msgid "Entry"
+#~ msgstr "エントリ"
+
+#, kde-format
+#~ msgid "All modifications you applied are saved to the wallet."
+#~ msgstr "すべての適用した変更はウォレットに保存しました。"
+
+#, kde-format
+#~ msgid "Login"
+#~ msgstr "ログイン"
+
+#, fuzzy, kde-format
+#~| msgid "Restrictions"
+#~ msgid "Identification"
+#~ msgstr "制限事項"
+
+#, fuzzy, kde-format
+#~| msgid "UNC Address:"
+#~ msgid "MAC Address"
+#~ msgstr "UNC アドレス:"
+
+#, fuzzy, kde-format
+#~| msgid "Options"
+#~ msgid "Actions"
+#~ msgstr "オプション"
+
+#, fuzzy, kde-format
+#~| msgid "Security mode:"
+#~ msgid "Security"
+#~ msgstr "セキュリティモード"
+
+#, fuzzy, kde-format
+#~| msgid "&Settings"
+#~ msgid "Samba Settings"
+#~ msgstr "設定(&S)"
+
+#, kde-format
+#~ msgid "Default Destination"
+#~ msgstr "デフォルト・先"
+
+#, kde-format
+#~ msgid "Backup"
+#~ msgstr "バックアップ"
+
+#, fuzzy, kde-format
+#~| msgid "File Permissions, etc."
+#~ msgid "Permissions, etc."
+#~ msgstr "権限"
+
+#, kde-format
+#~ msgid "Special filter rules:"
+#~ msgstr "特別なフィルタルール"
+
+#, kde-format
+#~ msgid "&Custom Options"
+#~ msgstr "カスタムオプション(&C)"
+
+#, kde-format
+#~ msgid "Login:"
+#~ msgstr "ログイン:"
+
+#, fuzzy, kde-format
+#~| msgid "General"
+#~ msgid "General:"
+#~ msgstr "一般"
+
+#, fuzzy, kde-format
+#~| msgid "Links"
+#~ msgid "Links:"
+#~ msgstr "リンク"
+
+#, fuzzy, kde-format
+#~| msgid "File"
+#~ msgid "Files:"
+#~ msgstr "ファイル"
+
+#, fuzzy, kde-format
+#~| msgid "General Settings"
+#~ msgid "Miscellaneous:"
+#~ msgstr "一般的な設定"
+
+#, fuzzy, kde-format
+#~| msgid "Hidden Files && Directories"
+#~ msgid "Files && Directories:"
+#~ msgstr "隠しファイルとディレクトリ"
+
+#, fuzzy, kde-format
+#~| msgid "Restrictions"
+#~ msgid "Restrictions:"
+#~ msgstr "制限事項"
+
+#, fuzzy, kde-format
+#~| msgid "Checksums"
+#~ msgid "Checksums:"
+#~ msgstr "チェックサム"
+
+#, fuzzy, kde-format
+#~| msgid "Wallet Entries"
+#~ msgid "Wallet Entries:"
+#~ msgstr "ウォレットエントリ"
+
+#, fuzzy, kde-format
+#~| msgid "&Settings"
+#~ msgid "Browse Settings:"
+#~ msgstr "設定(&S)"
+
+#, fuzzy, kde-format
+#~| msgid "Common Options"
+#~ msgid "Common Settings:"
+#~ msgstr "共通オプション"
+
+#, fuzzy, kde-format
+#~| msgid "Authentication"
+#~ msgid "Authentication:"
+#~ msgstr "認証"
+
+#, fuzzy, kde-format
+#~| msgid "Security mode:"
+#~ msgid "Security:"
+#~ msgstr "セキュリティモード"
+
+#, fuzzy, kde-format
+#~| msgid "<qt>The process crashed (error code: %1).</qt>"
+#~ msgid "The mount process crashed."
+#~ msgstr "<qt>プロセスがクラッシュしました。(エラーコード: %1)</qt>"
+
+#, fuzzy
+#~| msgid "\\u00A9 2007-2009, Alexander Reinholdt"
+#~ msgid "© 2003-2019 Alexander Reinholdt"
+#~ msgstr "\\u00A9 2007-2009, Alexander Reinholdt"
+
+#, fuzzy
+#~| msgid ""
+#~| "<qt>Closing the main window will keep Smb4K running in the system tray. "
+#~| "Use 'Quit' from the 'File' menu to quit the application.</qt>"
+#~ msgid ""
+#~ "<qt>Closing the main window will keep Smb4K running in the system tray. "
+#~ "Use <i>Quit</i> from the <i>File</i> menu to quit the application.</qt>"
+#~ msgstr ""
+#~ "<qt>メインウィンドウを閉じても Smb4K はシステムトレイで実行し続けます。ア"
+#~ "プリケーションを終了するには、「ファイル」メニューから「終了」を選んでくだ"
+#~ "さい。</qt>"
+
+#, fuzzy
+#~| msgid "Master browser:"
+#~ msgid "Master browser"
+#~ msgstr "マスターブラウザー:"
+
+#, fuzzy
+#~| msgid "Mounted:"
+#~ msgid "Mounted"
+#~ msgstr "マウント:"
+
+#, fuzzy
+#~| msgid "Mount point:"
+#~ msgid "Mountpoint"
+#~ msgstr "マウントポイント:"
+
+#, fuzzy
+#~| msgid "Restrictions"
+#~ msgid "Location"
+#~ msgstr "制限事項"
+
+#~ msgid "Owner"
+#~ msgstr "オーナ"
+
+#, fuzzy
+#~| msgid "File system:"
+#~ msgid "File system"
+#~ msgstr "ファイルシステム:"
+
+#, fuzzy
+#~| msgid "Protocol:"
+#~ msgid "Protocols"
+#~ msgstr "プロトコル:"
+
+#, fuzzy
+#~| msgid "\\u00A9 2007-2009, Alexander Reinholdt"
+#~ msgid "© 2003-2018 Alexander Reinholdt"
+#~ msgstr "\\u00A9 2007-2009, Alexander Reinholdt"
+
+#~ msgid "Network Toolbar"
+#~ msgstr "ネットワークツールバー"
+
+#~ msgid "Search Toolbar"
+#~ msgstr "検索ツールバー"
+
+#~ msgid "Shares Toolbar"
+#~ msgstr "共有ツールバー"
+
+#, fuzzy
+#~| msgid "Main Toolbar"
+#~ msgid "Alternative Main Toolbar"
+#~ msgstr "メインツールバー"
+
+#~ msgid "Shares"
+#~ msgstr "共有"
+
+#~ msgid "Load the entries stored in the wallet."
+#~ msgstr "ウォレット.に保存されたエントリを読み込みます。"
+
+#~ msgid "Save the entries to the wallet."
+#~ msgstr "ウォレット.にエントリを保存します。"
+
+#~ msgid "Show the details of the selected entry."
+#~ msgstr "選択されたエントリの詳細を表示。"
+
+#~ msgid "Undo"
+#~ msgstr "元に戻す"
+
+#~ msgid "Show details"
+#~ msgstr "詳細を表示"
+
+#~ msgid "Password Storage"
+#~ msgstr "パスワード 保管"
+
+#, fuzzy
+#~| msgid "File system port:"
+#~ msgid "Filesystem Port:"
+#~ msgstr "ファイルシステムポート:"
+
+#, fuzzy
+#~| msgid "Write Access"
+#~ msgid "Write Access:"
+#~ msgstr "書き込みアクセス"
+
+#, fuzzy
+#~| msgid "Security mode:"
+#~ msgid "Security Mode:"
+#~ msgstr "セキュリティモード"
+
+#~ msgid "UNC Address:"
+#~ msgstr "UNC アドレス:"
+
+#~ msgid "Browse List"
+#~ msgstr "閲覧リスト"
+
+#~ msgid "File Permissions, etc."
+#~ msgstr "権限"
+
+#~ msgid "Copying"
+#~ msgstr "複写"
+
+#~ msgid "File Deletion && Transfer"
+#~ msgstr "ファイル削除 && 転送"
+
+#~ msgid "Columns"
+#~ msgstr "カラム"
+
+#~ msgid "Tooltips"
+#~ msgstr "ツールチップ"
+
+#, fuzzy
+#~| msgid "View"
+#~ msgid "View Mode"
+#~ msgstr "表示"
+
+#, fuzzy
+#~| msgid "General Settings"
+#~ msgid "Miscellaneous Settings"
+#~ msgstr "一般的な設定"
+
+#~ msgid "The network browser could not be created."
+#~ msgstr "ネットワークブラウザは、作成できません"
+
+#~ msgid "Network Search"
+#~ msgstr "ネットワーク検索"
+
+#~ msgid "The search dialog could not be created."
+#~ msgstr "検索ダイアログは、作成できません"
+
+#~ msgid "The shares view could not be created."
+#~ msgstr "共有表示が作成できません"
+
+#~ msgid "Searching for \"%1\"..."
+#~ msgstr "「%1」を検索中..."
+
+#~ msgid "Retrieving preview from %1..."
+#~ msgstr "%1 からプレビューを取得中..."
+
+#~ msgid "&Clear"
+#~ msgstr "クリアー(&C)"
+
+#~ msgid "Search Results"
+#~ msgstr "検索結果"
+
+#, fuzzy
+#~| msgid "Smb4KNetworkBrowserPart"
+#~ msgid "Smb4KNetworkSearchPart"
+#~ msgstr "Smb4KNetworkBrowserPart"
+
+#, fuzzy
+#~| msgid "The network browser KPart of Smb4K"
+#~ msgid "The network search KPart of Smb4K"
+#~ msgstr "Smb4K のネットワークブラウザ KPart"
+
+#~ msgid "Smb4KNetworkBrowserPart"
+#~ msgstr "Smb4KNetworkBrowserPart"
+
+#, fuzzy
+#~| msgid "The network browser KPart of Smb4K"
+#~ msgid "The network neighborhood browser KPart of Smb4K"
+#~ msgstr "Smb4K のネットワークブラウザ KPart"
+
+#, fuzzy
+#~| msgid "\\u00A9 2007-2009, Alexander Reinholdt"
+#~ msgid "© 2007-2015, Alexander Reinholdt"
+#~ msgstr "\\u00A9 2007-2009, Alexander Reinholdt"
+
+#, fuzzy
+#~| msgid "Open with Konso&le"
+#~ msgid "Open With"
+#~ msgstr "Konsole で開く(&L)"
+
+#~ msgid "Smb4KSharesViewPart"
+#~ msgstr "Smb4KSharesViewPart"
+
+#~ msgid "The shares view KPart of Smb4K"
+#~ msgstr "Smb4K の共有表示 KPart"
+
+#~ msgid "General Options"
+#~ msgstr "一般的なオプション"
+
+#~ msgid "smbclient"
+#~ msgstr "smbclient"
+
+#~ msgid " Bytes"
+#~ msgstr " バイト"
+
+#~ msgid "nmblookup"
+#~ msgstr "nmblookup"
+
+#~ msgid "smbtree"
+#~ msgstr "smbtree"
+
+#, fuzzy
+#~| msgid "Client Programs"
+#~ msgid "Utility Programs"
+#~ msgstr "クライアントプログラム"
+
+#~ msgid "Search item:"
+#~ msgstr "検索アイテム:"
+
+#~ msgid "Enter the search string here."
+#~ msgstr "検索文字列をここで入力します"
+
+#~ msgid "The search returned no results."
+#~ msgstr "検索によって、結果はありませんでした"
+
+#~ msgid "&Shares"
+#~ msgstr "共有(&S)"
+
+#, fuzzy
+#~| msgid "Mounting"
+#~ msgid "Remounting"
+#~ msgstr "マウント中"
+
+#, fuzzy
+#~| msgid "&Edit Bookmarks"
+#~ msgid "Edit Bookmarks"
+#~ msgstr "ブックマークを編集(&E)"
+
+#, fuzzy
+#~| msgid "Group ID:"
+#~ msgid "Add Group"
+#~ msgstr "グループ ID:"
+
+#, fuzzy
+#~| msgid "Group ID:"
+#~ msgid "Group:"
+#~ msgstr "グループ ID:"
+
+#, fuzzy
+#~| msgid "Group ID:"
+#~ msgid "Group name:"
+#~ msgstr "グループ ID:"
+
+#, fuzzy
+#~| msgid "\\u00A9 2007-2009, Alexander Reinholdt"
+#~ msgid "© 2003-2017 Alexander Reinholdt"
+#~ msgstr "\\u00A9 2007-2009, Alexander Reinholdt"
+
+#, fuzzy
+#~| msgid "The advanced network neighborhood browser for KDE."
+#~ msgid "Advanced Network Neighborhood Browser"
+#~ msgstr "KDE の高度なネットワーク近傍ブラウザ"
+
+#, fuzzy
+#~| msgid "Show the mount point instead of the share name"
+#~ msgid "The mountpoint is invalid."
+#~ msgstr "共有名の代わりにマウントポイントを表示"
+
+#, fuzzy
+#~| msgid "The advanced network neighborhood browser for KDE."
+#~ msgid ""
+#~ "The advanced network neighborhood browser and Samba share mounting "
+#~ "utility for KDE."
+#~ msgstr "KDE の高度なネットワーク近傍ブラウザ"
+
+#, fuzzy
+#~| msgid "\\u00A9 2007-2009, Alexander Reinholdt"
+#~ msgid "© 2003-2015 Alexander Reinholdt"
+#~ msgstr "\\u00A9 2007-2009, Alexander Reinholdt"
+
+#, fuzzy
+#~| msgid "Protocol hint:"
+#~ msgid "Protocol Hint:"
+#~ msgstr "プロトコル ヒント:"
+
+#~ msgid "net"
+#~ msgstr "net"
+
+#~ msgid "View"
+#~ msgstr "表示"
+
+#~ msgid "Settings for the list view:"
+#~ msgstr "リスト表示のための設定:"
+
+#, fuzzy
+#~| msgid ""
+#~| "<qt>Closing the main window will keep Smb4K running in the system tray. "
+#~| "Use 'Quit' from the 'File' menu to quit the application.</qt>"
+#~ msgid ""
+#~ "<p>Closing the main window will keep Smb4K running in the system tray. "
+#~ "Use 'Quit' from the 'File' menu to quit the application.</p>"
+#~ msgstr ""
+#~ "<qt>メインウィンドウを閉じても Smb4K はシステムトレイで実行し続けます。ア"
+#~ "プリケーションを終了するには、「ファイル」メニューから「終了」を選んでくだ"
+#~ "さい。</qt>"
+
+#~ msgid "The wallet is in use."
+#~ msgstr "ウォレットを使用中です。"
+
+#, fuzzy
+#~| msgid "The password is not correct. "
+#~ msgid "The password dialog mode is used."
+#~ msgstr "パスワードは、正確ではありません "
+
+#~ msgid "Mounting %1 failed."
+#~ msgstr "%1 のマウントに失敗しました。"
+
+#~ msgid "Unmounting %1 failed."
+#~ msgstr "%1 のマウント解除に失敗しました。"
+
+#, fuzzy
+#~| msgid "Looking for hosts in domain %1..."
+#~ msgid "Waking up host %1..."
+#~ msgstr "ドメイン %1 中のホストを探しています..."
+
+#~ msgid "The network browser KPart of Smb4K"
+#~ msgstr "Smb4K のネットワークブラウザ KPart"
+
+#, fuzzy
+#~| msgid "\\u00A9 2007-2009, Alexander Reinholdt"
+#~ msgid "© 2007-2014, Alexander Reinholdt"
+#~ msgstr "\\u00A9 2007-2009, Alexander Reinholdt"
+
+#~ msgid "Looking for more information about host %1..."
+#~ msgstr "ホスト %1 の情報を探しています..."
+
+#~ msgid "Mounting share %1..."
+#~ msgstr "共有「%1」をマウント中..."
+
+#~ msgid "Unmounting share %1..."
+#~ msgstr "共有「%1」をマウント解除中..."
+
+#~ msgid "Free"
+#~ msgstr "未使用"
+
+#~ msgid "Used"
+#~ msgstr "使用"
+
+#~ msgid "Usage"
+#~ msgstr "使用法"
+
+#~ msgid "Total"
+#~ msgstr "合計"
+
+#, fuzzy
+#~| msgid "Super User"
+#~ msgid "Server"
+#~ msgstr "スーパー ユーザ"
+
+#, fuzzy
+#~| msgid "Operating system:"
+#~ msgid "Operating system"
+#~ msgstr "オペレーティングシステム:"
+
+#~ msgid "File System"
+#~ msgstr "ファイルシステム"
+
+#~ msgid "Checks"
+#~ msgstr "チェック"
+
+#, fuzzy
+#~| msgid "Mounting share %1..."
+#~ msgid "Mounting share..."
+#~ msgstr "共有「%1」をマウント中..."
+
+#, fuzzy
+#~| msgid "\\u00A9 2007-2009, Alexander Reinholdt"
+#~ msgid "\\u00A9 2003-2014 Alexander Reinholdt"
+#~ msgstr "\\u00A9 2007-2009, Alexander Reinholdt"
+
+#~ msgid "Remote Ports"
+#~ msgstr "リモートポート"
+
+#~ msgid "Laptop Support"
+#~ msgstr "ラップトップサポート"
+
+#~ msgid ""
+#~ "The custom master browser that is to be queried has not been filled in.\n"
+#~ "Please enter it now."
+#~ msgstr ""
+#~ "問い合わせられるカスタムマスターブラウザが埋められていません。\n"
+#~ "入力してください。"
+
+#~ msgid ""
+#~ "The broadcast areas that are to be scanned have not been filled in.\n"
+#~ "Please enter them now."
+#~ msgstr ""
+#~ "スキャンされるブロードキャストエリアが埋められていません。\n"
+#~ "入力してください。"
+
+#~ msgid ""
+#~ "The mount prefix has not been filled in.\n"
+#~ "Please enter it now."
+#~ msgstr ""
+#~ "マウントプリフィックスが埋められていません。\n"
+#~ "入力してください。"
+
+#~ msgid ""
+#~ "The file mask has not been filled in.\n"
+#~ "Please enter it now."
+#~ msgstr ""
+#~ "ファイルマスクが埋められていません。\n"
+#~ "入力してください。"
+
+#~ msgid ""
+#~ "The directory mask has not been filled in.\n"
+#~ "Please enter it now."
+#~ msgstr ""
+#~ "ディレクトリマスクが埋められていません。\n"
+#~ "入力してください。"
+
+#~ msgid ""
+#~ "The synchronization prefix has not been filled in.\n"
+#~ "Please enter it now."
+#~ msgstr ""
+#~ "同期プリフィックスが埋められていません。\n"
+#~ "入力してください。"
+
+#~ msgid ""
+#~ "The directory where partially transferred files should\n"
+#~ "be stored has not been filled in.\n"
+#~ "Please enter it now."
+#~ msgstr ""
+#~ "部分的に転送されるファイルが保存されるディレクトリが埋められていません。\n"
+#~ "入力してください。"
+
+#~ msgid ""
+#~ "The exclude pattern for synchronization has not been filled in.\n"
+#~ "Please enter it now."
+#~ msgstr ""
+#~ "同期の実行パターンが埋められていません。\n"
+#~ "入力してください。"
+
+#~ msgid ""
+#~ "The file from which the exclude pattern for synchronization are to be "
+#~ "read\n"
+#~ "has not been filled in.\n"
+#~ "Please enter it now."
+#~ msgstr ""
+#~ "同期の除外パターンが読み込まれるはずのファイルが埋められていません。\n"
+#~ "入力してください。"
+
+#~ msgid ""
+#~ "The include pattern for synchronization has not been filled in.\n"
+#~ "Please enter it now."
+#~ msgstr ""
+#~ "同期の埋め込みパターンが埋められていません。\n"
+#~ "入力してください。"
+
+#~ msgid ""
+#~ "The backup suffix for synchronization has not been filled in.\n"
+#~ "Please enter it now."
+#~ msgstr ""
+#~ "同期のバックアップサフィックスが埋められていません。\n"
+#~ "入力してください。"
+
+#~ msgid ""
+#~ "The backup directory for synchronization has not been filled in.\n"
+#~ "Please enter it now."
+#~ msgstr ""
+#~ "同期のバックアップディレクトリが埋められていません。\n"
+#~ "入力してください。"
+
+#, fuzzy
+#~| msgid "Show the mount point instead of the share name"
+#~ msgid "Remount this share"
+#~ msgstr "共有名の代わりにマウントポイントを表示"
+
+#~ msgid "Mounting && Unmounting"
+#~ msgstr "マウント && アンマウント"
+
+#~ msgid "Remote Shares"
+#~ msgstr "リモート共有"
+
+#~ msgid "The advanced network neighborhood browser for KDE."
+#~ msgstr "KDE の高度なネットワーク近傍ブラウザ"
+
+#, fuzzy
+#~| msgid "The password is not correct. "
+#~ msgid "The password dialog mode is used and logins are remembered."
+#~ msgstr "パスワードは、正確ではありません "
+
+#, fuzzy
+#~| msgid "The password is not correct. "
+#~ msgid "The password dialog mode is used and logins are not remembered."
+#~ msgstr "パスワードは、正確ではありません "
+
+#~ msgid "Show custom bookmark label if available"
+#~ msgstr "利用可能な場合カスタムブックマークラベルを表示します"
+
+#~ msgid ""
+#~ "Do not show the name of the share that is represented by the bookmark but "
+#~ "the custom label that was defined in the bookmark editor."
+#~ msgstr ""
+#~ "ブックマークエディタで定義されたカスタム・ラベル、ブックマークによって表さ"
+#~ "れる共有名を表示しません"
+
+#~ msgid "Start docked"
+#~ msgstr "ドックで開始"
+
+#~ msgid ""
+#~ "Start the application docked to the system tray, i.e. only the system "
+#~ "tray widget is shown and the main window is hidden. You can bring the "
+#~ "main window up by clicking on the system tray widget or by choosing "
+#~ "\"Restore\" from its popup menu."
+#~ msgstr ""
+#~ "システムトレイでアプリケーションを起動します。すなわち、システムトレイウィ"
+#~ "ジェットのみが表示され、メインウィンドウは表示しません。メインウィンドウを"
+#~ "表示するには、システムトレイウィジェットをクリックするか、ポップアップメ"
+#~ "ニュから「戻す」を選択してください。"
+
+#, fuzzy
+#~| msgid "Authentication"
+#~ msgid "Show notifications"
+#~ msgstr "認証"
+
+#~ msgid "Show mounted shares in an icon view"
+#~ msgstr "マウントされた共有をアイコンで表示"
+
+#~ msgid "The mounted shares will be displayed in an icon view."
+#~ msgstr "マウントされた共有をアイコン表示"
+
+#~ msgid "Show mounted shares in a list view"
+#~ msgstr "マウントされた共有をリストで表示"
+
+#~ msgid "The mounted shares will be displayed in a list view."
+#~ msgstr "マウントされた共有をリスト表示"
+
+#~ msgid "Show printer shares"
+#~ msgstr "プリンタ共有を表示"
+
+#~ msgid "Printer shares will be displayed in the network browser."
+#~ msgstr "プリンタ共有をネットワークブラウザで表示します"
+
+#~ msgid "Show hidden shares"
+#~ msgstr "隠された共有を表示"
+
+#~ msgid ""
+#~ "Hidden shares will be displayed in the network browser. Hidden shares are "
+#~ "ending with a $ sign, e.g. Musik$ or IPC$."
+#~ msgstr ""
+#~ "隠れた共有を、ネットワークブラウザに表示します。隠れた共有名は「$」で終"
+#~ "わっています、例えば Musik$ とか IPC$。"
+
+#~ msgid "Show hidden IPC$ shares"
+#~ msgstr "隠された IPC$ 共有を表示"
+
+#~ msgid "Hidden IPC$ shares will be displayed in the network browser."
+#~ msgstr "隠された IPC$ 共有をネットワークブラウザで表示します"
+
+#~ msgid "Show hidden ADMIN$ shares"
+#~ msgstr "隠された ADMIN$ 共有を表示"
+
+#~ msgid "Hidden ADMIN$ shares will be displayed in the network browser."
+#~ msgstr "隠された ADMIN$ 共有をネットワークブラウザに表示します。"
+
+#~ msgid "Show the type of the share"
+#~ msgstr "共有のタイプ表示"
+
+#~ msgid ""
+#~ "The type of a share will be displayed in a separate column in the network "
+#~ "browser. It can either be Disk, Print or IPC."
+#~ msgstr ""
+#~ "共有のタイプは、ネットワークブラウザの別のカラムで表示されます。それはディ"
+#~ "スク、印刷、または IPC のいずれかです。"
+
+#~ msgid "Show the IP address of the server"
+#~ msgstr "サーバの IP アドレス表示"
+
+#~ msgid ""
+#~ "The IP address of the server will be displayed in a separate column in "
+#~ "the network browser."
+#~ msgstr ""
+#~ "サーバの IP アドレスは、ネットワークブラウザ中の個別のカラムで表示されるで"
+#~ "しょう"
+
+#~ msgid "Show the comment"
+#~ msgstr "コメントを表示"
+
+#~ msgid ""
+#~ "The comment describing the server or share will be displayed in a "
+#~ "separate column in the network browser."
+#~ msgstr ""
+#~ "サーバか共有のコメントは、ネットワークブラウザの別のカラムで表示されます。"
+
+#~ msgid "Show a tooltip with information about the network item"
+#~ msgstr "ネットワーク項目に関する情報をツールチップで表示"
+
+#~ msgid ""
+#~ "The tooltip shows various information about the current network item."
+#~ msgstr ""
+#~ "現在のネットワーク項目に関する多様な情報をツールチップで表示します。"
+
+#~ msgid "Show the mount point instead of the share name"
+#~ msgstr "共有名の代わりにマウントポイントを表示"
+
+#~ msgid ""
+#~ "A share is normally displayed with its name in the shares view. Choosing "
+#~ "this feature will cause the exchange of the share name by the mount point."
+#~ msgstr ""
+#~ "共有ビューは、通常共有名を表示します。ただし、この機能を選択すると、マウン"
+#~ "トポイントを代わりに表示します。"
+
+#~ msgid "Show all shares that are mounted on the system"
+#~ msgstr "システムにマウントされたすべての共有を表示"
+
+#~ msgid ""
+#~ "You will not only see the shares that were mounted and are owned by you, "
+#~ "but also all other mounts using the SMBFS and CIFS file system that are "
+#~ "present on the system."
+#~ msgstr ""
+#~ "ユーザが所有するマウントされた共有以外にも、SMBFS か CIFS を使ってマウント"
+#~ "された他の共有も表示します。"
+
+#~ msgid "Show a tooltip with information about the share"
+#~ msgstr "共有に関する情報をツールチップで表示"
+
+#~ msgid "The tooltip shows various information about the current share."
+#~ msgstr "現在の共有に関する様々な情報をツールチップで表示"
+
+#~ msgid "Show the owner and group"
+#~ msgstr "所有者とグループを表示"
+
+#~ msgid "Show the UID and GID that own all files on the mounted file system."
+#~ msgstr ""
+#~ "マウントされたファイルシステムのすべてのファイルを所有している UID と GID "
+#~ "を表示"
+
+#~ msgid "Show the login name"
+#~ msgstr "ログイン名を表示"
+
+#~ msgid ""
+#~ "Show the login name that was used to authenticate to the server. The "
+#~ "column will only contain an entry if the share was mounted with the CIFS "
+#~ "file system."
+#~ msgstr ""
+#~ "サーバに認証するために使用したログイン名を表示します。もし共有が CIFS ファ"
+#~ "イルシステムでマウントされていた場合、カラムには単にエントリが含まれていま"
+#~ "す。"
+
+#~ msgid "Show the file system"
+#~ msgstr "ファイルシステムを表示"
+
+#~ msgid "Show the file system that was used for mounting the share."
+#~ msgstr "共有のマウントで使用されたファイルシステムを表示"
+
+#~ msgid "Show the free disk space"
+#~ msgstr "ディスクの空き容量を表示"
+
+#~ msgid "Show the free disk space that is left on the share."
+#~ msgstr "共有に残ったディスクの空き容量を表示"
+
+#~ msgid "Show the used disk space"
+#~ msgstr "使用されたディスク容量を表示"
+
+#~ msgid "Show the disk space that is already used on the share."
+#~ msgstr "共有で使われているディスク容量を表示"
+
+#~ msgid "Show the total disk space"
+#~ msgstr "総ディスク容量を表示"
+
+#~ msgid "Show the total disk space of the share."
+#~ msgstr "共有の総ディスク容量を表示"
+
+#~ msgid "Show the disk usage"
+#~ msgstr "ディスク使用量を表示"
+
+#~ msgid "Show the space that is used on the share (as a percentage.)"
+#~ msgstr "共有の使用容量をパーセント表示"
+
+#~ msgid "Preview hidden files and directories"
+#~ msgstr "隠しファイルとディレクトリのプレビュ"
+
+#~ msgid ""
+#~ "Display hidden files and directories in the preview dialog. The hidden "
+#~ "files and directories are those whose names begin with a period.  They "
+#~ "are usually needed for very specific purposes (storing the configuration "
+#~ "information for an application, etc.). Since they are not of any "
+#~ "importance for your regular work, you normally do not need to enable this "
+#~ "feature."
+#~ msgstr ""
+#~ "プレビュダイアログに隠しファイルやディレクトリを表示します。隠しファイルや"
+#~ "ディレクトリの名前は、ピリオドで始まり、特別な目的 (アプリケーションなどの"
+#~ "設定ファイル) のために通常必要されます。普通の業務に重要ではないので、通常"
+#~ "この機能を使用可能にする必要はありません。"
+
+#~ msgid "Scan the network neighborhood for available workgroups and domains"
+#~ msgstr ""
+#~ "利用可能なワークグループとドメインのためにネットワークをスキャンします"
+
+#~ msgid ""
+#~ "This is the default method to retrieve the initial browse list. It "
+#~ "discovers all workgroups and domains by looking for all known master "
+#~ "browsers on your network neighborhood."
+#~ msgstr ""
+#~ "これは、初期のブラウズリストを取り出す標準の方法です。ネットワーク近傍のす"
+#~ "べての既知のマスタブラウザを探すことによって、すべてのワークグループおよび"
+#~ "ドメインを見つけます"
+
+#~ msgid "Query the current workgroup master browser"
+#~ msgstr "現在のワークグループマスターブラウザへ問い合わせします"
+
+#~ msgid ""
+#~ "This method queries the current master browser of your workgroup or "
+#~ "domain to retrieve the initial browse list."
+#~ msgstr ""
+#~ "この方法は、初期のブラウズリストを取り出すために、ワークグループまたはドメ"
+#~ "インの現在のマスタブラウザに問い合わせます"
+
+#~ msgid "Query this custom master browser:"
+#~ msgstr "カスタムマスターブラウザへ問い合わせします:"
+
+#~ msgid ""
+#~ "This method queries a custom master browser to retrieve the initial "
+#~ "browse list."
+#~ msgstr ""
+#~ "方法として、初期のブラウズリストを取り出すために、カスタムのマスタブラウザ"
+#~ "へ問い合わせます"
+
+#~ msgid "A custom master browser that is to be queried"
+#~ msgstr "問い合わせることになっているカスタムマスターブラウザ"
+
+#~ msgid ""
+#~ "Enter the name or IP address of a master browser here that should be "
+#~ "queried to compile the initial browse list."
+#~ msgstr ""
+#~ "初期のブラウズリストをコンパイルするために問い合わせをするマスター・ブラウ"
+#~ "ザのここで、IP アドレスまたは、名前の入力を行います"
+
+#~ msgid "Scan these broadcast areas:"
+#~ msgstr "これらのブロードキャストの範囲を検索:"
+
+#~ msgid ""
+#~ "This method will scan the given broadcast areas and look for all "
+#~ "registered hosts."
+#~ msgstr ""
+#~ "この方法は、与えられたブロードキャストエリアを検索しすべての登録されたホス"
+#~ "トを捜します"
+
+#~ msgid "A custom list of broadcast addresses"
+#~ msgstr "ブロードキャストアドレスのカスタムリスト"
+
+#~ msgid ""
+#~ "Enter a comma-separated list of broadcast addresses here (e.g. "
+#~ "192.168.0.255, 192.168.1.255). It is used to scan for all known hosts in "
+#~ "the respective broadcast areas."
+#~ msgstr ""
+#~ "ブロードキャストアドレスをコンマで区切って入力してください。(例えば"
+#~ "「192.168.0.255, 192.168.1.255」) ホストの検出に使われます。"
+
+#~ msgid "The master browsers require authentication to return the browse list"
+#~ msgstr "マスタブラウザは、ブラウズリストを返すために、認証を要求します"
+
+#~ msgid ""
+#~ "The master browsers in your network neighborhood require a login to "
+#~ "return the browse list. This setting is rarely needed and might even "
+#~ "cause a master browser to return an empty browse list. It will not have "
+#~ "any effect when you let Smb4K scan broadcast areas."
+#~ msgstr ""
+#~ "あなたの近隣のネットワークのマスタブラウザは、ブラウズリストを返すには、ロ"
+#~ "グインとパスワードに要求します このセッティングはめったに必要ではなく、マ"
+#~ "スタブラウザが空のブラウズリストを返すさえ原因になるかもしれません。あなた"
+#~ "がSmb4K にブロードキャストエリアを検索させたとき、少しの影響もないでしょう"
+
+#, fuzzy
+#~| msgid "Scan the network neighborhood for available workgroups and domains"
+#~ msgid "Scan the network neighborhood periodically"
+#~ msgstr ""
+#~ "利用可能なワークグループとドメインのためにネットワークをスキャンします"
+
+#, fuzzy
+#~| msgid "Scan the network neighborhood for available workgroups and domains"
+#~ msgid ""
+#~ "Scan the network neighborhood periodically for all available workgroups, "
+#~ "hosts and shares."
+#~ msgstr ""
+#~ "利用可能なワークグループとドメインのためにネットワークをスキャンします"
+
+#, fuzzy
+#~| msgid "Interval between checks:"
+#~ msgid "Interval between scans:"
+#~ msgstr "チェックの間隔:"
+
+#, fuzzy
+#~| msgid "Scan the network neighborhood for available workgroups and domains"
+#~ msgid ""
+#~ "This is the time in minutes that elapses until Smb4K rescans the network "
+#~ "neighborhood for new workgroups, hosts and shares."
+#~ msgstr ""
+#~ "利用可能なワークグループとドメインのためにネットワークをスキャンします"
+
+#~ msgid "Mount prefix:"
+#~ msgstr "マウントプレフィックス:"
+
+#~ msgid ""
+#~ "This is the prefix where Smb4K will create the mount points and mount the "
+#~ "remote shares."
+#~ msgstr ""
+#~ "Smb4K がマウントポイントを作成し、遠隔の共有をマウントするプレフィックスで"
+#~ "す。"
+
+#~ msgid "Force generated subdirectories to be lower case"
+#~ msgstr "作成されるサブディレクトリを小文字に強制"
+
+#~ msgid ""
+#~ "All names of the subdirectories created by Smb4K below the mount prefix "
+#~ "will be lowercase."
+#~ msgstr ""
+#~ "Smb4K によってマウントポイント以下に作成されるサブディレクトリを小文字に強"
+#~ "制します。"
+
+#~ msgid "Unmount all personal shares on exit"
+#~ msgstr "終了時に、すべてのユーザの共有を、アンマウントします"
+
+#~ msgid ""
+#~ "Unmount all shares that belong to you when the program exits. Shares that "
+#~ "are owned by other users are ignored."
+#~ msgstr ""
+#~ "終了時、あなたに属しているのすべての共有を、アンマウントします 他のユーザ"
+#~ "により所有されている共有は無視されます"
+
+#~ msgid "Remount recently used shares on program start"
+#~ msgstr "プログラム起動時に、最近使用していた共有を再びマウントします"
+
+#~ msgid ""
+#~ "Remount all your shares that were mounted when you exited the program. If "
+#~ "a remount fails, Smb4K will retry the next time it is started. Shares "
+#~ "that were mounted by other users are ignored."
+#~ msgstr ""
+#~ "プログラムを終了した時にまだマウントされていたすべての共有を再マウントしま"
+#~ "す もし、再マウントが失敗するならば、Smb4K は、次回の起動時リトライしま"
+#~ "す。他のユーザがマウントした共有は無視されます。"
+
+#, fuzzy
+#~| msgid "Interval between checks:"
+#~ msgid "Number of remount attempts:"
+#~ msgstr "チェックの間隔:"
+
+#, fuzzy
+#~| msgid "Interval between checks:"
+#~ msgid "Interval between remount attempts:"
+#~ msgstr "チェックの間隔:"
+
+#~ msgid "Allow the unmounting of shares that are owned by other users"
+#~ msgstr "他のユーザによって所有される共有のアンマウントを許可する"
+
+#, fuzzy
+#~| msgid ""
+#~| "Allow the unmounting of shares that were mounted by other users. In most "
+#~| "cases you need super user privileges for this. Please think before you "
+#~| "enable this option."
+#~ msgid ""
+#~ "Allow the unmounting of shares that were mounted by other users. Please "
+#~ "think before you enable this option."
+#~ msgstr ""
+#~ "他のユーザがマウントした共有の解除を可能にします。通常はスーパーユーザ特権"
+#~ "が必要です。このオプションを可能にする前によく考えてください。"
+
+#, fuzzy
+#~| msgid ""
+#~| "Use super user privileges to force the unmounting of (inaccessible) "
+#~| "shares"
+#~ msgid "Force the unmounting of inaccessible shares"
+#~ msgstr ""
+#~ "アクセスできない共有のアンマウントを強制に行うためにスーパーユーザ特権を使"
+#~ "用します"
+
+#~ msgid "Interval between checks:"
+#~ msgstr "チェックの間隔:"
+
+#, fuzzy
+#~| msgid ""
+#~| "This is the time that elapses until Smb4K checks again for new mounts "
+#~| "and unmounts. The lower limit is 500 ms, the upper one 300000 ms. Please "
+#~| "note that the smaller the interval gets the higher is your system load."
+#~ msgid ""
+#~ "This is the time in milliseconds that elapses until Smb4K checks again "
+#~ "for new mounts and unmounts. The lower limit is 500 ms, the upper one "
+#~ "300000 ms. Please note that the smaller the interval gets the higher is "
+#~ "your system load."
+#~ msgstr ""
+#~ "新しいマウントや、アンマウントの Smb4K が再度チェックするまでの時間です。"
+#~ "下限が 500 ms で、上限が 300000 ms です。告知:チェックの間隔を短くするとシ"
+#~ "ステム・ロードが高くなります。"
+
+#~ msgid "Save logins in a wallet"
+#~ msgstr "ウォレットにログインデータを保存します"
+
+#~ msgid ""
+#~ "Use a wallet to store the login. The username and password are stored "
+#~ "encrypted on your hard drive. If this setting is disabled, the login is "
+#~ "not stored permanently but only temporarily."
+#~ msgstr ""
+#~ "認証データを保存するためにウォレットを使用してください。ユーザ名およびパス"
+#~ "ワードがあなたのハードドライブ上で暗号化されて保存されます。この設定を無効"
+#~ "にした場合、認証データは、永久に保存されません、しかし一時的には、保存され"
+#~ "ます。"
+
+#~ msgid "Remember logins during program run"
+#~ msgstr "プログラム実行中にログインを覚えます"
+
+#~ msgid ""
+#~ "If you decide to store your logins temporarily, Smb4K will remember them "
+#~ "only until the program exits. If you disable this setting, you will have "
+#~ "to provide the login every time it is needed."
+#~ msgstr ""
+#~ "ログイン名とパスワードを一時的に保存する場合、Smb4K はプログラム終了時にそ"
+#~ "れを破棄します。この設定を無効にした場合、毎回認証データを入力しなければな"
+#~ "りません。"
+
+#~ msgid "Use a default login"
+#~ msgstr "デフォルトログインを使用"
+
+#~ msgid ""
+#~ "Enable the usage of a default login. The provided data is used by default "
+#~ "to authenticate to a remote server. This is very useful e.g. if you are "
+#~ "working in an Active Directory environment or an NT domain."
+#~ msgstr ""
+#~ "デフォルトログイン名およびパスワードの使用を有効にしてください。その後、下"
+#~ "に提供される認証データは、リモートサーバで認証するためにデフォルトで使用さ"
+#~ "れます。例えば、アクティブディレクトリ環境あるいは NT ドメインで動作してい"
+#~ "る場合、これは非常に便利です。"
+
+#~ msgid "NetBIOS name:"
+#~ msgstr "NetBIOS 名:"
+
+#~ msgid ""
+#~ "This is the NetBIOS name of this computer that is used by Smb4K. By "
+#~ "default, it is either the NetBIOS name that is defined in the smb.conf "
+#~ "file or the host name."
+#~ msgstr ""
+#~ "これは Smb4K によって使用されるこのコンピュータの NetBIOS 名です。デフォル"
+#~ "トによって、smb.conf ファイルまたはホスト名に定義されているどちらか一方の "
+#~ "NetBIOS 名です。"
+
+#~ msgid "Domain:"
+#~ msgstr "ドメイン:"
+
+#~ msgid ""
+#~ "This is the workgroup or domain this computer is or should be in. By "
+#~ "default, it is the workgroup that is defined in the smb.conf file."
+#~ msgstr ""
+#~ "このコンピュータが所属するワークグループまたはドメインです。デフォルト値"
+#~ "は、smb.conf ファイルに定義されているワークグループです。"
+
+#~ msgid "Socket options:"
+#~ msgstr "ソケットオプション:"
+
+#, fuzzy
+#~| msgid ""
+#~| "These are the TCP socket options that are used by nmblookup, smbmount "
+#~| "and smbclient. Socket options are controls on the networking layer of "
+#~| "the operating systems which allow the connection to be tuned. See the "
+#~| "manual page of smb.conf for more information."
+#~ msgid ""
+#~ "These are the TCP socket options that are used by nmblookup and "
+#~ "smbclient. Socket options are controls on the networking layer of the "
+#~ "operating systems which allow the connection to be tuned. See the manual "
+#~ "page of smb.conf for more information."
+#~ msgstr ""
+#~ "これらは、nmblookup、smbmount および smbclient によって使用される TCP ソ"
+#~ "ケット・オプションです。ソケット・オプションは、接続の調整を可能にするオペ"
+#~ "レーティング・システムのネットワーク層の制御です。より詳細には、smb.conf "
+#~ "のマニュアル・ページを参照してください。"
+
+#~ msgid "NetBIOS scope:"
+#~ msgstr "NetBIOS スコープ:"
+
+#, fuzzy
+#~| msgid ""
+#~| "This sets the NetBIOS scope that nmblookup, smbmount and smbclient will "
+#~| "operate under. It should not be set unless every machine on your network "
+#~| "neighborhood sets this value."
+#~ msgid ""
+#~ "This sets the NetBIOS scope that nmblookup and smbclient will operate "
+#~ "under. It should not be set unless every machine on your network "
+#~ "neighborhood sets this value."
+#~ msgstr ""
+#~ "これは、nmblookup、smbmount および smbclient が実行する NetBIOS 範囲を設定"
+#~ "します。もしあなたのネットワーク近隣上のすべてのコンピュータがこの値を設定"
+#~ "しなければ、それは設定されるべきではありません。"
+
+#~ msgid "SMB port:"
+#~ msgstr "SMB ポート:"
+
+#~ msgid ""
+#~ "This is the port that is used for connecting to remote servers with the "
+#~ "client programs net, smbclient and smbtree. The default value is 139 "
+#~ "(NetBIOS). This setting is not used for mounting."
+#~ msgstr ""
+#~ "これは、クライアントプログラム net、smbclient、および smbtree によってリ"
+#~ "モートサーバと接続するために使われるポートです。デフォルト値は 139 "
+#~ "(NetBIOS) です。この設定は、マウントするために使われません。"
+
+#~ msgid "File system port:"
+#~ msgstr "ファイルシステムポート:"
+
+#~ msgid ""
+#~ "This is the port that is exclusively used to mount shares from remote "
+#~ "servers. The default value is 445 (CIFS file system)."
+#~ msgstr ""
+#~ "これは、リモートサーバから共有をマウントするために使用されるポートです。デ"
+#~ "フォルト値は 445 です (CIFS)"
+
+#~ msgid "Try to authenticate with Kerberos"
+#~ msgstr "Kerberos で認証を試みます"
+
+#~ msgid ""
+#~ "Try to authenticate with Kerberos. This is only useful in an Active "
+#~ "Directory environment. The setting affects the smbclient and smbtree "
+#~ "command."
+#~ msgstr ""
+#~ "Kerberos で認証を試してください。これはアクティブ・ディレクトリ環境にのみ"
+#~ "役立ちます。設定は smbclient および smbtree コマンドに影響します。"
+
+#~ msgid "Authenticate with local machine account"
+#~ msgstr "ローカルコンピュータ アカウントとして認証"
+
+#~ msgid ""
+#~ "Make queries to the remote server using the machine account of the local "
+#~ "server. The setting affects the net, smbclient, and smbtree command."
+#~ msgstr ""
+#~ "ローカル・サーバのマシン・アカウントを使用して、リモート・サーバに問い合わ"
+#~ "せをします。設定は、net および smbclient、smbtree コマンドに影響します。"
+
+#, fuzzy
+#~| msgid "Use Kerberos authentication"
+#~ msgid "Use Winbind ccache for authentication"
+#~ msgstr "Kerberos 認証を使用"
+
+#, fuzzy
+#~| msgid ""
+#~| "Set the signing state. This setting affects the smbclient and smbtree "
+#~| "command."
+#~ msgid ""
+#~ "Use the Winbind ccache for authentication. This setting affects smbclient "
+#~ "and smbtree command."
+#~ msgstr ""
+#~ "サイン状態を設定してくださいこの設定は smbclient と smbtree コマンドに影響"
+#~ "します。"
+
+#~ msgid "Signing state:"
+#~ msgstr "署名の状況:"
+
+#~ msgid ""
+#~ "Set the signing state. This setting affects the smbclient and smbtree "
+#~ "command."
+#~ msgstr ""
+#~ "サイン状態を設定してくださいこの設定は smbclient と smbtree コマンドに影響"
+#~ "します。"
+
+#~ msgid "None"
+#~ msgstr "なし"
+
+#~ msgid "On"
+#~ msgstr "オン"
+
+#~ msgid "Off"
+#~ msgstr "オフ"
+
+#~ msgid "Required"
+#~ msgstr "必須"
+
+#, fuzzy
+#~| msgid ""
+#~| "Set the signing state. This setting affects the smbclient and smbtree "
+#~| "command."
+#~ msgid ""
+#~ "Encrypt the SMB transport (Unix extended servers only). This setting "
+#~ "affects the smbclient and smbtree command."
+#~ msgstr ""
+#~ "サイン状態を設定してくださいこの設定は smbclient と smbtree コマンドに影響"
+#~ "します。"
+
+#~ msgid ""
+#~ "This is the character set that is used by the client side (i.e. your "
+#~ "side) either to convert local path names to and from Unicode (CIFS, "
+#~ "Linux) or for codepage to charset translations (SMBFS, FreeBSD). If you "
+#~ "keep the default setting, Smb4K will try to automatically determine the "
+#~ "charset by looking up the \"unix charset\" option in the smb.conf."
+#~ msgstr ""
+#~ "これは、ローカルなパス名をユニコード (CIFS, Linux) から、およびユニコード"
+#~ "に変換することまたはコードページからキャラセットへ翻訳 (SMBFS, FreeBSD) す"
+#~ "るためにクライアント側 (すなわちあなた側) で使用される文字セットです。あな"
+#~ "たがデフォルト設定を維持すれば、Smb4K は smb.conf の中の \"unix charset\" "
+#~ "オプションを調べることにより、キャラセット (charset) を自動的に決定しよう"
+#~ "とします。"
+
+#~ msgid "default"
+#~ msgstr "デフォルト"
+
+#~ msgid "iso8859-1"
+#~ msgstr "iso8859-1"
+
+#~ msgid "iso8859-2"
+#~ msgstr "iso8859-2"
+
+#~ msgid "iso8859-3"
+#~ msgstr "iso8859-3"
+
+#~ msgid "iso8859-4"
+#~ msgstr "iso8859-4"
+
+#~ msgid "iso8859-5"
+#~ msgstr "iso8859-5"
+
+#~ msgid "iso8859-6"
+#~ msgstr "iso8859-6"
+
+#~ msgid "iso8859-7"
+#~ msgstr "iso8859-7"
+
+#~ msgid "iso8859-8"
+#~ msgstr "iso8859-8"
+
+#~ msgid "iso8859-9"
+#~ msgstr "iso8859-9"
+
+#~ msgid "iso8859-13"
+#~ msgstr "iso8859-13"
+
+#~ msgid "iso8859-14"
+#~ msgstr "iso8859-14"
+
+#~ msgid "iso8859-15"
+#~ msgstr "iso8859-15"
+
+#~ msgid "utf8"
+#~ msgstr "utf8"
+
+#~ msgid "koi8-r"
+#~ msgstr "koi8-r"
+
+#~ msgid "koi8-u"
+#~ msgstr "koi8-u"
+
+#~ msgid "koi8-ru"
+#~ msgstr "koi8-ru"
+
+#~ msgid "cp1251"
+#~ msgstr "cp1251"
+
+#~ msgid "gb2312"
+#~ msgstr "gb2312"
+
+#~ msgid "big5"
+#~ msgstr "big5"
+
+#~ msgid "euc-jp"
+#~ msgstr "euc-jp"
+
+#~ msgid "euc-kr"
+#~ msgstr "euc-kr"
+
+#~ msgid "tis-620"
+#~ msgstr "tis-620"
+
+#~ msgid "Server codepage:"
+#~ msgstr "サーバコードページ:"
+
+#~ msgid ""
+#~ "This is the codepage that is used by the server. The setting is only "
+#~ "available with the SMBFS file system. If you keep the default setting, "
+#~ "Smb4K will try to automatically determine the codepage by looking up the "
+#~ "\"dos charset\" option in the smb.conf file."
+#~ msgstr ""
+#~ "これはサーバによって使用されるコードページです。設定は SMBFS ファイルシス"
+#~ "テムで利用可能です。あなたがデフォルト設定を維持すれば、Smb4K は smb.conf "
+#~ "の中の「dos charset」オプションを調べることにより、コードページを自動的に"
+#~ "決定しようとします"
+
+#~ msgid "cp437"
+#~ msgstr "cp437"
+
+#~ msgid "cp720"
+#~ msgstr "cp720"
+
+#~ msgid "cp737"
+#~ msgstr "cp737"
+
+#~ msgid "cp775"
+#~ msgstr "cp775"
+
+#~ msgid "cp850"
+#~ msgstr "cp850"
+
+#~ msgid "cp852"
+#~ msgstr "cp852"
+
+#~ msgid "cp855"
+#~ msgstr "cp855"
+
+#~ msgid "cp857"
+#~ msgstr "cp857"
+
+#~ msgid "cp858"
+#~ msgstr "cp858"
+
+#~ msgid "cp860"
+#~ msgstr "cp860"
+
+#~ msgid "cp861"
+#~ msgstr "cp861"
+
+#~ msgid "cp862"
+#~ msgstr "cp862"
+
+#~ msgid "cp863"
+#~ msgstr "cp863"
+
+#~ msgid "cp864"
+#~ msgstr "cp864"
+
+#~ msgid "cp865"
+#~ msgstr "cp865"
+
+#~ msgid "cp866"
+#~ msgstr "cp866"
+
+#~ msgid "cp869"
+#~ msgstr "cp869"
+
+#~ msgid "cp874"
+#~ msgstr "cp874"
+
+#~ msgid "cp932"
+#~ msgstr "cp932"
+
+#~ msgid "cp936"
+#~ msgstr "cp936"
+
+#~ msgid "cp949"
+#~ msgstr "cp949"
+
+#~ msgid "cp950"
+#~ msgstr "cp950"
+
+#~ msgid "cp1250"
+#~ msgstr "cp1250"
+
+#~ msgid "cp1252"
+#~ msgstr "cp1252"
+
+#~ msgid "cp1253"
+#~ msgstr "cp1253"
+
+#~ msgid "cp1254"
+#~ msgstr "cp1254"
+
+#~ msgid "cp1255"
+#~ msgstr "cp1255"
+
+#~ msgid "cp1256"
+#~ msgstr "cp1256"
+
+#~ msgid "cp1257"
+#~ msgstr "cp1257"
+
+#~ msgid "cp1258"
+#~ msgstr "cp1258"
+
+#~ msgid "unicode"
+#~ msgstr "unicode"
+
+#~ msgid ""
+#~ "This is the user ID (a number) that the files and directories of the "
+#~ "mounted share will have. If you are using the CIFS file system and the "
+#~ "remote server supports the CIFS Unix Extensions, this setting will be "
+#~ "ignored."
+#~ msgstr ""
+#~ "マウントされた共有のファイルおよびディレクトリのユーザ ID (数字) です。た"
+#~ "だし、CIFS を使用しており、リモートサーバが CIFS Unix 拡張をサポートしてい"
+#~ "る場合、この設定は無視されます。"
+
+#~ msgid ""
+#~ "This is the group ID (a number) that the files and directories of the "
+#~ "mounted share will have. If you are using the CIFS file system and the "
+#~ "remote server supports the CIFS Unix Extensions, this setting will be "
+#~ "ignored."
+#~ msgstr ""
+#~ "マウントされた共有のファイルおよびディレクトリのグループ ID (数字) です。"
+#~ "ただし、CIFS を使用しており、リモートサーバが CIFS Unix 拡張をサポートして"
+#~ "いる場合、この設定は無視されます。"
+
+#~ msgid "File mask:"
+#~ msgstr "ファイル マスク:"
+
+#~ msgid ""
+#~ "This is the mask that will be used for creating files. It must be defined "
+#~ "in octal. In case the CIFS file system is used, this setting only takes "
+#~ "effect if the server does not support the CIFS Unix Extensions."
+#~ msgstr ""
+#~ "これはファイルの作成のために使用されるマスクです。それは八進法で定義しなけ"
+#~ "ればなりません。CIFS 使用時、サーバが CIFS Unix 拡張をサポートしていない場"
+#~ "合、この設定は効果があります。"
+
+#~ msgid "Directory mask:"
+#~ msgstr "ディレクトリ・マスク:"
+
+#~ msgid ""
+#~ "This is the mask that will be used for creating directories. It must be "
+#~ "defined in octal. In case the CIFS file system is used, this setting only "
+#~ "takes effect if the server does not support the CIFS Unix Extensions."
+#~ msgstr ""
+#~ "これはディレクトリの作成のために使用されるマスクです。それは八進法で定義し"
+#~ "なければなりません。CIFS 使用時、サーバが CIFS Unix 拡張 をサポートしてい"
+#~ "ない場合、この設定は、効果があります。"
+
+#~ msgid "Write access:"
+#~ msgstr "書き込みアクセス:"
+
+#~ msgid ""
+#~ "Here you can choose if the shares should be mounted in read-write or read-"
+#~ "only mode."
+#~ msgstr ""
+#~ "共有をマウントするとき、読み書きモードか、読み込みだけのモードかを選択でき"
+#~ "ます。"
+
+#~ msgid "read-write"
+#~ msgstr "読み書き"
+
+#~ msgid "read-only"
+#~ msgstr "読み出し専用"
+
+#~ msgid "Do permission checks"
+#~ msgstr "権限を確認します"
+
+#~ msgid ""
+#~ "The client side (i.e. your side) will check if you have the right UID/GID "
+#~ "to manipulate a file or directory. You might want to switch this feature "
+#~ "off if the server(s) support the CIFS Unix Extensions and you are not "
+#~ "allowed to access the files and directories. This setting does not affect "
+#~ "the normal ACL check."
+#~ msgstr ""
+#~ "クライアント側 (つまりあなたの側) は、ファイルまたはディレクトリを操作する"
+#~ "ために、あなたが正しい UID / GID を持っているかどうかチェックするでしょ"
+#~ "う。もし、サーバが CIFS Unix 拡張をサポートし、ファイルとディレクトリにア"
+#~ "クセスすることを認められなければ、この機能を無効に切り替えたいと思うかもし"
+#~ "れません。この設定は、通常の ACL チェックに影響しません"
+
+#~ msgid "Attempt to set UID and GID"
+#~ msgstr "set UID と GID を試みます"
+
+#~ msgid ""
+#~ "In case the server supports the CIFS Unix Extensions, the client side "
+#~ "(i.e. your side) attempts to set the effective UID and GID of the current "
+#~ "process on newly created files, directories and devices. If this feature "
+#~ "is turned off, the default UID and GID defined for the share will be "
+#~ "used. It is recommended that you read the manual page of mount.cifs "
+#~ "before you change this setting."
+#~ msgstr ""
+#~ "サーバが CIFS Unix 拡張をサポートした場合、クライアント側 (つまりあなたの"
+#~ "側) は、新しく作成されたファイル、ディレクトリおよびデバイスを現在のプロセ"
+#~ "スの有効な UID および GID を設定することを試みます。この機能を無効にした場"
+#~ "合、共有のために定義されたデフォルトの UID と GID が使用されるでしょう。こ"
+#~ "の設定を変更する前に、mount.cifs のマニュアルページを参照することを推奨し"
+#~ "ます"
+
+#~ msgid "Use server inode numbers"
+#~ msgstr "サーバ inode 番号を使用します"
+
+#~ msgid ""
+#~ "Use inode numbers (unique persistent file identifiers) returned by the "
+#~ "server instead of automatically generating temporary inode numbers on the "
+#~ "client side."
+#~ msgstr ""
+#~ "クライアント側で自動的に作成された一時的な inode 番号の代わりに、サーバで"
+#~ "返された Inode 番号 (ユニークで持続的なファイル識別) を使用します。"
+
+#~ msgid "Do not cache inode data"
+#~ msgstr "inode データをキャッシュしない"
+
+#~ msgid ""
+#~ "Directly read from and write to files opened on the share. In some cases "
+#~ "this can provide better performance than the default behavior which "
+#~ "caches reads and writes."
+#~ msgstr ""
+#~ "共有にある開いたファイルを直接読み書きします。いくつかの場合で、デフォルト"
+#~ "動作である読み書きキャッシュを使うより、よりよいパフォーマンスを提供するこ"
+#~ "とができます。"
+
+#~ msgid "Translate reserved characters"
+#~ msgstr "予約文字を変換します"
+
+#~ msgid ""
+#~ "Translate six of the seven reserved characters (including the colon, "
+#~ "question mark, pipe, asterisk, greater than and less than characters but "
+#~ "not the backslash) to remap range (above 0xF000). This allows you to open "
+#~ "files that were created with such characters. This has no effect if the "
+#~ "server does not support Unicode."
+#~ msgstr ""
+#~ "7つの予約文字の内、バックスラッシュは除く、コロン、疑問符、パイプ、星印、"
+#~ "大なり、小なりの6文字について、リマップ領域 (0xF000以上) へ変換します。こ"
+#~ "うすることで、これらの文字を含むファイルを開くことができます。ただし、サー"
+#~ "バがユニコードをサポートしていない場合、効果はありません。"
+
+#~ msgid "Do not use locking"
+#~ msgstr "ロックを使わない"
+
+#~ msgid "Do not use locking. Do not start lockd."
+#~ msgstr "ロックを使用しない。ロックデーモンを起動しない"
+
+#~ msgid "Additional options:"
+#~ msgstr "追加オプション:"
+
+#~ msgid ""
+#~ "Here you can enter advanced options for the CIFS file system in a comma-"
+#~ "separated list (refer to the manual page of mount.cifs to learn more). "
+#~ "The list will be added AS IS to the \"-o\" argument of mount.cifs. Please "
+#~ "do not enter options that have already been defined in the configuration "
+#~ "dialog."
+#~ msgstr ""
+#~ "ここで、コンマで分離されたリストの CIFS の高度なオプションを入力することが"
+#~ "できます。(詳しくは mount.cifs のマニュアルページを参照してください。) "
+#~ "mount.cifs の引数「-o」に直接渡されます。設定ダイアログで既に定義されてい"
+#~ "るオプションを入力しないでください。"
+
+#~ msgid "Protocol hint:"
+#~ msgstr "プロトコル ヒント:"
+
+#~ msgid ""
+#~ "Here you can choose the protocol that will be used by the net command for "
+#~ "the communication with remote servers if appropriate. In most cases the "
+#~ "automatic detection will work fine and you should not need to change the "
+#~ "default setting. However, if you experience problems, use the RPC "
+#~ "protocol for newer operating systems (Windows NT4 and above) and the RAP "
+#~ "protocol for older ones (Windows 98/NT3 and below). Functions that need "
+#~ "the ADS protocol (for Active Directory environments) have not been "
+#~ "implemented yet, so you can ignore that one for now."
+#~ msgstr ""
+#~ "ネットコマンドがリモートサーバと通信するときに使用するプロトコルを選択しま"
+#~ "す。ほとんどの場合、自動認識が正しく動作するため、デフォルト設定のままでか"
+#~ "まいません。ただ、問題があれば、最近のオペレーティングシステム (Windows "
+#~ "NT4 以降) には RPC プロトコルを、古いもの (Windows98/NT3 以前) には RAP プ"
+#~ "ロトコルを選択してください。ADS プロトコル (アクティブディレクトリ環境用) "
+#~ "を必要とする機能はまだ実装されていないため、現時点では無視してください。"
+
+#~ msgid "Automatic detection"
+#~ msgstr "自動認識"
+
+#~ msgid "RPC: Modern operating systems"
+#~ msgstr "RPC: 最近のオペレーティングシステム:"
+
+#~ msgid "RAP: Older operating systems"
+#~ msgstr "RAP: 昔のオペレーティングシステム:"
+
+#~ msgid "ADS: Active Directory environment (LDAP/Kerberos)"
+#~ msgstr "ADS: アクティブディレクトリ環境 (LDAP/Kerberos)"
+
+#~ msgid "Name resolve order:"
+#~ msgstr "名前解決順序:"
+
+#~ msgid ""
+#~ "This option is used to determine what naming services and in what order "
+#~ "are used to resolve host names and IP addresses. It takes a space-"
+#~ "separated list of up to four different name resolution options. Those "
+#~ "are: lmhost, host, wins, bcast. See the manual page of smbclient for "
+#~ "further information."
+#~ msgstr ""
+#~ "このオプションは、名前をつけるサービスや、ホスト名と IP アドレスを解決を決"
+#~ "定するために使用されます。それは、4つまでの異なったネームリゾリューション"
+#~ "オプションで、スペースで分離されたリストをとります。それらは次のとおりで"
+#~ "す: lmhost、ホスト (host)、wins、ブロードキャスト。さらに詳しい情報に関し"
+#~ "ては、smbclient のマニュアルページを参照してください。"
+
+#~ msgid "Buffer size:"
+#~ msgstr "バッファーサイズ:"
+
+#~ msgid ""
+#~ "This option changes the transmit/send buffer size when getting or putting "
+#~ "a file from/to the server. The default is 65520 bytes. Setting this value "
+#~ "smaller has been observed to speed up file transfers to and from Windows "
+#~ "9x servers."
+#~ msgstr ""
+#~ "このオプションは、サーバからファイルの取得やサーバへファイルを送る、転送/"
+#~ "送信バッファサイズの変更です。デフォルトは、65520バイトです。この値をより"
+#~ "小さくすることは、Windows 9x サーバ間のファイル転送のスピード向上すること"
+#~ "に気づくでしょう。"
+
+#~ msgid "Broadcast address:"
+#~ msgstr "ブロードキャストアドレス:"
+
+#~ msgid ""
+#~ "Queries performed with nmblookup will be send to the given broadcast "
+#~ "address. Without this option the default behavior is to send the queries "
+#~ "to the broadcast address of the network interface that was either auto-"
+#~ "detected or defined in the \"interfaces\" parameter of the smb.conf file."
+#~ msgstr ""
+#~ "nmblookup で行われた問い合わせは、与えられたブロードキャストアドレスに送り"
+#~ "ます。このオプションなしで、デフォルトの動作は、自動検出されたかまたは、"
+#~ "smb.conf ファイルのパラメータ「interfaces」で定義したネット ワークインター"
+#~ "フェースのブロードキャストアドレスに問い合わせを送ります。"
+
+#~ msgid "Try and bind to UDP port 137 to send and receive UDP datagrams"
+#~ msgstr ""
+#~ "UDP データグラムの送受信に UDP ポート 137 へトライし、バインドしてください"
+
+#~ msgid ""
+#~ "Try and bind to UDP port 137 to send and receive UDP datagrams. The "
+#~ "reason for this option is a bug in Windows 95 where it ignores the source "
+#~ "port of the requesting packet and only replies to UDP port 137. "
+#~ "Unfortunately, on most Unix systems super user privileges are needed to "
+#~ "bind to this port. Please read the manual page of nmblookup for more "
+#~ "information."
+#~ msgstr ""
+#~ "UDP データグラムへ送受信のために UDP ポート 137 へ接続を試みてください。こ"
+#~ "のオプションの理由は、要求するパケットの要求元のポートを無視し、単に UDP "
+#~ "ポート 137 に返事を返す Windows 95 のバグです。不幸にも、ほとんどの Unix "
+#~ "システムにおいては、スーパーユーザ特権がこのポートへ使用するために必要で"
+#~ "す。より詳細には、nmblookup のマニュアルページを読んでください。"
+
+#~ msgid "Send requests as broadcasts"
+#~ msgstr "ブロードキャストとして要求を送ります"
+
+#~ msgid ""
+#~ "Let smbtree query the network nodes by sending requests as broadcasts "
+#~ "instead of querying the local master browser."
+#~ msgstr ""
+#~ "smbtree は、ローカルなマスタブラウザを問う代わりにブロードキャストとして要"
+#~ "求を送ってネットワークノードを問わせてください"
+
+#~ msgid "Security mode:"
+#~ msgstr "セキュリティモード"
+
+#, fuzzy
+#~| msgid "Use Kerberos authentication"
+#~ msgid "Kerberos 5 authentication"
+#~ msgstr "Kerberos 認証を使用"
+
+#, fuzzy
+#~| msgid "Use Kerberos authentication"
+#~ msgid "Kerberos 5 authentication and packet signing"
+#~ msgstr "Kerberos 認証を使用"
+
+#, fuzzy
+#~| msgid "Protocol"
+#~ msgid "NTLM protocol"
+#~ msgstr "プロトコル"
+
+#, fuzzy
+#~| msgid "Use Kerberos authentication"
+#~ msgid "NTLM protocol and packet signing"
+#~ msgstr "Kerberos 認証を使用"
+
+#, fuzzy
+#~| msgid "Protocol"
+#~ msgid "NTLMv2 protocol"
+#~ msgstr "プロトコル"
+
+#, fuzzy
+#~| msgid "Use Kerberos authentication"
+#~ msgid "NTLMv2 protocol and packet signing"
+#~ msgstr "Kerberos 認証を使用"
+
+#, fuzzy
+#~| msgid "Protocol"
+#~ msgid "NTLMSSP protocol"
+#~ msgstr "プロトコル"
+
+#, fuzzy
+#~| msgid "Use Kerberos authentication"
+#~ msgid "NTLMSSP protocol and packet signing"
+#~ msgstr "Kerberos 認証を使用"
+
+#~ msgid "Archive mode"
+#~ msgstr "アーカイブモード"
+
+#~ msgid "Use archive mode (-a, --archive). This is a short form of -rlptgoD."
+#~ msgstr ""
+#~ "アーカイブモード (-a、--archive) を使用してください。これは -rlptgoD の簡"
+#~ "易型です。"
+
+#~ msgid "Recurse into subdirectories"
+#~ msgstr "サブディレクトリを再帰降下"
+
+#~ msgid "Recurse into directories (-r, --recursive)."
+#~ msgstr "ディレクトリを再帰降下 (-r、--recursive)"
+
+#~ msgid "Update files"
+#~ msgstr "ファイルを更新"
+
+#~ msgid ""
+#~ "Update files in the destination directory that are older than in the "
+#~ "source directory (-u, --update)."
+#~ msgstr ""
+#~ "ソースディレクトリよりも古い、目的のディレクトリのファイルを更新します (-"
+#~ "u, --update)"
+
+#~ msgid "Update files in place"
+#~ msgstr "その場でファイルを更新"
+
+#~ msgid ""
+#~ "Update destination files in-place (--inplace). By default, rsync first "
+#~ "creates a new copy of a file and moves it into place after its transfer "
+#~ "finished. If you enable this feature, no copy will be created but the "
+#~ "destination file will immediately be overwritten instead. An exception to "
+#~ "this is if you combine this option with --backup."
+#~ msgstr ""
+#~ "-inplace で指定した、目的のファイルをアップデートします。デフォルトでは、"
+#~ "rsync が最初にファイルの新しいコピーを作成し、転送終了後適切な場所に移動し"
+#~ "ます。この機能を有効にすれば、コピーは作成されないでしょう。しかし、目的の"
+#~ "ファイルは直ちに代わりに上書きされるでしょう。この例外は、あなたがこの --"
+#~ "backup オプションを組み合わせるかどうかです"
+
+#~ msgid "Use relative path names"
+#~ msgstr "相対パス名を使用します"
+
+#~ msgid ""
+#~ "Use relative paths (-R, --relative). This means that the full path names "
+#~ "specified on the command line are sent to the server rather than just the "
+#~ "last parts of the file names."
+#~ msgstr ""
+#~ "相対的なパス (-R、-relative) を使用してください。これは、ファイル名の単な"
+#~ "る最後の部分ではなく、サーバへコマンドライン上で指定されたフルパス名が送ら"
+#~ "れることを意味します。"
+
+#~ msgid "Do not send implied directories"
+#~ msgstr "隠しディレクトリを送らないでください"
+
+#~ msgid ""
+#~ "Do not send implied directories with --relative (--no-implied-dirs). This "
+#~ "means that the corresponding path elements on the destination system are "
+#~ "left unchanged if they exist, and any missing implied directories are "
+#~ "created with default attributes. This even allows these implied path "
+#~ "elements to have big differences, such as being a symlink to a directory "
+#~ "on one side of the transfer, and a real directory on the other side."
+#~ msgstr ""
+#~ "-relative (--no-implied-dirs) で、隠しディレクトリを送りません。それらが存"
+#~ "在する場合、転送先のシステム上の対応するパス要素が変更されないことを意味し"
+#~ "ます。また、いくつかの見つからない隠されたディレクトリも、デフォルト属性で"
+#~ "作成されます。転送の片方のディレクトリへのシンボリックリンク、および別の方"
+#~ "の実際のディレクトリであるように、隠されたパスの要素が大きな違いを持つこと"
+#~ "をさらに可能にします。 "
+
+#~ msgid "Transfer directories without recursing"
+#~ msgstr "再帰なしで、ディレクトリを転送します"
+
+#~ msgid ""
+#~ "Transfer directories without recursing (-d, --dirs). This means that all "
+#~ "top-level subdirectories are transferred but without their contents."
+#~ msgstr ""
+#~ "再帰なし (-d, --dirs) で、ディレクトリを転送します。これは、サブディレクト"
+#~ "リの内容が含まずに、すべてのトップレベルのサブディレクトリが転送されること"
+#~ "を意味します"
+
+#~ msgid "Compress data during transfer"
+#~ msgstr "転送時にデータを圧縮します"
+
+#~ msgid ""
+#~ "Compress data during transfer (-z, --compress). This significantly "
+#~ "reduces the amount of data that is being transferred. You may want to use "
+#~ "this option, if you have a slow connection."
+#~ msgstr ""
+#~ "転送中にデータを圧縮 (-z, --compress) します。これは、転送されているデータ"
+#~ "の量を著しく減らします。あなたが遅い接続をしていれば、このオプションの使用"
+#~ "を望むでしょう。"
+
+#~ msgid "Preserve symlinks"
+#~ msgstr "シンボリックリンクを保つ"
+
+#~ msgid "Copy symlinks as symlinks (-l, --links)."
+#~ msgstr ""
+#~ "シンボリックリンクをシンボリックリンクとしてコピーします (-l, --links)"
+
+#~ msgid "Transform symlinks"
+#~ msgstr "シンボリックリンクを置き換えます"
+
+#~ msgid ""
+#~ "Transform symlinks into the items they are pointing to (-L, --copy-links)."
+#~ msgstr ""
+#~ "シンボリックリンクを指示しているアイテムと置き換えます (-L, --copy-links)"
+
+#~ msgid "Only transform unsafe symlinks"
+#~ msgstr "危険なシンボリックリンクのみ置き換えます"
+
+#~ msgid ""
+#~ "Transform unsafe symlinks into the items they are pointing to (--copy-"
+#~ "unsafe-links). This means that only those symlinks are transformed that "
+#~ "point to items that are outside the copied tree. Absolute symlinks are "
+#~ "treated the same way. This option has no additional effect if --copy-"
+#~ "links has also been specified."
+#~ msgstr ""
+#~ "危険なシンボリックリンクを指示しているアイテムに変換します (--copy-unsafe-"
+#~ "links)。これは、コピーされたツリの外にあるアイテムを指すシンボリックリンク"
+#~ "だけが変換されることを意味します。絶対的なシンボリックリンクも同等に扱われ"
+#~ "ます。--copy-links オプションが指定された場合、このオプションは付加的なオ"
+#~ "プションを持っていません。"
+
+#~ msgid "Ignore unsafe symlinks"
+#~ msgstr "危険なシンボリックリンクを無視します"
+
+#~ msgid ""
+#~ "Ignore symlinks that point outside the copied tree (--safe-links). All "
+#~ "absolute symlinks are also ignored. If you use this option in conjunction "
+#~ "with --relative you might get unexpected results."
+#~ msgstr ""
+#~ "コピーされたツリーの外を指めすシンボリックリンクを無視します (--safe-"
+#~ "kinks)。すべての絶対的なシンボリックリンクも無視します。--relative と同時"
+#~ "にこのオプションを使用する場合、予期しない結果が得るかもしれません"
+
+#~ msgid "Preserve hard links"
+#~ msgstr "ハードリンクを保ちます"
+
+#~ msgid ""
+#~ "Preserve hard links (-H, --hard-links). This options causes rsync to "
+#~ "preserve the hard links that are found during the transfer. Without it, "
+#~ "hard links are treated as though they were separate files."
+#~ msgstr ""
+#~ "ハードリンクを保ちます (-H, --hard-links)。これは、転送中に見つかるハード"
+#~ "リンクを保存するために、rsync に与えるオプションです。このオプションがない"
+#~ "と、ハードリンクは、個別のファイルのように扱われます。"
+
+#~ msgid "Keep directory symlinks"
+#~ msgstr "ディレクトリのシンボリックリンクを保ちます"
+
+#~ msgid ""
+#~ "Treat symlinked directories on the receiving side as though they were "
+#~ "real ones (-K, --keep-dirlinks). This only works if the symlink matches a "
+#~ "real directory from the sending side. Without this option, the receiver's "
+#~ "symlink will be deleted and replaced with a real directory."
+#~ msgstr ""
+#~ "受信側のシンボリックリンクされたディレクトリは、実際のものとして扱います "
+#~ "(-K, --keep-dirlinks)。シンボリックリンクが、送信側の実際のディレクトリと"
+#~ "一致する場合のみ、動作します。このオプションがない場合、受信側のシンボリッ"
+#~ "クリンクは、削除され、実再のディレクトリに置き換えられます。"
+
+#~ msgid "Preserve permissions"
+#~ msgstr "権限を保ちます"
+
+#~ msgid ""
+#~ "Preserve permissions (-p, --perms). The permissions of the destination "
+#~ "file will be same as the source file. For what happens if this option is "
+#~ "switched off, please read rsync's manual page."
+#~ msgstr ""
+#~ "権限を保ちます (-p, --perms)。転送先のファイルの許可情報は、転送元ファイル"
+#~ "と同じになります。このオプションを無効にした場合、何が起きるかは、rsync の"
+#~ "マニュアルページを参照してください。"
+
+#~ msgid "Preserve group"
+#~ msgstr "グループを保ちます"
+
+#~ msgid ""
+#~ "Preserve the group (-g, --group). The group of the destination file will "
+#~ "be set to the same value as the source file."
+#~ msgstr ""
+#~ "グループを保ちます (-g, --group)。転送先ファイルのグループは、転送元のファ"
+#~ "イルと同じ値に設定されます。"
+
+#~ msgid "Preserve owner"
+#~ msgstr "所有者を保ちます"
+
+#~ msgid ""
+#~ "Preserve the owner (-o, --owner). The owner of the destination file will "
+#~ "be set to the same value as the source file, but only if the receiving "
+#~ "rsync is run as the super user. Without this option, the owner is set to "
+#~ "the invoking user on the receiving side."
+#~ msgstr ""
+#~ "所有者 (-o、--owner) を保ちます。目的のファイルの所有者はソース・ファイル"
+#~ "と同じ値に設定されるでしょう。しかし、スーパーユーザとして rsync で受信を"
+#~ "実行される場合のみです。このオプションなしで、所有者は受信側で起動ユーザに"
+#~ "設定されます。"
+
+#~ msgid "Preserve device and special files"
+#~ msgstr "デバイスファイルおよび特別なファイルを保ちます"
+
+#~ msgid ""
+#~ "Preserve device and special files (-D, --devices --specials). This option "
+#~ "causes rsync to transfer character and block devices as well as special "
+#~ "files such as named sockets and fifos. It works only partially if rsync "
+#~ "is not run as super user and the --super option is not specified."
+#~ msgstr ""
+#~ "デバイスおよび特別なファイル (-D, --devices --speciials) を保ちます。この"
+#~ "オプションは rsync に、ソケットや FIFO の命名された特別のファイルと同様に"
+#~ "キャラクタおよびブロックデバイスも転送させます。rsync がスーパーユーザとし"
+#~ "て実行されない場合、--super オプションを指定しない場合、それは、単に部分的"
+#~ "に作動します。"
+
+#~ msgid "Preserve times"
+#~ msgstr "時間を保ちます"
+
+#~ msgid ""
+#~ "Preserve times (-t, --times). The modification times are transferred "
+#~ "along with the files. For what happens if this option is switched off, "
+#~ "please read rsync's manual page."
+#~ msgstr ""
+#~ "時間 (-t、--times) を保ちます。修正時間はファイルとともに転送されます。こ"
+#~ "のオプションのスイッチを付加しない場合、なにが起こるか rsync のマニュアル"
+#~ "ページを読んでください。"
+
+#~ msgid "Omit directories when preserving times"
+#~ msgstr "時間を保つ時は、ディレクトリは除外します"
+
+#~ msgid ""
+#~ "Omit directories when preserving times (-O, --omit-dir-times). This means "
+#~ "that directories are omitted when modification times are being preserved. "
+#~ "Thus, this feature only works in conjunction with --times."
+#~ msgstr ""
+#~ "時間 (-O、--omit-dir-times) を保つ場合ディレクトリは除外します。これは、修"
+#~ "正時間が保たれて場合ディレクトリが除外されることを意味します。したがって、"
+#~ "この特徴のみ、--times とともに使用します。"
+
+#~ msgid "Remove synchronized source files"
+#~ msgstr "同期されたソース・ファイルを削除します"
+
+#~ msgid ""
+#~ "Remove all synchronized source files (--remove-source-files). This tells "
+#~ "rsync to remove from the sending side the non-directory items that are a "
+#~ "part of the transfer and have been successfully duplicated on the "
+#~ "receiving side."
+#~ msgstr ""
+#~ "同期されたソース・ファイル (--remove-souce-files) をすべて削除します。これ"
+#~ "は、転送の一部で、受信側で正しく重複された非ディレクトリアイテムを送信側か"
+#~ "ら削除するように、rsync に命じます。"
+
+#~ msgid "Delete extraneous files"
+#~ msgstr "余分なファイルを削除します"
+
+#~ msgid ""
+#~ "Delete extraneous files from destination (--delete). This tells rsync to "
+#~ "delete all files from the receiving side that are not present on the "
+#~ "sending side, but only for the directories that are being synchronized."
+#~ msgstr ""
+#~ "転送先の無関係なファイルを削除します (--delete)。転送元で存在しない、転送"
+#~ "先のすべてのファイルを削除することを rsync に通知します。転送元と転送先が"
+#~ "完全に同期します。"
+
+#~ msgid "Delete files before transfer"
+#~ msgstr "転送前にファイルを削除します"
+
+#~ msgid ""
+#~ "Delete files on the receiving side before the transfer starts (--delete-"
+#~ "before). This is the default behavior if --delete or --delete-excluded is "
+#~ "specified without one of the --delete-WHEN options."
+#~ msgstr ""
+#~ "転送開始前に、転送先のファイルを削除します (--delete-before)。もし、--"
+#~ "delete-WHEN オプションのうちのひとつもオプションがない状態で --delete また"
+#~ "は --delete-excluded 指定している場合は、デフォルトの動作です。"
+
+#~ msgid "Delete files after transfer"
+#~ msgstr "転送後にファイルを削除します"
+
+#~ msgid ""
+#~ "Delete files on the receiving side after the transfer has completed (--"
+#~ "delete-after, --del)."
+#~ msgstr ""
+#~ "転送が完了した後、受信側のファイルを削除します。(--delete-after, --del)."
+
+#~ msgid "Delete files during transfer"
+#~ msgstr "転送中にファイルを削除します"
+
+#~ msgid ""
+#~ "Delete files on the receiving side during the transfer (--delete-during). "
+#~ "This method is faster than --delete-before or --delete-after, but it is "
+#~ "only supported with rsync 2.6.4 or later."
+#~ msgstr ""
+#~ "転送中に送信先のファイルを削除します。(--delete-during)。この方法は、--"
+#~ "delete-before または --delete-after より高速です。しかし、rsync のバージョ"
+#~ "ン 2.6.4 以上でサポートされています。"
+
+#~ msgid "Also delete excluded files"
+#~ msgstr "また、除外されたファイルを削除します"
+
+#~ msgid ""
+#~ "Also delete excluded files from destination directory (--delete-"
+#~ "excluded). In addition to deleting the files on the receiving side that "
+#~ "are not on the sending side, this tells rsync to also delete any files on "
+#~ "the receiving side that are excluded. Refer to rsync's manual page for "
+#~ "further information."
+#~ msgstr ""
+#~ "また、転送先のディレクトリから、除外ファイルを削除します (--delete-"
+#~ "excluded)。転送元にない転送先ファイルを削除することに加えて、rsync に、転"
+#~ "送先の除外されたどのようなファイルも削除するように通知します。詳細について"
+#~ "は、rsync のマニュアルページを参照してください。"
+
+#~ msgid "Delete even if I/O errors occur"
+#~ msgstr "I/O エラーが発生しても、削除します"
+
+#~ msgid ""
+#~ "Delete even if I/O errors occur (--ignore-errors). This option has to be "
+#~ "specified in conjunction with --delete to take effect."
+#~ msgstr ""
+#~ "I/O エラーが起こっても削除します (--ignore-errors)。このオプションは、--"
+#~ "delete と一緒に指定されることによって、有効になります。"
+
+#~ msgid "Force deletion of non-void directories"
+#~ msgstr "無効なディレクトリの強制削除をします"
+
+#~ msgid ""
+#~ "Force deletion of directories even if they are not empty (--force). This "
+#~ "option tells rsync to delete a non-empty directory when it is to be "
+#~ "replaced by a non-directory. This is only relevant if deletions are not "
+#~ "active."
+#~ msgstr ""
+#~ "たとえディレクトリが空ではなくても、ディレクトリの削除を強制します (--"
+#~ "force)。それが空のディレクトリに取り替えられる必要がある時に、このオプショ"
+#~ "ンは、rsync に、空でないディレクトリを削除するように通知します。もし削除が"
+#~ "有効ではないならば、これは関連しているだけです。"
+
+#~ msgid "Do not delete more than this many files:"
+#~ msgstr "ファイルを削除する最大数:"
+
+#~ msgid ""
+#~ "Only delete as many files as defined here (--max-delete=NUM). This tells "
+#~ "rsync not to delete more than NUM files or directories (NUM must be non-"
+#~ "zero). This is useful when mirroring very large trees to prevent "
+#~ "disasters."
+#~ msgstr ""
+#~ "ここで定義されたを数を越えてファイルを削除しません。(--max-delete=NUM)。"
+#~ "rsync に、指示された数を越えるファイルをやディレクトリを削除しないように指"
+#~ "示します。(Num の指定は 0 ではない) これは、大きなツリー構造を持ったファイ"
+#~ "ルシステムのファイル削除をする時に、思いがけない失敗を防止するのに便利で"
+#~ "す。"
+
+#~ msgid "Value for DeleteMaximum config entry"
+#~ msgstr "削除の最大値設定の値"
+
+#~ msgid "Do not transfer any file smaller than:"
+#~ msgstr "ファイル転送最小サイズ:"
+
+#~ msgid ""
+#~ "This option causes rsync to not transfer any file that is smaller than "
+#~ "the specified size (--min-size=SIZE)."
+#~ msgstr ""
+#~ "この rsync オプションは、指定されたサイズより小さいどんなファイルも転送し"
+#~ "ません。(--min-size=SIZE)."
+
+#~ msgid "Value for MinimalTransferSize config entry"
+#~ msgstr "最小転送サイズ設定の値"
+
+#~ msgid "Do not transfer any file larger than:"
+#~ msgstr "ファイル転送最大サイズ:"
+
+#~ msgid ""
+#~ "This option causes rsync to not transfer any file that is larger than the "
+#~ "specified size (--max-size=SIZE)."
+#~ msgstr ""
+#~ "この rsync オプションは、指定されたサイズより大きいどんなファイルも転送し"
+#~ "ません。"
+
+#~ msgid "Value for MaximalTransferSize config entry"
+#~ msgstr "最大転送サイズ設定の値"
+
+#~ msgid "Keep partially transferred files"
+#~ msgstr "部分的に転送したファイルを保ちます"
+
+#~ msgid ""
+#~ "Keep partially transferred files (--partial). The default behavior is "
+#~ "that any partially transferred file is deleted if the transfer is "
+#~ "interrupted."
+#~ msgstr ""
+#~ "転送が中断したファイルを保存します (--partial)。デフォルトは、転送が中断し"
+#~ "た場合ファイルを削除します。"
+
+#~ msgid "Put partially transferred files into:"
+#~ msgstr "部分的に転送したファイルを入れます:"
+
+#~ msgid ""
+#~ "Put a partially transferred file into this directory (--partial-dir=DIR). "
+#~ "This is a better way than the --partial option to keep partial files, "
+#~ "because the partially transferred file is kept in a different directory "
+#~ "and the destination file is not overwritten."
+#~ msgstr ""
+#~ "転送途中のファイルの保存ディレクトリの場所指定 (--partial-dir=DIR)。これ"
+#~ "は、転送途中のファイルを保存する --partial オプションよりよい方法です。な"
+#~ "ぜなら、転送途中の転送されたファイルは、違うディレクトリに保持されて、転送"
+#~ "先ファイルは上書きされないからです。"
+
+#~ msgid "The data for the UsePartialDirectory option"
+#~ msgstr "UsePartialDirectory オプション用のデータ"
+
+#~ msgid "Auto-ignore files in the same way CVS does"
+#~ msgstr "CVS がするのと同様に、自動的に無視するファイル"
+
+#~ msgid ""
+#~ "Auto-ignore files in the same way CVS does (-C, --cvs-exclude). This is a "
+#~ "useful shorthand for excluding a broad range of files that you often do "
+#~ "not want to transfer between systems. This option uses the same algorithm "
+#~ "that CVS uses to determine if a file should be ignored."
+#~ msgstr ""
+#~ "自動無視ファイルは、CVS と同じ方法です。(-C, --cvs-exclude)。これは、しば"
+#~ "しばシステムの間で転送したくないファイルの広い範囲でファイルを除くための有"
+#~ "益な表現です。このオプションは、ファイルが無視されるべきであるかどうかを決"
+#~ "定するために、CVS が用いるのと同じアルゴリズムを使います。"
+
+#~ msgid "Exclude files matching this pattern:"
+#~ msgstr "パターンに合うファイルを除外します:"
+
+#~ msgid ""
+#~ "Exclude files that match a certain pattern (--exclude=PATTERN). This is a "
+#~ "special filter rule. For further information on filter rules see rsync's "
+#~ "manual page."
+#~ msgstr ""
+#~ "一定のパターンとマッチしているファイルを除きます (--exclude=PATTERN)。これ"
+#~ "は特別なフィルタ規則です。フィルタ規則の詳細な情報は、rsync のマニュアルの"
+#~ "ページを参照してください。"
+
+#~ msgid "Pattern that is used for file exclusion"
+#~ msgstr "ファイル排除に使用されるパターン"
+
+#~ msgid "Read exclude patterns from:"
+#~ msgstr "除外パターンを読み込みます:"
+
+#~ msgid ""
+#~ "Read exclude patterns from a file (--exclude-from=FILE). This option is "
+#~ "similar to the --exclude=PATTERN option except that the exclude patterns "
+#~ "are read from a file. This is a special filter rule. For further "
+#~ "information on filter rules see rsync's manual page."
+#~ msgstr ""
+#~ "ファイルから除外するパターンを読み込みます (--exclude-from=FILE)。除外パ"
+#~ "ターンがファイルから読まれる以外このオプションは --exclude=PATTERN オプ"
+#~ "ションと同様です。これは特別なフィルタ規則です。フィルタ規則の詳細情報は、"
+#~ "rsync のマニュアルのページを参照してください。"
+
+#~ msgid "The file from which the exclude patterns are read"
+#~ msgstr "排除パターンが読まれるファイル"
+
+#~ msgid "Do not exclude files matching this pattern:"
+#~ msgstr "パターンに合うファイルを除外しません:"
+
+#~ msgid ""
+#~ "Do not exclude files matching a certain pattern (--include=PATTERN). This "
+#~ "is a special filter rule. For further information on filter rules see "
+#~ "rsync's manual page."
+#~ msgstr ""
+#~ "一定のパターンとマッチしているファイルを除外しない (--include=PATTERN)。こ"
+#~ "れは特別なフィルタ規則です。フィルタ規則の詳細情報は、rsync のマニュアルの"
+#~ "ページを参照してください。"
+
+#~ msgid "Pattern that is used for file inclusion"
+#~ msgstr "ファイルの包含に使用されるパターン"
+
+#~ msgid "Read include patterns from:"
+#~ msgstr "包括するパターンを読み込みます:"
+
+#~ msgid ""
+#~ "Read include patterns from a file (--include-from=FILE). This option is "
+#~ "similar to the --include=PATTERN option except that the include patterns "
+#~ "are read from a file. This is a special filter rule. For further "
+#~ "information on filter rules see rsync's manual page."
+#~ msgstr ""
+#~ "ファイルからパターン一致するファイルを除外しません (--include-from=FILE)。"
+#~ "一致するパターンがファイルから読まれる以外このオプションは --"
+#~ "include=PATTERN オプションと同様です。これは特別なフィルタ規則です。フィル"
+#~ "タ規則の詳細情報は、rsync のマニュアルのページを参照してください。"
+
+#~ msgid "The file from which the include patterns are read"
+#~ msgstr "インクルードパターンが読まれるファイル"
+
+#~ msgid "Custom filter rules:"
+#~ msgstr "カスタムフィルタルール:"
+
+#~ msgid ""
+#~ "Add custom file-filtering rules (-f, --filter=RULE). This option allows "
+#~ "you to add rules to selectively exclude certain files from the list of "
+#~ "files to be transferred. These rules will be added to the rsync command "
+#~ "as they are. Thus, each rule has to start with the --filter=... argument."
+#~ msgstr ""
+#~ "カスタムのファイルフィルタ規則を追加します (-f, --filter=RULE)。このオプ"
+#~ "ションは、転送されるファイルのリストから選択的に除外するための規則を追加す"
+#~ "ることを可能にします。これらの規則は rsync コマンドに追加されます。した"
+#~ "がって、個々の規則は --filter=... 引数で始まる必要があります"
+
+#~ msgid "Use --filter='dir-merge /.rsync-filter' filter rule"
+#~ msgstr "使用方法 --filter='dir-merge rsync-filter' フィルタ ルール"
+
+#~ msgid ""
+#~ "This filter rule tells rsync to look for per-directory .rsync-filter "
+#~ "files that have been sprinkled through the hierarchy and use their rules "
+#~ "to filter the files in the transfer. It has no effect, if you also choose "
+#~ "to use the --filter='exclude .rsync-filter' rule."
+#~ msgstr ""
+#~ "このフィルタ規則は rsync に、階層に存在し、転送においてファイルにフィルタ"
+#~ "をか けるための規則を使用するディレクトリ .rsync-filter ファイルを捜すよう"
+#~ "に通知します。もし --filter='exclude .rsync-filter' の規則を使うことを選択"
+#~ "する場合、それは有効ではありません。"
+
+#~ msgid "Use --filter='exclude .rsync-filter' filter rule"
+#~ msgstr "使用方法 --filter='exclude rsync-filter' フィルタ ルール"
+
+#~ msgid ""
+#~ "This rule filters out the .rsync-filter files from the transfer. These "
+#~ "files normally contain filter rules that can be activated by choosing the "
+#~ "--filter='dir-merge /.rsync-filter' rule and deselecting this one."
+#~ msgstr ""
+#~ "この規則は、転送から .rsync-filter ファイルをフィルタリングで取り除きま"
+#~ "す。これらのファイルは、普通、'--filter='dir-merge /.rsync-filter' 規則を"
+#~ "選び、それを選択解除することによって作動できるフィルタ規則を含んでいます。"
+
+#~ msgid "Handle sparse files efficiently"
+#~ msgstr "まばらなファイルを効率的に扱ってください"
+
+#~ msgid ""
+#~ "Handle sparse files efficiently (-S, --sparse) so that they take up less "
+#~ "space on the destination. This option conflicts with --inplace. For "
+#~ "further information read rsync's manual page."
+#~ msgstr ""
+#~ "転送先においてそれらが少ないスペースをとるように、まばらなファイルを効率的"
+#~ "に処理します (-S, --sparse)。このオプションは、--inplace と矛盾していま"
+#~ "す。詳細情報は、rsync のマニュアルのページを参照してください。"
+
+#~ msgid "Copy files whole (no rsync algorithm)"
+#~ msgstr "ファイル全体を複写 (rsync アルゴリズムではありません)"
+
+#~ msgid ""
+#~ "Copy files whole (-W, --whole-file). With this option the incremental "
+#~ "rsync algorithm is not used and the whole file is sent as-is instead."
+#~ msgstr ""
+#~ "すべてのファイルコピーします (-W, --whole-file)。このオプションで、インク"
+#~ "リメンタル rsync アルゴリズムは使われず、代わりに、すべてのファイルは送ら"
+#~ "れたままになります。"
+
+#~ msgid "Do not cross file system boundaries"
+#~ msgstr "ファイルシステムをまたがない"
+
+#~ msgid ""
+#~ "Do not cross file system boundaries (-x, --one-file-system). This tells "
+#~ "rsync to avoid crossing a filesystem boundary when recursing. For further "
+#~ "information on this option, read the manual page."
+#~ msgstr ""
+#~ "ファイルシステム境界を横断しません (-x, --one-file-system)。これは、再帰"
+#~ "時、rsync に、ファイルシステム境界を横切ることを避けるよう通知します。この"
+#~ "オプションの詳細について、マニュアルのページを読んでください。"
+
+#~ msgid "Only update files that already exist"
+#~ msgstr "既に存在するファイルだけ、更新します"
+
+#~ msgid ""
+#~ "Skip creating new files on the receiving side (--existing). This tells "
+#~ "rsync to skip creating files (including directories) that do not exist "
+#~ "yet on the destination. If this option is combined with the --ignore-"
+#~ "existing option, no files will be updated (which can be useful if all you "
+#~ "want to do is to delete extraneous files)."
+#~ msgstr ""
+#~ "転送先の新しいファイルを作成することをスキップします (--existing)。これ"
+#~ "は、rsync に、転送先でまだ存在しないファイル (ディレクトリを含みます) の作"
+#~ "成をスキップするように通知します。もしこのオプションが --ignore-existing "
+#~ "オプションと組み合わされるとき、ファイルは全然アップデートされません。(も"
+#~ "し、行いたいことが無関係なファイルを削除することであるならば、有効かもしれ"
+#~ "ませんが)"
+
+#~ msgid "Ignore files that already exist"
+#~ msgstr "既に存在するファイルを無視します"
+
+#~ msgid ""
+#~ "Skip updating files that already exist on the receiving side (--ignore-"
+#~ "existing). Existing directories are not ignored."
+#~ msgstr ""
+#~ "転送先で既に存在するファイルのアップデートを行いません (--ignore-"
+#~ "existing)。既存のディレクトリは無視されません。"
+
+#~ msgid "Delay updates until the end of transfer"
+#~ msgstr "転送終了まで、アップデートを遅延します "
+
+#~ msgid ""
+#~ "Delay updates until the end of the transfer (--delay-updates). This "
+#~ "option puts the temporary file from each updated file into a holding "
+#~ "directory until the end of the transfer, at which time all the files are "
+#~ "renamed and copied into place in rapid succession."
+#~ msgstr ""
+#~ "転送の終わりまで遅延アップデートします (--delay-updates)。このオプション"
+#~ "は、転送が終了するまで、保持ディレクトリに各々のアップデートファイルが一時"
+#~ "ファイルとして置かれます。すべての一時ファイルは、ファイル名が変わり、転送"
+#~ "が完了するまでその場所に転送されます。"
+
+#~ msgid "Make backups"
+#~ msgstr "バックアップ作成"
+
+#~ msgid ""
+#~ "Make backups (-b, --backup). With this option, preexisting destination "
+#~ "files are renamed as each file is transferred or deleted. You can control "
+#~ "where the backup file goes and what (if any) suffix gets appended using "
+#~ "the --backup-dir=DIR and --suffix=SUFFIX options."
+#~ msgstr ""
+#~ "バックアップをします (-b, --backup)。このオプションで、転送時または削除時"
+#~ "に、存在する転送のファイルは、新しく名前をつけられます。バックアップファイ"
+#~ "ル転送時、、バックアップの場所 --backup-dir=DIR オプションや、接尾辞の指"
+#~ "定 --suffix=SUFFIX オプションを使ってコントロールできます。"
+
+#~ msgid "Backup suffix:"
+#~ msgstr "バックアップ拡張子:"
+
+#~ msgid "Use this suffix for backups (--suffix=SUFFIX)."
+#~ msgstr "この拡張子をバックアップに使用します (--suffix=SUFFIX)."
+
+#~ msgid "Backup suffix"
+#~ msgstr "バックアップ拡張子"
+
+#~ msgid "Backup directory:"
+#~ msgstr "バックアップ・ディレクトリ:"
+
+#~ msgid "Store backups in this directory (--backup-dir=DIR)."
+#~ msgstr "このディレクトリにバックアップを格納します (--backup-dir=DIR)."
+
+#~ msgid "Backup directory"
+#~ msgstr "バックアップ・ディレクトリ"
+
+#~ msgid "Force fixed checksum block size:"
+#~ msgstr "チェックサムブロック・サイズを固定しました:"
+
+#~ msgid ""
+#~ "Force a fixed checksum block-size (-B, --block-size=SIZE). This forces "
+#~ "the block size used in the rsync algorithm to a fixed value."
+#~ msgstr ""
+#~ "チェックサムブロックサイズを強制します (-B, --block-size=SIZE)。これは、"
+#~ "rsync アルゴリズムにおいて、固定した値を使用したブロックサイズを強制しま"
+#~ "す。"
+
+#~ msgid "The block size"
+#~ msgstr "ブロックサイズ"
+
+#~ msgid "Set block/file checksum seed:"
+#~ msgstr "ブロック/ファイル チェックサム 設定:"
+
+#~ msgid ""
+#~ "Set block/file checksum seed (--checksum-seed=NUM). Set the MD4 checksum "
+#~ "seed to this integer. This 4 byte checksum seed is included in each block "
+#~ "and file MD4 checksum calculation. By default the checksum seed is "
+#~ "generated by the server and defaults to the current time."
+#~ msgstr ""
+#~ "ブロック/ファイルのチェックサムの種を設定します (--checksum-seed=NUM)。"
+#~ "MD4 チェックサム種は、整数に設定してください。この4バイトチェックサムの種"
+#~ "は、各々のブロックとファイル MD4 チェックサム計算に用いられます。デフォル"
+#~ "トのチェックサムの種は、サーバとデフォルトでは現在時間によって作成されま"
+#~ "す。"
+
+#~ msgid "The checksum seed"
+#~ msgstr "チェックサムのたね"
+
+#~ msgid "Skip files based on checksum"
+#~ msgstr "チェックサムに基づいて、ファイルをスキップ"
+
+#~ msgid ""
+#~ "Skip files based on a checksum and not based on modification time and "
+#~ "size (-c, --checksum). For further information on how this feature works "
+#~ "read rsync's manual page."
+#~ msgstr ""
+#~ "チェックサムが正しいか正しくないかで、ファイルはスキップします。ファイルの"
+#~ "修正時間やファイルサイズに基づいスキップはしません。どのように、この機能が"
+#~ "動作するかは、rsync のマニュアルのページを参照してください。"
+
+#~ msgid "Unmount all shares when the sleep button is pressed"
+#~ msgstr "スリープボタンが押されたときすべての共有をアンマウント"
+
+#~ msgid "Unmount all shares when the lid is closed"
+#~ msgstr "ラップトップを閉じるときに、すべてのユーザの共有をアンマウントする"
+
+#, fuzzy
+#~| msgid "Unmount all shares when the sleep button is pressed"
+#~ msgid "Unmount all shares when the power button is pressed"
+#~ msgstr "スリープボタンが押されたときすべての共有をアンマウント"
+
+#, fuzzy
+#~| msgid "Unmount all shares when the lid is closed"
+#~ msgid "Unmount all shares when the network is disconnected"
+#~ msgstr "ラップトップを閉じるときに、すべてのユーザの共有をアンマウントする"
+
+#~ msgid "Add Bookmarks"
+#~ msgstr "ブックマークを追加(&B)"
+
+#, fuzzy
+#~| msgid "Bookmarks"
+#~ msgid "Clear Bookmarks"
+#~ msgstr "ブックマーク"
+
+#, fuzzy
+#~| msgid "SMB Port"
+#~ msgid "SMB Port:"
+#~ msgstr "SMB ポート"
+
+#~ msgid "%1 is not a version 1.0 file."
+#~ msgstr "%1 は、バージョン 1.0 のファイルではありません"
+
+#, fuzzy
+#~| msgid "Mount Share"
+#~ msgid "Foreign Share"
+#~ msgstr "共有をマウント"
+
+#, fuzzy
+#~| msgid "Unmounting share %1..."
+#~ msgid "Remounting shares. Please wait."
+#~ msgstr "共有「%1」をマウント解除中..."
+
+#, fuzzy
+#~| msgid "Unmounting share %1..."
+#~ msgid "Unmounting shares. Please wait."
+#~ msgstr "共有「%1」をマウント解除中..."
+
+#~ msgid "Mount Share"
+#~ msgstr "共有をマウント"
+
+#~ msgid ""
+#~ "The Uniform Naming Convention (UNC) address describes the location of the "
+#~ "share. It has the following syntax: //[USER@]HOST/SHARE. The username is "
+#~ "optional."
+#~ msgstr ""
+#~ "Uniform Naming Convention (UNC) アドレスは共有のアドレスを記述します。//"
+#~ "[ユーザ名@]ホスト名/共有名 の形式でなければなりません。ユーザ名はオプショ"
+#~ "ンです。"
+
+#~ msgid "Add this share to the bookmarks"
+#~ msgstr "この共有をブックマークへ追加"
+
+#, fuzzy
+#~| msgid "The share could not be unmounted."
+#~ msgid "<p>The share <b>%1</b> has been mounted to <b>%2</b>.</p>"
+#~ msgstr "共有表示が作成できません"
+
+#, fuzzy
+#~| msgid "On"
+#~ msgid "Open"
+#~ msgstr "オン"
+
+#, fuzzy
+#~| msgid "The share could not be unmounted."
+#~ msgid "<p>The share <b>%1</b> has been unmounted from <b>%2</b>.</p>"
+#~ msgstr "共有表示が作成できません"
+
+#, fuzzy
+#~| msgid "The share could not be unmounted."
+#~ msgid "<p>%1 share out of %2 has been mounted.</p>"
+#~ msgid_plural "<p>%1 shares out of %2 have been mounted.</p>"
+#~ msgstr[0] "共有表示が作成できません"
+
+#, fuzzy
+#~| msgid "The share could not be unmounted."
+#~ msgid "<p>All shares have been mounted.</p>"
+#~ msgstr "共有表示が作成できません"
+
+#, fuzzy
+#~| msgid "The share could not be unmounted."
+#~ msgid "<p>%1 share out of %2 has been unmounted.</p>"
+#~ msgid_plural "<p>%1 shares out of %2 have been unmounted.</p>"
+#~ msgstr[0] "共有表示が作成できません"
+
+#, fuzzy
+#~| msgid "The share could not be unmounted."
+#~ msgid "<p>All shares have been unmounted.</p>"
+#~ msgstr "共有表示が作成できません"
+
+#, fuzzy
+#~| msgid "Mounting %1 failed."
+#~ msgid "<p>Opening the wallet <b>%1</b> failed.</p>"
+#~ msgstr "%1 のマウントに失敗しました。"
+
+#, fuzzy
+#~| msgid ""
+#~| "<qt>The mimetype \"%1\" is not supported. Please convert the file to "
+#~| "PostScript or PDF.</qt>"
+#~ msgid ""
+#~ "<p>The mimetype <b>%1</b> is not supported for printing. Please convert "
+#~ "the file to PDF or Postscript and try again.</p>"
+#~ msgstr ""
+#~ "<qt>MIME タイプ「%1」はサポートしていません。ファイルをポストスクリプトま"
+#~ "たは PDF に変換してください。</qt>"
+
+#, fuzzy
+#~| msgid "Retrieving preview from %1..."
+#~ msgid ""
+#~ "<p>Retrieving the list of available domains failed:</p><p><tt>%1</tt></p>"
+#~ msgstr "%1 からプレビューを取得中..."
+
+#, fuzzy
+#~| msgid "Retrieving preview from %1..."
+#~ msgid "<p>Retrieving the list of available domains failed.</p>"
+#~ msgstr "%1 からプレビューを取得中..."
+
+#, fuzzy
+#~| msgid "Scan these broadcast areas:"
+#~ msgid ""
+#~ "<p>Scanning the defined broadcast area(s) failed:</p><p><tt>%1</tt></p>"
+#~ msgstr "これらのブロードキャストの範囲を検索:"
+
+#, fuzzy
+#~| msgid "Scan these broadcast areas:"
+#~ msgid "<p>Scanning the defined broadcast area(s) failed.</p>"
+#~ msgstr "これらのブロードキャストの範囲を検索:"
+
+#, fuzzy
+#~| msgid "Retrieving preview from %1..."
+#~ msgid ""
+#~ "<p>Retrieving the list of servers belonging to domain <b>%1</b> failed.</"
+#~ "p><p><tt>%2</tt></p>"
+#~ msgstr "%1 からプレビューを取得中..."
+
+#, fuzzy
+#~| msgid "Retrieving preview from %1..."
+#~ msgid ""
+#~ "<p>Retrieving the list of servers belonging to domain <b>%1</b> failed.</"
+#~ "p>"
+#~ msgstr "%1 からプレビューを取得中..."
+
+#, fuzzy
+#~| msgid "Retrieving preview from %1..."
+#~ msgid ""
+#~ "<p>Retrieving the list of shares from <b>%1</b> failed:</p><p><tt>%2</"
+#~ "tt></p>"
+#~ msgstr "%1 からプレビューを取得中..."
+
+#, fuzzy
+#~| msgid "Retrieving preview from %1..."
+#~ msgid "<p>Retrieving the list of shares from <b>%1</b> failed.</p>"
+#~ msgstr "%1 からプレビューを取得中..."
+
+#, fuzzy
+#~| msgid "Retrieving preview from %1..."
+#~ msgid "<p>Retrieving the preview of <b>%1</b> failed:</p><p><tt>%2</tt></p>"
+#~ msgstr "%1 からプレビューを取得中..."
+
+#, fuzzy
+#~| msgid "Retrieving preview from %1..."
+#~ msgid "<p>Retrieving the preview of <b>%1</b> failed.</p>"
+#~ msgstr "%1 からプレビューを取得中..."
+
+#, fuzzy
+#~| msgid "Mounting %1 failed."
+#~ msgid "<p>Mounting the share <b>%1</b> failed:</p><p><tt>%2</tt></p>"
+#~ msgstr "%1 のマウントに失敗しました。"
+
+#, fuzzy
+#~| msgid "Mounting %1 failed."
+#~ msgid "<p>Mounting the share <b>%1</b> failed.</p>"
+#~ msgstr "%1 のマウントに失敗しました。"
+
+#, fuzzy
+#~| msgid "Mounting %1 failed."
+#~ msgid ""
+#~ "<p>Unmounting the share <b>%1</b> from <b>%2</b> failed:</p><p><tt>%3</"
+#~ "tt></p>"
+#~ msgstr "%1 のマウントに失敗しました。"
+
+#, fuzzy
+#~| msgid "Mounting %1 failed."
+#~ msgid "<p>Unmounting the share <b>%1</b> from <b>%2</b> failed.</p>"
+#~ msgstr "%1 のマウントに失敗しました。"
+
+#, fuzzy
+#~| msgid ""
+#~| "<qt>You are not allowed to unmount this share. It is owned by another "
+#~| "user.</qt>"
+#~ msgid ""
+#~ "<p>You are not allowed to unmount the share <b>%1</b> from <b>%2</b>. It "
+#~ "is owned by the user <b>%3</b>.</p>"
+#~ msgstr ""
+#~ "<qt>別のユーザが所有者のため、あなたはこの共有のアンマウントを認められませ"
+#~ "ん</qt>"
+
+#, fuzzy
+#~| msgid "Mounting %1 failed."
+#~ msgid "<p>Printing on printer <b>%1</b> failed:</p><p><tt>%2</tt></p>"
+#~ msgstr "%1 のマウントに失敗しました。"
+
+#, fuzzy
+#~| msgid "Mounting %1 failed."
+#~ msgid "<p>Printing on printer <b>%1</b> failed.</p>"
+#~ msgstr "%1 のマウントに失敗しました。"
+
+#, fuzzy
+#~| msgid "Mounting %1 failed."
+#~ msgid ""
+#~ "<p>Synchronizing <b>%1</b> with <b>%2</b> failed:</p><p><tt>%3</tt></p>"
+#~ msgstr "%1 のマウントに失敗しました。"
+
+#, fuzzy
+#~| msgid "Mounting %1 failed."
+#~ msgid "<p>Synchronizing <b>%1</b> with <b>%2</b> failed.</p>"
+#~ msgstr "%1 のマウントに失敗しました。"
+
+#, fuzzy
+#~| msgid "Retrieving preview from %1..."
+#~ msgid ""
+#~ "<p>Searching the network neighborhood for the search item <b>%1</b> "
+#~ "failed:</p><p><tt>%2</tt></p>"
+#~ msgstr "%1 からプレビューを取得中..."
+
+#, fuzzy
+#~| msgid "Retrieving preview from %1..."
+#~ msgid ""
+#~ "<p>Searching the network neighborhood for the search item <b>%1</b> "
+#~ "failed.</p>"
+#~ msgstr "%1 からプレビューを取得中..."
+
+#, fuzzy
+#~| msgid "<qt>The command \"%1\" could not be found.</qt>"
+#~ msgid ""
+#~ "<p>The command <b>%1</b> could not be found. Please check your "
+#~ "installation.</p>"
+#~ msgstr "<qt>コマンド \"%1\" は、見つかりません</qt>"
+
+#, fuzzy
+#~| msgid "<qt>Printers cannot be bookmarked.</qt>"
+#~ msgid "<p>The share <b>%1</b> is a printer and cannot be bookmarked.</p>"
+#~ msgstr "<qt>プリンタはブックマークを付けることができません</qt>"
+
+#, fuzzy
+#~| msgid "<qt>The command \"%1\" could not be found.</qt>"
+#~ msgid "<p>The file <b>%1</b> could not be found.</p>"
+#~ msgstr "<qt>コマンド \"%1\" は、見つかりません</qt>"
+
+#, fuzzy
+#~| msgid "Mounting %1 failed."
+#~ msgid "<p>Opening the file <b>%1</b> failed:</p><p><tt>%2</tt></p>"
+#~ msgstr "%1 のマウントに失敗しました。"
+
+#, fuzzy
+#~| msgid "Mounting %1 failed."
+#~ msgid "<p>Opening the file <b>%1</b> failed.</p>"
+#~ msgstr "%1 のマウントに失敗しました。"
+
+#, fuzzy
+#~| msgid "Mounting %1 failed."
+#~ msgid "<p>Reading from file <b>%1</b> failed:</p><p><tt>%2</tt></p>"
+#~ msgstr "%1 のマウントに失敗しました。"
+
+#, fuzzy
+#~| msgid "Mounting %1 failed."
+#~ msgid "<p>Reading from file <b>%1</b> failed.</p>"
+#~ msgstr "%1 のマウントに失敗しました。"
+
+#, fuzzy
+#~| msgid "One or more utility programs could not be found."
+#~ msgid ""
+#~ "<p>The following directory could not be created:</p><p><tt>%1</tt></p>"
+#~ msgstr ""
+#~ "いくつかのユーティリティプログラムを見つけることができませんでした。"
+
+#, fuzzy
+#~| msgid "<qt>The process failed to start (error code: %1).</qt>"
+#~ msgid "<p>The process failed to start (error code: <tt>%1</tt>).</p>"
+#~ msgstr "<qt>プロセスの起動に失敗しました。(エラーコード: %1)</qt>"
+
+#, fuzzy
+#~| msgid "<qt>The process crashed (error code: %1).</qt>"
+#~ msgid "<p>The process crashed (error code: <tt>%1</tt>).</p>"
+#~ msgstr "<qt>プロセスがクラッシュしました。(エラーコード: %1)</qt>"
+
+#, fuzzy
+#~| msgid "<qt>The process timed out (error code: %1).</qt>"
+#~ msgid "<p>The process timed out (error code: <tt>%1</tt>).</p>"
+#~ msgstr "<qt>プロセスがタイムアウトしました。(エラーコード: %1)</qt>"
+
+#, fuzzy
+#~| msgid "<qt>Could not write to the process (error code: %1).</qt>"
+#~ msgid "<p>Could not write to the process (error code: <tt>%1</tt>).</p>"
+#~ msgstr "<qt>プロセスへ書き込みができませんでした。(エラーコード: %1)</qt>"
+
+#, fuzzy
+#~| msgid "<qt>Could not read from the process (error code: %1).</qt>"
+#~ msgid "<p>Could not read from the process (error code: <tt>%1</tt>).</p>"
+#~ msgstr "<qt>プロセスから読み込みができませんでした。(エラーコード: %1)</qt>"
+
+#, fuzzy
+#~| msgid "<qt>The process reported an unknown error.</qt>"
+#~ msgid "<p>The process reported an unknown error.</p>"
+#~ msgstr "<qt>プロセスは、未知のエラーを報告しました</qt>"
+
+#, fuzzy
+#~| msgid "Mounting %1 failed."
+#~ msgid "<p>The system call <b>%1</b> failed:</p><p><tt>%2</tt></p>"
+#~ msgstr "%1 のマウントに失敗しました。"
+
+#, fuzzy
+#~| msgid "The permission was denied. "
+#~ msgid ""
+#~ "<p>Executing an action with root privileges failed (error code:<tt>%1</"
+#~ "tt>).</p>"
+#~ msgstr "パーミッションは、拒否されました "
+
+#, fuzzy
+#~| msgid "Retrieving preview from %1..."
+#~ msgid "<p>Executing an action with root privileges failed.</p>"
+#~ msgstr "%1 からプレビューを取得中..."
+
+#, fuzzy
+#~| msgid "There are currently no shares mounted."
+#~ msgid "<p>There are no broadcast areas defined.</p>"
+#~ msgstr "マウントされている共有はありません。"
+
+#~ msgid "Back"
+#~ msgstr "後"
+
+#~ msgid "Forward"
+#~ msgstr "前"
+
+#~ msgid "Disk"
+#~ msgstr "ディスク"
+
+#, fuzzy
+#~| msgid "Synchronizing %1"
+#~ msgid "Synchronizing"
+#~ msgstr "%1 を同期中"
+
+#, fuzzy
+#~| msgid "Source:"
+#~ msgid "Source"
+#~ msgstr "元:"
+
+#, fuzzy
+#~| msgid "Destination:"
+#~ msgid "Destination"
+#~ msgstr "行き先:"
+
+#~ msgid "Synchronize the destination with the source"
+#~ msgstr "送り先とソースと同期します"
+
+#~ msgid "Swap source and destination"
+#~ msgstr "スワップ元とスワップ先"
+
+#~ msgid ""
+#~ "This is the source directory. The data that it contains is to be written "
+#~ "to the destination directory."
+#~ msgstr ""
+#~ "これはソースディレクトリです。データが含まれるところが、目的のディレクトリ"
+#~ "です。"
+
+#~ msgid ""
+#~ "This is the destination directory. It will be updated with the data from "
+#~ "the source directory."
+#~ msgstr ""
+#~ "これは行き先のディレクトリです。ソースディレクトリのファイルで更新されま"
+#~ "す。"
+
+#, fuzzy
+#~| msgid "U&nmount All"
+#~ msgid "Unmount All"
+#~ msgstr "すべてアンマウント(&N)"
+
+#~ msgid "Hardware"
+#~ msgstr "ハードウェア"
+
+#, fuzzy
+#~| msgid "Unmounting share %1..."
+#~ msgid "Retrying to mount shares. Please wait."
+#~ msgstr "共有「%1」をマウント解除中..."
+
+#, fuzzy
+#~| msgid "Security mode:"
+#~ msgid "Use default security mode"
+#~ msgstr "セキュリティモード"
+
+#~ msgid "Mount"
+#~ msgstr "マウント"
+
+#, fuzzy
+#~| msgid "<qt>Do you really want to force the unmounting of this share?</qt>"
+#~ msgid ""
+#~ "<qt><p>Do you really want to force the unmounting of the share <b>%1</b> "
+#~ "from <b>%2</b>?</p></qt>"
+#~ msgstr "<qt>本当にこの共有を強制アンマウントしますか？</qt>"
+
+#, fuzzy
+#~| msgid "&Force Unmounting"
+#~ msgid "Force Unmounting"
+#~ msgstr "強制アンマウント(&F)"
+
+#, fuzzy
+#~| msgid "<qt>Do you really want to force the unmounting of this share?</qt>"
+#~ msgid ""
+#~ "<qt><p>Do you really want to force the unmounting of all inaccessible "
+#~ "shares?</p></qt>"
+#~ msgstr "<qt>本当にこの共有を強制アンマウントしますか？</qt>"
+
+#~ msgid "Advanced"
+#~ msgstr "アドバンス"
+
+#, fuzzy
+#~| msgid ""
+#~| "\\u00A9 2003-2009 Alexander Reinholdt\n"
+#~| "\\u00A9 2004-2007 Massimo Callegari"
+#~ msgid ""
+#~ "\\u00A9 2003-2011 Alexander Reinholdt\n"
+#~ "\\u00A9 2004-2007 Massimo Callegari"
+#~ msgstr ""
+#~ "\\u00A9 2003-2009 Alexander Reinholdt\n"
+#~ "\\u00A9 2004-2007 Massimo Callegari"
+
+#~ msgid "&Force Unmounting"
+#~ msgstr "強制アンマウント(&F)"
+
+#~ msgid "<qt>Please enter a username and a password.</qt>"
+#~ msgstr "<qt>ユーザ名とパスワードを入力してください。</qt>"
+
+#~ msgid "Signing State"
+#~ msgstr "署名の状況"
+
+#~ msgid "UNC Address"
+#~ msgstr "UNC アドレス"
+
+#~ msgid "Write Access"
+#~ msgstr "書き込みアクセス"
+
+#~ msgid "Kerberos"
+#~ msgstr "Kerberos"
+
+#~ msgid "User ID"
+#~ msgstr "ユーザ ID"
+
+#~ msgid "Group ID"
+#~ msgstr "グループ ID"
+
+#~ msgid "SMB Port"
+#~ msgstr "SMB ポート"
+
+#~ msgid "File System Port"
+#~ msgstr "ファイルシステムポート"
+
+#~ msgid "Automatic"
+#~ msgstr "自動"
+
+#~ msgid "Massimo Callegari"
+#~ msgstr "Massimo Callegari"
+
+#~ msgid "automatic"
+#~ msgstr "自動"
+
+#~ msgid "M&ount Manually"
+#~ msgstr "手動でマウント(&O)"
+
+#~ msgid ""
+#~ "<qt>The format of the UNC address you entered is not correct. It must "
+#~ "have the form //[USER@]HOST/SHARE."
+#~ msgstr ""
+#~ "<qt>入力した UNC アドレスのフォーマットが間違っています。 //[ユーザ名@]ホ"
+#~ "スト名/共有名 の形式でなければなりません。"
+
+#, fuzzy
+#~| msgid "Printer"
+#~ msgid "Printing"
+#~ msgstr "プリンタ"
+
+#, fuzzy
+#~| msgid "Print File"
+#~ msgid "Input File"
+#~ msgstr "ファイルを印刷"
+
+#~ msgid "Share"
+#~ msgstr "共有:"
+
+#~ msgid "The file is invalid."
+#~ msgstr "不正なファイルです。"
+
+#~ msgid ""
+#~ "This is the path where Smb4K will store the files and directories during "
+#~ "synchronization. If you plan to synchronize only with one remote share, "
+#~ "then you can put the data directly in this directory. If you want to "
+#~ "synchronize with several remote shares, then you should create a "
+#~ "subdirectory for each share and choose the appropriate one in the "
+#~ "synchronization dialog."
+#~ msgstr ""
+#~ "これは、Smb4K が同期中にファイルとディレクトリを保存するパスです。一つのリ"
+#~ "モート共有のみで同期することを計画すれば、このディレクトリにデータを直接入"
+#~ "れることができます。いくつかのリモート共有で同期したければ、各共有のサブ"
+#~ "ディレクトリを作成し、同期ダイアログで適切なものを選択します"
+
+#~ msgid "Files transferred:"
+#~ msgstr "ファイル転送済み:"
+
+#~ msgid "Transfer rate:"
+#~ msgstr "転送レート:"
+
+#, fuzzy
+#~| msgid "Actions"
+#~ msgid "NoSuchAction"
+#~ msgstr "動作"
+
+#, fuzzy
+#~| msgid "The permission was denied. "
+#~ msgid ""
+#~ "<p>The execution of the unmount action failed (error code: <tt>%1</tt>).</"
+#~ "p>"
+#~ msgstr "パーミッションは、拒否されました "
+
+#, fuzzy
+#~| msgid "The permission was denied. "
+#~ msgid "The authentication action was denied."
+#~ msgstr "パーミッションは、拒否されました "
+
+#, fuzzy
+#~| msgid "The permission was denied. "
+#~ msgid "The authentication was denied."
+#~ msgstr "パーミッションは、拒否されました "
+
+#, fuzzy
+#~| msgid "<qt>The directory \"%1\" could not be created.</qt>"
+#~ msgid "The directory <b>%1</b> could not be created."
+#~ msgstr "<qt>ディレクトリ \"%1\" は作成できません</qt>"
+
+#, fuzzy
+#~| msgid "Links"
+#~ msgid "List"
+#~ msgstr "リンク"
+
+#~ msgid "\\u00A9 2007-2009, Alexander Reinholdt"
+#~ msgstr "\\u00A9 2007-2009, Alexander Reinholdt"
+
+#~ msgid "Share:"
+#~ msgstr "共有:"
+
+#~ msgid "Free:"
+#~ msgstr "未使用:"
+
+#~ msgid "Used:"
+#~ msgstr "使用:"
+
+#~ msgid "Total:"
+#~ msgstr "合計:"
+
+#~ msgid "Usage:"
+#~ msgstr "使用法:"
+
+#~ msgid "This share is inaccessible."
+#~ msgstr "この共有は、アクセスできない"
+
+#~ msgid "Pseudo master browser:"
+#~ msgstr "疑似マスターブラウザー:"
+
+#, fuzzy
+#~| msgid "Italian translation"
+#~ msgid "Invalid action"
+#~ msgstr "イタリア語の翻訳"
+
+#~ msgid ""
+#~ "<qt>If you experience problems due to insufficient privileges when "
+#~ "mounting shares, you should enable the appropriate settings in the "
+#~ "<b>Super User</b> configuration page.</qt>"
+#~ msgstr ""
+#~ "<qt>もし不十分な特権が理由で、共有をマウントする時に問題を経験するならば、"
+#~ "<b>スーパーユーザ</b>コンフィギュレーションページの適切な設定を見直すべき"
+#~ "です</qt>"
+
+#~ msgid "Smb4KSearchDialogPart"
+#~ msgstr "Smb4KSearchDialogPart"
+
+#~ msgid "The search dialog KPart of Smb4K"
+#~ msgstr "Smb4K の検索ダイアログ KPart"
+
+#~ msgid ""
+#~ "Unmount a share under Linux by force. This even works if the file system "
+#~ "is \"busy\", because it is immediately detached from the file system "
+#~ "hierarchy and all references to it are cleaned up later when it is not "
+#~ "busy anymore. Linux kernel 2.4.11 or later is needed to take advantage of "
+#~ "this feature. Use with care. Note, that you will need the root password "
+#~ "to write the necessary changes to the configuration file."
+#~ msgstr ""
+#~ "Linux 上で、共有を強制的にアンマウントします。ファイルシステムがビジーの"
+#~ "場 合、直ちにファイルシステムの階層から外され、全ての参照がビジーでない状"
+#~ "態に なったとき、クリアーされます。この機能を利用するためには、 Linuxカー"
+#~ "ネル 2.4.11以降が必要です。状況によって使用してください！ 注意、設定ファイ"
+#~ "ルを変更 するために必要な書き込み権限を持ったルートのパスワードが必要で"
+#~ "す。"
+
+#~ msgid "Use super user privileges to mount and unmount shares"
+#~ msgstr ""
+#~ "共有をマウント、アンマウントするために、スーパーユーザ特権を使用します"
+
+#~ msgid ""
+#~ "Use super user privileges for mounting and unmounting remote shares. This "
+#~ "feature is only needed, if you are not allowed to do this as normal user. "
+#~ "Note, that you will need the root password to write the necessary changes "
+#~ "to the configuration file."
+#~ msgstr ""
+#~ "遠隔共有のマウント、アンマウントをスーパーユーザ権限で、使用します。あなた"
+#~ "が通常ユーザとして これを認められていない場合この機能が必要です。 注意、設"
+#~ "定ファイルへ必要な変更を書き込むためにルートパスワードが必要になります。"
+
+#, fuzzy
+#~| msgid "Remove entries from the configuration file"
+#~ msgid "Do not modify sudo's configuration file"
+#~ msgstr "設定ファイルからエントリを削除します"
+
+#, fuzzy
+#~| msgid "Mounting %1 failed."
+#~ msgid "Writing to the <b>sudoers</b> file failed."
+#~ msgstr "%1 のマウントに失敗しました。"
+
+#~ msgid "Remove Entries"
+#~ msgstr "エントリを削除"
+
+#~ msgid "Remove entries from the configuration file"
+#~ msgstr "設定ファイルからエントリを削除します"
+
+#~ msgid ""
+#~ "All entries that were written by Smb4K will be removed from /etc/sudoers. "
+#~ "Additionally, all your choices under \"Actions\" will be cleared."
+#~ msgstr ""
+#~ "Smb4K が書き込んだすべてのエントリは、/etc/sudoers から削除されるでしょ"
+#~ "う。また、「アクション」で選択したものが解除されます。"
+
+#, fuzzy
+#~| msgid "(c) 2008, Alexander Reinholdt"
+#~ msgid "(C) 2010, Alexander Reinholdt"
+#~ msgstr "(c) 2008, Alexander Reinholdt"
+
+#, fuzzy
+#~| msgid "A custom master browser that is to be queried"
+#~ msgid "The PID of the process that is to be killed"
+#~ msgstr "問い合わせることになっているカスタムマスターブラウザ"
+
+#~ msgid "Aborting."
+#~ msgstr "中断中"
+
+#, fuzzy
+#~| msgid "<qt>The process crashed (error code: %1).</qt>"
+#~ msgid "The internal process crashed with exit code "
+#~ msgstr "<qt>プロセスがクラッシュしました。(エラーコード: %1)</qt>"
+
+#, fuzzy
+#~| msgid "An authentication error occurred. "
+#~ msgid "An error occurred:"
+#~ msgstr "認証エエラーが生じました "
+
+#, fuzzy
+#~| msgid "smb4k_sudowriter"
+#~ msgid "smb4k_mount"
+#~ msgstr "smb4k_sudowriter"
+
+#, fuzzy
+#~| msgid "Try to authenticate with Kerberos"
+#~ msgid "Username to authenticate with"
+#~ msgstr "Kerberos で認証を試みます"
+
+#, fuzzy
+#~| msgid "Show the type of the share"
+#~ msgid "The UNC of the remote share"
+#~ msgstr "共有のタイプ表示"
+
+#, fuzzy
+#~| msgid "Show the mount point instead of the share name"
+#~ msgid "The mountpoint for the remote share"
+#~ msgstr "共有名の代わりにマウントポイントを表示"
+
+#~ msgid "This program writes to the sudoers file."
+#~ msgstr "このプログラムは sudoers ファイルへ書き込みます。"
+
+#, fuzzy
+#~| msgid "(c) 2008, Alexander Reinholdt"
+#~ msgid "(C) 2008-2010, Alexander Reinholdt"
+#~ msgstr "(c) 2008, Alexander Reinholdt"
+
+#~ msgid "smb4k_sudowriter"
+#~ msgstr "smb4k_sudowriter"
+
+#~ msgid "Add an user to the sudoers file"
+#~ msgstr "ユーザを sudoers ファイルに追加します"
+
+#~ msgid "Remove an user from the sudoers file"
+#~ msgstr "ユーザを sudoers ファイルから削除します"
+
+#, fuzzy
+#~| msgid "No arguments given."
+#~ msgid "No valid arguments provided."
+#~ msgstr "引数が与えられていません。"
+
+#~ msgid "The lock file could not be created."
+#~ msgstr "ロックファイルは作成できませんでした"
+
+#, fuzzy
+#~| msgid "The sudoers file was not found."
+#~ msgid "The sudoers file is currently being edited."
+#~ msgstr "sudoers ファイルを見つけることができませんでした。"
+
+#~ msgid "An invalid username has been provided."
+#~ msgstr "無効なユーザ名が入力されました"
+
+#~ msgid "The sudoers file was not found."
+#~ msgstr "sudoers ファイルを見つけることができませんでした。"
+
+#~ msgid "The sudoers file is irregular."
+#~ msgstr "sudoers ファイルが不正です。"
+
+#~ msgid "Cannot access sudoers file."
+#~ msgstr "sudoers ファイルをアクセスできません。"
+
+#, fuzzy
+#~| msgid "Cannot access sudoers file."
+#~ msgid "Could not read from sudoers file."
+#~ msgstr "sudoers ファイルをアクセスできません。"
+
+#, fuzzy
+#~| msgid "Cannot access sudoers file."
+#~ msgid "Could not set file permissions for sudoers file."
+#~ msgstr "sudoers ファイルをアクセスできません。"
+
+#, fuzzy
+#~| msgid "Cannot access sudoers file."
+#~ msgid "Could not compile Smb4K section for sudoers file."
+#~ msgstr "sudoers ファイルをアクセスできません。"
+
+#, fuzzy
+#~| msgid "Cannot access sudoers file."
+#~ msgid "Could not write to sudoers file."
+#~ msgstr "sudoers ファイルをアクセスできません。"
+
+#, fuzzy
+#~| msgid "smb4k_sudowriter"
+#~ msgid "smb4k_umount"
+#~ msgstr "smb4k_sudowriter"
+
+#~ msgid ""
+#~ "<qt><p>The name of your computer could not be determined by using the "
+#~ "gethostname() system call.</p><p>Detailed information cannot be provided "
+#~ "because there was no error message.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>システムコールの gethostname 関数を使って、あなたのコンピュータ名を"
+#~ "断定できませんでした</p><p>エラーメッセージがないので、詳細な情報を提供で"
+#~ "きません</p></qt>"
+
+#~ msgid ""
+#~ "<qt><p>The name of your computer could not be determined by using the "
+#~ "gethostname() system call.</p><p>Read the error message under \"Details\" "
+#~ "to find out more.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>システムコールの gethostname 関数を使って、あなたのコンピュータ名を"
+#~ "断定できませんでした</p><p>\"詳細\"でさらに詳しい情報を見つけるためにエ"
+#~ "ラーメッセージを読んでください</p></qt>"
+
+#~ msgid "<qt>This feature has not been enabled.</qt>"
+#~ msgstr "<qt>この機能は有効になっていません</qt>"
+
+#~ msgid ""
+#~ "<qt><p>An error occurred while parsing the XML file \"%1\".</"
+#~ "p><p>Detailed information cannot be provided because there was no error "
+#~ "message.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>XML ファイル「%1」の構文解析中エラーが起こりました。</p><p>エラー"
+#~ "メッセージがなかったので、詳細な情報を提供することができません</p></qt>"
+
+#~ msgid ""
+#~ "<qt><p>An error occurred while parsing the XML file \"%1\".</p><p>Read "
+#~ "the error message under \"Details\" to find out more.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>XML ファイル「%1」の構文解析中エラーが起こりました。</p><p>詳しく"
+#~ "は、「詳細」の下のエラーメッセージをご覧ください。</p></qt>"
+
+#~ msgid ""
+#~ "<qt><p>An unknown error occurred.</p><p>Detailed information cannot be "
+#~ "provided because there was no error message.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>不明なエラーが起こりました。</p><p>エラーメッセージがなかったので、"
+#~ "詳細な情報を提供することができません。</p></qt>"
+
+#~ msgid ""
+#~ "<qt><p>An unknown error occurred.</p><p>Read the error message under "
+#~ "\"Details\" to find out more.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>不明なエラーが起こりました。</p><p>詳しくは、「詳細」の下のエラー"
+#~ "メッセージをご覧ください</p></qt>"
+
+#~ msgid "<qt>The process exited unexpectedly.</qt>"
+#~ msgstr "<qt>プロセスは不意に終了しました</qt>"
+
+#~ msgid "<qt>The file \"%1\" could not be found.</qt>"
+#~ msgstr "<qt>ファイル \"%1\" は、見つけることができません</qt>"
+
+#~ msgid ""
+#~ "<qt><p>Either your PATH environment variable is not set properly or there "
+#~ "are the following programs missing on your system:</p><p>%1</p><p>Please "
+#~ "correct this and restart Smb4K.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>あなたの PATH 環境変数は、正確に設定していないか、あるいは、システ"
+#~ "ム上で見当たらない 下記プログラムがあります:</p><p>%1</p><p>これを修正し"
+#~ "て、Smb4K を再起動してください。</p></qt>"
+
+#~ msgid ""
+#~ "<qt><p>An error occurred while writing to the sudoers file.</"
+#~ "p><p>Detailed information cannot be provided because there was no error "
+#~ "message.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>sudoers ファイルへ書き込み中にエラーが起こりました</p><p>エラーメッ"
+#~ "セージがないので、詳細な情報を提供できません</p></qt>"
+
+#~ msgid ""
+#~ "<qt><p>An error occurred while writing to the sudoers file.</p><p>Read "
+#~ "the error message under \"Details\" to find out more.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>sudoers ファイルへ書き込み中にエラーが起こりました</p><p>詳しくは、"
+#~ "\"詳細\"の下のエラーメッセージをご覧ください。</p></qt>"
+
+#~ msgid ""
+#~ "<qt><p>The temporary file could not be created.</p><p>Detailed "
+#~ "information cannot be provided because there was no error message.</p></"
+#~ "qt>"
+#~ msgstr ""
+#~ "<qt><p>テンポラリファイル「%1」を作成できませんでした。</p><p>エラーメッ"
+#~ "セージがないので、詳細な情報を提供できません</p></qt>"
+
+#~ msgid ""
+#~ "<qt><p>The temporary file could not be created.</p><p>Read the error "
+#~ "message under \"Details\" to find out more.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>テンポラリディレクトリ「%1」を作成できませんでした。</p><p>詳しくは"
+#~ "「詳細」の下のエラーメッセージをご覧ください。</p></qt>"
+
+#~ msgid "<qt>The file \"%1\" could not be opened.</qt>"
+#~ msgstr "<qt>ファイル「%1」を開くことができません</qt>"
+
+#~ msgid ""
+#~ "<qt><p>The file \"%1\" could not be opened.</p><p>Read the error message "
+#~ "under \"Details\" to find out more.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>ファイル「%1」を開くことができません。</p><p>詳しくは、「詳細」の下"
+#~ "のエラーメッセージをご覧ください。</p></qt>"
+
+#~ msgid ""
+#~ "<qt><p>The share %1 could not be unmounted.</p><p>Detailed information "
+#~ "cannot be provided because there was no error message.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>共有 \"%1\" は、アンマウントできませんでした</p><p>エラーメッセージ"
+#~ "がないので、詳細な情報を提供できません</p></qt>"
+
+#~ msgid ""
+#~ "<qt><p>The share %1 could not be unmounted.</p><p>Read the error message "
+#~ "under \"Details\" to find out more.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>共有 \"%1\" は、アンマウントできませんでした</p><p>\"詳細\"でさらに"
+#~ "詳しい情報を見つけるためにエラーメッセージを読んでください</p></qt>"
+
+#~ msgid ""
+#~ "<qt><p>The file \"%1\" could not be printed.</p></p>Detailed information "
+#~ "cannot be provided because there was no error message.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>ファイル \"%1\" を印刷できませんでした</p><p>エラーメッセージがな"
+#~ "かったので、詳細な情報を提供できません</p></qt>"
+
+#~ msgid ""
+#~ "<qt><p>The file \"%1\" could not be printed.</p><p>Read the error message "
+#~ "under \"Details\" to find out more.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>ファイル \"%1\" を印刷できませんでした</p><p>詳しくは、「詳細」の下"
+#~ "のエラーメッセージをご覧ください。</p></qt>"
+
+#~ msgid ""
+#~ "<qt></p>The synchronization could not be finished successfully.</"
+#~ "p><p>Detailed information cannot be provided because there was no error "
+#~ "message.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>同期を完了できませんでした</p><p>エラーメッセージがなかったため、詳"
+#~ "細な情報を提供することができません。</p></qt>"
+
+#~ msgid ""
+#~ "<qt><p>The synchronization could not be finished successfully.</p><p>Read "
+#~ "the error message under \"Details\" to find out more.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>同期を完了できませんでした</p><p>詳しくは、「詳細」の下のエラーメッ"
+#~ "セージをご覧ください。</p></qt>"
+
+#~ msgid ""
+#~ "<qt><p>The search could not be finished successfully.</p><p>Detailed "
+#~ "information cannot be provided because there was no error message.</p></"
+#~ "qt>"
+#~ msgstr ""
+#~ "<qt><p>検索を完了できませんでした</p><p>エラーメッセージがなかったので、詳"
+#~ "細な情報を提供することができません。</p></qt>"
+
+#~ msgid ""
+#~ "<qt><p>The search could not be finished successfully.</p><p>Read the "
+#~ "error message under \"Details\" to find out more.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>検索を完了できませんでした。</p><p>詳しくは、「詳細」の下のエラー"
+#~ "メッセージをご覧ください。</p></qt>"
+
+#~ msgid "Another user is currently editing the sudoers file."
+#~ msgstr "別のユーザが現在 sudoers ファイルを編集しています。"
+
+#~ msgid "The Smb4K section does not conform with the required format."
+#~ msgstr "Smb4K セクションは必要なフォーマットに対応しません"
+
+#~ msgid ""
+#~ "<qt><p>The list of registered IP addresses within the given broadcast "
+#~ "areas could not be retrieved.</p><p>Detailed information cannot be "
+#~ "provided because there was no error message.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>提供されたブロードキャストエリア内の登録された IP アドレスのリスト"
+#~ "を読み出せませんでした。</p><p>エラーメッセージがないので、詳細な情報を提"
+#~ "供できません</p></qt>"
+
+#~ msgid ""
+#~ "<qt><p>The list of registered IP addresses within the given broadcast "
+#~ "areas could not be retrieved.</p><p>Read the error message under "
+#~ "\"Details\" to find out more.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>提供されたブロードキャストエリア内の登録された IP アドレスのリスト"
+#~ "を読み出せませんでした。</p><p> \"詳細\" でさらに詳しい情報を見つけるため"
+#~ "にエラーメッセー ジを読んでください</p></qt>"
+
+#~ msgid ""
+#~ "<qt><p>The list of servers could not be retrieved.</p><p>Detailed "
+#~ "information cannot be provided because there was no error message.</p></"
+#~ "qt>"
+#~ msgstr ""
+#~ "<qt><p>サーバリストを読み出せませんでした。</p><p>エラーメッセージがないの"
+#~ "で、詳細な情報を提供できません</p></qt>"
+
+#~ msgid ""
+#~ "<qt><p>The list of servers could not be retrieved.</p><p>Read the error "
+#~ "message under \"Details\" to find out more.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>サーバリストを読み出せませんでした。</p><p>\"詳細\" でさらに詳しい"
+#~ "情報を見つけるためにエラーメッセージを読んでください</p></qt>"
+
+#~ msgid ""
+#~ "<qt><p>The list of shares could not be retrieved.</p><p>Detailed "
+#~ "information cannot be provided because there was no error message.</p></"
+#~ "qt>"
+#~ msgstr ""
+#~ "<qt><p>共有リストを読み出せませんでした。</p><p>エラーメッセージがないの"
+#~ "で、詳細な情報を提供できません</p></qt>"
+
+#~ msgid ""
+#~ "<qt><p>The list of shares could not be retrieved.</p><p>Read the error "
+#~ "message under \"Details\" to find out more.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>共有リストを読み出せませんでした。</p><p> \"詳細\"でさらに詳しい情"
+#~ "報を見つけるためにエラーメッセージを読んでください</p></qt>"
+
+#~ msgid ""
+#~ "<qt><p>The preview could not be compiled.</p><p>Detailed information "
+#~ "cannot be provided because there was no error message.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>プレビューを作成できませんでした</p><p>エラーメッセージがないので、"
+#~ "詳細な情報を提供できません</p></qt>"
+
+#~ msgid ""
+#~ "<qt><p>The preview could not be compiled.</p><p>Read the error message "
+#~ "under \"Details\" to find out more.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>プレビューを作成できませんでした</p><p>\"詳細\" でさらに詳しい情報"
+#~ "を見つけるためにエラーメッセージを読んでください</p></qt>"
+
+#~ msgid ""
+#~ "<qt><p>The share %1 could not be mounted.</p><p>Detailed information "
+#~ "cannot be provided because there was no error message.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>共有 \"%1\" は、マウントできませんでした</p><p>エラーメッセージがな"
+#~ "いので、詳細な情報を提供できません</p></qt>"
+
+#~ msgid ""
+#~ "<qt><p>The share %1 could not be mounted.</p><p>Read the error message "
+#~ "under \"Details\" to find out more.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>共有 \"%1\" は、マウントできませんでした</p><p>\"詳細\"でさらに詳し"
+#~ "い情報を見つけるためにエラーメッセージを読んでください</p></qt>"
+
+#~ msgid ""
+#~ "<qt>The share could not be unmounted, because the mount point string was "
+#~ "empty.</qt>"
+#~ msgstr ""
+#~ "<qt>マウントポイントが空なので、この共有をアンマウントすることができません"
+#~ "</qt>"
+
+#~ msgid ""
+#~ "<qt><p>The list of mounted shares could not be imported.</p><p>Detailed "
+#~ "information cannot be provided because there was no error message.</p></"
+#~ "qt>"
+#~ msgstr ""
+#~ "<qt><p>マウントされた共有のリストは、インポートできません</p><p>エラーメッ"
+#~ "セージがないので、詳細な情報を提供できません</p></qt>"
+
+#~ msgid ""
+#~ "<qt><p>The list of mounted shares could not be imported.</p><p>Read the "
+#~ "error message under \"Details\" to find out more.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>マウントされた共有のリストは、インポートできません</p><p>詳しくは、"
+#~ "\"詳細\"の下のエラーメッセージをご覧ください。</p></qt>"
+
+#~ msgid ""
+#~ "<qt>The list of arguments for the \"net\" command could not be assembled."
+#~ "</qt>"
+#~ msgstr ""
+#~ "<qt>net コマンドの引数リストを、組み立てることができませんでした</qt>"
+
+#~ msgid ""
+#~ "<qt>The label \"%1\" is used more than once. It will automatically be "
+#~ "renamed for bookmark \"%2\" to avoid confusion.</qt>"
+#~ msgstr ""
+#~ "<qt>ラベル「%1」が二度以上使用されています。混乱を避けるために、ブックマー"
+#~ "ク「%2」を自動的に改名します。</qt>"
+
+#~ msgid ""
+#~ "<qt><p>The list of workgroups and domains could not be retrieved.</"
+#~ "p><p>Detailed information cannot be provided because there was no error "
+#~ "message.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>ワークグループ、ドメインリストを読み出せませんでした。</p><p>エラー"
+#~ "メッセージがないので、詳細な情報を提供できません</p></qt>"
+
+#~ msgid ""
+#~ "<qt><p>The list of workgroups and domains could not be retrieved.</"
+#~ "p><p>Read the error message under \"Details\" to find out more.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>ワークグループ、ドメインリストを読み出せませんでした。</p><p> \"詳"
+#~ "細\"でさらに詳しい情報を見つけるためにエラーメッセージを読んでください</"
+#~ "p></qt>"
+
+#~ msgid ""
+#~ "<qt>You previously chose to use \"%1\", but now it is missing on your "
+#~ "system. Smb4K will disable this feature.</qt>"
+#~ msgstr ""
+#~ "<qt>以前「%1」の使用を選択しましたが、現在システム上で見当たりません。"
+#~ "Smb4K はこの機能を無効にします。</qt>"
+
+#~ msgid ""
+#~ "<qt>The wallet \"%1\" could not be opened. KWallet support will be "
+#~ "disabled for this session.</qt>"
+#~ msgstr ""
+#~ "<qt>ウォレット「%1」を開くのに、失敗しました。KWallet サポートは、無効にな"
+#~ "りました。</qt>"
+
+#~ msgid "Embed application into the system tray"
+#~ msgstr "システムトレイへ埋め込みます"
+
+#~ msgid ""
+#~ "Embed the application into the system tray. The system tray widget "
+#~ "provides a popup menu with several commonly used tasks, so you do not "
+#~ "need to bring up the main window every time. If this setting is chosen, "
+#~ "you have to use \"Quit\" from the \"File\" menu or the system tray widget "
+#~ "to exit the application."
+#~ msgstr ""
+#~ "アプリケーションをシステムトレイに埋め込みます。システムトレイウィジェット"
+#~ "は、いちいちメインウィンドウを表示する必要がないように、よく使われるタスク"
+#~ "のいくつかをポップアップメニュとして提供します。この設定を選ぶと、アプリ"
+#~ "ケーションを終了するには、「ファイル」メニューかシステムトレイから「終了」"
+#~ "を選択しなければなりません。"
+
+#~ msgid "System Tray"
+#~ msgstr "システムトレイ"
+
+#~ msgid "Main Window && System Tray"
+#~ msgstr "メインウィンドウとシステムトレイ"
+
+#~ msgid "on"
+#~ msgstr "オン"
+
+#~ msgid "Name:"
+#~ msgstr "名前:"
+
+#~ msgid "UID"
+#~ msgstr "UID"
+
+#~ msgid "GID"
+#~ msgstr "GID"
+
+#~ msgid "Port"
+#~ msgstr "ポート"
+
+#~ msgid "Try to authenticate with Kerberos (Active Directory)"
+#~ msgstr "Kerberos 認証を試みます (アクティブディレクトリ)"
+
+#~ msgid "[Network] The custom master browser has not been entered."
+#~ msgstr "[ネットワーク] カスタム マスターブラウザーは入力されていません"
+
+#~ msgid "[Network] The broadcast areas have not been entered."
+#~ msgstr "[ネットワーク] ブロードキャスト エリアは入力されていません"
+
+#~ msgid "[Shares] The mount prefix is empty."
+#~ msgstr "[共有] マウントプレフィックスは空です"
+
+#~ msgid "[Samba] The file mask is empty."
+#~ msgstr "[Samba] ファイルマスクが空です。"
+
+#~ msgid "[Samba] The directory mask is empty."
+#~ msgstr "[Samba] ディレクトリマスクが空です。"
+
+#~ msgid "[Synchronization] The rsync prefix is empty."
+#~ msgstr "[同期化] rsync プレフィックスが空です。"
+
+#~ msgid "[Synchronization] The exclude patterns have not been entered."
+#~ msgstr "[同期化] 除外 パターンは入力されていません"
+
+#~ msgid "[Synchronization] The path of the exclude file is empty."
+#~ msgstr "[同期化] 除外ファイルのパスは空です"
+
+#~ msgid "[Synchronization] The include patterns have not been entered."
+#~ msgstr "[同期化] 包括 (インクルード) パターンは入力されていません"
+
+#~ msgid "[Synchronization] The path of the include file is empty."
+#~ msgstr "[同期化] 包括 (インクルード) ファイルのパスは空です"
+
+#~ msgid "[Synchronization] The backup suffix has not been defined."
+#~ msgstr "[同期化] バックアップサフィックスは定義されていません"
+
+#~ msgid "[Synchronization] The backup directory is empty."
+#~ msgstr "[同期化] バックアップディレクトリは空です"
+
+#~ msgid ""
+#~ "<qt>The configuration could not be written, because one setting is "
+#~ "incomplete:<ul>%2</ul>Please correct this issue.</qt>"
+#~ msgid_plural ""
+#~ "<qt>The configuration could not be written, because %1 settings are "
+#~ "incomplete:<ul>%2</ul>Please correct these issues.</qt>"
+#~ msgstr[0] ""
+#~ "<qt>%1 個の設定が不完全なので、設定を書き出せません:<ul>%2</ul>この問題を"
+#~ "修正してください。</qt>"
+
+#~ msgid ""
+#~ "<qt><p>Smb4K now uses a different configuration system. Thus, your old "
+#~ "settings are obsolete and you have to reconfigure the application.</"
+#~ "p><p>To ensure a clean transition, the current configuration file will be "
+#~ "removed.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>Smb4K は新しい設定システムを使用しています。このため、アプリケー"
+#~ "ションを再設定しなければなりません。</p><p>きれいな推移を保証するために、"
+#~ "現在の設定ファイルを削除します。</p></qt>"
+
+#~ msgid ""
+#~ "<qt>Support for the program 'super' has been terminated. You have to "
+#~ "reconfigure Smb4K.</qt>"
+#~ msgstr ""
+#~ "<qt>プログラム「super」のサポートは終了しました。Smb4K を再設定する必要が"
+#~ "あります。</qt>"
+
+#~ msgid "[Authentication] The default username has not been entered."
+#~ msgstr "[認証] デフォルトユーザ名は入力されていません。"
+
+#~ msgid "This username is used by default to authenticate to a remote server."
+#~ msgstr ""
+#~ "このユーザ名はリモートサーバで認証するためのデフォルトとして使用されます。"
+
+#~ msgid ""
+#~ "This password is used by default to authenticate to a remote server. It "
+#~ "may be empty."
+#~ msgstr ""
+#~ "このパスワードはリモートサーバで認証するためにデフォルトで使用されます。そ"
+#~ "れは空かもしれません。"
+
+#, fuzzy
+#~| msgid "The share could not be mounted."
+#~ msgid "There are currently %1 shares mounted."
+#~ msgstr "共有をマウントすることができません"
+
+#~ msgid "Delete"
+#~ msgstr "削除"
+
+#~ msgid "Leopold Palomo Avellaneda"
+#~ msgstr "Leopold Palomo Avellaneda"
+
+#~ msgid "Catalan translation"
+#~ msgstr "カタロニア語の翻訳"
+
+#~ msgid "Radoslaw Zawartko"
+#~ msgstr "Radoslaw Zawartko"
+
+#~ msgid "Polish translation"
+#~ msgstr "ポーランド語の翻訳"
+
+#~ msgid "Nick Chen"
+#~ msgstr "Nick Chen"
+
+#~ msgid "Chinese Simplified translation"
+#~ msgstr "中国語 簡化字の翻訳"
+
+#~ msgid "Stanislav Yudin"
+#~ msgstr "Stanislav Yudin"
+
+#~ msgid "Russian translation"
+#~ msgstr "ロシア語の翻訳"
+
+#~ msgid "Marc Hansen"
+#~ msgstr "Marc Hansen"
+
+#~ msgid "Swedish translation and intensive testing"
+#~ msgstr "スウェーデン語の翻訳と、集中的な試験"
+
+#~ msgid "Giovanni Degani"
+#~ msgstr "Giovanni Degani"
+
+#~ msgid "Brazilian Portuguese translation"
+#~ msgstr "ブラジルのポルトガル語の翻訳"
+
+#~ msgid "Ivan Petrouchtchak"
+#~ msgstr "Ivan Petrouchtchak"
+
+#~ msgid "Ukrainian translation"
+#~ msgstr "ウクライナ語の翻訳"
+
+#~ msgid "Karoly Barcza"
+#~ msgstr "Karoly Barcza"
+
+#~ msgid "Hungarian translation"
+#~ msgstr "ハンガリー語の翻訳"
+
+#~ msgid "Quique"
+#~ msgstr "Quique"
+
+#~ msgid "Spanish translation"
+#~ msgstr "スペイン語の翻訳"
+
+#~ msgid "Michal Šulek"
+#~ msgstr "Michal Šulek"
+
+#~ msgid "Slovak translation"
+#~ msgstr "スロバキア語の翻訳"
+
+#~ msgid "Nicolas Ternisien"
+#~ msgstr "Nicolas Ternisien"
+
+#~ msgid "French translation"
+#~ msgstr "フランス語の翻訳"
+
+#~ msgid "Toyohiro Asukai"
+#~ msgstr "Toyohiro Asukai"
+
+#~ msgid "Japanese translation"
+#~ msgstr "日本語の翻訳"
+
+#~ msgid "Atanas Mavrov"
+#~ msgstr "Atanas Mavrov"
+
+#~ msgid "Bulgarian translation"
+#~ msgstr "ブルガリア語の翻訳"
+
+#~ msgid "Isidoro Russo"
+#~ msgstr "Isidoro Russo"
+
+#~ msgid "Nils Kristian Tomren"
+#~ msgstr "Nils Kristian Tomren"
+
+#~ msgid "Norwegian translations"
+#~ msgstr "ノルウェー語の翻訳"
+
+#~ msgid "Alois Nešpor"
+#~ msgstr "Alois Nešpor"
+
+#~ msgid "Czech translation"
+#~ msgstr "チェコ語の翻訳"
+
+#~ msgid "Martín Carr"
+#~ msgstr "Martín Carr"
+
+#~ msgid "Görkem Çetin"
+#~ msgstr "Görkem Çetin"
+
+#~ msgid "Turkish translation"
+#~ msgstr "トルコ語の翻訳"
+
+#~ msgid "Jack Liu"
+#~ msgstr "Jack Liu"
+
+#~ msgid "Chinese Traditional translation"
+#~ msgstr "中国語 繁体字の翻訳"
+
+#~ msgid "Arnar Leósson"
+#~ msgstr "Arnar Leósson"
+
+#~ msgid "Icelandic translation"
+#~ msgstr "アイスランド語の翻訳"
+
+#~ msgid "Michael Brinkloev"
+#~ msgstr "Michael Brinkloev"
+
+#~ msgid "Danish translation"
+#~ msgstr "デンマーク語の翻訳"
+
+#~ msgid "Joop Beris"
+#~ msgstr "Joop Beris"
+
+#~ msgid "Dutch translation"
+#~ msgstr "オランダ語の翻訳"
+
+#~ msgid "Lamarque V. Souza"
+#~ msgstr "Lamarque V. Souza"
+
+#~ msgid "Serdar Soytetir"
+#~ msgstr "Serdar Soytetir"
+
+#~ msgid "Wei-Lun Chao"
+#~ msgstr "Wei-Lun Chao"
+
+#~ msgid "Rashid N. Achilov"
+#~ msgstr "Rashid N. Achilov"
+
+#~ msgid "Testing of Smb4K under FreeBSD"
+#~ msgstr "FreeBSD での Smb4K の試験"
+
+#~ msgid "Jerzy Trzeciak"
+#~ msgstr "Jerzy Trzeciak"
+
+#~ msgid "The share was successfully mounted."
+#~ msgstr "この共有はアクセスできない"
+
+#~ msgid "The share was successfully unmounted."
+#~ msgstr "シェアのマウントを解除しました。"
+
+#~ msgid ""
+#~ "<qt>The configuration could not be written, because %1 settings are "
+#~ "incomplete:<ul>%2</ul>Please correct these issues.</qt>"
+#~ msgstr ""
+#~ "<qt> %1 設定が不完全なので、設定ファイルに記述することができません。: "
+#~ "<ul>%2</ul> これらの問題を修正してください</qt>"
+
+#~ msgid "The access was denied. "
+#~ msgstr "アクセスは、拒否されました "
+
+#~ msgid "The logon failed. "
+#~ msgstr "ログオンは、失敗しました "
+
+#~ msgid "Please enter authentication data for server %1."
+#~ msgstr "サーバ %1 の認証データを入力してください"
+
+#~ msgid "Scan Network"
+#~ msgstr "ネットワークを検索"
+
+#~ msgid "Configure"
+#~ msgstr "設定"
+
+#~ msgid "Samba Browser"
+#~ msgstr "Samba ブラウザ"
+
+#~ msgid "Search Dialog"
+#~ msgstr "検索ダイアログ"
+
+#~ msgid "The path to the program \"grep\""
+#~ msgstr "\"grep\" プログラムのパス"
+
+#~ msgid "The path to the program \"awk\""
+#~ msgstr "\"awk\" プログラムのパス"
+
+#~ msgid "The path to the program \"sed\""
+#~ msgstr "\"sed\" プログラムのパス"
+
+#~ msgid "The path to the program \"xargs\""
+#~ msgstr "\"xargs\" プログラムのパス"
+
+#~ msgid "The path to the program \"rmdir\""
+#~ msgstr "\"rmdir\" プログラムのパス"
+
+#~ msgid "The path to the program \"nmblookup\""
+#~ msgstr "\"nmblookup\" プログラムのパス"
+
+#~ msgid "The path to the program \"smbclient\""
+#~ msgstr "\"smbclient\" プログラムのパス"
+
+#~ msgid "The path to the program \"smbspool\""
+#~ msgstr "\"smbspool\" プログラムのパス"
+
+#~ msgid "The path to the program \"smbtree\""
+#~ msgstr "\"smbtree\" プログラムのパス"
+
+#~ msgid "The path to the program \"net\""
+#~ msgstr "\"net\" プログラムのパス"
+
+#~ msgid "The path to the program \"mount.cifs\""
+#~ msgstr "\"mount.cifs\" プログラムのパス"
+
+#~ msgid "The path to the program \"umount.cifs\""
+#~ msgstr "\"umount.cifs\" プログラムのパス"
+
+#~ msgid "The path to the program \"smbmount\""
+#~ msgstr "\"smbmount\" プログラムのパス"
+
+#~ msgid "The path to the program \"smbumount\""
+#~ msgstr "\"smbumount\" プログラムのパス"
+
+#~ msgid "The path to the program \"mount\""
+#~ msgstr "\"mount\" プログラムのパス"
+
+#~ msgid "The path to the program \"mount_smbfs\" (FreeBSD only)"
+#~ msgstr "\"mount_smbfs\" (FreeBSD only) プログラムのパス"
+
+#~ msgid "The path to the program \"smbutil\" (FreeBSD only)"
+#~ msgstr "\"smbutil\" (FreeBSD only) プログラムのパス"
+
+#~ msgid "The path to the program \"umount\""
+#~ msgstr "\"umount\" プログラムのパス"
+
+#~ msgid "The path to the program \"smb4k_mount\""
+#~ msgstr "\"smb4k_mount\" プログラムのパス"
+
+#~ msgid "The path to the program \"smb4k_umount\""
+#~ msgstr "\"smb4k_umount\" プログラムのパス"
+
+#~ msgid "The path to the program \"smb4k_kill\""
+#~ msgstr "\"smb4k_kill\" プログラムのパス"
+
+#~ msgid "The path to the program \"smb4k_sudowriter\""
+#~ msgstr "\"smb4k_sudowriter\" プログラムのパス"
+
+#~ msgid "The path to the program \"kdesu\" (optional)"
+#~ msgstr "\"kdesu\" (オプション) プログラムのパス"
+
+#~ msgid "The path to the program \"sudo\" (optional)"
+#~ msgstr "\"sudo\" (オプション) プログラムのパス"
+
+#~ msgid "The path to the program \"dvips\" (optional)"
+#~ msgstr " \"dvips\" (オプション) プログラムのパス"
+
+#~ msgid "The path to the program \"enscript\" (optional)"
+#~ msgstr "\"enscript\" (オプション) プログラムのパス"
+
+#~ msgid "The path to the program \"rsync\" (optional)"
+#~ msgstr " \"rsync\" (オプション) プログラムのパス"
+
+#~ msgid "The path to the program \"konsole\" (optional)"
+#~ msgstr "\"konsole\" (オプション) プログラムのパス"
+
+#~ msgid "You haven't specified a file."
+#~ msgstr "ファイルを指定していません"
+
+#~ msgid "Wallet support is disabled"
+#~ msgstr "ワレットのサポートは禁止"
+
+#~ msgid "Querying master browser for workgroups and domains..."
+#~ msgstr "ワークグループとドメインのために、マスタブラウザへ問い合わせます..."
+
+#~ msgid "Scanning broadcast areas for workgroups and domains..."
+#~ msgstr ""
+#~ "ワークグループとドメインのためにブロードキャストエリアをスキャンします"
+
+#~ msgid "Looking for workgroup members..."
+#~ msgstr "ワークグループメンバーを探します..."
+
+#~ msgid "Querying host for list of shares..."
+#~ msgstr "共有リストのために、ホストへ問い合わせます..."
+
+#~ msgid "Querying host for additional information..."
+#~ msgstr "追加の情報のために、ホストへ問い合わせます..."
+
+#~ msgid "Wallet support is temporarily disabled"
+#~ msgstr "ワレットのサポートは一時的に禁止"

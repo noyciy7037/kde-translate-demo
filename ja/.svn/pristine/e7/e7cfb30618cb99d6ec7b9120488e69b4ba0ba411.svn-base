@@ -1,0 +1,106 @@
+# Translation of desktop_kdebase into Japanese.
+# Noboru Sinohara <shinobo@leo.bekkoame.ne.jp>, 2002.
+# Taiki Komoda <kom@kde.gr.jp>, 2002,2003, 2004, 2010.
+# Masaharu 'Max' Goto <magotou@fubyshare.gr.jp>, 2004.
+# Toyohiro Asukai <toyohiro@ksmplus.com>, 2004.
+# Kurose Shushi <md81@bird.email.ne.jp>, 2004.
+# AWASHIRO Ikuya <ikuya@oooug.jp>, 2004.
+# Shinichi Tsunoda <tsuno@ngy.1st.ne.jp>, 2005.
+# Awashiro Ikuya <ikuya@fruitsbasket.info>, 2006.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2006, 2007, 2008, 2009, 2010.
+# phanect <phanective@gmail.com>, 2010.
+# Jumpei Ogawa (phanect) <phanective@gmail.com>, 2010.
+# Fuminobu TAKEYAMA <ftake@geeko.jp>, 2015.
+# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2005, 2006, 2007, 2010, 2011, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdebase\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-10-09 10:47+0200\n"
+"PO-Revision-Date: 2015-09-30 11:28-0700\n"
+"Last-Translator: Fumiaki Okushi <fumiaki.okushi@gmail.com>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: \n"
+"X-Text-Markup: \n"
+"X-Generator: Lokalize 1.5\n"
+
+#. +> trunk6 stable6 stable5
+#: greeter/themes/org.kde.passworddialog/metadata.desktop:2
+msgctxt "Name"
+msgid "Password dialog"
+msgstr "パスワード入力ダイアログ"
+
+#. +> trunk6 stable6 stable5
+#: greeter/themes/org.kde.passworddialog/metadata.desktop:55
+msgctxt "Comment"
+msgid ""
+"Screen locker that provides a password dialog and an interface to switch the "
+"current user"
+msgstr ""
+"パスワード入力ダイアログと現在のユーザを切り替えるインターフェースを提供する"
+"スクリーンロッカー"
+
+#. +> trunk6 stable6 stable5
+#: kscreenlocker.notifyrc:3
+msgctxt "Comment"
+msgid "Screen Saver"
+msgstr "スクリーンセーバー"
+
+#. +> trunk6 stable6 stable5
+#: kscreenlocker.notifyrc:57
+msgctxt "Name"
+msgid "Screen locked"
+msgstr "スクリーンロック"
+
+#. +> trunk6 stable6 stable5
+#: kscreenlocker.notifyrc:110
+msgctxt "Comment"
+msgid "The screen has been locked"
+msgstr "スクリーンがロックされました"
+
+#. +> trunk6 stable6 stable5
+#: kscreenlocker.notifyrc:165
+msgctxt "Name"
+msgid "Screen unlocked"
+msgstr "スクリーンロック解除"
+
+#. +> trunk6 stable6 stable5
+#: kscreenlocker.notifyrc:218
+msgctxt "Comment"
+msgid "The screen has been unlocked"
+msgstr "スクリーンのロックが解除されました"
+
+#~ msgctxt "Name"
+#~ msgid "Screen Locking"
+#~ msgstr "スクリーンロック"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Screen Locking"
+#~ msgctxt "Comment"
+#~ msgid "Configure screen locking"
+#~ msgstr "スクリーンロック"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "lock,resume, screensaver, screenlock"
+#~ msgstr "ロック,再開,スクリーンセーバー,スクリーンロック"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Screen Locking"
+#~ msgctxt "Comment"
+#~ msgid "Configure Screen Locking"
+#~ msgstr "スクリーンロック"
+
+#~ msgctxt "Comment"
+#~ msgid "Screen Locking Timeouts"
+#~ msgstr "スクリーンロックタイムアウト"
+
+#~ msgctxt "Comment"
+#~ msgid "Screen Locking Themes"
+#~ msgstr "スクリーンロックテーマ"

@@ -1,0 +1,109 @@
+# Tomohiro Hyakutake <tomhioo@outlook.jp>, 2019.
+# SPDX-FileCopyrightText: 2026 Mint <5602mint@gmail.com>
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2026-02-27 08:26+0100\n"
+"PO-Revision-Date: 2026-02-23 17:18+0900\n"
+"Last-Translator: Mint <5602mint@gmail.com>\n"
+"Language-Team: Japanese <kde-i18n-doc@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: \n"
+"X-Text-Markup: \n"
+"X-Generator: Lokalize 25.12.2\n"
+
+#. +> trunk6 stable6
+#: src/configure-printer/org.kde.ConfigurePrinter.desktop:2
+msgctxt "Name"
+msgid "Configure Printer"
+msgstr "プリンタを設定"
+
+#. +> trunk6 stable6
+#: src/configure-printer/org.kde.ConfigurePrinter.desktop:56
+msgctxt "Comment"
+msgid "Configure your printer"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/kded/printmanager.notifyrc:3
+msgctxt "Name"
+msgid "Printer Management"
+msgstr "プリンタ管理"
+
+#. +> trunk6 stable6
+#: src/kded/printmanager.notifyrc:51
+msgctxt "Comment"
+msgid "Notifies when a new printer is detected"
+msgstr "新しいプリンタの検出時に通知"
+
+#. +> trunk6 stable6
+#: src/kded/printmanager.notifyrc:112
+msgctxt "Name"
+msgid "Low Ink/Toner Levels"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/kded/printmanager.notifyrc:148
+msgctxt "Name"
+msgid "A New Printer was detected"
+msgstr "新しいプリンタが検出されました"
+
+#. +> trunk6 stable6
+#: src/kded/printmanager.notifyrc:213
+msgctxt "Name"
+msgid "The New Printer was added"
+msgstr "新しいプリンタが追加されました"
+
+#. +> trunk6
+#: src/print-queue/org.kde.plasma.printqueue.desktop:2
+msgctxt "Name"
+msgid "Plasma Print Queue Manager"
+msgstr ""
+
+#. +> trunk6
+#: src/print-queue/org.kde.plasma.printqueue.desktop:20
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Print Queue"
+msgctxt "GenericName"
+msgid "Print Queue"
+msgstr "印刷キュー"
+
+#. +> trunk6
+#: src/print-queue/org.kde.plasma.printqueue.desktop:38
+msgctxt "Comment"
+msgid "View and manage print jobs"
+msgstr ""
+
+#. +> stable6
+#: src/printqueue/org.kde.PrintQueue.desktop:2
+msgctxt "Name"
+msgid "Print Queue"
+msgstr "印刷キュー"
+
+#. +> stable6
+#: src/printqueue/org.kde.PrintQueue.desktop:55
+msgctxt "Comment"
+msgid "View the print jobs"
+msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Add Printer"
+#~ msgstr "プリンタを追加"
+
+#~ msgctxt "Name"
+#~ msgid "Printers"
+#~ msgstr "プリンタ"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure your printers"
+#~ msgstr "あなたのプリンタを設定"
+
+#~ msgctxt "Comment"
+#~ msgid "Inform when a new printer is detected, and print problems"
+#~ msgstr "新しいプリンタの検出と印刷の問題を知らせる"

@@ -1,0 +1,129 @@
+# Translation of desktop_kdemultimedia into Japanese.
+# Taiki Komoda <kom@kde.gr.jp>, 2002.
+# asupara chan <asupara@star>, 2004.
+# Kaori Andou <parsley@happy.email.ne.jp>, 2004.
+# AWASHIRO Ikuya <ikuya@oooug.jp>, 2004.
+# Toyohiro Asukai <toyohiro@ksmplus.com>, 2004.
+# Shinichi Tsunoda <tsuno@ngy.1st.ne.jp>, 2005.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2006, 2007, 2008, 2009, 2010.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2005, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdemultimedia\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-09-09 08:57+0200\n"
+"PO-Revision-Date: 2011-06-11 23:51-0700\n"
+"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: \n"
+"X-Text-Markup: \n"
+
+#. +> trunk6 stable6
+#: desktop/kmix.notifyrc:4
+msgctxt "Comment"
+msgid "Sound Mixer"
+msgstr "サウンドミキサー"
+
+#. +> trunk6 stable6
+#: desktop/kmix.notifyrc:63
+msgctxt "Name"
+msgid "Audio Device Fallback"
+msgstr "音声デバイスのフォールバック"
+
+#. +> trunk6 stable6
+#: desktop/kmix.notifyrc:119
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid ""
+#| "Notification on automatic fallback if the preferred device is unavailable"
+msgctxt "Comment"
+msgid "Automatic fallback if the preferred device is unavailable"
+msgstr "優先デバイスが利用できないために自動的にフォールバックしたときの通知"
+
+#. +> trunk6 stable6
+#: desktop/kmix.notifyrc:158
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Audio Device Fallback"
+msgctxt "Name"
+msgid "Audio Device Connected"
+msgstr "音声デバイスのフォールバック"
+
+#. +> trunk6 stable6
+#: desktop/kmix.notifyrc:193
+msgctxt "Comment"
+msgid "A sound device was connected"
+msgstr ""
+
+#. +> trunk6 stable6
+#: desktop/kmix.notifyrc:232
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Audio Device Fallback"
+msgctxt "Name"
+msgid "Audio Device Disconnected"
+msgstr "音声デバイスのフォールバック"
+
+#. +> trunk6 stable6
+#: desktop/kmix.notifyrc:267
+msgctxt "Comment"
+msgid "A sound device was disconnected"
+msgstr ""
+
+#. +> trunk6 stable6
+#: desktop/kmix_autostart.desktop:12 desktop/org.kde.kmix.desktop:7
+msgctxt "GenericName"
+msgid "Sound Mixer"
+msgstr "サウンドミキサー"
+
+#. +> trunk6 stable6
+#: desktop/kmix_autostart.desktop:69 desktop/org.kde.kmix.desktop:64
+msgctxt "Name"
+msgid "KMix"
+msgstr "KMix"
+
+#. +> trunk6 stable6
+#: desktop/kmixctrl_restore.desktop:3
+msgctxt "Name"
+msgid "Restore Mixer Settings"
+msgstr "ミキサーの設定を復元"
+
+#. +> trunk6 stable6
+#: desktop/org.kde.kmix.desktop:121
+msgctxt "Comment"
+msgid "Control sound volumes"
+msgstr ""
+
+#. +> trunk6 stable6
+#: desktop/restore_kmix_volumes.desktop:8
+msgctxt "Name"
+msgid "Restore Mixer Volumes"
+msgstr "ミキサーの音量設定を復元する"
+
+#. +> trunk6 stable6
+#: plasma/engine/plasma-dataengine-mixer.desktop:2
+msgctxt "Name"
+msgid "Mixer DataEngine"
+msgstr ""
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Notification on automatic fallback if the preferred device is unavailable"
+#~ msgstr ""
+#~ "優先デバイスが利用できないために自動的にフォールバックしたときの通知"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "KMixD"
+#~ msgctxt "Name"
+#~ msgid "KMix Daemon"
+#~ msgstr "KMixD"
+
+#~ msgctxt "Name"
+#~ msgid "KMixD"
+#~ msgstr "KMixD"

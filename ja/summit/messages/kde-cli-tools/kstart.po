@@ -1,0 +1,256 @@
+# Translation of kstart into Japanese.
+# This file is distributed under the same license as the kdebase package.
+# Noboru Sinohara <shinobo@leo.bekkoame.ne.jp>, 2002.
+# Ryuichi Kakuda <ryuk@user.script.nu>, 2004.
+# Toyohiro Asukai <toyohiro@ksmplus.com>, 2004.
+# Fumiaki Okushi <fumiaki@okushi.com>, 2005.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2006.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kstart\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-03-17 09:13+0100\n"
+"PO-Revision-Date: 2007-05-27 15:00+0900\n"
+"Last-Translator: Yukiko Bando <ybando@k6.dion.ne.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.9.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. +> trunk6 stable6 stable5
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Taiki Komoda,Noboru Sinohara,Ryuichi Kakuda, Fumiaki Okushi"
+
+#. +> trunk6 stable6 stable5
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+"kom@kde.gr.jp,shinobo@leo.bekkoame.ne.jp,ryuk@user.script.nu, "
+"fumiaki@okushi.com"
+
+#. +> trunk6 stable6 stable5
+#: kstart.cpp:77
+#, kde-format
+msgid "KStart"
+msgstr "KStart"
+
+#. +> trunk6 stable6
+#: kstart.cpp:79
+#, kde-format
+msgid "Utility to launch applications"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kstart.cpp:81
+#, kde-format
+msgid "(C) 1997-2000 Matthias Ettrich (ettrich@kde.org)"
+msgstr "(C) 1997-2000 Matthias Ettrich (ettrich@kde.org)"
+
+#. +> trunk6 stable6 stable5
+#: kstart.cpp:83
+#, kde-format
+msgid "Matthias Ettrich"
+msgstr "Matthias Ettrich"
+
+#. +> trunk6 stable6 stable5
+#: kstart.cpp:84
+#, kde-format
+msgid "David Faure"
+msgstr "David Faure"
+
+#. +> trunk6 stable6 stable5
+#: kstart.cpp:85
+#, kde-format
+msgid "Richard J. Moore"
+msgstr "Richard J. Moore"
+
+#. +> trunk6 stable6 stable5
+#: kstart.cpp:90
+#, kde-format
+msgid "Command to execute"
+msgstr "実行するコマンド"
+
+#. +> trunk6 stable6
+#: kstart.cpp:92
+#, kde-format
+msgid "Alternative to <command>: desktop file name to start, e.g. org.kde.kate"
+msgstr ""
+
+#. +> stable5
+#: kstart.cpp:278
+#, kde-format
+msgid "Alternative to <command>: desktop file to start."
+msgstr ""
+
+#. +> trunk6 stable6
+#: kstart.cpp:95
+#, kde-format
+msgid "Optional URL to pass to the application when using --application"
+msgstr ""
+
+#. +> stable5
+#: kstart.cpp:281
+#, kde-format
+msgid "Optional URL to pass <desktopfile>, when using --service"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kstart.cpp:107
+#, kde-format
+msgid "No command specified"
+msgstr "コマンドが指定されていません"
+
+#. +> stable5
+#: kstart.cpp:257
+#, kde-format
+msgid ""
+"Utility to launch applications with special window properties \n"
+"such as iconified, maximized, a certain virtual desktop, a special "
+"decoration\n"
+"and so on."
+msgstr ""
+"ウィンドウのプロパティを指定してアプリケーションを起動するためのユーティリ"
+"ティ\n"
+"(アイコン化、最大化、仮想デスクトップの指定、ウィンドウ装飾など)"
+
+#. +> stable5
+#: kstart.cpp:275
+#, kde-format
+msgid ""
+"Alternative to <command>: desktop file path to start. D-Bus service will be "
+"printed to stdout. Deprecated: use --application"
+msgstr ""
+
+#. +> stable5
+#: kstart.cpp:284
+#, kde-format
+msgid "A regular expression matching the window title"
+msgstr "ウィンドウタイトルにマッチする正規表現"
+
+#. +> stable5
+#: kstart.cpp:286
+#, kde-format
+msgid ""
+"A string matching the window class (WM_CLASS property)\n"
+"The window class can be found out by running\n"
+"'xprop | grep WM_CLASS' and clicking on a window\n"
+"(use either both parts separated by a space or only the right part).\n"
+"NOTE: If you specify neither window title nor window class,\n"
+"then the very first window to appear will be taken;\n"
+"omitting both options is NOT recommended."
+msgstr ""
+"ウィンドウクラス (WM_CLASS プロパティ) にマッチする文字列\n"
+"ウィンドウクラスを知るには “xprop | grep WM_CLASS” を実行し\n"
+"ウィンドウをクリックします。\n"
+"(スペースを挟んで両方指定するか、右側だけ指定)\n"
+"注: ウィンドウタイトルもウィンドウクラスも指定しない場合、\n"
+"一番最初に現れたウィンドウが使われます。\n"
+"両方のオプションの省略は推奨されません。"
+
+#. +> stable5
+#: kstart.cpp:295
+#, kde-format
+msgid "Desktop on which to make the window appear"
+msgstr "ウィンドウを表示するデスクトップ"
+
+#. +> stable5
+#: kstart.cpp:297
+#, kde-format
+msgid ""
+"Make the window appear on the desktop that was active\n"
+"when starting the application"
+msgstr ""
+"アプリケーションを起動する際にアクティブなデスクトップに\n"
+"ウィンドウを表示"
+
+#. +> stable5
+#: kstart.cpp:298
+#, kde-format
+msgid "Make the window appear on all desktops"
+msgstr "ウィンドウをすべてのデスクトップに表示"
+
+#. +> stable5
+#: kstart.cpp:299
+#, kde-format
+msgid "Iconify the window"
+msgstr "ウィンドウをアイコン化"
+
+#. +> stable5
+#: kstart.cpp:300
+#, kde-format
+msgid "Maximize the window"
+msgstr "ウィンドウを最大化"
+
+#. +> stable5
+#: kstart.cpp:301
+#, kde-format
+msgid "Maximize the window vertically"
+msgstr "ウィンドウを垂直に最大化"
+
+#. +> stable5
+#: kstart.cpp:302
+#, kde-format
+msgid "Maximize the window horizontally"
+msgstr "ウィンドウを水平に最大化"
+
+#. +> stable5
+#: kstart.cpp:303
+#, kde-format
+msgid "Show window fullscreen"
+msgstr "ウィンドウをフルスクリーン表示"
+
+#. +> stable5
+#: kstart.cpp:305
+#, kde-format
+msgid ""
+"The window type: Normal, Desktop, Dock, Toolbar, \n"
+"Menu, Dialog, TopMenu or Override"
+msgstr ""
+"ウィンドウタイプ:\n"
+"Normal (標準), Desktop (デスクトップ), Dock (ドック), \n"
+"Toolbar (ツールバー), Menu (メニュー), Dialog (ダイアログ), \n"
+"TopMenu (トップメニュー) または Override (オーバーライド)"
+
+#. +> stable5
+#: kstart.cpp:308
+#, kde-format
+msgid ""
+"Jump to the window even if it is started on a \n"
+"different virtual desktop"
+msgstr "別の仮想デスクトップで起動されても、そのウィンドウに移動"
+
+#. +> stable5
+#: kstart.cpp:311
+#, kde-format
+msgid "Try to keep the window above other windows"
+msgstr "ウィンドウを常に前面に表示するよう試みる"
+
+#. +> stable5
+#: kstart.cpp:313
+#, kde-format
+msgid "Try to keep the window below other windows"
+msgstr "ウィンドウを常に背面に表示するよう試みる"
+
+#. +> stable5
+#: kstart.cpp:314
+#, kde-format
+msgid "The window does not get an entry in the taskbar"
+msgstr "ウィンドウをタスクバーに表示しない"
+
+#. +> stable5
+#: kstart.cpp:315
+#, kde-format
+msgid "The window does not get an entry on the pager"
+msgstr "ウィンドウをページャに表示しない"
+
+#~ msgid "The window is sent to the system tray in Kicker"
+#~ msgstr "ウィンドウを Kicker のシステムトレイに送る"

@@ -1,0 +1,309 @@
+# Taiki Komoda <kom@kde.gr.jp>, 2010.
+# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: TableShape\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-11-09 11:24+0100\n"
+"PO-Revision-Date: 2015-06-23 23:46-0700\n"
+"Last-Translator: Fumiaki Okushi <fumiaki.okushi@gmail.com>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+"X-Generator: Lokalize 1.0\n"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#. +> trunk6 stable6
+#: SheetsEditor.cpp:57 SheetsEditor.cpp:124
+#, kde-format
+msgid "Rename"
+msgstr "名前変更"
+
+#. +> trunk6 stable6
+#: SheetsEditor.cpp:61
+#, kde-format
+msgid "Add"
+msgstr "追加"
+
+#. +> trunk6 stable6
+#: SheetsEditor.cpp:65
+#, kde-format
+msgid "Remove"
+msgstr "削除"
+
+#. +> trunk6 stable6
+#: SheetsEditor.cpp:124
+#, kde-format
+msgid "Enter Name:"
+msgstr "名前を入力:"
+
+#. +> trunk6 stable6
+#: TableShape.cpp:300
+#, kde-format
+msgid ""
+"This document contains an external link to a remote document\n"
+"%1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: TableShape.cpp:301
+#, kde-format
+msgid "Confirmation Required"
+msgstr ""
+
+#. +> trunk6 stable6
+#: TableShape.cpp:302
+#, kde-format
+msgid "Download"
+msgstr ""
+
+#. +> trunk6 stable6
+#: TableShape.cpp:303
+#, kde-format
+msgid "Skip"
+msgstr ""
+
+#. +> trunk6 stable6
+#: TableShapeFactory.cpp:35
+#, kde-format
+msgid "Spreadsheet"
+msgstr ""
+
+#. +> trunk6 stable6
+#: TableShapeFactory.cpp:37
+#, kde-format
+msgid "Spreadsheet Shape"
+msgstr ""
+
+#. +> trunk6 stable6
+#: TableTool.cpp:211
+#, kde-format
+msgid "Import OpenDocument Spreadsheet File"
+msgstr "OpenDocument Spreadsheet ファイルをインポート"
+
+#. +> trunk6 stable6
+#: TableTool.cpp:212
+#, kde-format
+msgid "Import"
+msgstr "インポート"
+
+#. +> trunk6 stable6
+#: TableTool.cpp:216
+#, kde-format
+msgid "Export OpenDocument Spreadsheet File"
+msgstr "OpenDocument Spreadsheet ファイルをエクスポート"
+
+#. +> trunk6 stable6
+#: TableTool.cpp:217
+#, kde-format
+msgid "Export"
+msgstr "エクスポート"
+
+#. +> trunk6 stable6
+#: TableTool.cpp:696
+#, kde-format
+msgid "Sheets"
+msgstr "シート"
+
+#. +> trunk6 stable6
+#: TableTool.cpp:738
+#, kde-format
+msgid "Sheet:"
+msgstr "シート:"
+
+#. +> trunk6 stable6
+#: TableTool.cpp:740
+#, kde-format
+msgid "Selected Sheet"
+msgstr "選択されたシート"
+
+#. +> trunk6 stable6
+#: TableTool.cpp:754
+#, fuzzy, kde-format
+#| msgid "Table Options"
+msgid "View Options"
+msgstr "表オプション"
+
+#. +> trunk6 stable6
+#: TableToolFactory.cpp:21
+#, kde-format
+msgid "Table editing"
+msgstr "表編集"
+
+#. +> trunk6 stable6
+#: ToolHeaders.cpp:279 ToolHeaders.cpp:863
+#, kde-format
+msgid "Area is too large."
+msgstr ""
+
+#. +> trunk6 stable6
+#: ToolHeaders.cpp:418
+#, kde-format
+msgid "Hide Row"
+msgstr ""
+
+#. +> trunk6 stable6
+#: ToolHeaders.cpp:420
+#, kde-format
+msgid "Height: %1 %2"
+msgstr ""
+
+#. +> trunk6 stable6
+#: ToolHeaders.cpp:1031
+#, fuzzy, kde-format
+#| msgid "Columns:"
+msgid "Hide Column"
+msgstr "列:"
+
+#. +> trunk6 stable6
+#: ToolHeaders.cpp:1033
+#, kde-format
+msgid "Width: %1 %2"
+msgstr ""
+
+#, kde-format
+#~ msgid "Columns:"
+#~ msgstr "列:"
+
+#, kde-format
+#~ msgid "Number of columns"
+#~ msgstr "列数"
+
+#, kde-format
+#~ msgid "Rows:"
+#~ msgstr "行:"
+
+#, kde-format
+#~ msgid "Number of rows"
+#~ msgstr "行数"
+
+#, kde-format
+#~ msgid "Table Options"
+#~ msgstr "表オプション"
+
+#, fuzzy
+#~| msgid "Rename"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Rename"
+#~ msgstr "名前変更"
+
+#, fuzzy
+#~| msgid "Add"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Add"
+#~ msgstr "追加"
+
+#, fuzzy
+#~| msgid "Remove"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Remove"
+#~ msgstr "削除"
+
+#, fuzzy
+#~| msgid "Enter Name:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Enter Name:"
+#~ msgstr "名前を入力:"
+
+#, fuzzy
+#~| msgid "Import OpenDocument Spreadsheet File"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Import OpenDocument Spreadsheet File"
+#~ msgstr "OpenDocument Spreadsheet ファイルをインポート"
+
+#, fuzzy
+#~| msgid "Import"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Import"
+#~ msgstr "インポート"
+
+#, fuzzy
+#~| msgid "Export OpenDocument Spreadsheet File"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Export OpenDocument Spreadsheet File"
+#~ msgstr "OpenDocument Spreadsheet ファイルをエクスポート"
+
+#, fuzzy
+#~| msgid "Export"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Export"
+#~ msgstr "エクスポート"
+
+#, fuzzy
+#~| msgid "Sheets"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Sheets"
+#~ msgstr "シート"
+
+#, fuzzy
+#~| msgid "Sheet:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Sheet:"
+#~ msgstr "シート:"
+
+#, fuzzy
+#~| msgid "Selected Sheet"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Selected Sheet"
+#~ msgstr "選択されたシート"
+
+#, fuzzy
+#~| msgid "Columns:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Columns:"
+#~ msgstr "列:"
+
+#, fuzzy
+#~| msgid "Number of columns"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Number of columns"
+#~ msgstr "列数"
+
+#, fuzzy
+#~| msgid "Rows:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Rows:"
+#~ msgstr "行:"
+
+#, fuzzy
+#~| msgid "Number of rows"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Number of rows"
+#~ msgstr "行数"
+
+#, fuzzy
+#~| msgid "Table Options"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Table Options"
+#~ msgstr "表オプション"
+
+#, fuzzy
+#~| msgid "Table editing"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Table editing"
+#~ msgstr "表編集"
+
+#~ msgid "Table editing tool"
+#~ msgstr "表編集ツール"
+
+#~ msgid "Table"
+#~ msgstr "表"
+
+#~ msgid "Table Shape"
+#~ msgstr "表シェイプ"

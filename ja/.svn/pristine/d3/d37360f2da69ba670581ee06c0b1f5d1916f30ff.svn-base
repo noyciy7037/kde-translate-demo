@@ -1,0 +1,403 @@
+# translation of kcmkwallet.po to Japanese
+# This file is distributed under the same license as the kdeutils package.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2004, 2005, 2010, 2014.
+# SPDX-FileCopyrightText: 2025 Ryuichi Yamada <ryuichi_ya220@outlook.jp>
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmkwallet\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-09-23 10:36+0200\n"
+"PO-Revision-Date: 2025-03-25 07:09+0900\n"
+"Last-Translator: Ryuichi Yamada <ryuichi_ya220@outlook.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 24.12.3\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Fumiaki Okushi, Ryuichi Yamada"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "okushi@kde.gr.jp, ryuichi_ya220@outlook.jp"
+
+#. +> trunk6 stable6
+#: konfigurator.cpp:106
+#, kde-format
+msgid "New Wallet"
+msgstr "新しいウォレット"
+
+#. +> trunk6 stable6
+#: konfigurator.cpp:106
+#, kde-format
+msgid "Please choose a name for the new wallet:"
+msgstr "新しいウォレットに名前を付けてください:"
+
+#. +> trunk6 stable6
+#: konfigurator.cpp:220 konfigurator.cpp:298
+#, kde-format
+msgid "Always Allow"
+msgstr "常に許可"
+
+#. +> trunk6 stable6
+#: konfigurator.cpp:223 konfigurator.cpp:230 konfigurator.cpp:311
+#, kde-format
+msgid "Always Deny"
+msgstr "常に拒否"
+
+#. +> trunk6 stable6
+#: konfigurator.cpp:258
+#, kde-format
+msgid "Permission denied."
+msgstr "許可がありません。"
+
+#. +> trunk6 stable6
+#: konfigurator.cpp:258 konfigurator.cpp:260
+#, kde-format
+msgid "KDE Wallet Control Module"
+msgstr "KDE ウォレット コントロール モジュール"
+
+#. +> trunk6 stable6
+#: konfigurator.cpp:260
+#, kde-format
+msgid ""
+"Error while authenticating action:\n"
+"%1"
+msgstr ""
+"認証中にエラーが発生しました:\n"
+"%1"
+
+#. +> trunk6 stable6
+#: konfigurator.cpp:358
+#, kde-format
+msgid "&Delete"
+msgstr "削除(&D)"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab1)
+#. +> trunk6 stable6
+#: walletconfigwidget.ui:27
+#, kde-format
+msgid "Wallet Preferences"
+msgstr "ウォレットの設定"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, _enabled)
+#. +> trunk6 stable6
+#: walletconfigwidget.ui:33
+#, kde-format
+msgid ""
+"<p>The wallet subsystem provides a convenient and secure way to manage all "
+"your passwords. This option specifies whether or not you want to use it.</p>"
+msgstr ""
+"<p>ウォレットは、あなたのすべてのパスワードを安全に管理する便利なサブシステム"
+"です。このシステムを使うかどうかを、このオプションで選択できます。</p>"
+
+# ACCELERATOR changed by translator
+#. i18n: ectx: property (text), widget (QCheckBox, _enabled)
+#. +> trunk6 stable6
+#: walletconfigwidget.ui:36
+#, kde-format
+msgid "&Enable the KDE wallet subsystem"
+msgstr "KDE ウォレットサブシステムを使う(&K)"
+
+#. i18n: ectx: property (whatsThis), widget (QGroupBox, groupBox2)
+#. +> trunk6 stable6
+#: walletconfigwidget.ui:49
+#, kde-format
+msgid ""
+"It is best to close your wallets when you are not using them to prevent "
+"others from viewing or using them."
+msgstr ""
+"ウォレットを使わないときは閉じておくのが賢明です。そうすることにより、無断使"
+"用を避けることができます。"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox2)
+#. +> trunk6 stable6
+#: walletconfigwidget.ui:52
+#, kde-format
+msgid "Close Behavior"
+msgstr "閉じるときの挙動"
+
+#. i18n: ectx: property (text), widget (QLabel, closeWalletLabel)
+#. +> trunk6 stable6
+#: walletconfigwidget.ui:69
+#, kde-format
+msgid "Close wallet:"
+msgstr "ウォレットを閉じる:"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, _autoclose)
+#. +> trunk6 stable6
+#: walletconfigwidget.ui:76
+#, kde-format
+msgid ""
+"<p><b>Close wallet as soon as applications that use it have stopped.</"
+"b><br>Note that your wallet will only be closed when all applications that "
+"use it have stopped.<br>When a wallet is closed the password is needed to "
+"access it again.</p>"
+msgstr ""
+"<p>ウォレットを使っているアプリケーションが使い終わったときに閉じます。ウォ"
+"レットが閉じられるのは、ウォレットを使っているすべてのアプリケーションが使い"
+"終わったときです。閉じたウォレットに再びアクセスするにはパスワードが必要で"
+"す。</p>"
+
+#. i18n: ectx: property (text), widget (QCheckBox, _autoclose)
+#. +> trunk6 stable6
+#: walletconfigwidget.ui:79
+#, kde-format
+msgid "When last application stops using it"
+msgstr "最後のアプリケーションが使い終わったとき"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, _screensaverLock)
+#. +> trunk6 stable6
+#: walletconfigwidget.ui:86
+#, kde-format
+msgid ""
+"<p><b>Close wallet as soon as the screensaver starts.</b><br>When a wallet "
+"is closed the password is needed to access it again.</p>"
+msgstr ""
+"<p>スクリーンセーバーが起動するときにウォレットを閉じます。閉じたウォレットに"
+"再びアクセスするにはパスワードが必要です。</p>"
+
+#. i18n: ectx: property (text), widget (QCheckBox, _screensaverLock)
+#. +> trunk6 stable6
+#: walletconfigwidget.ui:89
+#, kde-format
+msgid "When screensaver starts"
+msgstr "スクリーンセーバーが起動されたとき"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, _closeIdle)
+#. i18n: ectx: property (whatsThis), widget (QSpinBox, _idleTime)
+#. +> trunk6 stable6
+#: walletconfigwidget.ui:96 walletconfigwidget.ui:115
+#, kde-format
+msgid ""
+"<p><b>Close wallet after a period of inactivity.</b><br>When a wallet is "
+"closed the password is needed to access it again.</p>"
+msgstr ""
+"<p>未使用のまま一定時間が経過した場合、ウォレットを閉じます。閉じたウォレット"
+"に再びアクセスするにはパスワードが必要です。</p>"
+
+#. i18n: ectx: property (text), widget (QCheckBox, _closeIdle)
+#. +> trunk6 stable6
+#: walletconfigwidget.ui:99
+#, kde-format
+msgid "When unused for:"
+msgstr "次の時間未使用であれば閉じる:"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, _idleTime)
+#. +> trunk6 stable6
+#: walletconfigwidget.ui:121
+#, kde-format
+msgid " minutes"
+msgstr " 分"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox4)
+#. +> trunk6 stable6
+#: walletconfigwidget.ui:145
+#, kde-format
+msgid "Automatic Wallet Selection"
+msgstr "ウォレットの自動選択"
+
+#. i18n: ectx: property (text), widget (QCheckBox, _localWalletSelected)
+#. +> trunk6 stable6
+#: walletconfigwidget.ui:165
+#, kde-format
+msgid "Use different default wallet for local passwords"
+msgstr "ローカルのパスワードのために別のウォレットを使う"
+
+#. i18n: ectx: property (text), widget (QPushButton, _newLocalWallet)
+#. i18n: ectx: property (text), widget (QPushButton, _newWallet)
+#. +> trunk6 stable6
+#: walletconfigwidget.ui:202 walletconfigwidget.ui:242
+#, kde-format
+msgid "New..."
+msgstr "新規..."
+
+#. i18n: ectx: property (text), widget (QLabel, selectDefaultWalletLabel)
+#. +> trunk6 stable6
+#: walletconfigwidget.ui:211
+#, kde-format
+msgid "Default wallet:"
+msgstr "デフォルトのウォレット:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox3)
+#. +> trunk6 stable6
+#: walletconfigwidget.ui:256
+#, kde-format
+msgid "Wallet Manager"
+msgstr "ウォレットマネージャ"
+
+#. i18n: ectx: property (text), widget (QCheckBox, _launchManager)
+#. +> trunk6 stable6
+#: walletconfigwidget.ui:270
+#, kde-format
+msgid "Show manager in system tray"
+msgstr "ウォレットマネージャをシステムトレイに表示する"
+
+#. i18n: ectx: property (text), widget (QCheckBox, _autocloseManager)
+#. +> trunk6 stable6
+#: walletconfigwidget.ui:298
+#, kde-format
+msgid "Hide system tray icon when last wallet closes"
+msgstr "最後のウォレットが閉じるときにシステムトレイのアイコンを隠す"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox5)
+#. +> trunk6 stable6
+#: walletconfigwidget.ui:312
+#, kde-format
+msgid "Secret Service"
+msgstr "Secret Service"
+
+#. i18n: ectx: property (text), widget (QCheckBox, _secretServiceAPI)
+#. +> trunk6 stable6
+#: walletconfigwidget.ui:331
+#, kde-format
+msgid "Use &KWallet for the Secret Service interface"
+msgstr "&KWallet を Secret Service インターフェースとして使用する"
+
+#. i18n: ectx: property (contextualHelpText), widget (KContextualHelpButton, kcontextualhelpbutton)
+#. +> trunk6 stable6
+#: walletconfigwidget.ui:341
+#, kde-format
+msgid ""
+"The Secret Service interface lets applications store passwords and other "
+"confidential data. Disable this to allow third-party wallet services such as "
+"KeePassXC or GNOME Keyring to manage it instead."
+msgstr ""
+"Secret Service インターフェースはパスワードやその他の機密情報をアプリケーショ"
+"ンから保存します。KeePassXC や GNOME Keyring などのサードパーティのウォレット"
+"サービスを使用して管理する場合は、無効にしてください。"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab2)
+#. +> trunk6 stable6
+#: walletconfigwidget.ui:388
+#, kde-format
+msgid "Access Control"
+msgstr "アクセス管理"
+
+#. i18n: ectx: property (text), widget (QCheckBox, _openPrompt)
+#. +> trunk6 stable6
+#: walletconfigwidget.ui:394
+#, kde-format
+msgid "&Prompt when an application accesses a wallet"
+msgstr "アプリケーションがウォレットにアクセスするときに通知する(&P)"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, _accessList)
+#. +> trunk6 stable6
+#: walletconfigwidget.ui:408
+#, kde-format
+msgid "Wallet"
+msgstr "ウォレット"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, _accessList)
+#. +> trunk6 stable6
+#: walletconfigwidget.ui:413
+#, kde-format
+msgid "Application"
+msgstr "アプリケーション"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, _accessList)
+#. +> trunk6 stable6
+#: walletconfigwidget.ui:418
+#, kde-format
+msgid "Policy"
+msgstr "ポリシー"
+
+#. i18n: ectx: property (text), widget (QPushButton, _launch)
+#. +> trunk6 stable6
+#: walletconfigwidget.ui:451
+#, kde-format
+msgid "&Launch Wallet Manager"
+msgstr "ウォレットマネージャを起動(&L)"
+
+#, kde-format
+#~ msgid "Close Wallet"
+#~ msgstr "ウォレットを閉じる"
+
+#, kde-format
+#~ msgid "Close when last application stops using it"
+#~ msgstr "最後のアプリケーションが使い終わったときに閉じる"
+
+#, kde-format
+#~ msgid "Close when screensaver starts"
+#~ msgstr "スクリーンセーバーが起動するときに閉じる"
+
+#, kde-format
+#~ msgid "Close when unused for:"
+#~ msgstr "次の時間未使用であれば閉じる:"
+
+#, kde-format
+#~ msgid "Select wallet to use as default:"
+#~ msgstr "デフォルトで使うウォレット:"
+
+#, kde-format
+#~ msgid "Different wallet for local passwords:"
+#~ msgstr "ローカルのパスワードのために別のウォレットを使う:"
+
+#, kde-format
+#~ msgid "(c) 2003 George Staikos"
+#~ msgstr "(c) 2003 George Staikos"
+
+#, kde-format
+#~ msgid "George Staikos"
+#~ msgstr "George Staikos"
+
+#, kde-format
+#~ msgid ""
+#~ "This configuration module allows you to configure the KDE wallet system."
+#~ msgstr ""
+#~ "この設定モジュールを使って KDE のウォレットシステムを設定することができま"
+#~ "す。"
+
+#~ msgid " min"
+#~ msgstr " 分"
+
+#~ msgid "kcmkwallet"
+#~ msgstr "kcmkwallet"
+
+#~ msgid ""
+#~ "<p>The wallet subsystem provides a convenient and secure way to manage "
+#~ "all your passwords.  This option specifies whether or not you want to use "
+#~ "it.</p>"
+#~ msgstr ""
+#~ "<p>ウォレットは、あなたのすべてのパスワードを安全に管理する便利なサブシス"
+#~ "テムです。このシステムを使うかどうかを、このオプションで選択できます。</p>"
+
+#~ msgid "&Prompt when an application accesses an open wallet"
+#~ msgstr ""
+#~ "アプリケーションが開いているウォレットにアクセスするときに通知する(&P)"
+
+#~ msgid ""
+#~ "<p>The wallet subsytem allows a convenient and secure way to manage all "
+#~ "your passwords. You can decide if you want to use this system with this "
+#~ "option.</p>"
+#~ msgstr ""
+#~ "<p>ウォレットは、あなたのすべてのパスワードを安全に管理する便利なサブシス"
+#~ "テムです。このシステムを使うかどうかを、ここで選択できます。</p>"
+
+#~ msgid ""
+#~ "<p><b>Close wallet as soon as applications that use it have stopped.</"
+#~ "b><br>Note that your wallets will only be closed when all applications "
+#~ "that use it have stopped.<br>When a wallet is closed the password is "
+#~ "needed to access it again.</p>"
+#~ msgstr ""
+#~ "<p>ウォレットを使っているアプリケーションが使い終わったときに閉じます。"
+#~ "ウォレットが閉じられるのは、ウォレットを使っているすべてのアプリケーション"
+#~ "が使い終わったときです。閉じたウォレットに再びアクセスするにはパスワードが"
+#~ "必要です。</p>"
+
+#~ msgid ""
+#~ "<p><b>Close wallet after a period of inactivity</b><br>When a wallet is "
+#~ "closed the password is needed to access it again.</p>"
+#~ msgstr ""
+#~ "<p>未使用のまま一定時間が経過した場合、ウォレットを閉じます。閉じたウォ"
+#~ "レットに再びアクセスするにはパスワードが必要です。</p>"

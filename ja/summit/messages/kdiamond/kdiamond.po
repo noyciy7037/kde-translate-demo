@@ -1,0 +1,320 @@
+# Translation of kdiamond into Japanese.
+# This file is distributed under the same license as the kdegames package.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kdiamond\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-11-22 11:22+0100\n"
+"PO-Revision-Date: 2010-09-26 12:20-0700\n"
+"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Yukiko Bando"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "ybando@k6.dion.ne.jp"
+
+#. +> trunk6 stable6
+#: game-state.cpp:103
+#, kde-format
+msgid "Click the pause button again to resume the game."
+msgstr "ゲームを再開するには、もう一度「一時停止」ボタンを押します。"
+
+#. +> trunk6 stable6
+#: game-state.cpp:110
+#, kde-format
+msgctxt "Not meant like 'You have lost', more like 'Time is up'."
+msgid "Game over."
+msgstr "ゲームオーバー"
+
+#. +> trunk6 stable6
+#: infobar.cpp:18 infobar.cpp:50
+#, kde-format
+msgid "Possible moves: %1"
+msgstr "可能な手: %1"
+
+#. +> trunk6 stable6
+#: infobar.cpp:19 infobar.cpp:42
+#, kde-format
+msgid "Points: %1"
+msgstr "ポイント: %1"
+
+#. +> trunk6 stable6
+#: infobar.cpp:22 infobar.cpp:35
+#, kde-format
+msgid "Untimed game"
+msgstr "制限時間なし"
+
+#. +> trunk6 stable6
+#: infobar.cpp:24 infobar.cpp:68
+#, kde-format
+msgid "Time left: %1"
+msgstr "残り時間: %1"
+
+#. +> trunk6 stable6
+#: infobar.cpp:48
+#, fuzzy, kde-format
+#| msgid "Possible moves: %1"
+msgctxt "Shown when the board is in motion."
+msgid "Possible moves: …"
+msgstr "可能な手: %1"
+
+#. i18n: ectx: label, entry (Untimed), group (Preferences)
+#. +> trunk6 stable6
+#: kdiamond.kcfg:9
+#, kde-format
+msgid "Play an untimed game."
+msgstr "制限時間なしのゲームを開始します。"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#. +> trunk6 stable6
+#: kdiamondui.rc:11
+#, kde-format
+msgid "Main Toolbar"
+msgstr "メインツールバー"
+
+#. +> trunk6 stable6
+#: main.cpp:46
+#, kde-format
+msgctxt "The application's name"
+msgid "KDiamond"
+msgstr "KDiamond"
+
+#. +> trunk6 stable6
+#: main.cpp:48
+#, kde-format
+msgid "KDiamond, a three-in-a-row game."
+msgstr "KDiamond 三目並べ"
+
+#. +> trunk6 stable6
+#: main.cpp:49
+#, kde-format
+msgid "(C) 2008-2010 Stefan Majewsky and others"
+msgstr "(C) 2008-2010 Stefan Majewsky 他"
+
+#. +> trunk6 stable6
+#: main.cpp:52
+#, kde-format
+msgid "Stefan Majewsky"
+msgstr "Stefan Majewsky"
+
+#. +> trunk6 stable6
+#: main.cpp:52
+#, kde-format
+msgid "Original author and current maintainer"
+msgstr "オリジナルの作者、現在のメンテナ"
+
+#. +> trunk6 stable6
+#: main.cpp:53
+#, kde-format
+msgid "Paul Bunbury"
+msgstr "Paul Bunbury"
+
+#. +> trunk6 stable6
+#: main.cpp:53
+#, kde-format
+msgid "Gameplay refinement"
+msgstr "ゲームプレイの改良"
+
+#. +> trunk6 stable6
+#: main.cpp:54
+#, kde-format
+msgid "Eugene Trounev"
+msgstr "Eugene Trounev"
+
+#. +> trunk6 stable6
+#: main.cpp:54
+#, kde-format
+msgid "Default theme"
+msgstr "標準のテーマ"
+
+#. +> trunk6 stable6
+#: main.cpp:55
+#, kde-format
+msgid "Felix Lemke"
+msgstr "Felix Lemke"
+
+#. +> trunk6 stable6
+#: main.cpp:55
+#, kde-format
+msgid "Classic theme"
+msgstr "クラシックテーマ"
+
+#. +> trunk6 stable6
+#: main.cpp:56
+#, kde-format
+msgid "Jeffrey Kelling"
+msgstr "Jeffrey Kelling"
+
+#. +> trunk6 stable6
+#: main.cpp:56
+#, kde-format
+msgid "Technical consultant"
+msgstr "技術顧問"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:55
+#, fuzzy, kde-format
+#| msgctxt "new game"
+#| msgid "&New"
+msgctxt "@title:menu new game"
+msgid "&New"
+msgstr "新しいゲーム(&N)"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:56
+#, fuzzy, kde-format
+#| msgid "Timed game"
+msgctxt "@item:inmenu"
+msgid "Timed Game"
+msgstr "制限時間あり"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:57
+#, fuzzy, kde-format
+#| msgid "Untimed game"
+msgctxt "@item:inmenu"
+msgid "Untimed Game"
+msgstr "制限時間なし"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:63
+#, fuzzy, kde-format
+#| msgid "Start a new game"
+msgctxt "@info:tooltip"
+msgid "Start a new game"
+msgstr "新しいゲームを開始"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:64
+#, fuzzy, kde-format
+#| msgid "Start a new game."
+msgctxt "@info:whatsthis"
+msgid "Starts a new game."
+msgstr "新しいゲームを開始します。"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:147
+#, kde-format
+msgid "Untimed"
+msgstr "制限時間なし"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:147
+#, kde-format
+msgid "Timed"
+msgstr "制限時間あり"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:150 mainwindow.cpp:166
+#, kde-format
+msgid "Mode"
+msgstr "モード"
+
+#. +> trunk6 stable6
+#: view.cpp:21
+#, kde-format
+msgid ""
+"<h3>Rules of Game</h3><p>Your goal is to assemble lines of at least three "
+"similar diamonds. Click on two adjacent diamonds to swap them.</p><p>Earn "
+"extra points by building cascades, and extra seconds by assembling big lines "
+"or multiple lines at one time.</p>"
+msgstr ""
+"<h3>ゲームのルール</h3><p>同じダイヤが少なくとも 3 つ連続するラインを作ってく"
+"ださい。隣接する 2 つのダイヤをクリックすると、位置が入れ替わります。</p><p>"
+"カスケードを作るとボーナスポイントが与えられます。同時に複数のラインを作った"
+"り、長いラインを作ると、プレイ秒数が加算されます。</p>"
+
+#, kde-format
+#~ msgctxt "Shown when the board is in motion."
+#~ msgid "Possible moves: ..."
+#~ msgstr "可能な手: ..."
+
+#, kde-format
+#~ msgctxt "new game"
+#~ msgid "&New"
+#~ msgstr "新しいゲーム(&N)"
+
+#, kde-format
+#~ msgid "Start a new game"
+#~ msgstr "新しいゲームを開始"
+
+#, kde-format
+#~ msgid "Start a new game."
+#~ msgstr "新しいゲームを開始します。"
+
+#, kde-format
+#~ msgid "Timed game"
+#~ msgstr "制限時間あり"
+
+#~ msgid "The graphical theme to be used."
+#~ msgstr "使用するグラフィックテーマ"
+
+#~ msgid "The difficulty level."
+#~ msgstr "難易度"
+
+#~ msgid "Start with Very Easy difficulty level"
+#~ msgstr "難易度「非常に簡単」で開始"
+
+#~ msgid "Start with Easy difficulty level"
+#~ msgstr "難易度「簡単」で開始"
+
+#~ msgid "Start with Medium difficulty level"
+#~ msgstr "難易度「普通」で開始"
+
+#~ msgid "Start with Hard difficulty level"
+#~ msgstr "難易度「難しい」で開始"
+
+#~ msgid "Start with Very Hard difficulty level"
+#~ msgstr "難易度「非常に難しい」で開始"
+
+#~ msgid "Theme"
+#~ msgstr "テーマ"
+
+#~ msgid "(C) 2008-2009 Stefan Majewsky and others"
+#~ msgstr "(C) 2008-2009 Stefan Majewsky 他"
+
+#~ msgid "Failed to load \"%1\" theme. Please check your installation."
+#~ msgstr ""
+#~ "テーマ “%1” を読み込めませんでした。インストールを確認してください。"
+
+#~ msgid "Time left: 1 second"
+#~ msgid_plural "Time left: %1 seconds"
+#~ msgstr[0] "残り時間: %1 秒"
+
+#~ msgid "1 second"
+#~ msgid_plural "%1 seconds"
+#~ msgstr[0] "%1 秒"
+
+#~ msgid "1 minute"
+#~ msgid_plural "%1 minutes"
+#~ msgstr[0] "%1 分"
+
+#~ msgctxt "The two parameters are strings like '2 minutes' or '1 second'."
+#~ msgid "Time left: %1, %2"
+#~ msgstr "残り時間: %1 %2"
+
+#~ msgid "Show minutes separately on the timer."
+#~ msgstr "残り時間を分と秒で表示します。"
+
+#~ msgid "(C) 2008 Stefan Majewsky and others"
+#~ msgstr "(C) 2008 Stefan Majewsky 他"
+
+#~ msgid "Show minutes on timer"
+#~ msgstr "タイマーに分を表示する"

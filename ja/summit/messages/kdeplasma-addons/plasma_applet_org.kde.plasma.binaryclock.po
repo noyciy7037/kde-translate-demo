@@ -1,0 +1,249 @@
+# Translation of plasma_applet_binaryclock into Japanese
+# This file is distributed under the same license as the kdeplasma-addons package.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2007, 2008.
+# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_binaryclock\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-05-18 10:16+0200\n"
+"PO-Revision-Date: 2021-10-17 13:03-0700\n"
+"Last-Translator: Fumiaki Okushi <fumiaki.okushi@gmail.com>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#. +> trunk6 stable6 stable5
+#: config.qml:17
+#, kde-format
+msgctxt "@title"
+msgid "Appearance"
+msgstr "外観"
+
+# ACCELERATOR added by translator
+#. +> trunk6 stable6
+#: configGeneral.qml:29
+#, fuzzy, kde-format
+#| msgid "Show"
+msgctxt ""
+"@title:group The things being potentially shown are lights and seconds"
+msgid "Show:"
+msgstr "表示する"
+
+#. +> trunk6 stable6
+#: configGeneral.qml:30 configGeneral.qml:60
+#, fuzzy, kde-format
+#| msgctxt "@option:check"
+#| msgid "Inactive LEDs"
+msgctxt "@option:check"
+msgid "Inactive lights"
+msgstr "点灯していない LED"
+
+#. +> trunk6 stable6 stable5
+#: configGeneral.qml:35
+#, kde-format
+msgctxt "@option:check"
+msgid "Seconds"
+msgstr "秒"
+
+#. +> trunk6 stable6 stable5
+#: configGeneral.qml:43
+#, kde-format
+msgid "Use custom color for:"
+msgstr "カスタム色を使う:"
+
+#. +> trunk6 stable6
+#: configGeneral.qml:47
+#, fuzzy, kde-format
+#| msgctxt "@option:check"
+#| msgid "Active LEDs"
+msgctxt "@option:check"
+msgid "Active lights"
+msgstr "点灯している LED"
+
+#. +> stable5
+#: package/contents/ui/configGeneral.qml:35
+#, kde-format
+msgid "Display:"
+msgstr "表示:"
+
+#. +> stable5
+#: package/contents/ui/configGeneral.qml:36
+#: package/contents/ui/configGeneral.qml:90
+#, kde-format
+msgctxt "@option:check"
+msgid "Grid"
+msgstr "グリッド"
+
+#. +> stable5
+#: package/contents/ui/configGeneral.qml:41
+#: package/contents/ui/configGeneral.qml:77
+#, kde-format
+msgctxt "@option:check"
+msgid "Inactive LEDs"
+msgstr "点灯していない LED"
+
+#. +> stable5
+#: package/contents/ui/configGeneral.qml:51
+#, kde-format
+msgctxt "@option:check"
+msgid "In BCD format (decimal)"
+msgstr "BCD 型式 (十進数)"
+
+#. +> stable5
+#: package/contents/ui/configGeneral.qml:64
+#, kde-format
+msgctxt "@option:check"
+msgid "Active LEDs"
+msgstr "点灯している LED"
+
+# ACCELERATOR added by translator
+#, fuzzy
+#~| msgid "Show grid"
+#~ msgid "Draw grid"
+#~ msgstr "グリッドを表示する(&G)"
+
+# ACCELERATOR added by translator
+#, fuzzy
+#~| msgid "Show grid"
+#~ msgctxt "@option:check"
+#~ msgid "Draw grid"
+#~ msgstr "グリッドを表示する(&G)"
+
+#~ msgid "Check this if you want to see the inactive LEDs."
+#~ msgstr "点灯していない LED も表示させる場合、これをチェックします。"
+
+#~ msgid "Show the grid"
+#~ msgstr "グリッドを表示します"
+
+#~ msgid "Check this if you want to see a grid around leds."
+#~ msgstr "LED の周りにグリッドを表示させる場合、これをチェックします。"
+
+#~ msgid "Information"
+#~ msgstr "情報"
+
+#~ msgid "Show the seconds LEDs"
+#~ msgstr "秒を表す LED を表示します"
+
+#~ msgid ""
+#~ "Check this if you want to display seconds LEDs in order to see the "
+#~ "seconds."
+#~ msgstr "秒を表す LED を表示させる場合、これをチェックします。"
+
+#~ msgid "General"
+#~ msgstr "全般"
+
+#~ msgid "Show the off leds"
+#~ msgstr "点灯していない LED を表示します"
+
+#~ msgid "Check this if you want to see off leds."
+#~ msgstr "点灯していない LED も表示させる場合、これをチェックします。"
+
+#~ msgid "Show the second leds"
+#~ msgstr "秒を表す LED を表示します"
+
+#~ msgid ""
+#~ "Check this if you want to display second leds in order to see the seconds."
+#~ msgstr "秒を表す LED を表示させる場合、これをチェックします。"
+
+# ACCELERATOR added by translator
+#~ msgid "Show off leds"
+#~ msgstr "点灯していない LED を表示する(&W)"
+
+#~ msgid "Timezones"
+#~ msgstr "タイムゾーン"
+
+#~ msgid "Use &local timezone"
+#~ msgstr "システムのタイムゾーンを使う(&L)"
+
+#~ msgid "Area"
+#~ msgstr "エリア"
+
+#~ msgid "Region"
+#~ msgstr "地域"
+
+#~ msgid "Comment"
+#~ msgstr "コメント"
+
+#, fuzzy
+#~ msgid "Appearance"
+#~ msgstr "外観"
+
+#, fuzzy
+#~ msgid "Show inactive LEDs:"
+#~ msgstr "点灯していない LED"
+
+#, fuzzy
+#~ msgid "Use custom color for active LEDs"
+#~ msgstr "カスタム色を使う:"
+
+#, fuzzy
+#~ msgid "Use custom color for inactive LEDs"
+#~ msgstr "カスタム色を使う:"
+
+#, fuzzy
+#~ msgid "Use custom color for grid"
+#~ msgstr "カスタム色を使う:"
+
+#, fuzzy
+#~ msgctxt "@option:check"
+#~ msgid "Show inactive LEDs"
+#~ msgstr "点灯していない LED"
+
+#, fuzzy
+#~ msgctxt "@option:check"
+#~ msgid "Use custom color for active LEDs"
+#~ msgstr "カスタム色を使う:"
+
+#, fuzzy
+#~ msgctxt "@option:check"
+#~ msgid "Use custom color for inactive LEDs"
+#~ msgstr "カスタム色を使う:"
+
+#, fuzzy
+#~ msgctxt "@option:check"
+#~ msgid "Use custom color for grid"
+#~ msgstr "カスタム色を使う:"
+
+#, fuzzy
+#~ msgid "Use custom color for active LEDs:"
+#~ msgstr "カスタム色を使う:"
+
+#, fuzzy
+#~ msgid "Show the inactive LEDs"
+#~ msgstr "点灯していない LED"
+
+#, fuzzy
+#~ msgid "Use theme color"
+#~ msgstr "カスタム色を使う:"
+
+#, fuzzy
+#~ msgid "Use custom color for inactive LEDs:"
+#~ msgstr "カスタム色を使う:"
+
+#, fuzzy
+#~ msgid "Use custom grid color:"
+#~ msgstr "カスタム色を使う:"
+
+#, fuzzy
+#~ msgctxt "@title:group"
+#~ msgid "Appearance"
+#~ msgstr "外観"
+
+#, fuzzy
+#~ msgid "Use custom on leds color:"
+#~ msgstr "カスタム色を使う:"
+
+#, fuzzy
+#~ msgid "Use custom off leds color:"
+#~ msgstr "カスタム色を使う:"
+
+#, fuzzy
+#~ msgid "Show &seconds"
+#~ msgstr "秒"

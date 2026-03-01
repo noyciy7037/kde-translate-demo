@@ -1,0 +1,94 @@
+# translation of searchbarplugin.po to Japanese
+# Copyright (C) 2004-2007 This_file_is_part_of_KDE
+# This file is distributed under the same license as the kdeaddons package.
+# Toyohiro Asukai <toyohiro@ksmplus.com>, 2004.
+# hu <hu_renraku@yahoo.co.jp>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: searchbarplugin\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2026-01-27 04:39+0100\n"
+"PO-Revision-Date: 2007-01-08 18:00+0900\n"
+"Last-Translator: Yukiko Bando <ybando@k6.dion.ne.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.10.2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. +> trunk6 stable6
+#: searchbar.cpp:67
+#, kde-format
+msgid ""
+"Search Bar<p>Enter a search term. Click on the icon to change search mode or "
+"provider.</p>"
+msgstr ""
+"<p>検索バー</p><p>ここに検索語を入力します。検索モードまたは検索エンジンを変"
+"更するにはアイコンをクリックしてください。</p>"
+
+#. +> trunk6 stable6
+#: searchbar.cpp:72
+#, kde-format
+msgid "Search Bar"
+msgstr "検索バー"
+
+#. +> trunk6 stable6
+#: searchbar.cpp:77
+#, kde-format
+msgid "Focus Searchbar"
+msgstr "検索バーにフォーカス"
+
+#. +> trunk6 stable6
+#: searchbar.cpp:275
+#, fuzzy, kde-format
+#| msgid "Find in This Page"
+msgid "Find in Page..."
+msgstr "このページを検索"
+
+#. +> trunk6 stable6
+#: searchbar.cpp:295
+#, kde-format
+msgid "Find in This Page"
+msgstr "このページを検索"
+
+#. +> trunk6 stable6
+#: searchbar.cpp:307
+#, kde-format
+msgid "Select Search Engines..."
+msgstr "検索エンジンを選択..."
+
+#. +> trunk6 stable6
+#: searchbar.cpp:326
+#, kde-format
+msgid "Add %1..."
+msgstr ""
+
+#. i18n: ectx: ToolBar (searchToolBar)
+#. +> trunk6 stable6
+#: searchbarplugin.rc:3
+#, kde-format
+msgid "Search Toolbar"
+msgstr "検索ツールバー"
+
+#. +> trunk6 stable6
+#: WebShortcutWidget.cpp:33
+#, kde-format
+msgid "Set Uri Shortcuts"
+msgstr ""
+
+#. +> trunk6 stable6
+#: WebShortcutWidget.cpp:47
+#, kde-format
+msgid "Name:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: WebShortcutWidget.cpp:51
+#, kde-format
+msgid "Shortcuts:"
+msgstr ""

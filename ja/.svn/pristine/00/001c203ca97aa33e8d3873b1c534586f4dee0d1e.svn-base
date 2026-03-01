@@ -1,0 +1,565 @@
+# Translation of desktop_kdebase into Japanese.
+# Noboru Sinohara <shinobo@leo.bekkoame.ne.jp>, 2002.
+# Taiki Komoda <kom@kde.gr.jp>, 2002,2003, 2004, 2010.
+# Masaharu 'Max' Goto <magotou@fubyshare.gr.jp>, 2004.
+# Toyohiro Asukai <toyohiro@ksmplus.com>, 2004.
+# Kurose Shushi <md81@bird.email.ne.jp>, 2004.
+# AWASHIRO Ikuya <ikuya@oooug.jp>, 2004.
+# Shinichi Tsunoda <tsuno@ngy.1st.ne.jp>, 2005.
+# Awashiro Ikuya <ikuya@fruitsbasket.info>, 2006.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2006, 2007, 2008, 2009, 2010.
+# phanect <phanective@gmail.com>, 2010.
+# Jumpei Ogawa (phanect) <phanective@gmail.com>, 2010.
+# Fuminobu TAKEYAMA <ftake@geeko.jp>, 2015.
+# Tomohiro Hyakutake <tomhioo@outlook.jp>, 2019.
+# rokuosan <rokuosan.dev@gmail.com>, 2021.
+# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2005, 2006, 2007, 2010, 2011, 2021.
+# SPDX-FileCopyrightText: 2023, 2024 Ryuichi Yamada <ryuichi_ya220@outlook.jp>
+# SPDX-FileCopyrightText: 2025 Yuma Kakei <yumasansansan@gmail.com>
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdebase\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2026-02-20 16:37+0100\n"
+"PO-Revision-Date: 2025-09-21 17:40+0900\n"
+"Last-Translator: Yuma Kakei <yumasansansan@gmail.com>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: \n"
+"X-Text-Markup: \n"
+"X-Generator: Lokalize 25.08.1\n"
+
+#. +> trunk6 stable6 stable5
+#: app/kdesystemsettings.desktop:9
+msgctxt "GenericName"
+msgid "KDE System Settings"
+msgstr "KDE システム設定"
+
+#. +> trunk6 stable6 stable5
+#: app/kdesystemsettings.desktop:77
+msgctxt "Name"
+msgid "KDE System Settings"
+msgstr "KDE システム設定"
+
+#. +> trunk6 stable6
+#: app/kdesystemsettings.desktop:146
+msgctxt "Comment"
+msgid "Configure KDE Plasma’s behavior and appearance"
+msgstr "KDE Plasma の挙動と外観を設定"
+
+#. +> stable5
+#: app/kdesystemsettings.desktop:136 app/systemsettings.desktop:185
+msgctxt "Comment"
+msgid "Configuration tools for your computer"
+msgstr "コンピュータ設定ツール"
+
+#. +> trunk6 stable6
+#: app/kdesystemsettings.desktop:192 app/systemsettings.desktop:236
+msgctxt "Keywords"
+msgid "systemsettings"
+msgstr "設定,システム設定,systemsettings"
+
+#. +> trunk6 stable6 stable5
+#: app/systemsettings.desktop:13
+msgctxt "GenericName"
+msgid "System Settings"
+msgstr "システム設定"
+
+#. +> trunk6 stable6 stable5
+#: app/systemsettings.desktop:101
+msgctxt "Name"
+msgid "System Settings"
+msgstr "KDE システム設定"
+
+#. +> trunk6 stable6
+#: app/systemsettings.desktop:193
+msgctxt "Comment"
+msgid "Configure the system’s behavior and appearance"
+msgstr "システムの挙動と外観を設定"
+
+#. +> trunk6 stable6 stable5
+#: app/systemsettings.desktop:287
+msgctxt "Name"
+msgid "Global Theme"
+msgstr "グローバルテーマ"
+
+#. +> trunk6 stable6 stable5
+#: app/systemsettings.desktop:347
+msgctxt "Name"
+msgid "Users"
+msgstr "ユーザ"
+
+#. +> trunk6 stable6 stable5
+#: app/systemsettings.desktop:409
+msgctxt "Name"
+msgid "Screen Locking"
+msgstr "画面ロック"
+
+#. +> trunk6 stable6 stable5
+#: app/systemsettings.desktop:470
+msgctxt "Name"
+msgid "Power Management"
+msgstr "電源管理"
+
+#. +> trunk6 stable6 stable5
+#: app/systemsettings.desktop:556
+msgctxt "Name"
+msgid "Display Configuration"
+msgstr "ディスプレイの設定"
+
+#. +> stable5
+#: app/systemsettings.desktop:406
+msgctxt "Name"
+msgid "Energy Saving"
+msgstr "節電"
+
+#. +> trunk6 stable6 stable5
+#: categories/hidden.desktop:6
+msgctxt "Name"
+msgid "Hidden"
+msgstr "非表示"
+
+#. +> trunk6 stable6
+#: categories/settings-appearance-font.desktop:8
+msgctxt "Name"
+msgid "Text & Fonts"
+msgstr "テキストとフォント"
+
+#. +> stable5
+#: categories/settings-appearance-font.desktop:8
+msgctxt "Name"
+msgid "Fonts"
+msgstr "フォント"
+
+#. +> trunk6 stable6
+#: categories/settings-appearance-themes.desktop:9
+msgctxt "Name"
+msgid "Colors & Themes"
+msgstr "色とテーマ"
+
+#. +> trunk6 stable6
+#: categories/settings-appearance.desktop:8
+msgctxt "Name"
+msgid "Appearance & Style"
+msgstr "外観とスタイル"
+
+#. +> stable5
+#: categories/settings-appearance.desktop:10
+msgctxt "Name"
+msgid "Appearance"
+msgstr "外観"
+
+#. +> trunk6 stable6
+#: categories/settings-applications-defaults.desktop:8
+msgctxt "Name"
+msgid "Default Applications"
+msgstr "デフォルトのアプリケーション"
+
+#. +> trunk6 stable6
+#: categories/settings-applications-permissions.desktop:8
+msgctxt "Name"
+msgid "Application Permissions"
+msgstr "アプリケーションの権限"
+
+#. +> trunk6 stable6
+#: categories/settings-applications.desktop:8
+msgctxt "Name"
+msgid "Apps & Windows"
+msgstr "アプリケーションとウィンドウ"
+
+#. +> trunk6 stable6
+#: categories/settings-hardware-display.desktop:8
+msgctxt "Name"
+msgid "Display & Monitor"
+msgstr "ディスプレイとモニタ"
+
+#. +> stable5
+#: categories/settings-hardware-display.desktop:8
+msgctxt "Name"
+msgid "Display and Monitor"
+msgstr "ディスプレイとモニタ"
+
+#. +> trunk6 stable6 stable5
+#: categories/settings-hardware-display.desktop:60
+msgctxt "Comment"
+msgid "Display Settings"
+msgstr "ディスプレイの設定"
+
+#. +> trunk6 stable6
+#: categories/settings-hardware-input-pointing-devices.desktop:10
+msgctxt "Name"
+msgid "Mouse & Touchpad"
+msgstr "マウスとタッチパッド"
+
+#. +> trunk6 stable6
+#: categories/settings-hardware-input-touchscreen.desktop:8
+msgctxt "Name"
+msgid "Touchscreen"
+msgstr "タッチスクリーン"
+
+#. +> trunk6 stable6
+#: categories/settings-hardware-input.desktop:8
+msgctxt "Name"
+msgid "Input & Output"
+msgstr "入力/出力デバイス"
+
+#. +> stable5
+#: categories/settings-hardware-input.desktop:8
+msgctxt "Name"
+msgid "Input Devices"
+msgstr "入力デバイス"
+
+#. +> trunk6 stable6
+#: categories/settings-hardware-keyboard.desktop:8
+msgctxt "Name"
+msgid "Keyboard"
+msgstr "キーボード"
+
+#. +> trunk6 stable6 stable5
+#: categories/settings-hardware-multimedia.desktop:8
+msgctxt "Name"
+msgid "Multimedia"
+msgstr "マルチメディア"
+
+#. +> trunk6 stable6
+#: categories/settings-hardware-removable-storage.desktop:8
+msgctxt "Name"
+msgid "Disks & Cameras"
+msgstr "ディスクとカメラ"
+
+#. +> stable5
+#: categories/settings-hardware-removable-storage.desktop:7
+msgctxt "Name"
+msgid "Removable Storage"
+msgstr "リムーバブルストレージ"
+
+#. +> trunk6 stable6
+#: categories/settings-hardware.desktop:8
+msgctxt "Name"
+msgid "Connected Devices"
+msgstr "接続されたデバイス"
+
+#. +> stable5
+#: categories/settings-hardware.desktop:8
+msgctxt "Name"
+msgid "Hardware"
+msgstr "ハードウェア"
+
+#. +> trunk6 stable6
+#: categories/settings-network-networksettings.desktop:8
+msgctxt "Name"
+msgid "Wi-Fi & Internet"
+msgstr "Wi-Fi とインターネット"
+
+#. +> stable5
+#: categories/settings-network-networksettings.desktop:8
+msgctxt "Name"
+msgid "Settings"
+msgstr "設定"
+
+#. +> trunk6 stable6
+#: categories/settings-network.desktop:8
+msgctxt "Name"
+msgid "Networking"
+msgstr "ネットワーク"
+
+#. +> stable5
+#: categories/settings-network.desktop:7
+msgctxt "Name"
+msgid "Network"
+msgstr "ネットワーク"
+
+#. +> trunk6 stable6 stable5
+#: categories/settings-personalization.desktop:8
+msgctxt "Name"
+msgid "Personalization"
+msgstr "個人設定"
+
+#. +> trunk6 stable6
+#: categories/settings-regionalsettings.desktop:8
+msgctxt "Name"
+msgid "Language & Time"
+msgstr "言語と時刻"
+
+#. +> trunk6 stable6 stable5
+#: categories/settings-root-category.desktop:8
+msgctxt "Name"
+msgid "Root"
+msgstr "Root"
+
+#. +> trunk6 stable6
+#: categories/settings-security-privacy.desktop:8
+msgctxt "Name"
+msgid "Security & Privacy"
+msgstr "セキュリティとプライバシー"
+
+#. +> trunk6 stable6
+#: categories/settings-system-administration.desktop:8
+msgctxt "Name"
+msgid "System"
+msgstr "システム"
+
+#. +> stable5
+#: categories/settings-system-administration.desktop:8
+msgctxt "Name"
+msgid "System Administration"
+msgstr "システム管理"
+
+#. +> trunk6 stable6 stable5
+#: categories/settings-workspace-search.desktop:8
+msgctxt "Name"
+msgid "Search"
+msgstr "検索"
+
+#. +> trunk6 stable6
+#: categories/settings-workspace-session.desktop:8
+msgctxt "Name"
+msgid "Session"
+msgstr "セッション"
+
+#. +> stable5
+#: categories/settings-workspace-session.desktop:8
+msgctxt "Name"
+msgid "Startup and Shutdown"
+msgstr "起動と終了"
+
+#. +> trunk6 stable6 stable5
+#: categories/settings-workspace-windowmanagement.desktop:8
+msgctxt "Name"
+msgid "Window Management"
+msgstr "ウィンドウの管理"
+
+#. +> trunk6 stable6 stable5
+#: categories/settings-workspace.desktop:8
+msgctxt "Name"
+msgid "Workspace"
+msgstr "ワークスペース"
+
+#. +> stable5
+#: categories/settings-appearance-color.desktop:8
+msgctxt "Name"
+msgid "Colors"
+msgstr "色"
+
+#. +> stable5
+#: categories/settings-network-connectivity.desktop:8
+msgctxt "Name"
+msgid "Connectivity"
+msgstr "接続性"
+
+#. +> stable5
+#: categories/settings-personalization-applications.desktop:8
+msgctxt "Name"
+msgid "Applications"
+msgstr "アプリケーション"
+
+#. +> stable5
+#: categories/settings-personalization-regionalsettings.desktop:8
+msgctxt "Name"
+msgid "Regional Settings"
+msgstr "地域の設定"
+
+#. +> stable5
+#: categories/settings-workspace-desktopbehavior.desktop:8
+msgctxt "Name"
+msgid "Workspace Behavior"
+msgstr "ワークスペースの挙動"
+
+#. +> stable5
+#: categories/settings-workspace-shortcuts.desktop:8
+msgctxt "Name"
+msgid "Shortcuts"
+msgstr "ショートカット"
+
+#. +> stable5
+#: core/infocenterexternalapp.desktop:6
+msgctxt "Name"
+msgid "Info Center External Application"
+msgstr "情報センターの外部アプリケーション"
+
+#. +> stable5
+#: core/systemsettingsexternalapp.desktop:4
+msgctxt "Name"
+msgid "System Settings External Application"
+msgstr "KDE システム設定の外部アプリケーション"
+
+#. +> stable5
+#: icons/settings-icon-view.desktop:6 sidebar/settings-sidebar-view.desktop:6
+msgctxt "X-KDE-Keywords"
+msgid "System Settings"
+msgstr "システム設定"
+
+#. +> stable5
+#: icons/settings-icon-view.desktop:69
+msgctxt "Name"
+msgid "Icon View"
+msgstr "アイコン表示"
+
+#. +> stable5
+#: icons/settings-icon-view.desktop:148
+msgctxt "Comment"
+msgid "The KDE 4 icon view style"
+msgstr "KDE 4 のアイコン表示スタイル"
+
+#. +> stable5
+#: sidebar/package/metadata.desktop:2 sidebar/settings-sidebar-view.desktop:69
+msgctxt "Name"
+msgid "Sidebar View"
+msgstr "サイドバー表示"
+
+#. +> stable5
+#: sidebar/package/metadata.desktop:57
+#: sidebar/settings-sidebar-view.desktop:124
+msgctxt "Comment"
+msgid "Categorized sidebar style"
+msgstr "カテゴリ別のサイドバースタイル"
+
+#~ msgctxt "Name"
+#~ msgid "Wi-Fi & Networking"
+#~ msgstr "Wi-Fi とネットワーク"
+
+#~ msgctxt "Name"
+#~ msgid "Internet"
+#~ msgstr "インターネット"
+
+#~ msgctxt "Name"
+#~ msgid "Behavior"
+#~ msgstr "挙動"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Regional Settings"
+#~ msgctxt "Name"
+#~ msgid "Personal Settings"
+#~ msgstr "地域の設定"
+
+#~ msgctxt "Name"
+#~ msgid "Icons"
+#~ msgstr "アイコン"
+
+#~ msgctxt "Name"
+#~ msgid "Peripherals"
+#~ msgstr "周辺機器"
+
+#~ msgctxt "Name"
+#~ msgid "Bluetooth"
+#~ msgstr "Bluetooth"
+
+#~ msgctxt "Name"
+#~ msgid "Accessibility"
+#~ msgstr "アクセシビリティ"
+
+#~ msgctxt "Name"
+#~ msgid "Account Details"
+#~ msgstr "アカウント詳細"
+
+#~ msgctxt "Name"
+#~ msgid "Notifications"
+#~ msgstr "通知"
+
+#~ msgctxt "Name"
+#~ msgid "System Settings Category"
+#~ msgstr "システム設定のカテゴリ"
+
+#~ msgctxt "Name"
+#~ msgid "System Settings View"
+#~ msgstr "KDE システム設定の表示スタイル"
+
+#~ msgctxt "Name"
+#~ msgid "Application and System Notifications"
+#~ msgstr "アプリケーションとシステムの通知"
+
+#~ msgctxt "Name"
+#~ msgid "Application Appearance"
+#~ msgstr "アプリケーションの外観"
+
+#~ msgctxt "Name"
+#~ msgid "Workspace Appearance"
+#~ msgstr "ワークスペースの外観"
+
+#~ msgctxt "Comment"
+#~ msgid "Customize the appearance of your desktop"
+#~ msgstr "デスクトップの外観をカスタマイズ"
+
+#~ msgctxt "Name"
+#~ msgid "Locale"
+#~ msgstr "ロケール"
+
+#~ msgctxt "Name"
+#~ msgid "Lost and Found"
+#~ msgstr "Lost and Found"
+
+#~ msgctxt "Name"
+#~ msgid "Network and Connectivity"
+#~ msgstr "ネットワークと接続"
+
+#~ msgctxt "Name"
+#~ msgid "Network Settings"
+#~ msgstr "ネットワークの設定"
+
+#~ msgctxt "Name"
+#~ msgid "Personal Information"
+#~ msgstr "個人情報"
+
+#~ msgctxt "Name"
+#~ msgid "Sharing"
+#~ msgstr "共有"
+
+#~ msgctxt "Name"
+#~ msgid "Shortcuts and Gestures"
+#~ msgstr "ショートカットとジェスチャー"
+
+#~ msgctxt "Name"
+#~ msgid "Workspace Appearance and Behavior"
+#~ msgstr "ワークスペースの外観と挙動"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Application Style"
+#~ msgstr "アプリケーション"
+
+#~ msgctxt "Name"
+#~ msgid "Tree View"
+#~ msgstr "ツリー表示"
+
+#~ msgctxt "Comment"
+#~ msgid "A Classic KDE 3 KControl style system settings view."
+#~ msgstr "KDE 3 のコントロールセンターの表示スタイル"
+
+#~ msgctxt "Name"
+#~ msgid "Classic Tree View"
+#~ msgstr "古典的なツリー表示"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Desktop Behavior"
+#~ msgstr "ワークスペースの挙動"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Color"
+#~ msgstr "色"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Font"
+#~ msgstr "フォント"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Removable Devices"
+#~ msgstr "リムーバブルストレージ"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Human Input Devices"
+#~ msgstr "入力デバイス"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Common Appearance and Behavior"
+#~ msgstr "ワークスペースの外観と挙動"

@@ -1,0 +1,35 @@
+# SPDX-FileCopyrightText: 2026 Teruyoshi Ogawa <terucco@gmail.com>
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2026-02-06 08:31+0100\n"
+"PO-Revision-Date: 2026-01-03 10:53+0900\n"
+"Last-Translator: Teruyoshi Ogawa <terucco@gmail.com>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: \n"
+"X-Text-Markup: \n"
+"X-Generator: Lokalize 25.12.0\n"
+
+#. +> trunk6
+#: data/org.kde.haruna.desktop:8
+msgctxt "Name"
+msgid "Haruna"
+msgstr "Haruna"
+
+#. +> trunk6
+#: data/org.kde.haruna.desktop:43
+msgctxt "GenericName"
+msgid "Media Player"
+msgstr "メディアプレーヤー"
+
+#. +> trunk6
+#: data/org.kde.haruna.desktop:75
+msgctxt "Comment"
+msgid "Open source media player built with Qt/QML and libmpv"
+msgstr "Qt/QML と libmpv で構築されたオープンソースのメディアプレーヤー"

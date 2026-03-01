@@ -1,0 +1,672 @@
+# Translation of korganizer into Japanese.
+# This file is distributed under the same license as the kdepim package.
+# Taiki Komoda <kom@kde.gr.jp>, 2002,2003, 2004.
+# Noboru Sinohara <shinobo@leo.bekkoame.ne.jp>, 2004.
+# Toyohiro Asukai <toyohiro@ksmplus.com>, 2004.
+# Shinichi Tsunoda <tsuno@ngy.1st.ne.jp>, 2005.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2006, 2007, 2008, 2009, 2010.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2006, 2007, 2011, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: korganizer\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-07-21 18:02+0200\n"
+"PO-Revision-Date: 2012-01-28 16:07-0800\n"
+"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. +> trunk6 stable6
+#: emailaddressselectionldapdialog/emailaddressselectionldapdialog.cpp:35
+#, kde-format
+msgctxt "@action:button"
+msgid "Search &Directory Service"
+msgstr ""
+
+#, fuzzy, kde-format
+#~| msgid "Configure Day Numbers"
+#~ msgctxt "@title:window"
+#~ msgid "Configure Day Numbers"
+#~ msgstr "日数表示の設定"
+
+#, kde-format
+#~ msgid "Show Date Number"
+#~ msgstr "表示する日数"
+
+#, kde-format
+#~ msgid "Show day number"
+#~ msgstr "年初からの日数"
+
+#, kde-format
+#~ msgid "Show days to end of year"
+#~ msgstr "年末までの日数"
+
+#, kde-format
+#~ msgid "Show both"
+#~ msgstr "両方"
+
+#, kde-format
+#~ msgid "This plugin shows information on a day's position in the year."
+#~ msgstr ""
+#~ "このプラグインは、それぞれの日が 1 年の何番目の日であるかを表示します。"
+
+#, kde-format
+#~ msgid "1 day before the end of the year"
+#~ msgid_plural "%1 days before the end of the year"
+#~ msgstr[0] "年末まであと %1 日"
+
+#, kde-format
+#~ msgctxt "dayOfYear / daysTillEndOfYear"
+#~ msgid "%1 / %2"
+#~ msgstr "%1 / %2"
+
+#, kde-format
+#~ msgid "1 day since the beginning of the year,\n"
+#~ msgid_plural "%1 days since the beginning of the year,\n"
+#~ msgstr[0] "今年の %1 日目\n"
+
+#, kde-format
+#~ msgid "1 day until the end of the year"
+#~ msgid_plural "%1 days until the end of the year"
+#~ msgstr[0] "年末まであと %1 日"
+
+#, kde-format
+#~ msgctxt "Week weekOfYear"
+#~ msgid "Week %1"
+#~ msgstr "第 %1 週"
+
+#, kde-format
+#~ msgid "1 week since the beginning of the year"
+#~ msgid_plural "%1 weeks since the beginning of the year"
+#~ msgstr[0] "今年の %1 週目"
+
+#, kde-format
+#~ msgctxt "weekOfYear (year)"
+#~ msgid "%1 (%2)"
+#~ msgstr "%1 (%2)"
+
+#, kde-format
+#~ msgctxt "Week weekOfYear (year)"
+#~ msgid "Week %1 (%2)"
+#~ msgstr "第 %1 週 (%2)"
+
+#, kde-format
+#~ msgid "1 week remaining"
+#~ msgid_plural "%1 weeks remaining"
+#~ msgstr[0] "残り %1 週"
+
+#, kde-format
+#~ msgid "1 week until the end of the year"
+#~ msgid_plural "%1 weeks until the end of the year"
+#~ msgstr[0] "年末まであと %1 週"
+
+#, kde-format
+#~ msgctxt "weekOfYear / weeksTillEndOfYear"
+#~ msgid "%1 / %2"
+#~ msgstr "%1 / %2"
+
+#, kde-format
+#~ msgctxt ""
+#~ "n weeks since the beginning of the year\n"
+#~ "n weeks until the end of the year"
+#~ msgid ""
+#~ "%1\n"
+#~ "%2"
+#~ msgstr ""
+#~ "%1\n"
+#~ "%2"
+
+#, fuzzy, kde-format
+#~| msgid "Configure Holidays"
+#~ msgctxt "@title:window"
+#~ msgid "Configure Holidays"
+#~ msgstr "休日の設定"
+
+#, kde-format
+#~ msgid "Use Israeli holidays"
+#~ msgstr "イスラエルの休日を使う"
+
+#, kde-format
+#~ msgid "Show weekly parsha"
+#~ msgstr "週の parsha を表示"
+
+#, kde-format
+#~ msgid "Show day of Omer"
+#~ msgstr "Omer の日を表示"
+
+#, kde-format
+#~ msgid "Show Chol HaMoed"
+#~ msgstr "Chol HaMoed を表示"
+
+#, kde-format
+#~ msgctxt ""
+#~ "Change the next two strings if emphasis is done differently in your "
+#~ "language."
+#~ msgid ""
+#~ "<qt><p align=\"center\"><i>\n"
+#~ "%1\n"
+#~ "</i></p></qt>"
+#~ msgstr ""
+#~ "<qt><p align=\"center\">\n"
+#~ "%1\n"
+#~ "</p></qt>"
+
+#, kde-format
+#~ msgid "This plugin provides the date in the Jewish calendar."
+#~ msgstr "このプラグインはユダヤ暦の日を提供します。"
+
+#, kde-format
+#~ msgctxt ""
+#~ "These are Jewish holidays and mostly do not have translations. They may "
+#~ "have different spellings in your language; otherwise, just translate the "
+#~ "sound to your characters."
+#~ msgid "Sh. HaHodesh"
+#~ msgstr "Sh. HaHodesh"
+
+#, kde-format
+#~ msgid "Erev Pesach"
+#~ msgstr "Erev Pesach"
+
+#, kde-format
+#~ msgid "Sh. HaGadol"
+#~ msgstr "Sh. HaGadol"
+
+#, kde-format
+#~ msgid "Pesach"
+#~ msgstr "Pesach"
+
+#, kde-format
+#~ msgid "Chol Hamoed"
+#~ msgstr "Chol Hamoed"
+
+#, kde-format
+#~ msgid "Yom HaShoah"
+#~ msgstr "Yom HaShoah"
+
+#, kde-format
+#~ msgid "Yom HaAtzmaut"
+#~ msgstr "Yom HaAtzmaut"
+
+#, kde-format
+#~ msgid "Yom HaZikaron"
+#~ msgstr "Yom HaZikaron"
+
+#, kde-format
+#~ msgid "Yom Yerushalayim"
+#~ msgstr "Yom Yerushalayim"
+
+#, kde-format
+#~ msgid "Lag BaOmer"
+#~ msgstr "Lag BaOmer"
+
+#, kde-format
+#~ msgid "Erev Shavuot"
+#~ msgstr "Erev Shavuot"
+
+#, kde-format
+#~ msgid "Shavuot"
+#~ msgstr "Shavuot"
+
+#, kde-format
+#~ msgid "Tzom Tammuz"
+#~ msgstr "Tzom Tammuz"
+
+#, kde-format
+#~ msgid "Sh. Hazon"
+#~ msgstr "Sh. Hazon"
+
+#, kde-format
+#~ msgid "Sh. Nahamu"
+#~ msgstr "Sh. Nahamu"
+
+#, kde-format
+#~ msgid "Tisha B'Av"
+#~ msgstr "Tisha B'Av"
+
+#, kde-format
+#~ msgid "S'lichot"
+#~ msgstr "S'lichot"
+
+#, kde-format
+#~ msgid "Erev R.H."
+#~ msgstr "Erev R.H."
+
+#, kde-format
+#~ msgid "Rosh Hashana"
+#~ msgstr "Rosh Hashana"
+
+#, kde-format
+#~ msgid "Sh. Shuvah"
+#~ msgstr "Sh. Shuvah"
+
+#, kde-format
+#~ msgid "Tzom Gedalia"
+#~ msgstr "Tzom Gedalia"
+
+#, kde-format
+#~ msgid "Erev Y.K."
+#~ msgstr "Erev Y.K."
+
+#, kde-format
+#~ msgid "Yom Kippur"
+#~ msgstr "Yom Kippur"
+
+#, kde-format
+#~ msgid "Erev Sukkot"
+#~ msgstr "Erev Sukkot"
+
+#, kde-format
+#~ msgid "Sukkot"
+#~ msgstr "Sukkot"
+
+#, kde-format
+#~ msgid "Hoshana Rabah"
+#~ msgstr "Hoshana Rabah"
+
+#, kde-format
+#~ msgid "Shmini Atzeret"
+#~ msgstr "Shmini Atzeret"
+
+#, kde-format
+#~ msgid "Simchat Torah"
+#~ msgstr "Simchat Torah"
+
+#, kde-format
+#~ msgid "Erev Hanukah"
+#~ msgstr "Erev Hanukah"
+
+#, kde-format
+#~ msgid "Hanukah"
+#~ msgstr "Hanukah"
+
+#, kde-format
+#~ msgid "Tzom Tevet"
+#~ msgstr "Tzom Tevet"
+
+#, kde-format
+#~ msgid "Sh. Shirah"
+#~ msgstr "Sh. Shirah"
+
+#, kde-format
+#~ msgid "Tu B'Shvat"
+#~ msgstr "Tu B'Shvat"
+
+#, kde-format
+#~ msgid "Sh. Shekalim"
+#~ msgstr "Sh. Shekalim"
+
+#, kde-format
+#~ msgid "Purim Katan"
+#~ msgstr "Purim Katan"
+
+#, kde-format
+#~ msgid "Ta'anit Ester"
+#~ msgstr "Ta'anit Ester"
+
+#, kde-format
+#~ msgid "Sh. Zachor"
+#~ msgstr "Sh. Zachor"
+
+#, kde-format
+#~ msgid "Erev Purim"
+#~ msgstr "Erev Purim"
+
+#, kde-format
+#~ msgid "Purim"
+#~ msgstr "Purim"
+
+#, kde-format
+#~ msgid "Shushan Purim"
+#~ msgstr "Shushan Purim"
+
+#, kde-format
+#~ msgid "Sh. Parah"
+#~ msgstr "Sh. Parah"
+
+#, kde-format
+#~ msgid "Sh. HaHodesh"
+#~ msgstr "Sh. HaHodesh"
+
+#, kde-format
+#~ msgid " Omer"
+#~ msgstr " Omer"
+
+#, kde-format
+#~ msgctxt ""
+#~ "These are weekly readings and do not have translations. They may have "
+#~ "different spellings in your language; otherwise, just translate the sound "
+#~ "to your characters"
+#~ msgid "Bereshit"
+#~ msgstr "Bereshit"
+
+#, kde-format
+#~ msgid "Noach"
+#~ msgstr "Noach"
+
+#, kde-format
+#~ msgid "Lech L'cha"
+#~ msgstr "Lech L'cha"
+
+#, kde-format
+#~ msgid "Vayera"
+#~ msgstr "Vayera"
+
+#, kde-format
+#~ msgid "Chaye Sarah"
+#~ msgstr "Chaye Sarah"
+
+#, kde-format
+#~ msgid "Toldot"
+#~ msgstr "Toldot"
+
+#, kde-format
+#~ msgid "Vayetze"
+#~ msgstr "Vayetze"
+
+#, kde-format
+#~ msgid "Vayishlach"
+#~ msgstr "Vayishlach"
+
+#, kde-format
+#~ msgid "Vayeshev"
+#~ msgstr "Vayeshev"
+
+#, kde-format
+#~ msgid "Miketz"
+#~ msgstr "Miketz"
+
+#, kde-format
+#~ msgid "Vayigash"
+#~ msgstr "Vayigash"
+
+#, kde-format
+#~ msgid "Vayechi"
+#~ msgstr "Vayechi"
+
+#, kde-format
+#~ msgid "Shemot"
+#~ msgstr "Shemot"
+
+#, kde-format
+#~ msgid "Vaera"
+#~ msgstr "Vaera"
+
+#, kde-format
+#~ msgid "Bo"
+#~ msgstr "Bo"
+
+#, kde-format
+#~ msgid "Beshalach"
+#~ msgstr "Beshalach"
+
+#, kde-format
+#~ msgid "Yitro"
+#~ msgstr "Yitro"
+
+#, kde-format
+#~ msgid "Mishpatim"
+#~ msgstr "Mishpatim"
+
+#, kde-format
+#~ msgid "Terumah"
+#~ msgstr "Terumah"
+
+#, kde-format
+#~ msgid "Tetzaveh"
+#~ msgstr "Tetzaveh"
+
+#, kde-format
+#~ msgid "Ki Tisa"
+#~ msgstr "Ki Tisa"
+
+#, kde-format
+#~ msgid "Vayakhel"
+#~ msgstr "Vayakhel"
+
+#, kde-format
+#~ msgid "Pekudei"
+#~ msgstr "Pekudei"
+
+#, kde-format
+#~ msgid "Vayikra"
+#~ msgstr "Vayikra"
+
+#, kde-format
+#~ msgid "Tzav"
+#~ msgstr "Tzav"
+
+#, kde-format
+#~ msgid "Shemini"
+#~ msgstr "Shemini"
+
+#, kde-format
+#~ msgid "Tazria"
+#~ msgstr "Tazria"
+
+#, kde-format
+#~ msgid "Metzora"
+#~ msgstr "Metzora"
+
+#, kde-format
+#~ msgid "Acharei Mot"
+#~ msgstr "Acharei Mot"
+
+#, kde-format
+#~ msgid "Kedoshim"
+#~ msgstr "Kedoshim"
+
+#, kde-format
+#~ msgid "Emor"
+#~ msgstr "Emor"
+
+#, kde-format
+#~ msgid "Behar"
+#~ msgstr "Behar"
+
+#, kde-format
+#~ msgid "Bechukotai"
+#~ msgstr "Bechukotai"
+
+#, kde-format
+#~ msgid "Bemidbar"
+#~ msgstr "Bemidbar"
+
+#, kde-format
+#~ msgid "Naso"
+#~ msgstr "Naso"
+
+#, kde-format
+#~ msgid "Behaalotcha"
+#~ msgstr "Behaalotcha"
+
+#, kde-format
+#~ msgid "Shelach"
+#~ msgstr "Shelach"
+
+#, kde-format
+#~ msgid "Korach"
+#~ msgstr "Korach"
+
+#, kde-format
+#~ msgid "Chukat"
+#~ msgstr "Chukat"
+
+#, kde-format
+#~ msgid "Balak"
+#~ msgstr "Balak"
+
+#, kde-format
+#~ msgid "Pinchas"
+#~ msgstr "Pinchas"
+
+#, kde-format
+#~ msgid "Matot"
+#~ msgstr "Matot"
+
+#, kde-format
+#~ msgid "Masei"
+#~ msgstr "Masei"
+
+#, kde-format
+#~ msgid "Devarim"
+#~ msgstr "Devarim"
+
+#, kde-format
+#~ msgid "Vaetchanan"
+#~ msgstr "Vaetchanan"
+
+#, kde-format
+#~ msgid "Ekev"
+#~ msgstr "Ekev"
+
+#, kde-format
+#~ msgid "Reeh"
+#~ msgstr "Reeh"
+
+#, kde-format
+#~ msgid "Shoftim"
+#~ msgstr "Shoftim"
+
+#, kde-format
+#~ msgid "Ki Tetze"
+#~ msgstr "Ki Tetze"
+
+#, kde-format
+#~ msgid "Ki Tavo"
+#~ msgstr "Ki Tavo"
+
+#, kde-format
+#~ msgid "Nitzavim"
+#~ msgstr "Nitzavim"
+
+#, kde-format
+#~ msgid "Vayelech"
+#~ msgstr "Vayelech"
+
+#, kde-format
+#~ msgid "Haazinu"
+#~ msgstr "Haazinu"
+
+#, fuzzy, kde-format
+#~| msgid "Configure Picture of the Day"
+#~ msgctxt "@title:window"
+#~ msgid "Configure Picture of the Day"
+#~ msgstr "今日の写真の設定"
+
+#, kde-format
+#~ msgid "Thumbnail Aspect Ratio Mode"
+#~ msgstr "サムネイルのアスペクト比"
+
+#, kde-format
+#~ msgid "Ignore aspect ratio"
+#~ msgstr "アスペクト比を無視"
+
+#, kde-format
+#~ msgid ""
+#~ "The thumbnail will be scaled freely. The aspect ratio will not be "
+#~ "preserved."
+#~ msgstr "サムネイルを自由に拡大/縮小します。アスペクト比は保たれません。"
+
+#, kde-format
+#~ msgid "Keep aspect ratio"
+#~ msgstr "アスペクト比を保つ"
+
+#, kde-format
+#~ msgid ""
+#~ "The thumbnail will be scaled to a rectangle as large as possible inside a "
+#~ "given rectangle, preserving the aspect ratio."
+#~ msgstr ""
+#~ "アスペクト比を保ちつつ、与えられた矩形に収まる範囲内でサムネイルをできるだ"
+#~ "け大きく拡大/縮小します。"
+
+#, kde-format
+#~ msgid "Keep aspect ratio by expanding"
+#~ msgstr "アスペクト比を保つ (枠を拡大)"
+
+#, kde-format
+#~ msgid ""
+#~ "The thumbnail will be scaled to a rectangle as small as possible outside "
+#~ "a given rectangle, preserving the aspect ratio."
+#~ msgstr ""
+#~ "アスペクト比を保ちつつ、与えられた矩形を超えてできるだけ小さくサムネイルを"
+#~ "拡大/縮小します。"
+
+#, kde-format
+#~ msgid "Picture Page"
+#~ msgstr "写真のページ"
+
+#, fuzzy, kde-format
+#~| msgid "Loading..."
+#~ msgid "Loading…"
+#~ msgstr "読み込み中..."
+
+#, kde-format
+#~ msgid "Loading..."
+#~ msgstr "読み込み中..."
+
+#, fuzzy, kde-format
+#~| msgid "<qt>Loading <i>Picture of the Day</i>...</qt>"
+#~ msgid "<qt>Loading <i>Picture of the Day</i>…</qt>"
+#~ msgstr "<qt>今日の写真を読み込んでいます...</qt>"
+
+#, kde-format
+#~ msgid "<qt>Loading <i>Picture of the Day</i>...</qt>"
+#~ msgstr "<qt>今日の写真を読み込んでいます...</qt>"
+
+#, kde-format
+#~ msgid ""
+#~ "<qt>This plugin provides the Wikipedia <i>Picture of the Day</i>.</qt>"
+#~ msgstr "<qt>このプラグインは Wikipedia の「今日の写真」を提供します。</qt>"
+
+#, kde-format
+#~ msgid ""
+#~ "This plugin provides links to Wikipedia's 'This Day in History' pages."
+#~ msgstr ""
+#~ "このプラグインは Wikipedia の「今日は何の日」へのリンクを提供します。"
+
+# 短くしないと全部表示されない
+#, kde-format
+#~ msgid "This day in history"
+#~ msgstr "何の日"
+
+#, fuzzy, kde-format
+#~| msgctxt "Localized Wikipedia website"
+#~| msgid "http://en.wikipedia.org/wiki/"
+#~ msgctxt "Localized Wikipedia website"
+#~ msgid "https://en.wikipedia.org/wiki/"
+#~ msgstr "http://ja.wikipedia.org/wiki/"
+
+# |,no-bad-patterns
+# skip-rule: style-space3
+#, kde-format
+#~ msgctxt "Qt date format used by the localized Wikipedia"
+#~ msgid "MMMM_d"
+#~ msgstr "M月d日"
+
+# 短くしないと全部表示されない
+#, fuzzy, kde-format
+#~| msgid "This day in history"
+#~ msgid "This month in history"
+#~ msgstr "何の日"
+
+# |,no-bad-patterns
+# skip-rule: style-space3
+#, kde-format
+#~ msgctxt "Qt date format used by the localized Wikipedia"
+#~ msgid "MMMM_yyyy"
+#~ msgstr "yyyy年M月"
+
+#~ msgid "Configure Day Numbers"
+#~ msgstr "日数表示の設定"
+
+#~ msgid "Configure Holidays"
+#~ msgstr "休日の設定"
+
+#~ msgid "Configure Picture of the Day"
+#~ msgstr "今日の写真の設定"

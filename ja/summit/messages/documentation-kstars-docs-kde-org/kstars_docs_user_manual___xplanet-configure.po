@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: KStars Handbook 3.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-14 09:49+0200\n"
+"PO-Revision-Date: 2025-06-15 17:57+0900\n"
+"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. +> trunk5
+#: ../../user_manual/xplanet-configure.rst:3
+msgid "Xplanet"
+msgstr ""
+
+#. +> trunk5
+#: ../../user_manual/xplanet-configure.rst:5
+msgid "|Xplanet Window|"
+msgstr ""
+
+#. +> trunk5
+#: ../../user_manual/xplanet-configure.rst:7
+msgid ""
+"`Xplanet <http://xplanet.sourceforge.net/>`__ (should be installed "
+"separately) is a solar system planet surface renderer. This page allows you "
+"to configure presentation and processing of Xplanet data in KStars."
+msgstr ""
+
+#. +> trunk5
+#: ../../user_manual/xplanet-configure.rst:9
+msgid "Xplanet Window"
+msgstr ""
+
+#. +> trunk5
+#: ../../user_manual/xplanet-configure.rst:9
+msgid ".. image:: /images/xplanet_page.png"
+msgstr ""

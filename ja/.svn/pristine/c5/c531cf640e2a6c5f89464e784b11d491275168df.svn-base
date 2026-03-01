@@ -1,0 +1,865 @@
+# Translation of dragonplayer into Japanese.
+# This file is distributed under the same license as the kdemultimedia package.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2007, 2008, 2009.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: dragonplayer\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-11-27 09:17+0100\n"
+"PO-Revision-Date: 2011-04-10 13:06-0700\n"
+"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Yukiko Bando"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "ybando@k6.dion.ne.jp"
+
+#. +> trunk6 stable6
+#: src/fileopen.cpp:84
+#, kde-format
+msgctxt "@title"
+msgid "Open Video File or Network Stream"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/main.cpp:35
+#, kde-format
+msgid "Dragon Player"
+msgstr "Dragon Player"
+
+#. +> trunk6 stable6
+#: src/main.cpp:37
+#, kde-format
+msgid "A video player that has a usability focus"
+msgstr "使いやすさを重視した動画プレーヤー"
+
+#. +> trunk6 stable6
+#: src/main.cpp:39
+#, fuzzy, kde-format
+#| msgid ""
+#| "Copyright 2006, Max Howell\n"
+#| "Copyright 2007, Ian Monroe"
+msgid ""
+"Copyright 2006, Max Howell\n"
+"Copyright 2007, Ian Monroe\n"
+"Copyright 2022 Harald Sitter"
+msgstr ""
+"Copyright 2006, Max Howell\n"
+"Copyright 2007, Ian Monroe"
+
+#. +> trunk6 stable6
+#: src/qml/ControlsBar.qml:129
+msgctxt "@action:button"
+msgid "Application Menu"
+msgstr ""
+
+# ACCELERATOR added by translator
+#. +> trunk6 stable6
+#: src/qml/ControlsBar.qml:160
+#, fuzzy
+#| msgid "Stop"
+msgctxt "@action:button stop playback"
+msgid "Stop"
+msgstr "停止(&S)"
+
+#. +> trunk6 stable6
+#: src/qml/ControlsBar.qml:168
+msgctxt "@action:button"
+msgid "Unmute"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/qml/ControlsBar.qml:168
+#, fuzzy
+#| msgctxt "Mute the sound output"
+#| msgid "Mute"
+msgctxt "@action:button"
+msgid "Mute"
+msgstr "ミュート"
+
+#. +> trunk6 stable6
+#: src/qml/ControlsBar.qml:178
+#, fuzzy
+#| msgid "&Subtitles"
+msgctxt "@action:button video subtitle"
+msgid "Subtitles"
+msgstr "字幕(&S)"
+
+#. +> trunk6 stable6
+#: src/qml/ControlsBar.qml:185
+msgctxt "@action:button selector for no subtitle"
+msgid "None"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/qml/ControlsBar.qml:195
+msgctxt ""
+"@action:button subtitle selector %1 is usually a language (e.g. chinese) and "
+"%2 is usually a subtitle (e.g. Traditional)"
+msgid "%1 [%2]"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/qml/ControlsBar.qml:212
+#, fuzzy
+#| msgid "Audio CD"
+msgctxt "@action:button track selector"
+msgid "Audio Track"
+msgstr "オーディオ CD"
+
+#. +> trunk6 stable6
+#: src/qml/ControlsBar.qml:227
+#, fuzzy
+#| msgid "Video CD"
+msgctxt "@action:button track selector"
+msgid "Video Track"
+msgstr "ビデオ CD"
+
+#. +> trunk6 stable6
+#: src/qml/ControlsBar.qml:245
+msgctxt "@action opens about app page"
+msgid "About"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/qml/Main.qml:53
+msgctxt "@action:button open file dialog"
+msgid "Open…"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/qml/PlayerPage.qml:38
+#, fuzzy
+#| msgid "Play"
+msgctxt "@action:button"
+msgid "Play"
+msgstr "再生"
+
+#. +> trunk6 stable6
+#: src/qml/PlayerPage.qml:38
+#, fuzzy
+#| msgid "Pause"
+msgctxt "@action:button"
+msgid "Pause"
+msgstr "一時停止"
+
+#. +> trunk6 stable6
+#: src/qml/PlayerPage.qml:46
+msgctxt "@action:button"
+msgid "Exit Fullscreen"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/qml/PlayerPage.qml:46
+msgctxt "@action:button"
+msgid "Enter Fullscreen"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/qml/PlayerPage.qml:78
+msgctxt "@info %2 is the name of a distribution"
+msgid ""
+"Dragon Player only supports the QtMultimedia library’s “ffmpeg” backend, but "
+"a different one is currently in use.\n"
+"<nl/><nl/>\n"
+"Please <link url=\"%1\">contact the %2 developers</link> about this issue."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/qml/PlayerPage.qml:87
+msgctxt "@info"
+msgid ""
+"Not all video codecs are installed. Video playback support may be less "
+"reliable than expected.\n"
+"Please install codecs-extra by running:\n"
+"<para><command>flatpak install org.freedesktop.Platform.codecs-extra//25.08-"
+"extra</command></para>"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/qml/PlayerPage.qml:94
+msgctxt "@info %2 is the name of a distribution"
+msgid ""
+"Could not locate full support for the H.264 video codec; video playback "
+"support may be less reliable than expected.\n"
+"<nl/><nl/>\n"
+"Please <link url=\"%1\">contact the %2 developers</link> about this issue, "
+"or to find out how to install the missing video codecs."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/qml/PlayerPage.qml:335
+msgctxt ""
+"@info overlay on top of video. %1 is the amount of time played %2 is the "
+"total duration of the video"
+msgid "%1 / %2"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/qml/VolumeButton.qml:31
+msgctxt "@action:button open volume slider popup"
+msgid "Show volume controls"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/qml/WelcomeView.qml:16
+#, fuzzy
+#| msgid "Dragon Player"
+msgctxt "@title"
+msgid "Welcome to Dragon Player"
+msgstr "Dragon Player"
+
+#. +> trunk6 stable6
+#: src/qml/WelcomeView.qml:17
+msgctxt "@info"
+msgid "Dragon Player is a simple video player. Open a video to get started:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/qml/WelcomeView.qml:20
+msgctxt "@action:button"
+msgid "Open Video File or Network Stream"
+msgstr ""
+
+#, fuzzy, kde-format
+#~| msgid "&Play"
+#~ msgctxt "@title:menu"
+#~ msgid "&Play"
+#~ msgstr "再生(&P)"
+
+#, fuzzy, kde-format
+#~| msgid "Play Media"
+#~ msgctxt "@title:menu"
+#~ msgid "Play Media"
+#~ msgstr "メディアを再生"
+
+#, fuzzy, kde-format
+#~| msgid "&Settings"
+#~ msgctxt "@title:menu"
+#~ msgid "&Settings"
+#~ msgstr "設定(&S)"
+
+#, kde-format
+#~ msgid "Main Toolbar"
+#~ msgstr "メインツールバー"
+
+#, fuzzy, kde-format
+#~| msgid "Play"
+#~ msgctxt "@action"
+#~ msgid "Play"
+#~ msgstr "再生"
+
+#, fuzzy, kde-format
+#~| msgid "Pause"
+#~ msgctxt "@action"
+#~ msgid "Pause"
+#~ msgstr "一時停止"
+
+#, fuzzy, kde-format
+#~| msgctxt "Volume of sound output"
+#~| msgid "Volume"
+#~ msgctxt "@option:check Volume of sound output"
+#~ msgid "Volume"
+#~ msgstr "音量"
+
+#, fuzzy, kde-format
+#~| msgid "Preferred Scale"
+#~ msgctxt "@action:button"
+#~ msgid "Preferred Scale"
+#~ msgstr "優先する拡大率"
+
+#, fuzzy, kde-format
+#~| msgid "Scale 100%"
+#~ msgctxt "@action:button"
+#~ msgid "Scale 100%"
+#~ msgstr "拡大率 100%"
+
+#, kde-format
+#~ msgid "<b>Adjust video scale?</b>"
+#~ msgstr "動画の拡大率を調整しますか？"
+
+#, kde-format
+#~ msgctxt ""
+#~ "%1 is the disc type, %2 is the name of the disc that the user can choose. "
+#~ "Ex. 'DVD: OfficeSpace'"
+#~ msgid "%1: %2"
+#~ msgstr "%1: %2"
+
+#, kde-format
+#~ msgctxt "Digital Versatile Disc, but keep it short"
+#~ msgid "DVD"
+#~ msgstr "DVD"
+
+#, kde-format
+#~ msgid "Video CD"
+#~ msgstr "ビデオ CD"
+
+#, kde-format
+#~ msgid "Audio CD"
+#~ msgstr "オーディオ CD"
+
+#, kde-format
+#~ msgid "Data CD"
+#~ msgstr "データ CD"
+
+#, fuzzy, kde-format
+#~| msgid "Select a Disc"
+#~ msgctxt "@title:window"
+#~ msgid "Select a Disc"
+#~ msgstr "ディスクを選択"
+
+#, kde-format
+#~ msgid "Select a disc to play."
+#~ msgstr "再生するディスクを選択します。"
+
+#, fuzzy, kde-format
+#~| msgid "Dragon Player"
+#~ msgid "Welcome to Dragon Player"
+#~ msgstr "Dragon Player"
+
+#, kde-format
+#~ msgid ""
+#~ "Copyright 2006, Max Howell\n"
+#~ "Copyright 2007, Ian Monroe"
+#~ msgstr ""
+#~ "Copyright 2006, Max Howell\n"
+#~ "Copyright 2007, Ian Monroe"
+
+#, kde-format
+#~ msgid "Improvements and polish"
+#~ msgstr "改良と仕上げ"
+
+#, kde-format
+#~ msgid "Creator of Phonon"
+#~ msgstr "Phonon の作者"
+
+#, kde-format
+#~ msgid "Dragon Player icon"
+#~ msgstr "Dragon Player のアイコン"
+
+#, kde-format
+#~ msgid "Handbook"
+#~ msgstr "ハンドブック"
+
+#, kde-format
+#~ msgid "Great reference code"
+#~ msgstr "素晴しい参考コード"
+
+#, kde-format
+#~ msgid "Play DVD Video"
+#~ msgstr "DVD ビデオを再生"
+
+#, kde-format
+#~ msgid "Play 'URL'"
+#~ msgstr "URL を再生"
+
+#, fuzzy, kde-format
+#~| msgid "Aspect &Ratio"
+#~ msgctxt "@title:menu"
+#~ msgid "Aspect &Ratio"
+#~ msgstr "アスペクト比(&R)"
+
+#, fuzzy, kde-format
+#~| msgid "&Audio Channels"
+#~ msgctxt "@title:menu"
+#~ msgid "&Audio Channels"
+#~ msgstr "音声チャンネル(&A)"
+
+#, fuzzy, kde-format
+#~| msgid "&Subtitles"
+#~ msgctxt "@title:menu"
+#~ msgid "&Subtitles"
+#~ msgstr "字幕(&S)"
+
+#, fuzzy, kde-format
+#~| msgid "Determine &Automatically"
+#~ msgctxt "@option:radio aspect ratio"
+#~ msgid "Determine &Automatically"
+#~ msgstr "自動(&A)|/|$[~setProps ~full 'アスペクト比 - 自動']"
+
+#, fuzzy, kde-format
+#~| msgid "&4:3"
+#~ msgctxt "@option:radio aspect ratio"
+#~ msgid "&4:3"
+#~ msgstr "4:3|/|$[~setProps ~full 'アスペクト比 - 4:3']"
+
+#, fuzzy, kde-format
+#~| msgid "Ana&morphic (16:9)"
+#~ msgctxt "@option:radio aspect ratio"
+#~ msgid "Ana&morphic (16:9)"
+#~ msgstr ""
+#~ "16:9 (アナモルフィック)|/|$[~setProps ~full 'アスペクト比 - 16:9 (アナモル"
+#~ "フィック)']"
+
+#, fuzzy, kde-format
+#~| msgid "&Window Size"
+#~ msgctxt "@option:radio aspect ratio"
+#~ msgid "&Window Size"
+#~ msgstr "ウィンドウのサイズ(&W)"
+
+#, fuzzy, kde-format
+#~| msgid "Play File"
+#~ msgctxt "@action"
+#~ msgid "Play File…"
+#~ msgstr "ファイルを再生"
+
+#, fuzzy, kde-format
+#~| msgid "Play Media"
+#~ msgctxt "@action"
+#~ msgid "Play Stream…"
+#~ msgstr "メディアを再生"
+
+#, fuzzy, kde-format
+#~| msgid "Play Disc"
+#~ msgctxt "@action"
+#~ msgid "Play Disc"
+#~ msgstr "ディスクを再生"
+
+# ACCELERATOR added by translator
+#, fuzzy, kde-format
+#~| msgid "Stop"
+#~ msgctxt "@action"
+#~ msgid "Stop"
+#~ msgstr "停止(&S)"
+
+#, fuzzy, kde-format
+#~| msgctxt "Mute the sound output"
+#~| msgid "Mute"
+#~ msgctxt "@action Mute the sound output"
+#~ msgid "Mute"
+#~ msgstr "ミュート"
+
+#, fuzzy, kde-format
+#~| msgid "Reset Video Scale"
+#~ msgctxt "@action"
+#~ msgid "Reset Video Scale"
+#~ msgstr "動画の拡大率をリセット"
+
+# ACCELERATOR added by translator
+#, fuzzy, kde-format
+#~| msgid "Menu Toggle"
+#~ msgctxt "@action"
+#~ msgid "Menu Toggle"
+#~ msgstr "メニューの切り替え(&M)"
+
+#, kde-format
+#~ msgid "Position Slider"
+#~ msgstr "再生位置スライダー"
+
+# ACCELERATOR added by translator
+#, fuzzy, kde-format
+#~| msgid "Video Settings"
+#~ msgctxt "@option:check"
+#~ msgid "Video Settings"
+#~ msgstr "画像の調整(&V)"
+
+#, fuzzy, kde-format
+#~| msgid "Previous Chapter"
+#~ msgctxt "@action previous chapter"
+#~ msgid "Previous"
+#~ msgstr "前のチャプター"
+
+#, fuzzy, no-c-format, kde-format
+#~| msgid "Return 10% Back"
+#~ msgctxt "@action"
+#~ msgid "Return 10% Back"
+#~ msgstr "10% 戻る"
+
+#, fuzzy, no-c-format, kde-format
+#~| msgid "Go 10% Forward"
+#~ msgctxt "@action"
+#~ msgid "Go 10% Forward"
+#~ msgstr "10% 進む"
+
+#, fuzzy, kde-format
+#~| msgid "Return 10 Seconds Back"
+#~ msgctxt "@action"
+#~ msgid "Return 10 Seconds Back"
+#~ msgstr "10 秒戻る"
+
+#, fuzzy, kde-format
+#~| msgid "Go 10 Seconds Forward"
+#~ msgctxt "@action"
+#~ msgid "Go 10 Seconds Forward"
+#~ msgstr "10 秒進む"
+
+#, fuzzy, kde-format
+#~| msgctxt "Mute the sound output"
+#~| msgid "Mute"
+#~ msgctxt "@option:check Mute the sound output"
+#~ msgid "Mute"
+#~ msgstr "ミュート"
+
+#, kde-format
+#~ msgid "Dragon Player was asked to open an empty URL; it cannot."
+#~ msgstr "空の URL を開くことはできません。"
+
+#, fuzzy, kde-format
+#~| msgid "Select File to Play"
+#~ msgctxt "@title:window"
+#~ msgid "Select File to Play"
+#~ msgstr "再生するファイルを選択"
+
+#, fuzzy, kde-format
+#~| msgid "Select File to Play"
+#~ msgctxt "@title:window"
+#~ msgid "Stream to Play"
+#~ msgstr "再生するファイルを選択"
+
+#, fuzzy, kde-format
+#~| msgid "Play Media"
+#~ msgctxt "@label:textbox"
+#~ msgid "Stream:"
+#~ msgstr "メディアを再生"
+
+#, kde-format
+#~ msgid "Sorry, no media was found in the drop"
+#~ msgstr "ドロップにメディアが見つかりませんでした"
+
+#, fuzzy, kde-format
+#~| msgid "Play DVD Video"
+#~ msgctxt "Notification inhibition reason"
+#~ msgid "Playing a video"
+#~ msgstr "DVD ビデオを再生"
+
+#, kde-format
+#~ msgid "No media loaded"
+#~ msgstr "メディアがロードされていません"
+
+#, kde-format
+#~ msgid "Paused"
+#~ msgstr "一時停止中"
+
+#, kde-format
+#~ msgid "The file is not a playlist"
+#~ msgstr "このファイルはプレイリストではありません"
+
+#, kde-format
+#~ msgid "Dragon Player could not download the remote playlist: %1"
+#~ msgstr "リモートのプレイリストをダウンロードできませんでした: %1"
+
+#, kde-format
+#~ msgid ""
+#~ "<qt>The playlist, <i>'%1'</i>, could not be interpreted. Perhaps it is "
+#~ "empty?</qt>"
+#~ msgstr ""
+#~ "<qt>プレイリスト “%1” を解読できませんでした。空ではありませんか？</qt>"
+
+#, kde-format
+#~ msgid "Dragon Player could not open the file: %1"
+#~ msgstr "ファイルを開けませんでした: %1"
+
+#, fuzzy, kde-format
+#~| msgid "Brightness:"
+#~ msgctxt "@label:slider"
+#~ msgid "Brightness:"
+#~ msgstr "明るさ:"
+
+#, fuzzy, kde-format
+#~| msgid "Contrast:"
+#~ msgctxt "@label:slider"
+#~ msgid "Contrast:"
+#~ msgstr "コントラスト:"
+
+#, fuzzy, kde-format
+#~| msgid "Hue:"
+#~ msgctxt "@label:slider"
+#~ msgid "Hue:"
+#~ msgstr "色相:"
+
+#, fuzzy, kde-format
+#~| msgid "Saturation:"
+#~ msgctxt "@label:slider"
+#~ msgid "Saturation:"
+#~ msgstr "彩度:"
+
+#, fuzzy, kde-format
+#~| msgid "Restore Defaults"
+#~ msgctxt "@action:button"
+#~ msgid "Restore Defaults"
+#~ msgstr "標準設定に戻す"
+
+#, fuzzy, kde-format
+#~| msgid "Close"
+#~ msgctxt "@action:button"
+#~ msgid "Close"
+#~ msgstr "閉じる"
+
+#, fuzzy, kde-format
+#~| msgid "&DVD Subtitle Selection"
+#~ msgctxt "@option:radio"
+#~ msgid "&DVD Subtitle Selection"
+#~ msgstr "DVD 字幕の選択(&D)"
+
+#, fuzzy, kde-format
+#~| msgid "&Auto"
+#~ msgctxt "@option:radio audio language"
+#~ msgid "&Auto"
+#~ msgstr "自動(&A)"
+
+#, fuzzy, kde-format
+#~| msgid "Play DVD Video"
+#~ msgctxt "Notification inhibition reason"
+#~ msgid "playing a video"
+#~ msgstr "DVD ビデオを再生"
+
+#, fuzzy, kde-format
+#~| msgid "Play File"
+#~ msgctxt "@action:button"
+#~ msgid "Play File"
+#~ msgstr "ファイルを再生"
+
+#, fuzzy, kde-format
+#~| msgid "Play Disc"
+#~ msgctxt "@action:button"
+#~ msgid "Play Disc"
+#~ msgstr "ディスクを再生"
+
+#, fuzzy, kde-format
+#~| msgid "Play Media"
+#~ msgctxt "@action:button"
+#~ msgid "Play Stream"
+#~ msgstr "メディアを再生"
+
+#, fuzzy, kde-format
+#~| msgid "Play &Media..."
+#~ msgctxt "@action"
+#~ msgid "Play &Media..."
+#~ msgstr "メディアを再生(&M)..."
+
+#, fuzzy, kde-format
+#~| msgid "Play Media"
+#~ msgctxt "@title:window"
+#~ msgid "Play Media"
+#~ msgstr "メディアを再生"
+
+#, kde-format
+#~ msgid "What media would you like to play?"
+#~ msgstr "どのメディアを再生しますか？"
+
+#, fuzzy, kde-format
+#~| msgid "Play File..."
+#~ msgctxt "@action:button"
+#~ msgid "Play File..."
+#~ msgstr "ファイルを再生..."
+
+#, fuzzy, kde-format
+#~| msgid "Clear List"
+#~ msgctxt "@action"
+#~ msgid "Clear List"
+#~ msgstr "リストをクリア"
+
+#, fuzzy, kde-format
+#~| msgid "Remove Entry"
+#~ msgctxt "@action"
+#~ msgid "Remove Entry"
+#~ msgstr "エントリを削除"
+
+#, kde-format
+#~ msgid ""
+#~ "This file could not be found. Would you like to remove it from the "
+#~ "playlist?"
+#~ msgstr ""
+#~ "ファイルが見つかりません。このファイルをプレイリストから削除しますか？"
+
+#, fuzzy, kde-format
+#~| msgid "File not found"
+#~ msgctxt "@title:window"
+#~ msgid "File not found"
+#~ msgstr "ファイルが見つかりません"
+
+#~ msgid ""
+#~ "IRC:\n"
+#~ "irc.freenode.net #dragonplayer\n"
+#~ "\n"
+#~ "Feedback:\n"
+#~ "imonroe@kde.org"
+#~ msgstr ""
+#~ "IRC:\n"
+#~ "irc.freenode.net #dragonplayer\n"
+#~ "\n"
+#~ "フィードバック:\n"
+#~ "imonroe@kde.org"
+
+#~ msgid "&Play"
+#~ msgstr "再生(&P)"
+
+#~ msgid "&Settings"
+#~ msgstr "設定(&S)"
+
+#~ msgctxt "Volume of sound output"
+#~ msgid "Volume"
+#~ msgstr "音量"
+
+#~ msgid "Preferred Scale"
+#~ msgstr "優先する拡大率"
+
+#~ msgid "Scale 100%"
+#~ msgstr "拡大率 100%"
+
+#~ msgid "Select a Disc"
+#~ msgstr "ディスクを選択"
+
+#~ msgid "Play File"
+#~ msgstr "ファイルを再生"
+
+#, fuzzy
+#~| msgid "Play Media"
+#~ msgid "Play Stream"
+#~ msgstr "メディアを再生"
+
+#~ msgid "Aspect &Ratio"
+#~ msgstr "アスペクト比(&R)"
+
+#~ msgid "&Audio Channels"
+#~ msgstr "音声チャンネル(&A)"
+
+#~ msgid "Determine &Automatically"
+#~ msgstr "自動(&A)|/|$[~setProps ~full 'アスペクト比 - 自動']"
+
+#~ msgid "&4:3"
+#~ msgstr "4:3|/|$[~setProps ~full 'アスペクト比 - 4:3']"
+
+#~ msgid "Ana&morphic (16:9)"
+#~ msgstr ""
+#~ "16:9 (アナモルフィック)|/|$[~setProps ~full 'アスペクト比 - 16:9 (アナモル"
+#~ "フィック)']"
+
+#~ msgid "&Window Size"
+#~ msgstr "ウィンドウのサイズ(&W)"
+
+#~ msgid "Play &Media..."
+#~ msgstr "メディアを再生(&M)..."
+
+#~ msgctxt "Mute the sound output"
+#~ msgid "Mute"
+#~ msgstr "ミュート"
+
+#~ msgid "Reset Video Scale"
+#~ msgstr "動画の拡大率をリセット"
+
+# ACCELERATOR added by translator
+#~ msgid "Menu Toggle"
+#~ msgstr "メニューの切り替え(&M)"
+
+# ACCELERATOR added by translator
+#~ msgid "Video Settings"
+#~ msgstr "画像の調整(&V)"
+
+#, fuzzy
+#~| msgid "Previous Chapter"
+#~ msgid "Previous"
+#~ msgstr "前のチャプター"
+
+#~ msgid "Return 10% Back"
+#~ msgstr "10% 戻る"
+
+#~ msgid "Go 10% Forward"
+#~ msgstr "10% 進む"
+
+#~ msgid "Return 10 Seconds Back"
+#~ msgstr "10 秒戻る"
+
+#~ msgid "Go 10 Seconds Forward"
+#~ msgstr "10 秒進む"
+
+#~ msgid "Select File to Play"
+#~ msgstr "再生するファイルを選択"
+
+#~ msgid "Play File..."
+#~ msgstr "ファイルを再生..."
+
+#~ msgid "Clear List"
+#~ msgstr "リストをクリア"
+
+#~ msgid "Remove Entry"
+#~ msgstr "エントリを削除"
+
+#~ msgid "File not found"
+#~ msgstr "ファイルが見つかりません"
+
+#~ msgid "Brightness:"
+#~ msgstr "明るさ:"
+
+#~ msgid "Contrast:"
+#~ msgstr "コントラスト:"
+
+#~ msgid "Hue:"
+#~ msgstr "色相:"
+
+#~ msgid "Saturation:"
+#~ msgstr "彩度:"
+
+#~ msgid "Restore Defaults"
+#~ msgstr "標準設定に戻す"
+
+#~ msgid "Close"
+#~ msgstr "閉じる"
+
+#~ msgid "&DVD Subtitle Selection"
+#~ msgstr "DVD 字幕の選択(&D)"
+
+#~ msgid "&Auto"
+#~ msgstr "自動(&A)"
+
+#~ msgid "David Edmundson"
+#~ msgstr "David Edmundson"
+
+#~ msgid "Matthias Kretz"
+#~ msgstr "Matthias Kretz"
+
+#~ msgid "Eugene Trounev"
+#~ msgstr "Eugene Trounev"
+
+#~ msgid "Mike Diehl"
+#~ msgstr "Mike Diehl"
+
+#~ msgid "The Kaffeine Developers"
+#~ msgstr "Kaffeine の開発者"
+
+#~ msgid "Greenleaf"
+#~ msgstr "Greenleaf"
+
+#~ msgctxt "Mute the sound output"
+#~ msgid "Mute "
+#~ msgstr "ミュート"
+
+#~ msgid "Previous Chapter"
+#~ msgstr "前のチャプター"
+
+#~ msgid "Next Chapter"
+#~ msgstr "次のチャプター"
+
+#~ msgid ""
+#~ "<qt>xine could not be successfully initialised. Dragon Player will now "
+#~ "exit. You can try to identify what is wrong with your xine installation "
+#~ "using the <b>xine-check</b> command at a command-prompt.</qt>"
+#~ msgstr ""
+#~ "<qt>xine を初期化できなかったため、Dragon Player を終了します。xine のイン"
+#~ "ストールに問題があるようです。コマンドラインで <tt>xine-check</tt> を使っ"
+#~ "て原因を探してみてください。</qt>"
+
+#~ msgid "&Pause"
+#~ msgstr "一時停止(&P)"
+
+#~ msgid "There was an internal error with the media slave..."
+#~ msgstr "メディアスレーブに内部エラーがありました。"
+
+#~ msgid "Show Additional Debug Output"
+#~ msgstr "デバッグ出力を表示"

@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: org.kde.zeroconf-ioslave.metainfo\n"
+"POT-Creation-Date: 2025-11-15 09:13+0100\n"
+"PO-Revision-Date: 2019-08-16 16:31-0700\n"
+"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. (itstool) path: component/name
+#. +> trunk6 stable5
+#: org.kde.kio_zeroconf.metainfo.xml:9
+msgid "Zeroconf Support"
+msgstr ""
+
+#. (itstool) path: component/summary
+#. +> trunk6 stable5
+#: org.kde.kio_zeroconf.metainfo.xml:10
+msgid "Browse local network services in Dolphin's Network page"
+msgstr ""
+
+#. (itstool) path: description/p
+#. +> trunk6 stable5
+#: org.kde.kio_zeroconf.metainfo.xml:12
+msgid ""
+"Adds an entry to Dolphin's Network page to show local services such as "
+"printers which advertise themselves with DNSSD (called Avahi or Bonjour by "
+"other projects)."
+msgstr ""

@@ -1,0 +1,433 @@
+# Translation of kcmsamba into Japanese.
+# This file is distributed under the same license as the kdebase package.
+# Nobosu Sinohara <shinobo@leo.bekkoame.ne.jp>, 2002.
+# Shinichi Tsunoda <tsuno@ngy.1st.ne.jp>, 2005.
+#
+# SPDX-FileCopyrightText: 2025 Yuma Kakei <yumasansansan@gmail.com>
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmsamba\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2026-01-13 14:38+0100\n"
+"PO-Revision-Date: 2025-09-24 15:18+0900\n"
+"Last-Translator: Yuma Kakei <yumasansansan@gmail.com>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 25.08.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. +> trunk6 stable6 stable5
+#: ui/main.qml:18
+#, kde-format
+msgctxt "@title heading above listview"
+msgid "User-Created Shares"
+msgstr "ユーザが作成した共有"
+
+#. +> trunk6 stable6
+#: ui/main.qml:23
+#, kde-format
+msgctxt "@title heading above listview"
+msgid "Remote Share Mounts"
+msgstr "リモート共有のマウント"
+
+#. +> stable5
+#: package/contents/ui/main.qml:22
+#, kde-format
+msgctxt "@title heading above listview"
+msgid "Mounted Remote Shares"
+msgstr "マウント済みのリモート共有"
+
+#. +> trunk6 stable6 stable5
+#: ui/main.qml:54
+#, kde-format
+msgctxt "@info place holder for empty listview"
+msgid "There are no directories shared by users"
+msgstr "ユーザが共有しているディレクトリはありません"
+
+#. +> trunk6 stable6 stable5
+#: ui/main.qml:92
+#, kde-format
+msgctxt "@info place holder for empty listview"
+msgid "There are no Samba shares mounted on this system"
+msgstr "このシステムにはマウントされた Samba 共有はありません"
+
+#. +> trunk6 stable6
+#: ui/ShareListItem.qml:24
+#, kde-format
+msgctxt "@label local file system path"
+msgid "Path:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: ui/ShareListItem.qml:40
+#, kde-format
+msgctxt "@label labels a samba url or path"
+msgid "Shared at:"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: ui/ShareListItem.qml:69
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Open folder properties to change share settings"
+msgstr "共有設定を変更するには、フォルダのプロパティを開いてください"
+
+#. +> stable5
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Nobosu Sinohara,Shinichi Tsunoda,Yuma Kakei"
+
+#. +> stable5
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "shinobo@leo.bekkoame.ne.jp,tsuno@ngy.1st.ne.jp,yumasansansan@gmail.com"
+
+#. +> stable5
+#: main.cpp:25
+#, kde-format
+msgid "kcmsamba"
+msgstr "kcmsamba"
+
+#. +> stable5
+#: main.cpp:26
+#, kde-format
+msgid "Samba Status"
+msgstr "Samba の状態"
+
+#. +> stable5
+#: main.cpp:30
+#, kde-format
+msgid "(c) 2002-2020 KDE Information Control Module Samba Team"
+msgstr "(c) 2002-2020 KDE 情報モジュール Samba チーム"
+
+#. +> stable5
+#: main.cpp:31
+#, kde-format
+msgid "Michael Glauche"
+msgstr "Michael Glauche"
+
+#. +> stable5
+#: main.cpp:32
+#, kde-format
+msgid "Matthias Hoelzer"
+msgstr "Matthias Hoelzer"
+
+#. +> stable5
+#: main.cpp:33
+#, kde-format
+msgid "David Faure"
+msgstr "David Faure"
+
+#. +> stable5
+#: main.cpp:34
+#, kde-format
+msgid "Harald Koschinski"
+msgstr "Harald Koschinski"
+
+#. +> stable5
+#: main.cpp:35
+#, kde-format
+msgid "Wilco Greven"
+msgstr "Wilco Greven"
+
+#. +> stable5
+#: main.cpp:36
+#, kde-format
+msgid "Alexander Neundorf"
+msgstr "Alexander Neundorf"
+
+#. +> stable5
+#: main.cpp:37
+#, kde-format
+msgid "Harald Sitter"
+msgstr "Harald Sitter"
+
+#, fuzzy, kde-format
+#~| msgid "KDE Panel System Information Control Module"
+#~ msgid "System Information Control Module"
+#~ msgstr "KDE システム情報モジュール"
+
+#, kde-format
+#~ msgid "(c) 2002 KDE Information Control Module Samba Team"
+#~ msgstr "(c) 2002 KDE 情報モジュール Samba チーム"
+
+#, kde-format
+#~ msgid "&Exports"
+#~ msgstr "エクスポート(&E)"
+
+#, kde-format
+#~ msgid "&Imports"
+#~ msgstr "インポート(&I)"
+
+#, kde-format
+#~ msgid "Resource"
+#~ msgstr "リソース"
+
+#, kde-format
+#~ msgid "Mounted Under"
+#~ msgstr "マウント先"
+
+#, fuzzy, kde-format
+#~| msgid "Accessed From"
+#~ msgctxt ""
+#~ "@title:column whether a samba share is accessible locally (i.e. mounted)"
+#~ msgid "Accessible"
+#~ msgstr "接続元"
+
+#, fuzzy
+#~| msgid "&Exports"
+#~ msgctxt "@title/group"
+#~ msgid "Exported Shares"
+#~ msgstr "エクスポート(&E)"
+
+#, fuzzy
+#~| msgid "Mounted Under"
+#~ msgctxt "@title/group"
+#~ msgid "Mounted Shares"
+#~ msgstr "マウント先"
+
+#~ msgid "&Log"
+#~ msgstr "ログ(&L)"
+
+# ACCELERATOR changed by translator
+#~ msgid "&Statistics"
+#~ msgstr "統計(&T)"
+
+#~ msgid ""
+#~ "<p>The Samba and NFS Status Monitor is a front end to the programs "
+#~ "<em>smbstatus</em> and <em>showmount</em>. Smbstatus reports on current "
+#~ "Samba connections, and is part of the suite of Samba tools, which "
+#~ "implements the SMB (Session Message Block) protocol, also called the "
+#~ "NetBIOS or LanManager protocol. This protocol can be used to provide "
+#~ "printer sharing or drive sharing services on a network including machines "
+#~ "running the various flavors of Microsoft Windows.</p>"
+#~ msgstr ""
+#~ "<p>Samba と NFS の状態モニタはそれぞれ <tt>smbstatus</tt> と "
+#~ "<tt>showmount</tt> のフロントエンドです。<tt>smbstatus</tt> は現在の "
+#~ "Samba の接続状態を報告します。Samba ツールスイートは NetBIOS または "
+#~ "LanManager プロトコルとも呼ばれる SMB (Session Message Block) プロトコルを"
+#~ "実装していますが、これはその一部です。このプロトコルによって、さまざまな "
+#~ "Microsoft WIndows 系のマシンを含むネットワーク内で、プリンタやドライブの共"
+#~ "有サービスを提供することができます。</p>"
+
+#~ msgid "Type"
+#~ msgstr "タイプ"
+
+#~ msgid ""
+#~ "This list shows the Samba and NFS shared resources mounted on your system "
+#~ "from other hosts. The \"Type\" column tells you whether the mounted "
+#~ "resource is a Samba or an NFS type of resource. The \"Resource\" column "
+#~ "shows the descriptive name of the shared resource. Finally, the third "
+#~ "column, which is labeled \"Mounted under\" shows the location on your "
+#~ "system where the shared resource is mounted."
+#~ msgstr ""
+#~ "このリストは他のホストからあなたのシステムにマウントしている Samba と NFS "
+#~ "の共有リソースを示しています。「タイプ」列にはマウントしているリソースの "
+#~ "Samba と NFS の種別が表示されます。「リソース」列は共有リソースの名前を表"
+#~ "示します。最後に、三列目の「マウント先」は共有リソースがあなたのシステムで"
+#~ "マウントされている場所を示しています。"
+
+#~ msgid "Samba log file: "
+#~ msgstr "Samba ログファイル: "
+
+#~ msgid "Show opened connections"
+#~ msgstr "開かれた接続を表示する"
+
+#~ msgid "Show closed connections"
+#~ msgstr "閉じられた接続を表示する"
+
+#~ msgid "Show opened files"
+#~ msgstr "開かれたファイルを表示する"
+
+#~ msgid "Show closed files"
+#~ msgstr "閉じられたファイルを表示する"
+
+#~ msgid "&Update"
+#~ msgstr "更新(&U)"
+
+#~ msgid ""
+#~ "This page presents the contents of your samba log file in a friendly "
+#~ "layout. Check that the correct log file for your computer is listed here. "
+#~ "If you need to, correct the name or location of the log file, and then "
+#~ "click the \"Update\" button."
+#~ msgstr ""
+#~ "このページは Samba のログファイルの内容をより分かりやすいレイアウトで表示"
+#~ "します。システムの正しいログファイルがリストにあることを確認してください。"
+#~ "必要ならログファイルの名前と場所を適宜修正して「更新」ボタンをクリックして"
+#~ "ください。"
+
+#~ msgid ""
+#~ "Check this option if you want to view the details for connections opened "
+#~ "to your computer."
+#~ msgstr ""
+#~ "あなたのコンピュータに対して開かれた接続の詳細を参照する場合、このオプショ"
+#~ "ンを有効にしてください。"
+
+#~ msgid ""
+#~ "Check this option if you want to view the events when connections to your "
+#~ "computer were closed."
+#~ msgstr ""
+#~ "接続が閉じられたときのイベントを参照する場合、このオプションを有効にしてく"
+#~ "ださい。"
+
+#~ msgid ""
+#~ "Check this option if you want to see the files which were opened on your "
+#~ "computer by remote users. Note that file open/close events are not logged "
+#~ "unless the samba log level is set to at least 2 (you cannot set the log "
+#~ "level using this module)."
+#~ msgstr ""
+#~ "リモートユーザによってあなたのシステム上で開かれたファイルを参照する場合、"
+#~ "このオプションを有効にしてください。ファイルの「開く/閉じる」イベントは、"
+#~ "Samba のログレベルが 2 以上に設定されていないと記録されないことに注意して"
+#~ "ください (残念ながら、このモジュールではログレベルを設定することはできませ"
+#~ "ん)。"
+
+#~ msgid ""
+#~ "Check this option if you want to see the events when files opened by "
+#~ "remote users were closed. Note that file open/close events are not logged "
+#~ "unless the samba log level is set to at least 2 (you cannot set the log "
+#~ "level using this module)."
+#~ msgstr ""
+#~ "リモートユーザが開いたファイルが閉じられたときのイベントを参照する場合、こ"
+#~ "のオプションを有効にしてください。ファイルの「開く/閉じる」イベントは、"
+#~ "Samba のログレベルが 2 以上に設定されていないと記録されないことに注意して"
+#~ "ください (残念ながら、このモジュールでログレベルを設定することはできませ"
+#~ "ん)。"
+
+#~ msgid ""
+#~ "Click here to refresh the information on this page. The log file (shown "
+#~ "above) will be read to obtain the events logged by samba."
+#~ msgstr ""
+#~ "このページの情報を更新するには、ここをクリックしてください。上に表示されて"
+#~ "いるログファイルを読み込み、Samba が記録したイベントを取得します。"
+
+#~ msgid "Date & Time"
+#~ msgstr "日時"
+
+#~ msgid "Event"
+#~ msgstr "イベント"
+
+#~ msgid "Service/File"
+#~ msgstr "サービス/ファイル"
+
+#~ msgid "Host/User"
+#~ msgstr "ホスト/ユーザ"
+
+#~ msgid ""
+#~ "<p>This list shows details of the events logged by samba. Note that "
+#~ "events at the file level are not logged unless you have configured the "
+#~ "log level for samba to 2 or greater.</p><p> As with many other lists in "
+#~ "KDE, you can click on a column heading to sort on that column. Click "
+#~ "again to change the sorting direction from ascending to descending or "
+#~ "vice versa.</p><p> If the list is empty, try clicking the \"Update\" "
+#~ "button. The samba log file will be read and the list refreshed.</p>"
+#~ msgstr ""
+#~ "<p>このリストは Samba のイベントログの詳細を表示しています。ファイルごとの"
+#~ "ログは、Samba のログレベルが 2 以上に設定されていないと記録されないことに"
+#~ "注意してください。</p><p>他の KDE のリストと同様に、列見出しをクリックする"
+#~ "と、その列を基準にリスト項目が並べ替えられます。クリックするごとに、昇順か"
+#~ "ら降順、あるいはその逆になります。</p><p>リストが空なら「更新」ボタンをク"
+#~ "リックしてみてください。Samba のログファイルを読み込み、リストを更新しま"
+#~ "す。</p>"
+
+#~ msgid "CONNECTION OPENED"
+#~ msgstr "CONNECTION OPENED"
+
+#~ msgid "CONNECTION CLOSED"
+#~ msgstr "CONNECTION CLOSED"
+
+#~ msgid "            FILE OPENED"
+#~ msgstr "            FILE OPENED"
+
+#~ msgid "            FILE CLOSED"
+#~ msgstr "            FILE CLOSED"
+
+#~ msgid "Could not open file %1"
+#~ msgstr "ファイル ‘%1’ を開けませんでした"
+
+#~ msgid "Connections: 0"
+#~ msgstr "接続: 0"
+
+#~ msgid "File accesses: 0"
+#~ msgstr "ファイルアクセス: 0"
+
+#~ msgid "Event: "
+#~ msgstr "イベント: "
+
+#~ msgid "Service/File:"
+#~ msgstr "サービス/ファイル:"
+
+#~ msgid "Host/User:"
+#~ msgstr "ホスト/ユーザ:"
+
+#~ msgid "&Search"
+#~ msgstr "検索(&S)"
+
+#~ msgid "Clear Results"
+#~ msgstr "結果をクリア"
+
+#~ msgid "Show expanded service info"
+#~ msgstr "拡張サービス情報を表示"
+
+#~ msgid "Show expanded host info"
+#~ msgstr "拡張ホスト情報を表示"
+
+#~ msgid "Nr"
+#~ msgstr "Nr"
+
+#~ msgid "Hits"
+#~ msgstr "ヒット"
+
+#~ msgid "Connection"
+#~ msgstr "接続"
+
+#~ msgid "File Access"
+#~ msgstr "ファイルアクセス"
+
+#~ msgid "Connections: %1"
+#~ msgstr "接続: %1"
+
+#~ msgid "File accesses: %1"
+#~ msgstr "ファイルアクセス: %1"
+
+#~ msgid "FILE OPENED"
+#~ msgstr "FILE OPENED"
+
+#~ msgid "Service"
+#~ msgstr "サービス"
+
+#~ msgid "Accessed From"
+#~ msgstr "接続元"
+
+#~ msgid "UID"
+#~ msgstr "UID"
+
+#~ msgid "GID"
+#~ msgstr "GID"
+
+#~ msgid "PID"
+#~ msgstr "PID"
+
+#~ msgid "Open Files"
+#~ msgstr "開かれたファイル"
+
+#, fuzzy
+#~| msgid "Error: Unable to run smbstatus"
+#~ msgid "Error run smbstatus: %1"
+#~ msgstr "エラー: smbstatus を実行できません"
+
+#~ msgid "Error: Unable to open configuration file \"smb.conf\""
+#~ msgstr "エラー: 設定ファイル ‘smb.conf’ を開けません"
+
+#~ msgid "Error: Unable to run smbstatus"
+#~ msgstr "エラー: smbstatus を実行できません"
+
+#~ msgid "KDE Panel System Information Control Module"
+#~ msgstr "KDE システム情報モジュール"

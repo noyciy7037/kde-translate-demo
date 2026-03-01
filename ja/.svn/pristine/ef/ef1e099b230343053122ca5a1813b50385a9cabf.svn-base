@@ -1,0 +1,108 @@
+# Tsugumi Harabayashi <tu.hrby@gmail.com>, 2014.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: words.appdata\n"
+"POT-Creation-Date: 2026-02-14 09:56+0100\n"
+"PO-Revision-Date: 2014-07-13 03:49-0700\n"
+"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+"X-Generator: Lokalize 1.5\n"
+
+#. (itstool) path: component/name
+#. +> trunk6 stable6
+#: org.kde.calligra.words.metainfo.xml:6
+msgid "Calligra Words"
+msgstr ""
+
+#. (itstool) path: component/summary
+#. +> trunk6 stable6
+#: org.kde.calligra.words.metainfo.xml:7
+msgid "Word Processor"
+msgstr "ワードプロセッサ"
+
+#. (itstool) path: description/p
+#. +> trunk6 stable6
+#: org.kde.calligra.words.metainfo.xml:9
+msgid ""
+"Words is an intuitive word processor and desktop publisher application. With "
+"it, you can create informative and attractive documents with pleasure and "
+"ease."
+msgstr ""
+"Words はワードプロセッサおよびデスクトップ出版のためのアプリケーションです。"
+"直感的な操作で有益かつ魅力的な文書が簡単に作成できます"
+
+#. (itstool) path: description/p
+#. +> trunk6 stable6
+#: org.kde.calligra.words.metainfo.xml:13
+msgid "Features:"
+msgstr "機能:"
+
+#. (itstool) path: ul/li
+#. +> trunk6 stable6
+#: org.kde.calligra.words.metainfo.xml:15
+msgid "Frame-based editing"
+msgstr "フレームベースの編集"
+
+#. (itstool) path: ul/li
+#. +> trunk6 stable6
+#: org.kde.calligra.words.metainfo.xml:16
+msgid "Allows embedding of Documents"
+msgstr "文書への埋め込みを許可"
+
+#. (itstool) path: ul/li
+#. +> trunk6 stable6
+#: org.kde.calligra.words.metainfo.xml:17
+msgid "Customization of user interface"
+msgstr "ユーザインターフェースのカスタマイズ"
+
+#. (itstool) path: ul/li
+#. +> trunk6 stable6
+#: org.kde.calligra.words.metainfo.xml:18
+msgid "Includes all features expected from a modern word processor"
+msgstr "現在のワードプロセッサに求められるすべての機能を含む"
+
+#. (itstool) path: ul/li
+#. +> trunk6 stable6
+#: org.kde.calligra.words.metainfo.xml:19
+msgid "ODT (Open Document Text) support"
+msgstr "ODT (Open Document Text) サポート"
+
+#. (itstool) path: screenshot/caption
+#. +> trunk6 stable6
+#: org.kde.calligra.words.metainfo.xml:28
+msgid "Calligra Words main window"
+msgstr ""
+
+#. (itstool) path: description/p
+#. +> trunk6 stable6
+#: org.kde.calligra.words.metainfo.xml:63
+msgid "This release add flatpak support to the Calligra Office suite."
+msgstr ""
+
+#. (itstool) path: description/p
+#. +> trunk6 stable6
+#: org.kde.calligra.words.metainfo.xml:69
+msgid ""
+"The most significant changes are that Calligra has been fully transitioned "
+"to Qt6 and KF6, along with a major overhaul of its user interface."
+msgstr ""
+
+#. (itstool) path: description/p
+#. +> trunk6 stable6
+#: org.kde.calligra.words.metainfo.xml:70
+msgid ""
+"Word now features the new sidebar design, and the main view uses a shadow to "
+"define the document borders. The Style Manager and Page Layout dialog were "
+"also updated with a new design."
+msgstr ""
+
+#~ msgid "Words"
+#~ msgstr "Words"

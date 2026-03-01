@@ -1,0 +1,61 @@
+# Ryuichi Yamada <ryuichi_ya220@outlook.jp>, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: json files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-09-20 11:49+0200\n"
+"PO-Revision-Date: 2023-02-23 00:19+0900\n"
+"Last-Translator: Ryuichi Yamada <ryuichi_ya220@outlook.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: \n"
+"X-Text-Markup: \n"
+"X-Generator: Lokalize 22.12.2\n"
+
+#. +> trunk6 stable6
+#: src/kcm/kcm_kaccounts.json
+msgctxt "X-KDE-Keywords"
+msgid ""
+"network,google,live,owncloud,sync,online,accounts,synchronization,opendesktop,nextcloud,youtube,drive,hangouts,gmail,google "
+"calendar"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/kcm/kcm_kaccounts.json
+msgctxt "Name"
+msgid "Online Accounts"
+msgstr "オンラインアカウント"
+
+#. +> trunk6 stable6
+#: src/kcm/kcm_kaccounts.json
+msgctxt "Description"
+msgid "Configure your internet accounts such as Google, Live, Owncloud"
+msgstr "Google, Live, Owncloud などのアカウントを設定"
+
+#. +> trunk6 stable6
+#: src/kded/kded_accounts.json
+msgctxt "Name"
+msgid "Accounts"
+msgstr "アカウント"
+
+#. +> trunk6 stable6
+#: src/kded/kded_accounts.json
+msgctxt "Description"
+msgid "Accounts management"
+msgstr "アカウント管理"
+
+#. +> trunk6 stable6
+#: src/plugins/kio-webdav/kio-webdav.json
+msgctxt "Name"
+msgid "KIO WebDAV"
+msgstr "KIO WebDAV"
+
+#. +> trunk6 stable6
+#: src/plugins/kio-webdav/kio-webdav.json
+msgctxt "Description"
+msgid "Mount WebDAV shares with KIO"
+msgstr "WebDAV 共有を KIO でマウント"

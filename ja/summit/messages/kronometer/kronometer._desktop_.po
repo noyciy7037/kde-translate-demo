@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-09-09 08:58+0200\n"
+"PO-Revision-Date: 2014-02-22 22:23-0800\n"
+"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: \n"
+"X-Text-Markup: \n"
+
+#. +> trunk6 stable5
+#: desktop/org.kde.kronometer.desktop:6
+msgctxt "Name"
+msgid "Kronometer"
+msgstr ""
+
+#. +> trunk6 stable5
+#: desktop/org.kde.kronometer.desktop:47
+msgctxt "GenericName"
+msgid "Chronometer"
+msgstr ""
+
+#. +> trunk6 stable5
+#: desktop/org.kde.kronometer.desktop:88
+msgctxt "Comment"
+msgid "A simple chronometer application by KDE"
+msgstr ""

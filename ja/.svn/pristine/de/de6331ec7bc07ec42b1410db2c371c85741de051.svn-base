@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: org.kde.shelf.metainfo\n"
+"POT-Creation-Date: 2024-12-26 08:45+0100\n"
+"PO-Revision-Date: 2021-07-25 22:54-0700\n"
+"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. (itstool) path: component/name
+#. (itstool) path: screenshot/caption
+#. +> trunk6
+#: org.kde.shelf.metainfo.xml:10 org.kde.shelf.metainfo.xml:20
+msgid "Shelf"
+msgstr ""
+
+#. (itstool) path: component/summary
+#. +> trunk6
+#: org.kde.shelf.metainfo.xml:11
+msgid "Browse and view your documents"
+msgstr ""
+
+#. (itstool) path: description/p
+#. +> trunk6
+#: org.kde.shelf.metainfo.xml:13
+msgid "Shelf is a simple PDF and EPUB document browser and viewer."
+msgstr ""

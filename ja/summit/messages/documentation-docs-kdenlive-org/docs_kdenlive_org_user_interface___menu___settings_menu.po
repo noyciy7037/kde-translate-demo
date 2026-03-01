@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kdenlive Manual \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-13 09:59+0100\n"
+"PO-Revision-Date: 2021-11-20 18:29-0800\n"
+"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. +> trunk5
+#: ../../user_interface/menu/settings_menu.rst:22
+#: ../../user_interface/menu/settings_menu.rst:30
+msgid "Settings Menu"
+msgstr ""
+
+#. +> trunk5
+#: ../../user_interface/menu/settings_menu.rst:36
+msgid ":doc:`/tips_and_tricks/useful_info/manage_cached_data`"
+msgstr ""
+
+#. +> trunk5
+#: ../../user_interface/menu/settings_menu.rst:37
+msgid ":ref:`run_config_wizard`"
+msgstr ""
+
+#. +> trunk5
+#: ../../user_interface/menu/settings_menu.rst:38
+msgid ":ref:`reset_configuration`"
+msgstr ""
+
+#. +> trunk5
+#: ../../user_interface/menu/settings_menu.rst:39
+msgid ":ref:`Color Schemes <themes>`"
+msgstr ""
+
+#. +> trunk5
+#: ../../user_interface/menu/settings_menu.rst:40
+msgid ":ref:`Application Style <issue-style>`"
+msgstr ""
+
+#. +> trunk5
+#: ../../user_interface/menu/settings_menu.rst:41
+msgid ":ref:`Show Menubar <toolbars_shown>`"
+msgstr ""
+
+#. +> trunk5
+#: ../../user_interface/menu/settings_menu.rst:42
+msgid ":ref:`Toolbars Shown <toolbars_shown>`"
+msgstr ""
+
+#. +> trunk5
+#: ../../user_interface/menu/settings_menu.rst:43
+msgid ":ref:`Show Status bar <toolbars>`"
+msgstr ""
+
+#. +> trunk5
+#: ../../user_interface/menu/settings_menu.rst:44
+msgid ":ref:`Configure Language... <configure_language>`"
+msgstr ""
+
+#. +> trunk5
+#: ../../user_interface/menu/settings_menu.rst:45
+msgid ":ref:`Configure Keyboard Shortcuts <configure_shortcuts>`"
+msgstr ""
+
+#. +> trunk5
+#: ../../user_interface/menu/settings_menu.rst:46
+msgid ":ref:`Configure Toolbars <toolbars>`"
+msgstr ""
+
+#. +> trunk5
+#: ../../user_interface/menu/settings_menu.rst:47
+msgid ":ref:`configure_notifications`"
+msgstr ""
+
+#. +> trunk5
+#: ../../user_interface/menu/settings_menu.rst:48
+msgid ":doc:`Configure Kdenlive</getting_started/configuration>`"
+msgstr ""
+
+#. +> trunk5
+#: ../../user_interface/menu/settings_menu.rst:53
+msgid "**Settings Menu - Mac OS X**"
+msgstr ""
+
+#. +> trunk5
+#: ../../user_interface/menu/settings_menu.rst:59
+msgid ""
+"On the Mac OS X build of Kdenlive the :menuselection:`Settings` menu does "
+"not contain the :menuselection:`Configure Kdenlive` menu item. The "
+"equivalent on Mac OS X is the :menuselection:`Preferences` menu item found "
+"under the :menuselection:`Kdenlive` menu."
+msgstr ""
+
+#. +> trunk5
+#: ../../user_interface/menu/settings_menu.rst:68
+msgid "Reset Configuration"
+msgstr ""
+
+#. +> trunk5
+#: ../../user_interface/menu/settings_menu.rst:70
+msgid ""
+"This will delete Kdenlive's configuration file and restart the application."
+msgstr ""
+
+#. +> trunk5
+#: ../../user_interface/menu/settings_menu.rst:-1
+msgid "The Kdenlive User Manual - Settings Menu"
+msgstr ""
+
+#. +> trunk5
+#: ../../user_interface/menu/settings_menu.rst:-1
+msgid ""
+"KDE, Kdenlive, documentation, settings menu, user manual, video editor, open "
+"source, free, help, learn, setting, configure, adjustment, change setting"
+msgstr ""

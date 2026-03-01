@@ -1,0 +1,166 @@
+# Translation of desktop_kdeedu to Japanese.
+# Taiki Komoda <kom@kde.gr.jp>, 2002,2003.
+# hogie <satoshiy@juno.dti.ne.jp>, 2004.
+# Kyosuke Takayama <support@mc.neweb.ne.jp>, 2004.
+# Toyohiro Asukai <toyohiro@ksmplus.com>, 2004.
+# AWASHIRO Ikuya <ikuya@oooug.jp>, 2004.
+# KIMIZUKA Tomokazu <sgtom@pluto.dti.ne.jp>, 2005.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2007, 2008, 2009.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2006, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdeedu\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-09-09 08:59+0200\n"
+"PO-Revision-Date: 2011-02-17 00:00-0800\n"
+"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.10.2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: \n"
+"X-Text-Markup: \n"
+
+#. +> trunk6 stable6
+#: src/org.kde.parley.desktop:2
+msgctxt "Name"
+msgid "Parley"
+msgstr "Parley"
+
+#. +> trunk6 stable6
+#: src/org.kde.parley.desktop:67
+msgctxt "Comment"
+msgid "A program to help you memorize things."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/org.kde.parley.desktop:104
+msgctxt "GenericName"
+msgid "Vocabulary Trainer"
+msgstr "ボキャブラリ強化プログラム"
+
+#. +> trunk6 stable6
+#: themes/bees_theme.desktop:2
+msgctxt "Name"
+msgid "Bees"
+msgstr ""
+
+#. +> trunk6 stable6
+#: themes/bees_theme.desktop:47
+msgctxt "Description"
+msgid "Awesome cute bees"
+msgstr ""
+
+#. +> trunk6 stable6
+#: themes/theme_reference.desktop:2
+msgctxt "Name"
+msgid "Gray"
+msgstr ""
+
+#. +> trunk6 stable6
+#: themes/theme_reference.desktop:50
+msgctxt "Description"
+msgid "A simple gray theme."
+msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Example Parley Script"
+#~ msgstr "Parley スクリプトの例"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "This example script offers two actions: 1) Move selected vocabulary to a "
+#~ "different lesson 2) Change the grade of selected words to known (highest "
+#~ "grade)"
+#~ msgstr ""
+#~ "このスクリプトは 2 つのアクションを提供します。1) 選択した語彙を他のレッス"
+#~ "ンに移動 2) 選択した単語の習得レベルを最高 (知っている) に変更"
+
+#~ msgctxt "Name"
+#~ msgid "Google Dictionary (translation)"
+#~ msgstr "Google 辞書 (翻訳)"
+
+#~ msgctxt "Comment"
+#~ msgid "Uses Google Dictionary (translate.google.com) to translate words"
+#~ msgstr "Google 辞書 (translate.google.com) を使って単語を翻訳します"
+
+#~ msgctxt "Name"
+#~ msgid "LEO Dictionary (Translation)"
+#~ msgstr "LEO 辞書 (翻訳)"
+
+#~ msgctxt "Comment"
+#~ msgid "Uses LEO Dictionary (dict.leo.org) to translate words"
+#~ msgstr "LEO 辞書 (dict.leo.org) を使って単語を翻訳します"
+
+#~ msgctxt "Name"
+#~ msgid "Testing Purposes Script"
+#~ msgstr "テスト用スクリプト"
+
+#~ msgctxt "Comment"
+#~ msgid "Description of what the plugin does"
+#~ msgstr "プラグインの説明"
+
+#~ msgctxt "Comment"
+#~ msgid "Vocabulary data for Plasmoids"
+#~ msgstr "プラズモイド用の語彙データ"
+
+#~ msgctxt "Comment"
+#~ msgid "Vocabulary Cards"
+#~ msgstr "語彙カード"
+
+#~ msgctxt "Name"
+#~ msgid "Google Images (online image fetching)"
+#~ msgstr "Google イメージ (オンライン画像検索)"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid ""
+#~| "This script automatically fetches images from images.google.com for the "
+#~| "selected word.  The search language depends on the selected word.  "
+#~| "Downloaded images are stored in a <<document file name>>_files folder "
+#~| "next to the document file. Requires PyQt4."
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "This script automatically fetches images from images.google.com for the "
+#~ "selected word. The search language depends on the selected word. "
+#~ "Downloaded images are stored in a <em>document file name</em>_files "
+#~ "folder next to the document file. Requires PyQt4."
+#~ msgstr ""
+#~ "このスクリプトは選択した単語をその言語の images.google.com で検索して画像"
+#~ "を取得します。ダウンロードした画像は、語彙文書と同じ場所に作成される ‘&lt;"
+#~ "文書名&gt;_files’ という名前のフォルダに保存されます。このスクリプトには "
+#~ "PyQt4 が必要です。"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid ""
+#~| "This script automatically fetches images from images.google.com for the "
+#~| "selected word.  The search language depends on the selected word.  "
+#~| "Downloaded images are stored in a <<document file name>>_files folder "
+#~| "next to the document file. Requires PyQt4."
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "This script automatically fetches images from images.google.com for the "
+#~ "selected word. The search language depends on the selected word. "
+#~ "Downloaded images are stored in a <<document file name>>_files folder "
+#~ "next to the document file. Requires PyQt4."
+#~ msgstr ""
+#~ "このスクリプトは選択した単語をその言語の images.google.com で検索して画像"
+#~ "を取得します。ダウンロードした画像は、語彙文書と同じ場所に作成される ‘<文"
+#~ "書名>_files’ という名前のフォルダに保存されます。このスクリプトには PyQt4 "
+#~ "が必要です。"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "This script automatically fetches images from images.google.com for the "
+#~ "selected word.  The search language depends on the selected word.  "
+#~ "Downloaded images are stored in a <<document file name>>_files folder "
+#~ "next to the document file. Requires PyQt4."
+#~ msgstr ""
+#~ "このスクリプトは選択した単語をその言語の images.google.com で検索して画像"
+#~ "を取得します。ダウンロードした画像は、語彙文書と同じ場所に作成される ‘<文"
+#~ "書名>_files’ という名前のフォルダに保存されます。このスクリプトには PyQt4 "
+#~ "が必要です。"

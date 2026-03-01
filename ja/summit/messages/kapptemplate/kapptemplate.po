@@ -1,0 +1,603 @@
+# Translation of kapptemplate into Japanese.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2009.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: kapptemplate\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-11-27 09:17+0100\n"
+"PO-Revision-Date: 2011-04-08 20:46-0700\n"
+"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Yukiko Bando"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "ybando@k6.dion.ne.jp"
+
+#. +> trunk6 stable6
+#: src/application/apptemplatesmodel.cpp:157
+#, fuzzy, kde-format
+#| msgid "Templates Projects"
+msgctxt "@title:column"
+msgid "Templates Projects"
+msgstr "プロジェクトのテンプレート"
+
+#. +> trunk6 stable6
+#: src/application/ChoicePage.qml:16
+#, fuzzy, kde-format
+#| msgid "Choose your project template"
+msgctxt "@title"
+msgid "Choose Template"
+msgstr "プロジェクトのテンプレートを選択"
+
+#. +> trunk6 stable6
+#: src/application/ChoicePage.qml:26
+#, kde-format
+msgctxt "@action:intoolbar"
+msgid "Install Template From File"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/application/ChoicePage.qml:33
+#, kde-format
+msgctxt "file dialog name filter"
+msgid "Archive Files (*.tar.bz2 *.zip)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/application/ChoicePage.qml:96
+#, fuzzy, kde-format
+#| msgid "Templates Projects"
+msgctxt "@title"
+msgid "No Template Selected"
+msgstr "プロジェクトのテンプレート"
+
+#. +> trunk6 stable6
+#: src/application/ChoicePage.qml:120 src/application/ConfigurePage.qml:87
+#: src/application/GeneratorPage.qml:67
+#, fuzzy, kde-format
+#| msgctxt "Do not translate"
+#| msgid "Preview"
+msgctxt "@action:button Go to the previous page"
+msgid "Previous"
+msgstr "Preview"
+
+#. +> trunk6 stable6
+#: src/application/ChoicePage.qml:129 src/application/IntroductionPage.qml:39
+#, kde-format
+msgctxt "@action:button Go to the next page"
+msgid "Next"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/application/ConfigurePage.qml:15
+#, kde-format
+msgctxt "@title"
+msgid "Configure"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/application/ConfigurePage.qml:25
+#, kde-format
+msgctxt "@title:group"
+msgid "General"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/application/ConfigurePage.qml:32
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Name:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/application/ConfigurePage.qml:44
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Location:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/application/ConfigurePage.qml:45
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "No folder selected"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/application/ConfigurePage.qml:57
+#, kde-format
+msgctxt "@title:group"
+msgid "Metadata"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/application/ConfigurePage.qml:62
+#, fuzzy, kde-format
+#| msgid "Version Number:"
+msgctxt "@label:textbox"
+msgid "Version:"
+msgstr "バージョン番号:"
+
+#. +> trunk6 stable6
+#: src/application/ConfigurePage.qml:70
+#, fuzzy, kde-format
+#| msgid "Author name:"
+msgctxt "@label:textbox"
+msgid "Author name:"
+msgstr "作者の名前:"
+
+#. +> trunk6 stable6
+#: src/application/ConfigurePage.qml:78
+#, fuzzy, kde-format
+#| msgid "Author email:"
+msgctxt "@label:textbox"
+msgid "Author email:"
+msgstr "作者のメールアドレス:"
+
+#. +> trunk6 stable6
+#: src/application/ConfigurePage.qml:93
+#, kde-format
+msgctxt "@action:button Generate the application"
+msgid "Generate"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/application/generator.cpp:128
+#, kde-format
+msgid "%1 cannot be created."
+msgstr "‘%1’ を作成できません。"
+
+#. +> trunk6 stable6
+#: src/application/generator.cpp:148
+#, fuzzy, kde-format
+#| msgid "%1 cannot be created."
+msgid "Path %1 could not be created."
+msgstr "‘%1’ を作成できません。"
+
+#. +> trunk6 stable6
+#: src/application/generator.cpp:164
+#, kde-format
+msgid ""
+"Could not copy template file to %1, because the file is already exists. The "
+"project has not been generated and all temporary files will be removed."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/application/generator.cpp:178
+#, kde-format
+msgid ""
+"Failed to integrate your project information into the file %1. The project "
+"has not been generated and all temporary files will be removed."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/application/generator.cpp:186
+#, kde-format
+msgid "Could not copy template file to %1."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/application/generator.cpp:266
+#, kde-format
+msgid "Could not load template archive for %1."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/application/generator.cpp:355
+#, fuzzy, kde-format
+#| msgid "Your project name is: <b>%1</b>, based on the %2 template.<br />"
+msgid "Your project name is: <b>%1</b>, based on the <b>%2</b> template.<br />"
+msgstr ""
+"あなたのプロジェクトの名前: <b>%1</b> (テンプレート “%2” に基づく)<br />"
+
+#. +> trunk6 stable6
+#: src/application/generator.cpp:356
+#, kde-format
+msgid "Version: %1 <br /><br />"
+msgstr "バージョン: %1 <br /><br />"
+
+#. +> trunk6 stable6
+#: src/application/generator.cpp:357
+#, kde-format
+msgid "Installed in: %1 <br /><br />"
+msgstr "インストール先: %1 <br /><br />"
+
+#. +> trunk6 stable6
+#: src/application/generator.cpp:358
+#, kde-format
+msgid ""
+"You will find a README in your project folder <b>%1</b><br /> to help you "
+"get started with your project."
+msgstr ""
+"プロジェクトフォルダ ‘%1’ に README があります。<br/>プロジェクトに取り掛かる"
+"前にお読みください。"
+
+#. +> trunk6 stable6
+#: src/application/GeneratorPage.qml:16
+#, fuzzy, kde-format
+#| msgid "Project version"
+msgctxt "@title"
+msgid "Project Generation"
+msgstr "プロジェクトのバージョン"
+
+#. +> trunk6 stable6
+#: src/application/GeneratorPage.qml:73
+#, kde-format
+msgctxt "@action:button Close the application"
+msgid "Close"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/application/IntroductionPage.qml:13
+#, fuzzy, kde-format
+#| msgid "Introduction"
+msgctxt "@title"
+msgid "Introduction"
+msgstr "はじめに"
+
+#. +> trunk6 stable6
+#: src/application/IntroductionPage.qml:19
+#, fuzzy, kde-format
+#| msgid ""
+#| "This wizard will help you generate a KDE 4 project template.\n"
+#| "You will be able to start developing you own KDE 4 project from this "
+#| "template."
+msgid ""
+"This wizard will help you generate a new project to get started with Qt and "
+"KDE development."
+msgstr ""
+"このウィザードで KDE 4 用プロジェクトのテンプレートを作成します。\n"
+"このテンプレートを元にしてあなた自身のプロジェクトの開発を開始することができ"
+"ます。"
+
+#. i18n: ectx: label, entry (appName), group (Project)
+#. +> trunk6 stable6
+#: src/application/kapptemplate.kcfg:11
+#, kde-format
+msgid "Name of the project"
+msgstr "プロジェクトの名前"
+
+#. i18n: ectx: label, entry (appVersion), group (Project)
+#. +> trunk6 stable6
+#: src/application/kapptemplate.kcfg:15
+#, kde-format
+msgid "Project version"
+msgstr "プロジェクトのバージョン"
+
+#. i18n: ectx: label, entry (url), group (Project)
+#. +> trunk6 stable6
+#: src/application/kapptemplate.kcfg:19
+#, kde-format
+msgid "Home dir of the user"
+msgstr "ユーザのホームディレクトリ"
+
+#. i18n: ectx: label, entry (name), group (User)
+#. +> trunk6 stable6
+#: src/application/kapptemplate.kcfg:27
+#, kde-format
+msgid "Name of the user"
+msgstr "ユーザの名前"
+
+#. i18n: ectx: label, entry (email), group (User)
+#. +> trunk6 stable6
+#: src/application/kapptemplate.kcfg:38
+#, kde-format
+msgid "Email of the user"
+msgstr "ユーザのメールアドレス"
+
+#. +> trunk6 stable6
+#: src/application/main.cpp:42
+#, kde-format
+msgid "KAppTemplate"
+msgstr "KAppTemplate"
+
+#. +> trunk6 stable6
+#: src/application/main.cpp:44
+#, fuzzy, kde-format
+#| msgid "KAppTemplate is a KDE 4 project template generator"
+msgid "KAppTemplate is a KDE project template generator"
+msgstr "KAppTemplate は KDE 4 用プロジェクトのテンプレートを生成します"
+
+#. +> trunk6 stable6
+#: src/application/main.cpp:46
+#, kde-format
+msgid "(C) 2008 Anne-Marie Mahfouf"
+msgstr "(C) 2008 Anne-Marie Mahfouf"
+
+#. +> trunk6 stable6
+#: src/application/main.cpp:50
+#, kde-format
+msgid "Anne-Marie Mahfouf"
+msgstr "Anne-Marie Mahfouf"
+
+#. +> trunk6 stable6
+#: src/application/main.cpp:51
+#, kde-format
+msgid "Sean Wilson"
+msgstr "Sean Wilson"
+
+#. +> trunk6 stable6
+#: src/application/main.cpp:51
+#, kde-format
+msgid "Icons from Oxygen Team icons"
+msgstr "Oxygen 開発チームによるアイコン"
+
+#. +> trunk6 stable6
+#: src/templates/C++/kde-frameworks6-simple/src/main.cpp:25
+#: src/templates/C++/kde-frameworks6/src/main.cpp:32
+#, kde-format
+msgid "%{APPNAME}"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/templates/C++/kde-frameworks6-simple/src/main.cpp:27
+#: src/templates/C++/kde-frameworks6/src/main.cpp:34
+#, kde-format
+msgid "A Simple Application written with KDE Frameworks"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/templates/C++/kde-frameworks6-simple/src/main.cpp:29
+#: src/templates/C++/kde-frameworks6/src/main.cpp:36
+#, kde-format
+msgid "Copyright %{CURRENT_YEAR}, %{AUTHOR} <%{EMAIL}>"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/templates/C++/kde-frameworks6-simple/src/main.cpp:31
+#: src/templates/C++/kde-frameworks6/src/main.cpp:38
+#, kde-format
+msgid "%{AUTHOR}"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/templates/C++/kde-frameworks6-simple/src/main.cpp:31
+#: src/templates/C++/kde-frameworks6/src/main.cpp:38
+#, fuzzy, kde-format
+#| msgid "Author Name:"
+msgid "Author"
+msgstr "作者の名前:"
+
+#. i18n : internationalization
+#. +> trunk6 stable6
+#: src/templates/C++/kde-frameworks6/src/%{APPNAMELC}view.cpp:44
+#, kde-format
+msgid "This project is %1 days old"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/templates/C++/kde-frameworks6/src/%{APPNAMELC}window.cpp:26
+#, kde-format
+msgctxt "@action"
+msgid "Switch Colors"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/templates/C++/kde-frameworks6/src/%{APPNAMELC}window.cpp:62
+#, kde-format
+msgctxt "@title:tab"
+msgid "General"
+msgstr ""
+
+#, kde-format
+#~ msgid "Generating your project"
+#~ msgstr "プロジェクトの生成"
+
+#, kde-format
+#~ msgid "Generation Progress\n"
+#~ msgstr "生成の進捗\n"
+
+#, kde-format
+#~ msgid "Succeeded.\n"
+#~ msgstr "成功。\n"
+
+#, kde-format
+#~ msgid "Your project name is: <b>%1</b>, based on the %2 template.<br />"
+#~ msgstr ""
+#~ "あなたのプロジェクトの名前: <b>%1</b> (テンプレート “%2” に基づく)<br />"
+
+#, kde-format
+#~ msgid "Project name:"
+#~ msgstr "プロジェクト名:"
+
+#, kde-format
+#~ msgid "Choose your project template"
+#~ msgstr "プロジェクトのテンプレートを選択"
+
+#, kde-format
+#~ msgid "Template description"
+#~ msgstr "テンプレートの説明"
+
+#, fuzzy, kde-format
+#~| msgid ""
+#~| "This wizard will help you generate a KDE 4 project template.\n"
+#~| "You will be able to start developing you own KDE 4 project from this "
+#~| "template."
+#~ msgid ""
+#~ "This wizard will help you generate a new project.\n"
+#~ "You will be able to start developing your own software using Qt and KDE "
+#~ "technologies from this template."
+#~ msgstr ""
+#~ "このウィザードで KDE 4 用プロジェクトのテンプレートを作成します。\n"
+#~ "このテンプレートを元にしてあなた自身のプロジェクトの開発を開始することがで"
+#~ "きます。"
+
+#, fuzzy, kde-format
+#~| msgid "KDE 4 Template Generator"
+#~ msgctxt "@title:window"
+#~ msgid "KDE and Qt Template Generator"
+#~ msgstr "KDE 4 テンプレートジェネレータ"
+
+#, fuzzy, kde-format
+#~| msgid "Introduction"
+#~ msgctxt "@title:tab"
+#~ msgid "Introduction"
+#~ msgstr "はじめに"
+
+#, kde-format
+#~ msgid "Set the project properties"
+#~ msgstr "プロジェクトのプロパティを設定"
+
+#, fuzzy, kde-format
+#~| msgid "Your project name is : %1"
+#~ msgid "Your project name is: %1"
+#~ msgstr "あなたのプロジェクトの名前: %1"
+
+#, fuzzy, kde-format
+#~| msgid "Version number:"
+#~ msgid "&Version number:"
+#~ msgstr "バージョン番号:"
+
+#, kde-format
+#~ msgid "Project's version number"
+#~ msgstr "プロジェクトのバージョン番号"
+
+#, kde-format
+#~ msgid ""
+#~ "Set your project version number. A first project should start with "
+#~ "version 0.1."
+#~ msgstr ""
+#~ "あなたのプロジェクトのバージョン番号を設定します。プロジェクトの最初のバー"
+#~ "ジョンは 0.1 です。"
+
+#, fuzzy, kde-format
+#~| msgid "0.0; "
+#~ msgid "0.0"
+#~ msgstr "0.0; "
+
+#, kde-format
+#~ msgid "0.1"
+#~ msgstr "0.1"
+
+#, fuzzy, kde-format
+#~| msgid "Installation directory:"
+#~ msgid "In&stallation directory:"
+#~ msgstr "インストールディレクトリ:"
+
+#, kde-format
+#~ msgid "The directory where you will build your project"
+#~ msgstr "プロジェクトをビルドするディレクトリ"
+
+#, kde-format
+#~ msgid ""
+#~ "Choose the directory where you will build your project. Your home /src is "
+#~ "a good default location."
+#~ msgstr ""
+#~ "あなたのプロジェクトをビルドするディレクトリを選択します。一般的にはホーム"
+#~ "ディレクトリの /src が適しています。"
+
+#, fuzzy, kde-format
+#~| msgid "Author name:"
+#~ msgid "Author &name:"
+#~ msgstr "作者の名前:"
+
+#, kde-format
+#~ msgid "Your first name and name"
+#~ msgstr "あなたの姓名"
+
+#, kde-format
+#~ msgid "This will set the copyright to this name"
+#~ msgstr "著作権はこの名前に設定されます。"
+
+#, fuzzy, kde-format
+#~| msgid "Author email:"
+#~ msgid "A&uthor email:"
+#~ msgstr "作者のメールアドレス:"
+
+#, kde-format
+#~ msgid "Your email address"
+#~ msgstr "あなたのメールアドレス"
+
+#, kde-format
+#~ msgid ""
+#~ "This email address will be next to your name in the copyright credit of "
+#~ "the project files."
+#~ msgstr ""
+#~ "プロジェクトファイルの著作権表示であなたの名前の次に表記されるメールアドレ"
+#~ "スです。"
+
+#, fuzzy
+#~| msgid "KDE 4 Template Generator"
+#~ msgid "KDE and Qt Template Generator"
+#~ msgstr "KDE 4 テンプレートジェネレータ"
+
+#~ msgid "Your project name is : %1"
+#~ msgstr "あなたのプロジェクトの名前: %1"
+
+#~ msgctxt "Do not translate"
+#~ msgid "Description"
+#~ msgstr "Description"
+
+#~ msgid "The file %1 cannot be created."
+#~ msgstr "ファイル ‘%1’ を作成できません。"
+
+#~ msgid ""
+#~ "\n"
+#~ "\n"
+#~ "The file %1 cannot be created."
+#~ msgstr ""
+#~ "\n"
+#~ "\n"
+#~ "ファイル ‘%1’ を作成できません。"
+
+#~ msgid "KDE 4 Template Generator"
+#~ msgstr "KDE 4 テンプレートジェネレータ"
+
+#~ msgid "KAppTemplate is a KDE 4 project template generator"
+#~ msgstr "KAppTemplate は KDE 4 用プロジェクトのテンプレートを生成します"
+
+#~ msgid ""
+#~ "This wizard will help you generate a KDE 4 project template.\n"
+#~ "You will be able to start developing you own KDE 4 project from this "
+#~ "template."
+#~ msgstr ""
+#~ "このウィザードで KDE 4 用プロジェクトのテンプレートを作成します。\n"
+#~ "このテンプレートを元にしてあなた自身のプロジェクトの開発を開始することがで"
+#~ "きます。"
+
+#~ msgid "Project Name:"
+#~ msgstr "プロジェクト名:"
+
+#~ msgid "Success!\n"
+#~ msgstr "成功!\n"
+
+#~ msgid ""
+#~ "You will find a README in your project folder <b>%1</b><br /> to help you "
+#~ "get started with your project!"
+#~ msgstr ""
+#~ "プロジェクトフォルダ ‘%1’ に README があります。<br/>プロジェクトに取り掛"
+#~ "かる前にお読みください。"
+
+#~ msgid ""
+#~ "This wizard will help you generating  a KDE 4 project template.\n"
+#~ "You will be able to start developing you own KDE 4 project from this "
+#~ "template."
+#~ msgstr ""
+#~ "このウィザードで KDE 4 用プロジェクトのテンプレートを作成します。\n"
+#~ "このテンプレートを元にしてあなた自身のプロジェクトの開発を開始することがで"
+#~ "きます。"
+
+#~ msgid "Installation Directory:"
+#~ msgstr "インストールディレクトリ:"
+
+#~ msgid "Author Email:"
+#~ msgstr "作者のメールアドレス:"
+
+#~ msgid "TextLabel"
+#~ msgstr "TextLabel"

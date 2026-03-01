@@ -1,0 +1,89 @@
+# Translation of desktop_kdeedu to Japanese.
+# Taiki Komoda <kom@kde.gr.jp>, 2002,2003.
+# hogie <satoshiy@juno.dti.ne.jp>, 2004.
+# Kyosuke Takayama <support@mc.neweb.ne.jp>, 2004.
+# Toyohiro Asukai <toyohiro@ksmplus.com>, 2004.
+# AWASHIRO Ikuya <ikuya@oooug.jp>, 2004.
+# KIMIZUKA Tomokazu <sgtom@pluto.dti.ne.jp>, 2005.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2007, 2008, 2009.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2006, 2011, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdeedu\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-09-09 08:56+0200\n"
+"PO-Revision-Date: 2014-09-21 00:26-0700\n"
+"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.10.2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: \n"
+"X-Text-Markup: \n"
+
+#. +> trunk6 stable6
+#: mobile/org.kde.kalgebramobile.desktop:2
+msgctxt "Name"
+msgid "KAlgebra Mobile"
+msgstr "KAlgebra モバイル"
+
+#. +> trunk6 stable6
+#: mobile/org.kde.kalgebramobile.desktop:54
+msgctxt "GenericName"
+msgid "Pocket Graph Calculator"
+msgstr "ポケットグラフ計算機"
+
+#. +> trunk6 stable6
+#: mobile/org.kde.kalgebramobile.desktop:105
+msgctxt "Comment"
+msgid "Pocket Math Expression Solver and Plotter"
+msgstr "ポケット数式ソルバー＆プロッタ"
+
+#. +> trunk6 stable6
+#: src/org.kde.kalgebra.desktop:2
+msgctxt "Name"
+msgid "KAlgebra"
+msgstr "KAlgebra"
+
+#. +> trunk6 stable6
+#: src/org.kde.kalgebra.desktop:64
+msgctxt "GenericName"
+msgid "Graph Calculator"
+msgstr "グラフ計算機"
+
+#. +> trunk6 stable6
+#: src/org.kde.kalgebra.desktop:121
+msgctxt "Comment"
+msgid "Math Expression Solver and Plotter"
+msgstr "数式ソルバー＆プロッタ"
+
+#~ msgctxt "Comment"
+#~ msgid "A Calculator"
+#~ msgstr "計算機"
+
+#~ msgctxt "Name"
+#~ msgid "About KAlgebra"
+#~ msgstr "KAlgebra について"
+
+#~ msgctxt "Name"
+#~ msgid "Console"
+#~ msgstr "コンソール"
+
+#~ msgctxt "Comment"
+#~ msgid "Scientific calculator"
+#~ msgstr "科学計算機"
+
+#~ msgctxt "Name"
+#~ msgid "Graph 2D"
+#~ msgstr "グラフ 2D"
+
+#~ msgctxt "Name"
+#~ msgid "Variables"
+#~ msgstr "変数"
+
+#~ msgctxt "Name"
+#~ msgid "KAlgebra Script"
+#~ msgstr "KAlgebra スクリプト"

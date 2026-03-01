@@ -1,0 +1,1682 @@
+# Translation of kpat into Japanese.
+# This file is distributed under the same license as the kdegames package.
+# Taiki Komoda <kom@kde.gr.jp>, 2002.
+# Takuro Ashie <ashie@homa.ne.jp>, 2004.
+# Kurose Shushi <md81@bird.email.ne.jp>, 2004.
+# Naoya KOJIMA <naoya@fullmoon.dyndns.org>, 2005.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2007, 2008, 2010.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: kpat\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-12-29 09:53+0100\n"
+"PO-Revision-Date: 2011-04-06 18:00-0700\n"
+"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.9.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Taiki Komoda,Takuro Ashie,Kurose Shushi,Naoya KOJIMA"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "kom@kde.gr.jp,ashie@homa.ne.jp,md81@bird.email.ne.jp,naoya@fullmoon.dyndns.org"
+
+#. +> trunk6 stable6
+#: bakersdozen.cpp:69 castle.cpp:361 freecell.cpp:347
+#, kde-format
+msgctxt "@title:menu"
+msgid "Popular Variant Presets"
+msgstr ""
+
+#. +> trunk6 stable6
+#: bakersdozen.cpp:70
+#, kde-format
+msgctxt "@item:inmenu preset"
+msgid "Baker's Dozen"
+msgstr ""
+
+#. +> trunk6 stable6
+#: bakersdozen.cpp:71
+#, fuzzy, kde-format
+#| msgid "KPatience"
+msgctxt "@item:inmenu preset"
+msgid "Spanish Patience"
+msgstr "KPatience"
+
+#. +> trunk6 stable6
+#: bakersdozen.cpp:72
+#, kde-format
+msgctxt "@item:inmenu preset"
+msgid "Castles in Spain"
+msgstr ""
+
+#. +> trunk6 stable6
+#: bakersdozen.cpp:73
+#, kde-format
+msgctxt "@item:inmenu preset"
+msgid "Portuguese Solitaire"
+msgstr ""
+
+#. +> trunk6 stable6
+#: bakersdozen.cpp:74 castle.cpp:368 freecell.cpp:353
+#, kde-format
+msgctxt "@item:inmenu preset"
+msgid "Custom"
+msgstr ""
+
+#. +> trunk6 stable6
+#: bakersdozen.cpp:76 castle.cpp:370 freecell.cpp:355
+#, kde-format
+msgctxt "@title:menu"
+msgid "Empty Stack Fill"
+msgstr ""
+
+#. +> trunk6 stable6
+#: bakersdozen.cpp:77 castle.cpp:371 freecell.cpp:356
+#, fuzzy, kde-format
+#| msgid "1 Suit (Easy)"
+msgctxt "@item:inmenu empty stack fill"
+msgid "Any (Easy)"
+msgstr "1 組 (初級)"
+
+#. +> trunk6 stable6
+#: bakersdozen.cpp:78 castle.cpp:372 freecell.cpp:357
+#, fuzzy, kde-format
+#| msgid "2 Suits (Medium)"
+msgctxt "@item:inmenu empty stack fill"
+msgid "Kings only (Medium)"
+msgstr "2 組 (中級)"
+
+#. +> trunk6 stable6
+#: bakersdozen.cpp:79 castle.cpp:373 freecell.cpp:358
+#, kde-format
+msgctxt "@item:inmenu empty stack fill"
+msgid "None (Hard)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: bakersdozen.cpp:81 castle.cpp:394 spider.cpp:147
+#, fuzzy, kde-format
+#| msgid "Spider &Options"
+msgctxt "@title:menu"
+msgid "Stack Options"
+msgstr "スパイダーのオプション(&O)"
+
+#. +> trunk6 stable6
+#: bakersdozen.cpp:82 spider.cpp:149
+#, kde-format
+msgctxt "@item:inmenu stack option"
+msgid "Face Up (Easier)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: bakersdozen.cpp:83 spider.cpp:148
+#, kde-format
+msgctxt "@item:inmenu stack option"
+msgid "Face Down (Harder)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: bakersdozen.cpp:85 castle.cpp:375 freecell.cpp:360
+#, kde-format
+msgctxt "@title:menu"
+msgid "Build Sequence"
+msgstr ""
+
+#. +> trunk6 stable6
+#: bakersdozen.cpp:86 castle.cpp:376 freecell.cpp:361
+#, kde-format
+msgctxt "@item:inmenu build sequence"
+msgid "Alternating Color"
+msgstr ""
+
+#. +> trunk6 stable6
+#: bakersdozen.cpp:87 castle.cpp:377 freecell.cpp:362
+#, kde-format
+msgctxt "@item:inmenu build sequence"
+msgid "Matching Suit"
+msgstr ""
+
+#. +> trunk6 stable6
+#: bakersdozen.cpp:88 castle.cpp:378 freecell.cpp:363
+#, kde-format
+msgctxt "@item:inmenu build sequence"
+msgid "Rank"
+msgstr ""
+
+#. +> trunk6 stable6
+#: bakersdozen.cpp:238 bakersdozen.cpp:241
+msgid "Baker's Dozen"
+msgstr ""
+
+#. +> trunk6 stable6
+#: bakersdozen.cpp:242
+#, fuzzy
+#| msgid "KPatience"
+msgid "Spanish Patience"
+msgstr "KPatience"
+
+#. +> trunk6 stable6
+#: bakersdozen.cpp:243
+msgid "Castles in Spain"
+msgstr ""
+
+#. +> trunk6 stable6
+#: bakersdozen.cpp:244
+msgid "Portuguese Solitaire"
+msgstr ""
+
+#. +> trunk6 stable6
+#: bakersdozen.cpp:245
+msgid "Baker's Dozen (Custom)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: castle.cpp:319
+msgid "Castle"
+msgstr ""
+
+#. +> trunk6 stable6
+#: castle.cpp:322
+msgid "Beleaguered Castle"
+msgstr ""
+
+#. +> trunk6 stable6
+#: castle.cpp:323
+msgid "Citadel"
+msgstr ""
+
+#. +> trunk6 stable6
+#: castle.cpp:324
+msgid "Exiled Kings"
+msgstr ""
+
+#. +> trunk6 stable6
+#: castle.cpp:325
+msgid "Streets and Alleys"
+msgstr ""
+
+#. +> trunk6 stable6
+#: castle.cpp:326
+msgid "Siegecraft"
+msgstr ""
+
+#. +> trunk6 stable6
+#: castle.cpp:327
+msgid "Stronghold"
+msgstr ""
+
+#. +> trunk6 stable6
+#: castle.cpp:328
+#, fuzzy
+#| msgid "Freecell"
+msgid "Castle (Custom)"
+msgstr "フリーセル"
+
+#. +> trunk6 stable6
+#: castle.cpp:362
+#, kde-format
+msgctxt "@item:inmenu preset"
+msgid "Beleaguered Castle"
+msgstr ""
+
+#. +> trunk6 stable6
+#: castle.cpp:363
+#, kde-format
+msgctxt "@item:inmenu preset"
+msgid "Citadel"
+msgstr ""
+
+#. +> trunk6 stable6
+#: castle.cpp:364
+#, kde-format
+msgctxt "@item:inmenu preset"
+msgid "Exiled Kings"
+msgstr ""
+
+#. +> trunk6 stable6
+#: castle.cpp:365
+#, kde-format
+msgctxt "@item:inmenu preset"
+msgid "Streets and Alleys"
+msgstr ""
+
+#. +> trunk6 stable6
+#: castle.cpp:366
+#, kde-format
+msgctxt "@item:inmenu preset"
+msgid "Siegecraft"
+msgstr ""
+
+#. +> trunk6 stable6
+#: castle.cpp:367
+#, kde-format
+msgctxt "@item:inmenu preset"
+msgid "Stronghold"
+msgstr ""
+
+#. +> trunk6 stable6
+#: castle.cpp:380 freecell.cpp:365
+#, fuzzy, kde-format
+#| msgid "Freecell"
+msgctxt "@title:menu"
+msgid "Free Cells"
+msgstr "フリーセル"
+
+#. +> trunk6 stable6
+#: castle.cpp:381 freecell.cpp:366
+#, kde-format
+msgid "0"
+msgstr ""
+
+#. +> trunk6 stable6
+#: castle.cpp:382 freecell.cpp:367 freecell.cpp:386
+#, kde-format
+msgid "1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: castle.cpp:383 freecell.cpp:368 freecell.cpp:387
+#, kde-format
+msgid "2"
+msgstr ""
+
+#. +> trunk6 stable6
+#: castle.cpp:384 freecell.cpp:369 freecell.cpp:388
+#, kde-format
+msgid "3"
+msgstr ""
+
+#. +> trunk6 stable6
+#: castle.cpp:385 freecell.cpp:370
+#, kde-format
+msgid "4"
+msgstr ""
+
+#. +> trunk6 stable6
+#: castle.cpp:387 freecell.cpp:376
+#, fuzzy, kde-format
+#| msgid "Spider &Options"
+msgctxt "@title:menu"
+msgid "Stacks"
+msgstr "スパイダーのオプション(&O)"
+
+#. +> trunk6 stable6
+#: castle.cpp:388 freecell.cpp:372 freecell.cpp:377
+#, kde-format
+msgid "6"
+msgstr ""
+
+#. +> trunk6 stable6
+#: castle.cpp:389 freecell.cpp:373 freecell.cpp:378
+#, kde-format
+msgid "7"
+msgstr ""
+
+#. +> trunk6 stable6
+#: castle.cpp:390 freecell.cpp:374 freecell.cpp:379
+#, kde-format
+msgid "8"
+msgstr ""
+
+#. +> trunk6 stable6
+#: castle.cpp:391 freecell.cpp:380
+#, kde-format
+msgid "9"
+msgstr ""
+
+#. +> trunk6 stable6
+#: castle.cpp:392 freecell.cpp:381
+#, kde-format
+msgid "10"
+msgstr ""
+
+#. +> trunk6 stable6
+#: castle.cpp:395
+#, kde-format
+msgctxt "@item:inmenu stack option"
+msgid "Face Down"
+msgstr ""
+
+#. +> trunk6 stable6
+#: castle.cpp:396
+#, kde-format
+msgctxt "@item:inmenu stack option"
+msgid "Face Up"
+msgstr ""
+
+#. +> trunk6 stable6
+#: castle.cpp:397
+#, kde-format
+msgctxt "@item:inmenu stack option"
+msgid "Alternating Face Up"
+msgstr ""
+
+#. +> trunk6 stable6
+#: castle.cpp:399
+#, kde-format
+msgctxt "@title:menu"
+msgid "Foundation Deal"
+msgstr ""
+
+#. +> trunk6 stable6
+#: castle.cpp:400
+#, kde-format
+msgctxt "@item:inmenu foundation deal"
+msgid "None"
+msgstr ""
+
+#. +> trunk6 stable6
+#: castle.cpp:401
+#, fuzzy, kde-format
+#| msgid "Aces Up"
+msgctxt "@item:inmenu foundation deal"
+msgid "Aces"
+msgstr "切り札"
+
+#. +> trunk6 stable6
+#: castle.cpp:402
+#, kde-format
+msgctxt "@item:inmenu foundation deal"
+msgid "Any"
+msgstr ""
+
+#. +> trunk6 stable6
+#: castle.cpp:404
+#, kde-format
+msgctxt "@title:menu"
+msgid "Layout"
+msgstr ""
+
+#. +> trunk6 stable6
+#: castle.cpp:405
+#, kde-format
+msgctxt "@item:inmenu layout"
+msgid "Classic"
+msgstr ""
+
+#. +> trunk6 stable6
+#: castle.cpp:406
+#, kde-format
+msgctxt "@item:inmenu layout"
+msgid "Modern"
+msgstr ""
+
+#. +> trunk6 stable6
+#: clock.cpp:157
+msgid "Grandfather's Clock"
+msgstr "おじいさんの時計"
+
+#. +> trunk6 stable6
+#: dealer.cpp:72
+#, kde-format
+msgid "Solver: This game is winnable."
+msgstr "ソルバー: このゲームはクリアできます。"
+
+#. +> trunk6 stable6
+#: dealer.cpp:74
+#, kde-format
+msgid "Solver: This game is no longer winnable."
+msgstr "ソルバー: このゲームはもうクリアできません。"
+
+#. +> trunk6 stable6
+#: dealer.cpp:74
+#, kde-format
+msgid "Solver: This game cannot be won."
+msgstr "ソルバー: このゲームはクリアできません。"
+
+#. +> trunk6 stable6
+#: dealer.cpp:76
+#, kde-format
+msgid "Solver: Unable to determine if this game is winnable."
+msgstr "ソルバー: このゲームがクリアできるかどうか判断できません。"
+
+#. +> trunk6 stable6
+#: dealer.cpp:922
+#, kde-format
+msgid "Congratulations! We have won."
+msgstr "おめでとう! 我々の勝ちです!"
+
+#. +> trunk6 stable6
+#: dealer.cpp:924
+#, kde-format
+msgid "Congratulations! You have won."
+msgstr "おめでとう! あなたの勝ちです!"
+
+#. +> trunk6 stable6
+#: dealer.cpp:1211
+#, kde-format
+msgid "Solver: This game is lost."
+msgstr "ソルバー: このゲームは負けです。"
+
+#. +> trunk6 stable6
+#: dealer.cpp:1349
+#, fuzzy, kde-format
+#| msgid "Solver: Calculating..."
+msgid "Solver: Calculating…"
+msgstr "ソルバー: 計算中..."
+
+#. +> trunk6 stable6
+#: dealer.cpp:1753
+#, kde-format
+msgid ""
+"A new game has been requested, but there is already a game in progress.\n"
+"\n"
+"A loss will be recorded in the statistics if the current game is abandoned."
+msgstr ""
+"新しいゲームが要求されましたが、プレイ中のゲームがあります。\n"
+"\n"
+"プレイ中のゲームを中止すると負けとして統計に記録されます。"
+
+#. +> trunk6 stable6
+#: dealer.cpp:1755
+#, fuzzy, kde-format
+#| msgid "Abandon Current Game?"
+msgctxt "@title:window"
+msgid "Abandon Current Game?"
+msgstr "現在のゲームを中止しますか？"
+
+#. +> trunk6 stable6
+#: dealer.cpp:1756
+#, fuzzy, kde-format
+#| msgid "Abandon Current Game"
+msgctxt "@action:button"
+msgid "Abandon Current Game"
+msgstr "現在のゲームを中止"
+
+#. +> trunk6 stable6
+#: fortyeight.cpp:229
+msgid "Forty & Eight"
+msgstr "48"
+
+#. +> trunk6 stable6
+#: freecell.cpp:308 freecell.cpp:314
+msgid "Freecell"
+msgstr "フリーセル"
+
+#. +> trunk6 stable6
+#: freecell.cpp:311
+msgid "Baker's Game"
+msgstr ""
+
+#. +> trunk6 stable6
+#: freecell.cpp:312
+msgid "Eight Off"
+msgstr ""
+
+#. +> trunk6 stable6
+#: freecell.cpp:313
+#, fuzzy
+#| msgid "Freecell"
+msgid "Forecell"
+msgstr "フリーセル"
+
+#. +> trunk6 stable6
+#: freecell.cpp:315
+msgid "Seahaven Towers"
+msgstr ""
+
+#. +> trunk6 stable6
+#: freecell.cpp:316
+#, fuzzy
+#| msgid "Freecell"
+msgid "Freecell (Custom)"
+msgstr "フリーセル"
+
+#. +> trunk6 stable6
+#: freecell.cpp:348
+#, kde-format
+msgctxt "@item:inmenu preset"
+msgid "Baker's Game"
+msgstr ""
+
+#. +> trunk6 stable6
+#: freecell.cpp:349
+#, kde-format
+msgctxt "@item:inmenu preset"
+msgid "Eight Off"
+msgstr ""
+
+#. +> trunk6 stable6
+#: freecell.cpp:350
+#, fuzzy, kde-format
+#| msgid "Freecell"
+msgctxt "@item:inmenu preset"
+msgid "Forecell"
+msgstr "フリーセル"
+
+#. +> trunk6 stable6
+#: freecell.cpp:351
+#, fuzzy, kde-format
+#| msgid "Freecell"
+msgctxt "@item:inmenu preset"
+msgid "Freecell"
+msgstr "フリーセル"
+
+#. +> trunk6 stable6
+#: freecell.cpp:352
+#, kde-format
+msgctxt "@item:inmenu preset"
+msgid "Seahaven Towers"
+msgstr ""
+
+#. +> trunk6 stable6
+#: freecell.cpp:371
+#, kde-format
+msgid "5"
+msgstr ""
+
+#. +> trunk6 stable6
+#: freecell.cpp:382
+#, kde-format
+msgid "11"
+msgstr ""
+
+#. +> trunk6 stable6
+#: freecell.cpp:383
+#, kde-format
+msgid "12"
+msgstr ""
+
+#. +> trunk6 stable6
+#: freecell.cpp:385
+#, kde-format
+msgctxt "@title:menu"
+msgid "Decks"
+msgstr ""
+
+#. +> trunk6 stable6
+#: golf.cpp:189
+msgid "Golf"
+msgstr "ゴルフ"
+
+#. +> trunk6 stable6
+#: grandf.cpp:188
+msgid "Grandfather"
+msgstr "おじいさん"
+
+#. +> trunk6 stable6
+#: idiot.cpp:225
+msgid "Aces Up"
+msgstr "切り札"
+
+#. +> trunk6 stable6
+#: klondike.cpp:135
+#, fuzzy, kde-format
+#| msgid "Klondike &Options"
+msgctxt "@title:menu"
+msgid "Klondike &Options"
+msgstr "クロンダイクのオプション(&O)"
+
+#. +> trunk6 stable6
+#: klondike.cpp:136
+#, fuzzy, kde-format
+#| msgid "Draw 1"
+msgctxt "@item:inmenu klondike option"
+msgid "Draw 1"
+msgstr "1 枚めくり"
+
+#. +> trunk6 stable6
+#: klondike.cpp:137
+#, fuzzy, kde-format
+#| msgid "Draw 3"
+msgctxt "@item:inmenu klondike option"
+msgid "Draw 3"
+msgstr "3 枚めくり"
+
+#. +> trunk6 stable6
+#: klondike.cpp:313
+msgid "Klondike"
+msgstr "クロンダイク"
+
+#. +> trunk6 stable6
+#: klondike.cpp:316
+msgid "Klondike (Draw 1)"
+msgstr "クロンダイク (1 枚めくり)"
+
+#. +> trunk6 stable6
+#: klondike.cpp:317
+msgid "Klondike (Draw 3)"
+msgstr "クロンダイク (3 枚めくり)"
+
+#. i18n: ectx: Menu (move)
+#. +> trunk6 stable6
+#: kpatui.rc:23
+#, kde-format
+msgid "Move"
+msgstr "移動"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#. +> trunk6 stable6
+#: kpatui.rc:42
+#, kde-format
+msgid "Main Toolbar"
+msgstr "メインツールバー"
+
+#. +> trunk6 stable6
+#: libkcardgame/kcardthemewidget.cpp:266
+#, fuzzy, kde-format
+#| msgid "Loading..."
+msgctxt "@info"
+msgid "Loading…"
+msgstr "読み込み中..."
+
+#. +> trunk6 stable6
+#: libkcardgame/kcardthemewidget.cpp:352
+#, kde-format
+msgctxt "@action:button"
+msgid "Download New Card Decks…"
+msgstr ""
+
+#. +> trunk6 stable6
+#: main.cpp:89
+#, kde-format
+msgid "KPatience"
+msgstr "KPatience"
+
+#. +> trunk6 stable6
+#: main.cpp:91
+#, kde-format
+msgid "KDE Patience Game"
+msgstr "KDE Patience ゲーム"
+
+#. +> trunk6 stable6
+#: main.cpp:93
+#, kde-format
+msgid ""
+"© 1995 Paul Olav Tvete\n"
+"© 2000 Stephan Kulow"
+msgstr ""
+"© 1995 Paul Olav Tvete\n"
+"© 2000 Stephan Kulow"
+
+#. +> trunk6 stable6
+#: main.cpp:97
+#, kde-format
+msgid "Paul Olav Tvete"
+msgstr "Paul Olav Tvete"
+
+#. +> trunk6 stable6
+#: main.cpp:97
+#, kde-format
+msgid "Author of original Qt version"
+msgstr "オリジナルの Qt バージョンの作者"
+
+#. +> trunk6 stable6
+#: main.cpp:98
+#, kde-format
+msgid "Mario Weilguni"
+msgstr "Mario Weilguni"
+
+#. +> trunk6 stable6
+#: main.cpp:98
+#, kde-format
+msgid "Initial KDE port"
+msgstr "最初の KDE への移植"
+
+#. +> trunk6 stable6
+#: main.cpp:99
+#, kde-format
+msgid "Matthias Ettrich"
+msgstr "Matthias Ettrich"
+
+#. +> trunk6 stable6
+#: main.cpp:100
+#, kde-format
+msgid "Rodolfo Borges"
+msgstr "Rodolfo Borges"
+
+#. +> trunk6 stable6
+#: main.cpp:100 main.cpp:113
+#, kde-format
+msgid "New game types"
+msgstr "新しいゲームの種類"
+
+#. +> trunk6 stable6
+#: main.cpp:101
+#, kde-format
+msgid "Peter H. Ruegg"
+msgstr "Peter H. Ruegg"
+
+#. +> trunk6 stable6
+#: main.cpp:102
+#, kde-format
+msgid "Michael Koch"
+msgstr "Michael Koch"
+
+#. +> trunk6 stable6
+#: main.cpp:102 main.cpp:109
+#, kde-format
+msgid "Bug fixes"
+msgstr "バグ修正"
+
+#. +> trunk6 stable6
+#: main.cpp:103
+#, kde-format
+msgid "Marcus Meissner"
+msgstr "Marcus Meissner"
+
+#. +> trunk6 stable6
+#: main.cpp:103
+#, kde-format
+msgid "Shuffle algorithm for game numbers"
+msgstr "ゲームナンバーのシャッフルアルゴリズム"
+
+#. +> trunk6 stable6
+#: main.cpp:104
+#, kde-format
+msgid "Tom Holroyd"
+msgstr "Tom Holroyd"
+
+#. +> trunk6 stable6
+#: main.cpp:104
+#, kde-format
+msgid "Initial patience solver"
+msgstr "最初の Patience ソルバー"
+
+#. +> trunk6 stable6
+#: main.cpp:105
+#, kde-format
+msgid "Stephan Kulow"
+msgstr "Stephan Kulow"
+
+#. +> trunk6 stable6
+#: main.cpp:105
+#, kde-format
+msgid "Rewrite and current maintainer"
+msgstr "書き直し、現在のメンテナ"
+
+#. +> trunk6 stable6
+#: main.cpp:106
+#, kde-format
+msgid "Erik Sigra"
+msgstr "Erik Sigra"
+
+#. +> trunk6 stable6
+#: main.cpp:106
+#, kde-format
+msgid "Klondike improvements"
+msgstr "クロンダイクの改良"
+
+#. +> trunk6 stable6
+#: main.cpp:107
+#, kde-format
+msgid "Josh Metzler"
+msgstr "Josh Metzler"
+
+#. +> trunk6 stable6
+#: main.cpp:107
+#, kde-format
+msgid "Spider implementation"
+msgstr "スパイダーの実装"
+
+#. +> trunk6 stable6
+#: main.cpp:108
+#, kde-format
+msgid "Maren Pakura"
+msgstr "Maren Pakura"
+
+#. +> trunk6 stable6
+#: main.cpp:108
+#, kde-format
+msgid "Documentation"
+msgstr "ドキュメント"
+
+#. +> trunk6 stable6
+#: main.cpp:109
+#, kde-format
+msgid "Inge Wallin"
+msgstr "Inge Wallin"
+
+#. +> trunk6 stable6
+#: main.cpp:110
+#, kde-format
+msgid "Simon Hürlimann"
+msgstr "Simon Hürlimann"
+
+#. +> trunk6 stable6
+#: main.cpp:110
+#, kde-format
+msgid "Menu and toolbar work"
+msgstr "メニューとツールバー"
+
+#. +> trunk6 stable6
+#: main.cpp:111
+#, kde-format
+msgid "Parker Coates"
+msgstr "Parker Coates"
+
+#. +> trunk6 stable6
+#: main.cpp:111
+#, kde-format
+msgid "Cleanup and polish"
+msgstr ""
+
+#. +> trunk6 stable6
+#: main.cpp:112
+#, kde-format
+msgid "Shlomi Fish"
+msgstr ""
+
+#. +> trunk6 stable6
+#: main.cpp:112
+#, kde-format
+msgid "Integration with Freecell Solver and further work"
+msgstr ""
+
+#. +> trunk6 stable6
+#: main.cpp:113
+#, fuzzy, kde-format
+#| msgid "Michael Koch"
+msgid "Michael Lang"
+msgstr "Michael Koch"
+
+#. +> trunk6 stable6
+#: main.cpp:120
+#, kde-format
+msgid "Try to find a solution to the given savegame"
+msgstr ""
+
+#. +> trunk6 stable6
+#: main.cpp:121
+#, kde-format
+msgid "Dealer to solve (debug)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: main.cpp:122
+#, kde-format
+msgid "Game range start (default 0:INT_MAX)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: main.cpp:124
+#, kde-format
+msgid "Game range end (default start:start if start given)"
+msgstr ""
+
+#. +> trunk6
+#: main.cpp:127
+#, kde-format
+msgid ""
+"Skip the selection screen and load a particular game type. Valid values are: "
+"%1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: main.cpp:129
+#, kde-format
+msgid "Directory with test cases"
+msgstr "テストケースのディレクトリ"
+
+#. +> trunk6 stable6
+#: main.cpp:130
+#, kde-format
+msgid "Generate random test cases"
+msgstr "ランダムにテストケースを生成"
+
+#. +> trunk6 stable6
+#: main.cpp:131
+#, kde-format
+msgid "File to load"
+msgstr "読み込むファイル"
+
+#. +> trunk6
+#: main.cpp:327
+#, kde-format
+msgctxt "List separator"
+msgid ", "
+msgstr ", "
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:152
+#, fuzzy, kde-format
+#| msgctxt "Start a new game of a different type"
+#| msgid "New &Game..."
+msgctxt "@action Start a new game of a different type"
+msgid "New &Game…"
+msgstr "新しいゲーム(&G)..."
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:158
+#, fuzzy, kde-format
+#| msgctxt "Start a new game of without changing the game type"
+#| msgid "New &Deal"
+msgctxt "@action Start a new game of without changing the game type"
+msgid "New &Deal"
+msgstr "新しいディール(&D)"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:164
+#, fuzzy, kde-format
+#| msgid "New Numbered Deal"
+msgctxt "@action Start a game by giving its particular number"
+msgid "New &Numbered Deal…"
+msgstr "ディール番号を指定"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:169
+#, fuzzy, kde-format
+#| msgctxt "Replay the current deal from the start"
+#| msgid "Restart Deal"
+msgctxt "@action Replay the current deal from the start"
+msgid "Restart Deal"
+msgstr "ディールを最初からやり直す"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:175
+#, fuzzy, kde-format
+#| msgctxt "Start the game with the number one greater than the current one"
+#| msgid "Next Deal"
+msgctxt ""
+"@action Start the game with the number one greater than the current one"
+msgid "Next Deal"
+msgstr "新しいディール"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:184
+#, kde-format
+msgctxt "@action Start the game with the number one less than the current one"
+msgid "Previous Deal"
+msgstr ""
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:198
+#, fuzzy, kde-format
+#| msgid "Statistics"
+msgctxt "@action"
+msgid "Statistics"
+msgstr "統計"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:227
+#, fuzzy, kde-format
+#| msgctxt ""
+#| "Take one or more cards from the deck, flip them, and place them in play"
+#| msgid "Dra&w"
+msgctxt ""
+"@action Take one or more cards from the deck, flip them, and place them in "
+"play"
+msgid "Dra&w"
+msgstr "めくる(&W)"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:232
+#, fuzzy, kde-format
+#| msgctxt "Deal a new row of cards from the deck"
+#| msgid "Dea&l Row"
+msgctxt "@action Deal a new row of cards from the deck"
+msgid "Dea&l Row"
+msgstr "1 列めくる(&L)"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:237
+#, fuzzy, kde-format
+#| msgctxt "Collect the cards in play, shuffle them and redeal them"
+#| msgid "&Redeal"
+msgctxt "@action Collect the cards in play, shuffle them and redeal them"
+msgid "&Redeal"
+msgstr "配り直す(&R)"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:242
+#, fuzzy, kde-format
+#| msgctxt "Automatically move cards to the foundation piles"
+#| msgid "Dro&p"
+msgctxt "@action Automatically move cards to the foundation piles"
+msgid "Dro&p"
+msgstr "自動ドロップ(&P)"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:249
+#, fuzzy, kde-format
+#| msgid "&Enable Autodrop"
+msgctxt "@option:check"
+msgid "&Enable Autodrop"
+msgstr "自動ドロップを有効にする(&E)"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:254
+#, fuzzy, kde-format
+#| msgid "E&nable Solver"
+msgctxt "@option:check"
+msgid "E&nable Solver"
+msgstr "ソルバーを有効にする(&N)"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:259
+#, kde-format
+msgctxt "@option:check"
+msgid "Play Sounds"
+msgstr ""
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:264
+#, fuzzy, kde-format
+#| msgid "&Remember State on Exit"
+msgctxt "@option:check"
+msgid "&Remember State on Exit"
+msgstr "終了時の状態を保存する(&R)"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:281
+#, kde-format
+msgctxt "@action"
+msgid "Generate a Theme Preview Image"
+msgstr ""
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:286
+#, kde-format
+msgctxt "@action"
+msgid "Take Game Preview Snapshots"
+msgstr ""
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:291
+#, fuzzy, kde-format
+#| msgid "Random Cards"
+msgctxt "@action"
+msgid "Random Cards"
+msgstr "ランダム"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:298
+#, kde-format
+msgctxt "@action"
+msgid "Move Focus to Previous Pile"
+msgstr ""
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:302
+#, kde-format
+msgctxt "@action"
+msgid "Move Focus to Next Pile"
+msgstr ""
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:306
+#, kde-format
+msgctxt "@action"
+msgid "Move Focus to Card Below"
+msgstr ""
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:310
+#, kde-format
+msgctxt "@action"
+msgid "Move Focus to Card Above"
+msgstr ""
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:314
+#, kde-format
+msgctxt "@action"
+msgid "Cancel Focus"
+msgstr ""
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:318
+#, kde-format
+msgctxt "@action"
+msgid "Pick Up or Set Down Focus"
+msgstr ""
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:426
+#, kde-format
+msgctxt "@title:tab"
+msgid "Card Deck"
+msgstr ""
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:428
+#, kde-format
+msgid "Select a card deck"
+msgstr "カードデッキを選択"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:434
+#, fuzzy, kde-format
+#| msgid "Game Theme"
+msgctxt "@title:tab"
+msgid "Game Theme"
+msgstr "ゲームのテーマ"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:436
+#, kde-format
+msgid "Select a theme for non-card game elements"
+msgstr ""
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:514
+#, fuzzy, kde-format
+#| msgid "Help &with %1"
+msgctxt ""
+"@action Is disabled and changes to \"Help &with Current Game\" when there is "
+"no current game."
+msgid "Help &with %1"
+msgstr "%1 のヘルプ"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:545
+#, fuzzy, kde-format
+#| msgid "Help &with Current Game"
+msgctxt "@action Shown when there is no game open. Is always disabled."
+msgid "Help &with Current Game"
+msgstr "現在のゲームのヘルプ(&W)"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:700
+#, kde-format
+msgid ""
+"Are you sure you want to hide the menubar? The current shortcut to show it "
+"again is %1."
+msgstr ""
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:702
+#, kde-format
+msgctxt "@title:window"
+msgid "Hide Menubar"
+msgstr ""
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:795
+#, kde-format
+msgid "Downloading file failed: %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:801
+#, kde-format
+msgid "Error reading XML file: "
+msgstr ""
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:818
+#, fuzzy, kde-format
+#| msgid "The file is not a KPatience saved game."
+msgid "XML file is not a KPat save."
+msgstr "ファイルは KPatience の保存されたゲームではありません。"
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:823
+#, kde-format
+msgid "Unrecognized game id."
+msgstr ""
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:842
+#, kde-format
+msgid "Errors encountered while parsing file."
+msgstr ""
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:861
+#, kde-format
+msgctxt "@title:window"
+msgid "Load Game"
+msgstr ""
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:888
+#, kde-format
+msgctxt "@title:window"
+msgid "Save Game"
+msgstr ""
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:904
+#, kde-format
+msgid "Error opening file for writing. Saving failed."
+msgstr ""
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:909
+#, kde-format
+msgid "Unable to create temporary file. Saving failed."
+msgstr ""
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:925
+#, kde-format
+msgid "Error uploading file. Saving failed: %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: mainwindow.cpp:949
+#, kde-format
+msgid "1 move"
+msgid_plural "%1 moves"
+msgstr[0] "移動回数: %1"
+
+#. +> trunk6 stable6
+#: mod3.cpp:218
+msgid "Mod3"
+msgstr "Mod3"
+
+#. +> trunk6 stable6
+#: normandy.cpp:166
+msgid "Normandy"
+msgstr ""
+
+#. +> trunk6 stable6
+#: numbereddealdialog.cpp:36
+#, fuzzy, kde-format
+#| msgid "New Numbered Deal"
+msgctxt "@title:window"
+msgid "New Numbered Deal"
+msgstr "ディール番号を指定"
+
+#. +> trunk6 stable6
+#: numbereddealdialog.cpp:51
+#, fuzzy, kde-format
+#| msgid "Game:"
+msgctxt "@label"
+msgid "Game:"
+msgstr "ゲーム:"
+
+#. +> trunk6 stable6
+#: numbereddealdialog.cpp:55
+#, fuzzy, kde-format
+#| msgid "Deal number:"
+msgctxt "@label"
+msgid "Deal number:"
+msgstr "ディール番号:"
+
+#. +> trunk6 stable6
+#: simon.cpp:168
+msgid "Simple Simon"
+msgstr "まぬけのサイモン"
+
+#. +> trunk6 stable6
+#: spider.cpp:132
+#, fuzzy, kde-format
+#| msgid "Spider &Options"
+msgctxt "@title:menu"
+msgid "Spider &Options"
+msgstr "スパイダーのオプション(&O)"
+
+#. +> trunk6 stable6
+#: spider.cpp:133
+#, fuzzy, kde-format
+#| msgid "1 Suit (Easy)"
+msgctxt "@item:inmenu spider option"
+msgid "1 Suit (Easy)"
+msgstr "1 組 (初級)"
+
+#. +> trunk6 stable6
+#: spider.cpp:134
+#, fuzzy, kde-format
+#| msgid "2 Suits (Medium)"
+msgctxt "@item:inmenu spider option"
+msgid "2 Suits (Medium)"
+msgstr "2 組 (中級)"
+
+#. +> trunk6 stable6
+#: spider.cpp:135
+#, fuzzy, kde-format
+#| msgid "4 Suits (Hard)"
+msgctxt "@item:inmenu spider option"
+msgid "3 Suits (Hard)"
+msgstr "4 組 (上級)"
+
+#. +> trunk6 stable6
+#: spider.cpp:136
+#, fuzzy, kde-format
+#| msgid "4 Suits (Hard)"
+msgctxt "@item:inmenu spider option"
+msgid "4 Suits (Very Hard)"
+msgstr "4 組 (上級)"
+
+#. +> trunk6 stable6
+#: spider.cpp:469
+msgid "Spider"
+msgstr "スパイダー"
+
+#. +> trunk6 stable6
+#: spider.cpp:472
+msgid "Spider (1 Suit)"
+msgstr "スパイダー (1 組)"
+
+#. +> trunk6 stable6
+#: spider.cpp:473
+msgid "Spider (2 Suit)"
+msgstr "スパイダー (2 組)"
+
+#. +> trunk6 stable6
+#: spider.cpp:474
+#, fuzzy
+#| msgid "Spider (1 Suit)"
+msgid "Spider (3 Suit)"
+msgstr "スパイダー (1 組)"
+
+#. +> trunk6 stable6
+#: spider.cpp:475
+msgid "Spider (4 Suit)"
+msgstr "スパイダー (4 組)"
+
+#. +> trunk6 stable6
+#: statisticsdialog.cpp:61
+#, fuzzy, kde-format
+#| msgid "Statistics"
+msgctxt "@title:window"
+msgid "Statistics"
+msgstr "統計"
+
+#. +> trunk6 stable6
+#: statisticsdialog.cpp:122
+#, kde-format
+msgid "%1 (%2%)"
+msgstr "%1 (%2%)"
+
+#. +> trunk6 stable6
+#: statisticsdialog.cpp:134
+#, kde-format
+msgid "1 loss"
+msgid_plural "%1 losses"
+msgstr[0] "%1 敗"
+
+#. +> trunk6 stable6
+#: statisticsdialog.cpp:136
+#, kde-format
+msgid "1 win"
+msgid_plural "%1 wins"
+msgstr[0] "%1 勝"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, GameStats)
+#. +> trunk6 stable6
+#: statisticsdialog.ui:13
+#, kde-format
+msgid "Statistics"
+msgstr "統計"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#. +> trunk6 stable6
+#: statisticsdialog.ui:30
+#, kde-format
+msgid "Game:"
+msgstr "ゲーム:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel7)
+#. +> trunk6 stable6
+#: statisticsdialog.ui:66
+#, kde-format
+msgid "Longest winning streak:"
+msgstr "最長の連勝記録:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#. +> trunk6 stable6
+#: statisticsdialog.ui:73
+#, kde-format
+msgid "Games played:"
+msgstr "プレイ回数:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel8)
+#. +> trunk6 stable6
+#: statisticsdialog.ui:90
+#, kde-format
+msgid "Longest losing streak:"
+msgstr "最長の連敗記録:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#. +> trunk6 stable6
+#: statisticsdialog.ui:107
+#, kde-format
+msgid "Games won:"
+msgstr "勝ち:"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk6 stable6
+#: statisticsdialog.ui:124
+#, kde-format
+msgid "Current streak:"
+msgstr "現在の連勝/連敗数:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. +> trunk6 stable6
+#: statisticsdialog.ui:138
+#, kde-format
+msgid "Minimal number of moves:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: yukon.cpp:120
+msgid "Yukon"
+msgstr "ユーコン"
+
+#~ msgid "Gypsy"
+#~ msgstr "ジプシー"
+
+#, fuzzy, kde-format
+#~| msgid "1 Suit (Easy)"
+#~ msgid "Any (Easy)"
+#~ msgstr "1 組 (初級)"
+
+#, fuzzy, kde-format
+#~| msgid "2 Suits (Medium)"
+#~ msgid "Kings only (Medium)"
+#~ msgstr "2 組 (中級)"
+
+#, fuzzy, kde-format
+#~| msgid "Spider &Options"
+#~ msgid "Stack Options"
+#~ msgstr "スパイダーのオプション(&O)"
+
+#, fuzzy, kde-format
+#~| msgid "Freecell"
+#~ msgid "Free Cells"
+#~ msgstr "フリーセル"
+
+#, fuzzy, kde-format
+#~| msgid "Spider &Options"
+#~ msgid "Stacks"
+#~ msgstr "スパイダーのオプション(&O)"
+
+#, fuzzy, kde-format
+#~| msgid "Spider &Options"
+#~ msgid "S&tack Options"
+#~ msgstr "スパイダーのオプション(&O)"
+
+#, fuzzy, kde-format
+#~| msgid "Aces Up"
+#~ msgid "Aces"
+#~ msgstr "切り札"
+
+#, kde-format
+#~ msgid "Solver: Calculating..."
+#~ msgstr "ソルバー: 計算中..."
+
+#, kde-format
+#~ msgid "Abandon Current Game?"
+#~ msgstr "現在のゲームを中止しますか？"
+
+#, kde-format
+#~ msgid "Abandon Current Game"
+#~ msgstr "現在のゲームを中止"
+
+#, fuzzy, kde-format
+#~| msgid "Freecell"
+#~ msgid "Free cells"
+#~ msgstr "フリーセル"
+
+#, kde-format
+#~ msgid "Klondike &Options"
+#~ msgstr "クロンダイクのオプション(&O)"
+
+#, kde-format
+#~ msgid "Draw 1"
+#~ msgstr "1 枚めくり"
+
+#, kde-format
+#~ msgid "Draw 3"
+#~ msgstr "3 枚めくり"
+
+#, kde-format
+#~ msgid "Loading..."
+#~ msgstr "読み込み中..."
+
+#, kde-format
+#~ msgctxt "Start a new game of a different type"
+#~ msgid "New &Game..."
+#~ msgstr "新しいゲーム(&G)..."
+
+#, kde-format
+#~ msgctxt "Start a new game of without changing the game type"
+#~ msgid "New &Deal"
+#~ msgstr "新しいディール(&D)"
+
+#, kde-format
+#~ msgctxt "Start a game by giving its particular number"
+#~ msgid "New &Numbered Deal..."
+#~ msgstr "ディール番号を指定(&N)..."
+
+#, kde-format
+#~ msgctxt "Replay the current deal from the start"
+#~ msgid "Restart Deal"
+#~ msgstr "ディールを最初からやり直す"
+
+#, kde-format
+#~ msgctxt "Start the game with the number one greater than the current one"
+#~ msgid "Next Deal"
+#~ msgstr "新しいディール"
+
+#, kde-format
+#~ msgctxt ""
+#~ "Take one or more cards from the deck, flip them, and place them in play"
+#~ msgid "Dra&w"
+#~ msgstr "めくる(&W)"
+
+#, kde-format
+#~ msgctxt "Deal a new row of cards from the deck"
+#~ msgid "Dea&l Row"
+#~ msgstr "1 列めくる(&L)"
+
+#, kde-format
+#~ msgctxt "Collect the cards in play, shuffle them and redeal them"
+#~ msgid "&Redeal"
+#~ msgstr "配り直す(&R)"
+
+#, kde-format
+#~ msgctxt "Automatically move cards to the foundation piles"
+#~ msgid "Dro&p"
+#~ msgstr "自動ドロップ(&P)"
+
+#, kde-format
+#~ msgid "&Enable Autodrop"
+#~ msgstr "自動ドロップを有効にする(&E)"
+
+#, kde-format
+#~ msgid "E&nable Solver"
+#~ msgstr "ソルバーを有効にする(&N)"
+
+#, kde-format
+#~ msgid "&Remember State on Exit"
+#~ msgstr "終了時の状態を保存する(&R)"
+
+#, kde-format
+#~ msgid "Random Cards"
+#~ msgstr "ランダム"
+
+#, kde-format
+#~ msgid "Game Theme"
+#~ msgstr "ゲームのテーマ"
+
+#, kde-format
+#~ msgctxt ""
+#~ "Is disabled and changes to \"Help &with Current Game\" when there is no "
+#~ "current game."
+#~ msgid "Help &with %1"
+#~ msgstr "%1 のヘルプ"
+
+#, kde-format
+#~ msgctxt "Shown when there is no game open. Is always disabled."
+#~ msgid "Help &with Current Game"
+#~ msgstr "現在のゲームのヘルプ(&W)"
+
+#, kde-format
+#~ msgid "New Numbered Deal"
+#~ msgstr "ディール番号を指定"
+
+#, kde-format
+#~ msgid "Deal number:"
+#~ msgstr "ディール番号:"
+
+#, kde-format
+#~ msgid "Spider &Options"
+#~ msgstr "スパイダーのオプション(&O)"
+
+#, kde-format
+#~ msgid "1 Suit (Easy)"
+#~ msgstr "1 組 (初級)"
+
+#, kde-format
+#~ msgid "2 Suits (Medium)"
+#~ msgstr "2 組 (中級)"
+
+#, fuzzy, kde-format
+#~| msgid "4 Suits (Hard)"
+#~ msgid "3 Suits (Hard)"
+#~ msgstr "4 組 (上級)"
+
+#, fuzzy, kde-format
+#~| msgid "4 Suits (Hard)"
+#~ msgid "4 Suits (Very Hard)"
+#~ msgstr "4 組 (上級)"
+
+#, kde-format
+#~ msgid "4 Suits (Hard)"
+#~ msgstr "4 組 (上級)"
+
+#, fuzzy
+#~| msgid "The file is not a KPatience saved game."
+#~ msgid "File is not a valid KPat save."
+#~ msgstr "ファイルは KPatience の保存されたゲームではありません。"
+
+#~ msgid "The saved game is of an unknown type."
+#~ msgstr "保存されたゲームは不明な種類です。"
+
+#~ msgid "The file is not a KPatience saved game."
+#~ msgstr "ファイルは KPatience の保存されたゲームではありません。"
+
+#~ msgid ""
+#~ "The following error occurred while reading the file:\n"
+#~ "\"%1\""
+#~ msgstr ""
+#~ "ファイルを読み込む際に次のエラーが発生しました:\n"
+#~ "%1"
+
+#~ msgid "Unable to load the saved game file."
+#~ msgstr "保存されたゲームを読み込めません。"
+
+#~ msgid "Select Deck..."
+#~ msgstr "カードデッキを選択..."
+
+#~ msgid ""
+#~ "Enter a deal number (Freecell deals are numbered the same as those in the "
+#~ "Freecell FAQ):"
+#~ msgstr ""
+#~ "ディール番号を入力 (フリーセルのディールは FreeCell FAQ にあるのと同じで"
+#~ "す):"
+
+#~ msgid "Enter a deal number:"
+#~ msgstr "ディール番号を入力:"
+
+#~ msgid "Choose Numbered Deal"
+#~ msgstr "ディール番号を選択"

@@ -1,0 +1,1660 @@
+# Translation of libkdeedu into Japanese.
+# This file is distributed under the same license as the kdeedu package.
+# Taiki Komoda <kom@kde.gr.jp>, 2002,2003.
+# Noboru Sinohara <shinobo@leo.bekkoame.ne.jp>, 2003.
+# Kyosuke Takayama <support@mc.neweb.ne.jp>, 2004.
+# Toyohiro Asukai <toyohiro@ksmplus.com>, 2004.
+# KIMIZUKA Tomokazu <sgtom@pluto.dti.ne.jp>, 2005.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2006.
+# Yukiko Bando <yband@k6.dion.ne.jp>, 2007.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: libkdeedu\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-02-28 10:19+0100\n"
+"PO-Revision-Date: 2008-12-23 01:14+0900\n"
+"Last-Translator: Yukiko Bando <ybando@k6.dion.ne.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvoccsvwriter.cpp:35
+#, kde-format
+msgctxt "@item:intable the title of the document will be written here"
+msgid "Title:"
+msgstr "タイトル:"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvoccsvwriter.cpp:36
+#, kde-format
+msgctxt "@item:intable the author will be written here"
+msgid "Author:"
+msgstr "作者:"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvocdocument.cpp:125
+#, kde-format
+msgctxt ""
+"The top level lesson which contains all other lessons of the document."
+msgid "Document Lesson"
+msgstr "文書のレッスン"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvocdocument.cpp:128
+#, kde-format
+msgid "Word types"
+msgstr "品詞"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvocdocument.cpp:131
+#, kde-format
+msgid "Leitner Box"
+msgstr "Leitner ボックス"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvocdocument.cpp:165
+#: keduvocdocument/keduvocdocument.cpp:172
+#, fuzzy, kde-format
+#| msgid "Cannot write to file %1"
+msgid "Cannot lock file %1"
+msgstr "ファイル ‘%1’ に書き込めません"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvocdocument.cpp:220
+#, kde-format
+msgid "<qt>Cannot open file<br /><b>%1</b></qt>"
+msgstr "<qt>ファイル ‘%1’ を開けません</qt>"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvocdocument.cpp:228
+#, fuzzy, kde-format
+#| msgid "Cannot write to file %1"
+msgid "Cannot open tempfile %1"
+msgstr "ファイル ‘%1’ に書き込めません"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvocdocument.cpp:233
+#, fuzzy, kde-format
+#| msgid "Cannot write to file %1"
+msgid "Cannot download %1: %2"
+msgstr "ファイル ‘%1’ に書き込めません"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvocdocument.cpp:258
+#, kde-format
+msgid ""
+"Could not open or properly read \"%1\"\n"
+"(Error reported: %2)"
+msgstr ""
+"‘%1’ を開けなかったか、正しく読めませんでした\n"
+"(報告されたエラー: %2)"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvocdocument.cpp:300
+#: keduvocdocument/keduvocdocument.cpp:326
+#, kde-format
+msgid "Cannot write to file %1"
+msgstr "ファイル ‘%1’ に書き込めません"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvocdocument.cpp:657
+#, kde-format
+msgctxt ""
+"The name of the first language/column of vocabulary, if we have to guess it."
+msgid "Original"
+msgstr "原文"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvocdocument.cpp:659
+#, kde-format
+msgctxt ""
+"The name of the second, third ... language/column of vocabulary, if we have "
+"to guess it."
+msgid "Translation %1"
+msgstr "翻訳 %1"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvocdocument.cpp:816
+msgid "KDE Vocabulary Document"
+msgstr "KDE 語彙文書"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvocdocument.cpp:817
+msgid "KWordQuiz Document"
+msgstr "KWordQuiz 文書"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvocdocument.cpp:818
+msgid "Pauker Lesson"
+msgstr "Pauker レッスン"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvocdocument.cpp:819
+msgid "Vokabeltrainer"
+msgstr "Vokabeltrainer"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvocdocument.cpp:820
+msgid "XML Dictionary Exchange Format"
+msgstr "XML 辞書交換フォーマット"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvocdocument.cpp:821
+msgid "Comma Separated Values (CSV)"
+msgstr "コンマで区切られた値 (CSV)"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvocdocument.cpp:833
+#, kde-format
+msgid "All supported documents"
+msgstr "サポートされているすべての文書"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvocdocument.cpp:842
+#, kde-format
+msgid "No error found."
+msgstr "エラーは見つかりませんでした。"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvocdocument.cpp:845
+#, kde-format
+msgid "Invalid XML in document."
+msgstr "文書に無効な XML が含まれています。"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvocdocument.cpp:847
+#, kde-format
+msgid "Unknown file type."
+msgstr "未知のファイルタイプです。"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvocdocument.cpp:849
+#, kde-format
+msgid "File is not writeable."
+msgstr "ファイルは書き込み可能ではありません。"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvocdocument.cpp:851
+#, kde-format
+msgid "File writer failed."
+msgstr "ファイルの書き込みに失敗しました。"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvocdocument.cpp:853
+#, kde-format
+msgid "File is not readable."
+msgstr "ファイルは読み取り可能ではありません。"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvocdocument.cpp:855
+#, kde-format
+msgid "The file reader failed."
+msgstr "ファイルの読み取りに失敗しました。"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvocdocument.cpp:857
+#, kde-format
+msgid "The file does not exist."
+msgstr "ファイルが存在しません。"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvocdocument.cpp:859
+#, fuzzy, kde-format
+#| msgid "The file does not exist."
+msgid "The file is locked by another process."
+msgstr "ファイルが存在しません。"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvocdocument.cpp:861
+#, kde-format
+msgid "The lock file can't be created."
+msgstr ""
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvocdocument.cpp:864
+#, kde-format
+msgid "Unknown error."
+msgstr "未知のエラー。"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:29
+#, kde-format
+msgctxt "@item:inlistbox The grammatical type of a word"
+msgid "Verb"
+msgstr "動詞"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:30
+#, kde-format
+msgctxt "@item:inlistbox The grammatical type of a word"
+msgid "Noun"
+msgstr "名詞"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:31
+#, kde-format
+msgctxt "@item:inlistbox The grammatical type of a word"
+msgid "Name"
+msgstr "固有名詞"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:32
+#, kde-format
+msgctxt "@item:inlistbox The grammatical type of a word"
+msgid "Article"
+msgstr "冠詞"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:33
+#, kde-format
+msgctxt "@item:inlistbox The grammatical type of a word"
+msgid "Adjective"
+msgstr "形容詞"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:34
+#, kde-format
+msgctxt "@item:inlistbox The grammatical type of a word"
+msgid "Adverb"
+msgstr "副詞"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:35
+#, kde-format
+msgctxt "@item:inlistbox The grammatical type of a word"
+msgid "Pronoun"
+msgstr "代名詞"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:36
+#, kde-format
+msgctxt "@item:inlistbox The grammatical type of an entry"
+msgid "Phrase"
+msgstr "成句"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:37
+#, kde-format
+msgctxt "@item:inlistbox The grammatical type of a word"
+msgid "Numeral"
+msgstr "数詞"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:38
+#, kde-format
+msgctxt "@item:inlistbox The grammatical type of a word"
+msgid "Conjunction"
+msgstr "接続詞"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:39
+#, kde-format
+msgctxt "@item:inlistbox The grammatical type of a word"
+msgid "Preposition"
+msgstr "前置詞"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:40
+#, kde-format
+msgctxt "@item:inlistbox The grammatical type of an entry"
+msgid "Question"
+msgstr "疑問"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:44
+#: keduvocdocument/keduvockvtmlcompability.cpp:220
+#, kde-format
+msgctxt ""
+"@item:inlistbox A subtype of the grammatical word type: Numeral Ordinal  "
+"(first, second, third, ...)"
+msgid "Ordinal"
+msgstr "序数"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:46
+#: keduvocdocument/keduvockvtmlcompability.cpp:224
+#, kde-format
+msgctxt ""
+"@item:inlistbox A subtype of the grammatical word type: Numeral Cardinal "
+"(one, two, three, ...)"
+msgid "Cardinal"
+msgstr "基数"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:47
+#: keduvocdocument/keduvockvtmlcompability.cpp:230
+#, kde-format
+msgctxt "@item:inlistbox A subtype of the grammatical word type: Article (the)"
+msgid "Definite"
+msgstr "定冠詞"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:48
+#: keduvocdocument/keduvockvtmlcompability.cpp:233
+#, kde-format
+msgctxt "@item:inlistbox A subtype of the grammatical word type: Article (a)"
+msgid "Indefinite"
+msgstr "不定冠詞"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:49
+#: keduvocdocument/keduvockvtmlcompability.cpp:239
+#, kde-format
+msgctxt ""
+"@item:inlistbox A subtype of the grammatical word type: Verb with regular "
+"conjugation"
+msgid "Regular"
+msgstr "規則動詞"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:51
+#: keduvocdocument/keduvockvtmlcompability.cpp:242
+#, kde-format
+msgctxt ""
+"@item:inlistbox A subtype of the grammatical word type: Verb with irregular "
+"conjugation"
+msgid "Irregular"
+msgstr "不規則動詞"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:53
+#: keduvocdocument/keduvockvtmlcompability.cpp:259
+#, kde-format
+msgctxt ""
+"@item:inlistbox A subtype of the grammatical word type: Pronoun (my, your, "
+"his, her...)"
+msgid "Possessive"
+msgstr "所有代名詞"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:54
+#: keduvocdocument/keduvockvtmlcompability.cpp:262
+#, kde-format
+msgctxt ""
+"@item:inlistbox A subtype of the grammatical word type: Pronoun (I, you, "
+"he...)"
+msgid "Personal"
+msgstr "人称代名詞"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:55
+#: keduvocdocument/keduvockvtmlcompability.cpp:248
+#, kde-format
+msgctxt "@item:inlistbox A subtype of the grammatical word type: Noun"
+msgid "Male"
+msgstr "男性名詞"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:56
+#: keduvocdocument/keduvockvtmlcompability.cpp:251
+#, kde-format
+msgctxt "@item:inlistbox A subtype of the grammatical word type: Noun"
+msgid "Female"
+msgstr "女性名詞"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:57
+#: keduvocdocument/keduvockvtmlcompability.cpp:254
+#, kde-format
+msgctxt "@item:inlistbox A subtype of the grammatical word type: Noun"
+msgid "Neutral"
+msgstr "中性名詞"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:153
+#, kde-format
+msgid "Simple Present"
+msgstr "単純現在"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:154
+#, kde-format
+msgid "Present Progressive"
+msgstr "現在進行"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:155
+#, kde-format
+msgid "Present Perfect"
+msgstr "現在完了"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:156
+#, kde-format
+msgid "Simple Past"
+msgstr "単純過去"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:157
+#, kde-format
+msgid "Past Progressive"
+msgstr "過去進行"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:158
+#, kde-format
+msgid "Past Participle"
+msgstr "過去分詞"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:159
+#, kde-format
+msgid "Future"
+msgstr "未来"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:200
+#, kde-format
+msgctxt "The grammatical type of a word"
+msgid "Verb"
+msgstr "動詞"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:201
+#, kde-format
+msgctxt "The grammatical type of a word"
+msgid "Noun"
+msgstr "名詞"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:202
+#, kde-format
+msgctxt "The grammatical type of a word"
+msgid "Name"
+msgstr "固有名詞"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:202
+#, kde-format
+msgctxt "The grammatical type of a word"
+msgid "Article"
+msgstr "冠詞"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:203
+#, kde-format
+msgctxt "The grammatical type of a word"
+msgid "Adjective"
+msgstr "形容詞"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:204
+#, kde-format
+msgctxt "The grammatical type of a word"
+msgid "Adverb"
+msgstr "副詞"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:205
+#, kde-format
+msgctxt "The grammatical type of a word"
+msgid "Pronoun"
+msgstr "代名詞"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:206
+#, kde-format
+msgctxt "The grammatical type of an entry"
+msgid "Phrase"
+msgstr "成句"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:206
+#, kde-format
+msgctxt "The grammatical type of a word"
+msgid "Numeral"
+msgstr "数詞"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:207
+#, kde-format
+msgctxt "The grammatical type of a word"
+msgid "Conjunction"
+msgstr "接続詞"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:207
+#, kde-format
+msgctxt "The grammatical type of a word"
+msgid "Preposition"
+msgstr "前置詞"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvockvtmlcompability.cpp:208
+#, kde-format
+msgctxt "The grammatical type of an entry"
+msgid "Question"
+msgstr "疑問"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvoctext.h:16
+#, kde-format
+msgid "Not Practiced Yet"
+msgstr "未出題"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvoctext.h:19
+#, kde-format
+msgid "Level 1"
+msgstr "レベル 1"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvoctext.h:22
+#, kde-format
+msgid "Level 2"
+msgstr "レベル 2"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvoctext.h:25
+#, kde-format
+msgid "Level 3"
+msgstr "レベル 3"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvoctext.h:28
+#, kde-format
+msgid "Level 4"
+msgstr "レベル 4"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvoctext.h:31
+#, kde-format
+msgid "Level 5"
+msgstr "レベル 5"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvoctext.h:34
+#, kde-format
+msgid "Level 6"
+msgstr "レベル 6"
+
+#. +> trunk6 stable6
+#: keduvocdocument/keduvoctext.h:37
+#, kde-format
+msgid "Level 7"
+msgstr "レベル 7"
+
+#~ msgid "Untitled"
+#~ msgstr "タイトルなし"
+
+#, fuzzy
+#~| msgid "Cannot write to file %1"
+#~ msgid "Cannot download %1"
+#~ msgstr "ファイル ‘%1’ に書き込めません"
+
+#~ msgid "Vocabulary"
+#~ msgstr "語彙"
+
+#~ msgid ""
+#~ "Parse error at line %1, column %2:\n"
+#~ "%3"
+#~ msgstr ""
+#~ "行 %1, 列 %2 で解析エラー:\n"
+#~ "%3"
+
+#~ msgid "Error Opening File"
+#~ msgstr "ファイルのオープンエラー"
+
+#~ msgid "file must be opened first"
+#~ msgstr "最初にファイルを開かなければなりません"
+
+#~ msgid "This is not a KDE Vocabulary document."
+#~ msgstr "これは KDE 語彙文書ではありません。"
+
+#~ msgid "missing identifier elements from identifiers tag"
+#~ msgstr "識別子タグに識別子要素がありません"
+
+#~ msgid "Default Lesson"
+#~ msgstr "標準のレッスン"
+
+#~ msgid "identifier missing id"
+#~ msgstr "識別子に ID がありません"
+
+#~ msgid "entry missing id"
+#~ msgstr "エントリに ID がありません"
+
+#~ msgctxt "A generic name for a new lesson and its number."
+#~ msgid "Lesson %1"
+#~ msgstr "レッスン %1"
+
+#~ msgid "Data for original language missing"
+#~ msgstr "原文の言語のデータがありません"
+
+#~ msgid "Ambiguous definition of language code"
+#~ msgstr "あいまいな言語コード定義"
+
+#~ msgid "This is not a Pauker document"
+#~ msgstr "これは Pauker 文書ではありません"
+
+#~ msgid "Lesson %1"
+#~ msgstr "レッスン %1"
+
+#~ msgid "This does not appear to be a (K)WordQuiz file"
+#~ msgstr "これは (K)WordQuiz ファイルではないようです"
+
+#~ msgid "Only files created by WordQuiz 5.x or later can be opened"
+#~ msgstr "WordQuiz 5.x およびそれ以降で作成されたファイルしか開けません"
+
+#~ msgid "Error while reading file"
+#~ msgstr "ファイルの読み込みエラー"
+
+#~ msgid "This is not a XDXF document"
+#~ msgstr "これは XDXF 文書ではありません"
+
+#~ msgid "Dummy"
+#~ msgstr "ダミー"
+
+#~ msgid "Hydrogen"
+#~ msgstr "水素 (Hydrogen)"
+
+# |,no-check-spell
+#~ msgid "Greek 'hydro' and 'gennao' for 'forms water'"
+#~ msgstr "ギリシャ語で「水を形成する」は「ハイドロ」と「ゲンナオ」"
+
+#~ msgid "Helium"
+#~ msgstr "ヘリウム (Helium)"
+
+# |,no-check-spell
+#~ msgid "The Greek word for the sun was 'helios'"
+#~ msgstr "ギリシャ語で太陽は「ヘリオス」"
+
+#~ msgid "Lithium"
+#~ msgstr "リチウム (Lithium)"
+
+# |,no-check-spell
+#~ msgid "Greek 'lithos' means 'stone'"
+#~ msgstr "ギリシャ語の「リソス」の意味は「石」"
+
+#~ msgid "Beryllium"
+#~ msgstr "ベリリウム (Beryllium)"
+
+# |,no-check-spell
+#~ msgid "Greek 'beryllos' for 'light-green stone'"
+#~ msgstr "ギリシャ語で「ライトグリーンの石」は「ベリロス」"
+
+# |,no-check-spell
+#~ msgid "Boron"
+#~ msgstr "ホウ素 (Boron)"
+
+# well-spelled: ホウ
+#~ msgid ""
+#~ "Boron means 'Bor(ax) + (carb)on'. It is found in borax and behaves a lot "
+#~ "like carbon"
+#~ msgstr ""
+#~ "ホウ素の意味は「ホウ砂」＋「炭素」。ホウ砂と炭素の性質を多く有していること"
+#~ "が分かります。"
+
+#~ msgid "Carbon"
+#~ msgstr "炭素 (Carbon)"
+
+# |,no-check-spell
+#~ msgid "Latin 'carboneum' for carbon"
+#~ msgstr "ラテン語で炭素は「カルボニウム」"
+
+#~ msgid "Nitrogen"
+#~ msgstr "窒素 (Nitrogen)"
+
+# |,no-check-spell
+#~ msgid "Latin 'nitrogenium' ('forms saltpeter')"
+#~ msgstr "ラテン語「ニトロゲニウム」(硝石様物質)"
+
+#~ msgid "Oxygen"
+#~ msgstr "酸素 (Oxygen)"
+
+# |,no-check-spell
+#~ msgid "Latin 'oxygenium' (forms acids)"
+#~ msgstr "ラテン語「オキシゲニウム」(酸性物質)"
+
+# |,no-check-spell
+#~ msgid "Fluorine"
+#~ msgstr "フッ素 (Fluorine)"
+
+# |,no-check-spell
+#~ msgid "Latin 'fluere' ('floats')"
+#~ msgstr "ラテン語「フリューラ」(フロート)"
+
+#~ msgid "Neon"
+#~ msgstr "ネオン (Neon)"
+
+# |,no-check-spell
+#~ msgid "Greek 'neo'. meaning 'new'"
+#~ msgstr "ギリシャ語「ネオ」の意味は「新しい」"
+
+#~ msgid "Sodium"
+#~ msgstr "ナトリウム (Sodium)"
+
+# |,no-check-spell
+#~ msgid "Arabic 'natrun' for 'soda'"
+#~ msgstr "アラビア語の「ナトラン」は「ソーダ」"
+
+#~ msgid "Magnesium"
+#~ msgstr "マグネシウム (Magnesium)"
+
+#~ msgid "Named after the city of Magnesia"
+#~ msgstr "マグネシアの町にちなんで名付けられました"
+
+#~ msgid "Aluminium"
+#~ msgstr "アルミニウム (Aluminium)"
+
+# |,no-check-spell
+#~ msgid "Latin 'alumen'"
+#~ msgstr "ラテン語「アルメン」"
+
+# |,no-check-spell
+#~ msgid "Silicon"
+#~ msgstr "ケイ素 (Silicon)"
+
+# |,no-check-spell
+#~ msgid "Latin 'silex'"
+#~ msgstr "ラテン語「シレックス」"
+
+#~ msgid "Phosphorus"
+#~ msgstr "リン (Phosphorus)"
+
+# |,no-check-spell
+#~ msgid "Greek 'phosphoros' for 'carries light'"
+#~ msgstr "ギリシャ語で「光を運ぶ」は「フォスフォロス」"
+
+#~ msgid "Sulfur"
+#~ msgstr "硫黄 (Sulfur)"
+
+# |,no-check-spell
+#~ msgid "In sanskrit 'sweb' means 'to sleep'"
+#~ msgstr "サンスクリット語で「スウェブ」の意味は「眠りにつく」"
+
+#~ msgid "Chlorine"
+#~ msgstr "塩素 (Chlorine)"
+
+# |,no-check-spell
+#~ msgid "Greek 'chloros' for 'yellow-green'"
+#~ msgstr "ギリシャ語で「黄緑」は「クロノス」"
+
+#~ msgid "Argon"
+#~ msgstr "アルゴン (Argon)"
+
+#~ msgid "Greek 'aergon' for 'inactive'"
+#~ msgstr "ギリシャ語で「なまけ者」は「アルゴン」"
+
+#~ msgid "Potassium"
+#~ msgstr "カリウム (Potassium)"
+
+# |,no-check-spell
+#~ msgid "Arabic 'al qaliy' for potash"
+#~ msgstr "アラビア語でカリは「アル・クァリー」"
+
+#~ msgid "Calcium"
+#~ msgstr "カルシウム (Calcium)"
+
+#~ msgid "Latin 'calx' for 'lime'"
+#~ msgstr "ラテン語で「石灰」は “calx”"
+
+#~ msgid "Scandium"
+#~ msgstr "スカンジウム (Scandium)"
+
+#~ msgid "Named because it was found in Scandinavia"
+#~ msgstr "スカンジナビアで発見されたのが名前の由来です"
+
+#~ msgid "Titanium"
+#~ msgstr "チタン (Titanium)"
+
+#~ msgid "The Titans were giants in Greek mythology"
+#~ msgstr "チタンはギリシャ神話の巨人でした"
+
+#~ msgid "Vanadium"
+#~ msgstr "バナジウム (Vanadium)"
+
+# |,no-check-spell
+#~ msgid "'Vanadis' is another name for the Nordic goddess Freyja"
+#~ msgstr "「ヴァナディス」は北欧の女神フレイアの別称です"
+
+#~ msgid "Chromium"
+#~ msgstr "クロム (Chromium)"
+
+# |,no-check-spell
+#~ msgid "Greek 'chroma' means 'color'"
+#~ msgstr "ギリシャ語「クローマ」は「色」を意味します"
+
+#~ msgid "Manganese"
+#~ msgstr "マンガン (Manganese)"
+
+#~ msgid ""
+#~ "It was discovered near a town named Magnesia in black earth. Thus, it was "
+#~ "named 'magnesia nigra', or for short, Manganese."
+#~ msgstr ""
+#~ "黒土地帯のマグネシアと呼ばれる町の近くで発見されました。そのため、「黒色マ"
+#~ "グネシア」と呼ばれ、これが短じてマンガンとなりました。"
+
+#~ msgid "Iron"
+#~ msgstr "鉄 (Iron)"
+
+#~ msgid "Latin 'ferrum'"
+#~ msgstr "ラテン語「鉄」"
+
+#~ msgid "Cobalt"
+#~ msgstr "コバルト (Cobalt)"
+
+# |,no-check-spell
+#~ msgid "Named after the German word 'Kobold' for 'goblin'"
+#~ msgstr ""
+#~ "ドイツ語で「ゴブリン」にあたる「コボルド」にちなんで名付けられました"
+
+#~ msgid "Nickel"
+#~ msgstr "ニッケル (Nickel)"
+
+# |,no-check-spell
+#~ msgid "'Nickel' was the name of a mountain goblin"
+#~ msgstr "「ニッケル」はゴブリン山の名前でした"
+
+#~ msgid "Copper"
+#~ msgstr "銅 (Copper)"
+
+# |,no-check-spell
+#~ msgid "Greek 'cuprum' for Cypres"
+#~ msgstr "ギリシャ語でキプロス島は「カプラム」"
+
+#~ msgid "Zinc"
+#~ msgstr "亜鉛 (Zinc)"
+
+# |,no-check-spell
+#, fuzzy
+#~| msgid "German 'zinking' for 'rough'. because zinc ore is very rough"
+#~ msgid "German 'zinking' for 'rough', because zinc ore is very rough"
+#~ msgstr ""
+#~ "ドイツ語で「渋い」は「ズィンキング (zinking)」。これは亜鉛鉱 (zinc ore) が"
+#~ "とても渋いためです。"
+
+#~ msgid "Gallium"
+#~ msgstr "ガリウム (Gallium)"
+
+#~ msgid "'Gallia' is an old name for France"
+#~ msgstr "「ガリア」はフランスの古称です"
+
+#~ msgid "Germanium"
+#~ msgstr "ゲルマニウム (Germanium)"
+
+#~ msgid "Latin 'germania' is an old name for Germany"
+#~ msgstr "ラテン語「ゲルマニア」はドイツの古称です"
+
+# |,no-check-spell
+#~ msgid "Arsenic"
+#~ msgstr "ヒ素 (Arsenic)"
+
+# |,no-check-spell
+# skip-rule: bold
+#~ msgid "Greek 'arsenikos' for 'male' or 'bold'"
+#~ msgstr "ギリシャ語で「男」または「太い」は「アルセニコス」"
+
+#~ msgid "Selenium"
+#~ msgstr "セレン (Selenium)"
+
+# |,no-check-spell
+#~ msgid "Greek 'selena' for 'moon'"
+#~ msgstr "ギリシャ語で「月」は「セレナ」"
+
+#~ msgid "Bromine"
+#~ msgstr "臭素 (Bromine)"
+
+# |,no-check-spell
+#~ msgid "Greek 'bromos' for 'smells badly'"
+#~ msgstr "ギリシャ語で「悪臭」は「ブロモス」"
+
+#~ msgid "Krypton"
+#~ msgstr "クリプトン (Krypton)"
+
+# |,no-check-spell
+#~ msgid "Greek 'kryptos' for 'hidden'"
+#~ msgstr "ギリシャ語で「隠れた」は「クリプトス」"
+
+#~ msgid "Rubidium"
+#~ msgstr "ルビジウム (Rubidium)"
+
+# |,no-check-spell
+#~ msgid "Latin 'rubidus' for 'dark red'"
+#~ msgstr "ラテン語で「暗赤色」は「ルビダス」"
+
+#~ msgid "Strontium"
+#~ msgstr "ストロンチウム (Strontium)"
+
+#~ msgid "Named after the mineral Strontianit"
+#~ msgstr "ストロンチウム鉱石にちなんで名付けられました"
+
+#~ msgid "Yttrium"
+#~ msgstr "イットリウム (Yttrium)"
+
+#~ msgid ""
+#~ "Named after the small town of Ytterby near Stockholm in Sweden. Terbium. "
+#~ "Ytterbium and Gadolinium are also named after this town."
+#~ msgstr ""
+#~ "スウェーデンのストックホルムに近い小さな町イッテルビーにちなんで名付けられ"
+#~ "ました。テルビウム、イッテルビウム、ガドリニウムの名前もこの町にちなんだも"
+#~ "のです。"
+
+#~ msgid "Zirconium"
+#~ msgstr "ジルコニウム (Zirconium)"
+
+#~ msgid "Named after the mineral zircon"
+#~ msgstr "ジルコン鉱石にちなんで名付けられました"
+
+#~ msgid "Niobium"
+#~ msgstr "ニオブ (Niobium)"
+
+# |,no-check-spell
+#~ msgid "Named after Niobe, the daughter of the Greek god Tantalus."
+#~ msgstr "ニオブにちなんで名付けられました。ギリシャのタンタロス神の娘です。"
+
+#~ msgid "Molybdenum"
+#~ msgstr "モリブデン (Molybdenum)"
+
+#~ msgid ""
+#~ "This name has Greek roots. It means 'like Platinum' - it was difficult to "
+#~ "distinguish Molybdenum from Platinum."
+#~ msgstr ""
+#~ "この名前はギリシャ語に由来します。「プラチナのような」という意味であり、こ"
+#~ "れはモリブデンとプラチナの区別が難しかったことによるものです。"
+
+#~ msgid "Technetium"
+#~ msgstr "テクネチウム (Technetium)"
+
+# |,no-check-spell
+#~ msgid "Greek 'technetos' for artificial"
+#~ msgstr "ギリシャ語で「人工的」は「テクネトス」"
+
+#~ msgid "Ruthenium"
+#~ msgstr "ルテニウム (Ruthenium)"
+
+#~ msgid "Ruthenia is the old name of Russia"
+#~ msgstr "ルテニアはロシアの古称です"
+
+#~ msgid "Rhodium"
+#~ msgstr "ロジウム (Rhodium)"
+
+# |,no-check-spell
+#~ msgid "Greek 'rhodeos' means 'red like a rose'"
+#~ msgstr "ギリシャ語で「ローデオス」は「バラのような赤」を意味します"
+
+#~ msgid "Palladium"
+#~ msgstr "パラジウム (Palladium)"
+
+#~ msgid "Named after the asteroid Pallas"
+#~ msgstr "小惑星パラスにちなんで名付けられました"
+
+#~ msgid "Silver"
+#~ msgstr "銀 (Silver)"
+
+# |,no-check-spell
+#~ msgid "Latin 'argentum' for silver"
+#~ msgstr "ラテン語で「銀」は「アグレンタム」"
+
+#~ msgid "Cadmium"
+#~ msgstr "カドミウム (Cadmium)"
+
+# |,no-check-spell
+#~ msgid "Greek 'kadmia' ('Galmei' = Zinc carbonate)"
+#~ msgstr "ギリシャ語「カドミア」(「ガルメイ」=炭酸亜鉛)"
+
+#~ msgid "Indium"
+#~ msgstr "インジウム (Indium)"
+
+#~ msgid "Named after 'Indigo' because of its blue spectrum"
+#~ msgstr "青色スペクトルのため「インディゴ」にちなんで名付けられました"
+
+#~ msgid "Tin"
+#~ msgstr "スズ (Tin)"
+
+#~ msgid "Latin 'stannum' for tin"
+#~ msgstr "ラテン語でスズは stannum"
+
+#~ msgid "Antimony"
+#~ msgstr "アンチモン (Antimony)"
+
+# |,no-check-spell
+#~ msgid "Arabic 'anthos ammonos' for 'blossom of the god Ammon'"
+#~ msgstr "アラビア語で「アモン神の花」は「アンソス・アモンズ」"
+
+#~ msgid "Tellurium"
+#~ msgstr "テルル (Tellurium)"
+
+# |,no-check-spell
+#~ msgid "Latin 'tellus' or 'telluris' for 'Planet Earth'"
+#~ msgstr "ラテン語で「地球」は「テルス」または「テルリス」"
+
+# |,no-check-spell
+#~ msgid "Iodine"
+#~ msgstr "ヨウ素 (Iodine)"
+
+# |,no-check-spell
+#~ msgid "Greek 'ioeides' for 'violet'."
+#~ msgstr "ギリシャ語で「紫」は「イオエイデス」"
+
+#~ msgid "Xenon"
+#~ msgstr "キセノン (Xenon)"
+
+# |,no-check-spell
+#~ msgid "Greek 'xenos' for 'foreigner'"
+#~ msgstr "ギリシャ語で「よそ者」は「ゼノス」"
+
+#~ msgid "Caesium"
+#~ msgstr "セシウム (Caesium)"
+
+# |,no-check-spell
+#~ msgid "Latin 'caesius' for 'heaven blue'."
+#~ msgstr "ラテン語で「天の青」は「カエシウス」"
+
+#~ msgid "Barium"
+#~ msgstr "バリウム (Barium)"
+
+# |,no-check-spell
+#~ msgid "Greek 'barys' for 'heavy'"
+#~ msgstr "ギリシャ語で「重い」は「バリス」"
+
+#~ msgid "Lanthanum"
+#~ msgstr "ランタン (Lanthanum)"
+
+# |,no-check-spell
+#~ msgid ""
+#~ "Greek 'lanthanein' for 'hidden'. The Lanthanoids are also called the "
+#~ "'rare earth' elements."
+#~ msgstr ""
+#~ "ギリシャ語で「隠れた」は「ランタネイン」。ランタノイドは「希土類」とも呼ば"
+#~ "れています。"
+
+#~ msgid "Cerium"
+#~ msgstr "セリウム (Cerium)"
+
+#~ msgid "Named after the planetoid Ceres"
+#~ msgstr "小惑星セレスにちなんで名付けられました"
+
+#~ msgid "Praseodymium"
+#~ msgstr "プラセオジム (Praseodymium)"
+
+# |,no-check-spell
+#~ msgid "Greek 'prasinos didymos' for 'green twin'"
+#~ msgstr "ギリシャ語で「緑の双子」は「プラシノス・ディディモス」"
+
+#~ msgid "Neodymium"
+#~ msgstr "ネオジム (Neodymium)"
+
+# |,no-check-spell
+#~ msgid "Greek 'neos didymos' for 'new twin'"
+#~ msgstr "ギリシャ語で「新しい双子」は「ネオス・ディディモス」"
+
+#~ msgid "Promethium"
+#~ msgstr "プロメチウム (Promethium)"
+
+# |,no-check-spell
+#~ msgid ""
+#~ "Named after the Greek Prometheus. Prometheus stole the fire from the gods "
+#~ "and gave it to mankind."
+#~ msgstr ""
+#~ "ギリシャのプロメテウスにちなんで名付けられました。プロメテウスは神々から火"
+#~ "を盗み出し、これを人類に与えました。"
+
+#~ msgid "Samarium"
+#~ msgstr "サマリウム (Samarium)"
+
+#~ msgid "Named after the mineral Samarskit"
+#~ msgstr "サマルスキー鉱石にちなんで名付けられました"
+
+#~ msgid "Europium"
+#~ msgstr "ユウロピウム (Europium)"
+
+#~ msgid "Named after Europe"
+#~ msgstr "ヨーロッパにちなんで名付けられました"
+
+#~ msgid "Gadolinium"
+#~ msgstr "ガドリニウム (Gadolinium)"
+
+#~ msgid "Named after the Finnish chemist Johan Gadolin"
+#~ msgstr "フィンランドの化学者ヨハン・ガドリンにちなんで名付けられました"
+
+#~ msgid "Terbium"
+#~ msgstr "テルビウム (Terbium)"
+
+#~ msgid "Named after the Swedish town of Ytterby"
+#~ msgstr "スウェーデンの町イッテルビーにちなんで名付けられました"
+
+#~ msgid "Dysprosium"
+#~ msgstr "ジスプロシウム (Dysprosium)"
+
+# |,no-check-spell
+#~ msgid "Greek 'dysprositor' for 'difficult to reach'"
+#~ msgstr "ギリシャ語で「なかなか手が届かない」は「ディスプロジトール」"
+
+#~ msgid "Holmium"
+#~ msgstr "ホルミウム (Holmium)"
+
+# |,no-check-spell
+#~ msgid "Latin 'holmia' for the old name of Stockholm"
+#~ msgstr "ラテン語でストックホルムの古称は「ホルミア」"
+
+#~ msgid "Erbium"
+#~ msgstr "エルビウム (Erbium)"
+
+#~ msgid ""
+#~ "Named ofter the Swedish town of Ytterby. Terbium and Ytterbium are also "
+#~ "named after this town."
+#~ msgstr ""
+#~ "スウェーデンの町イッテルビーにちなんで名付けられました。テルビウムとイッテ"
+#~ "ルビウムの名前もこの町にちなんだものです。"
+
+#~ msgid "Thulium"
+#~ msgstr "ツリウム (Thulium)"
+
+# |,no-check-spell
+#~ msgid "Named after the old name of Scandinavia, 'Thule'."
+#~ msgstr "スカンジナビアの古称にちなんで名付けられました。「トゥーレ」"
+
+#~ msgid "Ytterbium"
+#~ msgstr "イッテルビウム (Ytterbium)"
+
+#~ msgid ""
+#~ "Like Terbium and Gadolinium, this is named after the Swedish town of "
+#~ "Ytterby."
+#~ msgstr ""
+#~ "テルビウムとガドリニウムと同様に、スウェーデンの町イッテルビーにちなんで名"
+#~ "付けられました"
+
+#~ msgid "Lutetium"
+#~ msgstr "ルテチウム (Lutetium)"
+
+# |,no-check-spell
+#~ msgid "Named after the Roman name 'Lutetia' for Paris"
+#~ msgstr "パリの古代ローマ名「ルテティア」にちなんで名付けられました"
+
+#~ msgid "Hafnium"
+#~ msgstr "ハフニウム (Hafnium)"
+
+# |,no-check-spell
+#~ msgid "'Hafnia' is the old name of Kopenhagen (Denmark)"
+#~ msgstr "「ハフニア」はコペンハーゲン (デンマーク) の古称です"
+
+#~ msgid "Tantalum"
+#~ msgstr "タンタル (Tantalum)"
+
+# |,no-check-spell
+#~ msgid "Named after the Greek myth of Tantalos"
+#~ msgstr "ギリシャ神話のタンタロスにちなんで名付けられました"
+
+#~ msgid "Tungsten"
+#~ msgstr "タングステン (Tungsten)"
+
+# |,no-check-spell
+#, fuzzy
+#~| msgid ""
+#~| "'Tung sten' means 'heavy stone' in Swedish. The old name (and thus the "
+#~| "symbol 'W') was Wolfram, named after a mineral."
+#~ msgid ""
+#~ "'tung sten' means 'heavy stone' in Swedish. The old name (and thus the "
+#~ "symbol 'W') was Wolfram, named after a mineral."
+#~ msgstr ""
+#~ "「タングステン」はスウェーデン語で「重い石」の意味です。古称 (そして記号 "
+#~ "“W”) はウォルフラム。鉱石にちなんで名付けられました。"
+
+#~ msgid "Rhenium"
+#~ msgstr "レニウム (Rhenium)"
+
+#, fuzzy
+#~| msgid "Named after the German river Rhine (latin 'Rhenium')"
+#~ msgid "Named after the German river Rhine (latin 'Rhenium')."
+#~ msgstr ""
+#~ "ドイツのライン河 (ラテン語で「レニウム」) にちなんで名付けられました"
+
+#~ msgid "Osmium"
+#~ msgstr "オスミウム (Osmium)"
+
+#~ msgid "Greek for 'smell'. Its oxides smell strongly like radishes."
+#~ msgstr ""
+#~ "ギリシャ語で「におい」。その酸化物はダイコンのような強い臭いがします。"
+
+#~ msgid "Iridium"
+#~ msgstr "イリジウム (Iridium)"
+
+# |,no-check-spell
+#~ msgid "Greek 'iris' for 'rainbow'"
+#~ msgstr "ギリシャ語で「虹」は「イリス」"
+
+#~ msgid "Platinum"
+#~ msgstr "白金 (Platinum)"
+
+#~ msgid "Spanish 'platina' means 'small silver'"
+#~ msgstr "スペイン語で「プラチナ」は「小さな銀」を意味します"
+
+#~ msgid "Gold"
+#~ msgstr "金 (Gold)"
+
+# |,no-check-spell
+#, fuzzy
+#~| msgid "Latin 'aurum'.  Named after Aurora, the goddess of sunrise."
+#~ msgid "Latin 'aurum'. Named after Aurora, the goddess of sunrise"
+#~ msgstr ""
+#~ "ラテン語「アルム」。日の出の女神オーロラにちなんで名付けられました。"
+
+#~ msgid "Mercury"
+#~ msgstr "水銀 (Mercury)"
+
+#~ msgid "Graeco-Latin 'hydrargyrum' for 'liquid silver'"
+#~ msgstr "グレコラテン語で「液体の銀」は hydrargyrum"
+
+#~ msgid "Thallium"
+#~ msgstr "タリウム (Thallium)"
+
+# |,no-check-spell
+#~ msgid "Greek 'tallos' for 'young twig'"
+#~ msgstr "ギリシャ語で「若い小枝」は「タロス」"
+
+#~ msgid "Lead"
+#~ msgstr "鉛 (Lead)"
+
+#~ msgid "Latin 'plumbum' for Lead"
+#~ msgstr "ラテン語で鉛は plumbum"
+
+#~ msgid "Bismuth"
+#~ msgstr "ビスマス (Bismuth)"
+
+# |,no-check-spell
+#~ msgid "The old name of Bismuth is 'Wismut', which stood for 'white mass'."
+#~ msgstr ""
+#~ "ビスマスの古称は「ヴィスマト (Wismut)」。これは「白い塊」を意味しました。"
+
+#~ msgid "Polonium"
+#~ msgstr "ポロニウム (Polonium)"
+
+#~ msgid "Named after Poland to honor Marie Curie"
+#~ msgstr ""
+#~ "マリ・キュリーの功績をたたえて、ポーランドにちなんで名付けられました。"
+
+#~ msgid "Astatine"
+#~ msgstr "アスタチン (Astatine)"
+
+# |,no-check-spell
+#~ msgid "Greek 'astator' for 'changing'"
+#~ msgstr "ギリシャ語で「変化している」は「アスタトール」"
+
+#~ msgid "Radon"
+#~ msgstr "ラドン (Radon)"
+
+#~ msgid ""
+#~ "Named after Radium. It ends with 'on' to make it clear that it is a noble "
+#~ "gas."
+#~ msgstr ""
+#~ "ラジウムにちなんで名付けられました。“on” で終わっていることで、希ガスであ"
+#~ "ることが分かります。"
+
+#~ msgid "Francium"
+#~ msgstr "フランシウム (Francium)"
+
+#~ msgid "Named after France to honor Marguerite Perey"
+#~ msgstr ""
+#~ "マルグリット・ペレーの功績をたたえて、フランスにちなんで名付けられました。"
+
+#~ msgid "Radium"
+#~ msgstr "ラジウム (Radium)"
+
+# |,no-check-spell
+#~ msgid "Latin 'radius' for 'beam', as it is radioactive"
+#~ msgstr "ラテン語で「光線」は「ラジウス」。(ラジウムは放射性)"
+
+#~ msgid "Actinium"
+#~ msgstr "アクチニウム (Actinium)"
+
+# |,no-check-spell
+#~ msgid "Greek 'aktis' for 'beam' - actinium is radioactive"
+#~ msgstr "ギリシャ語で「光線」は「アクティス」(アクチニウムは放射性)"
+
+#~ msgid "Thorium"
+#~ msgstr "トリウム (Thorium)"
+
+# |,no-check-spell
+#~ msgid "Named after the German god of thunder: Thor"
+#~ msgstr "ドイツの雷神トールにちなんで名付けられました"
+
+#~ msgid "Protactinium"
+#~ msgstr "プロトアクチニウム (Protactinium)"
+
+# |,no-check-spell
+#~ msgid ""
+#~ "Greek 'protos' for 'ancester'. Protactinium is before Actinium in the "
+#~ "periodic table."
+#~ msgstr ""
+#~ "ギリシャ語で「先祖」は「プロトス」。プロトアクチニウムは周期表でアクチニウ"
+#~ "ムの前にあります。"
+
+#~ msgid "Uranium"
+#~ msgstr "ウラン (Uranium)"
+
+# |,no-check-spell
+#~ msgid "Greek 'ouranos' for 'heaven'. Named after the planet Uranus."
+#~ msgstr ""
+#~ "ギリシャ語で「天国」は「オウラノス」。天王星にちなんで名付けられました。"
+
+#~ msgid "Neptunium"
+#~ msgstr "ネプツニウム (Neptunium)"
+
+#~ msgid "Named after the planet Neptune."
+#~ msgstr "海王星にちなんで名付けられました"
+
+#~ msgid "Plutonium"
+#~ msgstr "プルトニウム (Plutonium)"
+
+#~ msgid "Named after the planet Pluto."
+#~ msgstr "冥王星にちなんで名付けられました"
+
+#~ msgid "Americium"
+#~ msgstr "アメリシウム (Americium)"
+
+#~ msgid "Named after America."
+#~ msgstr "アメリカにちなんで名付けられました"
+
+#~ msgid "Curium"
+#~ msgstr "キュリウム (Curium)"
+
+#~ msgid "Named after Marie Curie."
+#~ msgstr "マリ・キュリーにちなんで名付けられました"
+
+#~ msgid "Berkelium"
+#~ msgstr "バークリウム (Berkelium)"
+
+#~ msgid "Named after the town Berkeley where it was discovered."
+#~ msgstr "発見地のバークレーの町にちなんで名付けられました"
+
+#~ msgid "Californium"
+#~ msgstr "カルホルニウム (Californium)"
+
+#~ msgid "Named after the US-State of California."
+#~ msgstr "米カリフォルニア州にちなんで名付けられました"
+
+#~ msgid "Einsteinium"
+#~ msgstr "アインスタイニウム (Einsteinium)"
+
+#~ msgid "Named after the scientist Albert Einstein."
+#~ msgstr "アルバート・アインシュタインにちなんで名付けられました"
+
+#~ msgid "Fermium"
+#~ msgstr "フェルミウム (Fermium)"
+
+#~ msgid "Named after the scientist Enrico Fermi."
+#~ msgstr "エンリコ・フェルミにちなんで名付けられました"
+
+#~ msgid "Mendelevium"
+#~ msgstr "メンデレビウム (Mendelevium)"
+
+#~ msgid "Named after the scientist D.I. Mendeleev."
+#~ msgstr "ドミトリ・イヴァノヴィチ・メンデレーエフにちなんで名付けられました"
+
+#~ msgid "Nobelium"
+#~ msgstr "ノーベリウム (Nobelium)"
+
+#~ msgid "Named after the scientist Alfred Nobel."
+#~ msgstr "アルフレッド・ノーベルにちなんで名付けられました"
+
+#~ msgid "Lawrencium"
+#~ msgstr "ローレンシウム (Lawrencium)"
+
+#~ msgid "Named after the scientist Ernest Orlando Lawrence."
+#~ msgstr "アーネスト・オーランド・ローレンスにちなんで名付けられました"
+
+#~ msgid "Rutherfordium"
+#~ msgstr "ラザホージウム (Rutherfordium)"
+
+#~ msgid "Named after the scientist Ernest Rutherford"
+#~ msgstr "アーネスト・ラザフォードにちなんで名付けられました"
+
+#~ msgid "Dubnium"
+#~ msgstr "ドブニウム (Dubnium)"
+
+#~ msgid "Named after the science-town Dubna in Russia"
+#~ msgstr "ロシアの学究都市ドゥブナにちなんで名付けられました"
+
+#~ msgid "Seaborgium"
+#~ msgstr "シーボーギウム (Seaborgium)"
+
+#~ msgid "Named after the scientist G. Theodore Seaborg."
+#~ msgstr "グレン・セオドア・シーボーグにちなんで名付けられました"
+
+#~ msgid "Bohrium"
+#~ msgstr "ボーリウム (Bohrium)"
+
+#~ msgid "Named after the scientist Niels Bohr."
+#~ msgstr "ニールス・ボーアにちなんで名付けられました"
+
+#~ msgid "Hassium"
+#~ msgstr "ハッシウム (Hassium)"
+
+# |,no-check-spell
+#~ msgid ""
+#~ "Latin 'hassia' for the German county Hessen. In Hessen a lot elements "
+#~ "have been discovered."
+#~ msgstr ""
+#~ "ラテン語でドイツのヘッセン州は「ハッシア」。ヘッセン州では、多くの元素が発"
+#~ "見されています。"
+
+#~ msgid "Meitnerium"
+#~ msgstr "マイトネリウム (Meitnerium)"
+
+#~ msgid "Named after the scientist Lise Meitner."
+#~ msgstr "リーゼ・マイトナーにちなんで名付けられました"
+
+#~ msgid "Darmstadtium"
+#~ msgstr "ダルムスタチウム (Darmstadtium)"
+
+#~ msgid ""
+#~ "Named after the German city Darmstadt where many elements have been "
+#~ "discovered."
+#~ msgstr ""
+#~ "多くの元素が発見されたドイツのダルムシュタット市にちなんで名付けられました"
+
+#~ msgid "Roentgenium"
+#~ msgstr "レントゲニウム (Roentgenium)"
+
+#~ msgid "Named after Wilhelm Conrad Röntgen."
+#~ msgstr "ヴィルヘルム・コンラート・レントゲンにちなんで名付けられました"
+
+#, fuzzy
+#~| msgid "Cerium"
+#~ msgid "Copernicium"
+#~ msgstr "セリウム (Cerium)"
+
+# well-spelled: エカ
+#~ msgid ""
+#~ "Historically known as eka-mercury. Ununbium is a temporary IUPAC "
+#~ "systematic element name."
+#~ msgstr ""
+#~ "歴史的にはエカ水銀 (eka-mercury) として知られています。ウンウンビウムは暫"
+#~ "定的な IUPAC の系統名です。"
+
+#~ msgid "Ununtrium"
+#~ msgstr "ウンウントリウム (Ununtrium)"
+
+#~ msgid ""
+#~ "Historically known as eka-thallium. Ununtrium is a temporary IUPAC "
+#~ "systematic element name."
+#~ msgstr ""
+#~ "歴史的にはエカタリウム (eka-thallium) として知られています。ウンウントリウ"
+#~ "ムは暫定的な IUPAC の系統名です。"
+
+#~ msgid "Ununquadium"
+#~ msgstr "ウンウンクアジウム (Ununquadium)"
+
+# well-spelled: エカ
+#~ msgid ""
+#~ "Historically known as eka-lead. Ununquadium is a temporary IUPAC "
+#~ "systematic element name."
+#~ msgstr ""
+#~ "歴史的にはエカ鉛 (eka-lead) として知られています。ウンウンクアジウムは暫定"
+#~ "的な IUPAC の系統名です。"
+
+#~ msgid "Ununpentium"
+#~ msgstr "ウンウンペンチウム (Ununpentium)"
+
+#~ msgid ""
+#~ "Historically known as eka-bismuth. Ununpentium is a temporary IUPAC "
+#~ "systematic element name."
+#~ msgstr ""
+#~ "歴史的にはエカビスマス (eka-bismuth) として知られています。ウンウンペンチ"
+#~ "ウムは暫定的な IUPAC の系統名です。"
+
+#~ msgid "Ununhexium"
+#~ msgstr "ウンウンヘキシウム (Ununhexium)"
+
+#~ msgid ""
+#~ "Historically known as eka-polonium. Ununhexium is a temporary IUPAC "
+#~ "systematic element name."
+#~ msgstr ""
+#~ "歴史的にはエカポロニウム (eka-polonium) として知られています。ウンウンヘキ"
+#~ "シウムは暫定的な IUPAC の系統名です。"
+
+#~ msgid "Ununseptium"
+#~ msgstr "ウンウンセプチウム (Ununseptium)"
+
+#~ msgid "Temporary symbol and name. Can also be referred to as eka-astatine."
+#~ msgstr ""
+#~ "暫定的な元素記号と元素名です。エカアスタチン (eka-astatine) とも呼ばれま"
+#~ "す。"
+
+#~ msgid "Ununoctium"
+#~ msgstr "ウンウンオクチウム (Ununoctium)"
+
+#~ msgid ""
+#~ "Historically known as eka-radon, eka-emanation before 1960. Ununoctium is "
+#~ "a temporary IUPAC systematic element name."
+#~ msgstr ""
+#~ "歴史的にはエカラドン (eka-radon) として知られています。1960年以前は eka-"
+#~ "emanation とも呼ばれていました。ウンウンオクチウムは暫定的な IUPAC の系統"
+#~ "名です。"
+
+#~ msgid "Glossary"
+#~ msgstr "用語集"
+
+#~ msgid "&Search:"
+#~ msgstr "検索(&S):"
+
+#~ msgid "References"
+#~ msgstr "リファレンス"
+
+#~ msgid "Go to '%1'"
+#~ msgstr "“%1” に移動"
+
+#, fuzzy
+#~| msgctxt ""
+#~| "The name of the second, third ... language/column of vocabulary, if we "
+#~| "have to guess it."
+#~| msgid "Translation %1"
+#~ msgid "Transition Elements"
+#~ msgstr "翻訳 %1"
+
+#~ msgctxt "NAME OF TRANSLATORS"
+#~ msgid "Your names"
+#~ msgstr "KIMIZUKA Tomokazu,Yukiko Bando"
+
+#~ msgctxt "EMAIL OF TRANSLATORS"
+#~ msgid "Your emails"
+#~ msgstr "sgtom@pluto.dti.ne.jp,ybando@k6.dion.ne.jp"
+
+#~ msgid "Ununbium"
+#~ msgstr "ウンウンビウム (Ununbium)"
+
+#~ msgid ""
+#~ "It was discovered near a town named Magnesia in a black earth. Thus. it "
+#~ "was named 'magnesia nigra'. short: Manganese"
+#~ msgstr ""
+#~ "黒土地帯のマグネシアと呼ばれる町の近くで発見されました。そのため、「黒色マ"
+#~ "グネシア」と呼ばれ、これが短じてマンガンとなりました。"
+
+# |,no-check-spell
+#~ msgid "German 'zinking' for 'rough'. because zinc ore is very rough"
+#~ msgstr ""
+#~ "ドイツ語で「渋い」は「ズィンキング (zinking)」。これは亜鉛鉱 (zinc ore) が"
+#~ "とても渋いためです。"
+
+# |,no-check-spell
+#~ msgid "Named after Niobe. the daughter of the Greek god Tantalus"
+#~ msgstr "ニオブにちなんで名付けられました。ギリシャのタンタロス神の娘です。"
+
+# |,no-check-spell
+#~ msgid "Greek 'ioeides' for 'violett'"
+#~ msgstr "ギリシャ語で「紫」は「イオエイデス」"
+
+# |,no-check-spell
+#~ msgid "Latin 'caesius' for 'heavenblue'"
+#~ msgstr "ラテン語で「天の青」は「カエシウス」"
+
+# |,no-check-spell
+#~ msgid ""
+#~ "Greek 'lanthanein' for 'hidden'. The Lanthanoids are also called the "
+#~ "'rare earth'"
+#~ msgstr ""
+#~ "ギリシャ語で「隠れた」は「ランタネイン」。ランタノイドは「希土類」とも呼ば"
+#~ "れています。"
+
+# |,no-check-spell
+#~ msgid ""
+#~ "Named after the greek Prometheus. Prometheus stole the fire from the gods "
+#~ "and gave it to mankind"
+#~ msgstr ""
+#~ "ギリシャのプロメテウスにちなんで名付けられました。プロメテウスは神々から火"
+#~ "を盗み出し、これを人類に与えました。"
+
+# |,no-check-spell
+#~ msgid "Named after the old name of Scandinavia. 'Thule'"
+#~ msgstr "スカンジナビアの古称にちなんで名付けられました。「トゥーレ」"
+
+#~ msgid ""
+#~ "Like Terbium and Gadolinium. this is named after the Swedish town of "
+#~ "Ytterby"
+#~ msgstr ""
+#~ "テルビウムとガドリニウムと同様に、スウェーデンの町イッテルビーにちなんで名"
+#~ "付けられました"
+
+# |,no-check-spell
+#~ msgid ""
+#~ "'tung sten' means 'heavy stone' in Swedish. The old name (and thus the "
+#~ "symbol 'W') was Wolfram. named after a mineral"
+#~ msgstr ""
+#~ "「タングステン」はスウェーデン語で「重い石」の意味です。古称 (そして記号 "
+#~ "“W”) はウォルフラム。鉱石にちなんで名付けられました。"
+
+#~ msgid "Named after the German river Rhine (latin 'Rhenium')"
+#~ msgstr ""
+#~ "ドイツのライン河 (ラテン語で「レニウム」) にちなんで名付けられました"
+
+#~ msgid "Greek for 'smell'. Its oxides smell strongly like radishes"
+#~ msgstr ""
+#~ "ギリシャ語で「におい」。その酸化物はダイコンのような強い臭いがします。"
+
+# |,no-check-spell
+#~ msgid "Latin 'aurum'. named after Aurora. the goddess of sunrise"
+#~ msgstr ""
+#~ "ラテン語「アルム」。日の出の女神オーロラにちなんで名付けられました。"
+
+# |,no-check-spell
+#~ msgid "The old name of Bismuth is 'Wismut'. This stood for 'white mass'"
+#~ msgstr ""
+#~ "ビスマスの古称は「ヴィスマト (Wismut)」。これは「白い塊」を意味しました。"
+
+#~ msgid ""
+#~ "Named after Radium. It ends with 'on' to make it clear that it is a noble "
+#~ "gas"
+#~ msgstr ""
+#~ "ラジウムにちなんで名付けられました。“on” で終わっていることで、希ガスであ"
+#~ "ることが分かります。"
+
+# |,no-check-spell
+#~ msgid "Greek 'ouranos' for 'heaven'. Named after the planet Uranus"
+#~ msgstr ""
+#~ "ギリシャ語で「天国」は「オウラノス」。天王星にちなんで名付けられました。"
+
+#~ msgid "no translations found"
+#~ msgstr "翻訳が見つかりません"
+
+#~ msgid "Named after the German river Rhine (Latin 'Rhenium'.)"
+#~ msgstr ""
+#~ "ドイツのライン河 (ラテン語で「レニウム」) にちなんで名付けられました"

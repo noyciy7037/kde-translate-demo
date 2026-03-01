@@ -1,0 +1,289 @@
+# Translation of plasma_applet_fifteenPuzzle into Japanese.
+# This file is distributed under the same license as the kdeplasma-addons package.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2007, 2008, 2009.
+# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2012, 2021.
+# R.Suga <21r.suga@gmail.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_fifteenPuzzle\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-12-02 10:43+0100\n"
+"PO-Revision-Date: 2022-03-06 11:55+0900\n"
+"Last-Translator: R.Suga <21r.suga@gmail.com>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+"X-Generator: Lokalize 21.12.3\n"
+
+#. +> trunk6 stable6 stable5
+#: qml/config.qml:13
+#, kde-format
+msgctxt "@title"
+msgid "Appearance"
+msgstr "外観"
+
+#. +> trunk6 stable6 stable5
+#: qml/configAppearance.qml:50
+#, kde-format
+msgctxt "@label:spinbox"
+msgid "Grid size:"
+msgstr "グリッドサイズ:"
+
+#. +> stable5
+#: package/contents/ui/configAppearance.qml:56
+#, kde-format
+msgid "Color:"
+msgstr "色:"
+
+#. +> trunk6 stable6
+#: qml/configAppearance.qml:61
+#, fuzzy, kde-format
+#| msgid "Background:"
+msgctxt "@label:group radio button group"
+msgid "Background:"
+msgstr "背景:"
+
+#. +> stable5
+#: package/contents/ui/configAppearance.qml:50
+#, kde-format
+msgid "Background:"
+msgstr "背景:"
+
+#. +> trunk6 stable6
+#: qml/configAppearance.qml:68
+#, fuzzy, kde-format
+#| msgid "Color:"
+msgctxt "@label:chooser opens background color picker"
+msgid "Color:"
+msgstr "色:"
+
+#. +> trunk6 stable6
+#: qml/configAppearance.qml:84
+#, fuzzy, kde-format
+#| msgid "Image:"
+msgctxt "@label:chooser opens background image file picker"
+msgid "Image:"
+msgstr "画像:"
+
+#. +> stable5
+#: package/contents/ui/configAppearance.qml:71
+#, kde-format
+msgid "Image:"
+msgstr "画像:"
+
+#. +> trunk6 stable6 stable5
+#: qml/configAppearance.qml:92
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Path to custom image…"
+msgstr "カスタム画像のパス…"
+
+#. +> trunk6 stable6
+#: qml/configAppearance.qml:108
+#, fuzzy, kde-format
+#| msgctxt "@info:tooltip"
+#| msgid "Choose image…"
+msgctxt "@action:button"
+msgid "Choose image…"
+msgstr "画像を選択してください…"
+
+#. +> stable5
+#: package/contents/ui/configAppearance.qml:98
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Choose image…"
+msgstr "画像を選択してください…"
+
+#. +> trunk6 stable6 stable5
+#: qml/configAppearance.qml:119
+#, kde-format
+msgctxt "@title:window"
+msgid "Choose an Image"
+msgstr "画像を選択"
+
+#. +> trunk6 stable6
+#: qml/configAppearance.qml:124
+#, fuzzy, kde-format
+#| msgid "Image Files (*.png *.jpg *.jpeg *.bmp *.svg *.svgz)"
+msgctxt "@item:inlistbox file type category for file picker"
+msgid "Image Files (*.png *.jpg *.jpeg *.bmp *.svg *.svgz)"
+msgstr "画像ファイル (*.png *.jpg *.jpeg *.bmp *.svg *.svgz)"
+
+#. +> stable5
+#: package/contents/ui/configAppearance.qml:111
+#, kde-format
+msgid "Image Files (*.png *.jpg *.jpeg *.bmp *.svg *.svgz)"
+msgstr "画像ファイル (*.png *.jpg *.jpeg *.bmp *.svg *.svgz)"
+
+#. +> stable5
+#: package/contents/ui/configAppearance.qml:125
+#, kde-format
+msgid "Tiles:"
+msgstr "タイル:"
+
+#. +> stable5
+#: package/contents/ui/configAppearance.qml:129
+#, kde-format
+msgid "Colored numbers:"
+msgstr "色のついた番号:"
+
+#. +> trunk6 stable6
+#: qml/configAppearance.qml:142
+#, fuzzy, kde-format
+#| msgid "Tiles:"
+msgctxt "@title:group formdata label"
+msgid "Tile labels:"
+msgstr "タイル:"
+
+#. +> trunk6 stable6
+#: qml/configAppearance.qml:149
+#, fuzzy, kde-format
+#| msgid "Color:"
+msgctxt "@label:chooser opens label color picker"
+msgid "Color:"
+msgstr "色:"
+
+#. +> trunk6 stable6
+#: qml/configAppearance.qml:163
+#, kde-format
+msgctxt "@option:check"
+msgid "Hide on image backgrounds"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: qml/FifteenPuzzle.qml:262
+#, kde-format
+msgctxt "The time since the puzzle started, in minutes and seconds"
+msgid "Time: %1"
+msgstr "経過時間: %1"
+
+#. +> trunk6 stable6 stable5
+#: qml/FifteenPuzzle.qml:320
+#, kde-format
+msgctxt "@action:button"
+msgid "Shuffle"
+msgstr "シャッフル"
+
+#. +> trunk6 stable6
+#: qml/FifteenPuzzle.qml:346
+#, kde-format
+msgctxt "@info:status The number of moves made by the player so far"
+msgid "Moves: %1"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: qml/FifteenPuzzle.qml:371
+#, kde-format
+msgctxt "@info"
+msgid "Solved! Try again."
+msgstr "クリア! もう一度試してください。"
+
+#. +> trunk6 stable6 stable5
+#: qml/main.qml:37
+#, kde-format
+msgid "Fifteen Puzzle"
+msgstr "15 ピースパズル"
+
+#. +> trunk6 stable6 stable5
+#: qml/main.qml:38
+#, kde-format
+msgid "Solve by arranging in order"
+msgstr "順番に並べて解く"
+
+#, kde-format
+#~ msgctxt "@info:placeholder"
+#~ msgid "Path to custom image..."
+#~ msgstr "カスタム画像のパス..."
+
+#, kde-format
+#~ msgctxt "@info:tooltip"
+#~ msgid "Choose image..."
+#~ msgstr "画像を選択してください..."
+
+#, fuzzy
+#~| msgid "Size:"
+#~ msgid "Size"
+#~ msgstr "サイズ:"
+
+#~ msgid "Show numerals"
+#~ msgstr "数字を表示する"
+
+#, fuzzy
+#~| msgid "Size:"
+#~ msgctxt "@label:spinbox"
+#~ msgid "Size:"
+#~ msgstr "サイズ:"
+
+#, fuzzy
+#~| msgid "Show numerals"
+#~ msgctxt "@option:check"
+#~ msgid "Show numerals"
+#~ msgstr "数字を表示する"
+
+#~ msgid "General"
+#~ msgstr "全般"
+
+#~ msgid " pieces wide"
+#~ msgstr " ピース (幅)"
+
+#~ msgid "Use plain pieces:"
+#~ msgstr "無地のピースを使う:"
+
+#~ msgid "Actions"
+#~ msgstr "アクション"
+
+#~ msgctxt "@body:window"
+#~ msgid "You have to provide a valid image"
+#~ msgstr "有効な画像を指定してください"
+
+#~ msgid "Use plain pieces"
+#~ msgstr "無地のピースを使う"
+
+#, fuzzy
+#~ msgid "Appearance"
+#~ msgstr "外観"
+
+#, fuzzy
+#~ msgid "Use custom image"
+#~ msgstr "カスタム画像のパス..."
+
+#, fuzzy
+#~ msgid "Shuffle"
+#~ msgstr "シャッフル"
+
+#, fuzzy
+#~ msgctxt "@option:check"
+#~ msgid "Use custom image"
+#~ msgstr "カスタム画像のパス..."
+
+#, fuzzy
+#~ msgctxt "@info:placeholder"
+#~ msgid "Path to custom image"
+#~ msgstr "カスタム画像のパス..."
+
+#, fuzzy
+#~ msgctxt "@title:group"
+#~ msgid "Appearance"
+#~ msgstr "外観"
+
+#, fuzzy
+#~ msgid "Shuffle Pieces"
+#~ msgstr "シャッフル"
+
+#, fuzzy
+#~ msgid "Configure Fifteen Puzzle"
+#~ msgstr "15 ピースパズル"
+
+#, fuzzy
+#~ msgid "Use custom image:"
+#~ msgstr "カスタム画像のパス..."
+
+#, fuzzy
+#~ msgctxt "@title:window"
+#~ msgid "Configure Fifteen Puzzle"
+#~ msgstr "15 ピースパズル"

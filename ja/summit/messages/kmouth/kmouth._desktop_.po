@@ -1,0 +1,127 @@
+# Translation of desktop_kdeaccessibility into Japanese.
+# Kenshi Muto <kmuto@debian.org>, 2004, 2005.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2006, 2007, 2008.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdeaccessibility\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-09-09 08:57+0200\n"
+"PO-Revision-Date: 2010-07-03 02:39-0700\n"
+"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.10.2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: \n"
+"X-Text-Markup: \n"
+
+#. +> trunk6 stable6
+#: books/ca.desktop:3
+msgctxt "Name"
+msgid "Catalan"
+msgstr ""
+
+#. +> trunk6 stable6
+#: books/de.desktop:2
+msgctxt "Name"
+msgid "German"
+msgstr "ドイツ語"
+
+#. +> trunk6 stable6
+#: books/en.desktop:3
+msgctxt "Name"
+msgid "English"
+msgstr "英語"
+
+#. +> trunk6 stable6
+#: books/nl.desktop:3
+msgctxt "Name"
+msgid "Dutch"
+msgstr "オランダ語"
+
+#. +> trunk6 stable6
+#: books/sv.desktop:3
+msgctxt "Name"
+msgid "Swedish"
+msgstr "スウェーデン語"
+
+#. +> trunk6 stable6
+#: org.kde.kmouth.desktop:7
+msgctxt "Name"
+msgid "KMouth"
+msgstr "KMouth"
+
+#. +> trunk6 stable6
+#: org.kde.kmouth.desktop:79
+msgctxt "GenericName"
+msgid "Speech Synthesizer Frontend"
+msgstr "スピーチシンセサイザーのフロントエンド"
+
+#~ msgctxt "Name"
+#~ msgid "String Replacer"
+#~ msgstr "文字列置換"
+
+#~ msgctxt "Comment"
+#~ msgid "Generic String Replacement Filter Plugin for Jovie"
+#~ msgstr "Jovie 用汎用文字列置換フィルタプラグイン"
+
+#~ msgctxt "Name"
+#~ msgid "Talker Chooser"
+#~ msgstr "話者選択"
+
+#~ msgctxt "Comment"
+#~ msgid "Generic Talker Chooser Filter Plugin for Jovie"
+#~ msgstr "Jovie 用汎用話者選択フィルタプラグイン"
+
+#~ msgctxt "Name"
+#~ msgid "XML Transformer"
+#~ msgstr "XML 変換"
+
+#~ msgctxt "Comment"
+#~ msgid "Generic XML Transformation Filter Plugin for Jovie"
+#~ msgstr "Jovie 用汎用 XML 変換フィルタプラグイン"
+
+#~ msgctxt "Name"
+#~ msgid "Jovie"
+#~ msgstr "Jovie"
+
+#~ msgctxt "Comment"
+#~ msgid "KDE Text To Speech Service"
+#~ msgstr "KDE テキスト読み上げサービス"
+
+#~ msgctxt "Name"
+#~ msgid "Text-to-Speech"
+#~ msgstr "テキスト読み上げ"
+
+#~ msgctxt "Comment"
+#~ msgid "Text-to-Speech Control Module"
+#~ msgstr "テキスト読み上げ制御モジュール"
+
+#~ msgctxt "Name"
+#~ msgid "The text-to-speech system seems to be functioning properly."
+#~ msgstr "テキスト読み上げシステムは正しく動作しているようです。"
+
+#~ msgctxt "Name"
+#~ msgid "KMag"
+#~ msgstr "KMag"
+
+#~ msgctxt "GenericName"
+#~ msgid "Screen Magnifier"
+#~ msgstr "画面拡大鏡"
+
+#~ msgctxt "Comment"
+#~ msgid "Clicks the mouse for you, reducing the effects of RSI"
+#~ msgstr ""
+#~ "RSI (反復運動過多損傷) を防ぐために、あなたの代わりにマウスをクリック"
+
+#~ msgctxt "Name"
+#~ msgid "KMouseTool"
+#~ msgstr "KMouseTool"
+
+#~ msgctxt "GenericName"
+#~ msgid "Automatic Mouse Click"
+#~ msgstr "自動マウスクリック"

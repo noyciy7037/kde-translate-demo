@@ -1,0 +1,63 @@
+# SPDX-FileCopyrightText: 2024 Lemon 73
+# SPDX-FileCopyrightText: 2024 Lemon 73
+# SPDX-FileCopyrightText: 2024 Lemon 73
+msgid ""
+msgstr ""
+"Project-Id-Version: planet-kde-org 1.0\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-12-22 09:08+0100\n"
+"PO-Revision-Date: 2024-02-03 09:44+0900\n"
+"Last-Translator: Lemon73 <Lemonade.Flash.1164@gmail.com>\n"
+"Language-Team: Japanese\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+"X-Generator: Lokalize 23.08.4\n"
+
+#. +> trunk5
+#: config.yaml:0
+msgid "Planet KDE"
+msgstr "Planet KDE"
+
+#. +> trunk5
+#: config.yaml:0
+msgid "Planet KDE site providing newest news from the KDE Project"
+msgstr "Planet KDE サイトは KDE Project に関する最新のニュースを提供しています"
+
+#. +> trunk5
+#: config.yaml:0
+msgid "Add your own feed"
+msgstr "あなたの Feed を追加する"
+
+#. welcome
+#. +> trunk5
+#: i18n/en.yaml:2
+msgid "Welcome to Planet KDE"
+msgstr "Planet KDE へようこそ"
+
+#. introduction
+#. +> trunk5
+#: i18n/en.yaml:4
+msgid ""
+"This is a feed aggregator that collects what the contributors to the [KDE "
+"community](https://kde.org) are writing on their respective blogs, in "
+"different languages"
+msgstr ""
+"このフィードリーダーでは [KDE community](https://kde.org) の貢献者が様々な言"
+"語でそれぞれ書いている Blog を集計しています"
+
+#. down-post
+#. +> trunk5
+#: i18n/en.yaml:6
+msgid "Go down one post"
+msgstr "前の記事へ"
+
+#. up-post
+#. +> trunk5
+#: i18n/en.yaml:8
+msgid "Go up one post"
+msgstr "次の記事へ"

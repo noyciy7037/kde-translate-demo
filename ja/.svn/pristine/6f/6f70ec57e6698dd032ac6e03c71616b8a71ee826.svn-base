@@ -1,0 +1,103 @@
+# R.Suga <21r.suga@gmail.com>, 2022.
+# SPDX-FileCopyrightText: 2026 Mint <5602mint@gmail.com>
+msgid ""
+msgstr ""
+"Project-Id-Version: org.kde.kcalc.appdata\n"
+"POT-Creation-Date: 2025-09-11 10:52+0200\n"
+"PO-Revision-Date: 2026-02-21 17:28+0900\n"
+"Last-Translator: Mint <5602mint@gmail.com>\n"
+"Language-Team: Japanese <kde-i18n-doc@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+"X-Generator: Lokalize 25.12.2\n"
+
+#. (itstool) path: component/name
+#. +> trunk6 stable6
+#: org.kde.kcalc.appdata.xml:6
+msgid "KCalc"
+msgstr "KCalc"
+
+#. (itstool) path: component/summary
+#. +> trunk6 stable6
+#: org.kde.kcalc.appdata.xml:7
+msgid "Scientific calculator"
+msgstr "科学電卓"
+
+#. (itstool) path: description/p
+#. +> trunk6 stable6
+#: org.kde.kcalc.appdata.xml:12
+msgid ""
+"KCalc has everything you would expect from a scientific calculator, plus:"
+msgstr "KCalc には、科学電卓に含まれているすべての機能以外にも、"
+
+#. (itstool) path: ul/li
+#. +> trunk6 stable6
+#: org.kde.kcalc.appdata.xml:14
+msgid "Trigonometric functions, logic operations and statistical calculations"
+msgstr "三角関数、論理演算、統計計算"
+
+#. (itstool) path: ul/li
+#. +> trunk6 stable6
+#: org.kde.kcalc.appdata.xml:15
+msgid ""
+"A results stack which enables convenient recall of previous calculation "
+"results"
+msgstr "以前の計算結果の便利な呼び出しを可能にする結果一覧"
+
+#. (itstool) path: ul/li
+#. +> trunk6 stable6
+#: org.kde.kcalc.appdata.xml:16
+msgid "Precision is user-definable"
+msgstr "精度はユーザ定義可能"
+
+#. (itstool) path: ul/li
+#. +> trunk6 stable6
+#: org.kde.kcalc.appdata.xml:17
+msgid "The display allows cut and paste of numbers"
+msgstr "ディスプレイで数字の切り取りと貼り付けが可能です"
+
+#. (itstool) path: ul/li
+#. +> trunk6 stable6
+#: org.kde.kcalc.appdata.xml:18
+msgid "The display colors and font are configurable, aiding usability"
+msgstr "表示色とフォントは変更可能で、使いやすさが向上します"
+
+#. (itstool) path: ul/li
+#. +> trunk6 stable6
+#: org.kde.kcalc.appdata.xml:19
+msgid "The use of key-bindings make it easy to use without a pointing device"
+msgstr ""
+"キーバインディングを使用すると、ポインティングデバイスがなくても簡単に使用で"
+"きます"
+
+#. (itstool) path: screenshot/caption
+#. +> trunk6 stable6
+#: org.kde.kcalc.appdata.xml:29
+msgid "Main window of KCalc"
+msgstr "KCalc のメインウィンドウ"
+
+#. (itstool) path: screenshot/caption
+#. +> trunk6 stable6
+#: org.kde.kcalc.appdata.xml:33
+msgid "KCalc window in numeral system mode"
+msgstr "KCalc の数値システムモードウィンドウ"
+
+#. (itstool) path: screenshot/caption
+#. +> trunk6 stable6
+#: org.kde.kcalc.appdata.xml:37
+msgid "Kcalc window in scientific mode"
+msgstr "Kcalc の科学モードウィンドウ"
+
+#. (itstool) path: screenshot/caption
+#. +> trunk6 stable6
+#: org.kde.kcalc.appdata.xml:41
+msgid "Kcalc window in statistics mode"
+msgstr "Kcalc の統計モードウィンドウ"
+
+#~ msgid "Scientific Calculator"
+#~ msgstr "科学電卓"

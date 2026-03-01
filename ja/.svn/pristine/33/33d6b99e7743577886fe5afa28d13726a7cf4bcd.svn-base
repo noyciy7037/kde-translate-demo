@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-mobile\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2026-01-13 14:38+0100\n"
+"PO-Revision-Date: 2022-06-24 10:36-0700\n"
+"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. +> trunk6 stable6
+#: contents/applet/AppletError.qml:168
+msgid "Copy to Clipboard"
+msgstr ""
+
+#. +> trunk6 stable6
+#: contents/applet/AppletError.qml:191
+msgid "View Error Details…"
+msgstr ""
+
+#. +> trunk6 stable6
+#: contents/applet/CompactApplet.qml:88
+msgid "Open %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: contents/configuration/AppletConfiguration.qml:90
+#, fuzzy
+#| msgid "Configure"
+msgctxt "The title of the applet configuration window"
+msgid "Configure %1"
+msgstr "設定"
+
+#. +> trunk6 stable6 stable5
+#: contents/configuration/ContainmentConfiguration.qml:30
+msgid "Wallpaper"
+msgstr "壁紙"
+
+#. +> stable5
+#: contents/configuration/ContainmentConfiguration.qml:95
+msgid "Change Wallpaper"
+msgstr "壁紙を変更する"
+
+#. +> trunk6 stable6
+#: contents/configuration/ContainmentConfiguration.qml:35
+msgid "Change Homescreen"
+msgstr ""
+
+#. +> stable5
+#: contents/configuration/ContainmentConfiguration.qml:113
+msgid "Configure"
+msgstr "設定"
+
+#. +> trunk6 stable6
+#: contents/configuration/private/ChangeContainmentModule.qml:26
+msgid "Select Homescreen"
+msgstr ""
+
+#. +> trunk6 stable6
+#: contents/configuration/private/ChangeContainmentModule.qml:58
+#, fuzzy
+#| msgid "The homescreen layout to use."
+msgid "Change homescreen to %1?"
+msgstr "ホーム画面のレイアウトで使える"
+
+#. +> trunk6 stable6
+#: contents/configuration/private/ChangeContainmentModule.qml:59
+msgid ""
+"Your current homescreen's settings are saved, and will be restored if you "
+"switch back."
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: contents/configuration/private/ChangeWallpaperModule.qml:48
+msgid "Wallpaper Plugin"
+msgstr "壁紙用プラグイン"
+
+#. +> trunk6 stable6 stable5
+#: contents/configuration/private/ChangeWallpaperModule.qml:49
+msgid "The wallpaper plugin to use."
+msgstr "壁紙のプラグインとして使える"
+
+#. +> trunk6 stable6 stable5
+#: contents/configuration/private/ChangeWallpaperModule.qml:84
+msgid "Wallpaper Plugins"
+msgstr "壁紙用プラグイン"
+
+#. +> trunk6 stable6 stable5
+#: contents/configuration/private/ChangeWallpaperModule.qml:89
+msgid "Get New Plugins…"
+msgstr "新しいプラグインを入手する…"
+
+#. +> trunk6 stable6 stable5
+#: contents/configuration/private/ConfigListPage.qml:44
+msgid "Layout changes have been restricted by the system administrator"
+msgstr "システム管理者によってレイアウトの変更が制限されている場合"
+
+#. +> trunk6 stable6
+#: contents/lockscreen/LockScreenState.qml:31
+msgid "Enter PIN"
+msgstr ""
+
+#. +> trunk6 stable6
+#: contents/lockscreen/LockScreenState.qml:32
+msgid "Wrong PIN"
+msgstr ""
+
+#. +> trunk6 stable6
+#: contents/views/Panel.qml:318
+msgid "Panel Focus Indicator"
+msgstr ""
+
+#. +> stable5
+#: contents/configuration/ConfigurationContainmentAppearance.qml:65
+msgid "General"
+msgstr "概要"
+
+#. +> stable5
+#: contents/configuration/ConfigurationContainmentAppearance.qml:71
+msgid "Homescreen Layout"
+msgstr "ホーム画面のレイアウト"
+
+#. +> stable5
+#: contents/configuration/ConfigurationContainmentAppearance.qml:72
+msgid "The homescreen layout to use."
+msgstr "ホーム画面のレイアウトで使える"
+
+#. +> stable5
+#: contents/configuration/ConfigurationContainmentAppearance.qml:154
+msgid "Layout changes must be applied before other changes can be made"
+msgstr "レイアウトの変更は他の変更の前に行う必要があります"
+
+#. +> stable5
+#: contents/configuration/ConfigurationContainmentAppearance.qml:160
+msgid "Apply now"
+msgstr "決定する"
