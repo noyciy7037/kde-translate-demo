@@ -1,0 +1,2 @@
+[[paths]]
+    l10n = "{locale}/**/*.po"
