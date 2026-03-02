@@ -1,0 +1,317 @@
+# Tomohiro Hyakutake <tomhioo@outlook.jp>, 2019.
+# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2019.
+# SPDX-FileCopyrightText: 2024 Ryuichi Yamada <ryuichi_ya220@outlook.jp>
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-09-09 08:59+0200\n"
+"PO-Revision-Date: 2024-01-09 18:51+0900\n"
+"Last-Translator: Ryuichi Yamada <ryuichi_ya220@outlook.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: \n"
+"X-Text-Markup: \n"
+"X-Generator: Lokalize 23.08.4\n"
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:3
+msgctxt "Name"
+msgid "Network Management"
+msgstr "ネットワーク管理"
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:52
+msgctxt "Comment"
+msgid "Network management"
+msgstr "ネットワーク管理"
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:112
+msgctxt "Name"
+msgid "Connection Activated"
+msgstr "接続が有効化されました"
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:165
+msgctxt "Name"
+msgid "Connection Deactivated"
+msgstr "接続が無効化されました"
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:218
+msgctxt "Name"
+msgid "Connection Added"
+msgstr "接続が追加されました"
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:270
+msgctxt "Name"
+msgid "Connection Removed"
+msgstr "接続が削除されました"
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:322
+msgctxt "Name"
+msgid "Connection Updated"
+msgstr "接続が更新されました"
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:374
+msgctxt "Name"
+msgid "Device Failed"
+msgstr "デバイスが機能していません"
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:427
+msgctxt "Name"
+msgid "Failed to Activate Connection"
+msgstr "接続の有効化に失敗しました"
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:479
+msgctxt "Name"
+msgid "Failed to Add Connection"
+msgstr "接続の追加に失敗しました"
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:531
+msgctxt "Name"
+msgid "Failed to Deactivate Connection"
+msgstr "接続の無効化に失敗しました"
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:583
+msgctxt "Name"
+msgid "Failed to Remove Connection"
+msgstr "接続の削除に失敗しました"
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:635
+msgctxt "Name"
+msgid "Failed to Get Secrets"
+msgstr "シークレットの取得に失敗しました"
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:687
+msgctxt "Name"
+msgid "Failed to Update Connection"
+msgstr "接続の更新に失敗しました"
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:739
+msgctxt "Name"
+msgid "Missing VPN Plugin"
+msgstr "VPN プラグインがありません"
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:791
+msgctxt "Name"
+msgid "No Longer Connected to a Network"
+msgstr "ネットワークに接続されていません"
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:843
+msgctxt "Name"
+msgid "Captive Portal Detected"
+msgstr "キャプティブポータルが検出されました"
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:895
+msgctxt "Name"
+msgid "Limited Connectivity"
+msgstr "限られた接続性"
+
+#. +> trunk6 stable6 stable5
+#: kded/networkmanagement.notifyrc:949
+msgctxt "Name"
+msgid "Failed to Create Hotspot"
+msgstr "ホットスポットの作成に失敗しました"
+
+#. +> trunk6 stable6
+#: org.kde.vpnimport.desktop:3
+msgctxt "Name"
+msgid "VPN Importer"
+msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Networks"
+#~ msgstr "ネットワーク"
+
+#~ msgctxt "Comment"
+#~ msgid "Network status and control"
+#~ msgstr "ネットワークの状態と管理"
+
+#~ msgctxt "Name"
+#~ msgid "Connections"
+#~ msgstr "接続"
+
+#~ msgctxt "Comment"
+#~ msgid "Edit your Network Connections"
+#~ msgstr "ネットワーク接続を編集"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Plasma Network Management module"
+#~ msgstr "ネットワーク管理"
+
+#~ msgctxt "Name"
+#~ msgid "Layer 2 Tunneling Protocol (L2TP)"
+#~ msgstr "レイヤ2トンネリングプロトコル(L2TP)"
+
+#~ msgctxt "Comment"
+#~ msgid "Compatible with L2TP VPN servers"
+#~ msgstr "L2TP VPN サーバに対応"
+
+#~ msgctxt "Name"
+#~ msgid "Cisco AnyConnect Compatible VPN (openconnect)"
+#~ msgstr "Cisco AnyConnect 互換の VPN (openconnect)"
+
+#~ msgctxt "Comment"
+#~ msgid "Compatible with Cisco AnyConnect SSL VPN"
+#~ msgstr "Cisco AnyConnect SSL VPN に対応"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "Compatible with PAN GlobalProtect SSL VPN"
+#~ msgstr "Cisco AnyConnect SSL VPN に対応"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Compatible with Cisco AnyConnect SSL VPN"
+#~ msgctxt "Comment"
+#~ msgid "Compatible with Juniper Network Connect"
+#~ msgstr "Cisco AnyConnect SSL VPN に対応"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Cisco AnyConnect Compatible VPN (openconnect)"
+#~ msgctxt "Name"
+#~ msgid "Pulse Connect Secure (openconnect)"
+#~ msgstr "Cisco AnyConnect 互換の VPN (openconnect)"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Compatible with Cisco AnyConnect SSL VPN"
+#~ msgctxt "Comment"
+#~ msgid "Compatible with Pulse Connect Secure SSL VPN"
+#~ msgstr "Cisco AnyConnect SSL VPN に対応"
+
+#~ msgctxt "Name"
+#~ msgid "IPsec based VPN (openswan)"
+#~ msgstr "IPsec ベースの VPN (openswan)"
+
+#~ msgctxt "Comment"
+#~ msgid "IPsec, IKEv1, IKEv2 based VPN"
+#~ msgstr "IPsec, IKEv1, IKEv2 ベースの VPN"
+
+#~ msgctxt "Name"
+#~ msgid "OpenVPN"
+#~ msgstr "OpenVPN"
+
+#~ msgctxt "Comment"
+#~ msgid "Compatible with the OpenVPN server"
+#~ msgstr "OpenVPN サーバに対応"
+
+#~ msgctxt "Comment"
+#~ msgid "Compatible with Microsoft and other PPTP VPN servers"
+#~ msgstr "Microsoft と他の PPTP VPN サーバに対応"
+
+#~ msgctxt "Name"
+#~ msgid "SSH"
+#~ msgstr "SSH"
+
+#~ msgctxt "Comment"
+#~ msgid "Compatible with the SSH server"
+#~ msgstr "SSH サーバに対応"
+
+#~ msgctxt "Name"
+#~ msgid "Secure Socket Tunneling Protocol (SSTP)"
+#~ msgstr "セキュアソケット トンネリングプロトコル (SSTP)"
+
+#~ msgctxt "Comment"
+#~ msgid "Compatible with Microsoft and other SSTP VPN servers"
+#~ msgstr "Microsoft と他の SSTP VPN サーバに対応"
+
+#~ msgctxt "Name"
+#~ msgid "IPsec based VPN (strongswan)"
+#~ msgstr "IPsec ベースの VPN (strongswan)"
+
+#~ msgctxt "Name"
+#~ msgid "Cisco Compatible VPN (vpnc)"
+#~ msgstr "Cisco 互換 VPN (vpnc)"
+
+#~ msgctxt "Name"
+#~ msgid "Network management"
+#~ msgstr "ネットワーク管理"
+
+#~ msgctxt "Name"
+#~ msgid "Connection activated"
+#~ msgstr "接続が有効化されました"
+
+#~ msgctxt "Name"
+#~ msgid "Connection deactivated"
+#~ msgstr "接続が無効化されました"
+
+#~ msgctxt "Name"
+#~ msgid "Connection added"
+#~ msgstr "接続が追加されました"
+
+#~ msgctxt "Name"
+#~ msgid "Connection removed"
+#~ msgstr "接続が削除されました"
+
+#~ msgctxt "Name"
+#~ msgid "Connection updated"
+#~ msgstr "接続が更新されました"
+
+#~ msgctxt "Name"
+#~ msgid "Failed to add connection"
+#~ msgstr "接続の追加に失敗しました"
+
+#~ msgctxt "Name"
+#~ msgid "Failed to activate connection"
+#~ msgstr "接続の有効化に失敗しました"
+
+#~ msgctxt "Name"
+#~ msgid "Failed to deactivate connection"
+#~ msgstr "接続の無効化に失敗しました"
+
+#~ msgctxt "Name"
+#~ msgid "Failed to remove connection"
+#~ msgstr "接続の削除に失敗しました"
+
+#~ msgctxt "Name"
+#~ msgid "Failed to get secrets"
+#~ msgstr "シークレットの取得に失敗しました"
+
+#~ msgctxt "Name"
+#~ msgid "Failed to update connection"
+#~ msgstr "接続の更新に失敗しました"
+
+#~ msgctxt "Name"
+#~ msgid "Missing VPN plugin"
+#~ msgstr "VPN プラグインがありません"
+
+#~ msgctxt "Name"
+#~ msgid "No longer connected to a network"
+#~ msgstr "ネットワークに接続できません"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Failed to activate connection"
+#~ msgctxt "Name"
+#~ msgid "Failed to create hotspot"
+#~ msgstr "接続の有効化に失敗しました"
+
+#~ msgctxt "Name"
+#~ msgid "WireGuard based VPN"
+#~ msgstr "WireGuard ベースの VPN"
+
+#~ msgctxt "Comment"
+#~ msgid "Compatible with WireGuard VPN servers"
+#~ msgstr "WireGuard VPN サーバに対応"

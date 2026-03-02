@@ -1,0 +1,4139 @@
+# Translation of libmessageviewer into Japanese.
+# This file is distributed under the same license as the kdepim package.
+# Noboru Sinohara <shinobo@leo.bekkoame.ne.jp>, 2002, 2004.
+# Taiki Komoda <kom@kde.gr.jp>, 2004.
+# Tadashi Jokagi <elf2000@users.sourceforge.net>, 2004, 2005.
+# Shinichi Tsunoda <tsuno@ngy.1st.ne.jp>, 2005.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2006, 2007, 2008, 2009, 2010.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2006, 2007, 2011, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: libmessageviewer\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2026-02-19 10:18+0100\n"
+"PO-Revision-Date: 2012-01-28 16:35-0800\n"
+"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimcheckfulljob.cpp:118
+#, kde-format
+msgid ""
+"Stored DKIM key is different from the current one. Do you want to store this "
+"one too?"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimcheckfulljob.cpp:119
+#, kde-format
+msgctxt "@title:window"
+msgid "Key Changed"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimcheckfulljob.cpp:120
+#, fuzzy, kde-format
+#| msgid "stored: "
+msgctxt "@action:button"
+msgid "Store"
+msgstr "保存された値: "
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerkeymodel.cpp:81
+#, kde-format
+msgid "DKIM Key"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerkeymodel.cpp:83
+#, kde-format
+msgid "Selector"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerkeymodel.cpp:85
+#: dkim-verify/dkimmanageruleswidget.cpp:75
+#, kde-format
+msgid "SDID"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerkeymodel.cpp:87
+#, kde-format
+msgid "Inserted"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerkeymodel.cpp:89
+#, kde-format
+msgid "Last Used"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerkeytreeview.cpp:73
+#, fuzzy, kde-format
+#| msgid "Copy"
+msgid "Copy Key"
+msgstr "コピー"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerkeytreeview.cpp:79
+#, kde-format
+msgid "Remove Key"
+msgid_plural "Remove Keys"
+msgstr[0] ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerkeytreeview.cpp:81
+#, kde-format
+msgid "Do you want to delete this key?"
+msgid_plural "Do you want to delete these keys?"
+msgstr[0] ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerkeytreeview.cpp:82
+#, fuzzy, kde-format
+#| msgid "Delete Attachment"
+msgid "Delete Key"
+msgid_plural "Delete Keys"
+msgstr[0] "添付ファイルを削除"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerkeytreeview.cpp:92
+#: dkim-verify/dkimmanageruleswidget.cpp:225
+#, fuzzy, kde-format
+#| msgid "Delete Attachment"
+msgid "Delete All"
+msgstr "添付ファイルを削除"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerkeytreeview.cpp:94
+#, kde-format
+msgid "Do you want to delete all keys?"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerkeytreeview.cpp:95
+#, fuzzy, kde-format
+#| msgid "Delete Attachment"
+msgctxt "@title:window"
+msgid "Delete Keys"
+msgstr "添付ファイルを削除"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerkeywidget.cpp:33
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Search..."
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerulescombobox.cpp:20
+#, kde-format
+msgid "Must be signed"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerulescombobox.cpp:21
+#, kde-format
+msgid "Can be signed"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerulescombobox.cpp:22
+#, kde-format
+msgid "Ignore if not signed"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerulesdialog.cpp:29
+#, fuzzy, kde-format
+#| msgid "&Import"
+msgctxt "@action:button"
+msgid "Export..."
+msgstr "インポート(&I)"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerulesdialog.cpp:31
+#, fuzzy, kde-format
+#| msgctxt "View->headers->"
+#| msgid "&Long Headers"
+msgctxt "@title:window"
+msgid "Configure Rule"
+msgstr "長いヘッダ(&L)"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerulesdialog.cpp:42
+#, kde-format
+msgctxt "@action:button"
+msgid "Add Rule..."
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerulesdialog.cpp:47
+#, fuzzy, kde-format
+#| msgid "&Import"
+msgctxt "@action:button"
+msgid "Import..."
+msgstr "インポート(&I)"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerulesdialog.cpp:79
+#, fuzzy, kde-format
+#| msgid "No signature found"
+msgid "No rules found"
+msgstr "署名が見つかりません"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerulesdialog.cpp:79
+#: dkim-verify/dkimmanagerulesdialog.cpp:82
+#, fuzzy, kde-format
+#| msgid "&Import"
+msgctxt "@title:window"
+msgid "Export Rules"
+msgstr "インポート(&I)"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerulesdialog.cpp:90
+#: dkim-verify/dkimmanagerulesdialog.cpp:93
+#, fuzzy, kde-format
+#| msgid "&Import"
+msgctxt "@title:window"
+msgid "Import Rules"
+msgstr "インポート(&I)"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanagerulesdialog.cpp:93
+#, kde-format
+msgid "No rules imported."
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanageruleswidget.cpp:75
+#: remote-content/remotecontentconfigurewidget.cpp:54
+#, kde-format
+msgid "Domain"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanageruleswidget.cpp:75
+#, kde-format
+msgid "Active"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanageruleswidget.cpp:75
+#, kde-format
+msgid "List-ID"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanageruleswidget.cpp:75
+#, fuzzy, kde-format
+#| msgid "From: "
+msgid "From"
+msgstr "差出人: "
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanageruleswidget.cpp:75
+#, kde-format
+msgid "Rule type"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanageruleswidget.cpp:75
+#, kde-format
+msgid "Priority"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanageruleswidget.cpp:198
+#: remote-content/remotecontentconfigurewidget.cpp:82
+#, kde-format
+msgid "Add..."
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanageruleswidget.cpp:203
+#: remote-content/remotecontentconfigurewidget.cpp:85
+#, kde-format
+msgid "Modify..."
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanageruleswidget.cpp:207
+#, fuzzy, kde-format
+#| msgid "Delete Attachment"
+msgid "Duplicate Rule"
+msgstr "添付ファイルを削除"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanageruleswidget.cpp:211
+#: remote-content/remotecontentconfigurewidget.cpp:89
+#, fuzzy, kde-format
+#| msgid "Delete Attachment"
+msgid "Remove Rule"
+msgstr "添付ファイルを削除"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanageruleswidget.cpp:213
+#, kde-format
+msgid "Do you want to delete this rule?"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanageruleswidget.cpp:214
+#: remote-content/remotecontentconfigurewidget.cpp:92
+#, fuzzy, kde-format
+#| msgid "Delete Attachment"
+msgctxt "@title:window"
+msgid "Delete Rule"
+msgstr "添付ファイルを削除"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanageruleswidget.cpp:227
+#, kde-format
+msgid "Do you want to delete all the rules?"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimmanageruleswidget.cpp:228
+#, fuzzy, kde-format
+#| msgid "Delete Attachment"
+msgctxt "@title:window"
+msgid "Delete Rules"
+msgstr "添付ファイルを削除"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimruledialog.cpp:26
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Rule"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimruledialog.cpp:73
+#, kde-format
+msgctxt "@title:window"
+msgid "Modify Rule"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimrulewidget.cpp:20
+#, kde-format
+msgctxt "@option:check"
+msgid "Enabled"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimrulewidget.cpp:38
+#, kde-format
+msgid "Domain:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimrulewidget.cpp:43 header/grantleeheaderformatter.cpp:184
+#, kde-format
+msgid "List-Id:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimrulewidget.cpp:47 header/grantleeheaderformatter.cpp:271
+#, fuzzy, kde-format
+#| msgid "From: "
+msgid "From:"
+msgstr "差出人: "
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimrulewidget.cpp:48
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Use '*' to specify all emails from domain"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimrulewidget.cpp:53
+#, kde-format
+msgid "SDID:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimrulewidget.cpp:56
+#, kde-format
+msgid "Rule:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimrulewidget.cpp:62
+#, kde-format
+msgid "Priority:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimviewermenu.cpp:14
+#, kde-format
+msgid "DKIM"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimviewermenu.cpp:36
+#, fuzzy, kde-format
+#| msgid "Keep Signature"
+msgid "Recheck DKIM Signature"
+msgstr "署名を保持"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimviewermenu.cpp:39
+#, kde-format
+msgid "Update DKIM key"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimviewermenu.cpp:43
+#, kde-format
+msgid "Rules..."
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:96
+#, fuzzy, kde-format
+#| msgctxt "Unknown date"
+#| msgid "Unknown"
+msgid "Unknown"
+msgstr "不明"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:102
+#, fuzzy, kde-format
+#| msgid "Message was signed by %1."
+msgid "DKIM: valid (signed by %1)"
+msgstr "メッセージは %1 によって署名されています。"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:109
+#, kde-format
+msgid "DKIM: invalid"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:112
+#, kde-format
+msgid "DKIM: Not signed"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:117
+#, kde-format
+msgid "DKIM: Should Be Signed by %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:133
+#, kde-format
+msgid "Body Hash was corrupted."
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:136
+#, kde-format
+msgid "The domain doesn't exist."
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:139
+#, kde-format
+msgid "Missing header From."
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:142
+#, fuzzy, kde-format
+#| msgid "Good signature."
+msgid "Missing signature."
+msgstr "有効な署名です。"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:145
+#, fuzzy, kde-format
+#| msgid "Invalid signature."
+msgid "Invalid query method."
+msgstr "無効な署名です。"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:148
+#, kde-format
+msgid "Invalid header canonicalization."
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:151
+#, kde-format
+msgid "Invalid body canonicalization."
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:154
+#, kde-format
+msgid "Unknown Body Hash Algorithm."
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:157
+#, fuzzy, kde-format
+#| msgid "Signature is valid."
+msgid "Signature algorithm is invalid."
+msgstr "署名は有効です。"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:160
+#, fuzzy, kde-format
+#| msgid "One key has been revoked."
+msgid "The public key was revoked."
+msgstr "一つの鍵が破棄されています。"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:163
+#, fuzzy, kde-format
+#| msgid "Signature is valid."
+msgid "Signature is too large."
+msgstr "署名は有効です。"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:166
+#, kde-format
+msgid "Hash Algorithm is unsupported."
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:169
+#, kde-format
+msgid "Public key is too small."
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:172
+#, fuzzy, kde-format
+#| msgid "No public key to verify the signature"
+msgid "Impossible to verify signature."
+msgstr "この署名を検証するための公開鍵がありません"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:175
+#, kde-format
+msgid "AUID must be in the same domain as SDID (s-flag set in key record)."
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:178
+#, kde-format
+msgid "The signing domain is only testing DKIM."
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:181
+#, fuzzy, kde-format
+#| msgid "No public key to verify the signature"
+msgid "Impossible to download key."
+msgstr "この署名を検証するための公開鍵がありません"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:184 dkim-verify/dkimwidgetinfo.cpp:208
+#, kde-format
+msgid "Hash Algorithm unsafe (sha1)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:187
+#, kde-format
+msgid "AUID is not in a subdomain of SDID"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:190
+#, kde-format
+msgid "Problem during converting public key"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:199
+#, fuzzy, kde-format
+#| msgid "The signature has expired."
+msgid "Signature expired"
+msgstr "署名は失効しています。"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:202
+#, kde-format
+msgid "Signature created in the future"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:205
+#, fuzzy, kde-format
+#| msgid "Signature is valid."
+msgid "Signature too small"
+msgstr "署名は有効です。"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:211
+#, fuzzy, kde-format
+#| msgid "Signature is valid."
+msgid "Public Key too small"
+msgstr "署名は有効です。"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:234 dkim-verify/dkimwidgetinfo.cpp:282
+#, kde-format
+msgctxt "method name: info about it from parsing"
+msgid "%1: %2"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:259
+#, kde-format
+msgid "%1: None"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:274
+#, fuzzy, kde-format
+#| msgid "Message was signed by %1."
+msgid "%1: Valid (Signed by %2)"
+msgstr "メッセージは %1 によって署名されています。"
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:296
+#, kde-format
+msgid "%1: Valid"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dkim-verify/dkimwidgetinfo.cpp:310
+#, kde-format
+msgid "Not Signed"
+msgstr ""
+
+#. +> trunk6 stable6
+#: header/grantleeheaderformatter.cpp:204
+#, fuzzy, kde-format
+#| msgid "No Subject"
+msgid "Subject:"
+msgstr "件名なし"
+
+#. +> trunk6 stable6
+#: header/grantleeheaderformatter.cpp:224
+#, fuzzy, kde-format
+#| msgid "Date: "
+msgid "Date:"
+msgstr "日付: "
+
+#. +> trunk6 stable6
+#: header/grantleeheaderformatter.cpp:239
+#, fuzzy, kde-format
+#| msgid "&Save message"
+msgid "Message-Id:"
+msgstr "メッセージを保存(&S)"
+
+#. +> trunk6 stable6
+#: header/grantleeheaderformatter.cpp:263
+#, fuzzy, kde-format
+#| msgid "To: "
+msgid "To:"
+msgstr "宛先: "
+
+#. +> trunk6 stable6
+#: header/grantleeheaderformatter.cpp:265
+#, fuzzy, kde-format
+#| msgid "Reply to: "
+msgid "Reply To:"
+msgstr "返信先: "
+
+#. +> trunk6 stable6
+#: header/grantleeheaderformatter.cpp:267
+#, fuzzy, kde-format
+#| msgid "CC: "
+msgid "CC:"
+msgstr "CC: "
+
+#. +> trunk6 stable6
+#: header/grantleeheaderformatter.cpp:269
+#, fuzzy, kde-format
+#| msgid "BCC: "
+msgid "BCC:"
+msgstr "BCC: "
+
+#. +> trunk6 stable6
+#: header/grantleeheaderformatter.cpp:273
+#, fuzzy, kde-format
+#| msgid "sender: "
+msgid "Sender:"
+msgstr "送信者: "
+
+#. +> trunk6 stable6
+#: header/grantleeheaderformatter.cpp:275
+#, fuzzy, kde-format
+#| msgid "(resent from %1)"
+msgid "resent from:"
+msgstr "(%1 から再送)"
+
+#. +> trunk6 stable6
+#: header/grantleeheaderformatter.cpp:277
+#, fuzzy, kde-format
+#| msgid "(resent from %1)"
+msgid "resent to:"
+msgstr "(%1 から再送)"
+
+#. +> trunk6 stable6
+#: header/grantleeheaderformatter.cpp:358
+#, kde-format
+msgid "Grantlee theme \"%1\" is not valid."
+msgstr ""
+
+#. +> trunk6 stable6
+#: header/grantleeheaderformatter.cpp:448 header/headerstyle_util.cpp:82
+#: header/headerstyle_util.cpp:87 header/headerstyle_util.cpp:98
+#, kde-format
+msgid "No Subject"
+msgstr "件名なし"
+
+#. +> trunk6 stable6
+#: header/grantleeheaderformatter.cpp:453
+#, kde-format
+msgid "Spam Status:"
+msgstr "スパムの状態:"
+
+#. +> trunk6 stable6
+#: header/grantleeheaderformatter.cpp:465
+#, kde-format
+msgid "Printing mode"
+msgstr ""
+
+#. +> trunk6 stable6
+#: header/grantleeheaderformatter.cpp:507
+#, fuzzy, kde-format
+#| msgid "[vCard]"
+msgid "[vcard]"
+msgstr "[vCard]"
+
+#. +> trunk6 stable6
+#: header/grantleeheaderformatter.cpp:514
+#, kde-format
+msgid "Attachments:"
+msgstr "添付ファイル:"
+
+#. +> trunk6 stable6
+#: header/grantleeheaderformatter.cpp:540
+#, kde-format
+msgid "Security:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: header/headerstyle_util.cpp:57
+#, kde-format
+msgctxt "Unknown date"
+msgid "Unknown"
+msgstr "不明"
+
+#. +> trunk6 stable6
+#: header/headerstyle_util.cpp:146
+#, kde-format
+msgid ""
+"%1% probability of being spam with confidence %3%.\n"
+"\n"
+"Full report:\n"
+"Probability=%2\n"
+"Confidence=%4"
+msgstr ""
+"%3% の確かさでスパムである可能性は %1% です。\n"
+"\n"
+"詳細レポート:\n"
+"可能性=%2\n"
+"確かさ=%4"
+
+#. +> trunk6 stable6
+#: header/headerstyle_util.cpp:155
+#, kde-format
+msgid ""
+"%1% probability of being spam.\n"
+"\n"
+"Full report:\n"
+"Probability=%2"
+msgstr ""
+"スパムである可能性は %1% です。\n"
+"\n"
+"詳細レポート:\n"
+"可能性=%2"
+
+#. +> trunk6 stable6
+#: header/headerstyle_util.cpp:164
+#, kde-format
+msgid "No Spam agent"
+msgstr ""
+
+#. +> trunk6 stable6
+#: header/headerstyle_util.cpp:167
+#, kde-format
+msgid "Spam filter score not a number"
+msgstr ""
+
+#. +> trunk6 stable6
+#: header/headerstyle_util.cpp:170
+#, kde-format
+msgid "Threshold not a valid number"
+msgstr ""
+
+#. +> trunk6 stable6
+#: header/headerstyle_util.cpp:173
+#, kde-format
+msgid "Spam filter score could not be extracted from header"
+msgstr ""
+
+#. +> trunk6 stable6
+#: header/headerstyle_util.cpp:176
+#, kde-format
+msgid "Threshold could not be extracted from header"
+msgstr ""
+
+#. +> trunk6 stable6
+#: header/headerstyle_util.cpp:179
+#, kde-format
+msgid "Error evaluating spam score"
+msgstr ""
+
+#. +> trunk6 stable6
+#: header/headerstyle_util.cpp:184
+#, kde-format
+msgid ""
+"%1.\n"
+"\n"
+"Full report:\n"
+"%2"
+msgstr ""
+"%1\n"
+"\n"
+"詳細レポート:\n"
+"%2"
+
+#. +> trunk6 stable6
+#: header/headerstylemenumanager.cpp:105
+#, kde-format
+msgctxt "View->"
+msgid "&Headers"
+msgstr "ヘッダ(&H)"
+
+#. +> trunk6 stable6
+#: header/headerstylemenumanager.cpp:109
+#, kde-format
+msgid "Choose display style of message headers"
+msgstr "メッセージヘッダの表示スタイルを選択"
+
+#. +> trunk6 stable6
+#: header/plainheaderstyle.cpp:104
+#, kde-format
+msgid "Date: "
+msgstr "日付: "
+
+#. +> trunk6 stable6
+#: header/plainheaderstyle.cpp:108
+#, kde-format
+msgid "From: "
+msgstr "差出人: "
+
+#. +> trunk6 stable6
+#: header/plainheaderstyle.cpp:110
+#, kde-format
+msgid "[vCard]"
+msgstr "[vCard]"
+
+#. +> trunk6 stable6
+#: header/plainheaderstyle.cpp:122
+#, kde-format
+msgctxt "To-field of the mailheader."
+msgid "To: "
+msgstr "宛先: "
+
+#. +> trunk6 stable6
+#: header/plainheaderstyle.cpp:129
+#, kde-format
+msgid "CC: "
+msgstr "CC: "
+
+#. +> trunk6 stable6
+#: header/plainheaderstyle.cpp:136
+#, kde-format
+msgid "BCC: "
+msgstr "BCC: "
+
+#. +> trunk6 stable6
+#: header/plainheaderstyle.cpp:141
+#, kde-format
+msgid "Reply to: "
+msgstr "返信先: "
+
+#. +> trunk6 stable6
+#: mdn/mdnwarningwidget.cpp:14
+#, kde-format
+msgctxt "@action"
+msgid "Ignore"
+msgstr ""
+
+#. +> trunk6 stable6
+#: mdn/mdnwarningwidget.cpp:15
+#, fuzzy, kde-format
+#| msgid "sender: "
+msgctxt "@action"
+msgid "Send"
+msgstr "送信者: "
+
+#. +> trunk6 stable6
+#: mdn/mdnwarningwidget.cpp:16
+#, fuzzy, kde-format
+#| msgid "sender: "
+msgctxt "@action"
+msgid "Send Deny"
+msgstr "送信者: "
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/certmessagepart.html:2
+#, fuzzy
+#| msgid "Sorry, certificate could not be imported.<br />Reason: %1"
+msgid "Sorry, certificate could not be imported."
+msgstr "<qt>証明書をインポートできませんでした。<br />理由: %1</qt>"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/certmessagepart.html:4
+#, kde-format
+msgid "Reason: %1"
+msgstr "理由: %1"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/certmessagepart.html:7
+msgid "Sorry, no certificates were found in this message."
+msgstr "このメッセージには証明書が見つかりませんでした。"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/certmessagepart.html:9
+msgid "Certificate import status:"
+msgstr "証明書インポートの結果:"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/certmessagepart.html:13
+#, kde-format
+msgid "1 new certificate was imported."
+msgid_plural "%1 new certificates were imported."
+msgstr[0] "%1 個の新しい証明書をインポートしました。"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/certmessagepart.html:16
+#, kde-format
+msgid "1 certificate was unchanged."
+msgid_plural "%1 certificates were unchanged."
+msgstr[0] "%1 個の証明書は変更されていません。"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/certmessagepart.html:19
+#, kde-format
+msgid "1 new secret key was imported."
+msgid_plural "%1 new secret keys were imported."
+msgstr[0] "%1 個の新しい秘密鍵をインポートしました。"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/certmessagepart.html:22
+#, kde-format
+msgid "1 secret key was unchanged."
+msgid_plural "%1 secret keys were unchanged."
+msgstr[0] "%1 個の秘密鍵は変更されていません。"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/certmessagepart.html:28
+msgid "Sorry, no details on certificate import available."
+msgstr "証明書インポートの詳細を入手できません。"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/certmessagepart.html:30
+msgid "Certificate import details:"
+msgstr "証明書インポートの詳細:"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/certmessagepart.html:34
+#, kde-format
+msgctxt "Certificate import failed."
+msgid "Failed: %1 (%2)"
+msgstr "失敗しました: %1 (%2)"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/encapsulatedrfc822messagepart.html:5
+#: messagepartthemes/default/templates/encapsulatedrfc822messagepart.html:7
+msgid "Encapsulated message"
+msgstr "封入されたメッセージ"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/encapsulatedrfc822messagepart.html:19
+msgid "End of encapsulated message"
+msgstr "封入されたメッセージの末尾"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/encryptedmessagepart.html:3
+msgid "This message is encrypted."
+msgstr "このメッセージは暗号化されています。"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/encryptedmessagepart.html:7
+msgid "Decrypt Message"
+msgstr "メッセージを復号"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/encryptedmessagepart.html:14
+msgid "Please wait while the message is being decrypted..."
+msgstr "メッセージを復号します。お待ちください。"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/encryptedmessagepart.html:18
+#, fuzzy
+#| msgid "This message is encrypted."
+msgid "The message is encrypted for the following keys:"
+msgstr "このメッセージは暗号化されています。"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/encryptedmessagepart.html:20
+msgid "Hide Details"
+msgstr "詳細を隠す"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/encryptedmessagepart.html:27
+#: messagepartthemes/default/templates/encryptedmessagepart.html:69
+#, fuzzy
+#| msgctxt "Status of message unknown."
+#| msgid "(unknown)"
+msgid "unknown key"
+msgstr "(不明)"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/encryptedmessagepart.html:32
+#, kde-format
+msgctxt "Compliance: status/type of compliance"
+msgid "Compliance: %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/encryptedmessagepart.html:38
+#, fuzzy, kde-format
+#| msgid "Encrypted message"
+msgctxt "Encrypted message (status/type of compliance)"
+msgid "Encrypted message (%1)"
+msgstr "暗号化されたメッセージ"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/encryptedmessagepart.html:40
+msgid "Encrypted message"
+msgstr "暗号化されたメッセージ"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/encryptedmessagepart.html:43
+msgid "Show Details"
+msgstr "詳細を表示"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/encryptedmessagepart.html:48
+msgid "Encrypted message (decryption not possible)"
+msgstr "暗号化されたメッセージ (復号できません)"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/encryptedmessagepart.html:51
+#, fuzzy
+#| msgid "Reason: %1"
+msgid "Reason: "
+msgstr "理由: %1"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/encryptedmessagepart.html:63
+msgid ""
+"No secret key found to decrypt the message. The message is encrypted for the "
+"following keys:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/encryptedmessagepart.html:74
+msgid "Could not decrypt the data."
+msgstr "データを復号できませんでした。"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/encryptedmessagepart.html:81
+msgid "End of encrypted message"
+msgstr "暗号化されたメッセージの末尾"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/htmlmessagepart.html:6
+#, fuzzy
+#| msgid ""
+#| "<b>Note:</b> This is an HTML message. For security reasons, only the raw "
+#| "HTML code is shown. If you trust the sender of this message then you can "
+#| "activate formatted HTML display for this message <a "
+#| "href=\"kmail:showHTML\">by clicking here</a>."
+msgid ""
+"<b>Note:</b> This is an HTML message. For security reasons, only the raw "
+"HTML code is shown. If you trust the sender of this message then you can "
+"activate formatted HTML display for this message <a href='kmail:showHTML'>by "
+"clicking here</a>."
+msgstr ""
+"<qt>【注意】 これは HTML メッセージです。セキュリティ上の理由で、生の HTML "
+"コードで表示しています。このメッセージの送信者を信頼する場合は、<a "
+"href=\"kmail:showHTML\">ここをクリック</a>すると HTML 形式で表示できます。</"
+"qt>"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/htmlmessagepart.html:12
+#, fuzzy
+#| msgid ""
+#| "<b>Note:</b> This HTML message may contain external references to images "
+#| "etc. For security/privacy reasons external references are not loaded. If "
+#| "you trust the sender of this message then you can load the external "
+#| "references for this message <a href=\"kmail:loadExternal\">by clicking "
+#| "here</a>."
+msgid ""
+"<b>Note:</b> This HTML message may contain external references to images "
+"etc. For security/privacy reasons external references are not loaded. If you "
+"trust the sender of this message then you can load the external references "
+"for this message <a href='kmail:loadExternal'>by clicking here</a>."
+msgstr ""
+"<qt>【注意】 この HTML メッセージには画像などへの外部参照が含まれている可能性"
+"があります。セキュリティ/プライバシー上の理由で、外部への参照はロードしませ"
+"ん。このメッセージの送信者を信頼する場合は、<a href=\"kmail:loadExternal\">こ"
+"こをクリック</a>すると外部参照をロードできます。</qt>"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/signedmessagepart.html:5
+msgid "Please wait while the signature is being verified..."
+msgstr "署名を検証します。お待ちください。"
+
+#. +> trunk6 stable6
+#: messagepartthemes/default/templates/signedmessagepart.html:17
+msgid "End of signed message"
+msgstr "署名付きメッセージの末尾"
+
+#. +> trunk6 stable6
+#: remote-content/remotecontentconfiguredialog.cpp:27
+#, fuzzy, kde-format
+#| msgctxt "View->headers->"
+#| msgid "&Long Headers"
+msgctxt "@title:window"
+msgid "Configure Remote Content"
+msgstr "長いヘッダ(&L)"
+
+#. +> trunk6 stable6
+#: remote-content/remotecontentconfigurewidget.cpp:54
+#, fuzzy, kde-format
+#| msgid "Status: "
+msgid "Status"
+msgstr "状態: "
+
+#. +> trunk6 stable6
+#: remote-content/remotecontentconfigurewidget.cpp:91
+#, kde-format
+msgid "Do you want to delete this rule '%1'?"
+msgstr ""
+
+#. +> trunk6 stable6
+#: remote-content/remotecontentconfigurewidget.cpp:109
+#, kde-format
+msgctxt "@title:window"
+msgid "Edit Remote Content"
+msgstr ""
+
+#. +> trunk6 stable6
+#: remote-content/remotecontentconfigurewidget.cpp:125
+#, fuzzy, kde-format
+#| msgctxt "View->headers->"
+#| msgid "&Long Headers"
+msgctxt "@title:window"
+msgid "Add Remote Content"
+msgstr "長いヘッダ(&L)"
+
+#. +> trunk6 stable6
+#: remote-content/remotecontentconfigurewidget.cpp:134
+#, kde-format
+msgid "An entry already defines this url. Please modify it."
+msgstr ""
+
+#. +> trunk6 stable6
+#: remote-content/remotecontentconfigurewidget.cpp:134
+#, kde-format
+msgctxt "@title:window"
+msgid "Add new Url"
+msgstr ""
+
+#. +> trunk6 stable6
+#: remote-content/remotecontentmenu.cpp:19
+#, fuzzy, kde-format
+#| msgctxt "View->headers->"
+#| msgid "&Long Headers"
+msgid "Configure"
+msgstr "長いヘッダ(&L)"
+
+#. +> trunk6 stable6
+#: remote-content/remotecontentmenu.cpp:21
+#, kde-format
+msgid "Remote Content"
+msgstr ""
+
+#. +> trunk6 stable6
+#: remote-content/remotecontentmenu.cpp:52
+#, kde-format
+msgid "Authorize %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: remote-content/remotecontentmenu.cpp:60
+#, kde-format
+msgid "Authorize all Urls"
+msgstr ""
+
+#. +> trunk6 stable6
+#: remote-content/remotecontentstatustypecombobox.cpp:12
+#, kde-format
+msgid "Authorized"
+msgstr ""
+
+#. +> trunk6 stable6
+#: remote-content/remotecontentstatustypecombobox.cpp:13
+#, kde-format
+msgid "Blocked"
+msgstr ""
+
+#. +> trunk6 stable6
+#: remote-content/remotecontentwidget.cpp:28
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Domain:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: scamdetection/scamdetectiondetailsdialog.cpp:42
+#, fuzzy, kde-format
+#| msgid "Show Details"
+msgctxt "@title:window"
+msgid "Details"
+msgstr "詳細を表示"
+
+#. +> trunk6 stable6
+#: scamdetection/scamdetectionwarningwidget.cpp:36
+#, kde-format
+msgid "This message may be a scam. <a href=\"scamdetails\">(Details...)</a>"
+msgstr ""
+
+#. +> trunk6 stable6
+#: scamdetection/scamdetectionwarningwidget.cpp:41
+#, kde-format
+msgctxt "@action"
+msgid "Move to Trash"
+msgstr ""
+
+#. +> trunk6 stable6
+#: scamdetection/scamdetectionwarningwidget.cpp:46
+#, kde-format
+msgctxt "@action"
+msgid "I confirm it's not a scam"
+msgstr ""
+
+#. +> trunk6 stable6
+#: scamdetection/scamdetectionwarningwidget.cpp:50
+#, kde-format
+msgctxt "@action"
+msgid "Add email to whitelist"
+msgstr ""
+
+#. +> trunk6 stable6
+#: scamdetection/scamdetectionwarningwidget.cpp:54
+#, kde-format
+msgctxt "@action"
+msgid "Disable scam detection for all messages"
+msgstr ""
+
+#. +> trunk6 stable6
+#: scamdetection/scamdetectionwebengine.cpp:118
+#: scamdetection/scamdetectionwebengine.cpp:217
+#, kde-format
+msgid ""
+"This email contains a link which reads as '%1' in the text, but actually "
+"points to '%2'. This is often the case in scam emails to mislead the "
+"recipient"
+msgstr ""
+
+#. +> trunk6 stable6
+#: scamdetection/scamdetectionwebengine.cpp:131
+#, kde-format
+msgid ""
+"This email contains a link which points to a numerical IP address (%1) "
+"instead of a typical textual website address. This is often the case in scam "
+"emails."
+msgstr ""
+
+#. +> trunk6 stable6
+#: scamdetection/scamdetectionwebengine.cpp:138
+#, kde-format
+msgid ""
+"This email contains a link which points to a hexadecimal IP address (%1) "
+"instead of a typical textual website address. This is often the case in scam "
+"emails."
+msgstr ""
+
+#. +> trunk6 stable6
+#: scamdetection/scamdetectionwebengine.cpp:144
+#, kde-format
+msgid "This email contains a link (%1) which has a redirection"
+msgstr ""
+
+#. +> trunk6 stable6
+#: scamdetection/scamdetectionwebengine.cpp:150
+#, kde-format
+msgid ""
+"This email contains a link (%1) which contains multiple http://. This is "
+"often the case in scam emails."
+msgstr ""
+
+#. +> trunk6 stable6
+#: scamdetection/scamdetectionwebengine.cpp:161
+#, kde-format
+msgid "This email contains a shorturl (%1). It can redirect to another server."
+msgstr ""
+
+#. +> trunk6 stable6
+#: scamdetection/scamdetectionwebengine.cpp:236
+#, kde-format
+msgid "Message contains form element. This is often the case in scam emails."
+msgstr ""
+
+#. +> trunk6 stable6
+#: scamdetection/scamdetectionwebengine.cpp:240
+#, fuzzy, kde-format
+#| msgid "Show Details"
+msgid "Details:"
+msgstr "詳細を表示"
+
+#. +> trunk6 stable6
+#: scamdetection/scamexpandurljob.cpp:49
+#, kde-format
+msgid "No network connection detected, we cannot expand url."
+msgstr ""
+
+#. +> trunk6 stable6
+#: scamdetection/scamexpandurljob.cpp:79 scamdetection/scamexpandurljob.cpp:85
+#, kde-format
+msgid "Impossible to expand '%1'."
+msgstr ""
+
+#. +> trunk6 stable6
+#: scamdetection/scamexpandurljob.cpp:83
+#, kde-format
+msgid "Short url '%1' redirects to '%2'."
+msgstr ""
+
+#. i18n: ectx: label, entry (PrintSelectedText), group (Print)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:7
+#, kde-format
+msgid "Only print selected text in viewer"
+msgstr ""
+
+#. i18n: ectx: label, entry (RespectExpandCollapseSettings), group (Print)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:11
+#, fuzzy, kde-format
+#| msgid "Show &expand/collapse quote marks"
+msgid ""
+"Respect expand/collapse quote mark which is defined in settings during "
+"printing."
+msgstr "引用テキストに「展開/たたむ」マークを表示する(&E)"
+
+#. i18n: ectx: label, entry (PrintBackgroundColorImages), group (Print)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:15
+#, kde-format
+msgid ""
+"Specifies whether the background color and images are also drawn when the "
+"page is printed."
+msgstr ""
+
+#. i18n: ectx: label, entry (AlwaysShowEncryptionSignatureDetails), group (Print)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:19
+#, fuzzy, kde-format
+#| msgid "Show signature details."
+msgid "Always show encryption/signature details when we print message"
+msgstr "署名の詳細を表示します。"
+
+#. i18n: ectx: label, entry (MinimumFontSize), group (Fonts)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:28
+#, kde-format
+msgid "When we render html do not use font size inferior to minimum size."
+msgstr ""
+
+#. i18n: ectx: label, entry (BodyFont), group (Fonts)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:32
+#, kde-format
+msgid "Specifies the font to use for the message body"
+msgstr ""
+
+#. i18n: ectx: label, entry (PrintFont), group (Fonts)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:36
+#, kde-format
+msgid "Specifies the font to use for printing"
+msgstr ""
+
+#. i18n: ectx: label, entry (CheckPhishingUrl), group (Security)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:42
+#, kde-format
+msgid "Check if url can be a phishing"
+msgstr ""
+
+#. i18n: ectx: label, entry (CloseAfterReplyOrForward), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:48
+#, kde-format
+msgid "Close message window after replying or forwarding"
+msgstr ""
+
+# ACCELERATOR added by translator
+#. i18n: ectx: label, entry (ShowExpandQuotesMark), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:62
+#, kde-format
+msgid "Show expand/collapse quote marks"
+msgstr "引用テキストに「展開/たたむ」マークを表示する(&W)"
+
+#. i18n: ectx: whatsthis, entry (ShowExpandQuotesMark), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:63
+#, kde-format
+msgid ""
+"Enable this option to show different levels of quoted text. Disable to hide "
+"the levels of quoted text."
+msgstr ""
+"引用テキストのレベル (深さ) を表示するには、このオプションを有効にしてくださ"
+"い。無効にすると、引用テキストのレベルは表示されません。"
+
+# ACCELERATOR added by translator
+#. i18n: ectx: label, entry (CollapseQuoteLevelSpin), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:66
+#, kde-format
+msgid "Automatic collapse level:"
+msgstr "自動的にたたむレベル(&S):"
+
+#. i18n: ectx: label, entry (ShrinkQuotes), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:73
+#, kde-format
+msgid "Reduce font size for quoted text"
+msgstr "引用テキストのフォントサイズを小さくする"
+
+#. i18n: ectx: whatsthis, entry (ShrinkQuotes), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:74
+#, kde-format
+msgid "Enable this option to show quoted text with a smaller font."
+msgstr ""
+"引用テキストをより小さなフォントを用いて表示するには、このオプションを有効に"
+"してください。"
+
+#. i18n: ectx: label, entry (AlwaysDecrypt), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:78
+#, kde-format
+msgid "Always decrypt messages when viewing or ask before decrypting"
+msgstr "メッセージを表示するときに常に復号するか、復号する前に尋ねるかどうか"
+
+#. i18n: ectx: label, entry (MimeTreeMode2), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:81
+#, kde-format
+msgid "Message Structure Viewer"
+msgstr "メッセージ構造ビューア"
+
+#. i18n: ectx: label, entry (MimeTreeMode2), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:84
+#, kde-format
+msgid "Show never"
+msgstr "表示しない"
+
+#. i18n: ectx: label, entry (MimeTreeMode2), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:87
+#, kde-format
+msgid "Show always"
+msgstr "常に表示する"
+
+#. i18n: ectx: label, entry (headerPluginStyleName), group (Reader)
+#. i18n: ectx: label, entry (headerStyle), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:99 settings/messageviewer.kcfg:103
+#, kde-format
+msgid "What style of headers should be displayed"
+msgstr ""
+
+#. i18n: ectx: label, entry (headerSetDisplayed), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:107
+#, kde-format
+msgid "How much of headers should be displayed"
+msgstr ""
+
+#. i18n: ectx: label, entry (htmlMail), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:111
+#, kde-format
+msgid "Prefer HTML to plain text"
+msgstr ""
+
+#. i18n: ectx: label, entry (htmlLoadExternal), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:115
+#, fuzzy, kde-format
+#| msgid "Load external references from the Internet for this message."
+msgid "Allow messages to load external references from the Internet"
+msgstr "このメッセージについて外部参照をインターネットからロードします。"
+
+#. i18n: ectx: label, entry (attachmentStrategy), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:119
+#, kde-format
+msgid "How attachments are shown"
+msgstr "添付ファイルの表示方法"
+
+#. i18n: ectx: label, entry (RecycleQuoteColors), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:123
+#, kde-format
+msgid "Specifies whether to reuse the quote color, beyond the 3rd level"
+msgstr ""
+
+#. i18n: ectx: label, entry (AccessKeyEnabled), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:127
+#, kde-format
+msgid "Activate Access Key"
+msgstr ""
+
+#. i18n: ectx: label, entry (ScamDetectionEnabled), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:131
+#, kde-format
+msgid ""
+"KMail can analyze messages for suspected email scams by looking for common "
+"techniques used to deceive you"
+msgstr ""
+
+#. i18n: ectx: label, entry (ScamDetectionWhiteList), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:135
+#, kde-format
+msgid "List of emails in scam white list"
+msgstr ""
+
+#. i18n: ectx: label, entry (MailTrackingUrlEnabled), group (Reader)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:139
+#, kde-format
+msgid "Scan emails for tracking URLs"
+msgstr ""
+
+#. i18n: ectx: label, entry (notSendWhenEncrypted), group (MDN)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:145
+#, kde-format
+msgid "Do not send MDNs in response to encrypted messages"
+msgstr ""
+
+#. i18n: ectx: label, entry (LegacyMangleFromToHeaders), group (Invitations)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:165
+#, kde-format
+msgid "Mangle From:/To: headers in replies to replies"
+msgstr ""
+
+#. i18n: ectx: whatsthis, entry (LegacyMangleFromToHeaders), group (Invitations)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:166
+#, kde-format
+msgid ""
+"Microsoft Outlook has a number of shortcomings in its implementation of the "
+"iCalendar standard; this option works around one of them. If you have "
+"problems with Outlook users not being able to get your replies, try setting "
+"this option."
+msgstr ""
+
+#. i18n: ectx: label, entry (LegacyBodyInvites), group (Invitations)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:170
+#, kde-format
+msgid "Send groupware invitations in the mail body"
+msgstr ""
+
+#. i18n: ectx: whatsthis, entry (LegacyBodyInvites), group (Invitations)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:171
+#, kde-format
+msgid ""
+"Microsoft Outlook has a number of shortcomings in its implementation of the "
+"iCalendar standard; this option works around one of them. If you have "
+"problems with Outlook users not being able to get your invitations, try "
+"setting this option."
+msgstr ""
+
+#. i18n: ectx: label, entry (ExchangeCompatibleInvitations), group (Invitations)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:175
+#, kde-format
+msgid "Exchange-compatible invitation naming"
+msgstr ""
+
+#. i18n: ectx: whatsthis, entry (ExchangeCompatibleInvitations), group (Invitations)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:176
+#, kde-format
+msgid ""
+"Microsoft Outlook, when used in combination with a Microsoft Exchange "
+"server, has a problem understanding standards-compliant groupware email. "
+"Turn this option on to send groupware invitations in a way that Microsoft "
+"Exchange understands."
+msgstr ""
+
+#. i18n: ectx: label, entry (AutomaticSending), group (Invitations)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:180
+#, kde-format
+msgid "Automatic invitation sending"
+msgstr ""
+
+#. i18n: ectx: whatsthis, entry (AutomaticSending), group (Invitations)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:181
+#, kde-format
+msgid ""
+"When this is checked, you will not see the mail composer window. Instead, "
+"all invitation mails are sent automatically. If you want to see the mail "
+"before sending it, you can uncheck this option. However, be aware that the "
+"text in the composer window is in iCalendar syntax, and you should not try "
+"modifying it by hand."
+msgstr ""
+
+#. i18n: ectx: label, entry (DeleteInvitationEmailsAfterSendingReply), group (Invitations)
+#. i18n: ectx: property (text), widget (QCheckBox, mDeleteInvitations)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:185 ui/invitationsettings.ui:74
+#, kde-format
+msgid "Delete invitation emails after the reply to them has been sent"
+msgstr ""
+
+#. i18n: ectx: whatsthis, entry (DeleteInvitationEmailsAfterSendingReply), group (Invitations)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:186
+#, kde-format
+msgid ""
+"When this is checked, received invitation emails that have been replied to "
+"will be moved to the Trash folder, once the reply has been successfully sent."
+msgstr ""
+
+#. i18n: ectx: label, entry (UseFixedFont), group (Composer)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:206 viewer/viewer_p.cpp:1559
+#, kde-format
+msgid "Use Fi&xed Font"
+msgstr "固定幅フォントを使う(&X)"
+
+#. i18n: ectx: whatsthis, entry (LastSelectedFolder), group (Todo)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:212
+#, kde-format
+msgid "The most recent selected folder used for Todo."
+msgstr ""
+
+#. i18n: ectx: whatsthis, entry (LastEventSelectedFolder), group (Event)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:218
+#, kde-format
+msgid "The most recent selected folder used for Event."
+msgstr ""
+
+#. i18n: ectx: whatsthis, entry (LastNoteSelectedFolder), group (Note)
+#. +> trunk6 stable6
+#: settings/messageviewer.kcfg:224
+#, kde-format
+msgid "The most recent selected folder used for Notes."
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#. +> trunk6 stable6
+#: ui/invitationsettings.ui:17
+#, kde-format
+msgid "Groupware Compatibility && Legacy Options"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, mLegacyMangleFromTo)
+#. +> trunk6 stable6
+#: ui/invitationsettings.ui:23
+#, kde-format
+msgid ""
+"Turn this option on in order to make Outlook(tm) understand your answers to "
+"invitation replies"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, mLegacyMangleFromTo)
+#. +> trunk6 stable6
+#: ui/invitationsettings.ui:26
+#, kde-format
+msgid "&Mangle From:/To: headers in replies to invitations"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, mLegacyBodyInvites)
+#. +> trunk6 stable6
+#: ui/invitationsettings.ui:33
+#, kde-format
+msgid ""
+"Turn this option on in order to make Outlook(tm) understand your answers to "
+"invitations"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, mLegacyBodyInvites)
+#. +> trunk6 stable6
+#: ui/invitationsettings.ui:36
+#, kde-format
+msgid "Send &invitations in the mail body"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, mExchangeCompatibleInvitations)
+#. +> trunk6 stable6
+#: ui/invitationsettings.ui:45
+#, kde-format
+msgid ""
+"Microsoft Outlook, when used in combination with a Microsoft Exchange "
+"server,\n"
+"has a problem understanding standards-compliant groupware email.\n"
+"Turn this option on to send groupware invitations in a way that Microsoft "
+"Exchange understands."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, mExchangeCompatibleInvitations)
+#. +> trunk6 stable6
+#: ui/invitationsettings.ui:48
+#, kde-format
+msgid "Exchange-compatible invitation &naming"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, mAutomaticSending)
+#. +> trunk6 stable6
+#: ui/invitationsettings.ui:55
+#, kde-format
+msgid ""
+"When this is on, the user will not see the mail composer window. Invitation "
+"mails are sent automatically."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, mAutomaticSending)
+#. +> trunk6 stable6
+#: ui/invitationsettings.ui:58
+#, kde-format
+msgid "&Automatic invitation sending"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#. +> trunk6 stable6
+#: ui/invitationsettings.ui:68
+#, kde-format
+msgid "Options"
+msgstr "オプション"
+
+#. i18n: ectx: property (text), widget (QCheckBox, mPrintEmptySelectedText)
+#. +> trunk6 stable6
+#: ui/printingsettings.ui:17
+#, kde-format
+msgid "Print only selected text"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, respectExpandCollapseSettings)
+#. +> trunk6 stable6
+#: ui/printingsettings.ui:24
+#, fuzzy, kde-format
+#| msgid "Show &expand/collapse quote marks"
+msgid "Respect &expand/collapse quote marks settings"
+msgstr "引用テキストに「展開/たたむ」マークを表示する(&E)"
+
+#. i18n: ectx: property (text), widget (QCheckBox, printBackgroundColorAndImages)
+#. +> trunk6 stable6
+#: ui/printingsettings.ui:31
+#, kde-format
+msgid "Print background color and images"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, alwaysShowEncryptionSignatureDetail)
+#. +> trunk6 stable6
+#: ui/printingsettings.ui:38
+#, fuzzy, kde-format
+#| msgid "Show signature details."
+msgid "Always show encryption/signature details"
+msgstr "署名の詳細を表示します。"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, Settings)
+#. +> trunk6 stable6
+#: ui/settings.ui:19
+#, kde-format
+msgid "Viewer settings"
+msgstr "ビューアの設定"
+
+# ACCELERATOR changed by translator
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#. +> trunk6 stable6
+#: ui/settings.ui:47
+#, fuzzy, kde-format
+#| msgid "&Override character encoding:"
+msgid "O&verride character encoding:"
+msgstr "文字エンコーディングを強制(&V):"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_AccessKeyEnabled)
+#. +> trunk6 stable6
+#: ui/settings.ui:79
+#, kde-format
+msgid "Enable access key"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_ShrinkQuotes)
+#. +> trunk6 stable6
+#: ui/settings.ui:86
+#, kde-format
+msgid "Reduce font size for &quoted text"
+msgstr "引用テキストのフォントサイズを小さくする(&Q)"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_ShowExpandQuotesMark)
+#. +> trunk6 stable6
+#: ui/settings.ui:93
+#, kde-format
+msgid "Show &expand/collapse quote marks"
+msgstr "引用テキストに「展開/たたむ」マークを表示する(&E)"
+
+# ACCELERATOR added by translator
+#. i18n: ectx: property (text), widget (QLabel, collapseQuoteLevelLabel)
+#. +> trunk6 stable6
+#: ui/settings.ui:121
+#, fuzzy, kde-format
+#| msgid "Automatic collapse level:"
+msgid "Automatic collapse &level:"
+msgstr "自動的にたたむレベル(&S):"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#. +> trunk6 stable6
+#: ui/settings.ui:190
+#, kde-format
+msgid "&Minimum font size:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:123
+#, kde-format
+msgid ""
+"A file named \"%1\" already exists. Are you sure you want to overwrite it?"
+msgstr "‘%1’ という名前のファイルは既に存在します。本当に上書きしますか？"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:126
+#, fuzzy, kde-format
+#| msgid "Overwrite File?"
+msgctxt "@title:window"
+msgid "Overwrite File?"
+msgstr "ファイルを上書きしますか？"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:159
+#, kde-format
+msgid "Save Attachments To"
+msgstr "添付ファイルを保存"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:176
+#, kde-format
+msgctxt "filename for an unnamed attachment"
+msgid "attachment.1"
+msgstr "添付ファイル.1"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:182
+#, fuzzy, kde-format
+#| msgid "Save Attachment"
+msgctxt "@title:window"
+msgid "Save Attachment"
+msgstr "添付ファイルを保存"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:206
+#, kde-format
+msgctxt "filename for the %1-th unnamed attachment"
+msgid "attachment.%1"
+msgstr "添付ファイル.%1"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:304
+#, kde-format
+msgid ""
+"The part %1 of the message is encrypted. Do you want to keep the encryption "
+"when saving?"
+msgstr ""
+"このメッセージのパート %1 は暗号化されています。保存時に暗号化されたままにし"
+"ますか？"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:306 utils/messageviewerutil.cpp:319
+#, kde-format
+msgid "KMail Question"
+msgstr "KMail の質問"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:306
+#, fuzzy, kde-format
+#| msgid "Keep Encryption"
+msgctxt "@action:button"
+msgid "Keep Encryption"
+msgstr "暗号化したままにする"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:307 utils/messageviewerutil.cpp:320
+#, fuzzy, kde-format
+#| msgid "Do Not Keep"
+msgctxt "@action:button"
+msgid "Do Not Keep"
+msgstr "復号する"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:317
+#, kde-format
+msgid ""
+"The part %1 of the message is signed. Do you want to keep the signature when "
+"saving?"
+msgstr ""
+"そのメッセージのパート %1 は署名されています。保存時に署名も保存しますか？"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:319
+#, fuzzy, kde-format
+#| msgid "Keep Signature"
+msgctxt "@action:button"
+msgid "Keep Signature"
+msgstr "署名を保持"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:383 utils/messageviewerutil.cpp:401
+#: utils/messageviewerutil.cpp:419 utils/messageviewerutil.cpp:539
+#, fuzzy, kde-kuit-format
+#| msgctxt "1 = file name, 2 = error string"
+#| msgid "<qt>Could not write to the file<br><filename>%1</filename><br><br>%2"
+msgctxt "1 = file name, 2 = error string"
+msgid ""
+"<qt>Could not write to the file<br /><filename>%1</filename><br /><br />%2</"
+"qt>"
+msgstr ""
+"<qt>このファイルに書き込めませんでした<br/><filename>%1</filename><br/><br/"
+">%2"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:386
+#, fuzzy, kde-format
+#| msgid "Error saving attachment"
+msgctxt "@title:window"
+msgid "Error saving attachment"
+msgstr "添付ファイルの保存エラー"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:404 utils/messageviewerutil.cpp:422
+#, kde-format
+msgid "Error saving attachment"
+msgstr "添付ファイルの保存エラー"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:435
+#, kde-format
+msgid "Found no attachments to save."
+msgstr "保存する添付ファイルがありません。"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:451
+#, fuzzy, kde-format
+#| msgid "&Save message"
+msgid "message"
+msgstr "メッセージを保存(&S)"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:473
+#, kde-format
+msgid "Mailbox file (*.mbox);;All Files (*)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:484
+#, fuzzy, kde-format
+#| msgid "&Save message"
+msgid "Save Message"
+msgid_plural "Save Messages"
+msgstr[0] "メッセージを保存(&S)"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:509
+#, fuzzy, kde-format
+#| msgid "The message could not be decrypted."
+msgid "File %1 could not be loaded."
+msgstr "メッセージを復号できませんでした。"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:509
+#, fuzzy, kde-format
+#| msgid "End of signed message"
+msgctxt "@title:window"
+msgid "Error loading message"
+msgstr "署名付きメッセージの末尾"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:511
+#, fuzzy, kde-format
+#| msgid "The message could not be decrypted."
+msgid "File %1 could not be created."
+msgstr "メッセージを復号できませんでした。"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:511 utils/messageviewerutil.cpp:542
+#, fuzzy, kde-format
+#| msgid "Error saving attachment"
+msgctxt "@title:window"
+msgid "Error saving message"
+msgstr "添付ファイルの保存エラー"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:522
+#, fuzzy, kde-format
+#| msgid "End of signed message"
+msgid "We cannot save message."
+msgstr "署名付きメッセージの末尾"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:522
+#, fuzzy, kde-format
+#| msgid "Error saving attachment"
+msgid "Error saving message"
+msgstr "添付ファイルの保存エラー"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:586
+#, fuzzy, kde-format
+#| msgid "Delete Attachment"
+msgctxt "Argument is the original name of the deleted attachment"
+msgid "Deleted: %1"
+msgstr "添付ファイルを削除"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:597
+#, kde-format
+msgid ""
+"You deleted an attachment from this message. The original MIME headers for "
+"the attachment were:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:625
+#, fuzzy, kde-format
+#| msgid "&Open with '%1'"
+msgid "Open &with %1"
+msgstr "%1 で開く(&O)"
+
+#. +> trunk6 stable6
+#: utils/messageviewerutil.cpp:627
+#, kde-format
+msgctxt "@item:inmenu Open With, %1 is application name"
+msgid "%1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: viewer/mimeparttree/mimetreemodel.cpp:61
+#, kde-format
+msgid "body part"
+msgstr "メッセージ本体"
+
+#. +> trunk6 stable6
+#: viewer/mimeparttree/mimetreemodel.cpp:264
+#, kde-format
+msgid "Description"
+msgstr "説明"
+
+#. +> trunk6 stable6
+#: viewer/mimeparttree/mimetreemodel.cpp:266
+#, kde-format
+msgid "Type"
+msgstr "タイプ"
+
+#. +> trunk6 stable6
+#: viewer/mimeparttree/mimetreemodel.cpp:268
+#, kde-format
+msgid "Size"
+msgstr "サイズ"
+
+#. +> trunk6 stable6
+#: viewer/printmessage.cpp:68
+#, kde-format
+msgid "Could not generate print preview."
+msgstr ""
+
+#. +> trunk6 stable6
+#: viewer/printmessage.cpp:104
+#, kde-format
+msgctxt "@title:window"
+msgid "Print Document"
+msgstr ""
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:410
+#, kde-format
+msgid "Turn on HTML rendering for this message."
+msgstr "このメッセージについて HTML レンダリングを有効にします。"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:412 viewer/viewer_p.cpp:1628
+#, kde-format
+msgid "Load external references from the Internet for this message."
+msgstr "このメッセージについて外部参照をインターネットからロードします。"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:414
+#, kde-format
+msgid "Work online."
+msgstr "オンラインで作業します。"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:416
+#, kde-format
+msgid "Make account online."
+msgstr ""
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:418
+#, kde-format
+msgid "Decrypt message."
+msgstr "メッセージを復号します。"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:420
+#, kde-format
+msgid "Show signature details."
+msgstr "署名の詳細を表示します。"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:422
+#, kde-format
+msgid "Hide signature details."
+msgstr "署名の詳細を隠します。"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:424
+#, fuzzy, kde-format
+#| msgid "Show signature details."
+msgid "Show encryption details."
+msgstr "署名の詳細を表示します。"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:426
+#, fuzzy, kde-format
+#| msgid "Hide signature details."
+msgid "Hide encryption details."
+msgstr "署名の詳細を隠します。"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:431
+#, kde-format
+msgid "Open Documentation"
+msgstr ""
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:465
+#, kde-format
+msgid "Expand all quoted text."
+msgstr "すべての引用テキストを展開します。"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:467
+#, kde-format
+msgid "Collapse quoted text."
+msgstr "引用テキストをたたみます。"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:493
+#, kde-format
+msgid "Could not start certificate manager. Please check your installation."
+msgstr ""
+"証明書マネージャを起動できませんでした。正しくインストールされているか確認し"
+"てください。"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:495
+#, kde-format
+msgid "KMail Error"
+msgstr "KMail エラー"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:512
+#, kde-format
+msgid "Show certificate 0x%1"
+msgstr "証明書 0x%1 を表示"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:571
+#, kde-format
+msgid "&Open in Address Book"
+msgstr "アドレス帳で開く(&O)"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:573
+#, kde-format
+msgid "&Copy Email Address"
+msgstr "メールアドレスをコピー(&C)"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:586 viewer/viewer_p.cpp:2718
+#, kde-format
+msgid "Address copied to clipboard."
+msgstr "アドレスをクリップボードにコピーしました。"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:597
+#, kde-format
+msgid "Lookup the contact in KAddressbook"
+msgstr ""
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:773
+#, kde-format
+msgid "Attachment: %1"
+msgstr "添付ファイル: %1"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:776
+#, fuzzy, kde-format
+#| msgid "Encapsulated message"
+msgid "Encapsulated Message (Subject: %1)"
+msgstr "封入されたメッセージ"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:778
+#, fuzzy, kde-format
+#| msgid "Encapsulated message"
+msgid "Encapsulated Message"
+msgstr "封入されたメッセージ"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:781
+#, kde-format
+msgid "Unnamed attachment"
+msgstr "名なしの添付ファイル"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:816
+#, kde-format
+msgid "Show GnuPG Audit Log for this operation"
+msgstr "この操作の GnuPG 監査ログを表示"
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:856
+#, kde-format
+msgid "Opening URL..."
+msgstr "URL を開いています..."
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:865
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Do you really want to execute <filename>%1</filename>?"
+msgstr ""
+
+#. +> trunk6 stable6
+#: viewer/urlhandlermanager.cpp:867
+#, kde-format
+msgctxt "@action:button"
+msgid "Execute"
+msgstr ""
+
+#. +> trunk6 stable6
+#: viewer/viewer.cpp:149
+#, kde-format
+msgid "Loading message..."
+msgstr ""
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:346
+#, kde-format
+msgid ""
+"Deleting an attachment might invalidate any digital signature on this "
+"message."
+msgstr ""
+"添付ファイルを削除すると、このメッセージの電子署名が無効になる可能性がありま"
+"す。"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:347 viewer/viewer_p.cpp:382
+#, fuzzy, kde-format
+#| msgid "Delete Attachment"
+msgctxt "@title:window"
+msgid "Delete Attachment"
+msgstr "添付ファイルを削除"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:381
+#, kde-format
+msgid ""
+"Deleting an attachment from an encrypted or old-style mailman message is not "
+"supported."
+msgstr ""
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:430
+#, fuzzy, kde-format
+#| msgid "&Open With..."
+msgctxt "@title:menu"
+msgid "&Open With"
+msgstr "アプリケーションで開く(&O)..."
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:448
+#, kde-format
+msgctxt "@action:inmenu Open With"
+msgid "&Other..."
+msgstr ""
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:450 viewer/viewer_p.cpp:463
+#, fuzzy, kde-format
+#| msgid "&Open With..."
+msgctxt "@title:menu"
+msgid "&Open With..."
+msgstr "アプリケーションで開く(&O)..."
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:527 viewer/viewer_p.cpp:1737
+#, kde-format
+msgctxt "to open"
+msgid "Open"
+msgstr "開く"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:541 viewer/viewer_p.cpp:1744
+#, kde-format
+msgctxt "to view something"
+msgid "View"
+msgstr "表示"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:549
+#, kde-format
+msgid "Scroll To"
+msgstr ""
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:554
+#, kde-format
+msgid "Save As..."
+msgstr "名前を付けて保存..."
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:560 viewer/viewer_p.cpp:1754
+#, kde-format
+msgid "Copy"
+msgstr "コピー"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:571 viewer/viewer_p.cpp:1758
+#, kde-format
+msgid "Delete Attachment"
+msgstr "添付ファイルを削除"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:582
+#, fuzzy, kde-format
+#| msgid "Reply to: "
+msgid "Reply To Author"
+msgstr "返信先: "
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:590
+#, fuzzy, kde-format
+#| msgid "Reply to: "
+msgid "Reply To All"
+msgstr "返信先: "
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:596 viewer/viewer_p.cpp:1763
+#, kde-format
+msgid "Properties"
+msgstr "プロパティ"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:733
+#, fuzzy, kde-format
+#| msgid "KMail Error"
+msgid "KMail"
+msgstr "KMail エラー"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:733
+#, kde-format
+msgid "The KDE Mail Client"
+msgstr ""
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1279
+#, fuzzy, kde-format
+#| msgid "View Attachment: %1"
+msgctxt "@title:window"
+msgid "View Attachment: %1"
+msgstr "添付ファイルを表示: %1"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1481
+#, kde-format
+msgctxt "View->"
+msgid "&Attachments"
+msgstr "添付ファイル(&A)"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1483
+#, kde-format
+msgid "Choose display style of attachments"
+msgstr "添付ファイルの表示スタイルを選択"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1486
+#, kde-format
+msgctxt "View->attachments->"
+msgid "&As Icons"
+msgstr "アイコン(&A)"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1489
+#, kde-format
+msgid "Show all attachments as icons. Click to see them."
+msgstr ""
+"すべての添付ファイルをアイコンで表示します。参照するにはそれらをクリックしま"
+"す。"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1493
+#, kde-format
+msgctxt "View->attachments->"
+msgid "&Smart"
+msgstr "スマート(&S)"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1496
+#, kde-format
+msgid "Show attachments as suggested by sender."
+msgstr "添付ファイルを送信者が指示した方法で表示します。"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1500
+#, kde-format
+msgctxt "View->attachments->"
+msgid "&Inline"
+msgstr "インライン(&I)"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1503
+#, kde-format
+msgid "Show all attachments inline (if possible)"
+msgstr "可能であれば、すべての添付ファイルをインライン表示します。"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1507
+#, kde-format
+msgctxt "View->attachments->"
+msgid "&Hide"
+msgstr "隠す(&H)"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1510
+#, kde-format
+msgid "Do not show attachments in the message viewer"
+msgstr "メッセージビューアに添付ファイルを表示しません。"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1514
+#, kde-format
+msgctxt "View->attachments->"
+msgid "In Header Only"
+msgstr ""
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1517
+#, fuzzy, kde-format
+#| msgid "Show all attachments as icons. Click to see them."
+msgid "Show Attachments only in the header of the mail"
+msgstr ""
+"すべての添付ファイルをアイコンで表示します。参照するにはそれらをクリックしま"
+"す。"
+
+# ACCELERATOR changed by translator
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1522
+#, kde-format
+msgid "&Set Encoding"
+msgstr "エンコーディング(&N)"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1527 widgets/configurewidget.cpp:45
+#: widgets/configurewidget.cpp:79
+#, kde-format
+msgid "Auto"
+msgstr "自動"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1537
+#, fuzzy, kde-format
+#| msgid "Copy"
+msgid "Copy Text"
+msgstr "コピー"
+
+# ACCELERATOR added by translator
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1543
+#, fuzzy, kde-format
+#| msgid "Select All Text"
+msgctxt "@action"
+msgid "Select All Text"
+msgstr "すべてのテキストを選択(&S)"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1549 viewer/viewer_p.cpp:2072
+#, kde-format
+msgid "Copy Link Address"
+msgstr "リンクアドレスをコピー"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1554
+#, kde-format
+msgid "Open URL"
+msgstr "URL を開く"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1565
+#, kde-format
+msgid "Show Message Structure"
+msgstr "メッセージ構造を表示"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1570
+#, fuzzy, kde-format
+#| msgid "&View Source"
+msgctxt "@action"
+msgid "&View Source"
+msgstr "ソースを表示(&V)"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1575
+#, fuzzy, kde-format
+#| msgid "&Save message"
+msgid "&Save Message..."
+msgstr "メッセージを保存(&S)"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1581
+#, kde-format
+msgctxt "@action"
+msgid "&Save Display Format"
+msgstr ""
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1585
+#, kde-format
+msgctxt "@action"
+msgid "&Reset Display Format"
+msgstr ""
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1592
+#, fuzzy, kde-format
+#| msgid "Scroll Message Up"
+msgctxt "@action"
+msgid "Scroll Message Up"
+msgstr "メッセージを 1 行上へスクロール"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1597
+#, fuzzy, kde-format
+#| msgid "Scroll Message Down"
+msgctxt "@action"
+msgid "Scroll Message Down"
+msgstr "メッセージを 1 行下へスクロール"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1602
+#, fuzzy, kde-format
+#| msgid "Scroll Message Up (More)"
+msgctxt "@action"
+msgid "Scroll Message Up (More)"
+msgstr "メッセージを 1 画面上へスクロール"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1607
+#, fuzzy, kde-format
+#| msgid "Scroll Message Down (More)"
+msgctxt "@action"
+msgid "Scroll Message Down (More)"
+msgstr "メッセージを 1 画面下へスクロール"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1617
+#, kde-format
+msgid "Toggle HTML Display Mode"
+msgstr "HTML 表示とプレーンテキスト表示を切り替え"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1621
+#, kde-format
+msgid "Toggle display mode between HTML and plain text"
+msgstr "HTML 表示とプレーンテキスト表示を切り替えます"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1624
+#, kde-format
+msgctxt "@action"
+msgid "Load external references"
+msgstr ""
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1630
+#, fuzzy, kde-format
+#| msgid "Copy"
+msgctxt "@action"
+msgid "Speak Text"
+msgstr "コピー"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1636
+#, kde-format
+msgctxt "@action"
+msgid "Share Text..."
+msgstr ""
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1654
+#, kde-format
+msgctxt "@action"
+msgid "Copy Image Location"
+msgstr ""
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1660
+#, fuzzy, kde-format
+#| msgid "End of signed message"
+msgid "&Find in Message..."
+msgstr "署名付きメッセージの末尾"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1669
+#, kde-format
+msgid "Disable Emoticon"
+msgstr ""
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1734
+#, kde-format
+msgid "Save &As..."
+msgstr "名前を付けて保存(&A)..."
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1742
+#, kde-format
+msgid "Open With..."
+msgstr "アプリケーションで開く..."
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1749
+#, kde-format
+msgid "Save All Attachments..."
+msgstr "すべての添付ファイルを保存..."
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1992
+#, kde-format
+msgid "The network is broken."
+msgstr ""
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1992 viewer/viewer_p.cpp:1995
+#, kde-format
+msgctxt "@title:window"
+msgid "Check Phishing URL"
+msgstr ""
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:1995
+#, kde-format
+msgid "The URL %1 is not valid."
+msgstr ""
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:2015
+#, kde-format
+msgid "This web site is a malware, do you want to continue to show it?"
+msgstr ""
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:2016
+#, kde-format
+msgctxt "@title:window"
+msgid "Malware"
+msgstr ""
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:2070
+#, kde-format
+msgid "Copy Email Address"
+msgstr "メールアドレスをコピー"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:2153
+#, fuzzy, kde-format
+#| msgid "Message as Plain Text"
+msgctxt "@title:window"
+msgid "Message as Plain Text"
+msgstr "メッセージをプレーンテキストとして"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:2724
+#, kde-format
+msgid "URL copied to clipboard."
+msgstr "URL をクリップボードにコピーしました。"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:2886
+#, kde-format
+msgid "Message loading failed: %1."
+msgstr "メッセージの読み込みに失敗しました: %1"
+
+#. +> trunk6 stable6
+#: viewer/viewer_p.cpp:2891
+#, kde-format
+msgid "Message not found."
+msgstr ""
+
+#. +> trunk6 stable6
+#: widgets/attachmentdialog.cpp:28
+#, fuzzy, kde-kuit-format
+#| msgid ""
+#| "Open attachment '%1'?\n"
+#| "Note that opening an attachment may compromise your system's security."
+msgctxt "@info"
+msgid ""
+"Open attachment <filename>%1</filename>?<nl/>Note that opening an attachment "
+"may compromise your system's security."
+msgstr ""
+"添付ファイル ‘%1’ を開きますか？\n"
+"添付ファイルを開くと、システムのセキュリティを脅かす可能性があります。"
+
+#. +> trunk6 stable6
+#: widgets/attachmentdialog.cpp:33
+#, fuzzy, kde-format
+#| msgid "Open Attachment?"
+msgctxt "@title:window"
+msgid "Open Attachment?"
+msgstr "添付ファイルを開きますか？"
+
+#. +> trunk6 stable6
+#: widgets/attachmentdialog.cpp:40
+#, fuzzy, kde-format
+#| msgid "&Open with '%1'"
+msgid "&Open With '%1'"
+msgstr "%1 で開く(&O)"
+
+#. +> trunk6 stable6
+#: widgets/attachmentdialog.cpp:47
+#, fuzzy, kde-format
+#| msgid "Open With..."
+msgid "Open &With..."
+msgstr "アプリケーションで開く..."
+
+#. +> trunk6 stable6
+#: widgets/attachmentdialog.cpp:69
+#, kde-format
+msgid "Do not ask again"
+msgstr "次回から確認しない"
+
+# |,no-check-spell
+#. +> trunk6 stable6
+#: widgets/htmlstatusbar.cpp:108
+#, kde-format
+msgctxt ""
+"'HTML Message' with html linebreaks between each letter and in bold text."
+msgid ""
+"<qt><b><br />H<br />T<br />M<br />L<br /> <br />M<br />e<br />s<br />s<br /"
+">a<br />g<br />e</b></qt>"
+msgstr ""
+"<qt><b><br />H<br />T<br />M<br />L<br /> <br />メ<br />ッ<br />セ<br />ー"
+"<br />ジ</b></qt>"
+
+# |,no-check-spell
+#. +> trunk6 stable6
+#: widgets/htmlstatusbar.cpp:112
+#, kde-format
+msgctxt "'No HTML Message' with html linebreaks between each letter."
+msgid ""
+"<qt><br />N<br />o<br /> <br />H<br />T<br />M<br />L<br /> <br />M<br /"
+">e<br />s<br />s<br />a<br />g<br />e</qt>"
+msgstr ""
+"<qt><br />H<br />T<br />M<br />L<br /> <br />メ<br />ッ<br />セ<br />ー<br />"
+"ジ<br />な<br />し</qt>"
+
+# |,no-check-spell
+#. +> trunk6 stable6
+#: widgets/htmlstatusbar.cpp:117
+#, kde-format
+msgctxt "'Plain Message' with html linebreaks between each letter."
+msgid ""
+"<qt><br />P<br />l<br />a<br />i<br />n<br /> <br />M<br />e<br />s<br /"
+">s<br />a<br />g<br />e<br /></qt>"
+msgstr ""
+"<qt><br />テ<br />キ<br />ス<br />ト<br /> <br />メ<br />ッ<br />セ<br />ー"
+"<br />ジ<br /></qt>"
+
+# |,no-check-spell
+#. +> trunk6 stable6
+#: widgets/htmlstatusbar.cpp:121
+#, fuzzy, kde-format
+#| msgid ""
+#| "<qt><br />N<br />o<br /> <br />H<br />T<br />M<br />L<br /> <br />M<br /"
+#| ">e<br />s<br />s<br />a<br />g<br />e</qt>"
+msgctxt "'Calendar Message' with html linebreaks between each letter."
+msgid ""
+"<qt><br />C<br />a<br />l<br />e<br />n<br />d<br />a<br />r<br /> <br /"
+">M<br />e<br />s<br />s<br />a<br />g<br />e<br /></qt>"
+msgstr ""
+"<qt><br />H<br />T<br />M<br />L<br /> <br />メ<br />ッ<br />セ<br />ー<br />"
+"ジ<br />な<br />し</qt>"
+
+#. +> trunk6 stable6
+#: widgets/htmlstatusbar.cpp:135
+#, fuzzy, kde-format
+#| msgid "Click to toggle between HTML and plain text."
+msgid "Click to toggle between HTML, plain text and calendar."
+msgstr "クリックして HTML 表示とプレーンテキスト表示を切り替えます。"
+
+#. +> trunk6 stable6
+#: widgets/invitationsettings.cpp:72
+#, kde-format
+msgid ""
+"<qt>Invitations are normally sent as attachments to a mail. This switch "
+"changes the invitation mails to be sent in the text of the mail instead; "
+"this is necessary to send invitations and replies to Microsoft Outlook.<br /"
+">But, when you do this, you no longer get descriptive text that mail "
+"programs can read; so, to people who have email programs that do not "
+"understand the invitations, the resulting messages look very odd.<br /"
+">People that have email programs that do understand invitations will still "
+"be able to work with this.</qt>"
+msgstr ""
+
+#. +> trunk6 stable6
+#: widgets/mailsourceviewtextbrowserwidget.cpp:134
+#, kde-format
+msgid "Speak Text"
+msgstr ""
+
+#. +> trunk6 stable6
+#: widgets/mailsourcewebengineviewer.cpp:53
+#, kde-format
+msgctxt "Unchanged mail message"
+msgid "Raw Source"
+msgstr "Raw ソース"
+
+#. +> trunk6 stable6
+#: widgets/mailsourcewebengineviewer.cpp:54
+#, kde-format
+msgid "Raw, unmodified mail as it is stored on the filesystem or on the server"
+msgstr ""
+
+#. +> trunk6 stable6
+#: widgets/mailsourcewebengineviewer.cpp:57
+#, kde-format
+msgctxt "Mail message as shown, in HTML format"
+msgid "HTML Source"
+msgstr " HTML ソース"
+
+#. +> trunk6 stable6
+#: widgets/mailsourcewebengineviewer.cpp:58
+#, kde-format
+msgid "HTML code for displaying the message to the user"
+msgstr ""
+
+#. +> trunk6 stable6
+#: widgets/opensavedfilefolderwidget.cpp:26
+#, kde-format
+msgctxt "@action - For we don't know if it's one or many attachments"
+msgid "Open folder where attachment was saved"
+msgstr ""
+
+#. +> trunk6 stable6
+#: widgets/opensavedfilefolderwidget.cpp:27
+#, fuzzy, kde-format
+#| msgid "&Open With..."
+msgctxt "@action"
+msgid "Open File"
+msgstr "アプリケーションで開く(&O)..."
+
+#. +> trunk6 stable6
+#: widgets/opensavedfilefolderwidget.cpp:62
+#, kde-format
+msgctxt "@action"
+msgid "Open folder where attachment was saved"
+msgid_plural "Open folder where attachments were saved"
+msgstr[0] ""
+
+#. +> trunk6 stable6
+#: widgets/opensavedfilefolderwidget.cpp:65
+#, kde-format
+msgctxt "@action"
+msgid "Open folder where PDF file was saved"
+msgstr ""
+
+#. +> trunk6 stable6
+#: widgets/opensavedfilefolderwidget.cpp:78
+#, fuzzy, kde-format
+#| msgid "Unable to edit attachment"
+msgid "KMail was unable to open the attachment."
+msgstr "添付ファイルを編集できません"
+
+#. +> trunk6 stable6
+#: widgets/shownextmessagewidget.cpp:17
+#, fuzzy, kde-format
+#| msgid "&Save message"
+msgctxt "@action:button"
+msgid "Next Message"
+msgstr "メッセージを保存(&S)"
+
+#. +> trunk6 stable6
+#: widgets/shownextmessagewidget.cpp:18
+#, fuzzy, kde-format
+#| msgid "Decrypt Message"
+msgctxt "@action:button"
+msgid "Previous Message"
+msgstr "メッセージを復号"
+
+#, kde-format
+#~ msgid "Error: Signature not verified"
+#~ msgstr "エラー: 署名は検証されていません"
+
+#, kde-format
+#~ msgid "Good signature"
+#~ msgstr "有効な署名"
+
+#, fuzzy, kde-format
+#~| msgid "Good signature"
+#~ msgid "Bad signature"
+#~ msgstr "有効な署名"
+
+#, kde-format
+#~ msgid "No public key to verify the signature"
+#~ msgstr "この署名を検証するための公開鍵がありません"
+
+#, kde-format
+#~ msgid "No signature found"
+#~ msgstr "署名が見つかりません"
+
+#, kde-format
+#~ msgid "Error verifying the signature"
+#~ msgstr "署名の検証でエラー"
+
+#, kde-format
+#~ msgid "Different results for signatures"
+#~ msgstr "署名によって異なる検証結果"
+
+#, kde-format
+#~ msgid "No status information available."
+#~ msgstr "利用可能な状態情報がありません。"
+
+#, kde-format
+#~ msgid "Good signature."
+#~ msgstr "有効な署名です。"
+
+#, kde-format
+#~ msgid "One key has expired."
+#~ msgstr "一つの鍵が失効しています。"
+
+#, kde-format
+#~ msgid "The signature has expired."
+#~ msgstr "署名は失効しています。"
+
+#, kde-format
+#~ msgid "Unable to verify: key missing."
+#~ msgstr "検証できません: 鍵がありません。"
+
+#, kde-format
+#~ msgid "CRL not available."
+#~ msgstr "利用可能な CRL がありません。"
+
+#, kde-format
+#~ msgid "Available CRL is too old."
+#~ msgstr "利用可能な CRL は古すぎます。"
+
+#, kde-format
+#~ msgid "A policy was not met."
+#~ msgstr "ポリシーに合致しません。"
+
+#, kde-format
+#~ msgid "A system error occurred."
+#~ msgstr "システムエラーが発生しました。"
+
+#, kde-format
+#~ msgid "One key has been revoked."
+#~ msgstr "一つの鍵が破棄されています。"
+
+#, fuzzy, kde-format
+#~| msgid "Good signature."
+#~ msgid "Bad signature."
+#~ msgstr "有効な署名です。"
+
+#, fuzzy, kde-format
+#~| msgid "&Import"
+#~ msgid "Import Rules"
+#~ msgstr "インポート(&I)"
+
+#, kde-format
+#~ msgid "certificate"
+#~ msgstr "証明書"
+
+#, kde-format
+#~ msgctxt "Start of warning message."
+#~ msgid "Warning:"
+#~ msgstr "警告:"
+
+#, kde-format
+#~ msgid "Sender's mail address is not stored in the %1 used for signing."
+#~ msgstr "署名に使われた %1 の中に送信者のメールアドレスがありません。"
+
+#, kde-format
+#~ msgid "sender: "
+#~ msgstr "送信者: "
+
+#, kde-format
+#~ msgid "stored: "
+#~ msgstr "保存された値: "
+
+#, kde-format
+#~ msgid ""
+#~ "No mail address is stored in the %1 used for signing, so we cannot "
+#~ "compare it to the sender's address %2."
+#~ msgstr ""
+#~ "署名に使われた %1 の中にメールアドレスがありません。送信者のアドレス %2 と"
+#~ "の比較ができません。"
+
+#, kde-format
+#~ msgid "Not enough information to check signature. %1"
+#~ msgstr "署名をチェックするために十分な情報がありません。%1"
+
+#~ msgid "The validity of the signature cannot be verified."
+#~ msgstr "署名の有効性を検証できません。"
+
+#, kde-format
+#~ msgid "Message was signed by %1."
+#~ msgstr "メッセージは %1 によって署名されています。"
+
+#~ msgid "Message was signed with unknown key."
+#~ msgstr "メッセージは未知の鍵で署名されています。"
+
+#, kde-format
+#~ msgid "Message was signed with key %1."
+#~ msgstr "メッセージは鍵 %1 で署名されています。"
+
+#, kde-format
+#~ msgid "Message was signed by %3 on %1 with key %2"
+#~ msgstr "メッセージは %1 に %3 によって鍵 %2 で署名されています。"
+
+#, kde-format
+#~ msgid "Message was signed on %1 with key %2."
+#~ msgstr "メッセージは %1 に鍵 %2 で署名されています。"
+
+#, kde-format
+#~ msgid "Message was signed by %2 with key %1."
+#~ msgstr "メッセージは %2 によって鍵 %1 で署名されています。"
+
+#~ msgid "Status: "
+#~ msgstr "状態: "
+
+#, kde-format
+#~ msgid "Message was signed by %2 (Key ID: %1)."
+#~ msgstr "メッセージは %2 (鍵 ID: %1) によって署名されています。"
+
+#, kde-format
+#~ msgid "Message was signed on %1 with unknown key %2."
+#~ msgstr "メッセージは %1 に未知の鍵 %2 で署名されています。"
+
+#, kde-format
+#~ msgid "Message was signed with unknown key %1."
+#~ msgstr "メッセージは未知の鍵 %1 で署名されています。"
+
+#~ msgid "The signature is valid, but the key's validity is unknown."
+#~ msgstr "署名は有効ですが、鍵の有効性は不明です。"
+
+#~ msgid "The signature is valid and the key is marginally trusted."
+#~ msgstr "署名は有効で、鍵はある程度信頼されています。"
+
+#~ msgid "The signature is valid and the key is fully trusted."
+#~ msgstr "署名は有効で、鍵は完全に信頼されています。"
+
+#~ msgid "The signature is valid and the key is ultimately trusted."
+#~ msgstr "署名は有効で、鍵は絶対的に信頼されています。"
+
+#~ msgid "The signature is valid, but the key is untrusted."
+#~ msgstr "署名は有効ですが、鍵は信頼されていません。"
+
+#~ msgid "Warning: The signature is bad."
+#~ msgstr "【警告】 署名は有効ではありません。"
+
+#, fuzzy
+#~| msgid "Invalid signature."
+#~ msgid "Invalid signature"
+#~ msgstr "無効な署名です。"
+
+#, fuzzy
+#~| msgid "Not enough information to check signature validity."
+#~ msgid "Not enough information to check signature validity"
+#~ msgstr "署名の有効性をチェックするために十分な情報がありません。"
+
+#, fuzzy, kde-format
+#~| msgid "Signed by <a href=\"mailto:%1\">%2</a>."
+#~ msgid "Signed by <a href='mailto:%1'>%1</a>"
+#~ msgstr "<a href=\"mailto:%1\">%2</a> によって署名されています。"
+
+#, fuzzy
+#~| msgid "Signature is valid."
+#~ msgid "Signature is valid"
+#~ msgstr "署名は有効です。"
+
+#~ msgid "Unknown signature state"
+#~ msgstr "署名の状態は不明です"
+
+#, fuzzy, kde-format
+#~| msgctxt "Certificate import failed."
+#~| msgid "Failed: %1 (%2)"
+#~ msgctxt "Status of signature (status/type of compliance)"
+#~ msgid "%1 (%2)"
+#~ msgstr "失敗しました: %1 (%2)"
+
+#, kde-format
+#~ msgid "Save Attachment"
+#~ msgstr "添付ファイルを保存"
+
+#, fuzzy, kde-format
+#~| msgid "&Import"
+#~ msgid "Import..."
+#~ msgstr "インポート(&I)"
+
+#, kde-format
+#~ msgid "Keep Encryption"
+#~ msgstr "暗号化したままにする"
+
+#, kde-format
+#~ msgid "Do Not Keep"
+#~ msgstr "復号する"
+
+#, kde-format
+#~ msgid "Keep Signature"
+#~ msgstr "署名を保持"
+
+# ACCELERATOR added by translator
+#, kde-format
+#~ msgid "Select All Text"
+#~ msgstr "すべてのテキストを選択(&S)"
+
+#, kde-format
+#~ msgid "&View Source"
+#~ msgstr "ソースを表示(&V)"
+
+#, kde-format
+#~ msgid "Scroll Message Up"
+#~ msgstr "メッセージを 1 行上へスクロール"
+
+#, kde-format
+#~ msgid "Scroll Message Down"
+#~ msgstr "メッセージを 1 行下へスクロール"
+
+#, kde-format
+#~ msgid "Scroll Message Up (More)"
+#~ msgstr "メッセージを 1 画面上へスクロール"
+
+#, kde-format
+#~ msgid "Scroll Message Down (More)"
+#~ msgstr "メッセージを 1 画面下へスクロール"
+
+#, fuzzy, kde-format
+#~| msgid "&Save message"
+#~ msgid "Next Message"
+#~ msgstr "メッセージを保存(&S)"
+
+#, fuzzy, kde-format
+#~| msgid "Decrypt Message"
+#~ msgid "Previous Message"
+#~ msgstr "メッセージを復号"
+
+#, fuzzy, kde-format
+#~| msgid "Delete Attachment"
+#~ msgid "Delete Rule"
+#~ msgstr "添付ファイルを削除"
+
+#, fuzzy, kde-format
+#~| msgid "Delete Attachment"
+#~ msgid "Delete Rules"
+#~ msgstr "添付ファイルを削除"
+
+#, kde-format
+#~ msgid "Overwrite File?"
+#~ msgstr "ファイルを上書きしますか？"
+
+#, fuzzy, kde-format
+#~| msgid "End of signed message"
+#~ msgid "Error loading message"
+#~ msgstr "署名付きメッセージの末尾"
+
+#, fuzzy, kde-format
+#~| msgid "Delete Attachment"
+#~ msgid "Delete Keys"
+#~ msgstr "添付ファイルを削除"
+
+#, kde-format
+#~ msgid "Edit with:"
+#~ msgstr "次で編集:"
+
+#, kde-format
+#~ msgid ""
+#~ "KMail is unable to detect when the chosen editor is closed. To avoid data "
+#~ "loss, editing the attachment will be aborted."
+#~ msgstr ""
+#~ "KMail は選択されたエディタが閉じられても検知できません。データの消失を避け"
+#~ "るために添付ファイルの編集を中止します。"
+
+#, kde-format
+#~ msgid "Unable to edit attachment"
+#~ msgstr "添付ファイルを編集できません"
+
+#, fuzzy, kde-format
+#~| msgid "VCard Viewer"
+#~ msgctxt "@title:window"
+#~ msgid "vCard Viewer"
+#~ msgstr "VCard ビューア"
+
+#, kde-format
+#~ msgid "&Import"
+#~ msgstr "インポート(&I)"
+
+#, kde-format
+#~ msgid "&Next Card"
+#~ msgstr "次のカード(&N)"
+
+#, kde-format
+#~ msgid "&Previous Card"
+#~ msgstr "前のカード(&P)"
+
+#~ msgid "Invalid signature."
+#~ msgstr "無効な署名です。"
+
+#~ msgid "Not enough information to check signature validity."
+#~ msgstr "署名の有効性をチェックするために十分な情報がありません。"
+
+#, fuzzy, kde-format
+#~| msgid "Signed by <a href=\"mailto:%1\">%2</a>."
+#~ msgid "Signed by <a href='mailto:%1'>%1</a>."
+#~ msgstr "<a href=\"mailto:%1\">%2</a> によって署名されています。"
+
+#~ msgid "Signature is valid."
+#~ msgstr "署名は有効です。"
+
+#, fuzzy, kde-format
+#~| msgid "Reply to: "
+#~ msgid "Reply From:"
+#~ msgstr "返信先: "
+
+#, fuzzy, kde-format
+#~| msgid "&Save message"
+#~ msgid "&Save message..."
+#~ msgstr "メッセージを保存(&S)"
+
+#, fuzzy
+#~| msgid "Delete Attachment"
+#~ msgctxt "abcd1234efgh5665hgfe4321dcba"
+#~ msgid "Remove Key"
+#~ msgstr "添付ファイルを削除"
+
+#, fuzzy
+#~| msgid "Delete Attachment"
+#~ msgctxt "abcd1234efgh5665hgfe4321dcba"
+#~ msgid "Delete Key"
+#~ msgstr "添付ファイルを削除"
+
+#~ msgid "&Open With..."
+#~ msgstr "アプリケーションで開く(&O)..."
+
+#, fuzzy
+#~| msgid "Show Details"
+#~ msgid "Details"
+#~ msgstr "詳細を表示"
+
+#~ msgid "View Attachment: %1"
+#~ msgstr "添付ファイルを表示: %1"
+
+#~ msgid "Message as Plain Text"
+#~ msgstr "メッセージをプレーンテキストとして"
+
+#~ msgid "Open Attachment?"
+#~ msgstr "添付ファイルを開きますか？"
+
+#, fuzzy
+#~| msgid "VCard Viewer"
+#~ msgid "vCard Viewer"
+#~ msgstr "VCard ビューア"
+
+#, fuzzy
+#~| msgid "Reply to: "
+#~ msgid "Reply to:"
+#~ msgstr "返信先: "
+
+#, fuzzy
+#~| msgid "(resent from %1)"
+#~ msgid "resent from"
+#~ msgstr "(%1 から再送)"
+
+#~ msgid "Hide attachment list."
+#~ msgstr "添付ファイルの一覧を隠します。"
+
+#~ msgid "Show attachment list."
+#~ msgstr "添付ファイルの一覧を表示します。"
+
+#~ msgid ""
+#~ "Modifying an attachment might invalidate any digital signature on this "
+#~ "message."
+#~ msgstr ""
+#~ "添付ファイルを編集すると、このメッセージの電子署名が無効になる可能性があり"
+#~ "ます。"
+
+#~ msgid "Edit Attachment"
+#~ msgstr "添付ファイルを編集"
+
+#~ msgid "Edit"
+#~ msgstr "編集"
+
+#~ msgid "Allow to edit attachments of existing mails."
+#~ msgstr "既存のメールの添付ファイルの編集を許可する"
+
+#, fuzzy
+#~| msgid "Show HTML status bar"
+#~ msgid "Show HTML Side Bar"
+#~ msgstr "HTML ステータスバーを表示する"
+
+#, fuzzy
+#~| msgid "Show &HTML status bar"
+#~ msgid "Show &HTML Side Bar"
+#~ msgstr "HTML ステータスバーを表示する(&H)"
+
+#, fuzzy
+#~| msgid "Show user agent in fancy headers"
+#~ msgid "Show user agent"
+#~ msgstr "ファンシーヘッダにユーザエージェントを表示する"
+
+#, fuzzy
+#~| msgid ""
+#~| "Enable this option to get the User-Agent and X-Mailer header lines "
+#~| "displayed when using fancy headers."
+#~ msgid ""
+#~ "Enable this option to get the User-Agent and X-Mailer header lines "
+#~ "displayed."
+#~ msgstr ""
+#~ "ヘッダの表示方法にファンシーヘッダを選択している場合もユーザエージェント"
+#~ "と X-Mailer を表示させるには、このオプションを有効にしてください。"
+
+#~ msgid "Show user agent in fancy headers"
+#~ msgstr "ファンシーヘッダにユーザエージェントを表示する"
+
+#~ msgctxt "display name for an unnamed attachment"
+#~ msgid "Unnamed"
+#~ msgstr "名前なし"
+
+#~ msgid "Unnamed plugin"
+#~ msgstr "名なしのプラグイン"
+
+#, fuzzy
+#~| msgid "No Audit Log available"
+#~ msgid "No description available"
+#~ msgstr "利用可能な監査ログがありません"
+
+#, fuzzy
+#~| msgid "Reply to: "
+#~ msgid "Reply"
+#~ msgstr "返信先: "
+
+#, fuzzy
+#~| msgid "Reply to: "
+#~ msgid "Reply to All"
+#~ msgstr "返信先: "
+
+#, fuzzy
+#~| msgid "&Save message"
+#~ msgid "Print Preview Message"
+#~ msgstr "メッセージを保存(&S)"
+
+# ACCELERATOR added by translator
+#~ msgid "Replace smileys by emoticons"
+#~ msgstr "顔文字を感情アイコンに置き換える(&B)"
+
+#~ msgid ""
+#~ "Enable this if you want smileys like :-) appearing in the message text to "
+#~ "be replaced by emoticons (small pictures)."
+#~ msgstr ""
+#~ "メッセージテキストに現れる :-) のような顔文字を感情アイコン (小さな絵) で"
+#~ "置換するには、これを有効にしてください。"
+
+#~ msgid "Replace smileys &by emoticons"
+#~ msgstr "顔文字を感情アイコンに置き換える(&B)"
+
+#~ msgctxt "View->headers->"
+#~ msgid "&Standard Headers"
+#~ msgstr "標準ヘッダ(&S)"
+
+#~ msgid "Show standard list of message headers"
+#~ msgstr "メッセージヘッダの標準リストを表示"
+
+#~ msgid "<b>Bad</b> signature"
+#~ msgstr "不正な署名"
+
+#~ msgid "<b>Bad</b> signature."
+#~ msgstr "不正な署名。"
+
+#~ msgid "Show spam status in fancy headers"
+#~ msgstr "ファンシーヘッダにスパム情報を表示する"
+
+#~ msgid "Show spam status &in fancy headers"
+#~ msgstr "ファンシーヘッダにスパム情報を表示する(&I)"
+
+#~ msgid "No Audit Log available"
+#~ msgstr "利用可能な監査ログがありません"
+
+#~ msgid "Error Retrieving Audit Log: %1"
+#~ msgstr "監査ログの取得でエラー: %1"
+
+#~ msgctxt "The Audit Log is a detailed error log from the gnupg backend"
+#~ msgid "Show Audit Log"
+#~ msgstr "監査ログを表示"
+
+#~ msgid "The crypto engine returned no cleartext data."
+#~ msgstr "暗号化エンジンは平文のデータを返しませんでした。"
+
+#~ msgid "Wrong Crypto Plug-In."
+#~ msgstr "暗号化プラグインが不正です。"
+
+#~ msgid "New or changed: %1 (secret key available)"
+#~ msgstr "新規または変更: %1 (秘密鍵を含む)"
+
+#~ msgid "New or changed: %1"
+#~ msgstr "新規または変更: %1"
+
+#~ msgid "No appropriate crypto plug-in was found."
+#~ msgstr "適切な暗号化プラグインが見つかりません。"
+
+#~ msgid "Crypto plug-in \"%1\" cannot decrypt messages."
+#~ msgstr "暗号化プラグイン “%1” はメッセージを復号できません。"
+
+#~ msgid "Crypto plug-in \"%1\" could not decrypt the data."
+#~ msgstr "暗号化プラグイン “%1” はデータを復号できませんでした。"
+
+#~ msgid "Error: %1"
+#~ msgstr "エラー: %1"
+
+#~ msgctxt "%1 is either 'OpenPGP' or 'S/MIME'"
+#~ msgid "No %1 plug-in was found."
+#~ msgstr "%1 プラグインが見つかりません。"
+
+#, fuzzy
+#~| msgid "Crypto plug-in \"%1\" cannot verify signatures."
+#~ msgid "Crypto plug-in \"%1\" cannot verify mSignatures."
+#~ msgstr "暗号化プラグイン “%1” は署名を検証できません。"
+
+#~ msgid "Crypto plug-in \"%1\" is not initialized."
+#~ msgstr "暗号化プラグイン “%1” が初期化されていません。"
+
+#~ msgid "Crypto plug-in \"%1\" cannot verify signatures."
+#~ msgstr "暗号化プラグイン “%1” は署名を検証できません。"
+
+#~ msgid ""
+#~ "The message is signed, but the validity of the signature cannot be "
+#~ "verified.<br />Reason: %1"
+#~ msgstr ""
+#~ "<qt>このメッセージは署名されていますが、署名の有効性は検証できませんでし"
+#~ "た。<br />理由: %1</qt>"
+
+#, fuzzy
+#~| msgid "No Subject"
+#~ msgid "Object"
+#~ msgstr "件名なし"
+
+#, fuzzy
+#~| msgid "Copy"
+#~ msgid "Copy url"
+#~ msgstr "コピー"
+
+#, fuzzy
+#~| msgctxt "to open"
+#~| msgid "Open"
+#~ msgid "Open"
+#~ msgstr "開く"
+
+#, fuzzy
+#~| msgid "Description"
+#~ msgid "Add subscription"
+#~ msgstr "説明"
+
+#, fuzzy
+#~| msgid "Show Details"
+#~ msgid "Show List"
+#~ msgstr "詳細を表示"
+
+#, fuzzy
+#~| msgid "No Audit Log available"
+#~ msgid "Not subscription added..."
+#~ msgstr "利用可能な監査ログがありません"
+
+#, fuzzy
+#~| msgid "Delete Attachment"
+#~ msgid "Delete current list"
+#~ msgstr "添付ファイルを削除"
+
+#, fuzzy
+#~| msgid "Show attachment list."
+#~ msgid "Show adblock list"
+#~ msgstr "添付ファイルの一覧を表示します。"
+
+#, fuzzy
+#~| msgid "Delete Attachment"
+#~ msgid "Delete List"
+#~ msgstr "添付ファイルを削除"
+
+#, fuzzy
+#~| msgid "Reply to: "
+#~ msgid "Apply to:"
+#~ msgstr "返信先: "
+
+#, fuzzy
+#~| msgid "Collapse quoted text."
+#~ msgid "Collapse blocked:"
+#~ msgstr "引用テキストをたたみます。"
+
+#, fuzzy
+#~| msgid "Description"
+#~ msgid "Remove subscription"
+#~ msgstr "説明"
+
+#~ msgid "Close"
+#~ msgstr "閉じる"
+
+#~ msgctxt "Find and go to the previous search match"
+#~ msgid "Previous"
+#~ msgstr "前へ"
+
+#, fuzzy
+#~| msgctxt "View->"
+#~| msgid "&Headers"
+#~ msgid "Headers:"
+#~ msgstr "ヘッダ(&H)"
+
+# ACCELERATOR changed by translator
+#~ msgid "&Override character encoding:"
+#~ msgstr "文字エンコーディングを強制(&V):"
+
+#, fuzzy
+#~| msgctxt "View->headers->"
+#~| msgid "&Long Headers"
+#~ msgid "Configure Custom Headers..."
+#~ msgstr "長いヘッダ(&L)"
+
+#~ msgid "Au&tomatic collapse level:"
+#~ msgstr "自動的にたたむレベル(&T):"
+
+#~ msgctxt "View->headers->"
+#~ msgid "&All Headers"
+#~ msgstr "すべてのヘッダ(&A)"
+
+#~ msgid "Show all message headers"
+#~ msgstr "すべてのメッセージヘッダを表示"
+
+#~ msgctxt "View->headers->"
+#~ msgid "&Brief Headers"
+#~ msgstr "簡易ヘッダ(&B)"
+
+#~ msgid "Show brief list of message headers"
+#~ msgstr "メッセージヘッダの簡易リストを表示"
+
+#, fuzzy
+#~| msgctxt "View->headers->"
+#~| msgid "&Long Headers"
+#~ msgctxt "View->headers->"
+#~ msgid "&Custom Headers"
+#~ msgstr "長いヘッダ(&L)"
+
+#, fuzzy
+#~| msgid "Show long list of message headers"
+#~ msgid "Show custom headers"
+#~ msgstr "メッセージヘッダの長いリストを表示"
+
+#~ msgid "To: "
+#~ msgstr "宛先: "
+
+#~ msgctxt "View->headers->"
+#~ msgid "&Enterprise Headers"
+#~ msgstr "企業向けヘッダ(&E)"
+
+#~ msgid "Show the list of headers in Enterprise style"
+#~ msgstr "ヘッダのリストを企業向けのスタイルで表示"
+
+#~ msgid "(resent from %1)"
+#~ msgstr "(%1 から再送)"
+
+#~ msgctxt "To-field of the mail header."
+#~ msgid "To: "
+#~ msgstr "宛先: "
+
+#~ msgid "User-Agent: "
+#~ msgstr "ユーザエージェント: "
+
+#~ msgid "X-Mailer: "
+#~ msgstr "X-Mailer: "
+
+#, fuzzy
+#~| msgid "To: "
+#~ msgid "MDN To: "
+#~ msgstr "宛先: "
+
+#~ msgctxt "View->headers->"
+#~ msgid "&Fancy Headers"
+#~ msgstr "ファンシーヘッダ(&F)"
+
+#~ msgid "Show the list of headers in a fancy format"
+#~ msgstr "ヘッダのリストを見栄えの良い書式で表示"
+
+#~ msgctxt "View->headers->"
+#~ msgid "&Long Headers"
+#~ msgstr "長いヘッダ(&L)"
+
+#~ msgid "Show long list of message headers"
+#~ msgstr "メッセージヘッダの長いリストを表示"
+
+#, fuzzy
+#~| msgid "sent: "
+#~ msgid "Event:"
+#~ msgstr "送信者: "
+
+#, fuzzy
+#~| msgid "Open With..."
+#~ msgid "Open &editor..."
+#~ msgstr "アプリケーションで開く..."
+
+#, fuzzy
+#~| msgid "Edit with:"
+#~ msgctxt "edit a note on this message"
+#~ msgid "Edit Note"
+#~ msgstr "次で編集:"
+
+#, fuzzy
+#~| msgid "Reply to: "
+#~ msgid "Reply to \"%1\""
+#~ msgstr "返信先: "
+
+#, fuzzy
+#~| msgctxt "View->"
+#~| msgid "&Headers"
+#~ msgid "Header:"
+#~ msgstr "ヘッダ(&H)"
+
+#~ msgid "Allow to delete attachments of existing mails."
+#~ msgstr "既存のメールの添付ファイルの削除を許可する"
+
+#~ msgid "Message Structure Viewer Placement"
+#~ msgstr "メッセージ構造ビューアの位置"
+
+#~ msgid "Above the message pane"
+#~ msgstr "メッセージ領域の上"
+
+#~ msgid "Below the message pane"
+#~ msgstr "メッセージ領域の下"
+
+#~ msgid "Fallback character e&ncoding:"
+#~ msgstr "代替文字エンコーディング(&N):"
+
+#, fuzzy
+#~| msgid "Show all message headers"
+#~ msgid "Show Raw Message"
+#~ msgstr "すべてのメッセージヘッダを表示"
+
+#~ msgid "Decrypt With Chiasmus..."
+#~ msgstr "Chiasmus で復号..."
+
+#~ msgid ""
+#~ "Chiasmus backend does not offer the \"x-obtain-keys\" function. Please "
+#~ "report this bug."
+#~ msgstr ""
+#~ "Chaimus バックエンドは “x-obtain-keys” 関数を提供しません。このバグを報告"
+#~ "してください。"
+
+#~ msgid "Chiasmus Backend Error"
+#~ msgstr "Chiasmus バックエンドエラー"
+
+#~ msgid ""
+#~ "Unexpected return value from Chiasmus backend: The \"x-obtain-keys\" "
+#~ "function did not return a string list. Please report this bug."
+#~ msgstr ""
+#~ "Chiasmus バックエンドから予期しない戻り値: “x-obtain-keys” 関数は文字リス"
+#~ "トを返しませんでした。このバグを報告してください。"
+
+#~ msgid ""
+#~ "No keys have been found. Please check that a valid key path has been set "
+#~ "in the Chiasmus configuration."
+#~ msgstr ""
+#~ "鍵が見つかりません。Chiasmus 設定で有効な鍵のパスが設定されているか確認し"
+#~ "てください。"
+
+#~ msgid "Chiasmus Decryption Key Selection"
+#~ msgstr "Chiasmus 復号鍵の選択"
+
+#~ msgid ""
+#~ "Chiasmus backend does not offer the \"x-decrypt\" function. Please report "
+#~ "this bug."
+#~ msgstr ""
+#~ "Chiasmus バックエンドは “x-decrypt” 関数を提供しません。このバグを報告して"
+#~ "ください。"
+
+#~ msgid ""
+#~ "The \"x-decrypt\" function does not accept the expected parameters. "
+#~ "Please report this bug."
+#~ msgstr ""
+#~ "“x-decrypt” 関数は期待されるパラメータを受け取りません。このバグを報告して"
+#~ "ください。"
+
+#~ msgid "Chiasmus Decryption Error"
+#~ msgstr "Chiasmus 復号エラー"
+
+#~ msgid ""
+#~ "Unexpected return value from Chiasmus backend: The \"x-decrypt\" function "
+#~ "did not return a byte array. Please report this bug."
+#~ msgstr ""
+#~ "Chiasmus バックエンドから予期しない戻り値: “x-decrypt” 関数はバイト列を返"
+#~ "しませんでした。このバグを報告してください。"
+
+#~ msgid "Please select the Chiasmus key file to use:"
+#~ msgstr "使用する Chiasmus 鍵ファイルを選択してください:"
+
+#~ msgid "Additional arguments for chiasmus:"
+#~ msgstr "chiasmus の追加引数:"
+
+#~ msgid "sent: "
+#~ msgstr "送信者: "
+
+#~ msgid "Encrypted data not shown"
+#~ msgstr "暗号化されたデータは表示されません"
+
+#, fuzzy
+#~| msgid "End of signed message"
+#~ msgid "We can not save message."
+#~ msgstr "署名付きメッセージの末尾"
+
+#, fuzzy
+#~| msgid "&View Source"
+#~ msgid "View Source Error"
+#~ msgstr "ソースを表示(&V)"
+
+#~ msgid "The message could not be decrypted."
+#~ msgstr "メッセージを復号できませんでした。"
+
+#~ msgid "VCard Viewer"
+#~ msgstr "VCard ビューア"
+
+#~ msgid "File Already Exists"
+#~ msgstr "ファイルは既に存在します"
+
+#, fuzzy
+#~| msgid ""
+#~| "A file named <br><filename>%1</filename><br>already exists.<br><br>Do "
+#~| "you want to overwrite it?"
+#~ msgid ""
+#~ "A file named <filename>%1</filename> already exists. Do you want to "
+#~ "overwrite it?"
+#~ msgstr ""
+#~ "<p>この名前のファイルは既に存在します。<br/><filename>%1</filename></p><p>"
+#~ "上書きしますか？</p>"
+
+#~ msgid "&Overwrite"
+#~ msgstr "上書き(&O)"
+
+#, fuzzy
+#~| msgid "Reply to: "
+#~ msgid "Appl&y to All"
+#~ msgstr "返信先: "
+
+#, fuzzy
+#~| msgid "From: "
+#~ msgctxt "Translate from language"
+#~ msgid "From:"
+#~ msgstr "差出人: "
+
+#, fuzzy
+#~| msgid "To: "
+#~ msgctxt "Translate to language"
+#~ msgid "To:"
+#~ msgstr "宛先: "
+
+#, fuzzy
+#~| msgctxt "View->"
+#~| msgid "&Headers"
+#~ msgid "Header to show:"
+#~ msgstr "ヘッダ(&H)"
+
+#, fuzzy
+#~| msgid "Message Structure Viewer Placement"
+#~ msgid "Message contains form element"
+#~ msgstr "メッセージ構造ビューアの位置"
+
+#, fuzzy
+#~| msgid "This message is encrypted."
+#~ msgid "This message may be a scam."
+#~ msgstr "このメッセージは暗号化されています。"
+
+#~ msgid "&Save message"
+#~ msgstr "メッセージを保存(&S)"
+
+#~ msgid ""
+#~ "A file named <br><filename>%1</filename><br>already exists.<br><br>Do you "
+#~ "want to overwrite it?"
+#~ msgstr ""
+#~ "<p>この名前のファイルは既に存在します。<br/><filename>%1</filename></p><p>"
+#~ "上書きしますか？</p>"
+
+#~ msgid "Overwrite &All"
+#~ msgstr "すべて上書き(&A)"
+
+# |,no-check-spell
+#, fuzzy
+#~| msgid ""
+#~| "<qt><b><br />H<br />T<br />M<br />L<br /> <br />M<br />e<br />s<br /"
+#~| ">s<br />a<br />g<br />e</b></qt>"
+#~ msgctxt ""
+#~ "'HTML Message' with html linebreaks between each letter and in bold text."
+#~ msgid ""
+#~ "<b><br />H<br />T<br />M<br />L<br /> <br />M<br />e<br />s<br />s<br /"
+#~ ">a<br />g<br />e</b></qt>"
+#~ msgstr ""
+#~ "<qt><b><br />H<br />T<br />M<br />L<br /> <br />メ<br />ッ<br />セ<br />ー"
+#~ "<br />ジ</b></qt>"
+
+# |,no-check-spell
+#, fuzzy
+#~| msgid ""
+#~| "<qt><b><br />H<br />T<br />M<br />L<br /> <br />M<br />e<br />s<br /"
+#~| ">s<br />a<br />g<br />e</b></qt>"
+#~ msgctxt "'HTML Message' with html linebreaks between each letter."
+#~ msgid "<br />M<br />e<br />s<br />s<br />a<br />g<br />e</b></qt>"
+#~ msgstr ""
+#~ "<qt><b><br />H<br />T<br />M<br />L<br /> <br />メ<br />ッ<br />セ<br />ー"
+#~ "<br />ジ</b></qt>"
+
+# |,no-check-spell
+#, fuzzy
+#~| msgid ""
+#~| "<qt><b><br />H<br />T<br />M<br />L<br /> <br />M<br />e<br />s<br /"
+#~| ">s<br />a<br />g<br />e</b></qt>"
+#~ msgctxt ""
+#~ "'HTML Message' with html linebreaks between each letter and in bold text."
+#~ msgid "<b><br />M<br />e<br />s<br />s<br />a<br />g<br />e</b></qt>"
+#~ msgstr ""
+#~ "<qt><b><br />H<br />T<br />M<br />L<br /> <br />メ<br />ッ<br />セ<br />ー"
+#~ "<br />ジ</b></qt>"
+
+#, fuzzy
+#~| msgid "Viewer settings"
+#~ msgid "Viewertest_Gui"
+#~ msgstr "ビューアの設定"
+
+#~ msgctxt "To field of the mail header."
+#~ msgid "To: "
+#~ msgstr "宛先: "
+
+#~ msgid ""
+#~ "Some emails, especially those generated automatically, do not specify the "
+#~ "character encoding which needs to be used to properly display them. In "
+#~ "such cases a fallback character encoding will be used, which you can "
+#~ "configure here. Set it to the character encoding most commonly used in "
+#~ "your part of the world. As a default the encoding configured for the "
+#~ "whole system is used."
+#~ msgstr ""
+#~ "一部のメール、特に自動生成されたものには、メッセージを正しく表示するために"
+#~ "必要な文字エンコーディングが指定されていません。そのような場合に、ここで設"
+#~ "定した代替文字エンコーディングを使用します。お住いの国で最も一般的に使用さ"
+#~ "れている文字エンコーディングを選択してください。標準では、システム全体に設"
+#~ "定されたエンコーディングを使用します。"
+
+#~ msgid ""
+#~ "Changing this from its default 'Auto' will force the use of the specified "
+#~ "encoding for all emails, regardless of what they specify themselves."
+#~ msgstr ""
+#~ "これを標準の「自動」から変更すると、それぞれのメッセージに指定されているエ"
+#~ "ンコーディングに関係なく、すべてのメッセージにここで指定したエンコーディン"
+#~ "グを使用します。"
+
+#~ msgid "Attachment #%1 (unnamed)"
+#~ msgstr "添付ファイル #%1 (名前なし)"
+
+#~ msgid "Failed to parse vCard."
+#~ msgstr "vCard の解析に失敗しました。"
+
+#~ msgid "Mailreader"
+#~ msgstr "Mailreader"
+
+#~ msgid "The email client for the K Desktop Environment."
+#~ msgstr "K デスクトップ環境用のメールクライアント"
+
+#~ msgid "( body part )"
+#~ msgstr "( メッセージ本体 )"
+
+#~ msgid ""
+#~ "[KMail: Attachment contains binary data. Trying to show first character.]"
+#~ msgid_plural ""
+#~ "[KMail: Attachment contains binary data. Trying to show first %1 "
+#~ "characters.]"
+#~ msgstr[0] ""
+#~ "[KMail: 添付ファイルにはバイナリデータが含まれています。最初の %1 文字を表"
+#~ "示します。]"
+
+#~ msgctxt "message encoding type"
+#~ msgid "None (7-bit text)"
+#~ msgstr "なし (7bit テキスト)"
+
+#~ msgctxt "message encoding type"
+#~ msgid "None (8-bit text)"
+#~ msgstr "なし (8bit テキスト)"
+
+#~ msgctxt "message encoding type"
+#~ msgid "Quoted Printable"
+#~ msgstr "Quoted Printable"
+
+#~ msgctxt "message encoding type"
+#~ msgid "Base 64"
+#~ msgstr "Base 64"
+
+#~ msgid "Message Part Properties"
+#~ msgstr "メッセージパートのプロパティ"
+
+#~ msgid ""
+#~ "<qt><p>The <em>MIME type</em> of the file:</p><p>normally, you do not "
+#~ "need to touch this setting, since the type of the file is automatically "
+#~ "checked; but, sometimes, %1 may not detect the type correctly -- here is "
+#~ "where you can fix that.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>ファイルの MIME タイプ</p><p>ファイルタイプは自動的にチェックされる"
+#~ "ので、通常はこの設定を変更する必要はありません。しかし %1 がタイプを正しく"
+#~ "検出できないことがあります。そのような場合、ここで修正できます。</p></qt>"
+
+#~ msgid ""
+#~ "<qt><p>The size of the part:</p><p>sometimes, %1 will only give an "
+#~ "estimated size here, because calculating the exact size would take too "
+#~ "much time; when this is the case, it will be made visible by adding "
+#~ "\"(est.)\" to the size displayed.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>パートのサイズ</p><p>正確なサイズを計算すると時間がかり過ぎる場合、"
+#~ "%1 はここに推定サイズを表示することがあります。そのような場合、表示サイズ"
+#~ "に「(推定)」と付加することで、そのことを示します。</p></qt>"
+
+#~ msgctxt "file name of the attachment."
+#~ msgid "&Name:"
+#~ msgstr "名前(&N):"
+
+#~ msgid ""
+#~ "<qt><p>The file name of the part:</p><p>although this defaults to the "
+#~ "name of the attached file, it does not specify the file to be attached; "
+#~ "rather, it suggests a file name to be used by the recipient's mail agent "
+#~ "when saving the part to disk.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>パートのファイル名</p><p>ここには標準で添付ファイルのファイル名が"
+#~ "セットされますが、添付するファイルをここで指定するわけではありません。これ"
+#~ "は、受信者のメールクライアントがパートをディスクに保存する際に提示するファ"
+#~ "イル名として使われるものです。</p></qt>"
+
+#~ msgid "&Description:"
+#~ msgstr "説明(&D):"
+
+#~ msgid ""
+#~ "<qt><p>A description of the part:</p><p>this is just an informational "
+#~ "description of the part, much like the Subject is for the whole message; "
+#~ "most mail agents will show this information in their message previews "
+#~ "alongside the attachment's icon.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>パートの説明</p><p>パートに関する説明です。本文メッセージに対する"
+#~ "「件名」のようなものです。ほとんどのメールクライアントは、メッセージプレ"
+#~ "ビューに添付ファイルのアイコンとともにこの情報を表示します。</p></qt>"
+
+#~ msgid "&Encoding:"
+#~ msgstr "エンコーディング(&E):"
+
+#~ msgid ""
+#~ "<qt><p>The transport encoding of this part:</p><p>normally, you do not "
+#~ "need to change this, since %1 will use a decent default encoding, "
+#~ "depending on the MIME type; yet, sometimes, you can significantly reduce "
+#~ "the size of the resulting message, e.g. if a PostScript file does not "
+#~ "contain binary data, but consists of pure text -- in this case, choosing "
+#~ "\"quoted-printable\" over the default \"base64\" will save up to 25% in "
+#~ "resulting message size.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>このパートの送信時のエンコーディング</p><p>%1 は MIME タイプに応じ"
+#~ "て適切なエンコーディングを選択するので、通常、この設定を変更する必要はあり"
+#~ "ません。しかし、この設定によりメッセージのサイズを大幅に削減できる場合があ"
+#~ "ります。例えば、バイナリデータを持たず、テキストのみからなる PostScript "
+#~ "ファイルの場合、標準の “base64” を選択するよりも “quoted-printable” を選択"
+#~ "する方が、25% ほどメッセージのサイズを減らせます。</p></qt>"
+
+#~ msgid "Suggest &automatic display"
+#~ msgstr "自動的に表示させる(&A)"
+
+# skip-rule: attachment
+#~ msgid ""
+#~ "<qt><p>Check this option if you want to suggest to the recipient the "
+#~ "automatic (inline) display of this part in the message preview, instead "
+#~ "of the default icon view;</p><p>technically, this is carried out by "
+#~ "setting this part's <em>Content-Disposition</em> header field to "
+#~ "\"inline\" instead of the default \"attachment\".</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>受信者のメールクライアントに、このパートを標準のアイコン表示ではな"
+#~ "くメッセージのプレビュー中にインライン表示させるには、このオプションを有効"
+#~ "にしてください。</p><p>技術的には、これはこのパートの <tt>Content-"
+#~ "Disposition</tt> ヘッダフィールドに “attachment” ではなく “inline” と指定"
+#~ "することで実現されます。</p></qt>"
+
+#~ msgid "&Sign this part"
+#~ msgstr "このパートに署名(&S)"
+
+#~ msgid ""
+#~ "<qt><p>Check this option if you want this message part to be signed;</"
+#~ "p><p>the signature will be made with the key that you associated with the "
+#~ "currently-selected identity.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>このパートに署名する場合は、このオプションを有効にしてください。</"
+#~ "p><p>現在選択されている個人情報に設定されている鍵を用いて署名します。</"
+#~ "p></qt>"
+
+#~ msgid "Encr&ypt this part"
+#~ msgstr "このパートを暗号化(&Y)"
+
+#~ msgid ""
+#~ "<qt><p>Check this option if you want this message part to be encrypted;</"
+#~ "p><p>the part will be encrypted for the recipients of this message</p></"
+#~ "qt>"
+#~ msgstr ""
+#~ "<qt><p>このパートを暗号化する場合は、このオプションを有効にしてください。"
+#~ "</p><p>このパートはこのメッセージの受信者に合った暗号化が施されます。</"
+#~ "p></qt>"
+
+#~ msgctxt "%1: a filesize incl. unit (e.g. \"1.3 KB\")"
+#~ msgid "%1 (est.)"
+#~ msgstr "%1 (推定)"
+
+#, fuzzy
+#~| msgid ""
+#~| "Some emails, especially those generated automatically, do not specify "
+#~| "the character encoding which needs to be used to properly display them. "
+#~| "In such cases a fallback character encoding will be used, which you can "
+#~| "configure here. Set it to the character encoding most commonly used in "
+#~| "your part of the world. As a default the encoding configured for the "
+#~| "whole system is used."
+#~ msgid ""
+#~ "Some emails, especially those generated\n"
+#~ "      automatically, do not specify the character encoding which\n"
+#~ "      needs to be used to properly display them. In such cases a\n"
+#~ "      fallback character encoding will be used, which you can\n"
+#~ "      configure here. Set it to the character encoding most\n"
+#~ "      commonly used in your part of the world. As a default the\n"
+#~ "      encoding configured for the whole system is used."
+#~ msgstr ""
+#~ "一部のメール、特に自動生成されたものには、メッセージを正しく表示するために"
+#~ "必要な文字エンコーディングが指定されていません。そのような場合に、ここで設"
+#~ "定した代替文字エンコーディングを使用します。お住いの国で最も一般的に使用さ"
+#~ "れている文字エンコーディングを選択してください。標準では、システム全体に設"
+#~ "定されたエンコーディングを使用します。"
+
+#, fuzzy
+#~| msgid ""
+#~| "Changing this from its default 'Auto' will force the use of the "
+#~| "specified encoding for all emails, regardless of what they specify "
+#~| "themselves."
+#~ msgid ""
+#~ "Changing this from its default 'Auto' will force\n"
+#~ "      the use of the specified encoding for all emails, regardless\n"
+#~ "      of what they specify themselves."
+#~ msgstr ""
+#~ "これを標準の「自動」から変更すると、それぞれのメッセージに指定されているエ"
+#~ "ンコーディングに関係なく、すべてのメッセージにここで指定したエンコーディン"
+#~ "グを使用します。"
+
+#, fuzzy
+#~| msgid ""
+#~| "Enable this if you want smileys like :-) appearing in the message text "
+#~| "to be replaced by emoticons (small pictures)."
+#~ msgid ""
+#~ "Enable this if you want smileys like :-) appearing\n"
+#~ "      in the message text to be replaced by emoticons (small\n"
+#~ "      pictures)."
+#~ msgstr ""
+#~ "メッセージテキストに現れる :-) のような顔文字を感情アイコン (小さな絵) で"
+#~ "置換するには、これを有効にしてください。"
+
+#, fuzzy
+#~| msgid ""
+#~| "Enable this option to show different levels of quoted text. Disable to "
+#~| "hide the levels of quoted text."
+#~ msgid ""
+#~ "Enable this option to show different levels of\n"
+#~ "      quoted text. Disable to hide the levels of quoted\n"
+#~ "      text."
+#~ msgstr ""
+#~ "引用テキストのレベル (深さ) を表示するには、このオプションを有効にしてくだ"
+#~ "さい。無効にすると、引用テキストのレベルは表示されません。"
+
+#, fuzzy
+#~| msgid "Enable this option to show quoted text with a smaller font."
+#~ msgid ""
+#~ "Enable this option to show quoted text with a\n"
+#~ "      smaller font."
+#~ msgstr ""
+#~ "引用テキストをより小さなフォントを用いて表示するには、このオプションを有効"
+#~ "にしてください。"
+
+#, fuzzy
+#~| msgid ""
+#~| "Enable this option to get the User-Agent and X-Mailer header lines "
+#~| "displayed when using fancy headers."
+#~ msgid ""
+#~ "Enable this option to get the User-Agent and\n"
+#~ "      X-Mailer header lines displayed when using fancy\n"
+#~ "      headers."
+#~ msgstr ""
+#~ "ヘッダの表示方法にファンシーヘッダを選択している場合もユーザエージェント"
+#~ "と X-Mailer を表示させるには、このオプションを有効にしてください。"
+
+#, fuzzy
+#~| msgid "Always decrypt messages when viewing or ask before decrypting"
+#~ msgid ""
+#~ "Always decrypt messages when viewing or ask before\n"
+#~ "      decrypting"
+#~ msgstr ""
+#~ "メッセージを表示するときに常に復号するか、復号する前に尋ねるかどうか"

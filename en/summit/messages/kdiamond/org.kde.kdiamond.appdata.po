@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: org.kde.kdiamond.appdata\n"
+"POT-Creation-Date: 2024-04-04 10:36+0200\n"
+"PO-Revision-Date: 2018-11-12 22:43-0800\n"
+"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. (itstool) path: component/name
+#. +> trunk6 stable6
+#: org.kde.kdiamond.appdata.xml:9
+msgid "KDiamond"
+msgstr ""
+
+#. (itstool) path: component/summary
+#. +> trunk6 stable6
+#: org.kde.kdiamond.appdata.xml:10
+msgid "KDiamond is a three-in-a-row game by KDE"
+msgstr ""
+
+#. (itstool) path: description/p
+#. +> trunk6 stable6
+#: org.kde.kdiamond.appdata.xml:12
+msgid ""
+"KDiamond is a single player puzzle game. The object of the game is to build "
+"lines of three similar diamonds."
+msgstr ""
+
+#. (itstool) path: screenshot/caption
+#. +> trunk6 stable6
+#: org.kde.kdiamond.appdata.xml:22
+msgid "Playing KDiamond"
+msgstr ""

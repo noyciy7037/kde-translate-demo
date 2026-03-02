@@ -1,0 +1,144 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the falkon package.
+# Daiki Noda <sys.pdr.pdm9@gmail.com>, 2017
+# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: falkon_mousegestures_qt\n"
+"POT-Creation-Date: 2024-02-16 00:15+0100\n"
+"PO-Revision-Date: 2023-05-28 23:22-0700\n"
+"Last-Translator: Fumiaki Okushi <fumiaki.okushi@gmail.com>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Language: ja_JP\n"
+"X-Qt-Contexts: true\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: qtrich\n"
+
+#. +> trunk6 stable6
+#: mousegesturessettingsdialog.ui:14
+msgctxt "MouseGesturesSettingsDialog|"
+msgid "Mouse Gestures"
+msgstr "Mouse Gestures"
+
+#. +> trunk6 stable6
+#: mousegesturessettingsdialog.ui:42
+msgctxt "MouseGesturesSettingsDialog|"
+msgid "<h1>Mouse Gestures</h1>"
+msgstr "<h1>Mouse Gestures</h1>"
+
+#. +> trunk6 stable6
+#: mousegesturessettingsdialog.ui:90
+msgctxt "MouseGesturesSettingsDialog|"
+msgid "Mouse button:"
+msgstr "マウスボタン:"
+
+#. +> trunk6 stable6
+#: mousegesturessettingsdialog.ui:98
+msgctxt "MouseGesturesSettingsDialog|"
+msgid "Middle button"
+msgstr "ミドルクリック"
+
+#. +> trunk6 stable6
+#: mousegesturessettingsdialog.ui:103
+msgctxt "MouseGesturesSettingsDialog|"
+msgid "Right button"
+msgstr "右クリック"
+
+#. +> trunk6 stable6
+#: mousegesturessettingsdialog.ui:108
+msgctxt "MouseGesturesSettingsDialog|"
+msgid "Disabled"
+msgstr "無効"
+
+#. +> trunk6 stable6
+#: mousegesturessettingsdialog.ui:116
+msgctxt "MouseGesturesSettingsDialog|"
+msgid "Rocker Navigation:"
+msgstr "ロッカーナビゲーション:"
+
+#. +> trunk6 stable6
+#: mousegesturessettingsdialog.ui:123
+msgctxt "MouseGesturesSettingsDialog|"
+msgid "Enable Rocker Navigation"
+msgstr "ロッカーナビゲーションを有効にする"
+
+#. +> trunk6 stable6
+#: mousegesturessettingsdialog.ui:147
+msgctxt "MouseGesturesSettingsDialog|"
+msgid ""
+"Press and hold the mouse button and move your mouse in the indicated "
+"directions."
+msgstr ""
+"マウスボタンをクリックしながら指示された方向にマウスを動かしてください。"
+
+#. +> trunk6 stable6
+#: mousegesturessettingsdialog.ui:181
+msgctxt "MouseGesturesSettingsDialog|"
+msgid "<b>Stop</b><br/>Stop loading page"
+msgstr "<b>中止</b><br/>ページの読み込みを中止します"
+
+#. +> trunk6 stable6
+#: mousegesturessettingsdialog.ui:195
+msgctxt "MouseGesturesSettingsDialog|"
+msgid "<b>New tab</b><br/>Open new tab"
+msgstr "<b>新しいタブ</b><br/>新しいタブを開きます"
+
+#. +> trunk6 stable6
+#: mousegesturessettingsdialog.ui:209
+msgctxt "MouseGesturesSettingsDialog|"
+msgid "<b>Back</b><br/>Go back in history"
+msgstr "<b>戻る</b><br/>履歴をもとに戻ります"
+
+#. +> trunk6 stable6
+#: mousegesturessettingsdialog.ui:236
+msgctxt "MouseGesturesSettingsDialog|"
+msgid "<b>Close tab</b><br/>Close current tab"
+msgstr "<b>タブを閉じる</b><br/>現在のタブを閉じます"
+
+#. +> trunk6 stable6
+#: mousegesturessettingsdialog.ui:250
+msgctxt "MouseGesturesSettingsDialog|"
+msgid "<b>Forward</b><br/>Go forward in history"
+msgstr "<b>進む</b><br/>履歴をもとに進みます"
+
+#. +> trunk6 stable6
+#: mousegesturessettingsdialog.ui:257
+msgctxt "MouseGesturesSettingsDialog|"
+msgid "<b>Previous tab</b><br/>Switch to previous tab"
+msgstr "<b>前のタブ</b><br/>前のタブへ切り替えます"
+
+#. +> trunk6 stable6
+#: mousegesturessettingsdialog.ui:271
+msgctxt "MouseGesturesSettingsDialog|"
+msgid "<b>Home</b><br/>Go to homepage"
+msgstr "<b>ホーム</b><br/>ホームページへ移動します"
+
+#. +> trunk6 stable6
+#: mousegesturessettingsdialog.ui:285
+msgctxt "MouseGesturesSettingsDialog|"
+msgid "<b>Next tab</b><br/>Switch to next tab"
+msgstr "<b>次のタブ</b><br/>次のタブへ切り替えます"
+
+#. +> trunk6 stable6
+#: mousegesturessettingsdialog.ui:299
+msgctxt "MouseGesturesSettingsDialog|"
+msgid "<b>Reload</b><br/>Reload page"
+msgstr "<b>更新</b><br/>ページを更新します"
+
+#. +> trunk6 stable6
+#: mousegesturessettingsdialog.ui:313
+msgctxt "MouseGesturesSettingsDialog|"
+msgid "<b>Duplicate</b><br/>Duplicate current tab"
+msgstr "<b>複製</b><br/>現在のタブを複製します"
+
+#. +> trunk6 stable6
+#: mousegesturessettingsdialog.ui:337
+msgctxt "MouseGesturesSettingsDialog|"
+msgid "License"
+msgstr "ライセンス"

@@ -1,0 +1,2517 @@
+# Ryuichi Yamada <ryuichi_ya220@outlook.jp>, 2022, 2023.
+# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2022.
+# SPDX-FileCopyrightText: 2024, 2025 Lemon73 <Lemonade.Flash.1164@gmail.com>
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2026-02-08 11:36+0100\n"
+"PO-Revision-Date: 2025-08-05 01:58+0900\n"
+"Last-Translator: Lemon73 <Lemonade.Flash.1164@gmail.com>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+"X-Generator: Lokalize 25.04.3\n"
+
+#. +> trunk5
+#: config.yaml:0
+msgid "Develop"
+msgstr "開発"
+
+#. +> trunk5
+#: config.yaml:0 i18n/en.yaml:13
+msgid "Get Involved"
+msgstr "参加"
+
+#. +> trunk5
+#: data/distros.yaml:0
+#, fuzzy
+#| msgid "KFocus"
+msgid "Kubuntu"
+msgstr "KFocus"
+
+#. +> trunk5
+#: data/distros.yaml:0
+msgid ""
+"Kubuntu is the Ubuntu version with KDE software by default. Developers "
+"strive to provide usability for beginners. The default installation includes "
+"many popular programs and a utility for managing drivers."
+msgstr ""
+
+#. +> trunk5
+#: data/distros.yaml:0
+msgid "Canonical, the developer of Ubuntu and Kubuntu, is a KDE Patron."
+msgstr ""
+
+#. +> trunk5
+#: data/distros.yaml:0
+msgid "openSUSE"
+msgstr ""
+
+#. +> trunk5
+#: data/distros.yaml:0
+msgid ""
+"openSUSE comes in two versions. **Leap**, a stable distribution with regular "
+"releases, comes with LTS versions of Linux, Qt and Plasma. **Tumbleweed**, a "
+"rolling distribution with the latest versions of all packages"
+msgstr ""
+
+#. +> trunk5
+#: data/distros.yaml:0
+msgid "SUSE is a KDE Patron."
+msgstr ""
+
+#. +> trunk5
+#: data/distros.yaml:0
+msgid "Fedora KDE"
+msgstr ""
+
+#. +> trunk5
+#: data/distros.yaml:0
+msgid ""
+"Fedora is a stable distribution sponsored by Red Hat. A new version of "
+"Fedora is released every 6 months."
+msgstr ""
+
+#. +> trunk5
+#: data/distros.yaml:0
+#, fuzzy
+#| msgid "KDE Eco"
+msgid "KDE neon"
+msgstr "KDE Eco"
+
+#. +> trunk5
+#: data/distros.yaml:0
+msgid ""
+"KDE neon takes the latest Plasma desktop and KDE apps and builds them fresh "
+"each day for your pleasure, using the stable Ubuntu LTS base."
+msgstr ""
+
+#. +> trunk5
+#: data/distros.yaml:0
+msgid ""
+"KDE neon User Edition is built from the latest released software "
+"automatically added and released as soon as it is tested."
+msgstr ""
+
+#. +> trunk5
+#: data/distros.yaml:0
+msgid ""
+"We also have Testing and Unstable editions built directly from unreleased "
+"Git for helping develop our software."
+msgstr ""
+
+#. +> trunk5
+#: data/distros.yaml:0
+msgid "It is installable as your Linux distro or from Docker images."
+msgstr ""
+
+#. +> trunk5
+#: data/distros.yaml:0
+msgid "KDE neon is a KDE project."
+msgstr ""
+
+#. +> trunk5
+#: data/distros.yaml:0
+msgid "Other Distributions"
+msgstr ""
+
+#. +> trunk5
+#: data/distros.yaml:0
+msgid ""
+"You can install KDE applications and Plasma in other Linux distributions and "
+"other operating systems. A list of those is available on the [KDE Community "
+"wiki](https://community.kde.org/Distributions)."
+msgstr ""
+
+#. +> trunk5
+#: data/frontpage_event_gallery.yaml:0
+#, fuzzy
+#| msgid "Kdenlive Sprint"
+msgid "Kdenlive 2025 Sprint"
+msgstr "Kdenlive Sprint"
+
+#. +> trunk5
+#: data/frontpage_event_gallery.yaml:0
+msgid "Berlin, Germany"
+msgstr "ベルリン、ドイツ"
+
+#. +> trunk5
+#: data/frontpage_event_gallery.yaml:0
+#, fuzzy
+#| msgid "FOSDEM"
+msgid "FOSDEM 2025"
+msgstr "FOSDEM"
+
+#. +> trunk5
+#: data/frontpage_event_gallery.yaml:0
+#, fuzzy
+#| msgid "Brussels"
+msgid "Brussels, Belgium"
+msgstr "ブリュッセル"
+
+#. +> trunk5
+#: data/frontpage_event_gallery.yaml:0
+msgid "conf.kde.in 2025"
+msgstr ""
+
+#. +> trunk5
+#: data/frontpage_event_gallery.yaml:0
+msgid "Gandhinagar, Gujarat, India"
+msgstr ""
+
+#. +> trunk5
+#: data/frontpage_event_gallery.yaml:0
+msgid "Scale22x"
+msgstr ""
+
+#. +> trunk5
+#: data/frontpage_event_gallery.yaml:0
+msgid "Pasadena, CA, USA"
+msgstr ""
+
+#. +> trunk5
+#: data/frontpage_event_gallery.yaml:0
+msgid "FOSSAsia"
+msgstr ""
+
+#. +> trunk5
+#: data/frontpage_event_gallery.yaml:0
+msgid "Bangkok, Thailand"
+msgstr ""
+
+#. +> trunk5
+#: data/frontpage_event_gallery.yaml:0
+msgid "IndiaFOSS"
+msgstr ""
+
+#. +> trunk5
+#: data/frontpage_event_gallery.yaml:0
+#, fuzzy
+#| msgid "Delhi, India"
+msgid "Bengaluru, India"
+msgstr "デリー、インド"
+
+#. +> trunk5
+#: data/frontpage_event_gallery.yaml:0
+msgid "Linux App Summit"
+msgstr ""
+
+#. +> trunk5
+#: data/frontpage_event_gallery.yaml:0
+msgid "Tirana, Albania"
+msgstr ""
+
+#. +> trunk5
+#: data/frontpage_event_gallery.yaml:0
+#, fuzzy
+#| msgid "Akademy 2022"
+msgid "Akademy-es 2025"
+msgstr "Akademy 2022"
+
+#. +> trunk5
+#: data/frontpage_event_gallery.yaml:0
+msgid "Málaga, Spain"
+msgstr ""
+
+#. +> trunk5
+#: data/frontpage_event_gallery.yaml:0
+#, fuzzy
+#| msgid "Akademy 2022"
+msgid "Akademy 2025"
+msgstr "Akademy 2022"
+
+#. +> trunk5
+#: data/hardware.yaml:0
+#, fuzzy
+#| msgid "KFocus"
+msgid "Kubuntu Focus Systems"
+msgstr "KFocus"
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "Validated Linux Systems. US-Based, Ships Worldwide."
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid ""
+"Kubuntu Focus optimizes for the hardware and validates all major upgrades to "
+"help ensure your daily driver just keeps working for years after your "
+"purchase. Tested components include Kernels, KDE Plasma, GPU drivers, Focus "
+"Tools, and ML libraries. Shipping to US and Canada is free. Kubuntu Focus is "
+"a KDE patron."
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "Focus Zr"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "GEN 1"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid ""
+"Premium desktop power in a portable 18\" workstation. Features an Ultra 9 "
+"275HX, PCIe 5.0, and up to a 24 GB 5090 RTX M. Ideal for the most demanding "
+"rendering, development, AAA games, video editing, and ML."
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "From $4,095"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "Focus M2"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "GEN 6"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid ""
+"High-end desktop power in a thin-and-light portable 16\" workstation. "
+"Features an Ultra 9 275HX CPU, PCIe 5.0, and a 12 GB RTX 5070 Ti M. Perfect "
+"for rendering, development, AAA games, ML, and video editing."
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "From $2,895"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "Focus Ir14 and Ir16"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "GEN 2"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid ""
+"Thin and light 14\" and 16\" laptops that deliver performance, endurance, "
+"and quality. Both feature a brilliant 450-nit 16:10 display, no-flex "
+"keyboard, 12-core CPU, and all-alloy construction. Great for mobile "
+"development, DevOps, and content creation."
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "From $1080"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "Focus NX"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "GEN 3"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid ""
+"A 4.6\" powerhouse that outperforms an i7-12700K desktop with just 33% of "
+"the TDP. Choose a 16-core Ultra 7 255H or a 14-core Ultra 5 225H. The Arc "
+"140T iGPU outpaces the AMD 890M, runs AAA titles at 1080p, and drives 4 x 4k "
+"monitors."
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "From $895"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0 i18n/en.yaml:11
+msgid "Learn More"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "TUXEDO Computers"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "TUXEDO Computers builds tailor-made hardware decked out with Linux."
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid ""
+"TUXEDO Computers are individually built notebook and desktop machines which "
+"are fully Linux compatible. All you need to do is unpack, connect, and "
+"switch on your TUXEDO and your Linux computer is ready to go."
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "TUXEDO Computers is a KDE patron."
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid ""
+"With TUXEDO OS you can easily manage your everyday life! Whether it is "
+"surfing the web, writing emails, creating presentations or calculations, "
+"editing photos or even playing games - TUXEDO OS comes with a multitude of "
+"useful apps for most use cases and offers hundreds of additional, reviewed "
+"apps (mostly) free to download via the integrated app store."
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid ""
+"All TUXEDO's computers are individually assembled, installed, configured and "
+"tested for you. This ensures consistently high quality, reliability, smooth "
+"running and low noise levels. For example, we only install fans that are "
+"capable of cooling significantly stronger configurations. So there is hardly "
+"any noise!"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "TUXEDO Computers Systems"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "InfinityBook S 17 – Gen8"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid ""
+"As a large desktop replacement for office and everyday use, the InfinityBook "
+"S 17 offers a lot of screen space for pleasant working and combines two "
+"supposed opposites: A large display and a still pretty portable form factor."
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid ""
+"This is made possible by a very compact design thanks to extremely thin "
+"display bezels all around, a very slim chassis profile and a relatively "
+"light weight despite a simultaneously robust partial aluminum construction."
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "From €1178"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+#, fuzzy
+#| msgid "Pinebook Pro"
+msgid "InfinityBook Pro"
+msgstr "Pinebook Pro"
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid ""
+"An extremely compact and lightweight yet sturdy, high-quality all-aluminum "
+"case, paired with a very large battery, high processing speed, full RAM and "
+"SSD upgrade options and a bright, razor-sharp 3K display."
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid ""
+"The InfinityBook Pro 14 is your ideal, ultra portable Linux companion for "
+"work and home, which provides plenty of computing power for software "
+"developers or media professionals thanks to its AMD Ryzen 7 8845HS."
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "Also available an Intel Core Ultra 7 155H."
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "From €1049"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0 i18n/en.yaml:453
+msgid "Steam Deck"
+msgstr "Steam Deck"
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "A portable console that runs AAA games"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid ""
+"Play your entire gaming library with this portable console that has the "
+"flexibility of a PC. The Steam Deck runs KDE Plasma optimized to play the "
+"latest AAA games and your favorite emulators. You can even connect a screen, "
+"keyboard, and mouse for a full Plasma-based desktop PC experience."
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "Specifications"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "Operating system pre-installed:"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "SteamOS 3 (Arch Linux based)"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "CPU:"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "Custom AMD Ryzen quad-core 3.5GHz CPU"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "GPU:"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "Custom 1.6GHz GPU with 8 RDNA 2 Compute Units"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "Memory:"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "16 GB RAM (LPDDR5)"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "Display:"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "1200 × 800 7” IPS LCD or 1200 × 800 7.4” HDR OLED"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "Storage:"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "Up to 1 TB SSD"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "Price:"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "starting at US$399"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0 i18n/en.yaml:75
+msgid "KDE Slimbook"
+msgstr "KDE Slimbook"
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "Powerful Hardware, Sleek Software"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid ""
+"The KDE Slimbook VII with its Ryzen AI 9 365 processor gives you better "
+"performance while running your applications. KDE Neon, with the new Plasma 6 "
+"desktop provides the best environment and the widest range of programs for "
+"all your personal and professional computing needs, while at the same time "
+"protecting your privacy and giving you full control."
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "Slimbook is a KDE patron."
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "Picture of the two Slimbook models"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "Specs"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "AMD Ryzen AI 9 365"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid ""
+"16-inch IPS LED display with 2560 × 1600 resolution at 165Hz and sRGB 100%"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "Up to 8 TB storage NVME PCIe 4.0"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "Up to 128GB DDR5"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "720p webcam"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "80‑watt‑hour battery"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "1.85 kg"
+msgstr ""
+
+#. +> trunk5
+#: data/hardware.yaml:0
+msgid "Configure"
+msgstr ""
+
+#. whats-kde
+#. +> trunk5
+#: i18n/en.yaml:3
+msgid "What is KDE?"
+msgstr "KDE とは？"
+
+#. kde-community-desc
+#. +> trunk5
+#: i18n/en.yaml:5
+#, fuzzy
+#| msgid ""
+#| "An international team developing and distributing Open Source software."
+msgid ""
+"An international community developing the world’s finest free and open-"
+"source software."
+msgstr "オープンソース・ソフトウェアを開発・配布している国際的なチームです。"
+
+#. kde-community-desc2
+#. +> trunk5
+#: i18n/en.yaml:7
+msgid ""
+"KDE’s software powers NASA, CERN, Mercedes electric vehicles, the Steam "
+"Deck, your favorite YouTuber, and schools, governments, and offices "
+"throughout the world."
+msgstr ""
+
+#. kde-community-desc3
+#. +> trunk5
+#: i18n/en.yaml:9
+msgid ""
+"Our software breathes new life into old devices, and turbo-charges new ones. "
+"Anyone is welcome to use our software for free, or to help build it!"
+msgstr ""
+
+#. kde-products
+#. +> trunk5
+#: i18n/en.yaml:15
+msgid "KDE’s Products"
+msgstr ""
+
+#. plasma-desc
+#. +> trunk5
+#: i18n/en.yaml:17
+msgid "The next generation desktop for Linux"
+msgstr "Linux 向けの次世代デスクトップ環境"
+
+#. plasma-install
+#. +> trunk5
+#: i18n/en.yaml:19
+msgid "Install on your computer"
+msgstr "インストール"
+
+#. plasma-discover
+#. +> trunk5
+#: i18n/en.yaml:21
+msgid "Discover Plasma"
+msgstr "Plasma を知る"
+
+#. plasma-buy
+#. +> trunk5
+#: i18n/en.yaml:23
+msgid "Buy a device with Plasma"
+msgstr "Plasma 搭載のデバイスを購入"
+
+#. kde-powerful
+#. +> trunk5
+#: i18n/en.yaml:25
+msgid "Powerful, multi-platform, and for everyone"
+msgstr "パワフルでマルチプラットフォームなアプリケーションをすべての人へ"
+
+#. kde-app-description
+#. +> trunk5
+#: i18n/en.yaml:27
+msgid ""
+"Use KDE software to surf the web, keep in touch with colleagues, friends and "
+"family, manage your files, enjoy music and videos; and get creative and "
+"productive at work. The KDE community develops and maintains more than "
+"<strong>200</strong> applications which run on any Linux desktop, and often "
+"other platforms too."
+msgstr ""
+"KDE のソフトウェアを使って、ウェブを探索しましょう。あなたの同僚、友達や家族"
+"とつながりましょう。ファイルを管理したり、音楽や動画を楽しんだりしましょう。"
+"創造力を働かせたり、作業の生産性を向上させたりしましょう。KDE コミュニティ"
+"は、あらゆる Linux デスクトップで動作する<strong>200</strong>を超えるアプリ"
+"ケーションを開発・保守しています。また、多くのアプリケーションはその他のプ"
+"ラットフォームでも動作します。"
+
+#. see-all-apps
+#. +> trunk5
+#: i18n/en.yaml:29
+msgid "See all applications"
+msgstr "すべてのアプリケーションを見る"
+
+#. krita
+#. +> trunk5
+#: i18n/en.yaml:31
+msgid "Krita"
+msgstr "Krita"
+
+#. krita-desc
+#. +> trunk5
+#: i18n/en.yaml:33
+msgid ""
+"Unleash your creativity with Krita, the professional open-source painting "
+"software for digital artists."
+msgstr ""
+"デジタルイラストレーターのための、オープンソースの専門的なペイントソフトウェ"
+"ア、Krita と共にあなたの創造性を解き放ちましょう。"
+
+#. krita-screen
+#. +> trunk5
+#: i18n/en.yaml:35
+msgid "Krita screenshot"
+msgstr "Krita スクリーンショット"
+
+#. kdenlive
+#. +> trunk5
+#: i18n/en.yaml:37
+msgid "Kdenlive"
+msgstr "kdenlive"
+
+#. kdenlive-desc
+#. +> trunk5
+#: i18n/en.yaml:39
+msgid ""
+"Bring your video projects to life with Kdenlive, the open-source editor "
+"packed with powerful tools, effects, and transitions."
+msgstr ""
+"強力なツール、エフェクト、トランジションを兼ね備えたオープンソースのエディ"
+"ター、Kdenlive とともに、あなたのビデオプロジェクトを実現させましょう。"
+
+#. kdenlive-screen
+#. +> trunk5
+#: i18n/en.yaml:41
+msgid "Kdenlive Screenshot"
+msgstr "Kdenlive スクリーンショット"
+
+#. kontact
+#. +> trunk5
+#: i18n/en.yaml:43
+msgid "Kontact"
+msgstr "Kontact"
+
+#. kontact-desc
+#. +> trunk5
+#: i18n/en.yaml:45
+msgid ""
+"Simplify your workflow by managing emails, calendars, tasks, and contacts "
+"seamlessly in one powerful application."
+msgstr ""
+"メール、カレンダー、タスク、連絡を強力なアプリケーションでシームレスに管理す"
+"ることで、あなたのワークフローを簡単にします。"
+
+#. kontact-screen
+#. +> trunk5
+#: i18n/en.yaml:47
+msgid "Kontact Screenshot"
+msgstr "Kontact スクリーンショット"
+
+#. kdevelop
+#. +> trunk5
+#: i18n/en.yaml:49
+#, fuzzy
+#| msgid "Develop"
+msgid "KDevelop"
+msgstr "開発"
+
+#. kdevelop-desc
+#. +> trunk5
+#: i18n/en.yaml:51
+msgid ""
+"Streamline your coding experience with KDevelop, a robust cross-platform IDE "
+"supporting C, C++, Python, QML/JavaScript, and PHP."
+msgstr ""
+"C, C++, Python, QML/JavaScript や PHP のためのクロスプラットホームな統合開発"
+"環境 (IDE) である KDevelop とともに、あなたのコーディング体験を合理化させま"
+"しょう。"
+
+#. kdevelop-screen
+#. +> trunk5
+#: i18n/en.yaml:53
+msgid "KDevelop Screenshot"
+msgstr "Kdevelop スクリーンショット"
+
+#. gcompris
+#. +> trunk5
+#: i18n/en.yaml:55
+msgid "GCompris"
+msgstr "GCompris"
+
+#. gcompris-desc
+#. +> trunk5
+#: i18n/en.yaml:57
+msgid ""
+"Engage young minds with GCompris, an extensive educational suite packed with "
+"fun and interactive activities for children aged 2 to 10."
+msgstr ""
+"2歳から10歳までの子どもの、楽しく対話的なアクティビティで充実した教育スイー"
+"ト、GCompris で子どもの心を育みましょう。"
+
+#. gcompris-screen
+#. +> trunk5
+#: i18n/en.yaml:59
+msgid "GCompris Screenshot"
+msgstr "GCompris スクリーンショット"
+
+#. labplot2
+#. +> trunk5
+#: i18n/en.yaml:61
+msgid "LabPlot"
+msgstr "LabPlot"
+
+#. labplot2-desc
+#. +> trunk5
+#: i18n/en.yaml:63
+msgid ""
+"Create stunning data visualizations and perform in-depth analysis with "
+"LabPlot, the free and open-source plotting software for everyone."
+msgstr ""
+"すべての人のための、フリーでオープンソースなプロットソフトウェア 、LabPlot と"
+"ともに素晴らしいデータを視覚化し、詳細な分析を実行しましょう。"
+
+#. labplot2-screen
+#. +> trunk5
+#: i18n/en.yaml:65
+msgid "LabPlot Screenshot"
+msgstr "LabPlot スクリーンショット"
+
+#. hardware
+#. +> trunk5
+#: i18n/en.yaml:67
+msgid "Devices"
+msgstr "デバイス"
+
+#. buy-hardware
+#. +> trunk5
+#: i18n/en.yaml:69
+msgid "Buy a computer with Plasma preinstalled"
+msgstr "Plasma がプリインストールされたコンピュータを購入する"
+
+#. tuxedo
+#. +> trunk5
+#: i18n/en.yaml:71
+msgid "Tuxedo Computers"
+msgstr ""
+
+#. tuxedo-desc
+#. +> trunk5
+#: i18n/en.yaml:73
+msgid ""
+"Customizable Plasma-based notebooks and desktop computers optimized for "
+"tailor-made hardware."
+msgstr ""
+
+#. slimbook-pro
+#. +> trunk5
+#: i18n/en.yaml:77
+msgid ""
+"The Slimbook is a shiny, sleek and good looking laptop that can do any task "
+"thanks to its powerful AMD Ryzen processor."
+msgstr ""
+"Slimbook は洗練された外観を持つラップトップです。パワフルな AMD Ryzen プロ"
+"セッサを搭載しているため、様々なタスクをこなせます。"
+
+#. kfocus
+#. +> trunk5
+#: i18n/en.yaml:79
+#, fuzzy
+#| msgid "KFocus"
+msgid "Kubuntu Focus"
+msgstr "KFocus"
+
+#. kfocus-desc
+#. +> trunk5
+#: i18n/en.yaml:81
+msgid ""
+"Kubuntu Focus optimizes the OS for the hardware so you don't have to. Save "
+"time with dozens of powerful tools and comprehensive guides."
+msgstr ""
+
+#. other-hardware
+#. +> trunk5
+#: i18n/en.yaml:83
+msgid "Other hardware manufacturers are selling devices with Plasma."
+msgstr "その他のハードウェア製造元も Plasma 搭載デバイスを販売しています。"
+
+#. see-all-hardware
+#. +> trunk5
+#: i18n/en.yaml:85
+msgid "See all devices"
+msgstr "すべてのデバイスを見る"
+
+#. view-all-announcements
+#. +> trunk5
+#: i18n/en.yaml:87
+msgid "View all announcements"
+msgstr "すべてのお知らせを見る"
+
+#. kde-eco
+#. +> trunk5
+#: i18n/en.yaml:89
+msgid "KDE Eco"
+msgstr "KDE Eco"
+
+#. kde-eco-sub
+#. +> trunk5
+#: i18n/en.yaml:91
+msgid "Join the sustainable software movement"
+msgstr "持続可能なソフトウェア運動に参加しましょう"
+
+#. kde-eco-join
+#. +> trunk5
+#: i18n/en.yaml:93
+msgid "Join KDE Eco"
+msgstr "KDE Eco に参加する"
+
+#. kde-eco-handbook
+#. +> trunk5
+#: i18n/en.yaml:95
+msgid "KDE Eco Handbook"
+msgstr "KDE Eco ハンドブック"
+
+#. recent-events
+#. +> trunk5
+#: i18n/en.yaml:97
+#, fuzzy
+#| msgid "Events"
+msgid "Recent Events"
+msgstr "イベント"
+
+#. full-changelog
+#. %1 link
+#. +> trunk5
+#: i18n/en.yaml:101
+msgid "You can find the full list of changes [here](%1)."
+msgstr "[ここ](%1)ですべての変更のリストを見ることができます。"
+
+#. spread-the-word
+#. +> trunk5
+#: i18n/en.yaml:104
+msgid "Spread the Word"
+msgstr "KDE を広める"
+
+#. non-technical-success
+#. +> trunk5
+#: i18n/en.yaml:106
+msgid ""
+"Non-technical contributors are an important part of KDE’s success. While "
+"proprietary software companies have huge advertising budgets for new "
+"software releases, KDE depends on people talking with other people. Even for "
+"those who are not software developers, there are many ways to support the "
+"KDE Applications release. Report bugs. Encourage others to join the KDE "
+"Community. Or [support the nonprofit organization behind the KDE community]"
+"(https://kde.org/community/donations/)"
+msgstr ""
+"非技術的な貢献者は KDE の成功に欠かせません。プロプライエタリソフトウェアの企"
+"業は、新しいソフトウェアのリリースに際し巨大な広告予算を費やしますが、KDE は"
+"人々の口コミに依存しています。ソフトウェア開発者ではない人々にも、KDE アプリ"
+"ケーションのリリースをサポートするための多くの手段があります。バグを報告して"
+"ください。他の人に KDE Community への参加を勧めてみてください。もしくは、"
+"[KDE Community を支える非営利団体を支援してください。](https://kde.org/"
+"community/donations/)"
+
+#. spread-social
+#. +> trunk5
+#: i18n/en.yaml:108
+msgid ""
+"Please spread the word on the Social Web. Submit stories to news sites, use "
+"channels like delicious, digg, reddit, and twitter. Upload screenshots of "
+"your new set-up to services like Facebook, Flickr, ipernity and Picasa, and "
+"post them to appropriate groups. Create screencasts and upload them to "
+"YouTube, Blip.tv, and Vimeo. Please tag posts and uploaded materials with "
+"“KDE”. This makes them easy to find, and gives the KDE Promo Team a way to "
+"analyze coverage for this KDE Applications release."
+msgstr ""
+"ウェブ上で KDE を広めてください。ニュースサイトや delicious, digg, reddit, "
+"twitter などであなたの体験を共有してください。あなたのセットアップのスクリー"
+"ンショットを Facebook, Flickr, ipernity や Picasa などに投稿してください。ス"
+"クリーンを録画して、YouTube, Blip.tv, Vimeo にアップロードしてください。投稿"
+"には 'KDE' のタグを付けてください。これによって投稿が見つけられやすくなり、"
+"KDE 広報チームが KDE アプリケーションのリリースの伝播を分析できます。"
+
+#. install-applications
+#. +> trunk5
+#: i18n/en.yaml:110
+msgid "Installing KDE Applications Binary Packages"
+msgstr "KDE アプリケーションのバイナリパッケージをインストールする"
+
+#. packages
+#. +> trunk5
+#: i18n/en.yaml:112
+msgid "Packages"
+msgstr "パッケージ"
+
+#. packages-desc
+#. +> trunk5
+#: i18n/en.yaml:114
+msgid ""
+"Some Linux/UNIX OS vendors have kindly provided binary packages of KDE "
+"Applications for some versions of their distribution, and in other cases "
+"community volunteers have done so. Additional binary packages, as well as "
+"updates to the packages now available, may become available over the coming "
+"weeks."
+msgstr ""
+"いくつかの Linux/UNIX OS のベンダーは、ディストリビューションのいくつかのバー"
+"ジョンで KDE アプリケーションのバイナリパッケージを提供しています。また、コ"
+"ミュニティのボランティアが提供している場合もあります。追加のバイナリパッケー"
+"ジや現在利用可能な更新は、今後数週間の内に利用可能になるでしょう。"
+
+#. package-location
+#. +> trunk5
+#: i18n/en.yaml:116
+msgid "Package Locations"
+msgstr "パッケージの場所"
+
+#. package-location-desc
+#. +> trunk5
+#: i18n/en.yaml:118
+msgid ""
+"For a current list of available binary packages of which the KDE Project has "
+"been informed, please visit the [Community Wiki](https://community.kde.org/"
+"KDE_Applications/Binary_Packages)."
+msgstr ""
+"KDE プロジェクトが認知している利用可能なバイナリパッケージのリストについて"
+"は、[Community Wiki](https://community.kde.org/KDE_Applications/"
+"Binary_Packages) をご覧ください。"
+
+#. compile-app
+#. +> trunk5
+#: i18n/en.yaml:120
+msgid "Compiling KDE Applications"
+msgstr "KDE アプリケーションをコンパイルする"
+
+#. compile-app-desc
+#. %1 link, %2 version number, %3 link
+#. +> trunk5
+#: i18n/en.yaml:122
+msgid ""
+"The complete source code for KDE Applications may be [freely downloaded]"
+"(%1). Instructions on compiling and installing are available from the [KDE "
+"Applications %2 Info Page](%3)."
+msgstr ""
+"KDE アプリケーション の完全なソースコードは[ご自由にダウンロードできます]"
+"(%1)。コンパイルとインストールの解説は[KDE アプリケーション %2 情報ページ]"
+"(%3)で参照できます。"
+
+#. trademark-notices
+#. +> trunk5
+#: i18n/en.yaml:125
+msgid "Trademark Notices."
+msgstr "商標表示"
+
+#. kde-trademark
+#. +> trunk5
+#: i18n/en.yaml:127
+msgid ""
+"KDE<sup>&#174;</sup> and the K Desktop Environment<sup>&#174;</sup> logo are "
+"registered trademarks of KDE e.V.."
+msgstr ""
+"KDE<sup>&#174;</sup> と K Desktop Environment<sup>&#174;</sup> のロゴは KDE "
+"e.V. の登録商標です。"
+
+#. linux-trademark
+#. +> trunk5
+#: i18n/en.yaml:129
+msgid "Linux is a registered trademark of Linus Torvalds."
+msgstr "Linux は Linus Torvalds の登録商標です。"
+
+#. unix-trademark
+#. +> trunk5
+#: i18n/en.yaml:131
+msgid ""
+"UNIX is a registered trademark of The Open Group in the United States and "
+"other countries."
+msgstr "UNIX は The Open Group の米国とその他の国での登録商標です。"
+
+#. other-trademarks
+#. +> trunk5
+#: i18n/en.yaml:133
+msgid ""
+"All other trademarks and copyrights referred to in this announcement are the "
+"property of their respective owners."
+msgstr ""
+"この発表で言及されているその他すべての商標や著作物は、それぞれの所有者の所有"
+"物です。"
+
+#. info-email
+#. +> trunk5
+#: i18n/en.yaml:135
+msgid "For more information send us an email:"
+msgstr "さらなる情報につきましては、私たちにメールを送ってください:"
+
+#. release-announcements
+#. +> trunk5
+#: i18n/en.yaml:139
+msgid "Release Announcements"
+msgstr "リリースのお知らせ"
+
+#. kde-framework
+#. %1 version number
+#. +> trunk5
+#: i18n/en.yaml:141
+msgid "KDE Frameworks %1"
+msgstr "KDE Frameworks %1"
+
+#. binary-package
+#. +> trunk5
+#: i18n/en.yaml:144
+msgid "Installing binary packages"
+msgstr "バイナリパッケージをインストールする"
+
+#. binary-package-text
+#. %1 link
+#. +> trunk5
+#: i18n/en.yaml:146
+msgid ""
+"On Linux, using packages for your favorite distribution is the recommended "
+"way to get access to KDE Frameworks. [Get KDE Software on Your Linux Distro "
+"wiki page](%1)"
+msgstr ""
+"Linux 上では、お好きなディストリビューションのパッケージを使って KDE "
+"Frameworks を入手することをお勧めします。[KDE ソフトウェアをお使いのディスト"
+"リビューションで入手 Wiki ページ](%1)"
+
+#. sources
+#. +> trunk5
+#: i18n/en.yaml:149
+msgid "Compiling from sources"
+msgstr "ソースからコンパイルする"
+
+#. sources-text
+#. %1 version number, %2 link, %3 link
+#. +> trunk5
+#: i18n/en.yaml:151
+msgid ""
+"The complete source code for KDE Frameworks %1 may be [freely downloaded]"
+"(%2). Instructions on compiling and installing are available from the [KDE "
+"Frameworks %1 Info Page](%3)."
+msgstr ""
+"KDE Frameworks %1 の完全なソースコードは[ご自由にダウンロードできます](%2)。"
+"コンパイルとインストールの解説は[KDE Frameworks 情報ページ](%3)からご覧になれ"
+"ます。"
+
+#. sources-instructions
+#. %1 link, %2 version number, %3 version number
+#. +> trunk5
+#: i18n/en.yaml:154
+msgid ""
+"Building from source is possible using the basic <em>cmake .; make; make "
+"install</em> commands. For a single Tier 1 framework, this is often the "
+"easiest solution. People interested in contributing to frameworks or "
+"tracking progress in development of the entire set are encouraged to [use "
+"kdesrc-build](%1). Frameworks %2 requires Qt %3."
+msgstr ""
+"ソースからのビルドは基本的な <em>cmake .; make; make install</em> コマンドを"
+"使用して行えます。単一の Tier 1 フレームワークの場合、たいていこれが最も簡単"
+"な方法です。フレームワークへの貢献、またはセット全体の開発を追跡したい方は "
+"[kdesrc-build](%1) を使用することをおすすめします。Frameworks %2 は Qt %3 を"
+"必要とします。"
+
+#. sources-details
+#. +> trunk5
+#: i18n/en.yaml:157
+msgid ""
+"A detailed listing of all Frameworks with API documentation is on "
+"[api.kde.org](https://api.kde.org/frameworks)."
+msgstr ""
+"API ドキュメンテーション付きのすべてのフレームワークの詳細なリストは  "
+"[api.kde.org](https://api.kde.org/frameworks) にあります。"
+
+#. get-involved-framework
+#. +> trunk5
+#: i18n/en.yaml:159
+msgid ""
+"Those interested in following and contributing to the development of "
+"Frameworks can check out the [git repositories](https://invent.kde.org/"
+"frameworks) and follow the discussions on the [KDE Frameworks Development "
+"mailing list](https://mail.kde.org/mailman/listinfo/kde-frameworks-devel). "
+"Policies and the current state of the project and plans are available at the "
+"[Frameworks wiki](https://community.kde.org/Frameworks). Real-time "
+"discussions take place on the [#kde-devel IRC channel on Libera Chat](irc://"
+"irc.libera.chat/#kde-devel)."
+msgstr ""
+"Frameworks の開発を追跡したい方や開発に貢献したい方は、[Git リポジトリ]"
+"(https://invent.kde.org/frameworks) や [KDE Frameworks 開発メーリングリスト]"
+"(https://mail.kde.org/mailman/listinfo/kde-frameworks-devel)を確認してみてく"
+"ださい。ポリシーやプロジェクトと計画の現在の状況は [Frameworks wiki](https://"
+"community.kde.org/Frameworks) で確認できます。リアルタイムな議論は [Libera "
+"Chat の #kde-devel IRC チャンネル](irc://irc.libera.chat/#kde-devel)で行われ"
+"ています。"
+
+#. supporting-kde
+#. +> trunk5
+#: i18n/en.yaml:161
+msgid "Supporting KDE"
+msgstr "KDE を支援する"
+
+#. whatiskde
+#. +> trunk5
+#: i18n/en.yaml:163
+msgid ""
+"KDE is a [Free Software](https://www.gnu.org/philosophy/free-sw.html) "
+"community that exists and grows only because of the help of many volunteers "
+"that donate their time and effort. KDE is always looking for new volunteers "
+"and contributions, whether it is help with coding, bug fixing or reporting, "
+"writing documentation, translations, promotion, money, etc. All "
+"contributions are gratefully appreciated and eagerly accepted. Please read "
+"through the [Supporting KDE page](/community/donations/) for further "
+"information or become a KDE e.V. supporting member through our [Join the "
+"Game](https://kde.org/community/donations/) initiative."
+msgstr ""
+"KDE は、多くのボランティアの支援のみによって存在し、成長している[自由ソフト"
+"ウェア](https://www.gnu.org/philosophy/free-sw.html)コミュニティです。KDE "
+"は、プログラミング、バグの報告・修正、ドキュメンテーションの作成、翻訳、広報"
+"や会計などに携わる新しいボランティアを常に募集しています。すべての貢献は大き"
+"く歓迎され、前向きに受け入れられます。詳細につきましては、[KDE への支援に関す"
+"るページ](/community/donations/)をご覧ください。もしくは [Join the Game]"
+"(https://kde.org/community/donations/) イニシアティブを通して、KDE e.V. のサ"
+"ポートメンバーになることもできます。"
+
+#. plasma-5-20
+#. +> trunk5
+#: i18n/en.yaml:167
+msgid "Plasma 5.20"
+msgstr "Plasma 5.20"
+
+#. plasma-5-20-slogan
+#. +> trunk5
+#: i18n/en.yaml:169
+msgid "New and improved inside and out"
+msgstr "徹底的に改良された新しい Plasma"
+
+#. plasma-5-20-description
+#. +> trunk5
+#: i18n/en.yaml:171
+msgid ""
+"A massive release, containing improvements to dozens of components, widgets, "
+"and the desktop behavior in general."
+msgstr ""
+"コンポーネント、ウィジェットや デスクトップ動作への多くの改良を含む、大規模な"
+"リリースです。"
+
+#. period
+#. +> trunk5
+#: i18n/en.yaml:175
+msgid ". "
+msgstr ". "
+
+#. view-changelog
+#. +> trunk5
+#: i18n/en.yaml:177
+msgid "View full changelog"
+msgstr "完全な変更ログを見る"
+
+#. live-images
+#. +> trunk5
+#: i18n/en.yaml:179
+msgid "Live Images"
+msgstr "Live イメージ"
+
+#. live-images-text
+#. +> trunk5
+#: i18n/en.yaml:181
+msgid ""
+"The easiest way to try it out is with a live image booted off a USB disk. "
+"Docker images also provide a quick and easy way to test Plasma."
+msgstr ""
+"USB ディスクから Live イメージを起動するのが Plasma を試す最も簡単な方法で"
+"す。Docker イメージも Plasma を試す素早く簡単な方法の一つです。"
+
+#. download-plasma
+#. +> trunk5
+#: i18n/en.yaml:183
+msgid "Download live images with Plasma"
+msgstr "Plasma の Live イメージをダウンロード"
+
+#. docker-plasma
+#. +> trunk5
+#: i18n/en.yaml:185
+msgid "Download Docker images with Plasma"
+msgstr "Plasma の Docker イメージをダウンロード"
+
+#. package-downloads
+#. +> trunk5
+#: i18n/en.yaml:187
+msgid "Package Downloads"
+msgstr "パッケージのダウンロード"
+
+#. package-downloads-text
+#. +> trunk5
+#: i18n/en.yaml:189
+msgid ""
+"Distributions have created, or are in the process of creating, packages "
+"listed on our wiki page."
+msgstr ""
+"ディストリビューションは私たちの Wiki ページに記載されているパッケージを既に"
+"作成したか、現在作成しています。"
+
+#. package-wiki
+#. +> trunk5
+#: i18n/en.yaml:191 i18n/en.yaml:301
+msgid "Package download wiki page"
+msgstr "Wiki のパッケージダウンロード ページ"
+
+#. source-download
+#. +> trunk5
+#: i18n/en.yaml:193
+msgid "Source Downloads"
+msgstr "ソースのダウンロード"
+
+#. source-download-text
+#. +> trunk5
+#: i18n/en.yaml:195
+msgid "You can install Plasma directly from source."
+msgstr "Plasma はソースから直接インストールできます。"
+
+#. community-instructions
+#. +> trunk5
+#: i18n/en.yaml:197
+msgid "Community instructions to compile it"
+msgstr "コミュニティによるコンパイル方法の解説"
+
+#. source-info-page
+#. +> trunk5
+#: i18n/en.yaml:199
+msgid "Source Info Page"
+msgstr "ソースの情報ページ"
+
+#. feedback
+#. +> trunk5
+#: i18n/en.yaml:201
+msgid "Feedback"
+msgstr "フィードバック"
+
+#. give-feedback
+#. +> trunk5
+#: i18n/en.yaml:203
+msgid "You can give us feedback and get updates on our social media channels:"
+msgstr ""
+"私たちのソーシャルメディア上で、フィードバックを提供したり更新情報を入手した"
+"りできます:"
+
+#. discuss-forum
+#. +> trunk5
+#: i18n/en.yaml:205
+msgid "Discuss KDE on the [KDE Forums](https://discuss.kde.org/)."
+msgstr "[KDE Forums](https://discuss.kde.org/) で、語り合いましょう。"
+
+#. report-bug-plasma
+#. +> trunk5
+#: i18n/en.yaml:207
+msgid ""
+"You can provide feedback direct to the developers via the [#Plasma Matrix "
+"channel](https://go.kde.org/matrix/#/#plasma:kde.org), [Plasma-devel mailing "
+"list](https://mail.kde.org/mailman/listinfo/plasma-devel) or report issues "
+"via [Bugzilla](https://bugs.kde.org/enter_bug.cgi?"
+"product=plasmashell&amp;format=guided). If you like what the team is doing, "
+"please let them know!"
+msgstr ""
+"[#Plasma Matrix チャンネル](https://go.kde.org/matrix/#/#plasma:kde.org) か "
+"[Plasma-devel メーリングリスト](https://mail.kde.org/mailman/listinfo/plasma-"
+"devel)で、開発者にフィードバックを提供できます。または、[Bugzilla](https://"
+"bugs.kde.org/enter_bug.cgi?product=plasmashell&amp;format=guided) で問題を報"
+"告できます。開発者たちに感想をお聞かせください。"
+
+#. feedback-appreciated
+#. +> trunk5
+#: i18n/en.yaml:209
+msgid "Your feedback is greatly appreciated."
+msgstr "あなたのフィードバックに感謝いたします。"
+
+#. about-kde
+#. +> trunk5
+#: i18n/en.yaml:211
+msgid "About KDE"
+msgstr "KDE について"
+
+#. about-kde-text
+#. +> trunk5
+#: i18n/en.yaml:213
+msgid ""
+"KDE is an international technology team that creates free and open source "
+"software for desktop and portable computing. Among KDE’s products are a "
+"modern desktop system for Linux and UNIX platforms, comprehensive office "
+"productivity and groupware suites and hundreds of software titles in many "
+"categories including Internet and web applications, multimedia, "
+"entertainment, educational, graphics and software development. KDE software "
+"is translated into more than 60 languages and is built with ease of use and "
+"modern accessibility principles in mind. KDE’s full-featured applications "
+"run natively on Linux, BSD, Windows, Haiku, and macOS."
+msgstr ""
+"KDE は、デスクトップ・携帯機器向けのフリーでオープンソースなソフトウェアを開"
+"発している国際的な技術チームです。KDE の製品には、Linux / UNIX 向けの現代的な"
+"デスクトップ環境、包括的なオフィスソフトウェアやグループウェアスイートを含"
+"む、インターネットやウェブアプリケーション、マルチメディア、娯楽、教育、グラ"
+"フィック、ソフトウェア開発などの多くのカテゴリに渡る数百のソフトウェアがあり"
+"ます。KDE ソフトウェアは60を超える言語に翻訳され、使いやすさとアクセシビリ"
+"ティの原則を念頭に置いて開発されています。KDE の多機能なアプリケーションは、"
+"Linux, BSD, Windows, Haiku, macOS 上でネイティブに動作します。"
+
+#. next-slide
+#. +> trunk5
+#: i18n/en.yaml:217
+msgid "Next slide"
+msgstr "次のスライド"
+
+#. prev-slide
+#. +> trunk5
+#: i18n/en.yaml:219
+msgid "Previous slide"
+msgstr "前のスライド"
+
+#. site-title
+#. +> trunk5
+#: i18n/en.yaml:223
+msgid "KDE Community"
+msgstr "KDE Community"
+
+#. site-description
+#. +> trunk5
+#: i18n/en.yaml:225
+msgid ""
+"KDE is an open community of friendly people who want to create a world in "
+"which everyone has control over their digital life and enjoys freedom and "
+"privacy."
+msgstr ""
+"KDE は、すべての人が自らのデジタル生活を掌握し、自由とプライバシーを享受する"
+"ことができる世界を望むフレンドリーな人々による開かれたコミュニティです。"
+
+#. rss-description
+#. +> trunk5
+#: i18n/en.yaml:227
+msgid "Recent content on KDE Community"
+msgstr "KDE Community の最近のコンテンツ"
+
+#. annc-plasma-bugfix-title-1
+#. +> trunk5
+#: i18n/en.yaml:229
+msgid "KDE Plasma %ver, Bugfix Release for January"
+msgstr "KDE Plasma %ver - 1月のバグ修正リリース"
+
+#. annc-plasma-bugfix-title-2
+#. +> trunk5
+#: i18n/en.yaml:231
+msgid "KDE Plasma %ver, Bugfix Release for February"
+msgstr "KDE Plasma %ver - 2月のバグ修正リリース"
+
+#. annc-plasma-bugfix-title-3
+#. +> trunk5
+#: i18n/en.yaml:233
+msgid "KDE Plasma %ver, Bugfix Release for March"
+msgstr "KDE Plasma %ver - 3月のバグ修正リリース"
+
+#. annc-plasma-bugfix-title-4
+#. +> trunk5
+#: i18n/en.yaml:235
+msgid "KDE Plasma %ver, Bugfix Release for April"
+msgstr "KDE Plasma %ver - 4月のバグ修正リリース"
+
+#. annc-plasma-bugfix-title-5
+#. +> trunk5
+#: i18n/en.yaml:237
+msgid "KDE Plasma %ver, Bugfix Release for May"
+msgstr "KDE Plasma %ver - 5月のバグ修正リリース"
+
+#. annc-plasma-bugfix-title-6
+#. +> trunk5
+#: i18n/en.yaml:239
+msgid "KDE Plasma %ver, Bugfix Release for June"
+msgstr "KDE Plasma %ver - 6月のバグ修正リリース"
+
+#. annc-plasma-bugfix-title-7
+#. +> trunk5
+#: i18n/en.yaml:241
+msgid "KDE Plasma %ver, Bugfix Release for July"
+msgstr "KDE Plasma %ver - 7月のバグ修正リリース"
+
+#. annc-plasma-bugfix-title-8
+#. +> trunk5
+#: i18n/en.yaml:243
+msgid "KDE Plasma %ver, Bugfix Release for August"
+msgstr "KDE Plasma %ver - 8月のバグ修正リリース"
+
+#. annc-plasma-bugfix-title-9
+#. +> trunk5
+#: i18n/en.yaml:245
+msgid "KDE Plasma %ver, Bugfix Release for September"
+msgstr "KDE Plasma %ver - 9月のバグ修正リリース"
+
+#. annc-plasma-bugfix-title-10
+#. +> trunk5
+#: i18n/en.yaml:247
+msgid "KDE Plasma %ver, Bugfix Release for October"
+msgstr "KDE Plasma %ver - 10月のバグ修正リリース"
+
+#. annc-plasma-bugfix-title-11
+#. +> trunk5
+#: i18n/en.yaml:249
+msgid "KDE Plasma %ver, Bugfix Release for November"
+msgstr "KDE Plasma %ver - 11月のバグ修正リリース"
+
+#. annc-plasma-bugfix-title-12
+#. +> trunk5
+#: i18n/en.yaml:251
+msgid "KDE Plasma %ver, Bugfix Release for December"
+msgstr "KDE Plasma %ver - 12月のバグ修正リリース"
+
+#. annc-plasma-release-title
+#. +> trunk5
+#: i18n/en.yaml:253
+msgid "KDE Plasma %ver Release"
+msgstr "KDE Plasma %ver リリース"
+
+#. annc-plasma-beta-title
+#. +> trunk5
+#: i18n/en.yaml:255
+msgid "KDE Plasma %ver Beta Release"
+msgstr "KDE Plasma %ver Beta リリース"
+
+#. annc-plasma-desc-pre-5-20
+#. +> trunk5
+#: i18n/en.yaml:257
+msgid "KDE Ships Plasma %ver."
+msgstr "KDE は Plasma %ver をリリースします。"
+
+#. annc-plasma-beta-desc-pre-5-20
+#. +> trunk5
+#: i18n/en.yaml:259
+msgid "KDE Ships Plasma %ver Beta."
+msgstr "KDE は Plasma %ver Beta をリリースします。"
+
+#. annc-plasma-bugfix-desc-post-5-19
+#. +> trunk5
+#: i18n/en.yaml:261
+msgid "Today KDE releases a bugfix update to KDE Plasma %maj_ver."
+msgstr ""
+"本日、KDE は KDE Plasma %maj_ver のバグ修正アップデートをリリースします。"
+
+#. annc-frameworks-title-pre-5-76
+#. +> trunk5
+#: i18n/en.yaml:264
+msgid "Release of KDE Frameworks %ver"
+msgstr "KDE Frameworks %ver のリリース"
+
+#. annc-frameworks-title
+#. +> trunk5
+#: i18n/en.yaml:266
+msgid "KDE Ships Frameworks %ver"
+msgstr "KDE Frameworks %ver のリリース"
+
+#. annc-frameworks-desc-pre-5-76
+#. +> trunk5
+#: i18n/en.yaml:268
+msgid "KDE Ships Frameworks %ver."
+msgstr "KDE は Frameworks %ver をリリースします。"
+
+#. annc-frameworks-desc
+#. +> trunk5
+#: i18n/en.yaml:270
+msgid "KDE today announces the release of KDE Frameworks %ver."
+msgstr "本日、KDE は KDE Frameworks %ver のリリースを発表します。"
+
+#. annc-frameworks-text
+#. %1 version number
+#. +> trunk5
+#: i18n/en.yaml:272
+msgid "KDE today announces the release of KDE Frameworks %1."
+msgstr "本日、KDE は KDE Frameworks %1 のリリースを発表します。"
+
+#. annc-frameworks-intro
+#. %1 a number greater than or equal to 60
+#. +> trunk5
+#: i18n/en.yaml:275
+msgid ""
+"KDE Frameworks are %1 addon libraries to Qt which provide a wide variety of "
+"commonly needed functionality in mature, peer reviewed and well tested "
+"libraries with friendly licensing terms. For an introduction see [the KDE "
+"Frameworks release announcement](/announcements/frameworks/5/5.0)."
+msgstr ""
+"KDE Frameworks は、一般的に必要とされる様々な機能性を、査読され、よくテストさ"
+"れた、成熟したライブラリとして便利なライセンス条項とともに提供する、Qt 向け"
+"の %1 のアドオンライブラリです。その紹介は [KDE Frameworks リリースのお知ら"
+"せ](/announcements/frameworks/5/5.0)でご覧になれます。"
+
+#. annc-frameworks-intro-2
+#. +> trunk5
+#: i18n/en.yaml:278
+msgid ""
+"This release is part of a series of planned monthly releases making "
+"improvements available to developers in a quick and predictable manner."
+msgstr ""
+"このリリースは、素早く予測しやすい方法で開発者に改良を提供するための、計画的"
+"な月ごとのリリースの一部です。"
+
+#. annc-frameworks-new
+#. +> trunk5
+#: i18n/en.yaml:280
+msgid "New in this version"
+msgstr "このバージョンの新機能"
+
+#. annc-gear-title
+#. %1 version number
+#. +> trunk5
+#: i18n/en.yaml:283
+msgid "KDE Gear %1"
+msgstr "KDE Gear %1"
+
+#. annc-gear-desc
+#. %1 version number
+#. +> trunk5
+#: i18n/en.yaml:286
+msgid "KDE announces the release of KDE Gear %1."
+msgstr "KDE は、KDE Gear %1 のリリースを発表します。"
+
+#. annc-gear-intro
+#. %1 a number greater than 100
+#. +> trunk5
+#: i18n/en.yaml:289
+msgid ""
+"Over %1 individual programs plus dozens of programmer libraries and feature "
+"plugins are released simultaneously as part of KDE Gear."
+msgstr ""
+"%1 を超えるプログラムに加え、多数のライブラリやプラグインが KDE Gear の一部分"
+"として同時にリリースされます。"
+
+#. annc-gear-updates
+#. +> trunk5
+#: i18n/en.yaml:292
+msgid ""
+"Today they all get new bugfix source releases with updated translations."
+msgstr ""
+"本日、そのすべてがバグの修正や更新された翻訳とともに新しくリリースされます。"
+
+#. annc-gear-updates-including
+#. +> trunk5
+#: i18n/en.yaml:294
+msgid ""
+"Today they all get new bugfix source releases with updated translations, "
+"including:"
+msgstr ""
+"本日、そのすべてがバグの修正や更新された翻訳とともに新しくリリースされます。"
+"以下の内容が含まれます:"
+
+#. annc-gear-packagers
+#. +> trunk5
+#: i18n/en.yaml:296
+msgid ""
+"Distro and app store packagers should update their application packages."
+msgstr ""
+"ディストリビューションとアプリケーションストアのパッケージャは、アプリケー"
+"ションのパッケージを更新してください。"
+
+#. annc-gear-release-notes
+#. %1 version number, %2 link
+#. +> trunk5
+#: i18n/en.yaml:298
+msgid "[%1 release notes](%2) for information on tarballs and known issues."
+msgstr ""
+"tarball に関する情報や既知の問題については[ %1 リリースノート](%2)をご覧くだ"
+"さい。"
+
+#. annc-gear-source-info
+#. %1 version number
+#. +> trunk5
+#: i18n/en.yaml:303
+msgid "%1 source info page"
+msgstr "%1 ソースの情報ページ"
+
+#. annc-gear-changelog
+#. %1 version number
+#. +> trunk5
+#: i18n/en.yaml:306
+msgid "%1 full changelog"
+msgstr "%1 の完全な変更ログ"
+
+#. annc-plasma-alt
+#. %1 version number
+#. +> trunk5
+#: i18n/en.yaml:310
+msgid "Image of Plasma %1"
+msgstr "Plasma %1 の画像"
+
+#. annc-plasma-caption
+#. %1 version number
+#. +> trunk5
+#: i18n/en.yaml:313
+msgid "KDE Plasma %1"
+msgstr "KDE Plasma %1"
+
+#. annc-plasma-beta-alt
+#. %1 version number
+#. +> trunk5
+#: i18n/en.yaml:316
+msgid "Image of Plasma %1 Beta"
+msgstr "Plasma %1 Beta の画像"
+
+#. annc-plasma-beta-caption
+#. %1 version number
+#. +> trunk5
+#: i18n/en.yaml:319
+msgid "KDE Plasma %1 Beta"
+msgstr "KDE Plasma %1 Beta"
+
+#. annc-plasma-bugfix-intro
+#. %1 major version number, %2 full version number
+#. +> trunk5
+#: i18n/en.yaml:322
+msgid "Today KDE releases a bugfix update to KDE Plasma %1, versioned %2."
+msgstr "本日、KDE は Plasma %1 のバグ修正リリース %2 をリリースします。"
+
+#. annc-plasma-bugfix-minor-release-1
+#. %1 version number, %2 link, %3 year
+#. +> trunk5
+#: i18n/en.yaml:325
+msgid ""
+"[Plasma %1](%2) was released in January %3 with many feature refinements and "
+"new modules to complete the desktop experience."
+msgstr ""
+"[Plasma %1](%2) は、多くの改良や新しいモジュールとともに%3年1月にリリースされ"
+"ました。"
+
+#. annc-plasma-bugfix-minor-release-2
+#. %1 version number, %2 link, %3 year
+#. +> trunk5
+#: i18n/en.yaml:328
+msgid ""
+"[Plasma %1](%2) was released in February %3 with many feature refinements "
+"and new modules to complete the desktop experience."
+msgstr ""
+"[Plasma %1](%2) は、多くの改良や新しいモジュールとともに%3年2月にリリースされ"
+"ました。"
+
+#. annc-plasma-bugfix-minor-release-3
+#. %1 version number, %2 link, %3 year
+#. +> trunk5
+#: i18n/en.yaml:331
+msgid ""
+"[Plasma %1](%2) was released in March %3 with many feature refinements and "
+"new modules to complete the desktop experience."
+msgstr ""
+"[Plasma %1](%2) は、多くの改良や新しいモジュールとともに%3年3月にリリースされ"
+"ました。"
+
+#. annc-plasma-bugfix-minor-release-4
+#. %1 version number, %2 link, %3 year
+#. +> trunk5
+#: i18n/en.yaml:334
+msgid ""
+"[Plasma %1](%2) was released in April %3 with many feature refinements and "
+"new modules to complete the desktop experience."
+msgstr ""
+"[Plasma %1](%2) は、多くの改良や新しいモジュールとともに%3年4月にリリースされ"
+"ました。"
+
+#. annc-plasma-bugfix-minor-release-5
+#. %1 version number, %2 link, %3 year
+#. +> trunk5
+#: i18n/en.yaml:337
+msgid ""
+"[Plasma %1](%2) was released in May %3 with many feature refinements and new "
+"modules to complete the desktop experience."
+msgstr ""
+"[Plasma %1](%2) は、多くの改良や新しいモジュールとともに%3年5月にリリースされ"
+"ました。"
+
+#. annc-plasma-bugfix-minor-release-6
+#. %1 version number, %2 link, %3 year
+#. +> trunk5
+#: i18n/en.yaml:340
+msgid ""
+"[Plasma %1](%2) was released in June %3 with many feature refinements and "
+"new modules to complete the desktop experience."
+msgstr ""
+"[Plasma %1](%2) は、多くの改良や新しいモジュールとともに%3年6月にリリースされ"
+"ました。"
+
+#. annc-plasma-bugfix-minor-release-7
+#. %1 version number, %2 link, %3 year
+#. +> trunk5
+#: i18n/en.yaml:343
+msgid ""
+"[Plasma %1](%2) was released in July %3 with many feature refinements and "
+"new modules to complete the desktop experience."
+msgstr ""
+"[Plasma %1](%2) は、多くの改良や新しいモジュールとともに%3年7月にリリースされ"
+"ました。"
+
+#. annc-plasma-bugfix-minor-release-8
+#. %1 version number, %2 link, %3 year
+#. +> trunk5
+#: i18n/en.yaml:346
+msgid ""
+"[Plasma %1](%2) was released in August %3 with many feature refinements and "
+"new modules to complete the desktop experience."
+msgstr ""
+"[Plasma %1](%2) は、多くの改良や新しいモジュールとともに%3年8月にリリースされ"
+"ました。"
+
+#. annc-plasma-bugfix-minor-release-9
+#. %1 version number, %2 link, %3 year
+#. +> trunk5
+#: i18n/en.yaml:349
+msgid ""
+"[Plasma %1](%2) was released in September %3 with many feature refinements "
+"and new modules to complete the desktop experience."
+msgstr ""
+"[Plasma %1](%2) は、多くの改良や新しいモジュールとともに%3年9月にリリースされ"
+"ました。"
+
+#. annc-plasma-bugfix-minor-release-10
+#. %1 version number, %2 link, %3 year
+#. +> trunk5
+#: i18n/en.yaml:352
+msgid ""
+"[Plasma %1](%2) was released in October %3 with many feature refinements and "
+"new modules to complete the desktop experience."
+msgstr ""
+"[Plasma %1](%2) は、多くの改良や新しいモジュールとともに%3年10月にリリースさ"
+"れました。"
+
+#. annc-plasma-bugfix-minor-release-11
+#. %1 version number, %2 link, %3 year
+#. +> trunk5
+#: i18n/en.yaml:355
+msgid ""
+"[Plasma %1](%2) was released in November %3 with many feature refinements "
+"and new modules to complete the desktop experience."
+msgstr ""
+"[Plasma %1](%2) は、多くの改良や新しいモジュールとともに%3年11月にリリースさ"
+"れました。"
+
+#. annc-plasma-bugfix-minor-release-12
+#. %1 version number, %2 link, %3 year
+#. +> trunk5
+#: i18n/en.yaml:358
+msgid ""
+"[Plasma %1](%2) was released in December %3 with many feature refinements "
+"and new modules to complete the desktop experience."
+msgstr ""
+"[Plasma %1](%2) は、多くの改良や新しいモジュールとともに%3年12月にリリースさ"
+"れました。"
+
+#. annc-plasma-bugfix-worth-1
+#. +> trunk5
+#: i18n/en.yaml:361 i18n/en.yaml:363
+msgid ""
+"This release adds a week’s worth of new translations and fixes from KDE’s "
+"contributors."
+msgstr ""
+"このリリースは、KDE の貢献者による1週間分の新しい翻訳と修正を追加します。"
+
+#. annc-plasma-bugfix-worth-3
+#. +> trunk5
+#: i18n/en.yaml:365
+msgid ""
+"This release adds two weeks’ worth of new translations and fixes from KDE’s "
+"contributors."
+msgstr ""
+"このリリースは、KDE の貢献者による2週間分の新しい翻訳と修正を追加します。"
+
+#. annc-plasma-bugfix-worth-4
+#. +> trunk5
+#: i18n/en.yaml:367
+msgid ""
+"This release adds three weeks’ worth of new translations and fixes from "
+"KDE’s contributors."
+msgstr ""
+"このリリースは、KDE の貢献者による3週間分の新しい翻訳と修正を追加します。"
+
+#. annc-plasma-bugfix-worth-5
+#. +> trunk5
+#: i18n/en.yaml:369
+msgid ""
+"This release adds a month’s worth of new translations and fixes from KDE’s "
+"contributors."
+msgstr ""
+"このリリースは、KDE の貢献者による1カ月分の新しい翻訳と修正を追加します。"
+
+#. annc-plasma-bugfix-worth-6
+#. +> trunk5
+#: i18n/en.yaml:371
+msgid ""
+"This release adds two months’ worth of new translations and fixes from KDE’s "
+"contributors."
+msgstr ""
+"このリリースは、KDE の貢献者による2カ月分の新しい翻訳と修正を追加します。"
+
+#. annc-plasma-bugfix-worth-7
+#. +> trunk5
+#: i18n/en.yaml:373
+msgid ""
+"This release adds three months’ worth of new translations and fixes from "
+"KDE’s contributors."
+msgstr ""
+"このリリースは、KDE の貢献者による3カ月分の新しい翻訳と修正を追加します。"
+
+#. annc-plasma-bugfix-worth-8
+#. +> trunk5
+#: i18n/en.yaml:375
+msgid ""
+"This release adds five months’ worth of new translations and fixes from "
+"KDE’s contributors."
+msgstr ""
+"このリリースは、KDE の貢献者による5カ月分の新しい翻訳と修正を追加します。"
+
+#. annc-plasma-bugfix-worth-9
+#. +> trunk5
+#: i18n/en.yaml:377
+msgid ""
+"This release adds six months’ worth of new translations and fixes from KDE’s "
+"contributors."
+msgstr ""
+"このリリースは、KDE の貢献者による6カ月分の新しい翻訳と修正を追加します。"
+
+#. annc-plasma-bugfix-last
+#. +> trunk5
+#: i18n/en.yaml:379
+msgid "The bugfixes are typically small but important and include:"
+msgstr "バグの修正は小規模ですが重要です。以下の内容が含まれます:"
+
+#. compile-gear
+#. +> trunk5
+#: i18n/en.yaml:382
+msgid "Compiling KDE Gear"
+msgstr "KDE Gear をコンパイルする"
+
+#. compile-gear-desc
+#. %1 version number, %2 link, %3 link
+#. +> trunk5
+#: i18n/en.yaml:384
+msgid ""
+"The complete source code for KDE Gear %1 may be [freely downloaded](%2). "
+"Instructions on compiling and installing are available from the [KDE Gear %1 "
+"Info Page](%3)."
+msgstr ""
+"KDE Gear %1 の完全なソースコードは[ご自由にダウンロードできます](%2)。コンパ"
+"イル方法とインストール方法の解説は [KDE Gear 情報ページ](%3)からご覧になれま"
+"す。"
+
+#. gear-changelog-link
+#. +> trunk5
+#: i18n/en.yaml:387
+msgid "Full changelog here"
+msgstr "完全な変更ログ"
+
+#. gear-get-apps
+#. +> trunk5
+#: i18n/en.yaml:389
+msgid "Where to get KDE Apps"
+msgstr "KDE アプリケーションの入手場所"
+
+#. gear-available
+#. %1 version number
+#. +> trunk5
+#: i18n/en.yaml:391
+msgid ""
+"Although we fully support distributions that ship our software, KDE Gear %1 "
+"apps will also be available on these Linux app stores shortly:"
+msgstr ""
+"KDE Gear %1 アプリケーションは、まもなくこれらの Linux アプリケーションストア"
+"でも入手できるようになります: "
+
+#. gear-all-about-apps
+#. %1 link
+#. +> trunk5
+#: i18n/en.yaml:394
+msgid ""
+"If you’d like to help us get more KDE applications into the app stores, "
+"support more app stores and get the apps better integrated into our "
+"development process, come say hi in our [All About the Apps chat room](%1)."
+msgstr ""
+"もしより多くの KDE アプリケーションをアプリケーションストアで公開したり、サ"
+"ポートしたり、アプリケーションの開発手順をよりよく統合させることに手伝いたい"
+"のなら、[全てのアプリケーションチャットルーム](%1)に挨拶しに来てください。"
+
+#. package-distro
+#. +> trunk5
+#: i18n/en.yaml:398
+msgid ""
+"Note that packages of this release might not be available on all "
+"distributions at the time of this announcement."
+msgstr ""
+"この発表の時点では、すべてのディストリビューションでこのリリースのパッケージ"
+"が利用可能であるとは限らないことにご留意ください。"
+
+#. plasma.release.bar
+#. %1 version number
+#. +> trunk5
+#: i18n/en.yaml:401
+msgid "About Plasma %1"
+msgstr "Plasma %1 について"
+
+#. plasma.release.title
+#. %1 version number
+#. +> trunk5
+#: i18n/en.yaml:404
+msgid "Latest Release: Plasma %1"
+msgstr "最新のリリース: Plasma %1"
+
+#. plasma.connect.replay
+#. +> trunk5
+#: i18n/en.yaml:407
+msgid "Replay"
+msgstr "リプレイ"
+
+#. thanks.header1
+#. Title
+#. +> trunk5
+#: i18n/en.yaml:411
+msgid "Thank You"
+msgstr "ありがとう"
+
+#. thanks.header2
+#. Subtitle
+#. +> trunk5
+#: i18n/en.yaml:414
+msgid "Thanks!"
+msgstr "ありがとう!"
+
+#. thanks.text
+#. +> trunk5
+#: i18n/en.yaml:417
+msgid ""
+"The work of the KDE Community is made possible thanks to contributions from "
+"KDE Community members, donors and corporations that collaborate with us. We "
+"want to thank those organizations that make significant donations of goods "
+"and services to KDE by publishing their names on this page."
+msgstr ""
+"KDE コミュニティーの活動は、KDE コミュニティーのメンバー、寄付者、協力してく"
+"ださる企業からの貢献から成立しています。KDE に機材やサービスといった重要な寄"
+"付をしてくださる団体の皆様に、このページでお名前を公表することで感謝の意を表"
+"します。"
+
+#. thanks.donations.header2.1
+#. Subtitle
+#. +> trunk5
+#: i18n/en.yaml:419
+msgid "Donations"
+msgstr "寄付"
+
+#. thanks.donations.header2.2
+#. Subtitle
+#. +> trunk5
+#: i18n/en.yaml:422
+msgid "Previous Donations"
+msgstr "以前の寄付"
+
+#. thanks.organization.table.header.1
+#. +> trunk5
+#: i18n/en.yaml:425
+msgid "Organization"
+msgstr "組織"
+
+#. thanks.organization.table.header.2
+#. +> trunk5
+#: i18n/en.yaml:427
+msgid "Description"
+msgstr "説明"
+
+#. thanks.organization.table.header.3
+#. +> trunk5
+#: i18n/en.yaml:429
+msgid "Usage"
+msgstr "利用方法"
+
+#. thanks.organization.table.header.4
+#. +> trunk5
+#: i18n/en.yaml:431
+msgid "Date"
+msgstr "日付"
+
+#. thanks.footer.text
+#. +> trunk5
+#: i18n/en.yaml:433
+msgid ""
+"This page is made based on the policy as described in the [Thank You Policy]"
+"(https://ev.kde.org/rules/thankyou_policy/)."
+msgstr ""
+"このページは [Thank You Policy](https://ev.kde.org/rules/thankyou_policy/) に"
+"て記載されているポリシーをベースにし作成されています。"
+
+#. plasma.5.22.today
+#. +> trunk5
+#: i18n/en.yaml:436
+msgid "Today"
+msgstr "今日"
+
+#. plasma.5.22.years
+#. +> trunk5
+#: i18n/en.yaml:438
+msgid "Years"
+msgstr "年"
+
+#. plasma.5.22.months
+#. +> trunk5
+#: i18n/en.yaml:440
+msgid "Months"
+msgstr "月"
+
+#. plasma.5.22.days
+#. +> trunk5
+#: i18n/en.yaml:442
+msgid "Days"
+msgstr "日"
+
+#. plasma.5.22.noevents
+#. +> trunk5
+#: i18n/en.yaml:444
+msgid "No events for today"
+msgstr "今日のイベントはありません"
+
+#. plasma.5.22.events
+#. +> trunk5
+#: i18n/en.yaml:446
+msgid "Events"
+msgstr "イベント"
+
+#. plasma.5.22.date
+#. +> trunk5
+#: i18n/en.yaml:448
+msgid "Friday 6 september 2021"
+msgstr "2021年9月6日金曜日"
+
+#. plasma-simple-powerful
+#. +> trunk5
+#: i18n/en.yaml:450
+msgid "Simple by default, Powerful when needed"
+msgstr "Simple by default, Powerful when needed"
+
+#. steam-deck-desc
+#. +> trunk5
+#: i18n/en.yaml:455
+msgid ""
+"The Steam Deck is a portable console that runs the latest AAA games with the "
+"flexibility of a full PC."
+msgstr ""
+"Steam Deck は完全な PC の柔軟性を持ち、最新の AAA ゲームを実行できるポータブ"
+"ルコンソールです。"
+
+#. get-it
+#. +> trunk5
+#: i18n/en.yaml:458
+msgid "Get it"
+msgstr "入手する"
+
+#. fund-it
+#. +> trunk5
+#: i18n/en.yaml:460
+msgid "Fund it"
+msgstr "出資する"
+
+#. art-by
+#. +> trunk5
+#: i18n/en.yaml:462
+msgid "Art by"
+msgstr "アートワークの作者"
+
+#. you-made-it
+#. +> trunk5
+#: i18n/en.yaml:464 i18n/en.yaml:524
+msgid ""
+"<span class=\"blue\">Support</span> Good <span class=\"blue\">People</span>"
+msgstr ""
+"<span class=\"blue\">Support</span> Good <span class=\"blue\">People</span>"
+
+#. donate-now
+#. +> trunk5
+#: i18n/en.yaml:466
+msgid "Donate"
+msgstr "寄付する"
+
+#. gear-donation
+#. +> trunk5
+#: i18n/en.yaml:468
+msgid ""
+"You make KDE Gear possible with your support and donations. Help us keep "
+"improving and building apps by using the donation form."
+msgstr ""
+"あなたの支援と寄付が KDE Gear の開発を支えます。寄付フォームを使用して、アプ"
+"リケーションの開発と改善にご協力ください。"
+
+#. support-plasma6
+#. +> trunk5
+#: i18n/en.yaml:473
+msgid "Become a Supporting Member"
+msgstr "支援メンバーになる"
+
+#. hall-of-fame
+#. +> trunk5
+#: i18n/en.yaml:475 i18n/en.yaml:504 i18n/en.yaml:533
+msgid "New Supporting Members"
+msgstr "新しくメンバーを支援する"
+
+#. plasma6member-goal1
+#. +> trunk5
+#: i18n/en.yaml:477
+msgid "Members: 500"
+msgstr "メンバー: 500"
+
+#. plasma6member-goal2
+#. +> trunk5
+#: i18n/en.yaml:479
+msgid "550"
+msgstr "550"
+
+#. plasma6member-goal3
+#. +> trunk5
+#: i18n/en.yaml:481
+msgid "650"
+msgstr "650"
+
+#. plasma6member-countdown
+#. %1 %2 %3 %4 numbers of days, hours, minutes, seconds
+#. +> trunk5
+#: i18n/en.yaml:483 i18n/en.yaml:512 i18n/en.yaml:544
+msgid "%1d %2h %3m %4s"
+msgstr "%1日 %2時間 %3分 %4秒"
+
+#. plasma6member-expired
+#. +> trunk5
+#: i18n/en.yaml:486 i18n/en.yaml:515 i18n/en.yaml:547
+msgid "EXPIRED"
+msgstr "終了"
+
+#. plasma6member-progress
+#. %1 a number
+#. +> trunk5
+#: i18n/en.yaml:488
+msgid "%1 members<sup>*</sup>"
+msgstr "%1 メンバー<sup>*</sup>"
+
+#. plasma6member-updated
+#. +> trunk5
+#: i18n/en.yaml:491 i18n/en.yaml:520 i18n/en.yaml:552
+msgid "<sup>*</sup>Updated daily."
+msgstr "<sup>*</sup>毎日更新。"
+
+#. img.comparaison.before
+#. +> trunk5
+#: i18n/en.yaml:494
+msgid "Before"
+msgstr "以前"
+
+#. img.comparaison.after
+#. +> trunk5
+#: i18n/en.yaml:497
+msgid "After"
+msgstr "以後"
+
+#. support-yearend2024
+#. +> trunk5
+#: i18n/en.yaml:502
+msgid "Support Good People!"
+msgstr "Support Good People!"
+
+#. yearend2024-goal1
+#. +> trunk5
+#: i18n/en.yaml:506
+msgid "€30000"
+msgstr "€30000"
+
+#. yearend2024-goal2
+#. +> trunk5
+#: i18n/en.yaml:508
+msgid "€50000"
+msgstr "€50000"
+
+#. yearend2024-goal3
+#. +> trunk5
+#: i18n/en.yaml:510
+msgid "€70000"
+msgstr "€70000"
+
+#. yearend2024-progress
+#. %1 a number
+#. +> trunk5
+#: i18n/en.yaml:517
+msgid "€%1"
+msgstr "€%1"
+
+#. yearend2024_title_hw
+#. +> trunk5
+#: i18n/en.yaml:522 i18n/en.yaml:558
+msgid ""
+"<span class=\"red\">Halloween</span> Fundraiser <span class=\"red\">Special</"
+"span>"
+msgstr ""
+"<span class=\"red\">Halloween</span> Fundraiser <span class=\"red\">Special</"
+"span>"
+
+#. yearend2024_title_bf
+#. +> trunk5
+#: i18n/en.yaml:526 i18n/en.yaml:560
+msgid ""
+"<span class=\"blue\">Blue</span> Friday is <span class=\"blue\">Back!</span>"
+msgstr ""
+"<span class=\"blue\">Blue</span> Friday is <span class=\"blue\">Back!</span>"
+
+#. support-yearend2025
+#. +> trunk5
+#: i18n/en.yaml:531
+msgid "Let's reach the inflection point!"
+msgstr ""
+
+#. yearend2025-goal1
+#. Formatted EUR amount
+#. +> trunk5
+#: i18n/en.yaml:535
+msgid "€50K"
+msgstr ""
+
+#. yearend2025-goal2
+#. Formatted EUR amount
+#. +> trunk5
+#: i18n/en.yaml:538
+msgid "€75K"
+msgstr ""
+
+#. yearend2025-goal3
+#. Formatted EUR amount
+#. +> trunk5
+#: i18n/en.yaml:541
+msgid "€100K"
+msgstr ""
+
+#. yearend2025-progress
+#. Formatted EUR amount
+#. +> trunk5
+#: i18n/en.yaml:549
+msgid "%1"
+msgstr ""
+
+#. yearend2025_title
+#. +> trunk5
+#: i18n/en.yaml:554
+msgid "<span class=\"blue\">Happy Birthday</span> to us"
+msgstr ""
+
+#. yearend2025_title_p65
+#. +> trunk5
+#: i18n/en.yaml:556
+msgid "Help us reach the <span class=\"blue\">inflection point</span>"
+msgstr ""
+
+#. app-name
+#. +> trunk5
+#: i18n/en.yaml:562
+msgid "App"
+msgstr ""
+
+#. adopter-count
+#. +> trunk5
+#: i18n/en.yaml:564
+msgid "Adopters"
+msgstr ""
+
+#. endof10.text
+#. +> trunk5
+#: i18n/en.yaml:568
+#, fuzzy
+#| msgid ""
+#| "Continue using your old computer after the end of Windows 10 support this "
+#| "October."
+msgid ""
+"You can continue using your old computer after the end of Windows 10 support."
+msgstr ""
+"今年10月の Windows 10 のサポート終了後も、あなたの古いコンピューターを使い続"
+"けましょう。"
+
+#. endof10.visit
+#. +> trunk5
+#: i18n/en.yaml:570
+msgid "Visit endof10.org"
+msgstr "endof10.org に訪れる"
+
+#~ msgid "The KDE Community"
+#~ msgstr "The KDE Community"
+
+#~ msgid ""
+#~ "Our community has developed a wide variety of applications for "
+#~ "communication, work, education and entertainment. We have a strong focus "
+#~ "on finding innovative solutions to old and new problems, creating a "
+#~ "vibrant, open atmosphere for experimentation."
+#~ msgstr ""
+#~ "私たちのコミュニティは、コミュニケーション、仕事、教育やエンターテイメント"
+#~ "のための様々なソフトウェアを開発してきました。私たちは、新旧の問題に対する"
+#~ "革新的な解決策を見つけること、実験的な試みのために、開かれた活気のある環境"
+#~ "を創り出すことに集中しています。"
+
+#, fuzzy
+#~| msgid "€50000"
+#~ msgid "€75000"
+#~ msgstr "€50000"
+
+#~ msgid ""
+#~ "The Pinebook Pro is an affordable ARM powered laptop. It is modular and "
+#~ "hackable in a way that only an Open Source project can be."
+#~ msgstr ""
+#~ "Pinebook Pro は お求めやすい ARM ラップトップです。オープンソースプロジェ"
+#~ "クトらしくモジュラーで hackable です。"
+
+#~ msgid ""
+#~ "The Kubuntu Focus laptop is a high-powered, workflow-focused laptop which "
+#~ "ships with Kubuntu installed."
+#~ msgstr ""
+#~ "Kubuntu Focus は、Kubuntu がプリインストールされたハイパワーでワークフロー"
+#~ "重視のラップトップです。"
+
+#~ msgid "Kdevelop"
+#~ msgstr "Kdevelop"
+
+#~ msgid ""
+#~ "Get creative and draw beautiful artwork with Krita. A professional grade "
+#~ "painting application."
+#~ msgstr ""
+#~ "創造力を働かせ、Krita で美しい作品を描きましょう。本格的なペイントアプリ"
+#~ "ケーションです。"
+
+#~ msgid ""
+#~ "Kdenlive allows you to edit your videos and add special effects and "
+#~ "transitions."
+#~ msgstr ""
+#~ "Kdenlive は、あなたの動画に特殊効果やトランジションを追加する動画編集アプ"
+#~ "リケーションです。"
+
+#~ msgid ""
+#~ "Handle all your emails, calendars and contacts within a single window "
+#~ "with Kontact."
+#~ msgstr ""
+#~ "Kontact で、Eメール、カレンダーや連絡先を一つのウィンドウの内に管理しま"
+#~ "しょう。"
+
+#~ msgid ""
+#~ "FREE, open source and cross-platform Data Visualization and Analysis "
+#~ "software accessible to everyone."
+#~ msgstr ""
+#~ "フリーでオープンソース、さらにクロスプラットホームな、誰でも使えるデータ可"
+#~ "視化・分析ソフトウェアです。"
+
+#~ msgid ""
+#~ "<span class=\"blue\">You</span> Make <span class=\"blue\">KDE</span> "
+#~ "Possible"
+#~ msgstr ""
+#~ "<span class=\"blue\">You</span> Make <span class=\"blue\">KDE</span> "
+#~ "Possible"
+
+#~ msgid "Support Plasma 6!"
+#~ msgstr "Plasma 6 を支援する!"
+
+#~ msgid "Group photo of LaKademy 2018"
+#~ msgstr "LaKademy 2018 の集合写真"
+
+#~ msgid "Salvador, Brazil"
+#~ msgstr "サルバドール、ブラジル"
+
+#~ msgid "Plasma Sprint"
+#~ msgstr "Plasma Sprint"
+
+#~| msgid "Berlin, Germany"
+#~ msgid "Augsburg, Germany"
+#~ msgstr "アウスバーグ、ドイツ"
+
+#~ msgid "Paris, France"
+#~ msgstr "パリ、フランス"
+
+#~ msgid "Google Summer of Code Students"
+#~ msgstr "Google Summer of Code Students"
+
+#~ msgid "KDE GSoC students group photo"
+#~ msgstr "KDE GSoc students 集合写真"
+
+#~ msgid "Florianopolis, Brazil"
+#~ msgstr "フロリアノポリス、ブラジル"
+
+#~ msgid "KDE Connect Sprint"
+#~ msgstr "KDE Connect Sprint"
+
+#~ msgid "Barcelona"
+#~ msgstr "バルセロナ"
+
+#~ msgid "England"
+#~ msgstr "イギリス"
+
+#~ msgid "Brazil"
+#~ msgstr "ブラジル"
+
+#~ msgid "Prague"
+#~ msgstr "プラハ"
+
+#~ msgid "Image of BMUV/UBA"
+#~ msgstr "BMUV/UBA の画像"

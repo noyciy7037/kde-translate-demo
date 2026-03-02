@@ -1,0 +1,142 @@
+# Translation of desktop_kdegames into Japanese.
+# Taiki Komoda <kom@kde.gr.jp>, 2002.
+# Takuro Ashie <ashie@homa.ne.jp>, 2004.
+# Kurose Shushi <md81@bird.email.ne.jp>, 2004.
+# AWASHIRO Ikuya <ikuya@oooug.jp>, 2004.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2006.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2007, 2008, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdegames\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-11-10 06:59+0100\n"
+"PO-Revision-Date: 2009-01-08 23:33+0900\n"
+"Last-Translator: Yukiko Bando <ybando@k6.dion.ne.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: \n"
+"X-Text-Markup: \n"
+
+#. +> trunk6 stable6
+#: src/kdiamond.notifyrc:4
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "KDiamond"
+msgctxt "Comment"
+msgid "KDiamond Game"
+msgstr "KDiamond"
+
+#. +> trunk6 stable6
+#: src/kdiamond.notifyrc:58
+msgctxt "Name"
+msgid "Game"
+msgstr "ゲーム"
+
+#. +> trunk6 stable6
+#: src/kdiamond.notifyrc:119
+msgctxt "Comment"
+msgid "Sounds that appear during a game"
+msgstr "ゲーム中に再生されるサウンド"
+
+#. +> trunk6 stable6
+#: src/kdiamond.notifyrc:174
+msgctxt "Name"
+msgid "Diamonds removed"
+msgstr "ダイヤモンド除去"
+
+#. +> trunk6 stable6
+#: src/kdiamond.notifyrc:229
+msgctxt "Comment"
+msgid "Diamonds were removed."
+msgstr "ダイヤモンドが取り除かれました。"
+
+#. +> trunk6 stable6
+#: src/kdiamond.notifyrc:289
+msgctxt "Name"
+msgid "Diamonds moving"
+msgstr "ダイヤモンド移動"
+
+#. +> trunk6 stable6
+#: src/kdiamond.notifyrc:344
+msgctxt "Comment"
+msgid "Diamonds are moving."
+msgstr "ダイヤモンドが移動しています。"
+
+#. +> trunk6 stable6
+#: src/kdiamond.notifyrc:404
+msgctxt "Name"
+msgid "Game over"
+msgstr "ゲームオーバー"
+
+#. +> trunk6 stable6
+#: src/kdiamond.notifyrc:464
+msgctxt "Comment"
+msgid "Time is up."
+msgstr "時間切れです。"
+
+#. +> trunk6 stable6
+#: src/org.kde.kdiamond.desktop:4
+msgctxt "Name"
+msgid "KDiamond"
+msgstr "KDiamond"
+
+#. +> trunk6 stable6
+#: src/org.kde.kdiamond.desktop:63
+msgctxt "GenericName"
+msgid "Three-in-a-row game"
+msgstr "三目並べ"
+
+#. +> trunk6 stable6
+#: src/org.kde.kdiamond.desktop:119
+msgctxt "Comment"
+msgid "Logic game"
+msgstr ""
+
+#. +> trunk6 stable6
+#: themes/default.desktop:3
+msgctxt "Name"
+msgid "Egyptian"
+msgstr ""
+
+#. +> trunk6 stable6
+#: themes/default.desktop:57
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Oxygen styled card deck"
+msgctxt "Description"
+msgid "Egyptian style theme."
+msgstr "Oxygen スタイルのカードデッキ"
+
+#. +> trunk6 stable6
+#: themes/diamonds.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "KDiamond"
+msgctxt "Name"
+msgid "Diamonds"
+msgstr "KDiamond"
+
+#. +> trunk6 stable6
+#: themes/diamonds.desktop:57
+msgctxt "Description"
+msgid "A theme based on real looking diamonds."
+msgstr ""
+
+#. +> trunk6 stable6
+#: themes/funny_zoo.desktop:3
+msgctxt "Name"
+msgid "Funny Zoo"
+msgstr ""
+
+#. +> trunk6 stable6
+#: themes/funny_zoo.desktop:56
+msgctxt "Description"
+msgid ""
+"It is a fun time in the jungle! Help animals find their families. And watch "
+"out for those hard to find frogs."
+msgstr ""

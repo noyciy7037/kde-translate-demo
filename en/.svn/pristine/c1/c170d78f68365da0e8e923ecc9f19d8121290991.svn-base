@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kdenlive Manual \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-13 09:59+0100\n"
+"PO-Revision-Date: 2024-10-01 21:30+0900\n"
+"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. +> trunk5
+#: ../../project_and_asset_management/project_settings.rst:22
+msgid "Project Settings"
+msgstr ""
+
+#. +> trunk5
+#: ../../project_and_asset_management/project_settings.rst:24
+msgid ""
+"Project Settings define first and foremost the properties of the final video "
+"(a rescaling or output format change during the render process "
+"notwithstanding). That includes the dimensions (e.g. 1920x1080), aspect "
+"ratio (e.g. 16:9 or 9:16 or 4:3), frame rate (e.g. 30fps), color space, and "
+"interlaced or progressive rendering."
+msgstr ""
+
+#. +> trunk5
+#: ../../project_and_asset_management/project_settings.rst:29
+msgid ""
+"Depending on the project profile you chose, the :ref:`edit layout <ui-"
+"workspace_layouts>` automatically switches to horizontal or vertical with "
+"the :ref:`safe areas <ui_elements-monitor_icons>` adapting at the same time."
+msgstr ""
+
+#. +> trunk5
+#: ../../project_and_asset_management/project_settings.rst:33
+msgid ""
+"Besides that, you can define where Kdenlive stores all project assets, how "
+"many video and audio tracks there are initially (you can add or delete "
+"tracks later as needed), whether or not Kdenlive should create proxy files "
+"automatically and under what circumstances, and you can enter metadata like "
+"author's name and copyright information which will be embedded in the "
+"multimedia container during export/render."
+msgstr ""
+
+#. +> trunk5
+#: ../../project_and_asset_management/project_settings.rst:35
+msgid ""
+"Here you also define the categories and colors for the timeline marker and "
+"markers you can use in the timeline to structure your project."
+msgstr ""
+
+#. +> trunk5
+#: ../../project_and_asset_management/project_settings.rst:37
+msgid ""
+"Once the project is underway, you can find here some statistics about your "
+"project, like number and size of the clips, used versus unused, and about "
+"the data cache. Kdenlive gives you full control over the use and utilization "
+"of your assets."
+msgstr ""
+
+#. +> trunk5
+#: ../../project_and_asset_management/project_settings.rst:39
+msgid ""
+"The project settings dialog is opened every time a new project is created "
+"(:menuselection:`Menu --> File --> New`), or via :menuselection:`Menu --> "
+"File --> Project Settings`."
+msgstr ""
+
+#. +> trunk5
+#: ../../project_and_asset_management/project_settings.rst:41
+msgid "The Project Settings dialog window has six tabs:"
+msgstr ""
+
+#. +> trunk5
+#: ../../project_and_asset_management/project_settings.rst:-1
+msgid "Kdenlive Documentation - Project Settings"
+msgstr ""
+
+#. +> trunk5
+#: ../../project_and_asset_management/project_settings.rst:-1
+msgid ""
+"KDE, Kdenlive, project, setup, settings, documentation, user manual, video "
+"editor, open source, free, learn, easy"
+msgstr ""

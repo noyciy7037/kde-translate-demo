@@ -1,0 +1,4012 @@
+# Translation of kcontactmanager into Japanese.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2009, 2010.
+# Daniel E. Moctezuma <democtezuma@gmail.com>, 2010.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2010, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcontactmanager\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2026-01-21 08:33+0100\n"
+"PO-Revision-Date: 2014-09-23 00:51-0700\n"
+"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+"X-Generator: Lokalize 1.0\n"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Yukiko Bando,Daniel E. Moctezuma"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "ybando@k6.dion.ne.jp,democtezuma@gmail.com"
+
+#. +> trunk6 stable6
+#: kontactplugin/kaddressbook_plugin.cpp:31 src/aboutdata.cpp:18
+#: src/kaddressbookpart.cpp:32 src/kaddressbookpart.cpp:47
+#: src/mainwidget.cpp:745 src/mainwindow.cpp:89
+#, kde-format
+msgid "KAddressBook"
+msgstr "KAddressBook"
+
+#. +> trunk6 stable6
+#: kontactplugin/kaddressbook_plugin.cpp:33
+#, fuzzy, kde-format
+#| msgid "New Contact"
+msgctxt "@action:inmenu"
+msgid "New Contact..."
+msgstr "新規連絡先"
+
+#. i18nc( "@info:status", "Create a new contact" ) );
+#. +> trunk6 stable6
+#: kontactplugin/kaddressbook_plugin.cpp:39
+#, fuzzy, kde-format
+#| msgid ""
+#| "You will be presented with a dialog where you can configure the "
+#| "application-wide shortcuts."
+msgctxt "@info:whatsthis"
+msgid "You will be presented with a dialog where you can create a new contact."
+msgstr ""
+"ダイアログでアプリケーションで使用するキーボードショートカットを設定します。"
+
+#. +> trunk6 stable6
+#: kontactplugin/kaddressbook_plugin.cpp:42
+#, fuzzy, kde-format
+#| msgid "New Contact Group"
+msgctxt "@action:inmenu"
+msgid "New Contact Group..."
+msgstr "新規連絡先グループ"
+
+#. i18nc( "@info:status", "Create a new contact group" ) );
+#. +> trunk6 stable6
+#: kontactplugin/kaddressbook_plugin.cpp:48
+#, fuzzy, kde-format
+#| msgid ""
+#| "You will be presented with a dialog where you can configure the "
+#| "application-wide shortcuts."
+msgctxt "@info:whatsthis"
+msgid ""
+"You will be presented with a dialog where you can create a new contact group."
+msgstr ""
+"ダイアログでアプリケーションで使用するキーボードショートカットを設定します。"
+
+#. +> trunk6 stable6
+#: src/aboutdata.cpp:20
+#, kde-format
+msgid "The KDE Address Book Application"
+msgstr "KDE のアドレス帳アプリケーション"
+
+#. +> trunk6 stable6
+#: src/aboutdata.cpp:22
+#, fuzzy, kde-format
+#| msgid "Copyright © 2007–2010 KAddressBook authors"
+msgid "Copyright © 2007–%1 KAddressBook authors"
+msgstr "Copyright © 2007–2010 KAddressBook の作者"
+
+#. +> trunk6 stable6
+#: src/aboutdata.cpp:24
+#, fuzzy, kde-format
+#| msgid "Laurent Montel"
+msgctxt "@info:credit"
+msgid "Laurent Montel"
+msgstr "Laurent Montel"
+
+#. +> trunk6 stable6
+#: src/aboutdata.cpp:24
+#, kde-format
+msgid "Current maintainer"
+msgstr "現在のメンテナ"
+
+#. +> trunk6 stable6
+#: src/aboutdata.cpp:25
+#, fuzzy, kde-format
+#| msgid "Tobias Koenig"
+msgctxt "@info:credit"
+msgid "Tobias König"
+msgstr "Tobias Koenig"
+
+#. +> trunk6 stable6
+#: src/aboutdata.cpp:25
+#, kde-format
+msgid "Previous maintainer"
+msgstr "前のメンテナ"
+
+#. +> trunk6 stable6
+#: src/aboutdata.cpp:26
+#, kde-format
+msgctxt "@info:credit"
+msgid "Stefan Taferner"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/aboutdata.cpp:26
+#, kde-format
+msgid "Original Author (1998)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/aboutdata.cpp:27
+#, kde-format
+msgctxt "@info:credit"
+msgid "David Bryant"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/aboutdata.cpp:27
+#, kde-format
+msgid "Documentation (2019)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/categoryselectwidget.cpp:94
+#, kde-format
+msgctxt "@action:button"
+msgid "Reset category filter"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/categoryselectwidget.cpp:101
+#, kde-format
+msgctxt "@action:button"
+msgid "Clear category filter"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/categoryselectwidget.cpp:105
+#, kde-format
+msgid "(Untagged)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/categoryselectwidget.cpp:110
+#, kde-format
+msgid "(Groups)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/categoryselectwidget.cpp:116 src/categoryselectwidget.cpp:221
+#, kde-format
+msgid "(All)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/categoryselectwidget.cpp:224
+#, kde-format
+msgid "(None)"
+msgstr "(なし)"
+
+#. +> trunk6 stable6
+#: src/categoryselectwidget.cpp:229
+#, kde-format
+msgid ", "
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/categoryselectwidget.cpp:229
+#, fuzzy, kde-format
+#| msgid "Category filter"
+msgctxt "@info:tooltip"
+msgid "<qt>Category filter: %1"
+msgstr "カテゴリフィルタ"
+
+#. +> trunk6 stable6
+#: src/configuration/kaddressbook_config_activities.cpp:20
+#, kde-format
+msgid "Enabled"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/configuration/kaddressbookconfigpluginlistwidget.cpp:70
+#, kde-format
+msgid "Tools Plugins"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/configuration/kaddressbookconfigpluginlistwidget.cpp:79
+#, kde-format
+msgid "Import/Export Plugins"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/contactinfoproxymodel.cpp:68
+#, fuzzy, kde-format
+#| msgid "Add..."
+msgid "..."
+msgstr "追加..."
+
+#. +> trunk6 stable6
+#: src/contactinfoproxymodel.cpp:70
+#, kde-format
+msgid "Loading contacts details ..."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/contactinfoproxymodel.cpp:123
+#, fuzzy, kde-format
+#| msgid "Email:"
+msgid "Email: %1"
+msgstr "メールアドレス:"
+
+#. +> trunk6 stable6
+#: src/contactinfoproxymodel.cpp:131
+#, fuzzy, kde-format
+#| msgid "Phones"
+msgid "Phone: %1"
+msgstr "電話"
+
+#. +> trunk6 stable6
+#: src/contactinfoproxymodel.cpp:137
+#, kde-format
+msgid "%1%2 %3"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/contactinfoproxymodel.cpp:150 src/contactinfoproxymodel.cpp:167
+#, kde-format
+msgid "%1 %2 %3"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/contactswitcher.cpp:18
+#, kde-format
+msgctxt "@action:button Next contact"
+msgid "Next"
+msgstr "次へ"
+
+#. +> trunk6 stable6
+#: src/contactswitcher.cpp:19
+#, kde-format
+msgctxt "@action:button Previous contact"
+msgid "Previous"
+msgstr "前へ"
+
+#. +> trunk6 stable6
+#: src/contactswitcher.cpp:24
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Move to the previous contact in the list"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/contactswitcher.cpp:25
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Press this button to move to the previous contact in the list."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/contactswitcher.cpp:27
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Move to the next contact in the list"
+msgstr "一覧の中の次の連絡先へ移動"
+
+#. +> trunk6 stable6
+#: src/contactswitcher.cpp:28
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Press this button to move to the next contact in the list."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/contactswitcher.cpp:106
+#, kde-format
+msgctxt "@info:status"
+msgid "%1 out of %2"
+msgstr "%1 / %2"
+
+#. +> trunk6 stable6
+#: src/importexport/contactfields.cpp:21
+#, kde-format
+msgctxt "@item Undefined import field type"
+msgid "Undefined"
+msgstr "未定義"
+
+#. +> trunk6 stable6
+#: src/importexport/contactfields.cpp:40
+#, kde-format
+msgctxt "The wedding anniversary of a contact"
+msgid "Anniversary"
+msgstr "記念日"
+
+#. +> trunk6 stable6
+#: src/importexport/contactfields.cpp:86
+#, kde-format
+msgctxt "Preferred email address"
+msgid "EMail (preferred)"
+msgstr "メールアドレス (優先)"
+
+#. +> trunk6 stable6
+#: src/importexport/contactfields.cpp:88
+#, kde-format
+msgctxt "Second email address"
+msgid "EMail (2)"
+msgstr "メールアドレス (2)"
+
+#. +> trunk6 stable6
+#: src/importexport/contactfields.cpp:90
+#, kde-format
+msgctxt "Third email address"
+msgid "EMail (3)"
+msgstr "メールアドレス (3)"
+
+#. +> trunk6 stable6
+#: src/importexport/contactfields.cpp:92
+#, kde-format
+msgctxt "Fourth email address"
+msgid "EMail (4)"
+msgstr "メールアドレス (4)"
+
+#. +> trunk6 stable6
+#: src/importexport/contactfields.cpp:106
+#: src/viewertemplates/contact_embedded.html:97
+#, kde-format
+msgid "Blog Feed"
+msgstr "ブログフィード"
+
+#. +> trunk6 stable6
+#: src/importexport/contactfields.cpp:108
+#, kde-format
+msgid "Profession"
+msgstr "職業"
+
+#. +> trunk6 stable6
+#: src/importexport/contactfields.cpp:110
+#, kde-format
+msgid "Office"
+msgstr "オフィス"
+
+#. +> trunk6 stable6
+#: src/importexport/contactfields.cpp:112
+#, kde-format
+msgid "Manager"
+msgstr "マネージャ"
+
+#. +> trunk6 stable6
+#: src/importexport/contactfields.cpp:114
+#, kde-format
+msgid "Assistant"
+msgstr "アシスタントの名前"
+
+#. +> trunk6 stable6
+#: src/importexport/contactfields.cpp:116
+#, kde-format
+msgid "Spouse"
+msgstr "配偶者"
+
+#. +> trunk6 stable6
+#: src/importexport/contactselectiondialog.cpp:22
+#, kde-format
+msgctxt "@title:window"
+msgid "Select Contacts"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/importexport/contactselectionwidget.cpp:115
+#, kde-format
+msgctxt "@option:radio"
+msgid "All contacts"
+msgstr "すべての連絡先"
+
+#. +> trunk6 stable6
+#: src/importexport/contactselectionwidget.cpp:116
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "All contacts from all your address books"
+msgstr "すべてのアドレス帳からのすべての連絡先"
+
+#. +> trunk6 stable6
+#: src/importexport/contactselectionwidget.cpp:118
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Choose this option you want to select all your contacts from all your "
+"address books."
+msgstr "すべてのアドレス帳からすべての連絡先を選択します。"
+
+#. +> trunk6 stable6
+#: src/importexport/contactselectionwidget.cpp:121
+#, kde-format
+msgctxt "@option:radio"
+msgid "Selected contacts"
+msgstr "選択した連絡先"
+
+#. +> trunk6 stable6
+#: src/importexport/contactselectionwidget.cpp:122
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Only the contacts currently selected"
+msgstr "現在選択した連絡先のみ"
+
+#. +> trunk6 stable6
+#: src/importexport/contactselectionwidget.cpp:124
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Choose this option if you want only the contacts you have already selected "
+"in the graphical interface."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/importexport/contactselectionwidget.cpp:127
+#, kde-format
+msgctxt "@option:radio"
+msgid "All contacts from:"
+msgstr "次のすべての連絡先:"
+
+#. +> trunk6 stable6
+#: src/importexport/contactselectionwidget.cpp:128
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "All contacts from a chosen address book"
+msgstr "選択したアドレス帳にあるすべての連絡先"
+
+#. +> trunk6 stable6
+#: src/importexport/contactselectionwidget.cpp:130
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Choose this option if you want to select all the contacts from only one of "
+"your address books.  Once this option is clicked you will be provided a drop "
+"down box listing all those address books and permitted to select the one you "
+"want."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/importexport/contactselectionwidget.cpp:139
+#, kde-format
+msgctxt "@option:check"
+msgid "Include Subfolders"
+msgstr "サブフォルダを含める"
+
+#. +> trunk6 stable6
+#: src/importexport/contactselectionwidget.cpp:140
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Select all subfolders including the top-level folder"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/importexport/contactselectionwidget.cpp:142
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Check this box if you want to select all contacts from this folder, "
+"including all subfolders.  If you only want the contacts from the top-level "
+"folder then leave this box unchecked."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/importexport/contactselectionwidget.cpp:170
+#, kde-format
+msgctxt "@title:window"
+msgid "Collect Contacts"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/importexport/contactselectionwidget.cpp:173
+#, kde-format
+msgid "Fetch Contacts"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/importexport/importexportengine.cpp:58
+#, fuzzy, kde-format
+#| msgid "Select Address Book"
+msgctxt "@title:window"
+msgid "Select Address Book"
+msgstr "アドレス帳を選択"
+
+#. +> trunk6 stable6
+#: src/importexport/importexportengine.cpp:59
+#, kde-format
+msgid "Select the address book the imported contact(s) shall be saved in:"
+msgstr "インポートした連絡先を保存するアドレス帳を選択:"
+
+#. +> trunk6 stable6
+#: src/importexport/importexportengine.cpp:74
+#, fuzzy, kde-format
+#| msgid "Import Contacts"
+msgctxt "@title:window"
+msgid "Import Contacts"
+msgstr "連絡先をインポート"
+
+#. +> trunk6 stable6
+#: src/importexport/importexportengine.cpp:75
+#, kde-format
+msgid "Importing one contact to %2"
+msgid_plural "Importing %1 contacts to %2"
+msgstr[0] "%2 に %1 連絡先をインポート"
+
+#. +> trunk6 stable6
+#: src/kaddressbook_options.h:17
+#, fuzzy, kde-format
+#| msgid "Import the given file"
+msgctxt "@info:shell"
+msgid "Import the given file"
+msgstr "指定したファイルをインポート"
+
+#. +> trunk6 stable6
+#: src/kaddressbook_options.h:19
+#, kde-format
+msgctxt "@info:shell"
+msgid "Open the 'New Contact' dialog"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/kaddressbook_options.h:21
+#, kde-format
+msgctxt "@info:shell"
+msgid "Display the specified contact (by URL)"
+msgstr ""
+
+#. +> trunk6
+#: src/kaddressbook_options.h:21
+#, kde-format
+msgid "Url"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/kaddressbook_options.h:23
+#, kde-format
+msgctxt "@info:shell"
+msgid "Files or URLs. The user will be asked whether to import."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/kaddressbook_options.h:26
+#, kde-format
+msgctxt "@info:shell"
+msgid "Lists the available options for user feedback"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/kaddressbookpart.cpp:75
+#, fuzzy, kde-format
+#| msgid "&Configure KAddressBook..."
+msgid "&Configure KAddressBook…"
+msgstr "KAddressBook の設定(&C)..."
+
+#. i18n: ectx: Menu (file)
+#. +> trunk6 stable6
+#: src/kaddressbookui.rc:5 src/kaddressbookui_part.rc:5
+#, kde-format
+msgid "&File"
+msgstr "ファイル(&F)"
+
+#. i18n: ectx: Menu (file_new)
+#. +> trunk6 stable6
+#: src/kaddressbookui.rc:7 src/kaddressbookui_part.rc:7
+#, kde-format
+msgid "&New"
+msgstr "新規(&N)"
+
+#. i18n: ectx: Menu (edit)
+#. +> trunk6 stable6
+#: src/kaddressbookui.rc:25 src/kaddressbookui_part.rc:25
+#, kde-format
+msgid "&Edit"
+msgstr "編集(&E)"
+
+#. i18n: ectx: Menu (view)
+#. +> trunk6 stable6
+#: src/kaddressbookui.rc:41 src/kaddressbookui_part.rc:41
+#, kde-format
+msgid "&View"
+msgstr ""
+
+#. i18n: ectx: Menu (action)
+#. +> trunk6 stable6
+#: src/kaddressbookui.rc:54 src/kaddressbookui_part.rc:54
+#, kde-format
+msgid "&Action"
+msgstr "アクション(&A)"
+
+#. i18n: ectx: Menu (tools)
+#. +> trunk6 stable6
+#: src/kaddressbookui.rc:58 src/kaddressbookui_part.rc:58
+#, kde-format
+msgid "&Tools"
+msgstr ""
+
+#. i18n: ectx: Menu (settings)
+#. +> trunk6 stable6
+#: src/kaddressbookui.rc:62 src/kaddressbookui_part.rc:62
+#, kde-format
+msgid "&Settings"
+msgstr "設定(&S)"
+
+#. i18n: ectx: Menu (help)
+#. +> trunk6 stable6
+#: src/kaddressbookui.rc:68 src/kaddressbookui_part.rc:66
+#, kde-format
+msgid "&Help"
+msgstr ""
+
+#. i18n: ectx: Menu (file_export)
+#. +> trunk6 stable6
+#: src/kaddressbookui.rc:97 src/kaddressbookui_part.rc:95
+#, kde-format
+msgid "&Export"
+msgstr "エクスポート(&E)"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#. +> trunk6 stable6
+#: src/kaddressbookui.rc:121 src/kaddressbookui_part.rc:119
+#, kde-format
+msgid "Main Toolbar"
+msgstr "メインツールバー"
+
+#. +> trunk6 stable6
+#: src/mainwidget.cpp:376
+#, fuzzy, kde-format
+#| msgid "&Import"
+msgid "Import"
+msgstr "インポート(&I)"
+
+#. +> trunk6 stable6
+#: src/mainwidget.cpp:383
+#, fuzzy, kde-format
+#| msgid "&Export"
+msgid "Export"
+msgstr "エクスポート(&E)"
+
+#. +> trunk6 stable6
+#: src/mainwidget.cpp:435
+#, fuzzy, kde-format
+#| msgctxt "@label Search contacts in list"
+#| msgid "Search...<%1>"
+msgctxt "@label Search contacts in list"
+msgid "Search… <%1>"
+msgstr "検索...<%1>"
+
+#. +> trunk6 stable6
+#: src/mainwidget.cpp:667
+#, fuzzy, kde-format
+#| msgid "Print the complete address book or a selected number of contacts."
+msgctxt "@info:whatsthis"
+msgid "Print the complete address book or a selected number of contacts."
+msgstr "アドレス帳全体または選択した連絡先を印刷します。"
+
+#. +> trunk6 stable6
+#: src/mainwidget.cpp:672
+#, kde-format
+msgid "Quick search"
+msgstr "クイック検索"
+
+#. +> trunk6 stable6
+#: src/mainwidget.cpp:677
+#, kde-format
+msgid "Category filter"
+msgstr "カテゴリフィルタ"
+
+#. +> trunk6 stable6
+#: src/mainwidget.cpp:682
+#, kde-format
+msgid "Select All"
+msgstr "すべて選択"
+
+#. +> trunk6 stable6
+#: src/mainwidget.cpp:684
+#, kde-format
+msgid "Select all contacts in the current address book view."
+msgstr "現在のアドレス帳ビューのすべての連絡先を選択します。"
+
+#. +> trunk6 stable6
+#: src/mainwidget.cpp:688
+#, kde-format
+msgid "Show QR Codes"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/mainwidget.cpp:689
+#, kde-format
+msgid "Show QR Codes in the contact."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/mainwidget.cpp:694
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Simple (one column)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/mainwidget.cpp:698
+#, kde-format
+msgid "Show a simple mode of the address book view."
+msgstr "アドレス帳を簡易ビューで表示します。"
+
+#. +> trunk6 stable6
+#: src/mainwidget.cpp:701
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Two Columns"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/mainwidget.cpp:707
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Three Columns"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/mainwidget.cpp:720
+#, kde-format
+msgctxt "@action"
+msgid "Set Focus to Quick Search"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/mainwidget.cpp:737
+#, kde-format
+msgid "What's new"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/mainwidget.cpp:753 src/mainwidget.cpp:780
+#: src/printing/grantlee/themes/big-theme-example/theme.html:3
+#, kde-format
+msgid "Address Book"
+msgstr "アドレス帳"
+
+#. +> trunk6 stable6
+#: src/mainwidget.cpp:786 src/printing/printingwizard.cpp:46
+#, fuzzy, kde-format
+#| msgid "Print Contacts"
+msgctxt "@title:window"
+msgid "Print Contacts"
+msgstr "連絡先を印刷"
+
+#. +> trunk6 stable6
+#: src/mainwindow.cpp:135
+#, fuzzy, kde-format
+#| msgid ""
+#| "You will be presented with a dialog where you can configure the "
+#| "application-wide shortcuts."
+msgctxt "@info:whatsthis"
+msgid ""
+"You will be presented with a dialog where you can configure the application-"
+"wide shortcuts."
+msgstr ""
+"ダイアログでアプリケーションで使用するキーボードショートカットを設定します。"
+
+#. +> trunk6 stable6
+#: src/mainwindow.cpp:234
+#, kde-format
+msgid ""
+"<qt>This will hide the menu bar completely. You can show it again by typing "
+"%1.</qt>"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/mainwindow.cpp:237
+#, kde-format
+msgctxt "@title:window"
+msgid "Hide menu bar"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/manageshowcollectionproperties.cpp:85
+#, fuzzy, kde-format
+#| msgid "Delete Address Book Folder"
+msgctxt "@title:window"
+msgid "Properties of Address Book Folder %1"
+msgstr "アドレス帳フォルダを削除"
+
+#. +> trunk6 stable6
+#: src/modelcolumnmanager.cpp:69
+#, kde-format
+msgid "Full Name"
+msgstr "フルネーム"
+
+#. +> trunk6 stable6
+#: src/modelcolumnmanager.cpp:74
+#, kde-format
+msgid "Family Name"
+msgstr "名字"
+
+#. +> trunk6 stable6
+#: src/modelcolumnmanager.cpp:78
+#, kde-format
+msgid "Given Name"
+msgstr "名前"
+
+#. +> trunk6 stable6
+#: src/modelcolumnmanager.cpp:86 src/printing/detailed/detailledstyle.cpp:131
+#, kde-format
+msgid "Home Address"
+msgstr "自宅住所"
+
+#. +> trunk6 stable6
+#: src/modelcolumnmanager.cpp:90
+#, kde-format
+msgid "Business Address"
+msgstr "勤務先住所"
+
+#. +> trunk6 stable6
+#: src/modelcolumnmanager.cpp:94
+#, kde-format
+msgid "Phone Numbers"
+msgstr "電話番号"
+
+#. +> trunk6 stable6
+#: src/modelcolumnmanager.cpp:98
+#, kde-format
+msgid "Preferred EMail"
+msgstr "優先メールアドレス"
+
+#. +> trunk6 stable6
+#: src/modelcolumnmanager.cpp:102
+#, kde-format
+msgid "All EMails"
+msgstr "すべてのメールアドレス"
+
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.cpp:113
+#, fuzzy, kde-format
+#| msgid "Company"
+msgid "Compact Style"
+msgstr "会社"
+
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.cpp:167
+#: src/printing/detailed/detailledstyle.cpp:263
+#: src/printing/grantlee/grantleeprintstyle.cpp:43
+#: src/printing/mike/mikesstyle.cpp:118
+#: src/printing/ringbinder/ringbinderstyle.cpp:169
+#, kde-format
+msgid "Setting up document"
+msgstr "文書の設定"
+
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.cpp:174
+#: src/printing/detailed/detailledstyle.cpp:270
+#: src/printing/grantlee/grantleeprintstyle.cpp:52
+#: src/printing/mike/mikesstyle.cpp:125
+#: src/printing/ringbinder/ringbinderstyle.cpp:202
+#, kde-format
+msgid "Printing"
+msgstr "印刷中"
+
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.cpp:178
+#: src/printing/detailed/detailledstyle.cpp:274
+#: src/printing/grantlee/grantleeprintstyle.cpp:56
+#: src/printing/mike/mikesstyle.cpp:129
+#: src/printing/ringbinder/ringbinderstyle.cpp:206
+#, kde-format
+msgctxt "Finished printing"
+msgid "Done"
+msgstr "完了"
+
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.cpp:201
+#, fuzzy, kde-format
+#| msgid "Choose Printing Style"
+msgid "Compact Printing Style"
+msgstr "印刷スタイルを選択"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, CompactStyleForm_Base)
+#. i18n: ectx: property (windowTitle), widget (QWidget, RingBinderStyleAppearanceForm_Base)
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.ui:14
+#: src/printing/ringbinder/rbs_appearance.ui:14
+#, kde-format
+msgid "Appearance"
+msgstr "外観"
+
+#. i18n: ectx: property (title), widget (QGroupBox, gbFields)
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.ui:35
+#, kde-format
+msgid "Fields"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, cbWithHomeAddress)
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, cbWithHomeAddress)
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.ui:43
+#: src/printing/compact/compactstyle.ui:46
+#, kde-format
+msgid "Print the home address, with home phone number and mobile phone number"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbWithHomeAddress)
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.ui:49
+#, fuzzy, kde-format
+#| msgid "Home Address"
+msgid "with home address"
+msgstr "自宅住所"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, cbWithBusinessAddress)
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, cbWithBusinessAddress)
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.ui:56
+#: src/printing/compact/compactstyle.ui:59
+#, kde-format
+msgid "print the business address, with business phone number"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbWithBusinessAddress)
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.ui:62
+#, fuzzy, kde-format
+#| msgid "Business Address"
+msgid "with business address"
+msgstr "勤務先住所"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, cbWithBirthday)
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, cbWithBirthday)
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.ui:69
+#: src/printing/compact/compactstyle.ui:72
+#, fuzzy, kde-format
+#| msgid "Print Contacts"
+msgid "Print the birthday"
+msgstr "連絡先を印刷"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbWithBirthday)
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.ui:75
+#, fuzzy, kde-format
+#| msgid "Birthday"
+msgid "with birthday"
+msgstr "誕生日"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, cbWithEMail)
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, cbWithEMail)
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.ui:82
+#: src/printing/compact/compactstyle.ui:85
+#, kde-format
+msgid "Print the preferred and the secondary e-mail fields"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbWithEMail)
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.ui:88
+#, fuzzy, kde-format
+#| msgid "Edit Email"
+msgid "with e-mail"
+msgstr "メールアドレスを編集"
+
+#. i18n: ectx: property (toolTip), widget (QLabel, lbCbFirst)
+#. i18n: ectx: property (whatsThis), widget (QLabel, lbCbFirst)
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.ui:112
+#: src/printing/compact/compactstyle.ui:115
+#, kde-format
+msgid "the first color, if alternating color is checked"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, lbCbFirst)
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.ui:118
+#, kde-format
+msgid "first color"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QLabel, lbCbSecond)
+#. i18n: ectx: property (whatsThis), widget (QLabel, lbCbSecond)
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.ui:125
+#: src/printing/compact/compactstyle.ui:128
+#, kde-format
+msgid "the second color, if alternating color is checked"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, lbCbSecond)
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.ui:131
+#, kde-format
+msgid "second color"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, cbAlternating)
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, cbAlternating)
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.ui:138
+#: src/printing/compact/compactstyle.ui:141
+#, fuzzy, kde-format
+#| msgid "Headline background color:"
+msgid "Change the background color of every row"
+msgstr "見出しの背景色:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbAlternating)
+#. +> trunk6 stable6
+#: src/printing/compact/compactstyle.ui:144
+#, fuzzy, kde-format
+#| msgid "Headline background color:"
+msgid "Alternating the background color"
+msgstr "見出しの背景色:"
+
+#. +> trunk6 stable6
+#: src/printing/detailed/detailledstyle.cpp:75
+#, kde-format
+msgid "Organization:"
+msgstr "組織:"
+
+#. +> trunk6 stable6
+#: src/printing/detailed/detailledstyle.cpp:83
+#, kde-format
+msgid "Email address:"
+msgstr "メールアドレス:"
+
+#. +> trunk6 stable6
+#: src/printing/detailed/detailledstyle.cpp:83
+#, kde-format
+msgid "Email addresses:"
+msgstr "メールアドレス:"
+
+#. +> trunk6 stable6
+#: src/printing/detailed/detailledstyle.cpp:93
+#, kde-format
+msgid "Telephone:"
+msgstr "電話:"
+
+#. +> trunk6 stable6
+#: src/printing/detailed/detailledstyle.cpp:93
+#, kde-format
+msgid "Telephones:"
+msgstr "電話:"
+
+#. +> trunk6 stable6
+#: src/printing/detailed/detailledstyle.cpp:105
+#, kde-format
+msgid "Web page:"
+msgstr "ウェブページ:"
+
+#. +> trunk6 stable6
+#: src/printing/detailed/detailledstyle.cpp:119
+#, kde-format
+msgid "Domestic Address"
+msgstr "国内の住所"
+
+#. +> trunk6 stable6
+#: src/printing/detailed/detailledstyle.cpp:122
+#, kde-format
+msgid "International Address"
+msgstr "国際の住所"
+
+#. +> trunk6 stable6
+#: src/printing/detailed/detailledstyle.cpp:125
+#, kde-format
+msgid "Postal Address"
+msgstr "郵便の宛先"
+
+#. +> trunk6 stable6
+#: src/printing/detailed/detailledstyle.cpp:128
+#, kde-format
+msgid "Parcel Address"
+msgstr "小包の宛先"
+
+#. +> trunk6 stable6
+#: src/printing/detailed/detailledstyle.cpp:134
+#, kde-format
+msgid "Work Address"
+msgstr "勤務先住所"
+
+#. +> trunk6 stable6
+#: src/printing/detailed/detailledstyle.cpp:138
+#, kde-format
+msgid "Preferred Address"
+msgstr "優先住所"
+
+#. +> trunk6 stable6
+#: src/printing/detailed/detailledstyle.cpp:149
+#, kde-format
+msgid "Notes:"
+msgstr "メモ:"
+
+#. i18n: ectx: property (text), widget (QLabel, labelHeader)
+#. +> trunk6 stable6
+#: src/printing/detailed/detailledstyle.cpp:233
+#: src/printing/detailed/ds_appearance.ui:58
+#, kde-format
+msgid "Detailed Print Style - Appearance"
+msgstr "詳細な印刷スタイル - 外観"
+
+#. +> trunk6 stable6
+#: src/printing/detailed/detailledstyle.cpp:246
+#, kde-format
+msgid "Setting up colors"
+msgstr "色の設定"
+
+#. +> trunk6 stable6
+#: src/printing/detailed/detailledstyle.cpp:289
+#, kde-format
+msgid "Detailed Style"
+msgstr "詳細スタイル"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, AppearancePage_Base)
+#. +> trunk6 stable6
+#: src/printing/detailed/ds_appearance.ui:14
+#, kde-format
+msgid "Appearance Page"
+msgstr "外観のページ"
+
+#. i18n: ectx: property (title), widget (QGroupBox, gbHeadline)
+#. +> trunk6 stable6
+#: src/printing/detailed/ds_appearance.ui:77
+#, kde-format
+msgid "Contact Headers"
+msgstr "連絡先ヘッダ"
+
+#. i18n: ectx: property (toolTip), widget (KColorButton, kcbHeaderBGColor)
+#. +> trunk6 stable6
+#: src/printing/detailed/ds_appearance.ui:119
+#, fuzzy, kde-format
+#| msgid "Headline background color:"
+msgid "Select the headline text background color"
+msgstr "見出しの背景色:"
+
+#. i18n: ectx: property (whatsThis), widget (KColorButton, kcbHeaderBGColor)
+#. +> trunk6 stable6
+#: src/printing/detailed/ds_appearance.ui:122
+#, fuzzy, kde-format
+#| msgid "Click on the color button to change the header's background color."
+msgid ""
+"Click this button to start a color chooser that will allow you set to the "
+"color for the headline background color."
+msgstr "色のボタンをクリックしてヘッダの背景色を変更します。"
+
+#. i18n: ectx: property (text), widget (QLabel, tlBackgroundColor)
+#. +> trunk6 stable6
+#: src/printing/detailed/ds_appearance.ui:139
+#, kde-format
+msgid "Headline background color:"
+msgstr "見出しの背景色:"
+
+#. i18n: ectx: property (text), widget (QLabel, tlHeaderColor)
+#. +> trunk6 stable6
+#: src/printing/detailed/ds_appearance.ui:149
+#, kde-format
+msgid "Headline text color:"
+msgstr "見出しのテキスト色:"
+
+#. i18n: ectx: property (toolTip), widget (KColorButton, kcbHeaderTextColor)
+#. +> trunk6 stable6
+#: src/printing/detailed/ds_appearance.ui:162
+#, fuzzy, kde-format
+#| msgid "Headline text color:"
+msgid "Select the headline text color"
+msgstr "見出しのテキスト色:"
+
+#. i18n: ectx: property (whatsThis), widget (KColorButton, kcbHeaderTextColor)
+#. +> trunk6 stable6
+#: src/printing/detailed/ds_appearance.ui:165
+#, kde-format
+msgid ""
+"Click this button to start a color chooser that will allow you set to the "
+"color for the headline text."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/printing/grantlee/themes/default/theme.html:35
+#, fuzzy
+#| msgid "Contact"
+msgid "Contact"
+msgstr "連絡先"
+
+#. +> trunk6 stable6
+#: src/printing/grantlee/themes/default/theme.html:42
+#: src/printing/grantlee/themes/full/theme.html:42
+#, fuzzy
+#| msgctxt "@item LDAP search key"
+#| msgid "Email"
+msgid "Emails"
+msgstr "メールアドレス"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbOrganization)
+#. +> trunk6 stable6
+#: src/printing/grantlee/themes/default/theme.html:52
+#: src/printing/grantlee/themes/full/theme.html:52
+#: src/printing/ringbinder/rbs_appearance.ui:95
+#, kde-format
+msgid "Organization"
+msgstr "組織"
+
+#. +> trunk6 stable6
+#: src/printing/grantlee/themes/default/theme.html:58
+#: src/printing/grantlee/themes/full/theme.html:58
+#: src/viewertemplates/contact_embedded.html:64
+#: src/viewertemplates/contact_embedded.html:81
+msgid "Website"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbBirthday)
+#. +> trunk6 stable6
+#: src/printing/grantlee/themes/default/theme.html:64
+#: src/printing/grantlee/themes/full/theme.html:64
+#: src/printing/ringbinder/rbs_appearance.ui:108
+#: src/viewertemplates/contact_embedded.html:26
+#, kde-format
+msgid "Birthday"
+msgstr "誕生日"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbNote)
+#. +> trunk6 stable6
+#: src/printing/grantlee/themes/default/theme.html:70
+#: src/printing/grantlee/themes/full/theme.html:70
+#: src/printing/ringbinder/rbs_appearance.ui:121
+#, kde-format
+msgid "Note"
+msgstr "メモ"
+
+#. +> trunk6 stable6
+#: src/printing/grantlee/themes/full/theme.html:76
+#, fuzzy
+#| msgctxt "@item LDAP search key"
+#| msgid "Title"
+msgid "Title"
+msgstr "肩書"
+
+#. +> trunk6 stable6
+#: src/printing/mike/mikesstyle.cpp:144
+#, kde-format
+msgid "Mike's Printing Style"
+msgstr "Mike の印刷スタイル"
+
+#. +> trunk6 stable6
+#: src/printing/printingwizard.cpp:49
+#, kde-format
+msgid "Which contacts do you want to print?"
+msgstr "どの連絡先を印刷しますか？"
+
+#. +> trunk6 stable6
+#: src/printing/printingwizard.cpp:51
+#, kde-format
+msgid "Choose Contacts to Print"
+msgstr "印刷する連絡先を選択"
+
+#. +> trunk6 stable6
+#: src/printing/printingwizard.cpp:57
+#, kde-format
+msgid "Choose Printing Style"
+msgstr "印刷スタイルを選択"
+
+#. +> trunk6 stable6
+#: src/printing/printingwizard.cpp:204
+#, kde-format
+msgid "Print Progress"
+msgstr "印刷の進捗"
+
+#. +> trunk6 stable6
+#: src/printing/printprogress.cpp:25
+#, fuzzy, kde-format
+#| msgid "Printing: Progress"
+msgctxt "@title:window"
+msgid "Printing: Progress"
+msgstr "印刷中: 進捗"
+
+#. +> trunk6 stable6
+#: src/printing/printprogress.cpp:32
+#, kde-format
+msgctxt "Percent value; %p is the value, % is the percent sign"
+msgid "%p%"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/printing/printprogress.cpp:44
+#, kde-format
+msgid "Progress"
+msgstr "進捗"
+
+#. i18n: ectx: property (title), widget (QGroupBox, GroupBox2)
+#. +> trunk6 stable6
+#: src/printing/ringbinder/rbs_appearance.ui:35
+#, kde-format
+msgid "Print Contact's Information"
+msgstr "印刷する連絡先の情報"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, cbPhoneNumbers)
+#. +> trunk6 stable6
+#: src/printing/ringbinder/rbs_appearance.ui:41
+#, fuzzy, kde-format
+#| msgid "Phone numbers"
+msgid "Print contact phone numbers"
+msgstr "電話番号"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, cbPhoneNumbers)
+#. +> trunk6 stable6
+#: src/printing/ringbinder/rbs_appearance.ui:44
+#, kde-format
+msgid "Check this box if you want contact phone numbers to be printed."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbPhoneNumbers)
+#. +> trunk6 stable6
+#: src/printing/ringbinder/rbs_appearance.ui:47
+#, kde-format
+msgid "Phone numbers"
+msgstr "電話番号"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, cbEmails)
+#. +> trunk6 stable6
+#: src/printing/ringbinder/rbs_appearance.ui:57
+#, fuzzy, kde-format
+#| msgid "Postal addresses"
+msgid "Print contact email addresses"
+msgstr "郵便の宛先"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, cbEmails)
+#. +> trunk6 stable6
+#: src/printing/ringbinder/rbs_appearance.ui:60
+#, kde-format
+msgid "Check this box if you want contact email addresses to be printed."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbEmails)
+#. +> trunk6 stable6
+#: src/printing/ringbinder/rbs_appearance.ui:63
+#, kde-format
+msgid "Email addresses"
+msgstr "メールアドレス"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, cbStreetAddresses)
+#. +> trunk6 stable6
+#: src/printing/ringbinder/rbs_appearance.ui:73
+#, fuzzy, kde-format
+#| msgid "Street addresses"
+msgid "Print contact street addresses"
+msgstr "住所"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, cbStreetAddresses)
+#. +> trunk6 stable6
+#: src/printing/ringbinder/rbs_appearance.ui:76
+#, kde-format
+msgid "Check this box if you want contact street addresses to be printed."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbStreetAddresses)
+#. +> trunk6 stable6
+#: src/printing/ringbinder/rbs_appearance.ui:79
+#, kde-format
+msgid "Postal addresses"
+msgstr "郵便の宛先"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, cbOrganization)
+#. +> trunk6 stable6
+#: src/printing/ringbinder/rbs_appearance.ui:89
+#, fuzzy, kde-format
+#| msgid "Print Contact's Information"
+msgid "Print contact organizations"
+msgstr "印刷する連絡先の情報"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, cbOrganization)
+#. +> trunk6 stable6
+#: src/printing/ringbinder/rbs_appearance.ui:92
+#, kde-format
+msgid "Check this box if you want contact organizations to be printed."
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, cbBirthday)
+#. +> trunk6 stable6
+#: src/printing/ringbinder/rbs_appearance.ui:102
+#, fuzzy, kde-format
+#| msgid "Print Contacts"
+msgid "Print contact birthdays"
+msgstr "連絡先を印刷"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, cbBirthday)
+#. +> trunk6 stable6
+#: src/printing/ringbinder/rbs_appearance.ui:105
+#, kde-format
+msgid "Check this box if you want contact birthdays to be printed."
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, cbNote)
+#. +> trunk6 stable6
+#: src/printing/ringbinder/rbs_appearance.ui:115
+#, fuzzy, kde-format
+#| msgid "Print Contacts"
+msgid "Print contact notes"
+msgstr "連絡先を印刷"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, cbNote)
+#. +> trunk6 stable6
+#: src/printing/ringbinder/rbs_appearance.ui:118
+#, kde-format
+msgid "Check this box if you want contact notes to be printed."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/printing/ringbinder/ringbinderstyle.cpp:82
+#, fuzzy, kde-format
+#| msgid "Notes:"
+msgid "Note: "
+msgstr "メモ:"
+
+#. +> trunk6 stable6
+#: src/printing/ringbinder/ringbinderstyle.cpp:137
+#, kde-format
+msgid "Ring Binder Printing Style - Appearance"
+msgstr "リングバインダー用印刷スタイル - 外観"
+
+#. +> trunk6 stable6
+#: src/printing/ringbinder/ringbinderstyle.cpp:153
+#, kde-format
+msgid "Setting up fields"
+msgstr "フィールドの設定"
+
+#. +> trunk6 stable6
+#: src/printing/ringbinder/ringbinderstyle.cpp:221
+#, kde-format
+msgid "Printout for Ring Binders"
+msgstr "リングバインダー用の印刷"
+
+#. +> trunk6 stable6
+#: src/printing/stylepage.cpp:37
+#, fuzzy, kde-format
+#| msgid "Ascending"
+msgctxt "@item:inlistbox Ascending sort order"
+msgid "Ascending"
+msgstr "昇順"
+
+#. +> trunk6 stable6
+#: src/printing/stylepage.cpp:38
+#, fuzzy, kde-format
+#| msgid "Descending"
+msgctxt "@item:inlistbox Descending sort order"
+msgid "Descending"
+msgstr "降順"
+
+#. +> trunk6 stable6
+#: src/printing/stylepage.cpp:48
+#, fuzzy, kde-format
+#| msgid "(No preview available.)"
+msgctxt "@label"
+msgid "(No preview available.)"
+msgstr "(プレビューは利用できません。)"
+
+#. +> trunk6 stable6
+#: src/printing/stylepage.cpp:110
+#, fuzzy, kde-format
+#| msgid "Choose Printing Style"
+msgctxt "@title:window"
+msgid "Choose Printing Style"
+msgstr "印刷スタイルを選択"
+
+#. +> trunk6 stable6
+#: src/printing/stylepage.cpp:115
+#, fuzzy, kde-format
+#| msgid ""
+#| "What should the print look like?\n"
+#| "KAddressBook has several printing styles, designed for different "
+#| "purposes.\n"
+#| "Choose the style that suits your needs below."
+msgctxt "@label:textbox"
+msgid ""
+"What should the print look like?\n"
+"KAddressBook has several printing styles, designed for different purposes.\n"
+"Choose the style that suits your needs below."
+msgstr ""
+"どのスタイルで印刷しますか？\n"
+"KAddressBook には目的に応じて考案された数種類の印刷スタイルがあります。\n"
+"あなたの目的に適したスタイルを下から選択してください。"
+
+#. +> trunk6 stable6
+#: src/printing/stylepage.cpp:122
+#, fuzzy, kde-format
+#| msgid "Sorting"
+msgctxt "@title:group"
+msgid "Sorting"
+msgstr "ソート"
+
+#. +> trunk6 stable6
+#: src/printing/stylepage.cpp:127
+#, fuzzy, kde-format
+#| msgid "Criterion:"
+msgctxt "@label:listbox"
+msgid "Criterion:"
+msgstr "基準:"
+
+#. +> trunk6 stable6
+#: src/printing/stylepage.cpp:131
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Select the primary sort field"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/printing/stylepage.cpp:133
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"From this list you can select the field on which your contacts are sorted in "
+"the print output.  Use the sorting order option to determine if the sort "
+"will be in ascending or descending order."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/printing/stylepage.cpp:138
+#, fuzzy, kde-format
+#| msgid "Order:"
+msgctxt "@label:listbox"
+msgid "Order:"
+msgstr "順番:"
+
+#. +> trunk6 stable6
+#: src/printing/stylepage.cpp:142
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Select the sorting order"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/printing/stylepage.cpp:144
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Choose if you want to sort your contacts in ascending or descending order. "
+"Use the sorting criterion option to specify on which contact field the "
+"sorting will be performed."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/printing/stylepage.cpp:151
+#, fuzzy, kde-format
+#| msgid "Print Style"
+msgctxt "@title:group"
+msgid "Print Style"
+msgstr "印刷スタイル"
+
+#. +> trunk6 stable6
+#: src/printing/stylepage.cpp:156
+#, fuzzy, kde-format
+#| msgid "Select Distribution List"
+msgctxt "@info:tooltip"
+msgid "Select the print style"
+msgstr "配布リストを選択"
+
+#. +> trunk6 stable6
+#: src/printing/stylepage.cpp:157
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Choose your desired printing style. See the preview image to help you decide."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/viewertemplates/contact_embedded.html:28
+#, kde-format
+msgid "(One year old)"
+msgid_plural "(%1 years old)"
+msgstr[0] ""
+
+#. +> trunk6 stable6
+#: src/viewertemplates/contact_embedded.html:47
+#, fuzzy
+#| msgctxt "@item LDAP search key"
+#| msgid "Email"
+msgid "Email"
+msgstr "メールアドレス"
+
+#. +> trunk6 stable6
+#: src/whatsnew/whatsnewtranslations.cpp:17
+msgid "Add new whatsnew widget."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/whatsnew/whatsnewtranslations.cpp:32
+#, kde-format
+msgid "Restore configure dialog size."
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/widgets/quicksearchwidget.cpp:31
+#, fuzzy, kde-format
+#| msgid "Selected contacts"
+msgctxt "@info:tooltip"
+msgid "Search contacts in list"
+msgstr "選択した連絡先"
+
+#. +> trunk6 stable6
+#: src/widgets/quicksearchwidget.cpp:33
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Start typing a search string in this box and the list of contacts matching "
+"that string will be displayed.  This is a quick way of searching for "
+"contacts of interest."
+msgstr ""
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:22
+#, fuzzy, kde-format
+#| msgid "Private fields"
+msgctxt "@option:check"
+msgid "Private fields"
+msgstr "プライベートフィールド"
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:23
+#, fuzzy, kde-format
+#| msgid "Business fields"
+msgctxt "@option:check"
+msgid "Business fields"
+msgstr "ビジネスフィールド"
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:24
+#, fuzzy, kde-format
+#| msgid "Other fields"
+msgctxt "@option:check"
+msgid "Other fields"
+msgstr "その他のフィールド"
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:25
+#, fuzzy, kde-format
+#| msgid "Encryption keys"
+msgctxt "@option:check"
+msgid "Encryption keys"
+msgstr "暗号化鍵"
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:26
+#, fuzzy, kde-format
+#| msgid "Pictures"
+msgctxt "@option:check"
+msgid "Pictures"
+msgstr "画像"
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:27
+#, kde-format
+msgctxt "@option:check"
+msgid "Display name as full name"
+msgstr ""
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:31
+#, fuzzy, kde-format
+#| msgctxt "@label"
+#| msgid "File to import:"
+msgctxt "@title:group"
+msgid "Fields to be exported"
+msgstr "インポートするファイル:"
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:37
+#, fuzzy, kde-format
+#| msgid "Private fields"
+msgctxt "@info:tooltip"
+msgid "Export private fields"
+msgstr "プライベートフィールド"
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:39
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Check this box if you want to export the contact's private fields to the "
+"vCard output file."
+msgstr ""
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:43
+#, fuzzy, kde-format
+#| msgid "Business fields"
+msgctxt "@info:tooltip"
+msgid "Export business fields"
+msgstr "ビジネスフィールド"
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:45
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Check this box if you want to export the contact's business fields to the "
+"vCard output file."
+msgstr ""
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:49
+#, fuzzy, kde-format
+#| msgid "Other fields"
+msgctxt "@info:tooltip"
+msgid "Export other fields"
+msgstr "その他のフィールド"
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:51
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Check this box if you want to export the contact's other fields to the vCard "
+"output file."
+msgstr ""
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:55
+#, fuzzy, kde-format
+#| msgid "Encryption keys"
+msgctxt "@info:tooltip"
+msgid "Export encryption keys"
+msgstr "暗号化鍵"
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:57
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Check this box if you want to export the contact's encryption keys to the "
+"vCard output file."
+msgstr ""
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:61
+#, fuzzy, kde-format
+#| msgid "Pictures"
+msgctxt "@info:tooltip"
+msgid "Export pictures"
+msgstr "画像"
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:63
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Check this box if you want to export the contact's picture to the vCard "
+"output file."
+msgstr ""
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:67
+#, fuzzy, kde-format
+#| msgid "Export to One File"
+msgctxt "@title:group"
+msgid "Export options"
+msgstr "一つのファイルにエクスポート"
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:73
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Export display name as full name"
+msgstr ""
+
+#. +> stable6
+#: src/importexport/exportselectionwidget.cpp:75
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Check this box if you want to export the contact's display name in the "
+"vCard's full name field.  This may be required to get the name shown "
+"correctly in GMail or Android."
+msgstr ""
+
+#, kde-format
+#~ msgid "Laurent Montel"
+#~ msgstr "Laurent Montel"
+
+#, fuzzy, kde-format
+#~| msgid "Tobias Koenig"
+#~ msgid "Tobias König"
+#~ msgstr "Tobias Koenig"
+
+#, kde-format
+#~ msgid "Import the given file"
+#~ msgstr "指定したファイルをインポート"
+
+#, kde-format
+#~ msgid "&Configure KAddressBook..."
+#~ msgstr "KAddressBook の設定(&C)..."
+
+#, fuzzy, kde-format
+#~| msgctxt "@label Search contacts in list"
+#~| msgid "Search...<%1>"
+#~ msgctxt "@label Search contacts in list"
+#~ msgid "Search... <%1>"
+#~ msgstr "検索...<%1>"
+
+#, fuzzy, kde-format
+#~| msgid "Laurent Montel"
+#~ msgid "(c), 2016-2021 Laurent Montel"
+#~ msgstr "Laurent Montel"
+
+#, fuzzy, kde-format
+#~| msgid "Laurent Montel"
+#~ msgid "(c), 2020-2021 Laurent Montel"
+#~ msgstr "Laurent Montel"
+
+#, fuzzy, kde-format
+#~| msgid "Copyright © 2007–2010 KAddressBook authors"
+#~ msgid "Copyright © 2007–2021 KAddressBook authors"
+#~ msgstr "Copyright © 2007–2010 KAddressBook の作者"
+
+#, kde-format
+#~ msgid "Tobias Koenig"
+#~ msgstr "Tobias Koenig"
+
+#, fuzzy
+#~| msgid "Laurent Montel"
+#~ msgid "(c), 2016-2020 Laurent Montel"
+#~ msgstr "Laurent Montel"
+
+#, fuzzy
+#~| msgid "Laurent Montel"
+#~ msgid "(c), 2020 Laurent Montel"
+#~ msgstr "Laurent Montel"
+
+#, fuzzy
+#~| msgid "Copyright © 2007–2010 KAddressBook authors"
+#~ msgid "Copyright © 2007–2020 KAddressBook authors"
+#~ msgstr "Copyright © 2007–2010 KAddressBook の作者"
+
+#, fuzzy
+#~| msgid "Copyright © 2007–2014 KAddressBook authors"
+#~ msgid "Copyright © 2007–2019 KAddressBook authors"
+#~ msgstr "Copyright © 2007–2014 KAddressBook の作者"
+
+#, fuzzy
+#~| msgid "Laurent Montel"
+#~ msgid "(c), 2016-2019 Laurent Montel"
+#~ msgstr "Laurent Montel"
+
+#~ msgid "Print Contacts"
+#~ msgstr "連絡先を印刷"
+
+#~ msgid "Printing: Progress"
+#~ msgstr "印刷中: 進捗"
+
+#, fuzzy
+#~| msgid "Copyright © 2007–2014 KAddressBook authors"
+#~ msgid "Copyright © 2007–2018 KAddressBook authors"
+#~ msgstr "Copyright © 2007–2014 KAddressBook の作者"
+
+#, fuzzy
+#~| msgid "Laurent Montel"
+#~ msgid "(c), 2016-2018 Laurent Montel"
+#~ msgstr "Laurent Montel"
+
+#~ msgctxt "@label Search contacts in list"
+#~ msgid "Search...<%1>"
+#~ msgstr "検索...<%1>"
+
+#, fuzzy
+#~| msgid "Copyright © 2007–2014 KAddressBook authors"
+#~ msgid "Copyright © 2007–2017 KAddressBook authors"
+#~ msgstr "Copyright © 2007–2014 KAddressBook の作者"
+
+#, fuzzy
+#~| msgid "Laurent Montel"
+#~ msgid "(c), 2016-2017 Laurent Montel"
+#~ msgstr "Laurent Montel"
+
+#, fuzzy
+#~| msgid "Copyright © 2007–2014 KAddressBook authors"
+#~ msgid "Copyright © 2007–2016 KAddressBook authors"
+#~ msgstr "Copyright © 2007–2014 KAddressBook の作者"
+
+#~ msgid "&Import"
+#~ msgstr "インポート(&I)"
+
+#~ msgid "Select Contacts"
+#~ msgstr "連絡先を選択"
+
+#~ msgid "Import GMX file..."
+#~ msgstr "GMX ファイルをインポート..."
+
+#~ msgid "Import contacts from a GMX address book file."
+#~ msgstr "GMX アドレス帳ファイルから連絡先をインポートします。"
+
+#~ msgid "Export GMX file..."
+#~ msgstr "GMX ファイルにエクスポート..."
+
+#~ msgid "Export contacts to a GMX address book file."
+#~ msgstr "連絡先を GMX アドレス帳ファイルにエクスポートします。"
+
+#~ msgid "<qt>Unable to open file <b>%1</b></qt>"
+#~ msgstr "<qt>ファイル ‘%1’ を開けません</qt>"
+
+#~ msgid "<qt>Unable to open file <b>%1</b>.</qt>"
+#~ msgstr "<qt>ファイル ‘%1’ を開けません。</qt>"
+
+#~ msgctxt "@title:window"
+#~ msgid "CSV Import Dialog"
+#~ msgstr "CSV インポートダイアログ"
+
+#~ msgctxt "@label"
+#~ msgid "Importing contacts"
+#~ msgstr "連絡先をインポート"
+
+#~ msgctxt "@label"
+#~ msgid "File to import:"
+#~ msgstr "インポートするファイル:"
+
+#, fuzzy
+#~| msgid "Select vCard to Import"
+#~ msgctxt "@info:tooltip"
+#~ msgid "Select a csv file to import"
+#~ msgstr "インポートする vCard を選択"
+
+#~ msgctxt "@title:group"
+#~ msgid "Delimiter"
+#~ msgstr "区切り文字"
+
+#~ msgctxt "@option:radio Field separator"
+#~ msgid "Comma"
+#~ msgstr "コンマ"
+
+#~ msgctxt "@option:radio Field separator"
+#~ msgid "Semicolon"
+#~ msgstr "セミコロン"
+
+#~ msgctxt "@option:radio Field separator"
+#~ msgid "Tabulator"
+#~ msgstr "タブ"
+
+#~ msgctxt "@option:radio Field separator"
+#~ msgid "Space"
+#~ msgstr "スペース"
+
+#~ msgctxt "@option:radio Custum field separator"
+#~ msgid "Other"
+#~ msgstr "その他"
+
+#~ msgctxt "@label:listbox"
+#~ msgid "Text quote:"
+#~ msgstr "テキスト引用符:"
+
+#, fuzzy
+#~| msgid "Selected contacts"
+#~ msgctxt "@info:tooltip"
+#~ msgid "Select the quote character"
+#~ msgstr "選択した連絡先"
+
+#~ msgctxt "@item:inlistbox Qoute character option"
+#~ msgid "\""
+#~ msgstr "\""
+
+#~ msgctxt "@item:inlistbox Quote character option"
+#~ msgid "'"
+#~ msgstr "'"
+
+#~ msgctxt "@item:inlistbox Quote character option"
+#~ msgid "None"
+#~ msgstr "なし"
+
+#~ msgctxt "@label:listbox"
+#~ msgid "Date format:"
+#~ msgstr "日付書式:"
+
+#~ msgctxt "@info:tooltip"
+#~ msgid ""
+#~ "<para><list><item>y: year with 2 digits</item><item>Y: year with 4 "
+#~ "digits</item><item>m: month with 1 or 2 digits</item><item>M: month with "
+#~ "2 digits</item><item>d: day with 1 or 2 digits</item><item>D: day with 2 "
+#~ "digits</item><item>H: hours with 2 digits</item><item>I: minutes with 2 "
+#~ "digits</item><item>S: seconds with 2 digits</item></list></para>"
+#~ msgstr ""
+#~ "<para><list><item>y: 西暦下 2 桁</item><item>Y: 西暦 4 桁</item><item>m: "
+#~ "1 桁または 2 桁の月 (1-12)</item><item>M: 2 桁の月 (01-12)</item><item>d: "
+#~ "1 桁または 2 桁の日 (1-31)</item><item>D: 2 桁の日 (01-31)</item><item>H: "
+#~ "2 桁の時間</item><item>I: 2 桁の分</item><item>S: 2 桁の秒</item></list></"
+#~ "para>"
+
+#, fuzzy
+#~| msgctxt "@info:tooltip"
+#~| msgid ""
+#~| "<para><list><item>y: year with 2 digits</item><item>Y: year with 4 "
+#~| "digits</item><item>m: month with 1 or 2 digits</item><item>M: month with "
+#~| "2 digits</item><item>d: day with 1 or 2 digits</item><item>D: day with 2 "
+#~| "digits</item><item>H: hours with 2 digits</item><item>I: minutes with 2 "
+#~| "digits</item><item>S: seconds with 2 digits</item></list></para>"
+#~ msgctxt "@info:whatsthis"
+#~ msgid ""
+#~ "<para>Specify a format to use for dates included in your csv data. Use "
+#~ "the following sequences to help you define the format:</"
+#~ "para><para><list><item>y: year with 2 digits</item><item>Y: year with 4 "
+#~ "digits</item><item>m: month with 1 or 2 digits</item><item>M: month with "
+#~ "2 digits</item><item>d: day with 1 or 2 digits</item><item>D: day with 2 "
+#~ "digits</item><item>H: hours with 2 digits</item><item>I: minutes with 2 "
+#~ "digits</item><item>S: seconds with 2 digits</item></list></"
+#~ "para><para>Example: \"Y-M-D\" corresponds to a date like \"2012-01-04\"</"
+#~ "para>"
+#~ msgstr ""
+#~ "<para><list><item>y: 西暦下 2 桁</item><item>Y: 西暦 4 桁</item><item>m: "
+#~ "1 桁または 2 桁の月 (1-12)</item><item>M: 2 桁の月 (01-12)</item><item>d: "
+#~ "1 桁または 2 桁の日 (1-31)</item><item>D: 2 桁の日 (01-31)</item><item>H: "
+#~ "2 桁の時間</item><item>I: 2 桁の分</item><item>S: 2 桁の秒</item></list></"
+#~ "para>"
+
+#~ msgctxt "@label:listbox"
+#~ msgid "Text codec:"
+#~ msgstr "エンコーディング:"
+
+#~ msgctxt "@option:check"
+#~ msgid "Skip first row of file"
+#~ msgstr "ファイルの最初の行をスキップする"
+
+#, fuzzy
+#~| msgctxt "@option:check"
+#~| msgid "Skip first row of file"
+#~ msgctxt "@info:tooltip"
+#~ msgid "Skip first row of csv file when importing"
+#~ msgstr "ファイルの最初の行をスキップする"
+
+#~ msgctxt "@action:button"
+#~ msgid "Apply Template..."
+#~ msgstr "テンプレートを適用..."
+
+#~ msgctxt "@action:button"
+#~ msgid "Save Template..."
+#~ msgstr "テンプレートを保存..."
+
+#~ msgctxt "@item:inlistbox Codec setting"
+#~ msgid "Local (%1)"
+#~ msgstr "ローカル (%1)"
+
+#~ msgctxt "@item:inlistbox Codec setting"
+#~ msgid "Latin1"
+#~ msgstr "Latin1"
+
+#~ msgctxt "@item:inlistbox Codec setting"
+#~ msgid "Unicode"
+#~ msgstr "ユニコード"
+
+#~ msgctxt "@item:inlistbox Codec setting"
+#~ msgid "Microsoft Unicode"
+#~ msgstr "Microsoft ユニコード"
+
+#, fuzzy
+#~| msgctxt "@info:status"
+#~| msgid "You have to assign at least one column."
+#~ msgctxt "@info:status"
+#~ msgid "You must assign at least one column."
+#~ msgstr "少なくとも 1 つのカラムを割り当てる必要があります。"
+
+#~ msgctxt "@label"
+#~ msgid "There are no templates available yet."
+#~ msgstr "利用可能なテンプレートがまだありません。"
+
+#~ msgctxt "@title:window"
+#~ msgid "No templates available"
+#~ msgstr "テンプレートがありません"
+
+#~ msgctxt "@title:window"
+#~ msgid "Template Name"
+#~ msgstr "テンプレート名"
+
+#~ msgctxt "@info"
+#~ msgid "Please enter a name for the template:"
+#~ msgstr "テンプレートの名前を入力してください:"
+
+#~ msgctxt "@info:status"
+#~ msgid "Cannot open input file."
+#~ msgstr "入力ファイルを開けません。"
+
+#~ msgctxt "@label"
+#~ msgid "Do you really want to delete template '%1'?"
+#~ msgstr "本当にテンプレート “%1” を削除しますか？"
+
+#~ msgctxt "@title:window"
+#~ msgid "Template Selection"
+#~ msgstr "テンプレートの選択"
+
+#~ msgctxt "@info"
+#~ msgid "Please select a template, that matches the CSV file:"
+#~ msgstr "CSV ファイルにマッチさせるテンプレートファイルを選択してください:"
+
+#~ msgid "GMX address book file (*.gmxa)"
+#~ msgstr "GMX アドレス帳ファイル (*.gmxa)"
+
+#~ msgid "<qt>Unable to open <b>%1</b> for reading.</qt>"
+#~ msgstr "<qt>‘%1’ を読み込みのために開けません。</qt>"
+
+#~ msgid "%1 is not a GMX address book file."
+#~ msgstr "‘%1’ は GMX アドレス帳ファイルではありません。"
+
+#~ msgid "Which contact do you want to export?"
+#~ msgstr "どの連絡先をエクスポートしますか？"
+
+#~ msgid "You have not selected any contacts to export."
+#~ msgstr "エクスポートする連絡先が選択されていません。"
+
+#~ msgid "Import vCard..."
+#~ msgstr "vCard をインポート..."
+
+#~ msgid "Import contacts from a vCard file."
+#~ msgstr "vCard ファイルから連絡先をインポートします。"
+
+#~ msgid "Import CSV file..."
+#~ msgstr "CSV ファイルをインポート..."
+
+#~ msgid "Import contacts from a file in comma separated value format."
+#~ msgstr "CSV フォーマットのファイルから連絡先をインポートします。"
+
+#~ msgid "Import LDIF file..."
+#~ msgstr "LDIF ファイルをインポート..."
+
+#~ msgid "Import contacts from an LDIF file."
+#~ msgstr "LDIF ファイルから連絡先をインポートします。"
+
+#~ msgid "Import From LDAP server..."
+#~ msgstr "LDAP サーバからインポート..."
+
+#~ msgid "Import contacts from an LDAP server."
+#~ msgstr "LDAP サーバから連絡先をインポートします。"
+
+#~ msgid "Export vCard 4.0..."
+#~ msgstr "vCard 4.0 にエクスポート..."
+
+#~ msgid "Export contacts to a vCard 4.0 file."
+#~ msgstr "連絡先を vCard 4.0 ファイルにエクスポートします。"
+
+#~ msgid "Export vCard 3.0..."
+#~ msgstr "vCard 3.0 にエクスポート..."
+
+#~ msgid "Export contacts to a vCard 3.0 file."
+#~ msgstr "連絡先を vCard 3.0 ファイルにエクスポートします。"
+
+#~ msgid "Export vCard 2.1..."
+#~ msgstr "vCard 2.1 にエクスポート..."
+
+#~ msgid "Export contacts to a vCard 2.1 file."
+#~ msgstr "連絡先を vCard 2.1 ファイルにエクスポートします。"
+
+#~ msgid "Export CSV file..."
+#~ msgstr "CSV ファイルにエクスポート..."
+
+#~ msgid "Export contacts to a file in comma separated value format."
+#~ msgstr "連絡先を CSV フォーマットのファイルにエクスポートします。"
+
+#~ msgid "Export LDIF file..."
+#~ msgstr "LDIF ファイルにエクスポート..."
+
+#~ msgid "Export contacts to an LDIF file."
+#~ msgstr "連絡先を LDIF ファイルにエクスポートします。"
+
+#, fuzzy
+#~| msgid ""
+#~| "You have selected a list of contacts, shall they be exported to several "
+#~| "files?"
+#~ msgctxt "@info"
+#~ msgid ""
+#~ "You have selected a list of contacts, shall they be exported to several "
+#~ "files?"
+#~ msgstr ""
+#~ "複数の連絡先を含むリストを選択しました。複数のファイルに分割してエクスポー"
+#~ "トしますか？"
+
+#, fuzzy
+#~| msgid "Export to One File"
+#~ msgctxt "@action:button"
+#~ msgid "Export to One File"
+#~ msgstr "一つのファイルにエクスポート"
+
+#, fuzzy
+#~| msgid "Export to Several Files"
+#~ msgctxt "@action:button"
+#~ msgid "Export to Several Files"
+#~ msgstr "複数のファイルにエクスポート"
+
+#, fuzzy
+#~| msgid "Select vCard to Import"
+#~ msgctxt "@title:window"
+#~ msgid "Select vCard to Import"
+#~ msgstr "インポートする vCard を選択"
+
+#, fuzzy
+#~| msgid "vCard Import Failed"
+#~ msgctxt "@title:window"
+#~ msgid "vCard Import Failed"
+#~ msgstr "vCard のインポートに失敗"
+
+#~ msgctxt "@info"
+#~ msgid "<para>Unable to access vCard:</para><para>%1</para>"
+#~ msgstr "<para>vCard にアクセスできません:</para><para>%1</para>"
+
+#, fuzzy
+#~| msgid "No contacts were imported, due to errors with the vCards."
+#~ msgctxt "@info"
+#~ msgid "No contacts were imported, due to errors with the vCards."
+#~ msgstr "vCard に関するエラーにより、連絡先をインポートできませんでした。"
+
+#, fuzzy
+#~| msgid "The vCard does not contain any contacts."
+#~ msgctxt "@info"
+#~ msgid "The vCard does not contain any contacts."
+#~ msgstr "vCard は連絡先を含んでいません。"
+
+#, fuzzy
+#~| msgid "Import vCard"
+#~ msgctxt "@title:window"
+#~ msgid "Import vCard"
+#~ msgstr "vCard をインポート"
+
+#, fuzzy
+#~| msgid "Do you want to import this contact into your address book?"
+#~ msgctxt "@info"
+#~ msgid "Do you want to import this contact into your address book?"
+#~ msgstr "本当にこの連絡先をアドレス帳にインポートしますか？"
+
+#, fuzzy
+#~| msgid "Import All..."
+#~ msgctxt "@action:button"
+#~ msgid "Import All..."
+#~ msgstr "すべてインポート..."
+
+#, fuzzy
+#~| msgid "Select Contacts"
+#~ msgctxt "@action:inmenu"
+#~ msgid "Sync Contacts"
+#~ msgstr "連絡先を選択"
+
+#, fuzzy
+#~| msgid "Copyright © 2007–2014 KAddressBook authors"
+#~ msgid "Copyright © 2007–2015 KAddressBook authors"
+#~ msgstr "Copyright © 2007–2014 KAddressBook の作者"
+
+#, fuzzy
+#~| msgid "Ungroup Letter"
+#~ msgid "Ungrouped"
+#~ msgstr "文字のグループ化を解除"
+
+#, fuzzy
+#~| msgid "Cut Group"
+#~| msgid_plural "Cut %1 Groups"
+#~ msgid "Group"
+#~ msgstr "グループを切り取り"
+
+#, fuzzy
+#~| msgid "Import vCard..."
+#~ msgid "Send vCards..."
+#~ msgstr "vCard をインポート..."
+
+#~ msgid "Merge Contacts..."
+#~ msgstr "連絡先を統合..."
+
+#, fuzzy
+#~| msgid "Select Contacts"
+#~ msgid "Search Duplicate Contacts..."
+#~ msgstr "連絡先を選択"
+
+#~ msgid "You have not selected any contacts."
+#~ msgstr "連絡先が選択されていません。"
+
+#, fuzzy
+#~| msgid "You have not selected any contacts."
+#~ msgid "No email found for this contact."
+#~ msgstr "連絡先が選択されていません。"
+
+#, fuzzy
+#~| msgid "No contacts selected."
+#~ msgid "A contact group was selected."
+#~ msgstr "連絡先が選択されていません。"
+
+#, fuzzy
+#~| msgid "Email address:"
+#~ msgid "Email address"
+#~ msgstr "メールアドレス:"
+
+#, fuzzy
+#~| msgctxt "@action:button"
+#~| msgid "Save Template..."
+#~ msgid "Save Image"
+#~ msgstr "テンプレートを保存..."
+
+#, fuzzy
+#~| msgctxt "@action:button"
+#~| msgid "Save Template..."
+#~ msgid "Save Image URL"
+#~ msgstr "テンプレートを保存..."
+
+#, fuzzy
+#~| msgid "Search"
+#~ msgid "Search"
+#~ msgstr "検索"
+
+#~ msgid "Select Contacts to merge"
+#~ msgstr "統合ずる連絡先を選択"
+
+#, fuzzy
+#~| msgid "Select Contacts"
+#~ msgid "Select contacts that you really want to merge:"
+#~ msgstr "連絡先を選択"
+
+#, fuzzy
+#~| msgid "Print the complete address book or a selected number of contacts."
+#~ msgid "Select the addressbook in which to store merged contacts:"
+#~ msgstr "アドレス帳全体または選択した連絡先を印刷します。"
+
+#, fuzzy
+#~| msgid "This contact's image cannot be found."
+#~ msgid "Duplicate contact %1"
+#~ msgstr "この連絡先の画像が見つかりません。"
+
+#, fuzzy
+#~| msgid "Select Address Book"
+#~ msgid "Select AddressBook:"
+#~ msgstr "アドレス帳を選択"
+
+#, fuzzy
+#~| msgctxt "@info:status"
+#~| msgid "You have to assign at least one column."
+#~ msgid "You must select at least two elements."
+#~ msgstr "少なくとも 1 つのカラムを割り当てる必要があります。"
+
+#, fuzzy
+#~| msgid "This contact's image cannot be found."
+#~ msgid "No duplicated contact found."
+#~ msgstr "この連絡先の画像が見つかりません。"
+
+#~ msgid "No contacts selected."
+#~ msgstr "連絡先が選択されていません。"
+
+#, fuzzy
+#~| msgid "Custom"
+#~ msgid "Customize"
+#~ msgstr "カスタム"
+
+#, fuzzy
+#~| msgid "Print Contact's Information"
+#~ msgid "Missing Selected Information"
+#~ msgstr "印刷する連絡先の情報"
+
+#, fuzzy
+#~| msgctxt "@item Undefined import field type"
+#~| msgid "Undefined"
+#~ msgid "(Undefined)"
+#~ msgstr "未定義"
+
+#, fuzzy
+#~| msgid "You have not selected any contacts."
+#~ msgid "No emails found in selected contacts."
+#~ msgstr "連絡先が選択されていません。"
+
+#, fuzzy
+#~| msgid "Select Contacts"
+#~ msgid "Select contacts that you want really to merge:"
+#~ msgstr "連絡先を選択"
+
+#, fuzzy
+#~| msgid "This contact's image cannot be found."
+#~ msgid "No contact duplicated found."
+#~ msgstr "この連絡先の画像が見つかりません。"
+
+#~ msgctxt "@info"
+#~ msgid ""
+#~ "<para>When trying to read the vCard, there was an error opening the file "
+#~ "<filename>%1</filename>:</para><para>%2</para>"
+#~ msgstr ""
+#~ "<para>vCard を読み込もうとしたときに、ファイル <filename>%1</filename> を"
+#~ "開けませんでした:</para><para>%2</para>"
+
+#~ msgid "Copyright © 2007–2014 KAddressBook authors"
+#~ msgstr "Copyright © 2007–2014 KAddressBook の作者"
+
+#, fuzzy
+#~| msgid "Print the complete address book or a selected number of contacts."
+#~ msgid "Select addressbook where to store merged contact:"
+#~ msgstr "アドレス帳全体または選択した連絡先を印刷します。"
+
+#, fuzzy
+#~| msgid "Error during merge contacts."
+#~ msgid "Error while merging contacts."
+#~ msgstr "連絡先の統合中にエラー。"
+
+#~ msgid "Error during merge contacts."
+#~ msgstr "連絡先の統合中にエラー。"
+
+#~ msgid "Merge contact"
+#~ msgstr "連絡先を統合"
+
+#~ msgid "Merged Contact"
+#~ msgstr "統合した連絡先"
+
+#, fuzzy
+#~| msgid "Select vCard Fields"
+#~ msgctxt "@title:window"
+#~ msgid "Select vCard Fields"
+#~ msgstr "vCard フィールドを選択"
+
+#, fuzzy
+#~| msgid "Import Selected"
+#~ msgid "You selected %1"
+#~ msgstr "選択したものをインポート"
+
+#, fuzzy
+#~| msgid "Select Contacts"
+#~ msgid "Potential Duplicate Contacts"
+#~ msgstr "連絡先を選択"
+
+#, fuzzy
+#~| msgid "Copyright © 2007–2010 KAddressBook authors"
+#~ msgid "Copyright © 2007–2013 KAddressBook authors"
+#~ msgstr "Copyright © 2007–2010 KAddressBook の作者"
+
+#~ msgid "Kontact integration"
+#~ msgstr "Kontact への統合"
+
+#~ msgid "Anniversary"
+#~ msgstr "記念日"
+
+#, fuzzy
+#~| msgid "Choose Printing Style"
+#~ msgid "Grantlee Printing Style"
+#~ msgstr "印刷スタイルを選択"
+
+#~ msgid "Department"
+#~ msgstr "部署"
+
+#, fuzzy
+#~| msgid "Manager's name:"
+#~ msgid "Manager's Name"
+#~ msgstr "マネージャの名前:"
+
+#, fuzzy
+#~| msgid "Assistant"
+#~ msgid "Assistant's Name"
+#~ msgstr "アシスタントの名前"
+
+#, fuzzy
+#~| msgid "Partner's name:"
+#~ msgid "Partner's Name"
+#~ msgstr "パートナーの名前:"
+
+#, fuzzy
+#~| msgid "Home Address"
+#~ msgid "IM Address"
+#~ msgstr "自宅住所"
+
+#~ msgctxt "Boolean value"
+#~ msgid "yes"
+#~ msgstr "はい"
+
+#~ msgctxt "Boolean value"
+#~ msgid "no"
+#~ msgstr "いいえ"
+
+#, fuzzy
+#~| msgid "Copyright © 2007–2010 KAddressBook authors"
+#~ msgid "Copyright © 2007–2012 KAddressBook authors"
+#~ msgstr "Copyright © 2007–2010 KAddressBook の作者"
+
+#~ msgid "Import from LDAP server..."
+#~ msgstr "LDAP サーバからインポート..."
+
+#~ msgid "Do you want to overwrite file \"%1\""
+#~ msgstr "ファイル ‘%1’ を上書きしますか？"
+
+#, fuzzy
+#~| msgid "Do you want to overwrite file \"%1\""
+#~ msgctxt "@info"
+#~ msgid "Do you want to overwrite file \"%1\""
+#~ msgstr "ファイル ‘%1’ を上書きしますか？"
+
+#~ msgid "All contacts"
+#~ msgstr "すべての連絡先"
+
+#~ msgid "Selected contacts"
+#~ msgstr "選択した連絡先"
+
+#~ msgid "All contacts from:"
+#~ msgstr "次のすべての連絡先:"
+
+#~ msgid "Include Subfolders"
+#~ msgstr "サブフォルダを含める"
+
+#~ msgctxt "Previous contact"
+#~ msgid "Previous"
+#~ msgstr "前へ"
+
+#~ msgctxt "Next contact"
+#~ msgid "Next"
+#~ msgstr "次へ"
+
+#~ msgid "%1 out of %2"
+#~ msgstr "%1 / %2"
+
+#~ msgid "Show Simple View"
+#~ msgstr "簡易ビューを表示"
+
+#~ msgid ""
+#~ "You will be presented with a dialog where you can configure the "
+#~ "application-wide shortcuts."
+#~ msgstr ""
+#~ "ダイアログでアプリケーションで使用するキーボードショートカットを設定しま"
+#~ "す。"
+
+#~ msgid "Click on the color button to change the header's background color."
+#~ msgstr "色のボタンをクリックしてヘッダの背景色を変更します。"
+
+#~ msgid "Click on the color button to change the header's text color."
+#~ msgstr "色のボタンをクリックしてヘッダのテキストの色を変更します。"
+
+#~ msgctxt "Ascending sort order"
+#~ msgid "Ascending"
+#~ msgstr "昇順"
+
+#~ msgctxt "Descending sort order"
+#~ msgid "Descending"
+#~ msgstr "降順"
+
+#~ msgid "(No preview available.)"
+#~ msgstr "(プレビューは利用できません。)"
+
+#~ msgid ""
+#~ "What should the print look like?\n"
+#~ "KAddressBook has several printing styles, designed for different "
+#~ "purposes.\n"
+#~ "Choose the style that suits your needs below."
+#~ msgstr ""
+#~ "どのスタイルで印刷しますか？\n"
+#~ "KAddressBook には目的に応じて考案された数種類の印刷スタイルがあります。\n"
+#~ "あなたの目的に適したスタイルを下から選択してください。"
+
+#~ msgid "Sorting"
+#~ msgstr "ソート"
+
+#~ msgid "Criterion:"
+#~ msgstr "基準:"
+
+#~ msgid "Order:"
+#~ msgstr "順番:"
+
+#~ msgid "Print Style"
+#~ msgstr "印刷スタイル"
+
+#~ msgctxt "Search contacts in list"
+#~ msgid "Search"
+#~ msgstr "検索"
+
+#~ msgctxt "@info:status"
+#~ msgid "You have to assign at least one column."
+#~ msgstr "少なくとも 1 つのカラムを割り当てる必要があります。"
+
+#~ msgid ""
+#~ "You have selected a list of contacts, shall they be exported to several "
+#~ "files?"
+#~ msgstr ""
+#~ "複数の連絡先を含むリストを選択しました。複数のファイルに分割してエクスポー"
+#~ "トしますか？"
+
+#~ msgid "Export to Several Files"
+#~ msgstr "複数のファイルにエクスポート"
+
+#~ msgid "Export to One File"
+#~ msgstr "一つのファイルにエクスポート"
+
+#~ msgid "Select vCard to Import"
+#~ msgstr "インポートする vCard を選択"
+
+#~ msgid "vCard Import Failed"
+#~ msgstr "vCard のインポートに失敗"
+
+#~ msgid "No contacts were imported, due to errors with the vCards."
+#~ msgstr "vCard に関するエラーにより、連絡先をインポートできませんでした。"
+
+#~ msgid "The vCard does not contain any contacts."
+#~ msgstr "vCard は連絡先を含んでいません。"
+
+#~ msgid "Import vCard"
+#~ msgstr "vCard をインポート"
+
+#~ msgid "Do you want to import this contact into your address book?"
+#~ msgstr "本当にこの連絡先をアドレス帳にインポートしますか？"
+
+#~ msgid "Import All..."
+#~ msgstr "すべてインポート..."
+
+#~ msgid "Select the fields which shall be exported in the vCard."
+#~ msgstr "vCard にエクスポートするフィールドを選択します。"
+
+#~ msgid "Select vCard Fields"
+#~ msgstr "vCard フィールドを選択"
+
+#~ msgid "Private fields"
+#~ msgstr "プライベートフィールド"
+
+#~ msgid "Business fields"
+#~ msgstr "ビジネスフィールド"
+
+#~ msgid "Other fields"
+#~ msgstr "その他のフィールド"
+
+#~ msgid "Encryption keys"
+#~ msgstr "暗号化鍵"
+
+#~ msgid "Pictures"
+#~ msgstr "画像"
+
+#~ msgid "Toggle whether the address books view shall be visible."
+#~ msgstr "アドレス帳ビューの表示/非表示を切り替えます。"
+
+#~ msgid "Show Contacts View"
+#~ msgstr "連絡先ビューを表示"
+
+#~ msgid "Toggle whether the contacts view shall be visible."
+#~ msgstr "連絡先ビューの表示/非表示を切り替えます。"
+
+#~ msgid "Show Details View"
+#~ msgstr "詳細ビューを表示"
+
+#~ msgid "Toggle whether the details view shall be visible."
+#~ msgstr "詳細ビューの表示/非表示を切り替えます。"
+
+#~ msgid "Hide Details View"
+#~ msgstr "詳細ビューを隠す"
+
+#~ msgid "Show Address Books View"
+#~ msgstr "アドレス帳ビューを表示"
+
+#~ msgid "Hide Address Books View"
+#~ msgstr "アドレス帳ビューを隠す"
+
+#~ msgid "Hide Contacts View"
+#~ msgstr "連絡先ビューを隠す"
+
+#~ msgid "Add Address Book Folder..."
+#~ msgstr "アドレス帳フォルダを追加..."
+
+#~ msgid ""
+#~ "Add a new address book folder to the currently selected address book "
+#~ "folder."
+#~ msgstr "現在選択されているアドレス帳フォルダに新しいフォルダを追加します。"
+
+#~ msgid "Copy Address Book Folder"
+#~ msgid_plural "Copy %1 Address Book Folders"
+#~ msgstr[0] "%1 個のアドレス帳フォルダをコピー"
+
+#~ msgid "Copy the selected address book folders to the clipboard."
+#~ msgstr "選択したアドレス帳フォルダをクリップボードにコピーします。"
+
+#~ msgid "Delete the selected address book folders from the address book."
+#~ msgstr "選択したアドレス帳フォルダをアドレス帳から削除します。"
+
+#~ msgid "Update Address Book Folder"
+#~ msgstr "アドレス帳フォルダを更新"
+
+#~ msgid "Update the content of the address book folder"
+#~ msgstr "アドレス帳フォルダの内容を更新"
+
+#~ msgid "Cut Address Book Folder"
+#~ msgid_plural "Cut %1 Address Book Folders"
+#~ msgstr[0] "%1 個のアドレス帳フォルダを切り取り"
+
+#~ msgid "Cut the selected address book folders from the address book."
+#~ msgstr "選択したアドレス帳フォルダをアドレス帳から切り取ります。"
+
+#~ msgid "Folder Properties..."
+#~ msgstr "フォルダのプロパティ..."
+
+#~ msgid ""
+#~ "Open a dialog to edit the properties of the selected address book folder."
+#~ msgstr "ダイアログで選択したアドレス帳フォルダのプロパティを編集します。"
+
+#~ msgid "Copy Contact"
+#~ msgid_plural "Copy %1 Contacts"
+#~ msgstr[0] "%1 個の連絡先をコピー"
+
+#~ msgid "Delete Contact"
+#~ msgid_plural "Delete %1 Contacts"
+#~ msgstr[0] "%1 個の連絡先を削除"
+
+#~ msgid "Delete the selected contacts from the address book."
+#~ msgstr "選択した連絡先をアドレス帳から削除します。"
+
+#~ msgid "Cut Contact"
+#~ msgid_plural "Cut %1 Contacts"
+#~ msgstr[0] "%1 個の連絡先を切り取り"
+
+#~ msgid "Edit Contact..."
+#~ msgstr "連絡先を編集..."
+
+#~ msgid "Copy Group"
+#~ msgid_plural "Copy %1 Groups"
+#~ msgstr[0] "%1 個のグループをコピー"
+
+#~ msgid "Delete Group"
+#~ msgid_plural "Delete %1 Groups"
+#~ msgstr[0] "%1 個のグループを削除"
+
+#~ msgid "Edit Group..."
+#~ msgstr "グループを編集..."
+
+#~ msgid "Add Address Book"
+#~ msgstr "アドレス帳を追加"
+
+#~ msgid "Could not add address book: %1"
+#~ msgstr "アドレス帳を追加できませんでした: %1"
+
+#~ msgid "Adding Address Book failed"
+#~ msgstr "アドレス帳の追加に失敗しました"
+
+#~ msgid "Do you really want to delete address book '%1'?"
+#~ msgstr "本当にアドレス帳 “%1” を削除しますか？"
+
+#~ msgid "Delete Address Book?"
+#~ msgstr "アドレス帳を削除しますか？"
+
+#~ msgid ""
+#~ "Create a new contact<p>You will be presented with a dialog where you can "
+#~ "add data about a person, including addresses and phone numbers.</p>"
+#~ msgstr ""
+#~ "<p>新しい連絡先を作成</p><p>ダイアログで新しい連絡先の住所や電話番号などの"
+#~ "データを追加します。</p>"
+
+#~ msgid "New &Group..."
+#~ msgstr "新しいグループ(&G)..."
+
+#~ msgid ""
+#~ "Create a new group<p>You will be presented with a dialog where you can "
+#~ "add a new group of contacts.</p>"
+#~ msgstr ""
+#~ "<p>新しいグループを作成</p><p>ダイアログで新しい連絡先グループを追加しま"
+#~ "す。</p>"
+
+#~ msgid ""
+#~ "Edit the selected contact<p>You will be presented with a dialog where you "
+#~ "can edit the data stored about a person, including addresses and phone "
+#~ "numbers.</p>"
+#~ msgstr ""
+#~ "<p>選択した連絡先を編集</p><p>ダイアログで連絡先の住所や電話番号などのデー"
+#~ "タを編集します。</p>"
+
+#~ msgid "Add &Address Book..."
+#~ msgstr "アドレス帳を追加(&A)..."
+
+#~ msgid ""
+#~ "Add a new address book<p>You will be presented with a dialog where you "
+#~ "can select the type of the address book that shall be added.</p>"
+#~ msgstr ""
+#~ "<p>新しいアドレス帳を追加</p><p>ダイアログで新しく追加するアドレス帳のタイ"
+#~ "プを選択します。</p>"
+
+#~ msgid "&Delete Address Book"
+#~ msgstr "アドレス帳を削除(&D)"
+
+#~ msgid ""
+#~ "Delete the selected address book<p>The currently selected address book "
+#~ "will be deleted, along with all the contacts and contact groups it "
+#~ "contains.</p>"
+#~ msgstr ""
+#~ "<p>アドレス帳を削除</p><p>選択したアドレス帳を削除します。アドレス帳を削除"
+#~ "すると、その中に含まれている連絡先と連絡先グループもすべて削除されます。</"
+#~ "p>"
+
+#~ msgid "Address Book Properties..."
+#~ msgstr "アドレス帳のプロパティ..."
+
+#~ msgid "Open a dialog to edit properties of the selected address book."
+#~ msgstr "ダイアログで選択したアドレス帳のプロパティを編集します。"
+
+#~ msgid "(c) 2007-2009 The KDE PIM Team"
+#~ msgstr "(c) 2007-2009 KDE PIM 開発チーム"
+
+#~ msgid "EMail (preferred)"
+#~ msgstr "メールアドレス (優先)"
+
+#~ msgid "EMail (2)"
+#~ msgstr "メールアドレス (2)"
+
+#~ msgid "EMail (3)"
+#~ msgstr "メールアドレス (3)"
+
+#~ msgid "EMail (4)"
+#~ msgstr "メールアドレス (4)"
+
+#~ msgid "Done"
+#~ msgstr "完了"
+
+#~ msgid "There are no templates available yet."
+#~ msgstr "利用可能なテンプレートがまだありません。"
+
+#~ msgid "No templates available"
+#~ msgstr "テンプレートがありません"
+
+#~ msgid "Do you really want to delete template '%1'?"
+#~ msgstr "本当にテンプレート “%1” を削除しますか？"
+
+#~ msgid "Add Host"
+#~ msgstr "ホストを追加"
+
+#~ msgid "kcmldap"
+#~ msgstr "kcmldap"
+
+#~ msgid "LDAP Server Settings"
+#~ msgstr "LDAP サーバの設定"
+
+#~ msgid "(c) 2009 Tobias Koenig"
+#~ msgstr "(c) 2009 Tobias Koenig"
+
+#~ msgid "Edit Host"
+#~ msgstr "ホストを編集"
+
+#~ msgid "LDAP Servers"
+#~ msgstr "LDAP サーバ"
+
+#~ msgid "Check all servers that should be used:"
+#~ msgstr "使用するすべてのサーバをチェック:"
+
+#~ msgid "&Add Host..."
+#~ msgstr "ホストを追加(&A)..."
+
+#~ msgid "&Edit Host..."
+#~ msgstr "ホストを編集(&E)..."
+
+#~ msgid "&Remove Host"
+#~ msgstr "ホストを削除(&R)"
+
+#~ msgid "Home Number"
+#~ msgstr "自宅電話番号"
+
+#~ msgid "Work Number"
+#~ msgstr "勤務先電話番号"
+
+#~ msgid "Mobile Number"
+#~ msgstr "携帯電話番号"
+
+#~ msgid "Fax Number"
+#~ msgstr "ファクス番号"
+
+#~ msgid "Pager"
+#~ msgstr "ポケットベル"
+
+#~ msgid "Street"
+#~ msgstr "番地"
+
+#~ msgctxt "@item LDAP search key"
+#~ msgid "State"
+#~ msgstr "都道府県"
+
+#~ msgid "Country"
+#~ msgstr "国"
+
+#~ msgid "City"
+#~ msgstr "市"
+
+#~ msgid "Zip Code"
+#~ msgstr "郵便番号"
+
+#~ msgid "Description"
+#~ msgstr "説明"
+
+#~ msgid "User ID"
+#~ msgstr "ユーザ ID"
+
+#~ msgctxt "@title:column Column containing email addresses"
+#~ msgid "Email"
+#~ msgstr "メールアドレス"
+
+#~ msgctxt ""
+#~ "@title:column Column containing the residential state of the address"
+#~ msgid "State"
+#~ msgstr "都道府県"
+
+#~ msgctxt "@title:column Column containing title of the person"
+#~ msgid "Title"
+#~ msgstr "肩書"
+
+#~ msgid "Import Contacts from LDAP"
+#~ msgstr "LDAP から連絡先をインポート"
+
+#~ msgid "Search for Addresses in Directory"
+#~ msgstr "ディレクトリでアドレスを検索"
+
+#~ msgid "Search for:"
+#~ msgstr "検索:"
+
+#~ msgctxt "In LDAP attribute"
+#~ msgid "in"
+#~ msgstr "次で"
+
+#~ msgctxt "@item:inlistbox Name of the contact"
+#~ msgid "Name"
+#~ msgstr "名前"
+
+#~ msgctxt "@item:inlistbox email address of the contact"
+#~ msgid "Email"
+#~ msgstr "メールアドレス"
+
+#~ msgctxt "@item:inlistbox"
+#~ msgid "Home Number"
+#~ msgstr "自宅電話番号"
+
+#~ msgctxt "@item:inlistbox"
+#~ msgid "Work Number"
+#~ msgstr "勤務先電話番号"
+
+#~ msgid "Stop"
+#~ msgstr "停止"
+
+#~ msgctxt "@action:button Start searching"
+#~ msgid "&Search"
+#~ msgstr "検索(&S)"
+
+#~ msgid "Recursive search"
+#~ msgstr "再帰的に検索する"
+
+#~ msgid "Contains"
+#~ msgstr "含む"
+
+#~ msgid "Starts With"
+#~ msgstr "始まる"
+
+#~ msgid "Unselect All"
+#~ msgstr "すべて選択解除"
+
+#~ msgctxt "Search attribute: Name of contact"
+#~ msgid "Name"
+#~ msgstr "名前"
+
+#~ msgctxt "Search attribute: Email of the contact"
+#~ msgid "Email"
+#~ msgstr "メールアドレス"
+
+#~ msgid "You must select a LDAP server before searching."
+#~ msgstr "検索する前に LDAP サーバを選択しなければなりません。"
+
+#~ msgid "Select a distribution list to add the selected contacts to."
+#~ msgstr "選択した連絡先を追加する配布リストを選択します。"
+
+#~ msgctxt "arguments are host name, datetime"
+#~ msgid "Imported from LDAP directory %1 on %2"
+#~ msgstr "%2 に LDAP ディレクトリ %1 からインポート"
+
+#~ msgctxt "@title:column, address books overview"
+#~ msgid "Address Books"
+#~ msgstr "アドレス帳"
+
+#~ msgctxt "@title:column, name of a person"
+#~ msgid "Name"
+#~ msgstr "名前"
+
+#, fuzzy
+#~ msgctxt "@title:column, home address of a person"
+#~ msgid "Home"
+#~ msgstr "ホームページ:"
+
+#, fuzzy
+#~ msgctxt "@title:column, phone numbers of a person"
+#~ msgid "Phone Numbers"
+#~ msgstr "電話番号"
+
+#, fuzzy
+#~ msgctxt "@title:column, the preferred email addresses of a person"
+#~ msgid "Preferred EMail"
+#~ msgstr "優先住所"
+
+#, fuzzy
+#~ msgctxt "@title:column, all email addresses of a person"
+#~ msgid "All EMails"
+#~ msgstr "メールアドレス"
+
+#~ msgctxt "Name of toplevel contact collection"
+#~ msgid "All Contacts"
+#~ msgstr "すべての連絡先"
+
+#~ msgid "Edit Contact"
+#~ msgstr "連絡先を編集"
+
+#~ msgid "Add to:"
+#~ msgstr "追加先:"
+
+#~ msgid "Edit Contact Group"
+#~ msgstr "連絡先グループを編集"
+
+#~ msgctxt "@item:inlistbox Category of contact info field"
+#~ msgid "Other..."
+#~ msgstr "その他..."
+
+#~ msgctxt "street/postal"
+#~ msgid "New..."
+#~ msgstr "新規..."
+
+#~ msgctxt "street/postal"
+#~ msgid "Edit..."
+#~ msgstr "編集..."
+
+#~ msgctxt "street/postal"
+#~ msgid "Delete"
+#~ msgstr "削除"
+
+#~ msgid "Do you really want to delete this address?"
+#~ msgstr "本当にこの住所を削除しますか？"
+
+#~ msgctxt "street/postal"
+#~ msgid "Edit Address"
+#~ msgstr "住所を編集"
+
+#~ msgctxt "<streetLabel>:"
+#~ msgid "%1:"
+#~ msgstr "%1:"
+
+#~ msgctxt "<postOfficeBoxLabel>:"
+#~ msgid "%1:"
+#~ msgstr "%1:"
+
+#~ msgctxt "<localityLabel>:"
+#~ msgid "%1:"
+#~ msgstr "%1:"
+
+#~ msgctxt "<regionLabel>:"
+#~ msgid "%1:"
+#~ msgstr "%1:"
+
+#~ msgctxt "<postalCodeLabel>:"
+#~ msgid "%1:"
+#~ msgstr "%1:"
+
+#~ msgctxt "<countryLabel>:"
+#~ msgid "%1:"
+#~ msgstr "%1:"
+
+#~ msgid "Edit Label..."
+#~ msgstr "ラベルを編集..."
+
+#~ msgctxt "street/postal"
+#~ msgid "This is the preferred address"
+#~ msgstr "この住所を優先する"
+
+#~ msgctxt "street/postal"
+#~ msgid "Edit Address Type"
+#~ msgstr "住所のタイプを編集"
+
+#~ msgctxt "street/postal"
+#~ msgid "Address Types"
+#~ msgstr "住所のタイプ"
+
+#~ msgid "Name"
+#~ msgstr "名前"
+
+#~ msgid "Internet"
+#~ msgstr "インターネット"
+
+#~ msgid "Name:"
+#~ msgstr "名前:"
+
+#~ msgid "Display:"
+#~ msgstr "表示:"
+
+#~ msgid "Nickname:"
+#~ msgstr "ニックネーム:"
+
+#~ msgid "Pronunciation:"
+#~ msgstr "発音:"
+
+#~ msgid "Homepage:"
+#~ msgstr "ホームページ:"
+
+#~ msgid "Blog:"
+#~ msgstr "ブログ:"
+
+#~ msgid "Messaging:"
+#~ msgstr "メッセージング:"
+
+#~ msgid "Coordinates"
+#~ msgstr "地理座標"
+
+#~ msgid "Business"
+#~ msgstr "ビジネス"
+
+#~ msgid "General"
+#~ msgstr "全般"
+
+#~ msgid "Groupware"
+#~ msgstr "グループウェア"
+
+#~ msgid "Title:"
+#~ msgstr "肩書:"
+
+#~ msgid "Department:"
+#~ msgstr "部署:"
+
+#~ msgid "Free/Busy:"
+#~ msgstr "フリー/ビジー:"
+
+#~ msgid "Personal"
+#~ msgstr "個人"
+
+#~ msgid "Dates"
+#~ msgstr "日付"
+
+#~ msgid "Birthdate:"
+#~ msgstr "誕生日:"
+
+#~ msgid "Remove"
+#~ msgstr "削除"
+
+#~ msgid "Reverse Name with Comma"
+#~ msgstr "逆順、コンマ区切り"
+
+#~ msgid "Reverse Name"
+#~ msgstr "逆順"
+
+#~ msgid "Organization Name"
+#~ msgstr "組織名"
+
+#~ msgid "Edit Email Addresses"
+#~ msgstr "メールアドレスを編集"
+
+#~ msgid "Edit..."
+#~ msgstr "編集..."
+
+#~ msgid "Set Standard"
+#~ msgstr "デフォルトにする"
+
+#~ msgid "Add Email"
+#~ msgstr "メールアドレスを追加"
+
+#~ msgid "New Email:"
+#~ msgstr "新しいメールアドレス:"
+
+#~ msgctxt "@label:textbox Inputfield for an email address"
+#~ msgid "Email:"
+#~ msgstr "メールアドレス:"
+
+#~ msgid ""
+#~ "<qt>Are you sure that you want to remove the email address <b>%1</b>?</qt>"
+#~ msgstr "<qt>本当にメールアドレス <b>%1</b> を削除しますか？</qt>"
+
+#~ msgid "Confirm Remove"
+#~ msgstr "削除の確認"
+
+#~ msgid "&Delete"
+#~ msgstr "削除(&D)"
+
+#~ msgid "Change photo..."
+#~ msgstr "写真を変更..."
+
+#~ msgid "Save photo..."
+#~ msgstr "写真を保存..."
+
+#~ msgid "Remove photo"
+#~ msgstr "写真を削除"
+
+#~ msgid "Change logo..."
+#~ msgstr "ロゴを変更..."
+
+#~ msgid "Save logo..."
+#~ msgstr "ロゴを保存..."
+
+#~ msgid "Remove logo"
+#~ msgstr "ロゴを削除"
+
+#~ msgid "Add"
+#~ msgstr "追加"
+
+#~ msgid "Edit Phone Number"
+#~ msgstr "電話番号を編集"
+
+#~ msgid "This is the preferred phone number"
+#~ msgstr "この電話番号を優先する"
+
+#~ msgid "This contact's sound cannot be found."
+#~ msgstr "この連絡先の発音が見つかりません。"
+
+#~ msgid "Click to play pronunciation"
+#~ msgstr "クリックして発音を再生します"
+
+#~ msgid "Play"
+#~ msgstr "再生"
+
+#~ msgid "Change..."
+#~ msgstr "変更..."
+
+#~ msgid "Save..."
+#~ msgstr "保存..."
+
+#~ msgid "Setting up margins and spacing"
+#~ msgstr "余白と空白の設定"
+
+#~ msgid "Font Settings"
+#~ msgstr "フォントの設定"
+
+#~ msgid "Use standard KDE fonts"
+#~ msgstr "KDE の標準フォントを使う"
+
+#~ msgid "Details font:"
+#~ msgstr "詳細のフォント:"
+
+#~ msgid "Size:"
+#~ msgstr "サイズ:"
+
+#~ msgid "Body font:"
+#~ msgstr "本体のフォント:"
+
+#~ msgid "Fixed font:"
+#~ msgstr "固定幅フォント:"
+
+#~ msgid "Contact header font:"
+#~ msgstr "連絡先ヘッダのフォント:"
+
+#~ msgid "Headlines:"
+#~ msgstr "見出し:"
+
+#~ msgid "Use colored contact headers"
+#~ msgstr "色の付いた連絡先ヘッダを使う"
+
+#~ msgid "(Deliver to:)"
+#~ msgstr "(配達先:)"
+
+#~ msgid "Preparing"
+#~ msgstr "準備中"
+
+#~ msgid "Printed on %1 by KAddressBook (http://www.kde.org)"
+#~ msgstr "KAddressBook により %1 に印刷 (http://www.kde.org)"
+
+#~ msgctxt "@title:group Print settings"
+#~ msgid "Miscellaneous"
+#~ msgstr "その他"
+
+#~ msgid ""
+#~ "If this box is checked, at least one page will be printed for every "
+#~ "letter group, regardless of whether entries exist for this letter group. "
+#~ "This is normally only useful in conjunction with the option 'fill pages "
+#~ "with empty address fields'."
+#~ msgstr ""
+#~ "このオプションを有効にすると、エントリの有無にかかわらず文字グループごとに"
+#~ "最低 1 ページ印刷されます。通常これは「空のフィールドでページを埋める」オ"
+#~ "プションと組み合わせて使う場合にのみ有用です。"
+
+#~ msgid "Always print pages for all tabs"
+#~ msgstr "常にすべてのタブのページを印刷する"
+
+#~ msgid ""
+#~ "This is the minimum number of empty fields that have to be printed in "
+#~ "addition to real entries; if this number is not reached on the first "
+#~ "page, more pages with empty fields only may be appended."
+#~ msgstr ""
+#~ "実際のエントリに加えて印刷する空のフィールドの最小数です。指定された数が最"
+#~ "初のページに収まらない場合は、空のフィールドのみのページが印刷されます。"
+
+#~ msgid ""
+#~ "If you often add contacts to your printout manually before entering them "
+#~ "into the KDE address book, you should set this option to a value greater "
+#~ "than 0: it determines how many empty address fields are to be printed; if "
+#~ "this many do not fit onto the page, another page with only empty fields "
+#~ "will be printed."
+#~ msgstr ""
+#~ "KDE アドレス帳に追加する前に頻繁に手書きで連絡先を追加するのであれば、この"
+#~ "値を 1 以上に設定してください。この値は印刷する空のフィールド数を決定しま"
+#~ "す。指定された数がページに収まらない場合は、空のフィールドのみのページが別"
+#~ "に印刷されます。"
+
+#~ msgid "Min. number of empty fields:"
+#~ msgstr "空のフィールドの最小数:"
+
+#~ msgid ""
+#~ "If this option is turned on, behind the contacts on a page the remaining "
+#~ "space will be filled with empty fields so you can add contacts manually "
+#~ "later"
+#~ msgstr ""
+#~ "このオプションを有効にすると、連絡先を印刷した後の余ったスペースに、手書き"
+#~ "で連絡先を追加するための空のフィールドが印刷されます。"
+
+#~ msgid "Fill pages with empty address fields"
+#~ msgstr "空のフィールドでページを埋める"
+
+#~ msgid "Letter Groups"
+#~ msgstr "文字グループ"
+
+#~ msgid ""
+#~ "Here you can group letters together as they are grouped in your time "
+#~ "planner. Press 'group letter' to combine the selected letter with the "
+#~ "letter group above it, press 'ungroup letter' to remove the last letter "
+#~ "from a selected group."
+#~ msgstr ""
+#~ "システム手帳と同じように複数の文字を一つのグループにまとめることができま"
+#~ "す。選択した文字を上の文字グループに加えるには「文字をグループ化」を押しま"
+#~ "す。選択したグループから最後の文字を除くには「文字のグループ化を解除」を押"
+#~ "します。"
+
+#~ msgid "Group Letter"
+#~ msgstr "文字をグループ化"
+
+#~ msgid "Choose Which Contacts to Print"
+#~ msgstr "印刷する連絡先を選択"
+
+#~ msgid ""
+#~ "Only print contacts selected in KAddressBook.\n"
+#~ "This option is disabled if no contacts are selected."
+#~ msgstr ""
+#~ "KAddressBook で選択された連絡先のみを印刷します。\n"
+#~ "このオプションは連絡先が選択されていない場合は無効になっています。"
+
+#~ msgid "Contacts matching &filter"
+#~ msgstr "フィルタにマッチする連絡先(&F)"
+
+#~ msgid ""
+#~ "Only print contacts matching the selected filter.\n"
+#~ "This option is disabled if you have not defined any filters."
+#~ msgstr ""
+#~ "選択したフィルタにマッチする連絡先のみを印刷します。\n"
+#~ "このオプションはフィルタが定義されていない場合は無効になっています。"
+
+#~ msgid ""
+#~ "Only print contacts who are members of a category that is checked on the "
+#~ "list to the left.\n"
+#~ "This option is disabled if you have no categories."
+#~ msgstr ""
+#~ "リストでチェックされたカテゴリのメンバーである連絡先のみを印刷します。\n"
+#~ "このオプションはカテゴリがない場合は無効になっています。"
+
+#~ msgid "Select a filter to decide which contacts to print."
+#~ msgstr "印刷する連絡先を決定するフィルタを選択します。"
+
+#~ msgid "Check the categories whose members you want to print."
+#~ msgstr "印刷するメンバーのカテゴリをチェックします。"
+
+#~ msgid "Reload"
+#~ msgstr "再読み込み"
+
+#~ msgid "The following contact was imported into your address book:"
+#~ msgid_plural ""
+#~ "The following %1 contacts were imported into your address book:"
+#~ msgstr[0] "以下の %1 個の連絡先をアドレス帳にインポートしました:"
+
+#~ msgid "KContactManager"
+#~ msgstr "KContactManager"
+
+#, fuzzy
+#~ msgid "Print Addresses"
+#~ msgstr "住所を編集"
+
+#~ msgid "Afghanistan"
+#~ msgstr "アフガニスタン"
+
+#~ msgid "Albania"
+#~ msgstr "アルバニア"
+
+#~ msgid "Algeria"
+#~ msgstr "アルジェリア"
+
+#~ msgid "American Samoa"
+#~ msgstr "米領サモア"
+
+#~ msgid "Andorra"
+#~ msgstr "アンドラ"
+
+#~ msgid "Angola"
+#~ msgstr "アンゴラ"
+
+#~ msgid "Anguilla"
+#~ msgstr "アンギラ"
+
+#~ msgid "Antarctica"
+#~ msgstr "南極"
+
+#~ msgid "Antigua and Barbuda"
+#~ msgstr "アンティグア・バーブーダ"
+
+#~ msgid "Argentina"
+#~ msgstr "アルゼンチン"
+
+#~ msgid "Armenia"
+#~ msgstr "アルメニア"
+
+#~ msgid "Aruba"
+#~ msgstr "アルバ"
+
+#~ msgid "Ashmore and Cartier Islands"
+#~ msgstr "アシュモア・カルティエ諸島"
+
+#~ msgid "Australia"
+#~ msgstr "オーストラリア"
+
+#~ msgid "Austria"
+#~ msgstr "オーストリア"
+
+#~ msgid "Azerbaijan"
+#~ msgstr "アゼルバイジャン"
+
+#~ msgid "Bahamas"
+#~ msgstr "バハマ"
+
+#~ msgid "Bahrain"
+#~ msgstr "バーレーン"
+
+#~ msgid "Bangladesh"
+#~ msgstr "バングラデシュ"
+
+#~ msgid "Barbados"
+#~ msgstr "バルバドス"
+
+#~ msgid "Belarus"
+#~ msgstr "ベラルーシ"
+
+#~ msgid "Belgium"
+#~ msgstr "ベルギー"
+
+#~ msgid "Belize"
+#~ msgstr "ベリーズ"
+
+#~ msgid "Benin"
+#~ msgstr "ベナン"
+
+#~ msgid "Bermuda"
+#~ msgstr "バミューダ諸島"
+
+#~ msgid "Bhutan"
+#~ msgstr "ブータン"
+
+#~ msgid "Bolivia"
+#~ msgstr "ボリビア"
+
+#~ msgid "Bosnia and Herzegovina"
+#~ msgstr "ボスニア・ヘルツェゴビナ"
+
+#~ msgid "Botswana"
+#~ msgstr "ボツワナ"
+
+#~ msgid "Brazil"
+#~ msgstr "ブラジル"
+
+#~ msgid "Brunei"
+#~ msgstr "ブルネイ"
+
+#~ msgid "Bulgaria"
+#~ msgstr "ブルガリア"
+
+#~ msgid "Burkina Faso"
+#~ msgstr "ブルキナファソ"
+
+#~ msgid "Burundi"
+#~ msgstr "ブルンジ"
+
+#~ msgid "Cambodia"
+#~ msgstr "カンボジア"
+
+#~ msgid "Cameroon"
+#~ msgstr "カメルーン"
+
+#~ msgid "Canada"
+#~ msgstr "カナダ"
+
+#~ msgid "Cape Verde"
+#~ msgstr "カーボベルデ"
+
+#~ msgid "Cayman Islands"
+#~ msgstr "ケイマン諸島"
+
+#~ msgid "Central African Republic"
+#~ msgstr "中央アフリカ共和国"
+
+#~ msgid "Chad"
+#~ msgstr "チャド"
+
+#~ msgid "Chile"
+#~ msgstr "チリ"
+
+#~ msgid "China"
+#~ msgstr "中国"
+
+#~ msgid "Colombia"
+#~ msgstr "コロンビア"
+
+#~ msgid "Comoros"
+#~ msgstr "コモロ"
+
+#~ msgid "Congo"
+#~ msgstr "コンゴ共和国"
+
+# コンゴ民主共和国
+#~ msgid "Congo, Dem. Rep."
+#~ msgstr "コンゴ"
+
+#~ msgid "Costa Rica"
+#~ msgstr "コスタリカ"
+
+#~ msgid "Croatia"
+#~ msgstr "クロアチア"
+
+#~ msgid "Cuba"
+#~ msgstr "キューバ"
+
+#~ msgid "Cyprus"
+#~ msgstr "キプロス"
+
+#~ msgid "Czech Republic"
+#~ msgstr "チェコ"
+
+#~ msgid "Denmark"
+#~ msgstr "デンマーク"
+
+#~ msgid "Djibouti"
+#~ msgstr "ジブチ"
+
+#~ msgid "Dominica"
+#~ msgstr "ドミニカ"
+
+#~ msgid "Dominican Republic"
+#~ msgstr "ドミニカ共和国"
+
+#~ msgid "Ecuador"
+#~ msgstr "エクアドル"
+
+#~ msgid "Egypt"
+#~ msgstr "エジプト"
+
+#~ msgid "El Salvador"
+#~ msgstr "エルサルバドル"
+
+#~ msgid "Equatorial Guinea"
+#~ msgstr "赤道ギニア"
+
+#~ msgid "Eritrea"
+#~ msgstr "エリトリア"
+
+#~ msgid "Estonia"
+#~ msgstr "エストニア"
+
+#~ msgid "England"
+#~ msgstr "イングランド"
+
+#~ msgid "Ethiopia"
+#~ msgstr "エチオピア"
+
+#~ msgid "European Union"
+#~ msgstr "欧州連合"
+
+#~ msgid "Faroe Islands"
+#~ msgstr "フェロー諸島"
+
+#~ msgid "Fiji"
+#~ msgstr "フィジー"
+
+#~ msgid "Finland"
+#~ msgstr "フィンランド"
+
+#~ msgid "France"
+#~ msgstr "フランス"
+
+#~ msgid "French Polynesia"
+#~ msgstr "仏領ポリネシア"
+
+#~ msgid "Gabon"
+#~ msgstr "ガボン"
+
+#~ msgid "Gambia"
+#~ msgstr "ガンビア"
+
+#~ msgid "Georgia"
+#~ msgstr "グルジア"
+
+#~ msgid "Germany"
+#~ msgstr "ドイツ"
+
+#~ msgid "Ghana"
+#~ msgstr "ガーナ"
+
+#~ msgid "Greece"
+#~ msgstr "ギリシャ"
+
+#~ msgid "Greenland"
+#~ msgstr "グリーンランド"
+
+#~ msgid "Grenada"
+#~ msgstr "グレナダ"
+
+#~ msgid "Guam"
+#~ msgstr "グアム"
+
+#~ msgid "Guatemala"
+#~ msgstr "グアテマラ"
+
+#~ msgid "Guinea"
+#~ msgstr "ギニア"
+
+#~ msgid "Guinea-Bissau"
+#~ msgstr "ギニアビサウ"
+
+#~ msgid "Guyana"
+#~ msgstr "ガイアナ"
+
+#~ msgid "Haiti"
+#~ msgstr "ハイチ"
+
+#~ msgid "Honduras"
+#~ msgstr "ホンジュラス"
+
+#~ msgid "Hong Kong"
+#~ msgstr "香港"
+
+#~ msgid "Hungary"
+#~ msgstr "ハンガリー"
+
+#~ msgid "Iceland"
+#~ msgstr "アイスランド"
+
+#~ msgid "India"
+#~ msgstr "インド"
+
+#~ msgid "Indonesia"
+#~ msgstr "インドネシア"
+
+#~ msgid "Iran"
+#~ msgstr "イラン"
+
+#~ msgid "Iraq"
+#~ msgstr "イラク"
+
+#~ msgid "Ireland"
+#~ msgstr "アイルランド"
+
+#~ msgid "Israel"
+#~ msgstr "イスラエル"
+
+#~ msgid "Italy"
+#~ msgstr "イタリア"
+
+#~ msgid "Ivory Coast"
+#~ msgstr "コートジボワール"
+
+#~ msgid "Jamaica"
+#~ msgstr "ジャマイカ"
+
+#~ msgid "Japan"
+#~ msgstr "日本"
+
+#~ msgid "Jordan"
+#~ msgstr "ヨルダン"
+
+#~ msgid "Kazakhstan"
+#~ msgstr "カザフスタン"
+
+#~ msgid "Kenya"
+#~ msgstr "ケニア"
+
+#~ msgid "Kiribati"
+#~ msgstr "キリバス"
+
+#~ msgid "Korea, North"
+#~ msgstr "北朝鮮"
+
+#~ msgid "Korea, South"
+#~ msgstr "韓国"
+
+#~ msgid "Kuwait"
+#~ msgstr "クウェート"
+
+#~ msgid "Kyrgyzstan"
+#~ msgstr "キルギス"
+
+#~ msgid "Laos"
+#~ msgstr "ラオス"
+
+#~ msgid "Latvia"
+#~ msgstr "ラトビア"
+
+#~ msgid "Lebanon"
+#~ msgstr "レバノン"
+
+#~ msgid "Lesotho"
+#~ msgstr "レソト"
+
+#~ msgid "Liberia"
+#~ msgstr "リベリア"
+
+#~ msgid "Libya"
+#~ msgstr "リビア"
+
+#~ msgid "Liechtenstein"
+#~ msgstr "リヒテンシュタイン"
+
+#~ msgid "Lithuania"
+#~ msgstr "リトアニア"
+
+#~ msgid "Luxembourg"
+#~ msgstr "ルクセンブルク"
+
+#~ msgid "Macau"
+#~ msgstr "マカオ"
+
+#~ msgid "Madagascar"
+#~ msgstr "マダガスカル"
+
+#~ msgid "Malawi"
+#~ msgstr "マラウイ"
+
+#~ msgid "Malaysia"
+#~ msgstr "マレーシア"
+
+#~ msgid "Maldives"
+#~ msgstr "モルディブ"
+
+#~ msgid "Mali"
+#~ msgstr "マリ"
+
+#~ msgid "Malta"
+#~ msgstr "マルタ"
+
+#~ msgid "Marshall Islands"
+#~ msgstr "マーシャル諸島"
+
+#~ msgid "Martinique"
+#~ msgstr "マルティニク"
+
+#~ msgid "Mauritania"
+#~ msgstr "モーリタニア"
+
+#~ msgid "Mauritius"
+#~ msgstr "モーリシャス"
+
+#~ msgid "Mexico"
+#~ msgstr "メキシコ"
+
+#~ msgid "Micronesia, Federated States Of"
+#~ msgstr "ミクロネシア連邦"
+
+#~ msgid "Moldova"
+#~ msgstr "モルドバ"
+
+#~ msgid "Monaco"
+#~ msgstr "モナコ"
+
+#~ msgid "Mongolia"
+#~ msgstr "モンゴル"
+
+#~ msgid "Montserrat"
+#~ msgstr "モントセラト"
+
+#~ msgid "Morocco"
+#~ msgstr "モロッコ"
+
+#~ msgid "Mozambique"
+#~ msgstr "モザンビーク"
+
+#~ msgid "Namibia"
+#~ msgstr "ナミビア"
+
+#~ msgid "Nauru"
+#~ msgstr "ナウル"
+
+#~ msgid "Nepal"
+#~ msgstr "ネパール"
+
+#~ msgid "Netherlands"
+#~ msgstr "オランダ"
+
+#~ msgid "Netherlands Antilles"
+#~ msgstr "オランダ領アンティル"
+
+#~ msgid "New Caledonia"
+#~ msgstr "ニューカレドニア"
+
+#~ msgid "New Zealand"
+#~ msgstr "ニュージーランド"
+
+#~ msgid "Nicaragua"
+#~ msgstr "ニカラグア"
+
+#~ msgid "Niger"
+#~ msgstr "ニジェール"
+
+#~ msgid "Nigeria"
+#~ msgstr "ナイジェリア"
+
+#~ msgid "Niue"
+#~ msgstr "ニウエ"
+
+#~ msgid "North Korea"
+#~ msgstr "北朝鮮"
+
+#~ msgid "Northern Ireland"
+#~ msgstr "北アイルランド"
+
+#~ msgid "Northern Mariana Islands"
+#~ msgstr "北マリアナ諸島連邦"
+
+#~ msgid "Norway"
+#~ msgstr "ノルウェー"
+
+#~ msgid "Oman"
+#~ msgstr "オマーン"
+
+#~ msgid "Pakistan"
+#~ msgstr "パキスタン"
+
+#~ msgid "Palau"
+#~ msgstr "パラオ"
+
+#~ msgid "Palestinian"
+#~ msgstr "パレスチナ"
+
+#~ msgid "Panama"
+#~ msgstr "パナマ"
+
+#~ msgid "Papua New Guinea"
+#~ msgstr "パプアニューギニア"
+
+#~ msgid "Paraguay"
+#~ msgstr "パラグアイ"
+
+#~ msgid "Peru"
+#~ msgstr "ペルー"
+
+#~ msgid "Philippines"
+#~ msgstr "フィリピン"
+
+#~ msgid "Poland"
+#~ msgstr "ポーランド"
+
+#~ msgid "Portugal"
+#~ msgstr "ポルトガル"
+
+#~ msgid "Puerto Rico"
+#~ msgstr "プエルトリコ"
+
+#~ msgid "Qatar"
+#~ msgstr "カタール"
+
+#~ msgid "Romania"
+#~ msgstr "ルーマニア"
+
+#~ msgid "Russia"
+#~ msgstr "ロシア"
+
+#~ msgid "Rwanda"
+#~ msgstr "ルワンダ"
+
+#~ msgid "St. Kitts and Nevis"
+#~ msgstr "セントクリストファー・ネビス"
+
+#~ msgid "St. Lucia"
+#~ msgstr "セントルシア"
+
+#~ msgid "St. Vincent and the Grenadines"
+#~ msgstr "セントビンセント・グレナディーン"
+
+#~ msgid "San Marino"
+#~ msgstr "サンマリノ"
+
+#~ msgid "Sao Tome and Principe"
+#~ msgstr "サントメ・プリンシペ"
+
+#~ msgid "Saudi Arabia"
+#~ msgstr "サウジアラビア"
+
+#~ msgid "Senegal"
+#~ msgstr "セネガル"
+
+#~ msgid "Seychelles"
+#~ msgstr "セーシェル"
+
+#~ msgid "Sierra Leone"
+#~ msgstr "シエラレオネ"
+
+#~ msgid "Singapore"
+#~ msgstr "シンガポール"
+
+#~ msgid "Slovakia"
+#~ msgstr "スロバキア"
+
+#~ msgid "Slovenia"
+#~ msgstr "スロベニア"
+
+#~ msgid "Solomon Islands"
+#~ msgstr "ソロモン諸島"
+
+#~ msgid "Somalia"
+#~ msgstr "ソマリア"
+
+#~ msgid "South Africa"
+#~ msgstr "南アフリカ"
+
+#~ msgid "South Korea"
+#~ msgstr "韓国"
+
+#~ msgid "Spain"
+#~ msgstr "スペイン"
+
+#~ msgid "Sri Lanka"
+#~ msgstr "スリランカ"
+
+#~ msgid "Sudan"
+#~ msgstr "スーダン"
+
+#~ msgid "Suriname"
+#~ msgstr "スリナム"
+
+#~ msgid "Swaziland"
+#~ msgstr "スワジランド"
+
+#~ msgid "Sweden"
+#~ msgstr "スウェーデン"
+
+#~ msgid "Switzerland"
+#~ msgstr "スイス"
+
+#~ msgid "Syria"
+#~ msgstr "シリア"
+
+#~ msgid "Taiwan"
+#~ msgstr "台湾"
+
+#~ msgid "Tajikistan"
+#~ msgstr "タジキスタン"
+
+#~ msgid "Tanzania"
+#~ msgstr "タンザニア"
+
+#~ msgid "Thailand"
+#~ msgstr "タイ"
+
+#~ msgid "Tibet"
+#~ msgstr "チベット"
+
+#~ msgid "Togo"
+#~ msgstr "トーゴ"
+
+#~ msgid "Tonga"
+#~ msgstr "トンガ"
+
+#~ msgid "Trinidad and Tobago"
+#~ msgstr "トリニダード・トバゴ"
+
+#~ msgid "Tunisia"
+#~ msgstr "チュニジア"
+
+#~ msgid "Turkey"
+#~ msgstr "トルコ"
+
+#~ msgid "Turkmenistan"
+#~ msgstr "トルクメニスタン"
+
+#~ msgid "Turks and Caicos Islands"
+#~ msgstr "タークス諸島・カイコス諸島"
+
+#~ msgid "Tuvalu"
+#~ msgstr "ツバル"
+
+#~ msgid "Uganda"
+#~ msgstr "ウガンダ"
+
+#~ msgid "Ukraine"
+#~ msgstr "ウクライナ"
+
+#~ msgid "United Arab Emirates"
+#~ msgstr "アラブ首長国連邦"
+
+#~ msgid "United Kingdom"
+#~ msgstr "英国"
+
+#~ msgid "United States"
+#~ msgstr "米国"
+
+#~ msgid "Uruguay"
+#~ msgstr "ウルグアイ"
+
+#~ msgid "Uzbekistan"
+#~ msgstr "ウズベキスタン"
+
+#~ msgid "Vanuatu"
+#~ msgstr "バヌアツ"
+
+#~ msgid "Vatican City"
+#~ msgstr "バチカン"
+
+#~ msgid "Venezuela"
+#~ msgstr "ベネズエラ"
+
+#~ msgid "Vietnam"
+#~ msgstr "ベトナム"
+
+#~ msgid "Western Samoa"
+#~ msgstr "西サモア"
+
+#~ msgid "Yemen"
+#~ msgstr "イエメン"
+
+#~ msgid "Zambia"
+#~ msgstr "ザンビア"
+
+#~ msgid "Zimbabwe"
+#~ msgstr "ジンバブエ"

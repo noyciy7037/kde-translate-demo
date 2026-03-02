@@ -1,0 +1,683 @@
+# Translation of kcmkonq into Japanese.
+# This file is distributed under the same license as the kdebase package.
+# Taiki Komoda <kom@kde.gr.jp>, 2003.
+# Shinsaku Nakagawa <shinsaku@users.sourceforge.jp>, 2004.
+# Kenshi Muto <kmuto@debian.org>, 2004.
+# Fumiaki Okushi <fumiaki@okushi.com>, 2005, 2006.
+# Shinichi Tsunoda <tsuno@ngy.1st.ne.jp>, 2005.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2006, 2007, 2008, 2009, 2010.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2006.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmkonq\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-07-05 12:23+0200\n"
+"PO-Revision-Date: 2010-01-18 23:07+0900\n"
+"Last-Translator: Yukiko Bando <ybando@k6.dion.ne.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. +> trunk6 stable6
+#: behaviour.cpp:47
+#, kde-format
+msgid "Open folders in separate &windows"
+msgstr "フォルダを別のウィンドウで開く(&W)"
+
+#. +> trunk6 stable6
+#: behaviour.cpp:48
+#, kde-format
+msgid ""
+"If this option is checked, Konqueror will open a new window when you open a "
+"folder, rather than showing that folder's contents in the current window."
+msgstr ""
+"このオプションを有効にすると、フォルダを開いたときに、その内容が現在のウィン"
+"ドウに表示されるのではなく、新しいウィンドウが開くようになります。"
+
+#. +> trunk6 stable6
+#: behaviour.cpp:72
+#, fuzzy, kde-format
+#| msgid "Show 'Delete' context me&nu entries which bypass the trashcan"
+msgid "Show 'Delete' me&nu entries which bypass the trashcan"
+msgstr "ごみ箱を経由しない「削除」をコンテキストメニューに表示する(&N)"
+
+#. +> trunk6 stable6
+#: behaviour.cpp:76
+#, fuzzy, kde-format
+#| msgid ""
+#| "Check this if you want 'Delete' menu commands to be displayed on the "
+#| "desktop and in the file manager's context menus. You can always delete "
+#| "files by holding the Shift key while calling 'Move to Trash'."
+msgid ""
+"Check this if you want 'Delete' menu commands to be displayed on the desktop "
+"and in the file manager's menus and context menus. You can always delete "
+"files by holding the Shift key while calling 'Move to Trash'."
+msgstr ""
+"デスクトップやファイルマネージャのコンテキストメニューに「削除」メニューコマ"
+"ンドを表示させない場合は、このチェックを外してください。「削除」がメニューに"
+"表示されていないときも、Shift キーを押しながら「ごみ箱に移動」を選ぶと、ごみ"
+"箱を経由せずに削除できます。"
+
+#, kde-format
+#~ msgid "Misc Options"
+#~ msgstr "さまざまなオプション"
+
+#, kde-format
+#~ msgid ""
+#~ "<h1>Konqueror Behavior</h1> You can configure how Konqueror behaves as a "
+#~ "file manager here."
+#~ msgstr ""
+#~ "<h1>Konqueror の挙動</h1>ここでは Konqueror のファイルマネージャとしての挙"
+#~ "動を設定します。"
+
+#, fuzzy
+#~| msgid "Menu Editor"
+#~ msgctxt "@title:window"
+#~ msgid "Menu Editor"
+#~ msgstr "メニューエディタ"
+
+#~ msgid "Menu"
+#~ msgstr "メニュー"
+
+#~ msgid "New..."
+#~ msgstr "新規..."
+
+#~ msgid "Remove"
+#~ msgstr "削除"
+
+#~ msgid "Move Up"
+#~ msgstr "上へ移動"
+
+#~ msgid "Move Down"
+#~ msgstr "下へ移動"
+
+#~ msgid "Menu Editor"
+#~ msgstr "メニューエディタ"
+
+#~ msgid "Show 'Delete' context me&nu entries which bypass the trashcan"
+#~ msgstr "ごみ箱を経由しない「削除」をコンテキストメニューに表示する(&N)"
+
+#~ msgid ""
+#~ "Check this if you want 'Delete' menu commands to be displayed on the "
+#~ "desktop and in the file manager's context menus. You can always delete "
+#~ "files by holding the Shift key while calling 'Move to Trash'."
+#~ msgstr ""
+#~ "デスクトップやファイルマネージャのコンテキストメニューに「削除」メニューコ"
+#~ "マンドを表示させない場合は、このチェックを外してください。「削除」がメ"
+#~ "ニューに表示されていないときも、Shift キーを押しながら「ごみ箱に移動」を選"
+#~ "ぶと、ごみ箱を経由せずに削除できます。"
+
+#~ msgid ""
+#~ "<h1>Paths</h1>\n"
+#~ "This module allows you to choose where in the filesystem the files on "
+#~ "your desktop should be stored.\n"
+#~ "Use the \"Whats This?\" (Shift+F1) to get help on specific options."
+#~ msgstr ""
+#~ "<h1>パス</h1><p>このモジュールでは、デスクトップ上のファイルをファイルシス"
+#~ "テムのどこに保存するかを設定します。</p><p>各オプションのヘルプを見るには"
+#~ "「これは何？」(Shift+F1) を使ってください。</p>"
+
+#~ msgid "Desktop path:"
+#~ msgstr "デスクトップパス:"
+
+#~ msgid ""
+#~ "This folder contains all the files which you see on your desktop. You can "
+#~ "change the location of this folder if you want to, and the contents will "
+#~ "move automatically to the new location as well."
+#~ msgstr ""
+#~ "このフォルダにはデスクトップに表示するすべてのファイルが含まれています。こ"
+#~ "のフォルダの場所は自由に変更できます。変更すると、その中身も自動的に新しい"
+#~ "場所へ移動します。"
+
+#~ msgid "Autostart path:"
+#~ msgstr "自動起動パス:"
+
+#~ msgid ""
+#~ "This folder contains applications or links to applications (shortcuts) "
+#~ "that you want to have started automatically whenever KDE starts. You can "
+#~ "change the location of this folder if you want to, and the contents will "
+#~ "move automatically to the new location as well."
+#~ msgstr ""
+#~ "このフォルダには KDE の起動時に自動的に起動するアプリケーションまたはアプ"
+#~ "リケーションへのリンク (ショートカット) が含まれています。このフォルダの場"
+#~ "所は自由に変更できます。変更すると、その中身も自動的に新しい場所へ移動しま"
+#~ "す。"
+
+#~ msgid "Documents path:"
+#~ msgstr "文書パス:"
+
+#~ msgid ""
+#~ "This folder will be used by default to load or save documents from or to."
+#~ msgstr "このフォルダは文書のデフォルトの読み込み/保存先として使われます。"
+
+#~ msgid "Downloads path:"
+#~ msgstr "ダウンロードパス:"
+
+#~ msgid "This folder will be used by default to save your downloaded items."
+#~ msgstr ""
+#~ "このフォルダはダウンロードしたアイテムのデフォルトの保存先として使われま"
+#~ "す。"
+
+#~ msgid "Movies path:"
+#~ msgstr "動画パス:"
+
+#~ msgid ""
+#~ "This folder will be used by default to load or save movies from or to."
+#~ msgstr "このフォルダは動画のデフォルトの読み込み/保存先として使われます。"
+
+#~ msgid "Pictures path:"
+#~ msgstr "画像パス:"
+
+#~ msgid ""
+#~ "This folder will be used by default to load or save pictures from or to."
+#~ msgstr "このフォルダは画像のデフォルトの読み込み/保存先として使われます。"
+
+#~ msgid "Music path:"
+#~ msgstr "音楽パス:"
+
+#~ msgid ""
+#~ "This folder will be used by default to load or save music from or to."
+#~ msgstr "このフォルダは音楽のデフォルトの読み込み/保存先として使われます。"
+
+#~ msgid "Autostart"
+#~ msgstr "自動起動"
+
+#~ msgid "Desktop"
+#~ msgstr "デスクトップ"
+
+#~ msgid "Documents"
+#~ msgstr "文書"
+
+#~ msgid "Downloads"
+#~ msgstr "ダウンロード"
+
+#~ msgid "Movies"
+#~ msgstr "動画"
+
+#~ msgid "Pictures"
+#~ msgstr "画像"
+
+#~ msgid "Music"
+#~ msgstr "音楽"
+
+#~ msgid ""
+#~ "The path for '%1' has been changed.\n"
+#~ "Do you want the files to be moved from '%2' to '%3'?"
+#~ msgstr ""
+#~ "「%1」のパスが変更されました。\n"
+#~ "‘%2’ から ‘%3’ へファイルを移動しますか？"
+
+#~ msgctxt "Move files from old to new place"
+#~ msgid "Move"
+#~ msgstr "移動する"
+
+#~ msgctxt "Use the new directory but do not move files"
+#~ msgid "Do not Move"
+#~ msgstr "移動しない"
+
+#~ msgid ""
+#~ "The path for '%1' has been changed.\n"
+#~ "Do you want to move the directory '%2' to '%3'?"
+#~ msgstr ""
+#~ "「%1」のパスが変更されました。\n"
+#~ "フォルダ ‘%2’ を ‘%3’ へ移動しますか？"
+
+#~ msgctxt "Move the directory"
+#~ msgid "Move"
+#~ msgstr "移動する"
+
+#~ msgctxt "Use the new directory but do not move anything"
+#~ msgid "Do not Move"
+#~ msgstr "移動しない"
+
+#~ msgid "Confirmation Required"
+#~ msgstr "確認が必要です"
+
+#~ msgctxt "@title:group what to do when a file is deleted"
+#~ msgid "Ask Confirmation For"
+#~ msgstr "以下について確認する"
+
+#~ msgid ""
+#~ "This option tells Konqueror whether to ask for a confirmation when you "
+#~ "\"delete\" a file. <ul><li><em>Move To Trash:</em> moves the file to your "
+#~ "trash folder, from where it can be recovered very easily.</li> "
+#~ "<li><em>Delete:</em> simply deletes the file.</li> </ul>"
+#~ msgstr ""
+#~ "このオプションはファイルを「削除」するときに確認するかどうかを設定します。"
+#~ "<ul><li>ごみ箱に移動: ファイルをごみ箱フォルダに移動します。ごみ箱に捨てた"
+#~ "ファイルは簡単に復旧することができます。</li><li>削除: 単純にファイルを削"
+#~ "除します。</li></ul>"
+
+#~ msgctxt "@option:check Ask for confirmation when moving to trash"
+#~ msgid "&Move to trash"
+#~ msgstr "ごみ箱に移動(&M)"
+
+#~ msgctxt "@option:check Ask for confirmation when deleting"
+#~ msgid "D&elete"
+#~ msgstr "削除(&E)"
+
+#~ msgid "Des&ktop path:"
+#~ msgstr "デスクトップパス(&K):"
+
+#~ msgid "A&utostart path:"
+#~ msgstr "自動起動パス(&U):"
+
+#~ msgid "D&ocuments path:"
+#~ msgstr "文書パス(&O):"
+
+#~ msgctxt "Move desktop files from old to new place"
+#~ msgid "Move"
+#~ msgstr "移動する"
+
+#~ msgid "Ask Confirmation For"
+#~ msgstr "以下について確認する"
+
+#~ msgid "&Move to trash"
+#~ msgstr "ごみ箱に移動(&M)"
+
+#~ msgid "D&elete"
+#~ msgstr "削除(&E)"
+
+#~ msgid ""
+#~ "The path for '%1' has been changed;\n"
+#~ "do you want the files to be moved from '%2' to '%3'?"
+#~ msgstr ""
+#~ "「%1」のパスが変更されました。\n"
+#~ "‘%2’ から ‘%3’ へファイルを移動しますか？"
+
+#~ msgid "&Behavior"
+#~ msgstr "挙動(&B)"
+
+#~ msgid "&Previews && Meta-Data"
+#~ msgstr "プレビューとメタデータ(&P)"
+
+#~ msgid "General"
+#~ msgstr "全般"
+
+#~ msgid ""
+#~ "Uncheck this option if you do not want to have icons on the desktop. "
+#~ "Without icons the desktop will be somewhat faster but you will no longer "
+#~ "be able to drag files to the desktop."
+#~ msgstr ""
+#~ "デスクトップ上にアイコンを置かない場合は、このオプションのチェックを外して"
+#~ "ください。アイコンがなければデスクトップの表示は多少速くなります。ただし、"
+#~ "デスクトップ上へのファイルのドラッグはできなくなります。"
+
+# ACCELERATOR changed by translator
+#~ msgid "&Show icons on desktop"
+#~ msgstr "デスクトップにアイコンを表示する(&W)"
+
+#~ msgid ""
+#~ "Check this option if you want to run X11 programs that draw into the "
+#~ "desktop such as xsnow, xpenguin or xmountain. If you have problems with "
+#~ "applications like netscape that check the root window for running "
+#~ "instances, disable this option."
+#~ msgstr ""
+#~ "xsnow, xpenguin あるいは xmountain のようなデスクトップに直接描画する X11 "
+#~ "プログラムを実行する場合は、このオプションを有効にしてください。実行中のイ"
+#~ "ンスタンスのためにルートウィンドウを調べる netscape のようなアプリケーショ"
+#~ "ンで問題が発生する場合は、このオプションを無効にしてください。"
+
+#~ msgid "Allow pro&grams in desktop window"
+#~ msgstr "デスクトップウィンドウでのプログラムを許可する(&G)"
+
+#~ msgid "Show &tooltips"
+#~ msgstr "ファイルのツールチップを表示する(&T)"
+
+#~ msgid "Menu Bar at top of Screen"
+#~ msgstr "スクリーン上部のメニューバー"
+
+#~ msgid ""
+#~ "If this option is selected, there is no menu bar at the top of the screen."
+#~ msgstr ""
+#~ "このオプションを選択すると、スクリーン上部にはメニューバーが表示されませ"
+#~ "ん。"
+
+#~ msgid "&None"
+#~ msgstr "なし(&N)"
+
+#~ msgid ""
+#~ "If this option is selected, there is one menu bar at the top of the "
+#~ "screen which shows the desktop menus."
+#~ msgstr ""
+#~ "このオプションを選択すると、デスクトップメニューを表示するメニューバーがス"
+#~ "クリーン上部に表示されます。"
+
+# ACCELERATOR changed by translator
+#~ msgid "&Desktop menu bar"
+#~ msgstr "デスクトップメニューバー(&E)"
+
+#~ msgid ""
+#~ "If this option is selected, applications will not have their menu bar "
+#~ "attached to their own window anymore. Instead, there is one menu bar at "
+#~ "the top of the screen which shows the menus of the currently active "
+#~ "application. You might recognize this behavior from Mac OS."
+#~ msgstr ""
+#~ "このオプションを選択すると、それぞれのアプリケーションのウィンドウにはメ"
+#~ "ニューバーが付きません。代わりに、現在アクティブなアプリケーションのメ"
+#~ "ニューがスクリーンの上部にメニューバーとして一つだけ表示されます。Mac OS "
+#~ "のように動作すると言えば、この振る舞いを理解できるかもしれません。"
+
+# ACCELERATOR changed by translator
+#~ msgid "&Current application's menu bar (Mac OS-style)"
+#~ msgstr "現在のアプリケーションのメニューバー(&B) (Mac OS スタイル)"
+
+#~ msgid "Mouse Button Actions"
+#~ msgstr "マウスボタンの動作"
+
+#~ msgid "Middle button:"
+#~ msgstr "中ボタン:"
+
+#~ msgid "Left button:"
+#~ msgstr "左ボタン:"
+
+#~ msgid "Right button:"
+#~ msgstr "右ボタン:"
+
+#~ msgid "Edit..."
+#~ msgstr "編集..."
+
+#~ msgid "File Icons"
+#~ msgstr "ファイルアイコン"
+
+#~ msgid ""
+#~ "Check this option if you want to see your icons automatically aligned to "
+#~ "the grid when you move them."
+#~ msgstr ""
+#~ "アイコンを移動したときに自動的にアイコンをグリッドに合わせるには、このオプ"
+#~ "ションを有効にしてください。"
+
+#~ msgid "Automatically &line up icons"
+#~ msgstr "アイコンを自動整列する(&L)"
+
+#~ msgid ""
+#~ "<p>If you check this option, any files in your desktop directory that "
+#~ "begin with a period (.) will be shown. Usually, such files contain "
+#~ "configuration information, and remain hidden from view.</p>\n"
+#~ "<p>For example, files which are named \".directory\" are plain text files "
+#~ "which contain information for Konqueror, such as the icon to use in "
+#~ "displaying a directory, the order in which files should be sorted, etc. "
+#~ "You should not change or delete these files unless you know what you are "
+#~ "doing.</p>"
+#~ msgstr ""
+#~ "<qt><p>このオプションを有効にすると、デスクトップディレクトリにあるピリオ"
+#~ "ド (.) で始まるすべてのファイルが表示されるようになります。通常、そのよう"
+#~ "なファイルには設定情報が含まれているため、表示されないようになっています。"
+#~ "</p>\n"
+#~ "<p>例えば、‘.directory’ という名前のプレーンテキストファイルには、ディレク"
+#~ "トリを表示する際に使用するアイコンや、その中でのファイルの並べ方といった "
+#~ "Konqueror 用の情報が含まれています。よく理解したうえでなければ、これらの"
+#~ "ファイルを編集したり削除すべきではありません。</p></qt>"
+
+# ACCELERATOR changed by translator
+#~ msgid "Show &hidden files"
+#~ msgstr "隠しファイルを表示する(&W)"
+
+#~ msgid "Select for which types of files you want to enable preview images."
+#~ msgstr "プレビュー画像を有効にするファイルタイプを選択してください。"
+
+#~ msgid "Show Icon Previews For"
+#~ msgstr "アイコンプレビューを表示するファイルタイプ"
+
+#~ msgid "Device Icons"
+#~ msgstr "デバイスアイコン"
+
+# ACCELERATOR changed by translator
+#~ msgid "&Show device icons:"
+#~ msgstr "デバイスアイコンを表示する(&W):"
+
+#~ msgid ""
+#~ "Deselect the device types which you do not want to see on the desktop."
+#~ msgstr "デスクトップ上に表示しないデバイスのタイプの選択を外してください。"
+
+#~ msgid "Device Types to Display"
+#~ msgstr "表示するデバイスのタイプ"
+
+#~ msgid "Sound Files"
+#~ msgstr "サウンドファイル"
+
+#~ msgid "&Left button:"
+#~ msgstr "左ボタン(&L):"
+
+#~ msgid ""
+#~ "You can choose what happens when you click the left button of your "
+#~ "pointing device on the desktop:"
+#~ msgstr ""
+#~ "ポインティングデバイスの左ボタンでデスクトップ上をクリックしたときの動作を"
+#~ "設定します:"
+
+#~ msgid "Right b&utton:"
+#~ msgstr "右ボタン(&U):"
+
+#~ msgid ""
+#~ "You can choose what happens when you click the right button of your "
+#~ "pointing device on the desktop:"
+#~ msgstr ""
+#~ "ポインティングデバイスの右ボタンでデスクトップ上をクリックしたときの動作を"
+#~ "設定します:"
+
+#~ msgid ""
+#~ " <ul><li><em>No action</em></li> <li><em>Window list menu:</em> a menu "
+#~ "showing all windows on all virtual desktops pops up. You can click on the "
+#~ "desktop name to switch to that desktop, or on a window name to shift "
+#~ "focus to that window, switching desktops if necessary, and restoring the "
+#~ "window if it is hidden. Hidden or minimized windows are represented with "
+#~ "their names in parentheses.</li> <li><em>Desktop menu:</em> a context "
+#~ "menu for the desktop pops up. Among other things, this menu has options "
+#~ "for configuring the display, locking the screen, and logging out of KDE.</"
+#~ "li> <li><em>Application menu:</em> the \"K\" menu pops up. This might be "
+#~ "useful for quickly accessing applications if you like to keep the panel "
+#~ "hidden from view.</li></ul>"
+#~ msgstr ""
+#~ "<ul><li>動作なし</li><li>ウィンドウリストメニュー: すべての仮想デスクトッ"
+#~ "プのウィンドウのリストを表示します。このメニューのデスクトップ名をクリック"
+#~ "するとデスクトップが切り替わり、ウィンドウ名をクリックするとフォーカスがそ"
+#~ "のウィンドウに移ります。この時、必要ならデスクトップも切り替わり、ウィンド"
+#~ "ウが非表示になっていれば復元されます。非表示または最小化されているウィンド"
+#~ "ウは ( ) の中にウィンドウ名が表示されます。</li><li>デスクトップメニュー: "
+#~ "デスクトップのコンテキストメニューを表示します。このメニューには、ディスプ"
+#~ "レイの設定に関するオプション、画面のロック、KDE からのログアウトなどの項目"
+#~ "も含まれています。</li><li>アプリケーションメニュー: K メニューを表示しま"
+#~ "す。これはパネルを隠しているときに素早くアプリケーションにアクセスするのに"
+#~ "便利でしょう。</li></ul>"
+
+#~ msgid ""
+#~ "You can choose what happens when you click on the desktop using your "
+#~ "pointing device's middle button: <ul><li><em>No action</em></li> "
+#~ "<li><em>Window list menu:</em> a menu showing all windows on all virtual "
+#~ "desktops pops up. You can click on the desktop name to switch to that "
+#~ "desktop, or on a window name to shift focus to that window, switching "
+#~ "desktops if necessary, and restoring the window if it is hidden. Hidden "
+#~ "or minimized windows are represented with their names in parentheses.</"
+#~ "li> <li><em>Desktop menu:</em> a context menu for the desktop pops up. "
+#~ "Among other things, this menu has options for configuring the display, "
+#~ "locking the screen, and logging out of KDE.</li> <li><em>Application menu:"
+#~ "</em> the \"K\" menu pops up. This might be useful for quickly accessing "
+#~ "applications if you like to keep the panel hidden from view.</li></ul>"
+#~ msgstr ""
+#~ "ポインティングデバイスの中ボタンでデスクトップ上をクリックしたときの動作を"
+#~ "設定します: <ul><li>動作なし</li><li>ウィンドウリストメニュー: すべての仮"
+#~ "想デスクトップのウィンドウのリストを表示します。このメニューのデスクトップ"
+#~ "名をクリックするとデスクトップが切り替わり、ウィンドウ名をクリックすると"
+#~ "フォーカスがそのウィンドウに移ります。この時、必要ならデスクトップも切り替"
+#~ "わり、ウィンドウが非表示になっていれば復元されます。非表示または最小化され"
+#~ "ているウィンドウは ( ) の中にウィンドウ名が表示されます。</li><li>デスク"
+#~ "トップメニュー: デスクトップのコンテキストメニューを表示します。このメ"
+#~ "ニューには、ディスプレイの設定に関するオプション、画面のロック、KDE からの"
+#~ "ログアウトなどの項目も含まれています。</li><li>アプリケーションメニュー: "
+#~ "K メニューを表示します。これはパネルを隠しているときに素早くアプリケーショ"
+#~ "ンにアクセスするのに便利でしょう。</li></ul>"
+
+#~ msgid ""
+#~ " <ul><li><em>No action:</em> as you might guess, nothing happens!</li> "
+#~ "<li><em>Window list menu:</em> a menu showing all windows on all virtual "
+#~ "desktops pops up. You can click on the desktop name to switch to that "
+#~ "desktop, or on a window name to shift focus to that window, switching "
+#~ "desktops if necessary, and restoring the window if it is hidden. Hidden "
+#~ "or minimized windows are represented with their names in parentheses.</"
+#~ "li> <li><em>Desktop menu:</em> a context menu for the desktop pops up. "
+#~ "Among other things, this menu has options for configuring the display, "
+#~ "locking the screen, and logging out of KDE.</li> <li><em>Application menu:"
+#~ "</em> the \"K\" menu pops up. This might be useful for quickly accessing "
+#~ "applications if you like to keep the panel (also known as \"Kicker\") "
+#~ "hidden from view.</li></ul>"
+#~ msgstr ""
+#~ "<ul><li>動作なし: お察しのとおり、何も起きません!</li><li>ウィンドウリスト"
+#~ "メニュー: すべての仮想デスクトップのウィンドウのリストを表示します。このメ"
+#~ "ニューのデスクトップ名をクリックするとデスクトップが切り替わり、ウィンドウ"
+#~ "名をクリックするとフォーカスがそのウィンドウに移ります。この時、必要ならデ"
+#~ "スクトップも切り替わり、ウィンドウが非表示になっていれば復元されます。非表"
+#~ "示または最小化されているウィンドウは ( ) の中にウィンドウ名が表示されま"
+#~ "す。</li><li>デスクトップメニュー: デスクトップのコンテキストメニューを表"
+#~ "示します。このメニューには、ディスプレイの設定に関するオプション、画面の"
+#~ "ロック、KDE からのログアウトなどの項目も含まれています。</li><li>アプリ"
+#~ "ケーションメニュー: K メニューを表示します。これはパネルを隠しているときに"
+#~ "素早くアプリケーションにアクセスするのに便利でしょう。</li></ul>"
+
+#~ msgid "No Action"
+#~ msgstr "動作なし"
+
+#~ msgid "Window List Menu"
+#~ msgstr "ウィンドウリストメニュー"
+
+#~ msgid "Desktop Menu"
+#~ msgstr "デスクトップメニュー"
+
+#~ msgid "Application Menu"
+#~ msgstr "アプリケーションメニュー"
+
+#~ msgid "Bookmarks Menu"
+#~ msgstr "ブックマークメニュー"
+
+#~ msgid "Custom Menu 1"
+#~ msgstr "カスタムメニュー 1"
+
+#~ msgid "Custom Menu 2"
+#~ msgstr "カスタムメニュー 2"
+
+#~ msgid ""
+#~ "<h1>Behavior</h1>\n"
+#~ "This module allows you to choose various options\n"
+#~ "for your desktop, including the way in which icons are arranged and\n"
+#~ "the pop-up menus associated when clicking on the desktop using the middle "
+#~ "and right mouse\n"
+#~ "buttons.\n"
+#~ "Use the \"What's This?\" (Shift+F1) to get help on specific options."
+#~ msgstr ""
+#~ "<h1>挙動</h1><p>このモジュールでは、デスクトップのアイコンの並べ方や、マウ"
+#~ "スの中ボタンや右ボタンでデスクトップ上をクリックしたときに表示させるメ"
+#~ "ニューなど、デスクトップに関するさまざまなオプションを設定することができま"
+#~ "す。</p><p>各オプションのヘルプを見るには「これは何？」(Shift+F1) を使って"
+#~ "ください。</p>"
+
+#~ msgid ""
+#~ "<p>Allow previews, \"Folder Icons Reflect Contents\", and retrieval of "
+#~ "meta-data on protocols:</p>"
+#~ msgstr ""
+#~ "<p>プレビュー、内容を反映するフォルダアイコン、メタデータの取得を許可する"
+#~ "プロトコル:</p>"
+
+#~ msgid ""
+#~ "<h1>Preview Options</h1> Here you can modify the behavior of Konqueror "
+#~ "when it shows the files in a folder.<h2>The list of protocols:</h2> check "
+#~ "the protocols over which previews should be shown; uncheck those over "
+#~ "which they should not. For instance, you might want to show previews over "
+#~ "SMB if the local network is fast enough, but you might disable it for FTP "
+#~ "if you often visit very slow FTP sites with large images.<h2>Maximum File "
+#~ "Size:</h2> select the maximum file size for which previews should be "
+#~ "generated. For instance, if set to 1 MB (the default), no preview will be "
+#~ "generated for files bigger than 1 MB, for speed reasons."
+#~ msgstr ""
+#~ "<h1>プレビューのオプション</h1> ここで Konqueror がフォルダ内のファイルを"
+#~ "表示する際の挙動を設定します。<h2>プロトコルの選択:</h2> プレビューを表示"
+#~ "させるプロトコルを選択します。プレビューを表示させないプロトコルのチェック"
+#~ "は外してください。例えば、ローカルネットワークが十分速ければ、SMB 上ではプ"
+#~ "レビューを表示させてもよいでしょう。一方、大きな画像を含む非常に遅い FTP "
+#~ "サイトをよく使う場合は、FTP 上のプレビューは無効にしておく方がよいでしょ"
+#~ "う。<h2>最大ファイルサイズ:</h2> プレビューを生成させるファイルの最大サイ"
+#~ "ズを指定します。1 MB (標準設定) に指定すると、1 MB を超えるファイルについ"
+#~ "ては速度上の理由によりプレビューを生成しません。"
+
+#~ msgid "Select Protocols"
+#~ msgstr "プロトコルの選択"
+
+#~ msgid "Local Protocols"
+#~ msgstr "ローカルプロトコル"
+
+#~ msgid "Internet Protocols"
+#~ msgstr "インターネットプロトコル"
+
+#~ msgid ""
+#~ "This option makes it possible to choose when the file previews, smart "
+#~ "folder icons, and meta-data in the File Manager should be activated.\n"
+#~ "In the list of protocols that appear, select which ones are fast enough "
+#~ "for you to allow previews to be generated."
+#~ msgstr ""
+#~ "このオプションは、ファイルマネージャ内でどのようなときにファイルのプレ"
+#~ "ビュー、内容を反映するフォルダアイコン、メタデータを有効にするかを設定しま"
+#~ "す。\n"
+#~ "表示されているプロトコルの一覧から、プレビューを十分な速さで生成できると思"
+#~ "われるものを選択してください。"
+
+#~ msgid "&Maximum file size:"
+#~ msgstr "最大ファイルサイズ(&M):"
+
+#~ msgid " MB"
+#~ msgstr " MB"
+
+#~ msgid "&Increase size of previews relative to icons"
+#~ msgstr "アイコンのサイズに応じてプレビューのサイズを増やす(&I)"
+
+#~ msgid "&Use thumbnails embedded in files"
+#~ msgstr "ファイルに埋め込まれたサムネイルを使う(&U)"
+
+#~ msgid ""
+#~ "Select this to use thumbnails that are found inside some file types (e.g. "
+#~ "JPEG). This will increase speed and reduce disk usage. Deselect it if you "
+#~ "have files that have been processed by programs which create inaccurate "
+#~ "thumbnails, such as ImageMagick."
+#~ msgstr ""
+#~ "一部のファイルタイプ (例 JPEG) に埋め込まれているサムネイルを使用するに"
+#~ "は、これを有効にしてください。これにより表示速度が向上し、ディスクの使用が"
+#~ "減ります。ただし、ImageMagick のような不正確なサムネイルを作成するプログラ"
+#~ "ムで処理したファイルがある場合は、これを選択しないでください。"
+
+#~ msgctxt ""
+#~ "@title:column Header of a column where the user has to select in which "
+#~ "protocols he wants to see file previews"
+#~ msgid "Select Protocols"
+#~ msgstr "プロトコルの選択"
+
+#~ msgctxt ""
+#~ "@title:column Header of a colum where the user has to select in which "
+#~ "protocols he wants to see file previews"
+#~ msgid "Select Protocols"
+#~ msgstr "プロトコルの選択"
+
+#~ msgid "Show file &tips"
+#~ msgstr "ファイルのツールチップを表示する(&T)"
+
+#~ msgid ""
+#~ "Here you can control if, when moving the mouse over a file, you want to "
+#~ "see a small popup window with additional information about that file"
+#~ msgstr ""
+#~ "マウスをファイルの上に移動したときに、そのファイルに関する情報を小さいポッ"
+#~ "プアップウィンドウに表示させるかどうかを選択します。"
+
+# ACCELERATOR changed by translator
+#~ msgid "Show &previews in file tips"
+#~ msgstr "ファイルのツールチップにプレビューを表示する(&I)"
+
+#~ msgid ""
+#~ "Here you can control if you want the popup window to contain a larger "
+#~ "preview for the file, when moving the mouse over it."
+#~ msgstr ""
+#~ "マウスをファイルの上に移動したときに表示されるポップアップウィンドウに、そ"
+#~ "のファイルの大きなプレビューを含めるかどうかを選択します。"

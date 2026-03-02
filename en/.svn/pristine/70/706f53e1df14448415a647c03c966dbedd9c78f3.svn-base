@@ -1,0 +1,3528 @@
+# Translation of juk into Japanese.
+# This file is distributed under the same license as the kdemultimedia package.
+# Kaori Andou <parsley@happy.email.ne.jp>, 2004.
+# AWASHIRO Ikuya <ikuya@oooug.jp>, 2004.
+# Shinichi Tsunoda <tsuno@ngy.1st.ne.jp>, 2005.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2006, 2007, 2008, 2009, 2010.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2005, 2006, 2008, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: juk\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-07-16 09:03+0200\n"
+"PO-Revision-Date: 2011-06-11 23:54-0700\n"
+"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Kaori Andou,Ikuya AWASHIRO, Fumiaki Okushi,Shinichi Tsunoda"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+"parsley@happy.email.ne.jp,ikuya@oooug.jp, "
+"fumiaki@okushi.com,tsuno@ngy.1st.ne.jp"
+
+#. +> trunk6 stable6
+#: advancedsearchdialog.cpp:48
+#, fuzzy, kde-format
+#| msgid "Create Search Playlist"
+msgctxt "@title:window"
+msgid "Create Search Playlist"
+msgstr "検索プレイリストを作成"
+
+#. +> trunk6 stable6
+#: advancedsearchdialog.cpp:57
+#, fuzzy, kde-format
+#| msgid "Playlist name:"
+msgctxt "@label"
+msgid "Playlist name:"
+msgstr "プレイリスト名:"
+
+#. +> trunk6 stable6
+#: advancedsearchdialog.cpp:61
+#, fuzzy, kde-format
+#| msgid "Search Criteria"
+msgctxt "@title:group"
+msgid "Search Criteria"
+msgstr "検索条件"
+
+#. +> trunk6 stable6
+#: advancedsearchdialog.cpp:66
+#, fuzzy, kde-format
+#| msgid "Match any of the following"
+msgctxt "@option:radio"
+msgid "Match any of the following"
+msgstr "次のいずれかにマッチ"
+
+#. +> trunk6 stable6
+#: advancedsearchdialog.cpp:67
+#, fuzzy, kde-format
+#| msgid "Match all of the following"
+msgctxt "@option:radio"
+msgid "Match all of the following"
+msgstr "次のすべてにマッチ"
+
+#. +> trunk6 stable6
+#: advancedsearchdialog.cpp:91
+#, fuzzy, kde-format
+#| msgctxt "additional search options"
+#| msgid "More"
+msgctxt "@action:button, additional search options"
+msgid "More"
+msgstr "増やす"
+
+#. +> trunk6 stable6
+#: advancedsearchdialog.cpp:96
+#, fuzzy, kde-format
+#| msgid "Fewer"
+msgctxt "@action:button"
+msgid "Fewer"
+msgstr "減らす"
+
+#. +> trunk6 stable6
+#: cache.cpp:301
+#, kde-format
+msgid ""
+"The music data cache has been corrupted. JuK needs to rescan it now. This "
+"may take some time."
+msgstr ""
+"音楽データのキャッシュが壊れているため、データを再スキャンする必要がありま"
+"す。これにはしばらく時間がかかる場合があります。"
+
+#. +> trunk6 stable6
+#: collectionlist.cpp:148
+#, kde-format
+msgid "Collection List"
+msgstr "コレクションリスト"
+
+#. +> trunk6 stable6
+#: collectionlist.cpp:289
+#, fuzzy, kde-format
+#| msgid ""
+#| "Removing an item from the collection will also remove it from all of your "
+#| "playlists. Are you sure you want to continue?\n"
+#| "\n"
+#| "Note, however, that if the directory that these files are in is in your "
+#| "\"scan on startup\" list, they will be readded on startup."
+msgid ""
+"Removing an item from the collection will also remove it from all of your "
+"playlists. Are you sure you want to continue?\n"
+"\n"
+"Note, however, that if the directory that these files are in is in your "
+"“scan on startup” list, they will be readded on startup."
+msgstr ""
+"コレクションからアイテムを削除すると、そのアイテムはすべてのプレイリストから"
+"も削除されます。本当に続けますか？\n"
+"\n"
+"しかし、これらのファイルを含むフォルダが「起動時にスキャンするフォルダ」のリ"
+"ストにある場合は、次回起動時に再び追加されます。"
+
+#. +> trunk6 stable6
+#: collectionlist.cpp:343
+#, fuzzy, kde-format
+#| msgid "Show Playing"
+msgctxt "@action:button"
+msgid "Show Playing"
+msgstr "再生を表示"
+
+#. +> trunk6 stable6
+#: deletedialog.cpp:65
+#, kde-format
+msgid "<b>1</b> file selected."
+msgid_plural "<b>%1</b> files selected."
+msgstr[0] "<b>%1</b> 個のファイルが選択されています。"
+
+#. +> trunk6 stable6
+#: deletedialog.cpp:78
+#, kde-format
+msgid ""
+"<qt>These items will be <b>permanently deleted</b> from your hard disk.</qt>"
+msgstr "<qt>これらのアイテムはハードディスクから「完全に削除」されます。</qt>"
+
+#. +> trunk6 stable6
+#: deletedialog.cpp:84
+#, kde-format
+msgid "<qt>These items will be moved to the Trash Bin.</qt>"
+msgstr "<qt>これらのアイテムはごみ箱に移動されます。</qt>"
+
+#. +> trunk6 stable6
+#: deletedialog.cpp:96
+#, fuzzy, kde-format
+#| msgid "&Send to Trash"
+msgctxt "@action:button"
+msgid "&Send to Trash"
+msgstr "ごみ箱に移動(&S)"
+
+# 確認ダイアログのタイトルなので短縮
+#. +> trunk6 stable6
+#: deletedialog.cpp:100
+#, fuzzy, kde-format
+#| msgid "About to delete selected files"
+msgctxt "@title:window"
+msgid "Delete Selected Files"
+msgstr "ファイルを削除しようとしています"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#. +> trunk6 stable6
+#: deletedialogbase.ui:88
+#, kde-format
+msgid "Are you sure that you want to remove these items?"
+msgstr "本当にこれらのアイテムを削除しますか？"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, ddShouldDelete)
+#. +> trunk6 stable6
+#: deletedialogbase.ui:138
+#, kde-format
+msgid ""
+"If checked, files will be permanently removed instead of being placed in the "
+"Trash Bin"
+msgstr ""
+"これをチェックすると、ごみ箱に移動するのではなく、ファイルを完全に削除しま"
+"す。"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, ddShouldDelete)
+#. +> trunk6 stable6
+#: deletedialogbase.ui:143
+#, kde-format
+msgid ""
+"<qt><p>If this box is checked, files will be <b>permanently removed</b> "
+"instead of being placed in the Trash Bin.</p>\n"
+"\n"
+"<p><em>Use this option with caution</em>: Most filesystems are unable to "
+"reliably undelete deleted files.</p></qt>"
+msgstr ""
+"<qt><p>このオプションを有効にすると、ファイルはごみ箱に移動されるのではなく、"
+"「完全に削除」されます。</p>\n"
+"\n"
+"<p>このオプションは注意して使ってください。ほとんどのファイルシステムでは、一"
+"度削除したファイルを確実に元に戻すことはできません。</p></qt>"
+
+#. i18n: ectx: property (text), widget (QCheckBox, ddShouldDelete)
+#. +> trunk6 stable6
+#: deletedialogbase.ui:146
+#, kde-format
+msgid "&Delete files instead of moving them to the trash"
+msgstr "ごみ箱に移動せずにファイルを削除する(&D)"
+
+#. +> trunk6 stable6
+#: directorylist.cpp:55
+#, fuzzy, kde-format
+#| msgid "Folder List"
+msgctxt "@title:window"
+msgid "Folder List"
+msgstr "フォルダリスト"
+
+#. i18n: ectx: property (text), widget (QLabel, informationLabel)
+#. +> trunk6 stable6
+#: directorylistbase.ui:19
+#, kde-format
+msgid "Please choose the folders where you keep your music:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QListView, directoryListView)
+#. i18n: ectx: property (toolTip), widget (QListView, excludeDirectoryListView)
+#. +> trunk6 stable6
+#: directorylistbase.ui:34 directorylistbase.ui:117
+#, kde-format
+msgid "These folders will be scanned on startup for new files."
+msgstr ""
+"これらのフォルダを起動時にスキャンして、新しく追加されたファイルがないか調べ"
+"ます。"
+
+#. i18n: ectx: property (text), widget (QPushButton, addDirectoryButton)
+#. i18n: ectx: property (text), widget (QPushButton, addExcludeDirectoryButton)
+#. +> trunk6 stable6
+#: directorylistbase.ui:64 directorylistbase.ui:147
+#, kde-format
+msgid "Add Folder..."
+msgstr "フォルダを追加..."
+
+#. i18n: ectx: property (text), widget (QPushButton, removeDirectoryButton)
+#. i18n: ectx: property (text), widget (QPushButton, removeExcludeDirectoryButton)
+#. +> trunk6 stable6
+#: directorylistbase.ui:71 directorylistbase.ui:154
+#, kde-format
+msgid "Remove Folder"
+msgstr "フォルダを削除"
+
+#. i18n: ectx: property (text), widget (QLabel, ExcludeInformationLabel)
+#. +> trunk6 stable6
+#: directorylistbase.ui:102
+#, kde-format
+msgid "Please choose the folders that should be excluded from music search:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, importPlaylistsCheckBox)
+#. +> trunk6 stable6
+#: directorylistbase.ui:183
+#, kde-format
+msgid "Import playlists"
+msgstr "プレイリストをインポート"
+
+#. +> trunk6 stable6
+#: exampleoptions.cpp:65 main.cpp:38 playermanager.cpp:381 playlist.cpp:1295
+#: systemtray.cpp:502 systemtray.cpp:513
+#, kde-format
+msgid "JuK"
+msgstr "JuK"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, ExampleOptionsBase)
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#. +> trunk6 stable6
+#: exampleoptionsbase.ui:13 filerenamerbase.ui:203
+#, kde-format
+msgid "Example"
+msgstr "例"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#. +> trunk6 stable6
+#: exampleoptionsbase.ui:37
+#, kde-format
+msgid "Example Tag Selection"
+msgstr "例タグの選択"
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_fileTagsButton)
+#. +> trunk6 stable6
+#: exampleoptionsbase.ui:58
+#, kde-format
+msgid "Get example tags from this file:"
+msgstr "このファイルから例タグを読み込む:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_manualTagsButton)
+#. +> trunk6 stable6
+#: exampleoptionsbase.ui:81
+#, kde-format
+msgid "Enter example tags manually:"
+msgstr "手動で例タグを入力:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, m_manualGroup)
+#. +> trunk6 stable6
+#: exampleoptionsbase.ui:91
+#, kde-format
+msgid "Example Tags"
+msgstr "例タグ"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#. +> trunk6 stable6
+#: exampleoptionsbase.ui:135
+#, kde-format
+msgctxt "song title"
+msgid "Title:"
+msgstr "タイトル:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#. +> trunk6 stable6
+#: exampleoptionsbase.ui:145
+#, kde-format
+msgid "Artist:"
+msgstr "アーティスト:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#. +> trunk6 stable6
+#: exampleoptionsbase.ui:155
+#, kde-format
+msgid "Album:"
+msgstr "アルバム:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#. +> trunk6 stable6
+#: exampleoptionsbase.ui:165
+#, kde-format
+msgid "Genre:"
+msgstr "ジャンル:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel5)
+#. +> trunk6 stable6
+#: exampleoptionsbase.ui:175
+#, kde-format
+msgid "Track number:"
+msgstr "トラック番号:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel6)
+#. +> trunk6 stable6
+#: exampleoptionsbase.ui:185
+#, kde-format
+msgid "Year:"
+msgstr "年:"
+
+#. i18n: ectx: property (text), widget (KLineEdit, m_exampleTitle)
+#. +> trunk6 stable6
+#: exampleoptionsbase.ui:214
+#, kde-format
+msgctxt "example song title"
+msgid "Title"
+msgstr "タイトル"
+
+#. i18n: ectx: property (text), widget (KLineEdit, m_exampleArtist)
+#. +> trunk6 stable6
+#: exampleoptionsbase.ui:221 tagrenameroptions.cpp:104
+#, kde-format
+msgid "Artist"
+msgstr "アーティスト"
+
+#. i18n: ectx: property (text), widget (KLineEdit, m_exampleAlbum)
+#. +> trunk6 stable6
+#: exampleoptionsbase.ui:228 tagrenameroptions.cpp:108
+#, kde-format
+msgid "Album"
+msgstr "アルバム"
+
+#. i18n: ectx: property (text), widget (KLineEdit, m_exampleGenre)
+#. +> trunk6 stable6
+#: exampleoptionsbase.ui:235 tagrenameroptions.cpp:116
+#, kde-format
+msgid "Genre"
+msgstr "ジャンル"
+
+#. +> trunk6 stable6
+#: filerenamer.cpp:87
+#, fuzzy, kde-format
+#| msgctxt "warning about mass file rename"
+#| msgid "Warning"
+msgctxt "@title:window, warning about mass file rename"
+msgid "Warning"
+msgstr "警告"
+
+#. +> trunk6 stable6
+#: filerenamer.cpp:98
+#, kde-format
+msgid ""
+"You are about to rename the following files. Are you sure you want to "
+"continue?"
+msgstr "以下のファイル名を変更しようとしています。本当に続けますか？"
+
+#. +> trunk6 stable6
+#: filerenamer.cpp:105
+#, kde-format
+msgid "Original Name"
+msgstr "元の名前"
+
+#. +> trunk6 stable6
+#: filerenamer.cpp:106
+#, kde-format
+msgid "New Name"
+msgstr "新しい名前"
+
+#. +> trunk6 stable6
+#: filerenamer.cpp:127
+#, kde-format
+msgid "No Change"
+msgstr "変更なし"
+
+#. +> trunk6 stable6
+#: filerenamer.cpp:409
+#, fuzzy, kde-format
+#| msgctxt "remove music genre from file renamer"
+#| msgid "Remove"
+msgctxt "@action:button, remove music genre from file renamer"
+msgid "Remove"
+msgstr "削除"
+
+#. +> trunk6 stable6
+#: filerenamer.cpp:412
+#, fuzzy, kde-format
+#| msgctxt "file renamer genre options"
+#| msgid "Options"
+msgctxt "@action:button, file renamer genre options"
+msgid "Options"
+msgstr "オプション"
+
+#. +> trunk6 stable6
+#: filerenamer.cpp:524
+#, fuzzy, kde-format
+#| msgid "Insert folder separator"
+msgctxt "@option:check"
+msgid "Insert folder separator"
+msgstr "フォルダセパレータを挿入"
+
+#. +> trunk6 stable6
+#: filerenamer.cpp:595
+#, kde-format
+msgid "No file selected, or selected file has no tags."
+msgstr "ファイルが選択されていないか、選択されたファイルにタグがありません。"
+
+#. +> trunk6 stable6
+#: filerenamer.cpp:826
+#, fuzzy, kde-format
+#| msgid "Hide Renamer Test Dialog"
+msgctxt "@action:button"
+msgid "Hide Renamer Test Dialog"
+msgstr "ファイル名変更テストダイアログを隠す"
+
+#. +> trunk6 stable6
+#: filerenamer.cpp:831
+#, fuzzy, kde-format
+#| msgid "Show Renamer Test Dialog"
+msgctxt "@action:button"
+msgid "Show Renamer Test Dialog"
+msgstr "ファイル名変更テストダイアログを表示"
+
+#. +> trunk6 stable6
+#: filerenamer.cpp:911
+#, fuzzy, kde-format
+#| msgid "%1 to %2"
+msgctxt "Rename %1 file to %2"
+msgid "%1 to %2"
+msgstr "%1 から %2 へ"
+
+#. +> trunk6 stable6
+#: filerenamer.cpp:916
+#, kde-format
+msgid "The following rename operations failed:\n"
+msgstr "以下のファイル名変更に失敗しました:\n"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, FileRenamerBase)
+#. +> trunk6 stable6
+#: filerenamerbase.ui:20
+#, kde-format
+msgid "File Renamer Configuration"
+msgstr "ファイル名変更ツールの設定"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_6)
+#. +> trunk6 stable6
+#: filerenamerbase.ui:65
+#, kde-format
+msgid "Music folder:"
+msgstr "音楽フォルダ:"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, m_category)
+#. +> trunk6 stable6
+#: filerenamerbase.ui:90
+#, kde-format
+msgid "Album Tag"
+msgstr "アルバムタグ"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, m_category)
+#. +> trunk6 stable6
+#: filerenamerbase.ui:95
+#, kde-format
+msgid "Artist Tag"
+msgstr "アーティストタグ"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, m_category)
+#. +> trunk6 stable6
+#: filerenamerbase.ui:100
+#, kde-format
+msgid "Genre Tag"
+msgstr "ジャンルタグ"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, m_category)
+#. +> trunk6 stable6
+#: filerenamerbase.ui:105
+#, kde-format
+msgid "Title Tag"
+msgstr "タイトルタグ"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, m_category)
+#. +> trunk6 stable6
+#: filerenamerbase.ui:110
+#, kde-format
+msgid "Track Tag"
+msgstr "トラックタグ"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, m_category)
+#. +> trunk6 stable6
+#: filerenamerbase.ui:115
+#, kde-format
+msgid "Year Tag"
+msgstr "年タグ"
+
+#. i18n: ectx: property (text), widget (QPushButton, m_insertCategory)
+#. +> trunk6 stable6
+#: filerenamerbase.ui:123
+#, kde-format
+msgid "Insert Category"
+msgstr "カテゴリを挿入"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#. +> trunk6 stable6
+#: filerenamerbase.ui:135
+#, fuzzy, kde-format
+#| msgid "Add category:"
+msgid "&Add category:"
+msgstr "追加するカテゴリ:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_7)
+#. +> trunk6 stable6
+#: filerenamerbase.ui:145
+#, kde-format
+msgid "Separator:"
+msgstr "セパレータ:"
+
+#. i18n: ectx: property (text), widget (QPushButton, m_showExample)
+#. +> trunk6 stable6
+#: filerenamerbase.ui:257
+#, kde-format
+msgid "Show Renamer Test Dialog"
+msgstr "ファイル名変更テストダイアログを表示"
+
+#. +> trunk6 stable6
+#: filerenamerconfigdlg.cpp:29
+#, fuzzy, kde-format
+#| msgid "File Renamer Options"
+msgctxt "@title:window"
+msgid "File Renamer Options"
+msgstr "ファイル名変更オプション"
+
+#. +> trunk6 stable6
+#: filerenameroptions.cpp:38
+#, fuzzy, kde-format
+#| msgctxt "%1 will be a music tag category like Artist or Album"
+#| msgid "%1 Options"
+msgctxt "@title:window, %1 will be a music tag category like Artist or Album"
+msgid "%1 Options"
+msgstr "「%1」のオプション"
+
+#. +> trunk6 stable6
+#: filerenameroptions.cpp:39
+#, fuzzy, kde-format
+#| msgid "%1 Format"
+msgctxt "@title:group, %1 is a tag"
+msgid "%1 Format"
+msgstr "「%1」のフォーマット"
+
+#. +> trunk6 stable6
+#: filerenameroptions.cpp:40
+#, fuzzy, kde-format
+#| msgid "When the Track's %1 is Empty"
+msgctxt "@title:group"
+msgid "When the Track’s %1 is Empty"
+msgstr "トラックの「%1」が空の場合"
+
+#. +> trunk6 stable6
+#: filerenameroptions.cpp:41
+#, fuzzy, kde-format
+#| msgid ""
+#| "When using the file renamer your files will be renamed to the values that "
+#| "you have in your track's %1 tag, plus any additional text that you "
+#| "specify below."
+msgid ""
+"When using the file renamer your files will be renamed to the values that "
+"you have in your track’s %1 tag, plus any additional text that you specify "
+"below."
+msgstr ""
+"「ファイル名を変更」は、トラックの「%1」タグにある値と、以下に指定されたテキ"
+"ストを含むようにファイル名を変更します。"
+
+#. +> trunk6 stable6
+#: filerenameroptions.cpp:114
+#, fuzzy, kde-format
+#| msgid "File Renamer"
+msgctxt "@title:window"
+msgid "File Renamer"
+msgstr "ファイル名変更ツール"
+
+#. i18n: ectx: property (text), widget (QLabel, m_substitution)
+#. +> trunk6 stable6
+#: filerenameroptionsbase.ui:115
+#, kde-format
+msgid "Substitution Example"
+msgstr "置換例"
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_includeEmptyButton)
+#. +> trunk6 stable6
+#: filerenameroptionsbase.ui:137
+#, kde-format
+msgid "Include in the &filename anyways"
+msgstr "ファイル名に含める(&F)"
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_ignoreTagButton)
+#. +> trunk6 stable6
+#: filerenameroptionsbase.ui:144
+#, kde-format
+msgid "&Ignore this tag when renaming the file"
+msgstr "このタグを無視する(&I)"
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_useValueButton)
+#. +> trunk6 stable6
+#: filerenameroptionsbase.ui:162
+#, kde-format
+msgid "Use &this value:"
+msgstr "次の値を使う(&T):"
+
+#. i18n: ectx: property (text), widget (KLineEdit, m_emptyTagValue)
+#. +> trunk6 stable6
+#: filerenameroptionsbase.ui:172
+#, kde-format
+msgctxt "value to use in replacement when source tag empty"
+msgid "Empty"
+msgstr "空"
+
+#. i18n: ectx: property (title), widget (QGroupBox, m_trackGroup)
+#. +> trunk6 stable6
+#: filerenameroptionsbase.ui:184
+#, kde-format
+msgid "Track numbering"
+msgstr "トラックの番号付け"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel10)
+#. +> trunk6 stable6
+#: filerenameroptionsbase.ui:196
+#, fuzzy, kde-format
+#| msgid ""
+#| "JuK can force the track used in a file name to have a minimum number of "
+#| "digits.  You may want to do this for better sorting in file managers."
+msgid ""
+"JuK can force the track used in a file name to have a minimum number of "
+"digits. You may want to do this for better sorting in file managers."
+msgstr ""
+"Juk は、ファイル名に含まれるトラック番号に最小桁数を強制することができます。"
+"これによって、ファイルマネージャでファイルをトラック番号順にソートできるよう"
+"になります。"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel5)
+#. +> trunk6 stable6
+#: filerenameroptionsbase.ui:228
+#, kde-format
+msgid "Minimum number of digits:"
+msgstr "最小桁数:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_doubleDigitExample)
+#. +> trunk6 stable6
+#: filerenameroptionsbase.ui:266
+#, kde-format
+msgid "014"
+msgstr "014"
+
+#. i18n: ectx: property (text), widget (QLabel, m_singleDigitExample)
+#. +> trunk6 stable6
+#: filerenameroptionsbase.ui:284
+#, kde-format
+msgid "003"
+msgstr "003"
+
+#. i18n: ectx: property (text), widget (QLabel, m_singleDigit)
+#. +> trunk6 stable6
+#: filerenameroptionsbase.ui:291
+#, kde-format
+msgid "3 ->"
+msgstr "3 ->"
+
+#. i18n: ectx: property (text), widget (QLabel, m_doubleDigit)
+#. +> trunk6 stable6
+#: filerenameroptionsbase.ui:301
+#, kde-format
+msgid "14 ->"
+msgstr "14 ->"
+
+#. +> trunk6 stable6
+#: historyplaylist.cpp:42
+#, kde-format
+msgid "Time"
+msgstr "時間"
+
+#. +> trunk6 stable6
+#: juk.cpp:239 systemtray.cpp:184
+#, fuzzy, kde-format
+#| msgid "&Random Play"
+msgctxt "@action:inmenu"
+msgid "&Random Play"
+msgstr "ランダム再生(&R)"
+
+#. +> trunk6 stable6
+#: juk.cpp:246
+#, fuzzy, kde-format
+#| msgid "&Disable Random Play"
+msgctxt "@action:inmenu"
+msgid "&Disable Random Play"
+msgstr "ランダム再生を無効にする(&D)"
+
+#. +> trunk6 stable6
+#: juk.cpp:252
+#, fuzzy, kde-format
+#| msgid "Use &Random Play"
+msgctxt "@action:inmenu"
+msgid "Use &Random Play"
+msgstr "ランダム再生を有効にする(&R)"
+
+#. +> trunk6 stable6
+#: juk.cpp:258
+#, fuzzy, kde-format
+#| msgid "Use &Album Random Play"
+msgctxt "@action:inmenu"
+msgid "Use &Album Random Play"
+msgstr "アルバムをランダム再生(&A)"
+
+#. +> trunk6 stable6
+#: juk.cpp:266
+#, fuzzy, kde-format
+#| msgid "Remove From Playlist"
+msgctxt "@action:inmenu"
+msgid "Remove From Playlist"
+msgstr "プレイリストから削除"
+
+#. +> trunk6 stable6
+#: juk.cpp:270
+#, fuzzy, kde-format
+#| msgid "&Play"
+msgctxt "@action:inmenu"
+msgid "&Play"
+msgstr "再生(&P)"
+
+#. +> trunk6 stable6
+#: juk.cpp:275
+#, fuzzy, kde-format
+#| msgid "P&ause"
+msgctxt "@action:inmenu"
+msgid "P&ause"
+msgstr "一時停止(&A)"
+
+#. +> trunk6 stable6
+#: juk.cpp:280
+#, fuzzy, kde-format
+#| msgid "&Stop"
+msgctxt "@action:inmenu"
+msgid "&Stop"
+msgstr "停止(&S)"
+
+#. +> trunk6 stable6
+#: juk.cpp:283
+#, fuzzy, kde-format
+#| msgctxt "previous track"
+#| msgid "Previous"
+msgctxt "@action:inmenu, previous track"
+msgid "Previous"
+msgstr "前のトラック(&V)|/|$[~setProps ~label '前へ']"
+
+#. +> trunk6 stable6
+#: juk.cpp:290
+#, fuzzy, kde-format
+#| msgctxt "next track"
+#| msgid "&Next"
+msgctxt "@action:inmenu, next track"
+msgid "&Next"
+msgstr "次のトラック(&N)|/|$[~setProps ~label '次へ']"
+
+#. +> trunk6 stable6
+#: juk.cpp:294
+#, fuzzy, kde-format
+#| msgid "&Loop Playlist"
+msgctxt "@action:inmenu"
+msgid "&Loop Playlist"
+msgstr "プレイリストを繰り返し再生(&L)"
+
+#. +> trunk6 stable6
+#: juk.cpp:298
+#, fuzzy, kde-format
+#| msgid "&Resize Playlist Columns Manually"
+msgctxt "@action:inmenu"
+msgid "&Resize Playlist Columns Manually"
+msgstr "プレイリストのカラム幅を手動調整(&R)"
+
+#. +> trunk6 stable6
+#: juk.cpp:303
+#, fuzzy, kde-format
+#| msgctxt "silence playback"
+#| msgid "Mute"
+msgctxt "@action:inmenu, silence playback"
+msgid "Mute"
+msgstr "ミュート"
+
+#. +> trunk6 stable6
+#: juk.cpp:307
+#, fuzzy, kde-format
+#| msgid "Volume Up"
+msgctxt "@action:inmenu"
+msgid "Volume Up"
+msgstr "音量を上げる"
+
+#. +> trunk6 stable6
+#: juk.cpp:311
+#, fuzzy, kde-format
+#| msgid "Volume Down"
+msgctxt "@action:inmenu"
+msgid "Volume Down"
+msgstr "音量を下げる"
+
+#. +> trunk6 stable6
+#: juk.cpp:315
+#, fuzzy, kde-format
+#| msgid "Play / Pause"
+msgctxt "@action:inmenu"
+msgid "Play / Pause"
+msgstr "再生/一時停止"
+
+#. +> trunk6 stable6
+#: juk.cpp:319
+#, fuzzy, kde-format
+#| msgid "Seek Forward"
+msgctxt "@action:inmenu"
+msgid "Seek Forward"
+msgstr "前方シーク"
+
+#. +> trunk6 stable6
+#: juk.cpp:323
+#, fuzzy, kde-format
+#| msgid "Seek Back"
+msgctxt "@action:inmenu"
+msgid "Seek Back"
+msgstr "後方シーク"
+
+#. +> trunk6 stable6
+#: juk.cpp:327
+#, fuzzy, kde-format
+#| msgid "Show / Hide"
+msgctxt "@action:inmenu"
+msgid "Show / Hide"
+msgstr "表示/隠す"
+
+#. +> trunk6 stable6
+#: juk.cpp:334
+#, fuzzy, kde-format
+#| msgid "&Dock in System Tray"
+msgctxt "@action:inmenu"
+msgid "&Dock in System Tray"
+msgstr "システムトレイにアイコンを表示(&D)"
+
+#. +> trunk6 stable6
+#: juk.cpp:338
+#, fuzzy, kde-format
+#| msgid "&Stay in System Tray on Close"
+msgctxt "@action:inmenu"
+msgid "&Stay in System Tray on Close"
+msgstr "閉じた後もシステムトレイに常駐(&S)"
+
+#. +> trunk6 stable6
+#: juk.cpp:341
+#, fuzzy, kde-format
+#| msgid "Popup &Track Announcement"
+msgctxt "@action:inmenu"
+msgid "Popup &Track Announcement"
+msgstr "トラック通知をポップアップ表示(&U)"
+
+#. +> trunk6 stable6
+#: juk.cpp:344
+#, fuzzy, kde-format
+#| msgid "Save &Play Queue on Exit"
+msgctxt "@action:inmenu"
+msgid "Save &Play Queue on Exit"
+msgstr "終了時にプレイリストを保存(&P)"
+
+#. +> trunk6 stable6
+#: juk.cpp:347
+#, fuzzy, kde-format
+#| msgid "&Tag Guesser..."
+msgctxt "@action:inmenu"
+msgid "&Tag Guesser…"
+msgstr "タグ推測ツール(&T)..."
+
+#. +> trunk6 stable6
+#: juk.cpp:350
+#, fuzzy, kde-format
+#| msgid "File Renamer"
+msgctxt "@action:inmenu"
+msgid "&File Renamer…"
+msgstr "ファイル名変更ツール"
+
+#. +> trunk6 stable6
+#: juk.cpp:353
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "&Configure Scrobbling…"
+msgstr ""
+
+#. +> trunk6 stable6
+#: juk.cpp:360
+#, fuzzy, kde-format
+#| msgid "Track Position"
+msgctxt "@action:button"
+msgid "Track Position"
+msgstr "トラックの再生位置"
+
+#. +> trunk6 stable6
+#: juk.cpp:362
+#, fuzzy, kde-format
+#| msgid "Volume"
+msgctxt "@action:button"
+msgid "Volume"
+msgstr "音量"
+
+#. +> trunk6 stable6
+#: juk.cpp:512
+#, kde-format
+msgid ""
+"<qt>Closing the main window will keep JuK running in the system tray. Use "
+"Quit from the File menu to quit the application.</qt>"
+msgstr ""
+"<qt>メインウィンドウを閉じても Juk はシステムトレイで実行し続けます。アプリ"
+"ケーションを終了するには「ファイル」メニューから「終了」を選択してください。"
+"</qt>"
+
+#. +> trunk6 stable6
+#: juk.cpp:514
+#, fuzzy, kde-format
+#| msgid "&Dock in System Tray"
+msgctxt "@title:window"
+msgid "Dock in System Tray"
+msgstr "システムトレイにアイコンを表示(&D)"
+
+#. +> trunk6 stable6
+#: juktag.cpp:90
+#, fuzzy, kde-format
+#| msgctxt "a playing track, %1 is artist, %2 is song title"
+#| msgid "%1 - <i>%2</i>"
+msgctxt "a playing track, %1 is artist, %2 is song title"
+msgid "%1 — <i>%2</i>"
+msgstr "%1 - %2"
+
+#. i18n: ectx: Menu (file)
+#. +> trunk6 stable6
+#: jukui-rtl.rc:4 jukui.rc:6
+#, kde-format
+msgid "&File"
+msgstr "ファイル(&F)"
+
+#. i18n: ectx: Menu (view)
+#. +> trunk6 stable6
+#: jukui-rtl.rc:26 jukui.rc:28
+#, kde-format
+msgid "&View"
+msgstr "表示(&V)"
+
+#. i18n: ectx: Menu (player)
+#. +> trunk6 stable6
+#: jukui-rtl.rc:39 jukui.rc:41
+#, kde-format
+msgid "&Player"
+msgstr "プレーヤー(&P)"
+
+#. i18n: ectx: Menu (playlist)
+#. +> trunk6 stable6
+#: jukui-rtl.rc:56 jukui.rc:58
+#, kde-format
+msgid "&Tagger"
+msgstr "タグツール(&T)"
+
+#. i18n: ectx: Menu (settings)
+#. +> trunk6 stable6
+#: jukui-rtl.rc:66 jukui.rc:68
+#, kde-format
+msgid "&Settings"
+msgstr "設定(&S)"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#. +> trunk6 stable6
+#: jukui-rtl.rc:79 jukui.rc:81
+#, kde-format
+msgid "Main Toolbar"
+msgstr "メインツールバー"
+
+#. i18n: ectx: ToolBar (playToolBar)
+#. +> trunk6 stable6
+#: jukui-rtl.rc:97 jukui.rc:99
+#, kde-format
+msgid "Play Toolbar"
+msgstr "再生ツールバー"
+
+#. +> trunk6 stable6
+#: keydialog.cpp:102
+#, fuzzy, kde-format
+#| msgid "Configure Shortcuts"
+msgctxt "@title:window"
+msgid "Configure Shortcuts"
+msgstr "ショートカットを設定"
+
+#. +> trunk6 stable6
+#: keydialog.cpp:118
+#, fuzzy, kde-format
+#| msgid "Global Shortcuts"
+msgctxt "@title:group"
+msgid "Global Shortcuts"
+msgstr "グローバルショートカット"
+
+#. +> trunk6 stable6
+#: keydialog.cpp:124
+#, fuzzy, kde-format
+#| msgid "&No keys"
+msgctxt "@option:radio"
+msgid "&No keys"
+msgstr "キーなし(&N)"
+
+#. +> trunk6 stable6
+#: keydialog.cpp:128
+#, fuzzy, kde-format
+#| msgid "&Standard keys"
+msgctxt "@option:radio"
+msgid "&Standard keys"
+msgstr "標準キー(&S)"
+
+#. +> trunk6 stable6
+#: keydialog.cpp:132
+#, fuzzy, kde-format
+#| msgid "&Multimedia keys"
+msgctxt "@option:radio"
+msgid "&Multimedia keys"
+msgstr "マルチメディアキー(&M)"
+
+#. +> trunk6 stable6
+#: keydialog.cpp:138
+#, fuzzy, kde-format
+#| msgid ""
+#| "Here you can select the keys used as global shortcuts to control the "
+#| "player"
+msgctxt "@info:whatsthis"
+msgid ""
+"Here you can select the keys used as global shortcuts to control the player"
+msgstr ""
+"プレーヤーをコントロールするためにグローバルショートカットとして使うキーを選"
+"択できます。"
+
+#. +> trunk6 stable6
+#: lyricswidget.cpp:51
+#, fuzzy, kde-format
+#| msgid "Show &History"
+msgid "Show &Lyrics"
+msgstr "履歴を表示(&H)"
+
+#. +> trunk6 stable6
+#: lyricswidget.cpp:78
+#, kde-format
+msgid "<i>No file playing.</i>"
+msgstr ""
+
+#. +> trunk6 stable6
+#: lyricswidget.cpp:83
+#, kde-format
+msgid "<i>Loading...</i>"
+msgstr ""
+
+#. +> trunk6 stable6
+#: lyricswidget.cpp:88
+#, kde-format
+msgid ""
+"<i>Lyrics are currently unavailable for %1 (no available lyrics provider)</i>"
+msgstr ""
+
+#. +> trunk6 stable6
+#: lyricswidget.cpp:129 lyricswidget.cpp:158
+#, kde-format
+msgid "<span style='color:red'>Error while retrieving lyrics!</span>"
+msgstr ""
+
+#. +> trunk6 stable6
+#: lyricswidget.cpp:174
+#, kde-format
+msgid "No lyrics available."
+msgstr ""
+
+#. +> trunk6 stable6
+#: lyricswidget.cpp:183
+#, kde-format
+msgid "<br /><br /><i>Lyrics provided by <a href='%1'>LyricWiki</a></i>"
+msgstr ""
+
+#. +> trunk6 stable6
+#: main.cpp:39
+#, fuzzy, kde-format
+#| msgid "Jukebox and music manager for KDE"
+msgid "Jukebox and music manager by the KDE community"
+msgstr "KDE のジュークボックス/ミュージックマネージャ"
+
+#. +> trunk6 stable6
+#: main.cpp:40
+#, fuzzy, kde-format
+#| msgid "© 2002 - 2011, Scott Wheeler"
+msgctxt "Use copyright sign, and en dash for the year range"
+msgid "© 2002–2025, Scott Wheeler, Michael Pyne, and others"
+msgstr "© 2002 - 2011, Scott Wheeler"
+
+#. +> trunk6 stable6
+#: main.cpp:44
+#, kde-format
+msgid "Scott Wheeler"
+msgstr "Scott Wheeler"
+
+#. +> trunk6 stable6
+#: main.cpp:44
+#, kde-format
+msgid "Author, chief dork and keeper of the funk"
+msgstr "作者、最高の大ばか者、そしてファンキーな奴"
+
+#. +> trunk6 stable6
+#: main.cpp:45
+#, kde-format
+msgid "Michael Pyne"
+msgstr "Michael Pyne"
+
+#. +> trunk6 stable6
+#: main.cpp:45
+#, fuzzy, kde-format
+#| msgid "Assistant super-hero, fixer of many things"
+msgid "Assistant superhero, fixer of many things"
+msgstr "アシスタントスーパーヒーロー、数多くの修正"
+
+#. +> trunk6 stable6
+#: main.cpp:46
+#, kde-format
+msgid "Carl Schwan"
+msgstr ""
+
+#. +> trunk6 stable6
+#: main.cpp:46
+#, fuzzy, kde-format
+#| msgid "Porting to KDE 4 when no one else was around"
+msgid "Porting to KDE Frameworks 6 when no one else was around"
+msgstr "周りに助けてくれる人が誰もいないときに KDE 4 へ移植してくれました"
+
+#. +> trunk6 stable6
+#: main.cpp:47
+#, kde-format
+msgid "Kacper Kasper"
+msgstr ""
+
+#. +> trunk6 stable6
+#: main.cpp:47
+#, fuzzy, kde-format
+#| msgid "Porting to KDE 4 when no one else was around"
+msgid "Porting to KDE Frameworks 5 when no one else was around"
+msgstr "周りに助けてくれる人が誰もいないときに KDE 4 へ移植してくれました"
+
+#. +> trunk6 stable6
+#: main.cpp:48
+#, kde-format
+msgid "Eike Hein"
+msgstr ""
+
+#. +> trunk6 stable6
+#: main.cpp:48
+#, kde-format
+msgid "MPRIS2 Interface implementation."
+msgstr ""
+
+#. +> trunk6 stable6
+#: main.cpp:49
+#, kde-format
+msgid "Martin Sandsmark"
+msgstr ""
+
+#. +> trunk6 stable6
+#: main.cpp:49
+#, kde-format
+msgid "Last.fm scrobbling support, lyrics, prepping for KDE Frameworks 5."
+msgstr ""
+
+#. +> trunk6 stable6
+#: main.cpp:50
+#, kde-format
+msgid "Γιώργος Κυλάφας (Giorgos Kylafas)"
+msgstr "Γιώργος Κυλάφας (Giorgos Kylafas)"
+
+#. +> trunk6 stable6
+#: main.cpp:50
+#, kde-format
+msgid "Badly-needed tag editor bugfixes."
+msgstr ""
+
+#. +> trunk6 stable6
+#: main.cpp:51
+#, kde-format
+msgid "Georg Grabler"
+msgstr "Georg Grabler"
+
+#. +> trunk6 stable6
+#: main.cpp:51
+#, kde-format
+msgid "More KDE Platform 4 porting efforts"
+msgstr ""
+
+#. +> trunk6 stable6
+#: main.cpp:52
+#, kde-format
+msgid "Laurent Montel"
+msgstr "Laurent Montel"
+
+#. +> trunk6 stable6
+#: main.cpp:52
+#, fuzzy, kde-format
+#| msgid "Porting to KDE 4 when no one else was around"
+msgid "Porting to KDE Platform 4 when no one else was around"
+msgstr "周りに助けてくれる人が誰もいないときに KDE 4 へ移植してくれました"
+
+#. +> trunk6 stable6
+#: main.cpp:53
+#, kde-format
+msgid "Nathan Toone"
+msgstr "Nathan Toone"
+
+#. +> trunk6 stable6
+#: main.cpp:53
+#, kde-format
+msgid "Album cover manager"
+msgstr "アルバムカバーマネージャ"
+
+#. +> trunk6 stable6
+#: main.cpp:54
+#, kde-format
+msgid "Matthias Kretz"
+msgstr "Matthias Kretz"
+
+#. +> trunk6 stable6
+#: main.cpp:54
+#, kde-format
+msgid "Friendly, neighborhood aRts guru"
+msgstr "友好的な、近所の aRts の権威"
+
+#. +> trunk6 stable6
+#: main.cpp:55
+#, kde-format
+msgid "Daniel Molkentin"
+msgstr "Daniel Molkentin"
+
+#. +> trunk6 stable6
+#: main.cpp:55
+#, kde-format
+msgid ""
+"System tray docking, \"inline\" tag editing,\n"
+"bug fixes, evangelism, moral support"
+msgstr ""
+"システムトレイのドッキング、タグのインライン編集、\n"
+"バグの修正、福音伝道主義、モラルのサポート"
+
+#. +> trunk6 stable6
+#: main.cpp:56
+#, kde-format
+msgid "Tim Jansen"
+msgstr "Tim Jansen"
+
+#. +> trunk6 stable6
+#: main.cpp:56
+#, kde-format
+msgid "GStreamer port"
+msgstr "GStreamer の移植"
+
+#. +> trunk6 stable6
+#: main.cpp:57
+#, kde-format
+msgid "Stefan Asserhäll"
+msgstr "Stefan Asserhäll"
+
+#. +> trunk6 stable6
+#: main.cpp:57
+#, kde-format
+msgid "Global keybindings support"
+msgstr "グローバルショートカットのサポート"
+
+#. +> trunk6 stable6
+#: main.cpp:58
+#, kde-format
+msgid "Stephen Douglas"
+msgstr "Stephen Douglas"
+
+#. +> trunk6 stable6
+#: main.cpp:58
+#, kde-format
+msgid "Track announcement popups"
+msgstr "トラック通知のポップアップ"
+
+#. +> trunk6 stable6
+#: main.cpp:59
+#, kde-format
+msgid "Frerich Raabe"
+msgstr "Frerich Raabe"
+
+#. +> trunk6 stable6
+#: main.cpp:59
+#, kde-format
+msgid "Automagic track data guessing, bugfixes"
+msgstr "トラックの日付を自動的に推測、バグ修正"
+
+#. +> trunk6 stable6
+#: main.cpp:60
+#, kde-format
+msgid "Zack Rusin"
+msgstr "Zack Rusin"
+
+#. +> trunk6 stable6
+#: main.cpp:60
+#, kde-format
+msgid "More automagical things, now using MusicBrainz"
+msgstr "もっと自動的なもの、現在は MusicBrainz を利用"
+
+#. +> trunk6 stable6
+#: main.cpp:61
+#, kde-format
+msgid "Adam Treat"
+msgstr "Adam Treat"
+
+#. +> trunk6 stable6
+#: main.cpp:61
+#, kde-format
+msgid "Co-conspirator in MusicBrainz wizardry"
+msgstr "MusicBrainz のすぐれた技術の謀議仲間"
+
+#. +> trunk6 stable6
+#: main.cpp:62
+#, kde-format
+msgid "Maks Orlovich"
+msgstr "Maks Orlovich"
+
+#. +> trunk6 stable6
+#: main.cpp:62
+#, fuzzy, kde-format
+#| msgid ""
+#| "Making JuK friendlier to people with\n"
+#| "terabytes of music"
+msgid "Making JuK friendlier to people with terabytes of music"
+msgstr ""
+"テラバイトの音楽を持っている人々のために\n"
+"JuK をより使いやすく改良"
+
+#. +> trunk6 stable6
+#: main.cpp:63
+#, kde-format
+msgid "Antonio Larrosa Jimenez"
+msgstr "Antonio Larrosa Jimenez"
+
+#. +> trunk6 stable6
+#: main.cpp:63
+#, kde-format
+msgid "DCOP interface"
+msgstr "DCOP インターフェース"
+
+#. +> trunk6 stable6
+#: main.cpp:64
+#, kde-format
+msgid "Allan Sandfeld Jensen"
+msgstr "Allan Sandfeld Jensen"
+
+#. +> trunk6 stable6
+#: main.cpp:64
+#, kde-format
+msgid "FLAC and MPC support"
+msgstr "FLAC/MPC サポート"
+
+#. +> trunk6 stable6
+#: main.cpp:65
+#, kde-format
+msgid "Pascal Klein"
+msgstr "Pascal Klein"
+
+#. +> trunk6 stable6
+#: main.cpp:65
+#, kde-format
+msgid "Gimper of splash screen"
+msgstr "スプラッシュスクリーンの作者"
+
+#. +> trunk6 stable6
+#: main.cpp:70
+#, kde-format
+msgid "File(s) to open"
+msgstr "開くファイル"
+
+#. +> trunk6 stable6
+#: main.cpp:87
+#, kde-format
+msgid ""
+"JuK running in docked mode\n"
+"Use context menu in system tray to restore."
+msgstr ""
+
+#. +> trunk6 stable6
+#: main.cpp:88
+#, kde-format
+msgid "JuK Docked"
+msgstr ""
+
+#. +> trunk6 stable6
+#: mediafiles.cpp:134
+#, fuzzy, kde-format
+#| msgctxt "open audio file"
+#| msgid "Open"
+msgctxt "@title:window, open audio file"
+msgid "Open"
+msgstr "開く"
+
+#. +> trunk6 stable6
+#: mediafiles.cpp:146
+#, fuzzy, kde-format
+#| msgid "Search Playlist"
+msgctxt "@title:window"
+msgid "Save Playlist %1"
+msgstr "検索プレイリスト"
+
+#. +> trunk6 stable6
+#: mediafiles.cpp:148
+#, fuzzy, kde-format
+#| msgid "Playlists"
+msgctxt "For save dialog, %1 is always .m3u"
+msgid "Playlists (*%1)"
+msgstr "プレイリスト"
+
+#. +> trunk6 stable6
+#: nowplaying.cpp:320
+#, kde-format
+msgid "back to playlist"
+msgstr "プレイリストへ戻る"
+
+#. +> trunk6 stable6
+#: playermanager.cpp:56
+#, fuzzy, kde-format
+#| msgctxt "a playing track, %1 is artist, %2 is song title"
+#| msgid "%1 - %2"
+msgctxt "%1 is the artist and %2 is the title of the currently playing track."
+msgid "%1 - %2 :: JuK"
+msgstr "%1 - %2"
+
+#. +> trunk6 stable6
+#: playermanager.cpp:363
+#, fuzzy, kde-format
+#| msgctxt ""
+#| "%1 will be the /path/to/file, %2 will be some string from Phonon "
+#| "describing the error"
+#| msgid ""
+#| "JuK is unable to play the audio file<nl/><filename>%1</filename><nl/>for "
+#| "the following reason:<nl/><message>%2</message>"
+msgctxt ""
+"%1 will be the /path/to/file, %2 will be some string from QtMultimedia "
+"describing the error"
+msgid ""
+"JuK is unable to play the audio file<nl/><filename>%1</filename><nl/>for the "
+"following reason:<nl/><message>%2</message>"
+msgstr ""
+"JuK はこの音声ファイルを再生できません。<nl/><filename>%1</filename><nl/>理"
+"由: <message>%2</message>"
+
+#. +> trunk6 stable6
+#: playlist.cpp:338
+#, kde-format
+msgid "Could not save to file %1."
+msgstr "ファイル ‘%1’ に保存できませんでした。"
+
+#. +> trunk6 stable6
+#: playlist.cpp:575
+#, fuzzy, kde-format
+#| msgid ""
+#| "You are about to rename the following files. Are you sure you want to "
+#| "continue?"
+msgid "You are about to open directory. Are you sure you want to continue?"
+msgid_plural ""
+"You are about to open %1 directories. Are you sure you want to continue?"
+msgstr[0] "以下のファイル名を変更しようとしています。本当に続けますか？"
+
+#. +> trunk6 stable6
+#: playlist.cpp:578
+#, kde-format
+msgctxt "@title:window"
+msgid "Open Containing Folder"
+msgstr ""
+
+#. +> trunk6 stable6
+#: playlist.cpp:802
+#, kde-format
+msgid "Could not delete these files"
+msgstr "これらのファイルを削除できませんでした。"
+
+#. +> trunk6 stable6
+#: playlist.cpp:803
+#, kde-format
+msgid "Could not move these files to the Trash"
+msgstr "これらのファイルをごみ箱に移動できませんでした。"
+
+#. +> trunk6 stable6
+#: playlist.cpp:1280
+#, fuzzy, kde-format
+#| msgid "Track Name"
+msgctxt "@title:column"
+msgid "Track Name"
+msgstr "トラック名"
+
+#. +> trunk6 stable6
+#: playlist.cpp:1281
+#, fuzzy, kde-format
+#| msgid "Artist"
+msgctxt "@title:column"
+msgid "Artist"
+msgstr "アーティスト"
+
+#. +> trunk6 stable6
+#: playlist.cpp:1282
+#, fuzzy, kde-format
+#| msgid "Album"
+msgctxt "@title:column"
+msgid "Album"
+msgstr "アルバム"
+
+#. +> trunk6 stable6
+#: playlist.cpp:1283
+#, fuzzy, kde-format
+#| msgctxt "cd track number"
+#| msgid "Track"
+msgctxt "@title:column, CD track number"
+msgid "Track"
+msgstr "トラック番号"
+
+#. +> trunk6 stable6
+#: playlist.cpp:1284
+#, fuzzy, kde-format
+#| msgid "Genre"
+msgctxt "@title:column"
+msgid "Genre"
+msgstr "ジャンル"
+
+#. +> trunk6 stable6
+#: playlist.cpp:1285
+#, fuzzy, kde-format
+#| msgid "Year"
+msgctxt "@title:column"
+msgid "Year"
+msgstr "年"
+
+#. +> trunk6 stable6
+#: playlist.cpp:1286
+#, fuzzy, kde-format
+#| msgid "Length"
+msgctxt "@title:column"
+msgid "Length"
+msgstr "長さ"
+
+#. +> trunk6 stable6
+#: playlist.cpp:1287
+#, fuzzy, kde-format
+#| msgid "Bitrate"
+msgctxt "@title:column"
+msgid "Bitrate"
+msgstr "ビットレート"
+
+#. +> trunk6 stable6
+#: playlist.cpp:1288
+#, fuzzy, kde-format
+#| msgid "Comment"
+msgctxt "@title:column"
+msgid "Comment"
+msgstr "コメント"
+
+#. +> trunk6 stable6
+#: playlist.cpp:1289
+#, fuzzy, kde-format
+#| msgid "File Name"
+msgctxt "@title:column"
+msgid "File Name"
+msgstr "ファイル名"
+
+#. +> trunk6 stable6
+#: playlist.cpp:1290
+#, fuzzy, kde-format
+#| msgid "File Name (full path)"
+msgctxt "@title:column"
+msgid "File Name (Full Path)"
+msgstr "ファイル名 (フルパス)"
+
+#. +> trunk6 stable6
+#: playlist.cpp:1471
+#, fuzzy, kde-format
+#| msgid "&Show Columns"
+msgctxt "@action:inmenu"
+msgid "&Show Columns"
+msgstr "表示するカラム(&S)"
+
+#. +> trunk6 stable6
+#: playlist.cpp:1579
+#, fuzzy, kde-format
+#| msgid "Add to Play Queue"
+msgctxt "@action:inmenu"
+msgid "Add to Play Queue"
+msgstr "再生キューに追加"
+
+#. +> trunk6 stable6
+#: playlist.cpp:1593
+#, fuzzy, kde-format
+#| msgid "Edit"
+msgctxt "@action:inmenu"
+msgid "Edit"
+msgstr "編集"
+
+#. +> trunk6 stable6
+#: playlist.cpp:1607
+#, fuzzy, kde-format
+#| msgid "Create Playlist From Selected Items..."
+msgctxt "@action:inmenu"
+msgid "Create Playlist From Selected Items…"
+msgstr "選択したアイテムからプレイリストを作成..."
+
+#. +> trunk6 stable6
+#: playlist.cpp:1973
+#, fuzzy, kde-format
+#| msgid "Edit '%1'"
+msgctxt "@action:inmenu"
+msgid "Edit “%1”"
+msgstr "「%1」を編集"
+
+#. +> trunk6 stable6
+#: playlist.cpp:2050
+#, kde-format
+msgid "This will edit multiple files. Are you sure?"
+msgstr "この操作は複数のファイルを編集します。よろしいですか？"
+
+#. +> trunk6 stable6
+#: playlist.cpp:2052
+#, kde-format
+msgid "Edit"
+msgstr "編集"
+
+#. +> trunk6 stable6
+#: playlist.cpp:2109
+#, fuzzy, kde-format
+#| msgid "Create New Playlist"
+msgctxt "@action:inmenu"
+msgid "Create New Playlist"
+msgstr "新しいプレイリストを作成"
+
+#. +> trunk6 stable6
+#: playlist.cpp:2118
+#, fuzzy, kde-format
+#| msgid ""
+#| "Manual column widths have been enabled.  You can switch back to automatic "
+#| "column sizes in the view menu."
+msgid ""
+"Manual column widths have been enabled. You can switch back to automatic "
+"column sizes in the view menu."
+msgstr ""
+"列幅の手動調整が有効になりました。自動調整に戻すには、「表示」メニューから"
+"「プレイリストの列幅を自動調整」を選択してください。"
+
+#. +> trunk6 stable6
+#: playlist.cpp:2121
+#, fuzzy, kde-format
+#| msgid "Manual Column Widths Enabled"
+msgctxt "@title:window"
+msgid "Manual Column Widths Enabled"
+msgstr "カラム幅の手動調整が有効"
+
+# ACCELERATOR added by translator
+#. +> trunk6 stable6
+#: playlistbox.cpp:108
+#, fuzzy, kde-format
+#| msgid "View Modes"
+msgctxt "@action:inmenu"
+msgid "View Modes"
+msgstr "表示モード(&V)"
+
+#. +> trunk6 stable6
+#: playlistbox.cpp:168
+#, fuzzy, kde-format
+#| msgid "Show &History"
+msgctxt "@action:inmenu"
+msgid "Show &History"
+msgstr "履歴を表示(&H)"
+
+#. +> trunk6 stable6
+#: playlistbox.cpp:229 playlistcollection.cpp:424
+#, fuzzy, kde-format
+#| msgctxt "verb, copy the playlist"
+#| msgid "Duplicate"
+msgctxt "@action:button, verb, copy the playlist"
+msgid "Duplicate"
+msgstr "複製"
+
+#. +> trunk6 stable6
+#: playlistbox.cpp:424
+#, kde-format
+msgid "Do you want to delete these files from the disk as well?"
+msgstr "これらのファイルをディスクからも削除しますか？"
+
+#. +> trunk6 stable6
+#: playlistbox.cpp:425
+#, fuzzy, kde-format
+#| msgid "Keep"
+msgctxt "@action:button"
+msgid "Keep"
+msgstr "削除しない"
+
+#. +> trunk6 stable6
+#: playlistbox.cpp:437
+#, kde-format
+msgid "Could not delete these files."
+msgstr "これらのファイルを削除できませんでした。"
+
+#. +> trunk6 stable6
+#: playlistbox.cpp:445
+#, kde-format
+msgid "Are you sure you want to remove these playlists from your collection?"
+msgstr "本当にこれらのプレイリストをコレクションから削除しますか？"
+
+#. +> trunk6 stable6
+#: playlistbox.cpp:448
+#, fuzzy, kde-format
+#| msgid "Remove Items?"
+msgctxt "@title:window"
+msgid "Remove Items?"
+msgstr "アイテムを削除"
+
+#. +> trunk6 stable6
+#: playlistbox.cpp:449
+#, fuzzy, kde-format
+#| msgid "&Remove"
+msgctxt "@action:button"
+msgid "&Remove"
+msgstr "削除(&R)"
+
+#. +> trunk6 stable6
+#: playlistbox.cpp:653
+#, fuzzy, kde-format
+#| msgid "Hid&e"
+msgctxt "@action:inmenu"
+msgid "Hid&e"
+msgstr "隠す(&E)"
+
+#. +> trunk6 stable6
+#: playlistbox.cpp:657 playlistcollection.cpp:946
+#, fuzzy, kde-format
+#| msgid "R&emove"
+msgctxt "@action:inmenu"
+msgid "R&emove"
+msgstr "削除(&E)"
+
+#. +> trunk6 stable6
+#: playlistcollection.cpp:207
+#, kde-format
+msgid "Dynamic List"
+msgstr "ダイナミックリスト"
+
+#. +> trunk6 stable6
+#: playlistcollection.cpp:248
+#, kde-format
+msgid "Now Playing"
+msgstr "再生中"
+
+#. +> trunk6 stable6
+#: playlistcollection.cpp:347
+#, kde-format
+msgid ""
+"Do you want to add these items to the current list or to the collection list?"
+msgstr "これらのアイテムを現在のリストまたはコレクションリストに追加しますか？"
+
+#. +> trunk6 stable6
+#: playlistcollection.cpp:349
+#, fuzzy, kde-format
+#| msgctxt "current playlist"
+#| msgid "Current"
+msgctxt "@action:button, current playlist"
+msgid "Current"
+msgstr "現在のプレイリスト"
+
+#. +> trunk6 stable6
+#: playlistcollection.cpp:350
+#, fuzzy, kde-format
+#| msgid "Collection"
+msgctxt "@action:button"
+msgid "Collection"
+msgstr "コレクション"
+
+#. +> trunk6 stable6
+#: playlistcollection.cpp:412
+#, fuzzy, kde-format
+#| msgid "Rename"
+msgctxt "@action:button"
+msgid "Rename"
+msgstr "名前変更"
+
+#. +> trunk6 stable6
+#: playlistcollection.cpp:515
+#, fuzzy, kde-format
+#| msgid "Create Search Playlist"
+msgctxt "@action:button"
+msgid "Create Search Playlist"
+msgstr "検索プレイリストを作成"
+
+#. +> trunk6 stable6
+#: playlistcollection.cpp:540
+#, fuzzy, kde-format
+#| msgid "Create Folder Playlist"
+msgctxt "@action:button"
+msgid "Create Folder Playlist"
+msgstr "フォルダからプレイリストを作成"
+
+#. +> trunk6 stable6
+#: playlistcollection.cpp:580
+#, kde-format
+msgid "History"
+msgstr "履歴"
+
+#. +> trunk6 stable6
+#: playlistcollection.cpp:746
+#, kde-format
+msgid "Please enter a name for this playlist:"
+msgstr "このプレイリストの名前を入力してください:"
+
+#. +> trunk6 stable6
+#: playlistcollection.cpp:890
+#, fuzzy, kde-format
+#| msgctxt "new playlist"
+#| msgid "&New"
+msgctxt "@action:inmenu, new playlist"
+msgid "&New"
+msgstr "新規作成(&N)"
+
+#. +> trunk6 stable6
+#: playlistcollection.cpp:893
+#, fuzzy, kde-format
+#| msgid "&Empty Playlist..."
+msgctxt "@action:inmenu"
+msgid "&Empty Playlist…"
+msgstr "空のプレイリスト(&E)..."
+
+#. +> trunk6 stable6
+#: playlistcollection.cpp:897
+#, fuzzy, kde-format
+#| msgid "Search Playlist"
+msgctxt "@action:inmenu"
+msgid "&Search Playlist…"
+msgstr "検索プレイリスト"
+
+#. +> trunk6 stable6
+#: playlistcollection.cpp:901
+#, fuzzy, kde-format
+#| msgid "Playlist From &Folder..."
+msgctxt "@action:inmenu"
+msgid "Playlist From &Folder…"
+msgstr "フォルダからプレイリストを作成(&F)..."
+
+#. +> trunk6 stable6
+#: playlistcollection.cpp:909
+#, fuzzy, kde-format
+#| msgid "&Guess Tag Information"
+msgctxt "@action:inmenu"
+msgid "&Guess Tag Information"
+msgstr "タグ情報を推測(&G)"
+
+#. +> trunk6 stable6
+#: playlistcollection.cpp:914
+#, fuzzy, kde-format
+#| msgid "From &File Name"
+msgctxt "@action:inmenu"
+msgid "From &File Name"
+msgstr "ファイル名から(&F)"
+
+#. +> trunk6 stable6
+#: playlistcollection.cpp:918
+#, fuzzy, kde-format
+#| msgid "From &Internet"
+msgctxt "@action:inmenu"
+msgid "From &Internet"
+msgstr "インターネットから(&I)"
+
+#. +> trunk6 stable6
+#: playlistcollection.cpp:923
+#, fuzzy, kde-format
+#| msgid "Guess Tag Information From &File Name"
+msgctxt "@action:inmenu"
+msgid "Guess Tag Information From &File Name"
+msgstr "ファイル名からタグ情報を推測(&F)"
+
+#. +> trunk6 stable6
+#: playlistcollection.cpp:930
+#, fuzzy, kde-format
+#| msgid "Play First Track"
+msgctxt "@action:inmenu"
+msgid "Play First Track"
+msgstr "最初のトラックを再生"
+
+# ACCELERATOR added by translator
+#. +> trunk6 stable6
+#: playlistcollection.cpp:932
+#, fuzzy, kde-format
+#| msgid "Play Next Album"
+msgctxt "@action:inmenu"
+msgid "Play Next Album"
+msgstr "次のアルバムを再生(&Y)"
+
+#. +> trunk6 stable6
+#: playlistcollection.cpp:939
+#, fuzzy, kde-format
+#| msgid "Add &Folder..."
+msgctxt "@action:inmenu"
+msgid "Manage &Folders…"
+msgstr "フォルダを追加(&F)..."
+
+#. +> trunk6 stable6
+#: playlistcollection.cpp:941
+#, fuzzy, kde-format
+#| msgid "Rename"
+msgctxt "@action:inmenu"
+msgid "&Rename…"
+msgstr "名前変更"
+
+#. +> trunk6 stable6
+#: playlistcollection.cpp:943
+#, fuzzy, kde-format
+#| msgctxt "verb, copy the playlist"
+#| msgid "Duplicate"
+msgctxt "@action:inmenu, verb, copy the playlist"
+msgid "D&uplicate…"
+msgstr "複製"
+
+# ACCELERATOR added by translator
+#. +> trunk6 stable6
+#: playlistcollection.cpp:948
+#, fuzzy, kde-format
+#| msgid "Reload"
+msgctxt "@action:inmenu"
+msgid "Reload"
+msgstr "再読み込み(&L)"
+
+# ACCELERATOR added by translator
+#. +> trunk6 stable6
+#: playlistcollection.cpp:950
+#, fuzzy, kde-format
+#| msgid "Edit Search..."
+msgctxt "@action:inmenu"
+msgid "Edit Search…"
+msgstr "検索を編集(&D)..."
+
+#. +> trunk6 stable6
+#: playlistcollection.cpp:953
+#, fuzzy, kde-format
+#| msgid "&Delete"
+msgctxt "@action:inmenu"
+msgid "&Delete"
+msgstr "削除(&D)"
+
+# ACCELERATOR added by translator
+#. +> trunk6 stable6
+#: playlistcollection.cpp:955
+#, fuzzy, kde-format
+#| msgid "Refresh"
+msgctxt "@action:inmenu"
+msgid "Refresh"
+msgstr "アイテムを更新(&E)"
+
+#. +> trunk6 stable6
+#: playlistcollection.cpp:957
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Open Containing Folder"
+msgstr ""
+
+#. +> trunk6 stable6
+#: playlistcollection.cpp:959
+#, fuzzy, kde-format
+#| msgid "&Rename File"
+msgctxt "@action:inmenu"
+msgid "&Rename File"
+msgstr "ファイル名を変更(&R)"
+
+#. +> trunk6 stable6
+#: playlistcollection.cpp:964
+#, fuzzy, kde-format
+#| msgid "Show &Play Queue"
+msgctxt "@action:inmenu"
+msgid "Show &Play Queue"
+msgstr "再生キューを表示(&P)"
+
+#. +> trunk6 stable6
+#: playlistcollection.h:183
+#, kde-format
+msgid "Create New Playlist"
+msgstr "新しいプレイリストを作成"
+
+#. +> trunk6 stable6
+#: playlistcollection.h:186
+#, kde-format
+msgid "Playlist"
+msgstr "プレイリスト"
+
+# ACCELERATOR changed by translator
+#. +> trunk6 stable6
+#: playlistsplitter.cpp:158
+#, fuzzy, kde-format
+#| msgid "Show &Search Bar"
+msgctxt "@action:inmenu"
+msgid "Show &Search Bar"
+msgstr "検索バーを表示(&B)"
+
+#. +> trunk6 stable6
+#: playlistsplitter.cpp:161
+#, fuzzy, kde-format
+#| msgid "Edit Track Search"
+msgctxt "@action:inmenu"
+msgid "Edit Track Search"
+msgstr "トラック検索を編集"
+
+#. +> trunk6 stable6
+#: scrobbleconfigdlg.cpp:38
+#, fuzzy, kde-format
+#| msgid "Configure Shortcuts"
+msgctxt "@title:window"
+msgid "Configure Scrobbling"
+msgstr "ショートカットを設定"
+
+#. +> trunk6 stable6
+#: scrobbleconfigdlg.cpp:42
+#, kde-format
+msgctxt "@action:button"
+msgid "Test Login…"
+msgstr ""
+
+#. +> trunk6 stable6
+#: scrobbleconfigdlg.cpp:49
+#, kde-format
+msgid ""
+"Please enter your <a href=\"https://last.fm/\">last.fm</a> login credentials:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: scrobbleconfigdlg.cpp:53
+#, fuzzy, kde-format
+#| msgid "Rename"
+msgid "Username:"
+msgstr "名前変更"
+
+#. +> trunk6 stable6
+#: scrobbleconfigdlg.cpp:54
+#, kde-format
+msgid "Password:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: scrobbleconfigdlg.cpp:84
+#, kde-format
+msgid ""
+"KWallet is unavailable, your Last.fm credentials will be stored without "
+"encryption."
+msgstr ""
+
+#. +> trunk6 stable6
+#: scrobbleconfigdlg.cpp:85
+#, kde-format
+msgctxt "@title:window"
+msgid "KWallet Unavailable"
+msgstr ""
+
+#. +> trunk6 stable6
+#: scrobbleconfigdlg.cpp:128
+#, kde-format
+msgid "Validating login…"
+msgstr ""
+
+#. +> trunk6 stable6
+#: scrobbleconfigdlg.cpp:138
+#, kde-format
+msgid "Login invalid."
+msgstr ""
+
+#. +> trunk6 stable6
+#: scrobbleconfigdlg.cpp:146
+#, kde-format
+msgid "Login valid."
+msgstr ""
+
+#. +> trunk6 stable6
+#: searchwidget.cpp:73
+#, fuzzy, kde-format
+#| msgid "Normal Matching"
+msgctxt "@item:inlistbox"
+msgid "Normal matching"
+msgstr "通常のマッチング"
+
+#. +> trunk6 stable6
+#: searchwidget.cpp:74
+#, fuzzy, kde-format
+#| msgid "Case Sensitive"
+msgctxt "@item:inlistbox"
+msgid "Case sensitive"
+msgstr "大文字と小文字を区別する"
+
+#. +> trunk6 stable6
+#: searchwidget.cpp:75
+#, fuzzy, kde-format
+#| msgid "Pattern Matching"
+msgctxt "@item:inlistbox"
+msgid "Pattern matching"
+msgstr "パターンマッチング"
+
+#. +> trunk6 stable6
+#: searchwidget.cpp:169
+#, fuzzy, kde-format
+#| msgid "All Visible"
+msgctxt "@title:column"
+msgid "All Visible"
+msgstr "表示されている全項目"
+
+#. +> trunk6 stable6
+#: searchwidget.cpp:200
+#, fuzzy, kde-format
+#| msgid "Search:"
+msgid "Search…"
+msgstr "検索:"
+
+#. +> trunk6 stable6
+#: slider.cpp:127
+#, kde-format
+msgid "Volume"
+msgstr "音量"
+
+#. +> trunk6 stable6
+#: slider.cpp:128
+#, kde-format
+msgid "100%"
+msgstr "100%"
+
+#. +> trunk6 stable6
+#: slider.cpp:129
+#, kde-format
+msgid "80%"
+msgstr "80%"
+
+#. +> trunk6 stable6
+#: slider.cpp:130
+#, kde-format
+msgid "60%"
+msgstr "60%"
+
+#. +> trunk6 stable6
+#: slider.cpp:131
+#, kde-format
+msgid "40%"
+msgstr "40%"
+
+#. +> trunk6 stable6
+#: slider.cpp:132
+#, kde-format
+msgid "20%"
+msgstr "20%"
+
+#. +> trunk6 stable6
+#: slider.cpp:133
+#, kde-format
+msgid "0%"
+msgstr "0%"
+
+#. +> trunk6 stable6
+#: slideraction.cpp:73
+#, kde-format
+msgid "Seeking is not supported in this file with your audio settings."
+msgstr ""
+
+#. +> trunk6 stable6
+#: statuslabel.cpp:85
+#, fuzzy, kde-format
+#| msgid "Jump to the currently playing item"
+msgctxt "@info:tooltip"
+msgid "Jump to the currently playing item"
+msgstr "現在再生中のアイテムにジャンプ"
+
+#. +> trunk6 stable6
+#: statuslabel.cpp:115
+#, kde-format
+msgid "1 item"
+msgid_plural "%1 items"
+msgstr[0] "%1 アイテム"
+
+#. +> trunk6 stable6
+#: systemtray.cpp:161
+#, fuzzy, kde-format
+#| msgid "Redisplay Popup"
+msgctxt "@action:inmenu"
+msgid "Redisplay Popup"
+msgstr "ポップアップを再表示"
+
+#. +> trunk6 stable6
+#: tageditor.cpp:468
+#, kde-format
+msgid "Show &Tag Editor"
+msgstr "タグエディタを表示(&T)"
+
+#. +> trunk6 stable6
+#: tageditor.cpp:472
+#, kde-format
+msgid "&Save"
+msgstr "保存(&S)"
+
+#. +> trunk6 stable6
+#: tageditor.cpp:588
+#, kde-format
+msgid "Do you want to save your changes to:\n"
+msgstr "以下のファイルへの変更を保存しますか？\n"
+
+#. +> trunk6 stable6
+#: tageditor.cpp:590
+#, fuzzy, kde-format
+#| msgid "Save Changes"
+msgctxt "@title:window"
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#. i18n: ectx: property (text), widget (QLabel, fileNameLabel)
+#. +> trunk6 stable6
+#: tageditor.ui:19
+#, kde-format
+msgid "F&ile name:"
+msgstr "ファイル名(&I):"
+
+#. i18n: ectx: property (text), widget (QLabel, trackLabel)
+#. +> trunk6 stable6
+#: tageditor.ui:29
+#, kde-format
+msgid "T&rack:"
+msgstr "トラック(&R):"
+
+#. i18n: ectx: property (text), widget (QLabel, artistNameLabel)
+#. +> trunk6 stable6
+#: tageditor.ui:39
+#, kde-format
+msgid "&Artist name:"
+msgstr "アーティスト名(&A):"
+
+#. i18n: ectx: property (text), widget (QLabel, albumNameLabel)
+#. +> trunk6 stable6
+#: tageditor.ui:49
+#, kde-format
+msgid "Album &name:"
+msgstr "アルバム名(&N):"
+
+#. i18n: ectx: property (text), widget (QLabel, genreLabel)
+#. +> trunk6 stable6
+#: tageditor.ui:59
+#, kde-format
+msgid "&Genre:"
+msgstr "ジャンル(&G):"
+
+#. i18n: ectx: property (text), widget (QLabel, yearLabel)
+#. +> trunk6 stable6
+#: tageditor.ui:72
+#, kde-format
+msgid "&Year:"
+msgstr "年(&Y):"
+
+#. i18n: ectx: property (text), widget (QLabel, lengthLabel)
+#. +> trunk6 stable6
+#: tageditor.ui:96
+#, kde-format
+msgid "&Length:"
+msgstr "長さ(&L):"
+
+#. i18n: ectx: property (text), widget (QLabel, bitrateLabel)
+#. +> trunk6 stable6
+#: tageditor.ui:106
+#, kde-format
+msgid "&Bitrate:"
+msgstr "ビットレート(&B):"
+
+#. i18n: ectx: property (text), widget (QLabel, commentLabel)
+#. +> trunk6 stable6
+#: tageditor.ui:116
+#, kde-format
+msgid "&Comment:"
+msgstr "コメント(&C):"
+
+#. i18n: ectx: property (text), widget (QLabel, trackNameLabel)
+#. +> trunk6 stable6
+#: tageditor.ui:184
+#, kde-format
+msgid "Trac&k name:"
+msgstr "トラック名(&K):"
+
+#. i18n: ectx: property (text), widget (QCheckBox, artistNameEnable)
+#. i18n: ectx: property (text), widget (QCheckBox, trackNameEnable)
+#. i18n: ectx: property (text), widget (QCheckBox, albumNameEnable)
+#. i18n: ectx: property (text), widget (QCheckBox, genreEnable)
+#. i18n: ectx: property (text), widget (QCheckBox, trackEnable)
+#. i18n: ectx: property (text), widget (QCheckBox, yearEnable)
+#. i18n: ectx: property (text), widget (QCheckBox, commentEnable)
+#. +> trunk6 stable6
+#: tageditor.ui:194 tageditor.ui:207 tageditor.ui:217 tageditor.ui:227
+#: tageditor.ui:237 tageditor.ui:247 tageditor.ui:257
+#, kde-format
+msgid "Enable"
+msgstr "有効"
+
+#. +> trunk6 stable6
+#: tagguesserconfigdlg.cpp:39
+#, fuzzy, kde-format
+#| msgid "Tag Guesser Configuration"
+msgctxt "@title:window"
+msgid "Tag Guesser Configuration"
+msgstr "タグ推測ツールの設定"
+
+#. i18n: ectx: property (toolTip), widget (QTreeView, lvSchemes)
+#. +> trunk6 stable6
+#: tagguesserconfigdlgwidget.ui:18
+#, kde-format
+msgid "Currently used file name schemes"
+msgstr "現在使用されているファイル名スキーム"
+
+#. i18n: ectx: property (whatsThis), widget (QTreeView, lvSchemes)
+#. +> trunk6 stable6
+#: tagguesserconfigdlgwidget.ui:29
+#, fuzzy, no-c-format, kde-format
+#| msgid ""
+#| "Here you can see the currently configured file name schemes which the "
+#| "\"Suggest\" button in the tag editor uses to extract tag information from "
+#| "a file name. Each string may contain one of the following placeholders:"
+#| "<ul>\n"
+#| "<li>%t: Title</li>\n"
+#| "<li>%a: Artist</li>\n"
+#| "<li>%A: Album</li>\n"
+#| "<li>%T: Track</li>\n"
+#| "<li>%c: Comment</li>\n"
+#| "</ul>\n"
+#| "For example, the file name scheme \"[%T] %a - %t\" would match \"[01] "
+#| "Deep Purple - Smoke on the water\" but not \"(Deep Purple) Smoke on the "
+#| "water\". For that second name, you would use the scheme \"(%a) %t\".<p/>\n"
+#| "Note that the order in which the schemes appear in the list is relevant, "
+#| "since the tag guesser will go through the list from the top to the "
+#| "bottom, and use the first matching scheme."
+msgid ""
+"Here you can see the currently configured file name schemes which the "
+"\"Guess Tag Information From File Name\" entry in the song's context menu "
+"uses to extract tag information from a file name. Each string may contain "
+"one of the following placeholders:<ul>\n"
+"<li>%t: Title</li>\n"
+"<li>%a: Artist</li>\n"
+"<li>%A: Album</li>\n"
+"<li>%T: Track</li>\n"
+"<li>%c: Comment</li>\n"
+"</ul>\n"
+"For example, the file name scheme \"[%T] %a - %t\" would match \"[01] Deep "
+"Purple - Smoke on the water\" but not \"(Deep Purple) Smoke on the water\". "
+"For that second name, you would use the scheme \"(%a) %t\".<p/>\n"
+"Note that the order in which the schemes appear in the list is relevant, "
+"since the tag guesser will go through the list from the top to the bottom, "
+"and use the first matching scheme."
+msgstr ""
+"<qt><p>「タグ情報を推測」がファイル名からタグ情報を抽出するために現在使用して"
+"いるファイル名スキームの一覧です。それぞれの文字列には以下のプレースホルダの"
+"一つを含めることができます。<ul>\n"
+"<li>%t: タイトル</li>\n"
+"<li>%a: アーティスト</li>\n"
+"<li>%A: アルバム</li>\n"
+"<li>%T: トラック</li>\n"
+"<li>%c: コメント</li>\n"
+"</ul>\n"
+"例えば、ファイル名スキーム “[%T] %a - %t” は “[01] Deep Purple - Smoke on "
+"the water” にはマッチしますが “(Deep Purple) Smoke on the water” にはマッチし"
+"ません。後者には “(%a) %t” というスキームが必要です。</p>\n"
+"<p>【注意】 タグ推測はリストの上から順番に検索して最初にマッチしたスキームを"
+"使用するので、リスト中のスキームの順番には意味があります。</p></qt>"
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, bMoveUp)
+#. +> trunk6 stable6
+#: tagguesserconfigdlgwidget.ui:42
+#, kde-format
+msgid "Move scheme up"
+msgstr "スキームを上に移動"
+
+#. i18n: ectx: property (whatsThis), widget (QToolButton, bMoveUp)
+#. +> trunk6 stable6
+#: tagguesserconfigdlgwidget.ui:45
+#, kde-format
+msgid ""
+"Press this button to move the currently selected scheme one step upwards."
+msgstr "選択したスキームを一つ上に移動します。"
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, bMoveDown)
+#. +> trunk6 stable6
+#: tagguesserconfigdlgwidget.ui:55
+#, kde-format
+msgid "Move scheme down"
+msgstr "スキームを下に移動"
+
+#. i18n: ectx: property (whatsThis), widget (QToolButton, bMoveDown)
+#. +> trunk6 stable6
+#: tagguesserconfigdlgwidget.ui:58
+#, kde-format
+msgid ""
+"Press this button to move the currently selected scheme one step downwards."
+msgstr "選択したスキームを一つ下に移動します。"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, bAdd)
+#. +> trunk6 stable6
+#: tagguesserconfigdlgwidget.ui:68
+#, kde-format
+msgid "Add a new scheme"
+msgstr "新しいスキームを追加"
+
+#. i18n: ectx: property (whatsThis), widget (QPushButton, bAdd)
+#. +> trunk6 stable6
+#: tagguesserconfigdlgwidget.ui:71
+#, kde-format
+msgid "Press this button to add a new file name scheme to the end of the list."
+msgstr "リストの最後に新しいファイル名スキームを追加します。"
+
+#. i18n: ectx: property (text), widget (QPushButton, bAdd)
+#. +> trunk6 stable6
+#: tagguesserconfigdlgwidget.ui:74
+#, kde-format
+msgid "&Add"
+msgstr "追加(&A)"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, bModify)
+#. +> trunk6 stable6
+#: tagguesserconfigdlgwidget.ui:81
+#, kde-format
+msgid "Modify scheme"
+msgstr "スキームを編集"
+
+#. i18n: ectx: property (whatsThis), widget (QPushButton, bModify)
+#. +> trunk6 stable6
+#: tagguesserconfigdlgwidget.ui:84
+#, kde-format
+msgid "Press this button to modify the currently selected scheme."
+msgstr "選択したスキームを編集します。"
+
+#. i18n: ectx: property (text), widget (QPushButton, bModify)
+#. +> trunk6 stable6
+#: tagguesserconfigdlgwidget.ui:87
+#, kde-format
+msgid "&Modify"
+msgstr "編集(&M)"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, bRemove)
+#. +> trunk6 stable6
+#: tagguesserconfigdlgwidget.ui:94
+#, kde-format
+msgid "Remove scheme"
+msgstr "スキームを削除"
+
+#. i18n: ectx: property (whatsThis), widget (QPushButton, bRemove)
+#. +> trunk6 stable6
+#: tagguesserconfigdlgwidget.ui:97
+#, kde-format
+msgid ""
+"Press this button to remove the currently selected scheme from the list."
+msgstr "選択したスキームをリストから削除します。"
+
+#. i18n: ectx: property (text), widget (QPushButton, bRemove)
+#. +> trunk6 stable6
+#: tagguesserconfigdlgwidget.ui:100
+#, kde-format
+msgid "&Remove"
+msgstr "削除(&R)"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk6 stable6
+#: tagguesserconfigdlgwidget.ui:128
+#, no-c-format, kde-format
+msgid ""
+"You can use the following placeholders:\n"
+"%t: Title\n"
+"%A: Album\n"
+"%a: Artist\n"
+"%T: Track\n"
+"%c: Comment"
+msgstr ""
+
+#. +> trunk6 stable6
+#: tagrenameroptions.cpp:100
+msgctxt "song title"
+msgid "Title"
+msgstr "タイトル"
+
+#. +> trunk6 stable6
+#: tagrenameroptions.cpp:112
+msgctxt "cd track number"
+msgid "Track"
+msgstr "トラック番号"
+
+#. +> trunk6 stable6
+#: tagrenameroptions.cpp:120
+msgid "Year"
+msgstr "年"
+
+#. +> trunk6 stable6
+#: tagrenameroptions.cpp:126
+msgctxt "unknown renamer category"
+msgid "Unknown"
+msgstr "不明"
+
+#. +> trunk6 stable6
+#: tagtransactionmanager.cpp:110
+#, kde-format
+msgid ""
+"This file already exists.\n"
+"Do you want to replace it?"
+msgstr ""
+"このファイルは既に存在します。\n"
+"置き換えますか？"
+
+#. +> trunk6 stable6
+#: tagtransactionmanager.cpp:111
+#, fuzzy, kde-format
+#| msgid "File Exists"
+msgctxt "@title:window"
+msgid "File Exists"
+msgstr "ファイルは存在します"
+
+#. +> trunk6 stable6
+#: tagtransactionmanager.cpp:111
+#, fuzzy, kde-format
+#| msgid "Replace"
+msgctxt "@action:button"
+msgid "Replace"
+msgstr "置換"
+
+#. +> trunk6 stable6
+#: tagtransactionmanager.cpp:176
+#, kde-format
+msgid "The following files were unable to be changed."
+msgstr "以下のファイルは変更できませんでした。"
+
+#. +> trunk6 stable6
+#: tagtransactionmanager.cpp:178
+#, fuzzy, kde-format
+#| msgid "Error"
+msgctxt "@title:window"
+msgid "Error"
+msgstr "エラー"
+
+#. +> trunk6 stable6
+#: treeviewitemplaylist.cpp:48
+#, kde-format
+msgid "artist"
+msgstr "アーティスト"
+
+#. +> trunk6 stable6
+#: treeviewitemplaylist.cpp:50
+#, kde-format
+msgid "genre"
+msgstr "ジャンル"
+
+#. +> trunk6 stable6
+#: treeviewitemplaylist.cpp:52
+#, kde-format
+msgid "album"
+msgstr "アルバム"
+
+#. +> trunk6 stable6
+#: treeviewitemplaylist.cpp:56
+#, kde-format
+msgid "You are about to change the %1 on these files."
+msgstr "これらのファイルの「%1」を変更しようとしています。"
+
+#. +> trunk6 stable6
+#: treeviewitemplaylist.cpp:58
+#, fuzzy, kde-format
+#| msgid "Changing Track Tags"
+msgctxt "@title:window"
+msgid "Change Track Tags"
+msgstr "トラックのタグを変更"
+
+#. +> trunk6 stable6
+#: upcomingplaylist.cpp:31
+#, kde-format
+msgid "Play Queue"
+msgstr "再生キュー"
+
+#. +> trunk6 stable6
+#: viewmode.cpp:66
+#, kde-format
+msgctxt "the normal viewing mode"
+msgid "Default"
+msgstr "標準"
+
+#. +> trunk6 stable6
+#: viewmode.cpp:123
+#, kde-format
+msgctxt "compact viewing mode"
+msgid "Compact"
+msgstr "コンパクト"
+
+#. +> trunk6 stable6
+#: viewmode.cpp:152
+#, kde-format
+msgid "Tree"
+msgstr "ツリー"
+
+#. +> trunk6 stable6
+#: viewmode.cpp:282
+#, kde-format
+msgid "Artists"
+msgstr "アーティスト"
+
+#. +> trunk6 stable6
+#: viewmode.cpp:285
+#, kde-format
+msgid "Albums"
+msgstr "アルバム"
+
+#. +> trunk6 stable6
+#: viewmode.cpp:288
+#, kde-format
+msgid "Genres"
+msgstr "ジャンル"
+
+#. +> trunk6 stable6
+#: volumepopupbutton.cpp:76
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Mute/Unmute"
+msgstr ""
+
+#. +> trunk6 stable6
+#: volumepopupbutton.cpp:114
+#, kde-format
+msgid "%1%"
+msgstr ""
+
+#. +> trunk6 stable6
+#: volumepopupbutton.cpp:123 volumepopupbutton.cpp:134
+#, fuzzy, kde-format
+#| msgid "Volume: %1% %2"
+msgctxt "@info:tooltip"
+msgid "Volume: %1% (muted)"
+msgstr "音量: %1% %2"
+
+#. +> trunk6 stable6
+#: volumepopupbutton.cpp:123
+#, fuzzy, kde-format
+#| msgid "Volume: %1% %2"
+msgctxt "@info:tooltip"
+msgid "Volume: %1%"
+msgstr "音量: %1% %2"
+
+#, kde-format
+#~ msgid "Create Search Playlist"
+#~ msgstr "検索プレイリストを作成"
+
+#, kde-format
+#~ msgid "Playlist name:"
+#~ msgstr "プレイリスト名:"
+
+#, kde-format
+#~ msgid "Search Criteria"
+#~ msgstr "検索条件"
+
+#, kde-format
+#~ msgid "Match any of the following"
+#~ msgstr "次のいずれかにマッチ"
+
+#, kde-format
+#~ msgid "Match all of the following"
+#~ msgstr "次のすべてにマッチ"
+
+#, kde-format
+#~ msgctxt "additional search options"
+#~ msgid "More"
+#~ msgstr "増やす"
+
+#, kde-format
+#~ msgid "Fewer"
+#~ msgstr "減らす"
+
+#, kde-format
+#~ msgid ""
+#~ "Removing an item from the collection will also remove it from all of your "
+#~ "playlists. Are you sure you want to continue?\n"
+#~ "\n"
+#~ "Note, however, that if the directory that these files are in is in your "
+#~ "\"scan on startup\" list, they will be readded on startup."
+#~ msgstr ""
+#~ "コレクションからアイテムを削除すると、そのアイテムはすべてのプレイリストか"
+#~ "らも削除されます。本当に続けますか？\n"
+#~ "\n"
+#~ "しかし、これらのファイルを含むフォルダが「起動時にスキャンするフォルダ」の"
+#~ "リストにある場合は、次回起動時に再び追加されます。"
+
+#, kde-format
+#~ msgid "Show Playing"
+#~ msgstr "再生を表示"
+
+#, kde-format
+#~ msgid "&Send to Trash"
+#~ msgstr "ごみ箱に移動(&S)"
+
+# 確認ダイアログのタイトルなので短縮
+#, kde-format
+#~ msgid "About to delete selected files"
+#~ msgstr "ファイルを削除しようとしています"
+
+#, kde-format
+#~ msgid "Folder List"
+#~ msgstr "フォルダリスト"
+
+#, kde-format
+#~ msgctxt "warning about mass file rename"
+#~ msgid "Warning"
+#~ msgstr "警告"
+
+#, kde-format
+#~ msgctxt "remove music genre from file renamer"
+#~ msgid "Remove"
+#~ msgstr "削除"
+
+#, kde-format
+#~ msgctxt "file renamer genre options"
+#~ msgid "Options"
+#~ msgstr "オプション"
+
+#, kde-format
+#~ msgid "Insert folder separator"
+#~ msgstr "フォルダセパレータを挿入"
+
+#, kde-format
+#~ msgid "Hide Renamer Test Dialog"
+#~ msgstr "ファイル名変更テストダイアログを隠す"
+
+#, kde-format
+#~ msgid "%1 to %2"
+#~ msgstr "%1 から %2 へ"
+
+#, kde-format
+#~ msgid "File Renamer Options"
+#~ msgstr "ファイル名変更オプション"
+
+#, kde-format
+#~ msgctxt "%1 will be a music tag category like Artist or Album"
+#~ msgid "%1 Options"
+#~ msgstr "「%1」のオプション"
+
+#, kde-format
+#~ msgid "%1 Format"
+#~ msgstr "「%1」のフォーマット"
+
+#, kde-format
+#~ msgid "When the Track's %1 is Empty"
+#~ msgstr "トラックの「%1」が空の場合"
+
+#, kde-format
+#~ msgid ""
+#~ "When using the file renamer your files will be renamed to the values that "
+#~ "you have in your track's %1 tag, plus any additional text that you "
+#~ "specify below."
+#~ msgstr ""
+#~ "「ファイル名を変更」は、トラックの「%1」タグにある値と、以下に指定されたテ"
+#~ "キストを含むようにファイル名を変更します。"
+
+#, kde-format
+#~ msgid "File Renamer"
+#~ msgstr "ファイル名変更ツール"
+
+#, kde-format
+#~ msgid "&Random Play"
+#~ msgstr "ランダム再生(&R)"
+
+#, kde-format
+#~ msgid "&Disable Random Play"
+#~ msgstr "ランダム再生を無効にする(&D)"
+
+#, kde-format
+#~ msgid "Use &Random Play"
+#~ msgstr "ランダム再生を有効にする(&R)"
+
+#, kde-format
+#~ msgid "Use &Album Random Play"
+#~ msgstr "アルバムをランダム再生(&A)"
+
+#, kde-format
+#~ msgid "Remove From Playlist"
+#~ msgstr "プレイリストから削除"
+
+#, kde-format
+#~ msgid "&Play"
+#~ msgstr "再生(&P)"
+
+#, kde-format
+#~ msgid "P&ause"
+#~ msgstr "一時停止(&A)"
+
+#, kde-format
+#~ msgid "&Stop"
+#~ msgstr "停止(&S)"
+
+#, kde-format
+#~ msgctxt "previous track"
+#~ msgid "Previous"
+#~ msgstr "前のトラック(&V)|/|$[~setProps ~label '前へ']"
+
+#, kde-format
+#~ msgctxt "next track"
+#~ msgid "&Next"
+#~ msgstr "次のトラック(&N)|/|$[~setProps ~label '次へ']"
+
+#, kde-format
+#~ msgid "&Loop Playlist"
+#~ msgstr "プレイリストを繰り返し再生(&L)"
+
+#, kde-format
+#~ msgid "&Resize Playlist Columns Manually"
+#~ msgstr "プレイリストのカラム幅を手動調整(&R)"
+
+#, kde-format
+#~ msgctxt "silence playback"
+#~ msgid "Mute"
+#~ msgstr "ミュート"
+
+#, kde-format
+#~ msgid "Volume Up"
+#~ msgstr "音量を上げる"
+
+#, kde-format
+#~ msgid "Volume Down"
+#~ msgstr "音量を下げる"
+
+#, kde-format
+#~ msgid "Play / Pause"
+#~ msgstr "再生/一時停止"
+
+#, kde-format
+#~ msgid "Seek Forward"
+#~ msgstr "前方シーク"
+
+#, kde-format
+#~ msgid "Seek Back"
+#~ msgstr "後方シーク"
+
+#, kde-format
+#~ msgid "Show / Hide"
+#~ msgstr "表示/隠す"
+
+#, kde-format
+#~ msgid "&Dock in System Tray"
+#~ msgstr "システムトレイにアイコンを表示(&D)"
+
+#, kde-format
+#~ msgid "&Stay in System Tray on Close"
+#~ msgstr "閉じた後もシステムトレイに常駐(&S)"
+
+#, kde-format
+#~ msgid "Popup &Track Announcement"
+#~ msgstr "トラック通知をポップアップ表示(&U)"
+
+#, kde-format
+#~ msgid "Save &Play Queue on Exit"
+#~ msgstr "終了時にプレイリストを保存(&P)"
+
+#, kde-format
+#~ msgid "&Tag Guesser..."
+#~ msgstr "タグ推測ツール(&T)..."
+
+#, kde-format
+#~ msgid "&File Renamer..."
+#~ msgstr "ファイル名変更ツール(&F)..."
+
+#, kde-format
+#~ msgid "Track Position"
+#~ msgstr "トラックの再生位置"
+
+#, kde-format
+#~ msgid "Docking in System Tray"
+#~ msgstr "システムトレイにドッキング"
+
+#, kde-format
+#~ msgctxt "a playing track, %1 is artist, %2 is song title"
+#~ msgid "%1 - <i>%2</i>"
+#~ msgstr "%1 - %2"
+
+#, kde-format
+#~ msgid "Configure Shortcuts"
+#~ msgstr "ショートカットを設定"
+
+#, kde-format
+#~ msgid "Global Shortcuts"
+#~ msgstr "グローバルショートカット"
+
+#, kde-format
+#~ msgid "&No keys"
+#~ msgstr "キーなし(&N)"
+
+#, kde-format
+#~ msgid "&Standard keys"
+#~ msgstr "標準キー(&S)"
+
+#, kde-format
+#~ msgid "&Multimedia keys"
+#~ msgstr "マルチメディアキー(&M)"
+
+#, kde-format
+#~ msgid ""
+#~ "Here you can select the keys used as global shortcuts to control the "
+#~ "player"
+#~ msgstr ""
+#~ "プレーヤーをコントロールするためにグローバルショートカットとして使うキーを"
+#~ "選択できます。"
+
+#, fuzzy, kde-format
+#~| msgid "© 2002 - 2011, Scott Wheeler"
+#~ msgid "Copyright © 2002–2023, Scott Wheeler, Michael Pyne, and others"
+#~ msgstr "© 2002 - 2011, Scott Wheeler"
+
+#, kde-format
+#~ msgctxt "open audio file"
+#~ msgid "Open"
+#~ msgstr "開く"
+
+#, fuzzy, kde-format
+#~| msgid "Search Playlist"
+#~ msgid "Save Playlist"
+#~ msgstr "検索プレイリスト"
+
+#, kde-format
+#~ msgctxt ""
+#~ "%1 will be the /path/to/file, %2 will be some string from Phonon "
+#~ "describing the error"
+#~ msgid ""
+#~ "JuK is unable to play the audio file<nl/><filename>%1</filename><nl/>for "
+#~ "the following reason:<nl/><message>%2</message>"
+#~ msgstr ""
+#~ "JuK はこの音声ファイルを再生できません。<nl/><filename>%1</filename><nl/>"
+#~ "理由: <message>%2</message>"
+
+#, kde-format
+#~ msgid "Track Name"
+#~ msgstr "トラック名"
+
+#, kde-format
+#~ msgid "Length"
+#~ msgstr "長さ"
+
+#, kde-format
+#~ msgid "Bitrate"
+#~ msgstr "ビットレート"
+
+#, kde-format
+#~ msgid "Comment"
+#~ msgstr "コメント"
+
+#, kde-format
+#~ msgid "File Name"
+#~ msgstr "ファイル名"
+
+#, kde-format
+#~ msgid "File Name (full path)"
+#~ msgstr "ファイル名 (フルパス)"
+
+#, kde-format
+#~ msgid "&Show Columns"
+#~ msgstr "表示するカラム(&S)"
+
+#, kde-format
+#~ msgid "Add to Play Queue"
+#~ msgstr "再生キューに追加"
+
+#, kde-format
+#~ msgid "Create Playlist From Selected Items..."
+#~ msgstr "選択したアイテムからプレイリストを作成..."
+
+#, kde-format
+#~ msgid "Edit '%1'"
+#~ msgstr "「%1」を編集"
+
+#, kde-format
+#~ msgid "Manual Column Widths Enabled"
+#~ msgstr "カラム幅の手動調整が有効"
+
+# ACCELERATOR added by translator
+#, kde-format
+#~ msgid "View Modes"
+#~ msgstr "表示モード(&V)"
+
+#, kde-format
+#~ msgid "Show &History"
+#~ msgstr "履歴を表示(&H)"
+
+#, kde-format
+#~ msgctxt "verb, copy the playlist"
+#~ msgid "Duplicate"
+#~ msgstr "複製"
+
+#, kde-format
+#~ msgid "Keep"
+#~ msgstr "削除しない"
+
+#, kde-format
+#~ msgid "Remove Items?"
+#~ msgstr "アイテムを削除"
+
+#, kde-format
+#~ msgid "Hid&e"
+#~ msgstr "隠す(&E)"
+
+#, kde-format
+#~ msgid "R&emove"
+#~ msgstr "削除(&E)"
+
+#, kde-format
+#~ msgctxt "current playlist"
+#~ msgid "Current"
+#~ msgstr "現在のプレイリスト"
+
+#, kde-format
+#~ msgid "Collection"
+#~ msgstr "コレクション"
+
+#, kde-format
+#~ msgid "Rename"
+#~ msgstr "名前変更"
+
+#, kde-format
+#~ msgid "Create Folder Playlist"
+#~ msgstr "フォルダからプレイリストを作成"
+
+#, kde-format
+#~ msgctxt "new playlist"
+#~ msgid "&New"
+#~ msgstr "新規作成(&N)"
+
+#, kde-format
+#~ msgid "&Empty Playlist..."
+#~ msgstr "空のプレイリスト(&E)..."
+
+#, kde-format
+#~ msgid "Search Playlist"
+#~ msgstr "検索プレイリスト"
+
+#, kde-format
+#~ msgid "&Search Playlist..."
+#~ msgstr "検索プレイリスト(&S)..."
+
+#, kde-format
+#~ msgid "Playlist From &Folder..."
+#~ msgstr "フォルダからプレイリストを作成(&F)..."
+
+#, kde-format
+#~ msgid "&Guess Tag Information"
+#~ msgstr "タグ情報を推測(&G)"
+
+#, kde-format
+#~ msgid "From &File Name"
+#~ msgstr "ファイル名から(&F)"
+
+#, kde-format
+#~ msgid "From &Internet"
+#~ msgstr "インターネットから(&I)"
+
+#, kde-format
+#~ msgid "Guess Tag Information From &File Name"
+#~ msgstr "ファイル名からタグ情報を推測(&F)"
+
+#, kde-format
+#~ msgid "Play First Track"
+#~ msgstr "最初のトラックを再生"
+
+# ACCELERATOR added by translator
+#, kde-format
+#~ msgid "Play Next Album"
+#~ msgstr "次のアルバムを再生(&Y)"
+
+#, fuzzy, kde-format
+#~| msgid "Add &Folder..."
+#~ msgid "Manage &Folders..."
+#~ msgstr "フォルダを追加(&F)..."
+
+#, kde-format
+#~ msgid "&Rename..."
+#~ msgstr "名前変更(&R)..."
+
+#, kde-format
+#~ msgctxt "verb, copy the playlist"
+#~ msgid "D&uplicate..."
+#~ msgstr "複製(&U)..."
+
+# ACCELERATOR added by translator
+#, kde-format
+#~ msgid "Reload"
+#~ msgstr "再読み込み(&L)"
+
+# ACCELERATOR added by translator
+#, kde-format
+#~ msgid "Edit Search..."
+#~ msgstr "検索を編集(&D)..."
+
+#, kde-format
+#~ msgid "&Delete"
+#~ msgstr "削除(&D)"
+
+# ACCELERATOR added by translator
+#, kde-format
+#~ msgid "Refresh"
+#~ msgstr "アイテムを更新(&E)"
+
+#, kde-format
+#~ msgid "&Rename File"
+#~ msgstr "ファイル名を変更(&R)"
+
+#, kde-format
+#~ msgid "Show &Play Queue"
+#~ msgstr "再生キューを表示(&P)"
+
+# ACCELERATOR changed by translator
+#, kde-format
+#~ msgid "Show &Search Bar"
+#~ msgstr "検索バーを表示(&B)"
+
+#, kde-format
+#~ msgid "Edit Track Search"
+#~ msgstr "トラック検索を編集"
+
+#, kde-format
+#~ msgid "Normal Matching"
+#~ msgstr "通常のマッチング"
+
+#, kde-format
+#~ msgid "Case Sensitive"
+#~ msgstr "大文字と小文字を区別する"
+
+#, kde-format
+#~ msgid "Pattern Matching"
+#~ msgstr "パターンマッチング"
+
+#, kde-format
+#~ msgid "All Visible"
+#~ msgstr "表示されている全項目"
+
+# ACCELERATOR added by translator
+#, fuzzy, kde-format
+#~| msgid "Edit Search..."
+#~ msgid "Search..."
+#~ msgstr "検索を編集(&D)..."
+
+#, kde-format
+#~ msgid "Jump to the currently playing item"
+#~ msgstr "現在再生中のアイテムにジャンプ"
+
+#, kde-format
+#~ msgid "Redisplay Popup"
+#~ msgstr "ポップアップを再表示"
+
+#, kde-format
+#~ msgid "Save Changes"
+#~ msgstr "変更を保存"
+
+#, kde-format
+#~ msgid "Tag Guesser Configuration"
+#~ msgstr "タグ推測ツールの設定"
+
+#, kde-format
+#~ msgid "File Exists"
+#~ msgstr "ファイルは存在します"
+
+#, kde-format
+#~ msgid "Replace"
+#~ msgstr "置換"
+
+#, kde-format
+#~ msgid "Error"
+#~ msgstr "エラー"
+
+#, kde-format
+#~ msgid "Changing Track Tags"
+#~ msgstr "トラックのタグを変更"
+
+#, fuzzy, kde-format
+#~| msgid "Volume: %1% %2"
+#~ msgid "Volume: %1% (muted)"
+#~ msgstr "音量: %1% %2"
+
+#, fuzzy, kde-format
+#~| msgid "Volume: %1% %2"
+#~ msgid "Volume: %1%"
+#~ msgstr "音量: %1% %2"
+
+#, kde-format
+#~ msgid "Your album art failed to download."
+#~ msgstr "アルバムアートのダウンロードに失敗しました。"
+
+#, kde-format
+#~ msgid "Your album art has finished downloading."
+#~ msgstr "アルバムアートのダウンロードが完了しました。"
+
+#, fuzzy, kde-format
+#~| msgid "© 2002 - 2011, Scott Wheeler"
+#~ msgid "Copyright © 2002–2021, Scott Wheeler, Michael Pyne, and others"
+#~ msgstr "© 2002 - 2011, Scott Wheeler"
+
+#, kde-format
+#~ msgid "Are you sure you want to delete these covers?"
+#~ msgstr "本当にこれらのカバーを削除しますか？"
+
+#, kde-format
+#~ msgid "&Delete Covers"
+#~ msgstr "カバーを削除(&D)"
+
+#, kde-format
+#~ msgid "Select Cover Image File"
+#~ msgstr "カバー画像ファイルを選択"
+
+#, kde-format
+#~ msgid "Cover"
+#~ msgstr "カバー"
+
+#, kde-format
+#~ msgid "Get Cover From &File..."
+#~ msgstr "ファイルからカバーを取得(&F)..."
+
+#, kde-format
+#~ msgid "Get Cover From &Internet..."
+#~ msgstr "インターネットからカバーを取得(&I)..."
+
+#, kde-format
+#~ msgid "&Delete Cover"
+#~ msgstr "カバーを削除(&D)"
+
+#, kde-format
+#~ msgid "&View Cover"
+#~ msgstr "カバーを表示(&V)"
+
+#, kde-format
+#~ msgid "Show Cover &Manager"
+#~ msgstr "カバーマネージャを表示(&M)"
+
+#, fuzzy, kde-format
+#~| msgid "Artists"
+#~ msgid "<All Artists>"
+#~ msgstr "アーティスト"
+
+#, kde-format
+#~ msgid "Remove Cover"
+#~ msgstr "カバーを削除"
+
+#, kde-format
+#~ msgid "Cover Manager"
+#~ msgstr "カバーマネージャ"
+
+#, fuzzy, kde-format
+#~| msgid "Searching for Images. Please Wait..."
+#~ msgid "Searching for cover. Please Wait..."
+#~ msgstr "画像を検索しています。お待ちください..."
+
+#, fuzzy, kde-format
+#~| msgid "Searching for Images. Please Wait..."
+#~ msgid "Downloading cover. Please Wait..."
+#~ msgstr "画像を検索しています。お待ちください..."
+
+#, fuzzy, kde-format
+#~| msgid "Cover Downloader"
+#~ msgid "Cover found"
+#~ msgstr "カバーのダウンロード"
+
+#, fuzzy
+#~| msgid "© 2002 - 2011, Scott Wheeler"
+#~ msgid "Copyright © 2002–2019, Scott Wheeler, Michael Pyne, and others"
+#~ msgstr "© 2002 - 2011, Scott Wheeler"
+
+#~ msgid "&lt;All Artists&gt;"
+#~ msgstr "&lt;全アーティスト&gt;"
+
+#~ msgid "Assistant super-hero, fixer of many things"
+#~ msgstr "アシスタントスーパーヒーロー、数多くの修正"
+
+#~ msgid "Porting to KDE 4 when no one else was around"
+#~ msgstr "周りに助けてくれる人が誰もいないときに KDE 4 へ移植してくれました"
+
+#, fuzzy
+#~| msgid "Porting to KDE 4 when no one else was around"
+#~ msgid "Porting to KF5 when no one else was around"
+#~ msgstr "周りに助けてくれる人が誰もいないときに KDE 4 へ移植してくれました"
+
+#, fuzzy
+#~| msgid "© 2002 - 2011, Scott Wheeler"
+#~ msgid "© 2002–2017, Scott Wheeler, Michael Pyne, and others"
+#~ msgstr "© 2002 - 2011, Scott Wheeler"
+
+#~ msgid "Querying MusicBrainz server..."
+#~ msgstr "MusicBrainz サーバに問い合わせ中..."
+
+#~ msgid "No matches found."
+#~ msgstr "マッチするものは見つかりませんでした。"
+
+#~ msgid "Error connecting to MusicBrainz server."
+#~ msgstr "MusicBrainz サーバへの接続に失敗しました。"
+
+#~ msgid "Internet Tag Guesser"
+#~ msgstr "インターネットタグ推測ツール"
+
+#~ msgid "Select Best Possible Match"
+#~ msgstr "最も近いものを選択"
+
+#~ msgid "Music"
+#~ msgstr "音楽"
+
+#~ msgid "Add category:"
+#~ msgstr "追加するカテゴリ:"
+
+#~ msgid "Crossfade Between Tracks"
+#~ msgstr "トラック間のクロスフェード"
+
+# ACCELERATOR added by translator
+#~ msgid "Show Splash Screen on Startup"
+#~ msgstr "起動時にスプラッシュスクリーンを表示(&H)"
+
+#, fuzzy
+#~| msgid "Jukebox and music manager for KDE"
+#~ msgid "Jukebox and music manager by KDE"
+#~ msgstr "KDE のジュークボックス/ミュージックマネージャ"
+
+#, fuzzy
+#~| msgid "© 2002 - 2011, Scott Wheeler"
+#~ msgid "© 2002–2016, Scott Wheeler, Michael Pyne, and others"
+#~ msgstr "© 2002 - 2011, Scott Wheeler"
+
+#~ msgid "1 day"
+#~ msgid_plural "%1 days"
+#~ msgstr[0] "%1 日"
+
+#~ msgid "Add Selected Items to Audio or Data CD"
+#~ msgstr "オーディオ / データ CD へ追加"
+
+#~ msgid "Unable to start K3b."
+#~ msgstr "K3b を起動できません。"
+
+#~ msgid ""
+#~ "Create an audio mode CD suitable for CD players, or a data mode CD "
+#~ "suitable for computers and other digital music players?"
+#~ msgstr ""
+#~ "CD プレーヤーに適したオーディオ CD とコンピュータその他のデジタル音楽プ"
+#~ "レーヤーに適したデータ CD のどちらを作成しますか？"
+
+#~ msgid "Create K3b Project"
+#~ msgstr "K3b プロジェクトを作成"
+
+#~ msgid "Audio Mode"
+#~ msgstr "オーディオ CD"
+
+#~ msgid "Data Mode"
+#~ msgstr "データ CD"
+
+#~ msgid "Add Playlist to Audio or Data CD"
+#~ msgstr "プレイリストをオーディオ / データ CD へ追加"
+
+#, fuzzy
+#~| msgid "Loading"
+#~ msgctxt "%1 is a count of loaded music tracks"
+#~ msgid "Loading: %1"
+#~ msgstr "読み込み中"
+
+#, fuzzy
+#~| msgid "© 2002 - 2011, Scott Wheeler"
+#~ msgid "© 2002–2014, Scott Wheeler, Michael Pyne, and others"
+#~ msgstr "© 2002 - 2011, Scott Wheeler"
+
+#, fuzzy
+#~| msgid "© 2002 - 2011, Scott Wheeler"
+#~ msgid "© 2002–2013, Scott Wheeler, Michael Pyne, and others"
+#~ msgstr "© 2002 - 2011, Scott Wheeler"
+
+#~ msgid "Volume: %1% %2"
+#~ msgstr "音量: %1% %2"
+
+#~ msgid "(muted)"
+#~ msgstr "(ミュート)"
+
+#~ msgid ""
+#~ "JuK can force the track used in a file name to have a minimum number of "
+#~ "digits.  You may want to do this for better sorting in file managers."
+#~ msgstr ""
+#~ "Juk は、ファイル名に含まれるトラック番号に最小桁数を強制することができま"
+#~ "す。これによって、ファイルマネージャでファイルをトラック番号順にソートでき"
+#~ "るようになります。"
+
+#~ msgid ""
+#~ "Manual column widths have been enabled.  You can switch back to automatic "
+#~ "column sizes in the view menu."
+#~ msgstr ""
+#~ "列幅の手動調整が有効になりました。自動調整に戻すには、「表示」メニューから"
+#~ "「プレイリストの列幅を自動調整」を選択してください。"
+
+#~ msgid "Loading"
+#~ msgstr "読み込み中"
+
+#~ msgid "Jukebox and music manager for KDE"
+#~ msgstr "KDE のジュークボックス/ミュージックマネージャ"
+
+#~ msgid ""
+#~ "Making JuK friendlier to people with\n"
+#~ "terabytes of music"
+#~ msgstr ""
+#~ "テラバイトの音楽を持っている人々のために\n"
+#~ "JuK をより使いやすく改良"
+
+#, fuzzy
+#~| msgid "© 2002 - 2011, Scott Wheeler"
+#~ msgid "© 2002 - 2012, Scott Wheeler"
+#~ msgstr "© 2002 - 2011, Scott Wheeler"
+
+#~ msgid "© 2002 - 2011, Scott Wheeler"
+#~ msgstr "© 2002 - 2011, Scott Wheeler"
+
+#~ msgid "Add &Folder..."
+#~ msgstr "フォルダを追加(&F)..."
+
+#~ msgid "Searching for Images. Please Wait..."
+#~ msgstr "画像を検索しています。お待ちください..."
+
+#~ msgid "No matching images found, please enter new search terms:"
+#~ msgstr ""
+#~ "マッチする画像が見つかりませんでした。新しい検索キーワードを入力してくださ"
+#~ "い:"
+
+#~ msgid "Enter new search terms:"
+#~ msgstr "検索キーワードを入力:"
+
+#~ msgid "New Search"
+#~ msgstr "新しい検索"
+
+#~ msgid ""
+#~ "Here you can see the currently configured file name schemes which the "
+#~ "\"Suggest\" button in the tag editor uses to extract tag information from "
+#~ "a file name. Each string may contain one of the following placeholders:"
+#~ "<ul>\n"
+#~ "<li>%t: Title</li>\n"
+#~ "<li>%a: Artist</li>\n"
+#~ "<li>%A: Album</li>\n"
+#~ "<li>%T: Track</li>\n"
+#~ "<li>%c: Comment</li>\n"
+#~ "</ul>\n"
+#~ "For example, the file name scheme \"[%T] %a - %t\" would match \"[01] "
+#~ "Deep Purple - Smoke on the water\" but not \"(Deep Purple) Smoke on the "
+#~ "water\". For that second name, you would use the scheme \"(%a) %t\".<p/>\n"
+#~ "Note that the order in which the schemes appear in the list is relevant, "
+#~ "since the tag guesser will go through the list from the top to the "
+#~ "bottom, and use the first matching scheme."
+#~ msgstr ""
+#~ "<qt><p>「タグ情報を推測」がファイル名からタグ情報を抽出するために現在使用"
+#~ "しているファイル名スキームの一覧です。それぞれの文字列には以下のプレースホ"
+#~ "ルダの一つを含めることができます。<ul>\n"
+#~ "<li>%t: タイトル</li>\n"
+#~ "<li>%a: アーティスト</li>\n"
+#~ "<li>%A: アルバム</li>\n"
+#~ "<li>%T: トラック</li>\n"
+#~ "<li>%c: コメント</li>\n"
+#~ "</ul>\n"
+#~ "例えば、ファイル名スキーム “[%T] %a - %t” は “[01] Deep Purple - Smoke on "
+#~ "the water” にはマッチしますが “(Deep Purple) Smoke on the water” にはマッ"
+#~ "チしません。後者には “(%a) %t” というスキームが必要です。</p>\n"
+#~ "<p>【注意】 タグ推測はリストの上から順番に検索して最初にマッチしたスキーム"
+#~ "を使用するので、リスト中のスキームの順番には意味があります。</p></qt>"
+
+#~ msgid "© 2002 - 2010, Scott Wheeler"
+#~ msgstr "© 2002 - 2010, Scott Wheeler"
+
+#~ msgid "&Track name:"
+#~ msgstr "トラック名(&T):"
+
+#~ msgid "&File name:"
+#~ msgstr "ファイル名(&F):"
+
+#~ msgctxt "cd track number"
+#~ msgid "T&rack:"
+#~ msgstr "トラック(&R):"
+
+#~ msgid "Length:"
+#~ msgstr "長さ:"
+
+#~ msgid "Bitrate:"
+#~ msgstr "ビットレート:"
+
+#, fuzzy
+#~| msgid "%1 Format"
+#~ msgid "Form"
+#~ msgstr "「%1」のフォーマット"
+
+#~ msgid "There was a DCOP communication error with K3b."
+#~ msgstr "K3b との DCOP コミュニケーションエラーが発生しました。"
+
+#~ msgid "© 2002 - 2009, Scott Wheeler"
+#~ msgstr "© 2002 - 2009, Scott Wheeler"

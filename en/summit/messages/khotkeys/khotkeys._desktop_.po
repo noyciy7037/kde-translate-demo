@@ -1,0 +1,2335 @@
+# Translation of desktop_kdebase into Japanese.
+# Noboru Sinohara <shinobo@leo.bekkoame.ne.jp>, 2002.
+# Taiki Komoda <kom@kde.gr.jp>, 2002,2003, 2004, 2010.
+# Masaharu 'Max' Goto <magotou@fubyshare.gr.jp>, 2004.
+# Toyohiro Asukai <toyohiro@ksmplus.com>, 2004.
+# Kurose Shushi <md81@bird.email.ne.jp>, 2004.
+# AWASHIRO Ikuya <ikuya@oooug.jp>, 2004.
+# Shinichi Tsunoda <tsuno@ngy.1st.ne.jp>, 2005.
+# Awashiro Ikuya <ikuya@fruitsbasket.info>, 2006.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2006, 2007, 2008, 2009, 2010.
+# phanect <phanective@gmail.com>, 2010.
+# Jumpei Ogawa (phanect) <phanective@gmail.com>, 2010.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2005, 2006, 2007, 2010, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdebase\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-11-12 08:14+0100\n"
+"PO-Revision-Date: 2011-04-21 22:11-0700\n"
+"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: \n"
+"X-Text-Markup: \n"
+"X-Generator: Lokalize 1.1\n"
+
+#. +> stable5
+#: app/khotkeys.desktop:2
+msgctxt "Name"
+msgid "Input Actions"
+msgstr "入力アクション"
+
+#. +> stable5
+#: app/khotkeys.desktop:85
+msgctxt "Comment"
+msgid "Input Actions service performing configured actions on key presses"
+msgstr "入力アクションサービスはキー押下時の設定されたアクションを実行します"
+
+#. +> stable5
+#: data/defaults.khotkeys:5 data/defaults.khotkeys:157
+msgctxt "Comment"
+msgid "Comment"
+msgstr "コメント"
+
+#. +> stable5
+#: data/defaults.khotkeys:78
+msgctxt "Name"
+msgid "KMenuEdit"
+msgstr "KMenuEdit"
+
+#. +> stable5
+#: data/defaults.khotkeys:229
+msgctxt "Name"
+msgid "Search"
+msgstr "検索"
+
+#. +> stable5
+#: data/defaults.khotkeys:315 data/kde32b1.khotkeys:521
+#: data/kde32b1.khotkeys:763 data/kde32b1.khotkeys:1019
+#: data/kde32b1.khotkeys:1530 data/kde32b1.khotkeys:1947
+#: data/kde32b1.khotkeys:3345
+msgctxt "Comment"
+msgid "Simple_action"
+msgstr "Simple_action"
+
+#. +> stable5
+#: data/kde32b1.khotkeys:5
+msgctxt "Comment"
+msgid ""
+"This group contains various examples demonstrating most of the features of "
+"KHotkeys. (Note that this group and all its actions are disabled by default.)"
+msgstr ""
+"このグループには KHotkeys が提供するさまざまな機能の使用例が含まれています "
+"(標準設定ではこのグループとそのアクションはすべて無効になっています)。"
+
+#. +> stable5
+#: data/kde32b1.khotkeys:79
+msgctxt "Name"
+msgid "Examples"
+msgstr "使用例"
+
+#. +> stable5
+#: data/kde32b1.khotkeys:172
+msgctxt "Comment"
+msgid ""
+"After pressing Ctrl+Alt+I, the KSIRC window will be activated, if it exists. "
+"Simple."
+msgstr ""
+"Ctrl+Alt+I を押すと、存在すれば KSIRC ウィンドウがアクティブになります。これ"
+"は単純です。"
+
+#. +> stable5
+#: data/kde32b1.khotkeys:249
+msgctxt "Name"
+msgid "Activate KSIRC Window"
+msgstr "KSIRC ウィンドウをアクティブに"
+
+#. +> stable5
+#: data/kde32b1.khotkeys:338
+msgctxt "Comment"
+msgid "KSIRC window"
+msgstr "KSIRC ウィンドウ"
+
+#. +> stable5
+#: data/kde32b1.khotkeys:426
+msgctxt "Comment"
+msgid "KSIRC"
+msgstr "KSIRC"
+
+#. +> stable5
+#: data/kde32b1.khotkeys:605
+msgctxt "Comment"
+msgid ""
+"After pressing Alt+Ctrl+H the input of 'Hello' will be simulated, as if you "
+"typed it.  This is especially useful if you have call to frequently type a "
+"word (for instance, 'unsigned').  Every keypress in the input is separated "
+"by a colon ':'. Note that the keypresses literally mean keypresses, so you "
+"have to write what you would press on the keyboard. In the table below, the "
+"left column shows the input and the right column shows what to type."
+"\\n\\n\"enter\" (i.e. new line)                Enter or Return\\na (i.e. "
+"small a)                          A\\nA (i.e. capital "
+"a)                       Shift+A\\n: "
+"(colon)                                  Shift+;\\n' '  "
+"(space)                              Space"
+msgstr ""
+"Alt+Ctrl+H を押して 'Hello' という文字列を入力されます。例えば 'unsigned' の"
+"ような単語を何度もタイプしないといけないときに便利です。キーボード入力に登録"
+"するキー押下は、それぞれコロン (:) で区切ります。このキー押下とは、押すキーを"
+"意味します。つまり、キーによって入力される文字ではなく、あなたが実際に押す"
+"キーボード上のキーを登録しなければなりません。以下の例では、左側が入力で、右"
+"側がキー押下です。\\n\\n\"enter\" (改行)                Enter または "
+"Return\\na (小文字の a)                          A\\nA (大文字の "
+"a)                       Shift+A\\n: (コロ"
+"ン)                                  Shift+; (US 配列の場合)\\n' '  (スペー"
+"ス)                              Space"
+
+#. +> stable5
+#: data/kde32b1.khotkeys:669
+msgctxt "Name"
+msgid "Type 'Hello'"
+msgstr "'Hello' を入力"
+
+#. +> stable5
+#: data/kde32b1.khotkeys:847
+msgctxt "Comment"
+msgid "This action runs Konsole, after pressing Ctrl+Alt+T."
+msgstr "Ctrl+Alt+T を押して Konsole を起動します。"
+
+#. +> stable5
+#: data/kde32b1.khotkeys:924
+msgctxt "Name"
+msgid "Run Konsole"
+msgstr "Konsole を起動"
+
+#. +> stable5
+#: data/kde32b1.khotkeys:1103
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid ""
+#| "Read the comment on the \"Type 'Hello'\" action first.\\n\\nQt Designer "
+#| "uses Ctrl+F4 for closing windows.  In KDE, however, Ctrl+F4 is the "
+#| "shortcut for going to virtual desktop 4, so this shortcut does not work "
+#| "in QT Designer.  Further, Qt Designer does not use KDE's standard Ctrl+W "
+#| "for closing the window.\\n\\nThis problem can be solved by remapping "
+#| "Ctrl+W to Ctrl+F4 when the active window is Qt Designer. When Qt Designer "
+#| "is active, every time Ctrl+W is pressed, Ctrl+F4 will be sent to Qt "
+#| "Designer instead. In other applications, the effect of Ctrl+W is "
+#| "unchanged.\\n\\nWe now need to specify three things: A new shortcut "
+#| "trigger on 'Ctrl+W', a new keyboard input action sending Ctrl+F4, and a "
+#| "new condition that the active window is Qt Designer.\\nQt Designer seems "
+#| "to always have title 'Qt Designer by Trolltech', so the condition will "
+#| "check for the active window having that title."
+msgctxt "Comment"
+msgid ""
+"Read the comment on the \"Type 'Hello'\" action first.\\n\\nQt Designer uses "
+"Ctrl+F4 for closing windows.  In KDE, however, Ctrl+F4 is the shortcut for "
+"going to virtual desktop 4, so this shortcut does not work in Qt Designer.  "
+"Further, Qt Designer does not use KDE's standard Ctrl+W for closing the "
+"window.\\n\\nThis problem can be solved by remapping Ctrl+W to Ctrl+F4 when "
+"the active window is Qt Designer. When Qt Designer is active, every time "
+"Ctrl+W is pressed, Ctrl+F4 will be sent to Qt Designer instead. In other "
+"applications, the effect of Ctrl+W is unchanged.\\n\\nWe now need to specify "
+"three things: A new shortcut trigger on 'Ctrl+W', a new keyboard input "
+"action sending Ctrl+F4, and a new condition that the active window is Qt "
+"Designer.\\nQt Designer seems to always have title 'Qt Designer by "
+"Trolltech', so the condition will check for the active window having that "
+"title."
+msgstr ""
+"まず「'Hello' を入力」の説明をお読みください。\\n\\nQt デザイナーは Ctrl+F4 "
+"でウィンドウを閉じます。しかし、KDE では Ctrl+F4 は仮想デスクトップ 4 への切"
+"り替えに割り当てられているため、動きません。また、Qt デザイナーは KDE 標準の "
+"Ctrl+W でウィンドウを閉じません。\\n\\nこの問題は、Qt デザイナーがアクティブ"
+"ウィンドウである場合に限って Ctrl+W を Ctrl+F4 に割り当て直すことで解決できま"
+"す。Qt デザイナーがアクティブなときに Ctrl+W を押すと、Ctrl+F4 が代わりに Qt "
+"デザイナーへ送られます。他のアプリケーションでは Ctrl+W が通常どおりに動きま"
+"す。\\n\\nこのためには 3 つのことを指定する必要があります。新しいショートカッ"
+"トトリガ 'Ctrl+W'、Ctrl+F4 を送る新しいキーボード入力アクション、そして「アク"
+"ティブウィンドウは Qt デザイナー」という条件です。\\nQt デザイナーは常に 'Qt "
+"Designer by Trolltech' というタイトルを持っているようなので、そのタイトルを持"
+"つアクティブウィンドウという条件を指定します。"
+
+#. +> stable5
+#: data/kde32b1.khotkeys:1158
+msgctxt "Name"
+msgid "Remap Ctrl+W to Ctrl+F4 in Qt Designer"
+msgstr "Qt デザイナーで Ctrl+W を Ctrl+F4 に割り当て直す"
+
+#. +> stable5
+#: data/kde32b1.khotkeys:1250
+msgctxt "Comment"
+msgid "Qt Designer"
+msgstr "Qt デザイナー"
+
+#. +> stable5
+#: data/kde32b1.khotkeys:1339
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Qt Designer"
+msgctxt "Title"
+msgid "Qt Designer by Trolltech"
+msgstr "Qt デザイナー"
+
+#. +> stable5
+#: data/kde32b1.khotkeys:1391
+msgctxt "Comment"
+msgid ""
+"By pressing Alt+Ctrl+W a D-Bus call will be performed that will show the "
+"minicli. You can use any kind of D-Bus call, just like using the command "
+"line 'qdbus' tool."
+msgstr ""
+"Alt+Ctrl+W を押すと minicli を表示する D-Bus コールが実行されます。コマンドラ"
+"インの 'qdbus' ツールを使用するようにいろいろな種類の D-Bus コールを使用する"
+"ことができます。"
+
+#. +> stable5
+#: data/kde32b1.khotkeys:1458
+msgctxt "Name"
+msgid "Perform D-Bus call 'qdbus org.kde.krunner /App display'"
+msgstr ""
+
+#. +> stable5
+#: data/kde32b1.khotkeys:1614
+msgctxt "Comment"
+msgid ""
+"Read the comment on the \"Type 'Hello'\" action first.\\n\\nJust like the "
+"\"Type 'Hello'\" action, this one simulates keyboard input, specifically, "
+"after pressing Ctrl+Alt+B, it sends B to XMMS (B in XMMS jumps to the next "
+"song). The 'Send to specific window' checkbox is checked and a window with "
+"its class containing 'XMMS_Player' is specified; this will make the input "
+"always be sent to this window. This way, you can control XMMS even if, for "
+"instance, it is on a different virtual desktop.\\n\\n(Run 'xprop' and click "
+"on the XMMS window and search for WM_CLASS to see 'XMMS_Player')."
+msgstr ""
+"まず「'Hello' を入力」の説明をお読みください。\\n\\nアクション「'Hello' を入"
+"力」と同様に、これもキーボード入力をシミュレートします。具体的には、"
+"Ctrl+Alt+B を押して XMMS に B を送ります (XMMS では B で次の曲に移ります)。入"
+"力の送り先に「特定のウィンドウ」を選択し、ウィンドウクラスに 'XMMS_Player' を"
+"指定します (入力を常にこのウィンドウに送るため)。これによって、他の仮想デスク"
+"トップにある XMMS も制御することができます。\\n\\n('XMMS_Player' を見るに"
+"は、'xprop' を実行し、XMMS ウィンドウをクリックして WM_CLASS を探します)"
+
+#. +> stable5
+#: data/kde32b1.khotkeys:1675
+msgctxt "Name"
+msgid "Next in XMMS"
+msgstr "XMMS の次の曲"
+
+#. +> stable5
+#: data/kde32b1.khotkeys:1767
+msgctxt "Comment"
+msgid "XMMS window"
+msgstr "XMMS ウィンドウ"
+
+#. +> stable5
+#: data/kde32b1.khotkeys:1855
+msgctxt "Comment"
+msgid "XMMS Player window"
+msgstr "XMMS プレーヤーウィンドウ"
+
+#. +> stable5
+#: data/kde32b1.khotkeys:2031
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid ""
+#| "Konqueror in KDE3.1 has tabs, and now you can also have gestures."
+#| "\\n\\nJust press the middle mouse button and start drawing one of the "
+#| "gestures, and after you are finished, release the mouse button. If you "
+#| "only need to paste the selection, it still works, just click the middle "
+#| "mouse button. (You can change the mouse button to use in the global "
+#| "settings).\\n\\nRight now, there are the following gestures available:"
+#| "\\nmove right and back left - Forward (Alt+Right)\\nmove left and back "
+#| "right - Back (Alt+Left)\\nmove up and back down  - Up (Alt+Up)\\ncircle "
+#| "anticlockwise - Reload (F5)\\n\\nThe gesture shapes can be entered by "
+#| "performing them in the configuration dialog. You can also look at your "
+#| "numeric pad to help you: gestures are recognized like a 3x3 grid of "
+#| "fields, numbered 1 to 9.\\n\\nNote that you must perform exactly the "
+#| "gesture to trigger the action. Because of this, it is possible to enter "
+#| "more gestures for the action. You should try to avoid complicated "
+#| "gestures where you change the direction of mouse movement more than "
+#| "once.  For instance, 45654 or 74123 are simple to perform, but 1236987 "
+#| "may be already quite difficult.\\n\\nThe conditions for all gestures are "
+#| "defined in this group. All these gestures are active only if the active "
+#| "window is Konqueror (class contains 'konqueror')."
+msgctxt "Comment"
+msgid ""
+"Konqueror in KDE3.1 has tabs, and now you can also have gestures.\\n\\nJust "
+"press the middle mouse button and start drawing one of the gestures, and "
+"after you are finished, release the mouse button. If you only need to paste "
+"the selection, it still works, just click the middle mouse button. (You can "
+"change the mouse button to use in the global settings).\\n\\nRight now, "
+"there are the following gestures available:\\nmove right and back left - "
+"Forward (Alt+Right)\\nmove left and back right - Back (Alt+Left)\\nmove up "
+"and back down  - Up (Alt+Up)\\ncircle counterclockwise - Reload "
+"(F5)\\n\\nThe gesture shapes can be entered by performing them in the "
+"configuration dialog. You can also look at your numeric pad to help you: "
+"gestures are recognized like a 3x3 grid of fields, numbered 1 to "
+"9.\\n\\nNote that you must perform exactly the gesture to trigger the "
+"action. Because of this, it is possible to enter more gestures for the "
+"action. You should try to avoid complicated gestures where you change the "
+"direction of mouse movement more than once.  For instance, 45654 or 74123 "
+"are simple to perform, but 1236987 may be already quite difficult.\\n\\nThe "
+"conditions for all gestures are defined in this group. All these gestures "
+"are active only if the active window is Konqueror (class contains "
+"'konqueror')."
+msgstr ""
+"Konqueror は KDE 3.1 でタブとマウスジェスチャーを実装しました。\\n\\nまずマウ"
+"スの中ボタンを押して、押したままジェスチャーを描いて、描き終えたらボタンを放"
+"してください。選択を貼り付けるときは、マウスの中ボタンを押すだけです。マウス"
+"ジェスチャーに使用するボタンは「全体設定」で変更できます。\\n\\n現在利用でき"
+"るジェスチャーは以下のとおりです。\\n右->左 - 進む (ALt+右)\\n左->右 - 戻る "
+"(Alt+左)\\n上->下 - 上 (Alt+上)\\n反時計回りに一周 - 再読み込み (F5)\\n (これ"
+"以外にも Opera や Mozilla で実装されているものが分かれば、Konqueror にも追加"
+"し、同じように動くようにします。あなた自身で追加したら、ぜひあなたの "
+"khotkeysrc を送ってください)\\n\\nジェスチャーの形は設定ダイアログで実際に描"
+"くことによって登録できます (ダイアログの一部は Mike Pilone による KGesture か"
+"ら流用しました)。テンキーも参考にしてください。ジェスチャーは 3x3 のグリッド"
+"の 1 から 9 の数値として認識されます。\\n\\nアクションはジェスチャーを正確に"
+"再現しなければ実行されません。このため、一つのアクションに複数のジェスチャー"
+"を登録できるようになっています。マウスを動かす方向を 2 度以上変える場合は、あ"
+"まり複雑にしないでください (45654 や 74123 を描くのは簡単ですが、1236987 は既"
+"に難しいかもしれません)。\\n\\nすべてのジェスチャーの条件はこのグループに定義"
+"されています。これらのジェスチャーは、アクティブなウィンドウが Konqueror の場"
+"合 (ウィンドウのクラスが 'konqueror' を含む場合) にのみ有効になります。"
+
+#. +> stable5
+#: data/kde32b1.khotkeys:2073
+msgctxt "Name"
+msgid "Konqi Gestures"
+msgstr "Konqi ジェスチャー"
+
+#. +> stable5
+#: data/kde32b1.khotkeys:2154 data/konqueror_gestures_kde321.khotkeys:167
+msgctxt "Comment"
+msgid "Konqueror window"
+msgstr "Konqueror ウィンドウ"
+
+#. +> stable5
+#: data/kde32b1.khotkeys:2243 data/kde32b1.khotkeys:2332
+#: data/konqueror_gestures_kde321.khotkeys:256
+#: data/konqueror_gestures_kde321.khotkeys:345
+msgctxt "Comment"
+msgid "Konqueror"
+msgstr "Konqueror"
+
+#. +> stable5
+#: data/kde32b1.khotkeys:2426 data/konqueror_gestures_kde321.khotkeys:555
+msgctxt "Name"
+msgid "Back"
+msgstr "戻る"
+
+#. +> stable5
+#: data/kde32b1.khotkeys:2527 data/kde32b1.khotkeys:2717
+#: data/kde32b1.khotkeys:2907 data/kde32b1.khotkeys:3096
+#: data/konqueror_gestures_kde321.khotkeys:814
+#: data/konqueror_gestures_kde321.khotkeys:1065
+#: data/konqueror_gestures_kde321.khotkeys:1304
+#: data/konqueror_gestures_kde321.khotkeys:1560
+#: data/konqueror_gestures_kde321.khotkeys:1815
+#: data/konqueror_gestures_kde321.khotkeys:1906
+#: data/konqueror_gestures_kde321.khotkeys:2159
+#: data/konqueror_gestures_kde321.khotkeys:2411
+#: data/konqueror_gestures_kde321.khotkeys:2669
+#: data/konqueror_gestures_kde321.khotkeys:2926
+#: data/konqueror_gestures_kde321.khotkeys:3180
+#: data/konqueror_gestures_kde321.khotkeys:3433
+#: data/konqueror_gestures_kde321.khotkeys:3693
+#: data/konqueror_gestures_kde321.khotkeys:3950
+msgctxt "Comment"
+msgid "Gesture_triggers"
+msgstr "Gesture_triggers"
+
+#. +> stable5
+#: data/kde32b1.khotkeys:2616 data/konqueror_gestures_kde321.khotkeys:2568
+msgctxt "Name"
+msgid "Forward"
+msgstr "進む"
+
+#. +> stable5
+#: data/kde32b1.khotkeys:2806 data/konqueror_gestures_kde321.khotkeys:964
+msgctxt "Name"
+msgid "Up"
+msgstr "上へ"
+
+#. +> stable5
+#: data/kde32b1.khotkeys:2996 data/konqueror_gestures_kde321.khotkeys:3850
+msgctxt "Name"
+msgid "Reload"
+msgstr "再読み込み"
+
+#. +> stable5
+#: data/kde32b1.khotkeys:3183
+msgctxt "Comment"
+msgid ""
+"After pressing Win+E (Tux+E) a WWW browser will be launched, and it will "
+"open http://www.kde.org . You may run all kind of commands you can run in "
+"minicli (Alt+F2)."
+msgstr ""
+"Win+E (Tux+E) を押すと、ウェブブラウザが起動し、http://www.kde.org を開きま"
+"す。Alt+F2 で開く「コマンドを実行」ダイアログで実行できるあらゆるコマンドを指"
+"定できます。"
+
+#. +> stable5
+#: data/kde32b1.khotkeys:3250
+msgctxt "Name"
+msgid "Go to KDE Website"
+msgstr "KDE ウェブサイトを訪問"
+
+#. +> stable5
+#: data/konqueror_gestures_kde321.khotkeys:5
+msgctxt "Comment"
+msgid "Basic Konqueror gestures."
+msgstr ""
+"Konqueror の基本的なジェスチャーです。(マウスジェスチャーに使用するボタンは"
+"「全体設定」で変更できます)"
+
+#. +> stable5
+#: data/konqueror_gestures_kde321.khotkeys:85
+msgctxt "Name"
+msgid "Konqueror Gestures"
+msgstr "Konqueror ジェスチャー"
+
+#. +> stable5
+#: data/konqueror_gestures_kde321.khotkeys:431
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Konqueror"
+msgctxt "Title"
+msgid "file:/ - Konqueror"
+msgstr "Konqueror"
+
+#. +> stable5
+#: data/konqueror_gestures_kde321.khotkeys:476
+msgctxt "Comment"
+msgid "Press, move left, release."
+msgstr "マウスの中ボタンを押したまま、マウスを左に動かし、ボタンを放します。"
+
+#. +> stable5
+#: data/konqueror_gestures_kde321.khotkeys:644
+msgctxt "Comment"
+msgid ""
+"Opera-style: Press, move up, release.\\nNOTE: Conflicts with 'New Tab', and "
+"as such is disabled by default."
+msgstr ""
+"Opera スタイル: マウスの中ボタンを押したまま、マウスを上に動かし、ボタンを放"
+"します。\\n【注意】 「新しいタブ」と競合するため、標準設定では無効になってい"
+"ます。"
+
+#. +> stable5
+#: data/konqueror_gestures_kde321.khotkeys:717
+msgctxt "Name"
+msgid "Stop Loading"
+msgstr "読み込みを停止"
+
+#. +> stable5
+#: data/konqueror_gestures_kde321.khotkeys:893
+msgctxt "Comment"
+msgid ""
+"Going up in URL/directory structure.\\nMozilla-style: Press, move up, move "
+"left, move up, release."
+msgstr ""
+"URL/ディレクトリ構造の一つ上に移動します。\\nMozilla スタイル: マウスの中ボタ"
+"ンを押したまま、マウスを上->左->上の順に動かし、ボタンを放します。"
+
+#. +> stable5
+#: data/konqueror_gestures_kde321.khotkeys:1144
+msgctxt "Comment"
+msgid ""
+"Going up in URL/directory structure.\\nOpera-style: Press, move up, move "
+"left, move up, release.\\nNOTE: Conflicts with  \"Activate Previous Tab\", "
+"and as such is disabled by default."
+msgstr ""
+"URL/ディレクトリ構造の一つ上に移動します。\\nOpera スタイル: マウスの中ボタン"
+"を押したまま、マウスを上->左->上の順に動かし、ボタンを放します。\\n【注意】 "
+"「前のタブをアクティブに」と競合するため、標準設定では無効になっています。"
+
+#. +> stable5
+#: data/konqueror_gestures_kde321.khotkeys:1212
+msgctxt "Name"
+msgid "Up #2"
+msgstr "上 #2"
+
+#. +> stable5
+#: data/konqueror_gestures_kde321.khotkeys:1383
+msgctxt "Comment"
+msgid "Press, move up, move right, release."
+msgstr ""
+"マウスの中ボタン押したまま、マウスを上->右の順に動かし、ボタンを放します。"
+
+#. +> stable5
+#: data/konqueror_gestures_kde321.khotkeys:1461
+msgctxt "Name"
+msgid "Activate Next Tab"
+msgstr "次のタブをアクティブに"
+
+#. +> stable5
+#: data/konqueror_gestures_kde321.khotkeys:1639
+msgctxt "Comment"
+msgid "Press, move up, move left, release."
+msgstr ""
+"マウスの中ボタンを押したまま、マウスを上->左の順に動かし、ボタンを放します。"
+
+#. +> stable5
+#: data/konqueror_gestures_kde321.khotkeys:1717
+msgctxt "Name"
+msgid "Activate Previous Tab"
+msgstr "前のタブをアクティブに"
+
+#. +> stable5
+#: data/konqueror_gestures_kde321.khotkeys:1985
+msgctxt "Comment"
+msgid "Press, move down, move up, move down, release."
+msgstr ""
+"マウスの中ボタンを押したまま、マウスを下->上->下の順に動かし、ボタンを放しま"
+"す。"
+
+#. +> stable5
+#: data/konqueror_gestures_kde321.khotkeys:2063
+msgctxt "Name"
+msgid "Duplicate Tab"
+msgstr "タブを複製"
+
+#. +> stable5
+#: data/konqueror_gestures_kde321.khotkeys:2238
+msgctxt "Comment"
+msgid "Press, move down, move up, release."
+msgstr ""
+"マウスの中ボタンを押したまま、マウスを下->上の順に動かし、ボタンを放します。"
+
+#. +> stable5
+#: data/konqueror_gestures_kde321.khotkeys:2316
+msgctxt "Name"
+msgid "Duplicate Window"
+msgstr "ウィンドウを複製"
+
+#. +> stable5
+#: data/konqueror_gestures_kde321.khotkeys:2490
+msgctxt "Comment"
+msgid "Press, move right, release."
+msgstr "マウスの中ボタンを押したまま、マウスを右に動かし、ボタンを放します。"
+
+#. +> stable5
+#: data/konqueror_gestures_kde321.khotkeys:2748
+msgctxt "Comment"
+msgid ""
+"Press, move down, move half up, move right, move down, release.\\n(Drawing a "
+"lowercase 'h'.)"
+msgstr ""
+"マウスの中ボタンを押したまま、マウスを下に動かし、次に半分の距離だけ上に動か"
+"し、さらに右->下の順に動かし、ボタンを放します。\\n(小文字の 'h' を描くよう"
+"に)"
+
+#. +> stable5
+#: data/konqueror_gestures_kde321.khotkeys:2821
+msgctxt "Name"
+msgid "Home"
+msgstr "ホーム"
+
+#. +> stable5
+#: data/konqueror_gestures_kde321.khotkeys:3009
+msgctxt "Comment"
+msgid ""
+"Press, move right, move down, move right, release.\\nMozilla-style: Press, "
+"move down, move right, release."
+msgstr ""
+"マウスの中ボタンを押したまま、マウスを右->下->右の順に動かし、ボタンを放しま"
+"す。\\nMozilla スタイル: マウスの中ボタンを押したまま、マウスを下->右の順に動"
+"かし、ボタンを放します。"
+
+#. +> stable5
+#: data/konqueror_gestures_kde321.khotkeys:3082
+msgctxt "Name"
+msgid "Close Tab"
+msgstr "タブを閉じる"
+
+#. +> stable5
+#: data/konqueror_gestures_kde321.khotkeys:3263
+msgctxt "Comment"
+msgid ""
+"Press, move up, release.\\nConflicts with Opera-style 'Up #2', which is "
+"disabled by default."
+msgstr ""
+"マウスの中ボタンを押したまま、マウスを上に動かし、ボタンを放します。\\nデフォ"
+"ルトで無効になっている Opera スタイルの「上 #2」と競合します。"
+
+#. +> stable5
+#: data/konqueror_gestures_kde321.khotkeys:3335
+msgctxt "Name"
+msgid "New Tab"
+msgstr "新しいタブ"
+
+#. +> stable5
+#: data/konqueror_gestures_kde321.khotkeys:3512
+msgctxt "Comment"
+msgid "Press, move down, release."
+msgstr "マウスの中ボタンを押したまま、マウスを下に動かし、ボタンを放します。"
+
+#. +> stable5
+#: data/konqueror_gestures_kde321.khotkeys:3590
+msgctxt "Name"
+msgid "New Window"
+msgstr "新しいウィンドウ"
+
+#. +> stable5
+#: data/konqueror_gestures_kde321.khotkeys:3772
+msgctxt "Comment"
+msgid "Press, move up, move down, release."
+msgstr ""
+"マウスの中ボタンを押したまま、マウスを上->下の順に動かし、ボタンを放します。"
+
+#. +> stable5
+#: kcm_hotkeys/khotkeys.desktop:13
+msgctxt "Name"
+msgid "Custom Shortcuts"
+msgstr "カスタムショートカット"
+
+#. +> stable5
+#: kcm_hotkeys/khotkeys.desktop:77
+msgctxt "Comment"
+msgid "Configure Input Actions settings"
+msgstr "入力アクションの設定"
+
+#. +> stable5
+#: kcm_hotkeys/khotkeys.desktop:147
+msgctxt "X-KDE-Keywords"
+msgid ""
+"global,keyboard shortcuts,hot keys,hotkeys,KHotKeys,input actions,mouse "
+"gestures,actions,triggers,launch"
+msgstr ""
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Konqueror in KDE3.1 has tabs, and now you can also have gestures."
+#~ "\\n\\nJust press the middle mouse button and start drawing one of the "
+#~ "gestures, and after you are finished, release the mouse button. If you "
+#~ "only need to paste the selection, it still works, just click the middle "
+#~ "mouse button. (You can change the mouse button to use in the global "
+#~ "settings).\\n\\nRight now, there are the following gestures available:"
+#~ "\\nmove right and back left - Forward (Alt+Right)\\nmove left and back "
+#~ "right - Back (Alt+Left)\\nmove up and back down  - Up (Alt+Up)\\ncircle "
+#~ "anticlockwise - Reload (F5)\\n\\nThe gesture shapes can be entered by "
+#~ "performing them in the configuration dialog. You can also look at your "
+#~ "numeric pad to help you: gestures are recognized like a 3x3 grid of "
+#~ "fields, numbered 1 to 9.\\n\\nNote that you must perform exactly the "
+#~ "gesture to trigger the action. Because of this, it is possible to enter "
+#~ "more gestures for the action. You should try to avoid complicated "
+#~ "gestures where you change the direction of mouse movement more than "
+#~ "once.  For instance, 45654 or 74123 are simple to perform, but 1236987 "
+#~ "may be already quite difficult.\\n\\nThe conditions for all gestures are "
+#~ "defined in this group. All these gestures are active only if the active "
+#~ "window is Konqueror (class contains 'konqueror')."
+#~ msgstr ""
+#~ "Konqueror は KDE 3.1 でタブとマウスジェスチャーを実装しました。\\n\\nまず"
+#~ "マウスの中ボタンを押して、押したままジェスチャーを描いて、描き終えたらボタ"
+#~ "ンを放してください。選択を貼り付けるときは、マウスの中ボタンを押すだけで"
+#~ "す。マウスジェスチャーに使用するボタンは「全体設定」で変更できます。\\n\\n"
+#~ "現在利用できるジェスチャーは以下のとおりです。\\n右->左 - 進む (ALt+右)\\n"
+#~ "左->右 - 戻る (Alt+左)\\n上->下 - 上 (Alt+上)\\n反時計回りに一周 - 再読み"
+#~ "込み (F5)\\n (これ以外にも Opera や Mozilla で実装されているものが分かれ"
+#~ "ば、Konqueror にも追加し、同じように動くようにします。あなた自身で追加した"
+#~ "ら、ぜひあなたの khotkeysrc を送ってください)\\n\\nジェスチャーの形は設定"
+#~ "ダイアログで実際に描くことによって登録できます (ダイアログの一部は Mike "
+#~ "Pilone による KGesture から流用しました)。テンキーも参考にしてください。"
+#~ "ジェスチャーは 3x3 のグリッドの 1 から 9 の数値として認識されます。\\n\\n"
+#~ "アクションはジェスチャーを正確に再現しなければ実行されません。このため、一"
+#~ "つのアクションに複数のジェスチャーを登録できるようになっています。マウスを"
+#~ "動かす方向を 2 度以上変える場合は、あまり複雑にしないでください (45654 や "
+#~ "74123 を描くのは簡単ですが、1236987 は既に難しいかもしれません)。\\n\\nす"
+#~ "べてのジェスチャーの条件はこのグループに定義されています。これらのジェス"
+#~ "チャーは、アクティブなウィンドウが Konqueror の場合 (ウィンドウのクラスが "
+#~ "'konqueror' を含む場合) にのみ有効になります。"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "System"
+#~ msgctxt "Name"
+#~ msgid "System Bell"
+#~ msgstr "システム"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure Input Actions settings"
+#~ msgctxt "Comment"
+#~ msgid "Configure date and time settings"
+#~ msgstr "入力アクションの設定"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Controls DPMS settings"
+#~ msgctxt "Comment"
+#~ msgid "Font settings"
+#~ msgstr "DPMS の設定"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Controls DPMS settings"
+#~ msgctxt "Comment"
+#~ msgid "Mouse settings"
+#~ msgstr "DPMS の設定"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Keyboard Layout"
+#~ msgctxt "Comment"
+#~ msgid "Keyboard settings"
+#~ msgstr "キーボード配列"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Keyboard Layout"
+#~ msgctxt "Name"
+#~ msgid "Keyboard Layout"
+#~ msgstr "キーボード配列"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Keyboard Layout"
+#~ msgctxt "Name"
+#~ msgid "Global Keyboard Shortcuts"
+#~ msgstr "キーボード配列"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure Input Actions settings"
+#~ msgctxt "Comment"
+#~ msgid "Configuration of keybindings"
+#~ msgstr "入力アクションの設定"
+
+#~ msgctxt "Name"
+#~ msgid "KRandRTray"
+#~ msgstr "KRandRTray"
+
+#~ msgctxt "GenericName"
+#~ msgid "Screen Resize & Rotate"
+#~ msgstr "スクリーンのリサイズと回転"
+
+#~ msgctxt "Comment"
+#~ msgid "A panel applet for resizing and reorientating X screens."
+#~ msgstr "スクリーンのサイズや向きを変更するためのアプレット"
+
+#~ msgctxt "Name"
+#~ msgid "Display Management change monitor"
+#~ msgstr "ディスプレイ管理 モニタ変更"
+
+#~ msgctxt "Name"
+#~ msgid "Size & Orientation"
+#~ msgstr "サイズと配置"
+
+#~ msgctxt "Comment"
+#~ msgid "Resize and Rotate your display"
+#~ msgstr "ディスプレイのリサイズと回転"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Screen locked"
+#~ msgctxt "Name"
+#~ msgid "Screen Locker"
+#~ msgstr "スクリーンロック"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Screen Saver Settings"
+#~ msgctxt "Comment"
+#~ msgid "Screen Locker Settings"
+#~ msgstr "スクリーンセーバーの設定"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Screen saver started"
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "screensavers,Priority,locking,security"
+#~ msgstr "スクリーンセーバー開始"
+
+#~ msgctxt "Name"
+#~ msgid "Smartcards"
+#~ msgstr "スマートカード"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure smartcard support"
+#~ msgstr "スマートカードサポートの設定"
+
+#~ msgctxt "Comment"
+#~ msgid "Global options for the Plasma Workspace"
+#~ msgstr "Plasma ワークスペースのグローバルオプション"
+
+#~ msgctxt "Comment"
+#~ msgid "Fish Net"
+#~ msgstr "魚網"
+
+#~ msgctxt "Comment"
+#~ msgid "Flowers"
+#~ msgstr "花"
+
+#~ msgctxt "Comment"
+#~ msgid "Night Rock by Tigert"
+#~ msgstr "Tigert によるナイトロック"
+
+#~ msgctxt "Comment"
+#~ msgid "Pavement"
+#~ msgstr "歩道"
+
+#~ msgctxt "Comment"
+#~ msgid "Rattan"
+#~ msgstr "ラタン"
+
+#~ msgctxt "Comment"
+#~ msgid "Stonewall 2 by Tigert"
+#~ msgstr "Tigert による石壁 2"
+
+#~ msgctxt "Comment"
+#~ msgid "Triangles"
+#~ msgstr "三角"
+
+#~ msgctxt "Comment"
+#~ msgid "XEarth by Kirk Johnson"
+#~ msgstr "Kirk Johnson による XEarth"
+
+#~ msgctxt "Comment"
+#~ msgid "XGlobe by Thorsten Scheuermann"
+#~ msgstr "Thorsten Scheuermann による XGlobe"
+
+#~ msgctxt "Comment"
+#~ msgid "XPlanet by Hari Nair"
+#~ msgstr "Hari Nair による XPlanet"
+
+#~ msgctxt "Name"
+#~ msgid "Login Manager Control Module"
+#~ msgstr "ログインマネージャコントロールモジュール"
+
+#~ msgctxt "Name"
+#~ msgid "Save the Login Manager settings"
+#~ msgstr "ログインマネージャ設定を保存"
+
+#~ msgctxt "Description"
+#~ msgid ""
+#~ "Administrator authorization is required to change the Login Manager "
+#~ "settings"
+#~ msgstr "ログインマネージャの設定を変更するには管理者権限が必要です"
+
+#~ msgctxt "Name"
+#~ msgid "Manage user images shown in the Login Manager"
+#~ msgstr "ログインマネージャで表示されるユーザ画像を管理します"
+
+#~ msgctxt "Description"
+#~ msgid ""
+#~ "Administrator authorization is required to manage user images for the "
+#~ "Login Manager"
+#~ msgstr ""
+#~ "ログインマネージャにおけるユーザ画像を管理するには管理者権限が必要です"
+
+#~ msgctxt "Name"
+#~ msgid "Manage themes for the Login Manager"
+#~ msgstr "ログインマネージャのテーマを管理します"
+
+#~ msgctxt "Description"
+#~ msgid ""
+#~ "Administrator authorization is required to manage themes for the Login "
+#~ "Manager"
+#~ msgstr "ログインマネージャにおけるテーマを管理するには管理者権限が必要です"
+
+#~ msgctxt "Name"
+#~ msgid "Login Screen"
+#~ msgstr "ログインスクリーン"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure the login manager (KDM)"
+#~ msgstr "ログインマネージャ (KDM) の設定"
+
+#~ msgctxt "Name"
+#~ msgid "Stripes"
+#~ msgstr "Stripes"
+
+#~ msgctxt "Name"
+#~ msgid "9WM"
+#~ msgstr "9WM"
+
+#~ msgctxt "Comment"
+#~ msgid "An emulation of the Plan 9 window manager 8-1/2"
+#~ msgstr "Plan9 ウィンドウマネージャのエミュレーション 8-1/2"
+
+#~ msgctxt "Name"
+#~ msgid "AEWM++"
+#~ msgstr "AEWM++"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "A minimal window manager based on AEWM, enhanced by virtual desktops and "
+#~ "partial GNOME support"
+#~ msgstr ""
+#~ "仮想デスクトップと部分的な GNOME サポートを強化した AEWM ベースの小さな"
+#~ "ウィンドウマネージャ"
+
+#~ msgctxt "Name"
+#~ msgid "AEWM"
+#~ msgstr "AEWM"
+
+#~ msgctxt "Comment"
+#~ msgid "A minimalist window manager"
+#~ msgstr "小さなウィンドウマネージャ"
+
+#~ msgctxt "Name"
+#~ msgid "AfterStep"
+#~ msgstr "AfterStep"
+
+#~ msgctxt "Comment"
+#~ msgid "A window manager with the NeXTStep look and feel, based on FVWM"
+#~ msgstr ""
+#~ "NeXTStep のルック＆フィールをもった FVWM ベースのウィンドウマネージャ"
+
+#~ msgctxt "Name"
+#~ msgid "AMATERUS"
+#~ msgstr "AMATERUS"
+
+#~ msgctxt "Comment"
+#~ msgid "A GTK+ based window manager with a window grouping feature"
+#~ msgstr "ウィンドウのグループ化が可能な GTK+ ベースのウィンドウマネージャ"
+
+#~ msgctxt "Name"
+#~ msgid "AmiWM"
+#~ msgstr "AmiWM"
+
+#~ msgctxt "Comment"
+#~ msgid "The Amiga look-alike window manager"
+#~ msgstr "Amiga に似たウィンドウマネージャ"
+
+#~ msgctxt "Name"
+#~ msgid "ASClassic"
+#~ msgstr "ASClassic"
+
+#~ msgctxt "Comment"
+#~ msgid "AfterStep Classic, a window manager based on AfterStep v1.1"
+#~ msgstr "AfterStep クラシック, AfterStep v1.1 ベースのウィンドウマネージャ"
+
+#~ msgctxt "Name"
+#~ msgid "awesome"
+#~ msgstr "awesome"
+
+#~ msgctxt "Comment"
+#~ msgid "Highly configurable framework window manager"
+#~ msgstr "細かく設定可能なフレームワークウィンドウマネージャ"
+
+#~ msgctxt "Name"
+#~ msgid "Blackbox"
+#~ msgstr "BlackBox"
+
+#~ msgctxt "Comment"
+#~ msgid "A fast & light window manager"
+#~ msgstr "軽快なウィンドウマネージャ"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "The Common Desktop Environment, a proprietary industry standard desktop "
+#~ "environment"
+#~ msgstr ""
+#~ "Common Desktop Environment,プロプライエタリな業界標準のデスクトップ環境"
+
+#~ msgctxt "Name"
+#~ msgid "CTWM"
+#~ msgstr "CTWM"
+
+#~ msgctxt "Comment"
+#~ msgid "Claude's Tab Window Manager, TWM enhanced by virtual screens, etc."
+#~ msgstr "TWM に仮想デスクトップなどを強化した Claude のウィンドウマネージャ"
+
+#~ msgctxt "Name"
+#~ msgid "CWWM"
+#~ msgstr "CWWM"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "The ChezWam Window Manager, a minimalist window manager based on EvilWM"
+#~ msgstr ""
+#~ "ChezWam ウィンドウマネージャ, EvilWM ベースの小さなウィンドウマネージャ"
+
+#~ msgctxt "Name"
+#~ msgid "Enlightenment DR16"
+#~ msgstr "Enlightenment DR16"
+
+#~ msgctxt "Comment"
+#~ msgid "An extremely themable very feature-rich window manager"
+#~ msgstr "詳細な部分までもテーマ化が可能な非常に多機能のウィンドウマネージャ"
+
+#~ msgctxt "Name"
+#~ msgid "Enlightenment"
+#~ msgstr "Enlightenment"
+
+#~ msgctxt "Name"
+#~ msgid "EvilWM"
+#~ msgstr "EvilWM"
+
+#~ msgctxt "Comment"
+#~ msgid "A minimalist window manager based on AEWM"
+#~ msgstr "AEWM ベースの小さなウィンドウマネージャ"
+
+#~ msgctxt "Name"
+#~ msgid "Fluxbox"
+#~ msgstr "Fluxbox"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "A highly configurable and low resource window manager based on Blackbox"
+#~ msgstr ""
+#~ "Blackbox ベースの高度な設定が可能でリソースにやさしいウィンドウマネージャ"
+
+#~ msgctxt "Name"
+#~ msgid "FLWM"
+#~ msgstr "FLWM"
+
+#~ msgctxt "Comment"
+#~ msgid "The Fast Light Window Manager, based primarily on WM2"
+#~ msgstr "“高速で軽い” WM2 ベースのウィンドウマネージャ"
+
+#~ msgctxt "Name"
+#~ msgid "FVWM"
+#~ msgstr "FVWM"
+
+#~ msgctxt "Comment"
+#~ msgid "A powerful ICCCM-compliant multiple virtual desktop window manager"
+#~ msgstr ""
+#~ "複数の仮想デスクトップをサポートした ICCCM 準拠のパワフルなウィンドウマ"
+#~ "ネージャ"
+
+#~ msgctxt "Name"
+#~ msgid "FVWM95"
+#~ msgstr "FVWM95"
+
+#~ msgctxt "Comment"
+#~ msgid "A Windows 95 look-alike derivative of FVWM"
+#~ msgstr "Windows95 に似た外見の FVWM 派生ウィンドウマネージャ"
+
+#~ msgctxt "Name"
+#~ msgid "GNOME"
+#~ msgstr "GNOME"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "The GNU Network Object Model Environment. A complete, free and easy-to-"
+#~ "use desktop environment"
+#~ msgstr ""
+#~ "GNU オブジェクトモデル環境, 完全にフリーで使いやすいデスクトップ環境"
+
+#~ msgctxt "Name"
+#~ msgid "Golem"
+#~ msgstr "Golem"
+
+#~ msgctxt "Comment"
+#~ msgid "A lightweight window manager"
+#~ msgstr "軽量なウィンドウマネージャ"
+
+#~ msgctxt "Name"
+#~ msgid "IceWM"
+#~ msgstr "IceWM"
+
+#~ msgctxt "Comment"
+#~ msgid "A Windows 95-OS/2-Motif-like window manager"
+#~ msgstr "Windows95, OS/2, Motif に似たウィンドウマネージャ"
+
+#~ msgctxt "Name"
+#~ msgid "Ion"
+#~ msgstr "Ion"
+
+#~ msgctxt "Comment"
+#~ msgid "A keyboard-friendly window manager with tiled windows, based on PWM"
+#~ msgstr ""
+#~ "PWM ベースのキーボード操作に適したタイル表示式のウィンドウマネージャ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Plasma Desktop Workspace"
+#~ msgctxt "Name"
+#~ msgid "KDE Plasma Workspace"
+#~ msgstr "Plasma デスクトップのワークスペース"
+
+#~ msgctxt "Name"
+#~ msgid "LarsWM"
+#~ msgstr "LarsWM"
+
+#~ msgctxt "Comment"
+#~ msgid "The Lars Window Manager, based on 9WM, supports tiled windows"
+#~ msgstr ""
+#~ "Lars ウィンドウマネージャ, 9WM ベース, タイル表示をサポートするウィンドウ"
+#~ "マネージャ"
+
+#~ msgctxt "Name"
+#~ msgid "LWM"
+#~ msgstr "LWM"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "The Lightweight Window Manager. A non-configurable, bare window manager"
+#~ msgstr "設定項目のない、単純なウィンドウマネージャ"
+
+#~ msgctxt "Name"
+#~ msgid "LXDE"
+#~ msgstr "LXDE"
+
+#~ msgctxt "Comment"
+#~ msgid "Lightweight X11 desktop environment"
+#~ msgstr "Lightweight X11 desktop environment"
+
+#~ msgctxt "Name"
+#~ msgid "Matchbox"
+#~ msgstr "Matchbox"
+
+#~ msgctxt "Comment"
+#~ msgid "A window manager for handheld devices"
+#~ msgstr "ハンドヘルドデバイス向けのウィンドウマネージャ"
+
+#~ msgctxt "Name"
+#~ msgid "Metacity"
+#~ msgstr "Metacity"
+
+#~ msgctxt "Comment"
+#~ msgid "A lightweight GTK2 based window manager"
+#~ msgstr "GTK2 ベースの軽量なウィンドウマネージャ"
+
+#~ msgctxt "Name"
+#~ msgid "MWM"
+#~ msgstr "MWM"
+
+#~ msgctxt "Comment"
+#~ msgid "The Motif Window Manager"
+#~ msgstr "Motif 風のウィンドウマネージャ"
+
+#~ msgctxt "Name"
+#~ msgid "OLVWM"
+#~ msgstr "OLVWM"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "The OpenLook Virtual Window Manager. OLWM enhanced for handling of "
+#~ "virtual desktops"
+#~ msgstr "OpenLook 仮想ウィンドウマネージャ, OLWM 強化仮想デスクトップ"
+
+#~ msgctxt "Name"
+#~ msgid "OLWM"
+#~ msgstr "OLWM"
+
+#~ msgctxt "Comment"
+#~ msgid "The traditional Open Look Window Manager"
+#~ msgstr "伝統的な OpenLook ウィンドウマネージャ"
+
+#~ msgctxt "Name"
+#~ msgid "Openbox"
+#~ msgstr "Openbox"
+
+#~ msgctxt "Comment"
+#~ msgid "A lightweight window manager based on Blackbox"
+#~ msgstr "Blackbox ベースの軽量なウィンドウマネージャ"
+
+#~ msgctxt "Name"
+#~ msgid "Oroborus"
+#~ msgstr "Oroborus"
+
+#~ msgctxt "Comment"
+#~ msgid "A lightweight themeable window manager"
+#~ msgstr "テーマ化可能な軽量のウィンドウマネージャ"
+
+#~ msgctxt "Name"
+#~ msgid "Phluid"
+#~ msgstr "Phluid"
+
+#~ msgctxt "Comment"
+#~ msgid "An Imlib2 based window manager"
+#~ msgstr "Imlib2 ベースのウィンドウマネージャ"
+
+#~ msgctxt "Name"
+#~ msgid "PWM"
+#~ msgstr "PWM"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "A lightweight window manager able to attach multiple windows to one frame"
+#~ msgstr "複数のウィンドウ枠を設定可能な軽量なウィンドウマネージャ"
+
+#~ msgctxt "Name"
+#~ msgid "QVWM"
+#~ msgstr "QVWM"
+
+#~ msgctxt "Comment"
+#~ msgid "A Windows 95 like window manager"
+#~ msgstr "Windows95 風のウィンドウマネージャ"
+
+#~ msgctxt "Name"
+#~ msgid "Ratpoison"
+#~ msgstr "Ratpoison"
+
+#~ msgctxt "Comment"
+#~ msgid "A simple keyboard-only window manager modeled after Screen"
+#~ msgstr ""
+#~ "Screen をもとに作られた、キーボードインターフェースのみのウィンドウマネー"
+#~ "ジャ"
+
+#~ msgctxt "Name"
+#~ msgid "Sapphire"
+#~ msgstr "Sapphire"
+
+#~ msgctxt "Comment"
+#~ msgid "A minimal but configurable window manager"
+#~ msgstr "各種設定が可能な小さなウィンドウマネージャ"
+
+#~ msgctxt "Name"
+#~ msgid "Sawfish"
+#~ msgstr "Sawfish"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "An extensible window manager scriptable with an Emacs Lisp-like language"
+#~ msgstr "Emacs Lisp 言語スクリプトで機能拡張可能なウィンドウマネージャ"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "The Tab Window Manager"
+#~ msgctxt "Comment"
+#~ msgid "Subtle Tiling Window Manager"
+#~ msgstr "Tab 化ウィンドウマネージャ"
+
+#~ msgctxt "Name"
+#~ msgid "TWM"
+#~ msgstr "TWM"
+
+#~ msgctxt "Comment"
+#~ msgid "The Tab Window Manager"
+#~ msgstr "Tab 化ウィンドウマネージャ"
+
+#~ msgctxt "Name"
+#~ msgid "UDE"
+#~ msgstr "UDE"
+
+#~ msgctxt "Comment"
+#~ msgid "The UNIX Desktop Environment"
+#~ msgstr "UNIX デスクトップ環境"
+
+#~ msgctxt "Name"
+#~ msgid "VTWM"
+#~ msgstr "VTWM"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "The Virtual Tab Window Manager. TWM enhanced by virtual screens, etc."
+#~ msgstr ""
+#~ "仮想スクリーンなどの機能を拡張した TWM ベースの仮想タブウィンドウマネー"
+#~ "ジャ"
+
+#~ msgctxt "Name"
+#~ msgid "W9WM"
+#~ msgstr "W9WM"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "A window manager based on 9WM, enhanced by virtual screens and keyboard "
+#~ "bindings"
+#~ msgstr ""
+#~ "仮想スクリーンとキーボードショートカット機能を強化した 9WM ベースのウィン"
+#~ "ドウマネージャ"
+
+#~ msgctxt "Name"
+#~ msgid "Waimea"
+#~ msgstr "Waimea"
+
+#~ msgctxt "Comment"
+#~ msgid "A highly customizable window manager based on Blackbox"
+#~ msgstr "Blackbox ベースの高度なカスタマイズが可能なウィンドウマネージャ"
+
+#~ msgctxt "Name"
+#~ msgid "WM2"
+#~ msgstr "WM2"
+
+#~ msgctxt "Comment"
+#~ msgid "A small, non-configurable window manager"
+#~ msgstr "小さくて設定項目のないウィンドウマネージャ"
+
+#~ msgctxt "Name"
+#~ msgid "WindowMaker"
+#~ msgstr "WindowMaker"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "A simple window manager that resembles the NeXTStep look very closely"
+#~ msgstr "NextStep にとてもよく似たシンプルなウィンドウマネージャ"
+
+#~ msgctxt "Name"
+#~ msgid "XFce"
+#~ msgstr "XFce"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "The Cholesterol Free Desktop Environment. A desktop environment "
+#~ "reminiscent of CDE"
+#~ msgstr ""
+#~ "Cholesterol Free Desktop Environment。CDE を思わせる、無駄のないデスクトッ"
+#~ "プ環境。"
+
+#~ msgctxt "Name"
+#~ msgid "Xfce 4"
+#~ msgstr "Xfce 4"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "The Cholesterol Free Desktop Environment, version 4. A desktop "
+#~ "environment reminiscent of CDE"
+#~ msgstr ""
+#~ "Cholesterol Free Desktop Environment, version 4, CDE を思わせる、むだのな"
+#~ "いデスクトップ環境"
+
+#~ msgctxt "Name"
+#~ msgid "Circles"
+#~ msgstr "サークル"
+
+#~ msgctxt "Description"
+#~ msgid "Theme with blue circles"
+#~ msgstr "青い丸のテーマ"
+
+#~ msgctxt "Name"
+#~ msgid "Horos"
+#~ msgstr "Horos"
+
+#~ msgctxt "Name"
+#~ msgid "Oxygen-Air"
+#~ msgstr "Oxygen-Air"
+
+#~ msgctxt "Description"
+#~ msgid "Oxygen Theme"
+#~ msgstr "Oxygen テーマ"
+
+#~ msgctxt "Comment"
+#~ msgid "This group contains actions that are set up by default."
+#~ msgstr "このグループには標準で設定されているアクションが含まれています。"
+
+#~ msgctxt "Name"
+#~ msgid "Preset Actions"
+#~ msgstr "プリセットアクション"
+
+#~ msgctxt "Comment"
+#~ msgid "Launches KSnapShot when PrintScrn is pressed."
+#~ msgstr "PrintScrn を押して KSnapShot を起動します。"
+
+#~ msgctxt "Name"
+#~ msgid "PrintScreen"
+#~ msgstr "PrintScreen"
+
+#~ msgctxt "Name"
+#~ msgid "Command Runner"
+#~ msgstr "コマンド Runner"
+
+#~ msgctxt "Name"
+#~ msgid "Blank Screen"
+#~ msgstr "なし"
+
+#~ msgctxt "Name"
+#~ msgid "Setup..."
+#~ msgstr "セットアップ..."
+
+#~ msgctxt "Name"
+#~ msgid "Display in Specified Window"
+#~ msgstr "指定したウィンドウで表示"
+
+#~ msgctxt "Name"
+#~ msgid "Display in Root Window"
+#~ msgstr "ルートウィンドウで表示"
+
+#~ msgctxt "Name"
+#~ msgid "Random"
+#~ msgstr "ランダム"
+
+#~ msgctxt "Comment"
+#~ msgid "ScreenSaver"
+#~ msgstr "スクリーンセーバー"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Display Management"
+#~ msgctxt "Name"
+#~ msgid "Session Management"
+#~ msgstr "ディスプレイ管理"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure file manager services"
+#~ msgctxt "Comment"
+#~ msgid "Configure the session manager and logout settings"
+#~ msgstr "ファイルマネージャのサービスを設定します"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "ScreenSaver"
+#~ msgctxt "Comment"
+#~ msgid "Screen Saver"
+#~ msgstr "スクリーンセーバー"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Screen Resize & Rotate"
+#~ msgctxt "Name"
+#~ msgid "Screen saver started"
+#~ msgstr "スクリーンのリサイズと回転"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Screen Resize & Rotate"
+#~ msgctxt "Comment"
+#~ msgid "The screen saver has been started"
+#~ msgstr "スクリーンのリサイズと回転"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Screen locked"
+#~ msgctxt "Name"
+#~ msgid "Screen locked"
+#~ msgstr "スクリーンロック"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Screen Resize & Rotate"
+#~ msgctxt "Comment"
+#~ msgid "The screen has been locked"
+#~ msgstr "スクリーンのリサイズと回転"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "ScreenSaver"
+#~ msgctxt "Name"
+#~ msgid "Screen saver exited"
+#~ msgstr "スクリーンセーバー"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "ScreenSaver"
+#~ msgctxt "Comment"
+#~ msgid "The screen saver has finished"
+#~ msgstr "スクリーンセーバー"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Screen locked"
+#~ msgctxt "Name"
+#~ msgid "Screen unlocked"
+#~ msgstr "スクリーンロック"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Screen Resize & Rotate"
+#~ msgctxt "Comment"
+#~ msgid "The screen has been unlocked"
+#~ msgstr "スクリーンのリサイズと回転"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Screen locked"
+#~ msgctxt "Name"
+#~ msgid "Screen unlock failed"
+#~ msgstr "スクリーンロック"
+
+#~ msgctxt "Name"
+#~ msgid "B II"
+#~ msgstr "B II"
+
+#~ msgctxt "Name"
+#~ msgid "Laptop"
+#~ msgstr "ラップトップ"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Widget Dashboard"
+#~ msgctxt "Name"
+#~ msgid "Dashboard"
+#~ msgstr "ウィジェットダッシュボード"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Controls for the active window"
+#~ msgctxt "Comment"
+#~ msgid "Darken inactive windows"
+#~ msgstr "アクティブウィンドウのコントロール"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Duplicate Window"
+#~ msgctxt "Name"
+#~ msgid "Highlight Window"
+#~ msgstr "ウィンドウを複製"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Display window thumbnails when hovering over taskbar entries"
+#~ msgctxt "Comment"
+#~ msgid "Highlight the appropriate window when hovering over taskbar entries"
+#~ msgstr ""
+#~ "タスクバーのエントリの上にマウスを止めたときに、ウィンドウのサムネイルを表"
+#~ "示します"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Screen locked"
+#~ msgctxt "Name"
+#~ msgid "Screen Edge"
+#~ msgstr "スクリーンロック"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Screen locked"
+#~ msgctxt "Name"
+#~ msgid "Screenshot"
+#~ msgstr "スクリーンロック"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Now Playing"
+#~ msgctxt "Name"
+#~ msgid "Show Paint"
+#~ msgstr "今聴いているもの"
+
+#~ msgctxt "Name"
+#~ msgid "Taskbar Thumbnails"
+#~ msgstr "タスクバーのサムネイル"
+
+#~ msgctxt "Comment"
+#~ msgid "Display window thumbnails when hovering over taskbar entries"
+#~ msgstr ""
+#~ "タスクバーのエントリの上にマウスを止めたときに、ウィンドウのサムネイルを表"
+#~ "示します"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Display window thumbnails when hovering over taskbar entries"
+#~ msgctxt "Comment"
+#~ msgid "Display window thumbnails on the edge of the screen"
+#~ msgstr ""
+#~ "タスクバーのエントリの上にマウスを止めたときに、ウィンドウのサムネイルを表"
+#~ "示します"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure desktop effects"
+#~ msgstr "デスクトップ効果を設定"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure Input Actions settings"
+#~ msgctxt "Comment"
+#~ msgid "Configure mouse actions on windows"
+#~ msgstr "入力アクションの設定"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure file manager services"
+#~ msgctxt "Comment"
+#~ msgid "Configure advanced window management features"
+#~ msgstr "ファイルマネージャのサービスを設定します"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure the login manager (KDM)"
+#~ msgctxt "Comment"
+#~ msgid "Configure the window behavior"
+#~ msgstr "ログインマネージャ (KDM) の設定"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure Input Actions settings"
+#~ msgctxt "Comment"
+#~ msgid "Configure active screen edges"
+#~ msgstr "入力アクションの設定"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop Sessions"
+#~ msgctxt "Name"
+#~ msgid "Large Icons"
+#~ msgstr "デスクトップセッション"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop Sessions"
+#~ msgctxt "Name"
+#~ msgid "Text Icons"
+#~ msgstr "デスクトップセッション"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Taskbar Thumbnails"
+#~ msgctxt "Name"
+#~ msgid "Thumbnails"
+#~ msgstr "タスクバーのサムネイル"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Window List"
+#~ msgctxt "Name"
+#~ msgid "Window Strip"
+#~ msgstr "ウィンドウ一覧"
+
+#~ msgctxt "Name"
+#~ msgid "Display Management"
+#~ msgstr "ディスプレイ管理"
+
+#~ msgctxt "Comment"
+#~ msgid "Manages displays and video outputs"
+#~ msgstr "ディスプレイとビデオ出力を管理"
+
+# skip-rule: launcher
+#~ msgctxt "Name"
+#~ msgid "Application Launcher Menu"
+#~ msgstr "アプリケーション起動メニュー"
+
+#~ msgctxt "Comment"
+#~ msgid "Traditional menu based application launcher"
+#~ msgstr "Kickoff ランチャーに基づく従来のアプリケーション起動メニュー"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Pager"
+#~ msgctxt "Name"
+#~ msgid "Pager (QML)"
+#~ msgstr "ページャ"
+
+#~ msgctxt "Comment"
+#~ msgid "Access to deleted items"
+#~ msgstr "削除したアイテムにアクセスします"
+
+#~ msgctxt "Name"
+#~ msgid "Window List"
+#~ msgstr "ウィンドウ一覧"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Default desktop"
+#~ msgctxt "Name|plasma containment"
+#~ msgid "Default Desktop"
+#~ msgstr "標準デスクトップ"
+
+#~ msgctxt "Name|plasma containment"
+#~ msgid "Desktop Dashboard"
+#~ msgstr "デスクトップダッシュボード"
+
+#~ msgctxt "Comment"
+#~ msgid "Widget Dashboard"
+#~ msgstr "ウィジェットダッシュボード"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "A window manager for handheld devices"
+#~ msgctxt "Name"
+#~ msgid "Activity manager for the desktop"
+#~ msgstr "ハンドヘルドデバイス向けのウィンドウマネージャ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop Sessions"
+#~ msgctxt "Name"
+#~ msgid "Desktop Icons"
+#~ msgstr "デスクトップセッション"
+
+#~ msgctxt "Name"
+#~ msgid "Find Widgets"
+#~ msgstr "ウィジェットの検索"
+
+#~ msgctxt "Name"
+#~ msgid "Photos Activity"
+#~ msgstr "フォトアクティビティ"
+
+#~ msgctxt "Name"
+#~ msgid "Search and Launch"
+#~ msgstr "検索と起動"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma Desktop Shell"
+#~ msgstr "Plasma デスクトップシェル"
+
+#~ msgctxt "Name"
+#~ msgid "New widget published"
+#~ msgstr "新しいウィジェットの公開"
+
+#~ msgctxt "Comment"
+#~ msgid "A new widget has become available on the network."
+#~ msgstr "新しいウィジェットがネットワーク上に公開されました。"
+
+#~ msgctxt "Comment"
+#~ msgid "Default desktop toolbox for the Plasma desktop shell"
+#~ msgstr "Plasma デスクトップシェルの標準デスクトップツールボックス"
+
+#~ msgctxt "Name"
+#~ msgid "Desktop toolbox"
+#~ msgstr "デスクトップツールボックス"
+
+#~ msgctxt "Name"
+#~ msgid "Default Plasma Animator"
+#~ msgstr "デフォルトの Plasma アニメータ"
+
+#~ msgctxt "Name"
+#~ msgid "Battery Monitor"
+#~ msgstr "バッテリモニタ"
+
+#~ msgctxt "Comment"
+#~ msgid "View and pick dates from the calendar"
+#~ msgstr "カレンダーで日付を見たり選択したりします"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Battery Monitor"
+#~ msgctxt "Name"
+#~ msgid "CPU Monitor"
+#~ msgstr "バッテリモニタ"
+
+#~ msgctxt "Name"
+#~ msgid "Meta Data"
+#~ msgstr "メタデータ"
+
+#~ msgctxt "Name"
+#~ msgid "Now Playing"
+#~ msgstr "今聴いているもの"
+
+#~ msgctxt "Comment"
+#~ msgid "Lists currently playing music"
+#~ msgstr "今聴いているものを表示します"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Window List"
+#~ msgctxt "Name"
+#~ msgid "Window Information"
+#~ msgstr "ウィンドウ一覧"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Nepomuk Desktop Search Runner"
+#~ msgctxt "Name"
+#~ msgid "Nepomuk Desktop Search"
+#~ msgstr "Nepomuk デスクトップ検索 Runner"
+
+#~ msgctxt "Comment"
+#~ msgid "KRunner which performs desktop searches via Nepomuk"
+#~ msgstr "Nepomuk を介してデスクトップ検索を行う KRunner"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "HAL PowerDevil Backend"
+#~ msgctxt "Name"
+#~ msgid "PowerDevil"
+#~ msgstr "HAL PowerDevil バックエンド"
+
+#~ msgctxt "Name"
+#~ msgid "Python Widget"
+#~ msgstr "Python ウィジェット"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma widget support written in Python"
+#~ msgstr "Python で書かれた Plasma のウィジェット"
+
+#~ msgctxt "Name"
+#~ msgid "Python data engine"
+#~ msgstr "Python データエンジン"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma data engine support for Python"
+#~ msgstr "Python のための Plasma データエンジンのサポート"
+
+#~ msgctxt "Name"
+#~ msgid "Python Runner"
+#~ msgstr "Python ラナー"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma Runner support for Python"
+#~ msgstr "Python のための Plasma ラナーサポート"
+
+#~ msgctxt "Name"
+#~ msgid "Python wallpaper"
+#~ msgstr "Python 壁紙"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma wallpaper support for Python"
+#~ msgstr "Python のための Plasma の壁紙"
+
+#~ msgctxt "Name"
+#~ msgid "Ruby Widget"
+#~ msgstr "Ruby ウィジェット"
+
+#~ msgctxt "Comment"
+#~ msgid "Native Plasma widget written in Ruby"
+#~ msgstr "Ruby で書かれた Plasma のネイティブウィジェット"
+
+#~ msgctxt "Name"
+#~ msgid "MacOS Dashboard Widgets"
+#~ msgstr "MacOS ダッシュボードウィジェット"
+
+#~ msgctxt "Comment"
+#~ msgid "MacOS dashboard widget"
+#~ msgstr "MacOS ダッシュボードウィジェット"
+
+#~ msgctxt "Name"
+#~ msgid "Web Widgets"
+#~ msgstr "ウェブウィジェット"
+
+#~ msgctxt "Comment"
+#~ msgid "HTML widget"
+#~ msgstr "HTML ウィジェット"
+
+#~ msgctxt "Comment"
+#~ msgid "MacOS X dashboard widget"
+#~ msgstr "MacOS X ダッシュボードウィジェット"
+
+#~ msgctxt "Name"
+#~ msgid "Web Widget"
+#~ msgstr "ウェブウィジェット"
+
+#~ msgctxt "Comment"
+#~ msgid "Webpage widget using HTML and JavaScript"
+#~ msgstr "HTML と JavaScript を使ったウェブページウィジェット"
+
+#~ msgctxt "Name"
+#~ msgid "Current Application Control"
+#~ msgstr "現在のアプリケーションコントロール"
+
+#~ msgctxt "Comment"
+#~ msgid "Controls for the active window"
+#~ msgstr "アクティブウィンドウのコントロール"
+
+#~ msgctxt "Name"
+#~ msgid "Search Box"
+#~ msgstr "検索ボックス"
+
+#~ msgctxt "Comment"
+#~ msgid "Search Box for a given RunnerManager"
+#~ msgstr "RunnerManager の検索ボックス"
+
+#~ msgctxt "Name"
+#~ msgid "Panel for Netbooks"
+#~ msgstr "ネットブックのパネル"
+
+#~ msgctxt "Comment"
+#~ msgid "A containment for a panel"
+#~ msgstr "プラズモイド (Plasma パネル) の入れ物"
+
+#~ msgctxt "Name"
+#~ msgid "Plasma Search and Launch menu"
+#~ msgstr "Plasma 検索と起動メニュー"
+
+#~ msgctxt "Comment"
+#~ msgid "Menu entry for The Plasma search and launch activity"
+#~ msgstr "Plasma 検索と起動メニュー用のメニューエントリ"
+
+#~ msgctxt "Name"
+#~ msgid "Bookmarks"
+#~ msgstr "ブックマーク"
+
+#~ msgctxt "Comment"
+#~ msgid "List all your bookmarks"
+#~ msgstr "すべてのブックマークを一覧表示します"
+
+#~ msgctxt "Name"
+#~ msgid "Contacts"
+#~ msgstr "連絡先"
+
+#~ msgctxt "Comment"
+#~ msgid "List all your contacts"
+#~ msgstr "すべての連絡先を一覧表示します"
+
+#~ msgctxt "Comment"
+#~ msgid "Applications targeted to software development"
+#~ msgstr "ソフトウェア開発に向けたアプリケーション"
+
+#~ msgctxt "Comment"
+#~ msgid "Educational applications"
+#~ msgstr "教育アプリケーション"
+
+#~ msgctxt "Comment"
+#~ msgid "A collection of fun games"
+#~ msgstr "楽しいゲームのコレクション"
+
+#~ msgctxt "Comment"
+#~ msgid "Graphics applications, such as paint programs and image viewers"
+#~ msgstr ""
+#~ "お絵描きアプリケーションやイメージビューアなどのグラフィックアプリケーショ"
+#~ "ン"
+
+#~ msgctxt "Comment"
+#~ msgid "Internet related applications, such as Web browser, Email and chat"
+#~ msgstr ""
+#~ "ウェブブラウザ、電子メール、チャットなどのインターネット関連のアプリケー"
+#~ "ション"
+
+#~ msgctxt "Comment"
+#~ msgid "Multimedia applications, such as audio and video players"
+#~ msgstr "オーディオやビデオプレーヤーなどのマルチメディアアプリケーション"
+
+#~ msgctxt "Comment"
+#~ msgid "Office related applications, such as wordprocessing and spreadsheets"
+#~ msgstr "ワープロやスプレッドシートなどのオフィス関連アプリケーション"
+
+#~ msgctxt "Comment"
+#~ msgid "System preferences and setup programs"
+#~ msgstr "システム設定やセットアッププログラム"
+
+#~ msgctxt "Comment"
+#~ msgid "Small utilities and accessories"
+#~ msgstr "小さなユーティリティとアクセサリ"
+
+#~ msgctxt "Name"
+#~ msgid "Search and Launch Engine"
+#~ msgstr "検索起動エンジン"
+
+#~ msgctxt "Comment"
+#~ msgid "Engine to handle queries to SAL containment"
+#~ msgstr "SAL コンテンツのクエリを処理するエンジン"
+
+#~ msgctxt "Name"
+#~ msgid "Air for netbooks"
+#~ msgstr "ネットブック用の Air"
+
+#~ msgctxt "Comment"
+#~ msgid "A breath of fresh air"
+#~ msgstr "新鮮な空気"
+
+#~ msgctxt "Name"
+#~ msgid "Page one"
+#~ msgstr "ページワン"
+
+#~ msgctxt "Comment"
+#~ msgid "Default Netbook Page"
+#~ msgstr "標準のネットブックのページ"
+
+#~ msgctxt "Name"
+#~ msgid "Default Netbook Panel"
+#~ msgstr "標準のネットブックのパネル"
+
+#~ msgctxt "Name"
+#~ msgid "Search and launch"
+#~ msgstr "検索と起動"
+
+#~ msgctxt "Comment"
+#~ msgid "Default toolbox for the netbook shell"
+#~ msgstr "ネットブックシェル用の標準ツールボックス"
+
+#~ msgctxt "Name"
+#~ msgid "Net toolbox"
+#~ msgstr "ネットワークツールボックス"
+
+#~ msgctxt "Name"
+#~ msgid "SaverDesktop"
+#~ msgstr "セーバーデスクトップ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Set brightness"
+#~ msgctxt "Name"
+#~ msgid "Screen Brightness"
+#~ msgstr "明るさを設定"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Login Screen"
+#~ msgctxt "Name"
+#~ msgid "Dim Screen"
+#~ msgstr "ログインスクリーン"
+
+#~ msgctxt "Comment"
+#~ msgid "Dims gradually the display on a time basis"
+#~ msgstr "ディスプレイを時間とともに徐々に暗くする"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Keyboard Layout"
+#~ msgctxt "Name"
+#~ msgid "Keyboard Backlight"
+#~ msgstr "キーボード配列"
+
+#~ msgctxt "Name"
+#~ msgid "Run Script"
+#~ msgstr "スクリプトを実行"
+
+#~ msgctxt "Comment"
+#~ msgid "Runs a custom script"
+#~ msgstr "カスタムスクリプトを実行"
+
+#~ msgctxt "Name"
+#~ msgid "Suspend Session"
+#~ msgstr "セッションをサスペンド"
+
+#~ msgctxt "Comment"
+#~ msgid "Suspends the session"
+#~ msgstr "セッションをサスペンドします"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Screen Saver Settings"
+#~ msgctxt "Name"
+#~ msgid "Screen Energy Saving"
+#~ msgstr "スクリーンセーバーの設定"
+
+#~ msgctxt "Comment"
+#~ msgid "Controls DPMS settings"
+#~ msgstr "DPMS の設定"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Power Management Backend"
+#~ msgctxt "Comment"
+#~ msgid "Power Management Action Extension"
+#~ msgstr "電源管理のバックエンド"
+
+#~ msgctxt "Name"
+#~ msgid "HAL PowerDevil Backend"
+#~ msgstr "HAL PowerDevil バックエンド"
+
+#~ msgctxt "Comment"
+#~ msgid "Use KDE Power Management system through freedesktop.org HAL daemon"
+#~ msgstr "freedesktop.org の HAL デーモンを介して KDE 電源管理を使用"
+
+#~ msgctxt "Name"
+#~ msgid "KDE"
+#~ msgstr "KDE"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Display Settings"
+#~ msgctxt "Name"
+#~ msgid "Get brightness"
+#~ msgstr "ディスプレイの設定"
+
+#, fuzzy
+#~| msgctxt "Description"
+#~| msgid "System policies prevent you from saving the date/time settings."
+#~ msgctxt "Description"
+#~ msgid "System policies prevent you from getting the brightness level."
+#~ msgstr "システムポリシーにより、日時設定を保存することができません。"
+
+#~ msgctxt "Name"
+#~ msgid "Set brightness"
+#~ msgstr "明るさを設定"
+
+#~ msgctxt "Description"
+#~ msgid "System policies prevent you from setting the brightness level."
+#~ msgstr "システムポリシーにより、明るさを設定することができません。"
+
+#, fuzzy
+#~| msgctxt "Description"
+#~| msgid "System policies prevent you from saving the date/time settings."
+#~ msgctxt "Description"
+#~ msgid "System policies prevent you from getting the syspath"
+#~ msgstr "システムポリシーにより、日時設定を保存することができません。"
+
+#~ msgctxt "Name"
+#~ msgid "UPower PowerDevil Backend"
+#~ msgstr "UPower PowerDevil バックエンド"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Use KDE Power Management system through freedesktop.org upower daemon"
+#~ msgstr "freedesktop.org の upower デーモンを介して KDE 電源管理を使用"
+
+#~ msgctxt "Comment"
+#~ msgid "Battery, Display and CPU power management and notification"
+#~ msgstr "バッテリ、ディスプレイ、CPU の電源管理と通知"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Activities"
+#~ msgctxt "Name"
+#~ msgid "Activity Settings"
+#~ msgstr "アクティビティ"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure file manager services"
+#~ msgctxt "Comment"
+#~ msgid "Configure per-activity Power Management"
+#~ msgstr "ファイルマネージャのサービスを設定します"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Font settings"
+#~ msgctxt "Name"
+#~ msgid "Advanced Settings"
+#~ msgstr "フォントの設定"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure file manager services"
+#~ msgctxt "Comment"
+#~ msgid "Configure Advanced Power Management Settings"
+#~ msgstr "ファイルマネージャのサービスを設定します"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Screen Saver Settings"
+#~ msgctxt "Name"
+#~ msgid "Energy Saving"
+#~ msgstr "スクリーンセーバーの設定"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure Input Actions settings"
+#~ msgctxt "Comment"
+#~ msgid "Configure Energy Saving"
+#~ msgstr "入力アクションの設定"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Power Management System"
+#~ msgstr "KDE 電源管理"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "KDE Power Management System"
+#~ msgctxt "Comment"
+#~ msgid "Power Management System"
+#~ msgstr "KDE 電源管理"
+
+#~ msgctxt "Name"
+#~ msgid "Notification"
+#~ msgstr "通知"
+
+#~ msgctxt "Comment"
+#~ msgid "Used for standard notifications"
+#~ msgstr "通常の通知に使用"
+
+#~ msgctxt "Name"
+#~ msgid "Critical notification"
+#~ msgstr "重大な通知"
+
+#~ msgctxt "Comment"
+#~ msgid "Notifies a critical event"
+#~ msgstr "重大なイベントを通知します"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Battery Monitor"
+#~ msgctxt "Name"
+#~ msgid "Battery Low"
+#~ msgstr "バッテリモニタ"
+
+#~ msgctxt "Comment"
+#~ msgid "Your battery has reached low level"
+#~ msgstr "バッテリ残量が低レベルに達しました"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Battery at critical level"
+#~ msgctxt "Name"
+#~ msgid "Battery Critical"
+#~ msgstr "バッテリ危険レベル"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Your battery has reached critical level. This notification triggers a "
+#~ "countdown before doing the configured action, hence it is strongly "
+#~ "advised to leave that on."
+#~ msgstr ""
+#~ "バッテリ残量が危険レベルに達しました。この通知によって、このレベルに設定さ"
+#~ "れているアクションのカウントダウンが開始されるので、有効にしておくことを強"
+#~ "くお勧めします。"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Charge State"
+#~ msgctxt "Name"
+#~ msgid "Charge Complete"
+#~ msgstr "充電の状態"
+
+#~ msgctxt "Name"
+#~ msgid "AC adaptor plugged in"
+#~ msgstr "AC アダプタが接続されました"
+
+#~ msgctxt "Comment"
+#~ msgid "The power adaptor has been plugged in"
+#~ msgstr "電源アダプタが接続されました"
+
+#~ msgctxt "Name"
+#~ msgid "AC adaptor unplugged"
+#~ msgstr "AC アダプタが取り外されました"
+
+#~ msgctxt "Comment"
+#~ msgid "The power adaptor has been unplugged"
+#~ msgstr "電源アダプタが取り外されました"
+
+#~ msgctxt "Comment"
+#~ msgid "The KDE Power Management System has triggered an internal error"
+#~ msgstr "KDE 電源管理に内部エラーが発生しました"
+
+#~ msgctxt "Name"
+#~ msgid "Suspension inhibited"
+#~ msgstr "サスペンドが阻止されました"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "The suspension has been inhibited because an application requested it"
+#~ msgstr "アプリケーションの要求によりサスペンドが阻止されました"
+
+#~ msgctxt "Name"
+#~ msgid "Broken battery notification"
+#~ msgstr "バッテリーの故障通知"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "The KDE Power Management System has triggered an internal error"
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "KDE Power Management System has detected some troubles with one of your "
+#~ "batteries"
+#~ msgstr "KDE 電源管理に内部エラーが発生しました"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Plugged"
+#~ msgctxt "Name|AC adapter plugged in"
+#~ msgid "Plugged"
+#~ msgstr "接続されています"
+
+#~ msgctxt "Name"
+#~ msgid "Device Type"
+#~ msgstr "デバイスのタイプ"
+
+#~ msgctxt "Name"
+#~ msgid "Driver"
+#~ msgstr "ドライバ"
+
+#~ msgctxt "Name"
+#~ msgid "Driver Handle"
+#~ msgstr "ドライバハンドル"
+
+#~ msgctxt "Name"
+#~ msgid "Name"
+#~ msgstr "名前"
+
+#~ msgctxt "Name"
+#~ msgid "Soundcard Type"
+#~ msgstr "サウンドカードのタイプ"
+
+#~ msgctxt "Name"
+#~ msgid "Device Adapter"
+#~ msgstr "デバイスのアダプタ"
+
+#~ msgctxt "Name"
+#~ msgid "Device Index"
+#~ msgstr "デバイスのインデックス"
+
+#~ msgctxt "Name"
+#~ msgid "Hw Address"
+#~ msgstr "HW アドレス"
+
+#~ msgctxt "Name"
+#~ msgid "Iface Name"
+#~ msgstr "インターフェース名"
+
+#~ msgctxt "Name"
+#~ msgid "Mac Address"
+#~ msgstr "Mac アドレス"
+
+#~ msgctxt "Name"
+#~ msgid "Wireless"
+#~ msgstr "ワイヤレス"
+
+#~ msgctxt "Name"
+#~ msgid "Port"
+#~ msgstr "ポート"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Serial Type"
+#~ msgctxt "Name|The physical type of serial port (ie. USB, RS232, etc)"
+#~ msgid "Serial Type"
+#~ msgstr "シリアルタイプ"
+
+#~ msgctxt "Name"
+#~ msgid "Reader Type"
+#~ msgstr "リーダーのタイプ"
+
+#~ msgctxt "Name"
+#~ msgid "Default Panel"
+#~ msgstr "標準のパネル"
+
+#~ msgctxt "Comment"
+#~ msgid "Time displayed in a digital format"
+#~ msgstr "時刻をデジタル形式で表示します"
+
+#~ msgctxt "Name"
+#~ msgid "Workspace"
+#~ msgstr "ワークスペース"
+
+#~ msgctxt "Name"
+#~ msgid "Desktop Effects"
+#~ msgstr "デスクトップ効果"
+
+#~ msgctxt "Name"
+#~ msgid "Plasma Desktop Workspace"
+#~ msgstr "Plasma デスクトップのワークスペース"
+
+#~ msgctxt "Name"
+#~ msgid "Development"
+#~ msgstr "開発"
+
+#~ msgctxt "Name"
+#~ msgid "Education"
+#~ msgstr "教育"
+
+#~ msgctxt "Name"
+#~ msgid "Games"
+#~ msgstr "ゲーム"
+
+#~ msgctxt "Name"
+#~ msgid "Graphics"
+#~ msgstr "グラフィックス"
+
+#~ msgctxt "Name"
+#~ msgid "Internet"
+#~ msgstr "インターネット"
+
+#~ msgctxt "Name"
+#~ msgid "Office"
+#~ msgstr "オフィス"
+
+#~ msgctxt "Name"
+#~ msgid "Utilities"
+#~ msgstr "ユーティリティ"

@@ -1,0 +1,768 @@
+# Translation of desktop_kdelibs into Japanese.
+# Taiki Komoda <kom@kde.gr.jp>, 2002, 2004, 2010.
+# Kenshi Muto <kmuto@debian.org>, 2004.
+# Toyohiro Asukai <toyohiro@ksmplus.com>, 2004.
+# AWASHIRO Ikuya <ikuya@oooug.jp>, 2004.
+# AWASHIRO Ikuya <ikuya@good-day.co.jp>, 2005.
+# Satoru SATOH <ss@kde.gr.jp>, 2005.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2006, 2007, 2008, 2009, 2010.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2006, 2008, 2010, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdelibs\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-12-01 10:35+0100\n"
+"PO-Revision-Date: 2011-05-15 16:37-0700\n"
+"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: \n"
+"X-Text-Markup: \n"
+"X-Generator: Lokalize 1.1\n"
+
+#. +> trunk6 stable6
+#: plugins/akregator/akregator_konqfeedicon.json
+msgctxt "Name"
+msgid "Konqueror Feed Icon"
+msgstr "Konqueror フィードアイコン"
+
+#. +> trunk6 stable6
+#: plugins/akregator/akregator_konqfeedicon.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Displays an icon in the status bar if the page contains a feed"
+msgctxt "Description"
+msgid "Displays an icon in the status bar if the page contains a feed"
+msgstr "フィードを含むページでステータスバーにフィードアイコンを表示します"
+
+#. +> trunk6 stable6
+#: plugins/akregator/akregator_konqfeedicon.json
+msgctxt "Authors Name"
+msgid "Teemu Rytilahti"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/akregator/akregator_konqplugin.json
+msgctxt "Name"
+msgid "Add Feed to Akregator"
+msgstr "Akregator にフィードを追加"
+
+#. +> trunk6 stable6
+#: plugins/akregator/akregator_konqplugin.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Adds selected feed to Akregator"
+msgctxt "Description"
+msgid "Adds selected feed to Akregator"
+msgstr "選択したフィードを Akregator に追加します"
+
+#. +> trunk6 stable6
+#: plugins/autorefresh/autorefresh.json
+msgctxt "Name"
+msgid "Auto Refresh"
+msgstr "自動更新"
+
+#. +> trunk6 stable6
+#: plugins/autorefresh/autorefresh.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Auto Refresh plugin"
+msgctxt "Description"
+msgid "Auto Refresh plugin"
+msgstr "自動更新プラグイン"
+
+#. +> trunk6 stable6
+#: plugins/autorefresh/autorefresh.json
+msgctxt "Authors Name"
+msgid "Richard J. Moore"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/babelfish/plugin_translator.json
+msgctxt "Name"
+msgid "Translate"
+msgstr "翻訳"
+
+#. +> trunk6 stable6
+#: plugins/babelfish/plugin_translator.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Language translation for the current page using Babelfish"
+msgctxt "Description"
+msgid "Language translation for the current page using Google"
+msgstr "Babelfish を使って現在のページを他の言語に翻訳します"
+
+#. +> trunk6 stable6
+#: plugins/babelfish/plugin_translator.json
+msgctxt "Authors Name"
+msgid "Kurt Granroth, Rand2342"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/dirfilter/dirfilterplugin.json
+msgctxt "Name"
+msgid "Directory Filter"
+msgstr "ディレクトリフィルタ"
+
+#. +> trunk6 stable6
+#: plugins/dirfilter/dirfilterplugin.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Filter directory view using an attribute filter"
+msgctxt "Description"
+msgid "Filter directory view using an attribute filter"
+msgstr "属性フィルタを使ってディレクトリビューを絞り込みます"
+
+#. +> trunk6 stable6
+#: plugins/dirfilter/dirfilterplugin.json
+msgctxt "Authors Name"
+msgid "Dawit Alemayehu,Martin Koller"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/fsview/fsview_part.json.in
+msgctxt "Name"
+msgid "File Size View"
+msgstr "ファイルサイズ表示"
+
+# skip-rule: file_size
+#. +> trunk6 stable6
+#: plugins/fsview/fsview_part.json.in
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid ""
+#| "Enables a proportional view of directories and files based on file size"
+msgctxt "Description"
+msgid "Enables a proportional view of directories and files based on file size"
+msgstr "ディレクトリとファイルをそのサイズに比例した大きさで表示します"
+
+#. +> trunk6 stable6
+#: plugins/fsview/fsview_part.json.in
+msgctxt "Authors Name"
+msgid "Josef Weidendorfer"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/fsview/fsview_part.json.in
+msgctxt "Copyright"
+msgid "Copyright 2002 Josef Weidendorfer"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/kget/kget_plugin.json
+msgctxt "Name"
+msgid "Download Manager"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/kget/kget_plugin.json
+msgctxt "Description"
+msgid "A versatile and easy to use file download manager"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/kget/kget_plugin.json
+msgctxt "Authors Name"
+msgid "KGet Maintainers"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/khtmlsettingsplugin/khtmlsettingsplugin.json.in
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "KHTML Settings"
+msgctxt "Name"
+msgid "HTML Settings"
+msgstr "KHTML 設定"
+
+#. +> trunk6 stable6
+#: plugins/khtmlsettingsplugin/khtmlsettingsplugin.json.in
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "A fast way to change the KHTML settings"
+msgctxt "Description"
+msgid "A fast way to change the HTML settings"
+msgstr "KHTML 設定を素早く変更できます"
+
+#. +> trunk6 stable6
+#: plugins/khtmlsettingsplugin/khtmlsettingsplugin.json.in
+msgctxt "Authors Name"
+msgid "Carsten Pfeiffer"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/kimgalleryplugin/kimgalleryplugin.json
+msgctxt "Name"
+msgid "Image Gallery"
+msgstr "イメージギャラリー"
+
+#. +> trunk6 stable6
+#: plugins/kimgalleryplugin/kimgalleryplugin.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "An easy way to generate an HTML image gallery"
+msgctxt "Description"
+msgid "An easy way to generate an HTML image gallery"
+msgstr "HTML イメージギャラリーを簡単に作成できます"
+
+#. +> trunk6 stable6
+#: plugins/kimgalleryplugin/kimgalleryplugin.json
+msgctxt "Authors Name"
+msgid "Lukas Tinkl,Andreas Schlapbach"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/searchbar/searchbar.json
+msgctxt "Name"
+msgid "Search Bar"
+msgstr "検索バー"
+
+#. +> trunk6 stable6
+#: plugins/searchbar/searchbar.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Provides a text box for easier access to search engines like Google."
+msgctxt "Description"
+msgid "Provides a text box for easier access to search engines like Google."
+msgstr ""
+"Google のような検索エンジンに簡単にアクセスできるテキストボックスを提供しま"
+"す。"
+
+#. +> trunk6 stable6
+#: plugins/searchbar/searchbar.json
+msgctxt "Authors Name"
+msgid "Arend van Beelen jr."
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/shellcmdplugin/kshellcmdplugin.json
+msgctxt "Name"
+msgid "Shell Command Plugin"
+msgstr "シェルコマンドプラグイン"
+
+#. +> trunk6 stable6
+#: plugins/shellcmdplugin/kshellcmdplugin.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Shell Command Plugin for Konqueror"
+msgctxt "Description"
+msgid "Shell Command Plugin for Konqueror"
+msgstr "Konqueror 用シェルコマンドプラグイン"
+
+#. +> trunk6 stable6
+#: plugins/shellcmdplugin/kshellcmdplugin.json
+msgctxt "Authors Name"
+msgid "Alexander Neundorf"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/temporarysavedir/temporarysavedir.json
+msgctxt "Name"
+msgid "Temporary save directory"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/temporarysavedir/temporarysavedir.json
+msgctxt "Description"
+msgid "Temporarily choose a fixed directory where to open the save as dialog"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/temporarysavedir/temporarysavedir.json
+msgctxt "Authors Name"
+msgid "Stefano Crocco"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/ttsplugin/khtmltts.json
+msgctxt "Name"
+msgid "Text-to-Speech"
+msgstr "テキスト読み上げ"
+
+#. +> trunk6 stable6
+#: plugins/ttsplugin/khtmltts.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Produces audio output for text in the current page"
+msgctxt "Description"
+msgid "Produces audio output for text in the current page"
+msgstr "現在のページのテキストを音声として出力します"
+
+#. +> trunk6 stable6
+#: plugins/ttsplugin/khtmltts.json
+msgctxt "Authors Name"
+msgid "Olaf Schmidt"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/uachanger/uachangerplugin.json
+msgctxt "Name"
+msgid "UserAgent Changer"
+msgstr "ユーザエージェントチェンジャー"
+
+#. +> trunk6 stable6
+#: plugins/uachanger/uachangerplugin.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Allows the detected UserAgent to be modified"
+msgctxt "Description"
+msgid "Allows the detected UserAgent to be modified"
+msgstr "検出されるユーザエージェントの編集を可能にします"
+
+#. +> trunk6 stable6
+#: plugins/uachanger/uachangerplugin.json webenginepart/src/webenginepart.json
+msgctxt "Authors Name"
+msgid "Dawit Alemayehu"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/webarchiver/plugin_webarchiver.json
+msgctxt "Name"
+msgid "Web Archiver"
+msgstr "ウェブアーカイバ"
+
+#. +> trunk6 stable6
+#: plugins/webarchiver/plugin_webarchiver.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Creates archives of websites"
+msgctxt "Description"
+msgid "Creates archives of websites"
+msgstr "ウェブサイトのアーカイブを作成します"
+
+#. +> trunk6 stable6
+#: plugins/webarchiver/plugin_webarchiver.json
+msgctxt "Authors Name"
+msgid "Andreas Schlapbach"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/webarchiver/thumbnailer/webarchivethumbnail.json
+msgctxt "Name"
+msgid "Web Archives and HTML files"
+msgstr ""
+
+#. +> trunk6 stable6
+#: settings/bookmarks/kcm_bookmarks.json
+msgctxt "Name"
+msgid "Bookmarks"
+msgstr "ブックマーク"
+
+#. +> trunk6 stable6
+#: settings/bookmarks/kcm_bookmarks.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure the bookmarks home page"
+msgctxt "Description"
+msgid "Configure the bookmarks home page"
+msgstr "ブックマークのホームページを設定"
+
+#. +> trunk6 stable6
+#: settings/bookmarks/kcm_bookmarks.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Bookmarks"
+msgctxt "X-KDE-Keywords"
+msgid "Bookmarks"
+msgstr "ブックマーク"
+
+#. +> trunk6 stable6
+#: settings/konq/filebehavior.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Web Behavior"
+msgctxt "Name"
+msgid "Misc Behavior"
+msgstr "ウェブでの挙動"
+
+#. +> trunk6 stable6
+#: settings/konq/filebehavior.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "You can configure how Konqueror behaves as a file manager here"
+msgctxt "Description"
+msgid "You can configure how Konqueror behaves as a file manager here"
+msgstr "Konqueror ファイルマネージャの挙動を設定"
+
+#. +> trunk6 stable6
+#: settings/konq/filebehavior.json
+msgctxt "X-KDE-Keywords"
+msgid ""
+"konqueror,filemanager,kfm,tips,file tips,separate window,spawn "
+"windows,behavior,behaviour,memory usage,Home URL,network operations,progress "
+"dialog,trash can,delete,confirmation"
+msgstr ""
+
+#. +> trunk6 stable6
+#: settings/konqhtml/cache/khtml_cache.json
+msgctxt "Name"
+msgid "Cache"
+msgstr ""
+
+#. +> trunk6 stable6
+#: settings/konqhtml/cache/khtml_cache.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure the bookmarks home page"
+msgctxt "Description"
+msgid "Configure the use of Cache"
+msgstr "ブックマークのホームページを設定"
+
+#. +> trunk6 stable6
+#: settings/konqhtml/cache/khtml_cache.json
+#: settings/konqhtml/useragent/khtml_useragent.json
+msgctxt "X-KDE-Keywords"
+msgid "konqueror,browser,html,web,www"
+msgstr ""
+
+#. +> trunk6 stable6
+#: settings/konqhtml/cookies/khtml_cookies.json
+msgctxt "Name"
+msgid "Cookies"
+msgstr ""
+
+#. +> trunk6 stable6
+#: settings/konqhtml/cookies/khtml_cookies.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure the history sidebar"
+msgctxt "Description"
+msgid "Configure the way cookies work"
+msgstr "履歴サイドバーの設定"
+
+#. +> trunk6 stable6
+#: settings/konqhtml/cookies/khtml_cookies.json
+msgctxt "X-KDE-Keywords"
+msgid "Cookies,Browsing,Internet,WWW,Network,Policy,Domains"
+msgstr ""
+
+#. +> trunk6 stable6
+#: settings/konqhtml/khtml_appearance.json
+msgctxt "Name"
+msgid "Appearance"
+msgstr "外観"
+
+#. +> trunk6 stable6
+#: settings/konqhtml/khtml_appearance.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure how to display web pages"
+msgctxt "Description"
+msgid "Configure how to display web pages"
+msgstr "ウェブページをどのように表示するかを設定"
+
+#. +> trunk6 stable6
+#: settings/konqhtml/khtml_appearance.json
+msgctxt "X-KDE-Keywords"
+msgid ""
+"konqueror,kfm,browser,html,web,www,fonts,charsets,character sets,encoding"
+msgstr ""
+
+#. +> trunk6 stable6
+#: settings/konqhtml/khtml_behavior.json
+msgctxt "Name"
+msgid "Web Behavior"
+msgstr "ウェブでの挙動"
+
+#. +> trunk6 stable6
+#: settings/konqhtml/khtml_behavior.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure the browser behavior"
+msgctxt "Description"
+msgid "Configure the browser behavior"
+msgstr "ウェブブラウザの挙動を設定"
+
+#. +> trunk6 stable6
+#: settings/konqhtml/khtml_behavior.json
+msgctxt "X-KDE-Keywords"
+msgid ""
+"konqueror,kfm,browser,html,web,www,fonts,colours,colors,java,javascript,cursor,links,images,charsets,character "
+"sets,encoding"
+msgstr ""
+
+#. +> trunk6 stable6
+#: settings/konqhtml/khtml_filter.json
+msgctxt "Name"
+msgid "AdBlocK Filters"
+msgstr "AdBlocK フィルタ"
+
+#. +> trunk6 stable6
+#: settings/konqhtml/khtml_filter.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure Konqueror AdBlocK filters"
+msgctxt "Description"
+msgid "Configure Konqueror AdBlocK filters"
+msgstr "Konqueror AdBlocK フィルタの設定"
+
+#. +> trunk6 stable6
+#: settings/konqhtml/khtml_general.json
+#, fuzzy
+#| msgctxt ""
+#| "Name|Konqeuror settings relevant to both web browsing and file management."
+#| msgid "General"
+msgctxt "Name"
+msgid "General"
+msgstr "全般"
+
+#. +> trunk6 stable6
+#: settings/konqhtml/khtml_general.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure general Konqueror behavior"
+msgctxt "Description"
+msgid "Configure general Konqueror behavior"
+msgstr "Konqueror の全般的な挙動を設定"
+
+#. +> trunk6 stable6
+#: settings/konqhtml/khtml_general.json settings/konqhtml/tabs/khtml_tabs.json
+msgctxt "X-KDE-Keywords"
+msgid "konqueror,tabs"
+msgstr ""
+
+#. +> trunk6 stable6
+#: settings/konqhtml/khtml_js.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Java & JavaScript"
+msgctxt "Name"
+msgid "JavaScript"
+msgstr "Java & JavaScript"
+
+#. +> trunk6 stable6
+#: settings/konqhtml/khtml_js.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure the browser behavior"
+msgctxt "Description"
+msgid "Configure the JavaScript behavior"
+msgstr "ウェブブラウザの挙動を設定"
+
+#. +> trunk6 stable6
+#: settings/konqhtml/khtml_js.json
+msgctxt "X-KDE-Keywords"
+msgid "konqueror,kfm,browser,html,web,www,java,javascript"
+msgstr ""
+
+#. +> trunk6 stable6
+#: settings/konqhtml/tabs/khtml_tabs.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Web Behavior"
+msgctxt "Name"
+msgid "Tabs Behavior"
+msgstr "ウェブでの挙動"
+
+#. +> trunk6 stable6
+#: settings/konqhtml/tabs/khtml_tabs.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure the browser behavior"
+msgctxt "Description"
+msgid "Configure tabs behavior in Konqueror"
+msgstr "ウェブブラウザの挙動を設定"
+
+#. +> trunk6 stable6
+#: settings/konqhtml/useragent/khtml_useragent.json
+msgctxt "Name"
+msgid "Browser Identification"
+msgstr ""
+
+#. +> trunk6 stable6
+#: settings/konqhtml/useragent/khtml_useragent.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure the bookmarks home page"
+msgctxt "Description"
+msgid "Configure the user agent string"
+msgstr "ブックマークのホームページを設定"
+
+#. +> trunk6 stable6
+#: settings/performance/kcmperformance.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "KDE Performance"
+msgctxt "Name"
+msgid "Performance"
+msgstr "KDE パフォーマンス"
+
+#. +> trunk6 stable6
+#: settings/performance/kcmperformance.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure settings that can improve KDE performance"
+msgctxt "Description"
+msgid "Configure settings that can improve Konqueror performance"
+msgstr "KDE のパフォーマンスを改善"
+
+#. +> trunk6 stable6
+#: settings/performance/kcmperformance.json
+msgctxt "X-KDE-Keywords"
+msgid "performance,speed,memory,improve"
+msgstr ""
+
+#. +> trunk6
+#: settings/speeddial/kcm_speeddial.json
+msgctxt "Name"
+msgid "Speed Dial"
+msgstr ""
+
+#. +> trunk6
+#: settings/speeddial/kcm_speeddial.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure the bookmarks home page"
+msgctxt "Description"
+msgid "Configure the speed dial"
+msgstr "ブックマークのホームページを設定"
+
+#. +> trunk6 stable6
+#: sidebar/bookmarks_module/konqsidebar_bookmarks.json
+msgctxt "Name"
+msgid "Bookmarks SideBar Module"
+msgstr ""
+
+#. +> trunk6 stable6
+#: sidebar/history_module/kcmhistory.json
+msgctxt "Name"
+msgid "History"
+msgstr "履歴"
+
+#. +> trunk6 stable6
+#: sidebar/history_module/kcmhistory.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure the history sidebar"
+msgctxt "Description"
+msgid "Configure the history sidebar"
+msgstr "履歴サイドバーの設定"
+
+#. +> trunk6 stable6
+#: sidebar/history_module/kcmhistory.json
+msgctxt "X-KDE-Keywords"
+msgid "history,expire"
+msgstr ""
+
+#. +> trunk6 stable6
+#: sidebar/history_module/konqsidebar_history.json
+msgctxt "Name"
+msgid "History SideBar Module"
+msgstr ""
+
+#. +> trunk6 stable6
+#: sidebar/konq_sidebartng.json.in
+msgctxt "Name"
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#. +> trunk6 stable6
+#: sidebar/konq_sidebartng.json.in
+msgctxt "Authors Name"
+msgid "Joseph Wenninger"
+msgstr ""
+
+#. +> trunk6 stable6
+#: sidebar/konq_sidebartng.json.in
+msgctxt "Authors Name"
+msgid "David Faure"
+msgstr ""
+
+#. +> trunk6 stable6
+#: sidebar/konq_sidebartng.json.in
+msgctxt "Authors Name"
+msgid "Raphael Rosch"
+msgstr ""
+
+#. +> trunk6 stable6
+#: sidebar/places_module/konqsidebar_places.json
+msgctxt "Name"
+msgid "Places SideBar Module"
+msgstr ""
+
+#. +> trunk6 stable6
+#: sidebar/tree_module/konqsidebar_tree.json
+msgctxt "Name"
+msgid "Tree SideBar Module"
+msgstr ""
+
+#. +> trunk6 stable6
+#: sidebar/vertical_tabbar/konqsidebar_verticaltabbar.json
+msgctxt "Name"
+msgid "Vertical Tab Bar Module"
+msgstr ""
+
+#. +> trunk6 stable6
+#: webenginepart/src/webenginepart.json
+msgctxt "Name"
+msgid "WebEngine"
+msgstr ""
+
+#. +> trunk6 stable6
+#: webenginepart/src/webenginepart.json
+msgctxt "Description"
+msgid "Embeddable HTML component"
+msgstr ""
+
+#. +> trunk6 stable6
+#: webenginepart/src/webenginepart.json
+msgctxt "Authors Name"
+msgid "Sune Vuorela"
+msgstr ""
+
+#. +> trunk6 stable6
+#: webenginepart/src/webenginepart.json
+msgctxt "Authors Name"
+msgid "Urs Wolfer"
+msgstr ""
+
+#. +> trunk6 stable6
+#: webenginepart/src/webenginepart.json
+msgctxt "Authors Name"
+msgid "Michael Howell"
+msgstr ""
+
+#. +> trunk6 stable6
+#: webenginepart/src/webenginepart.json
+msgctxt "Authors Name"
+msgid "Laurent Montel"
+msgstr ""
+
+#. +> trunk6 stable6
+#: webenginepart/src/webenginepart.json
+msgctxt "Authors Name"
+msgid "Dirk Mueller"
+msgstr ""
+
+#. +> trunk6 stable6
+#: webenginepart/src/webenginepart.json
+msgctxt "Copyright"
+msgid ""
+"Copyright 2009-2010 Dawit Alemayehu, 2008-2010 Urs Wolfer, 2007 Trolltech ASA"
+msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Behavior"
+#~ msgstr "挙動"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Performance"
+#~ msgstr "KDE パフォーマンス"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure settings that can improve KDE performance"
+#~ msgctxt "Description"
+#~ msgid "Configure settings that can improve KDE performance"
+#~ msgstr "KDE のパフォーマンスを改善"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure the behavior of Java and JavaScript"
+#~ msgctxt "Description"
+#~ msgid "Configure the behavior JavaScript"
+#~ msgstr "Java と JavaScript の動作を設定"

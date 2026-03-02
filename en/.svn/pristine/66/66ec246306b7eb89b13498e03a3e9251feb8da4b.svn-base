@@ -1,0 +1,185 @@
+# Translation of desktop_kdegames into Japanese.
+# Taiki Komoda <kom@kde.gr.jp>, 2002.
+# Takuro Ashie <ashie@homa.ne.jp>, 2004.
+# Kurose Shushi <md81@bird.email.ne.jp>, 2004.
+# AWASHIRO Ikuya <ikuya@oooug.jp>, 2004.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2006.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2007, 2008, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdegames\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2026-02-15 08:20+0100\n"
+"PO-Revision-Date: 2009-01-08 23:33+0900\n"
+"Last-Translator: Yukiko Bando <ybando@k6.dion.ne.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: \n"
+"X-Text-Markup: \n"
+
+#. +> trunk6 stable6
+#: src/org.kde.kpat.desktop:2
+msgctxt "Name"
+msgid "KPatience"
+msgstr "KPatience"
+
+#. +> trunk6 stable6
+#: src/org.kde.kpat.desktop:64
+msgctxt "GenericName"
+msgid "Patience Card Game"
+msgstr "Patience カードゲーム"
+
+#. +> trunk6 stable6
+#: src/org.kde.kpat.desktop:134
+msgctxt "Comment"
+msgid "Solitaire card game"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/org.kde.kpat.desktop:179
+msgctxt "Keywords"
+msgid ""
+"Aces up;baker's dozen;castle;forty and eight;forty-"
+"eight;freecell;gold;grandfather;grandfather's "
+"clock;normandy;klondike;mod3;simple simon;spider;yukon;"
+msgstr ""
+
+#. +> trunk6
+#: src/org.kde.kpat.desktop:205
+msgctxt "Name"
+msgid "Aces Up"
+msgstr ""
+
+#. +> trunk6
+#: src/org.kde.kpat.desktop:225
+msgctxt "Name"
+msgid "Baker's Dozen"
+msgstr ""
+
+#. +> trunk6
+#: src/org.kde.kpat.desktop:245
+msgctxt "Name"
+msgid "Castle"
+msgstr ""
+
+#. +> trunk6
+#: src/org.kde.kpat.desktop:282
+msgctxt "Name"
+msgid "Forty & Eight"
+msgstr ""
+
+#. +> trunk6
+#: src/org.kde.kpat.desktop:302
+msgctxt "Name"
+msgid "Freecell"
+msgstr ""
+
+#. +> trunk6
+#: src/org.kde.kpat.desktop:323
+msgctxt "Name"
+msgid "Golf"
+msgstr ""
+
+#. +> trunk6
+#: src/org.kde.kpat.desktop:343
+msgctxt "Name"
+msgid "Grandfather"
+msgstr ""
+
+#. +> trunk6
+#: src/org.kde.kpat.desktop:363
+msgctxt "Name"
+msgid "Grandfather's Clock"
+msgstr ""
+
+#. +> trunk6
+#: src/org.kde.kpat.desktop:383
+msgctxt "Name"
+msgid "Klondike"
+msgstr ""
+
+#. +> trunk6
+#: src/org.kde.kpat.desktop:403
+msgctxt "Name"
+msgid "Mod3"
+msgstr ""
+
+#. +> trunk6
+#: src/org.kde.kpat.desktop:424
+msgctxt "Name"
+msgid "Normandy"
+msgstr ""
+
+#. +> trunk6
+#: src/org.kde.kpat.desktop:445
+msgctxt "Name"
+msgid "Simple Simon"
+msgstr ""
+
+#. +> trunk6
+#: src/org.kde.kpat.desktop:465
+msgctxt "Name"
+msgid "Spider"
+msgstr ""
+
+#. +> trunk6
+#: src/org.kde.kpat.desktop:502
+msgctxt "Name"
+msgid "Yukon"
+msgstr ""
+
+#. +> trunk6 stable6
+#: themes/ancientegypt.desktop:2
+msgctxt "Name"
+msgid "Desert Sands"
+msgstr ""
+
+#. +> trunk6 stable6
+#: themes/ancientegypt.desktop:54
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Oxygen styled card deck"
+msgctxt "Description"
+msgid "Egyptian style theme."
+msgstr "Oxygen スタイルのカードデッキ"
+
+#. +> trunk6 stable6
+#: themes/cleangreen.desktop:2
+msgctxt "Name"
+msgid "Clean Green"
+msgstr ""
+
+#. +> trunk6 stable6
+#: themes/cleangreen.desktop:53
+#, fuzzy
+#| msgctxt "Description"
+#| msgid "Simple KBreakOut theme"
+msgctxt "Description"
+msgid "A simple green felt theme"
+msgstr "KBreakOut のシンプルなテーマ"
+
+#. +> trunk6 stable6
+#: themes/greenblaze.desktop:2
+msgctxt "Name"
+msgid "Green Blaze"
+msgstr ""
+
+#. +> trunk6 stable6
+#: themes/royalhearts.desktop:2
+msgctxt "Name"
+msgid "Royal Hearts"
+msgstr ""
+
+#. +> trunk6 stable6
+#: themes/royalhearts.desktop:36
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Oxygen styled card deck"
+msgctxt "Description"
+msgid "Card style theme"
+msgstr "Oxygen スタイルのカードデッキ"

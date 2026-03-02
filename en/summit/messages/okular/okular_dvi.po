@@ -1,0 +1,1303 @@
+# translation of okular_dvi.po to Japanese
+# This file is distributed under the same license as the kdegraphics package.
+# Taiki Komoda <kom@kde.gr.jp>, 2002,2003, 2004.
+# Tsuda Eisuke <eis-t@mue.biglobe.ne.jp>, 2004.
+# Kurose Shushi <md81@bird.email.ne.jp>, 2004.
+# Awashiro Ikuya <ikuya@oooug.jp>, 2005.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2006, 2007, 2009.
+#
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2006, 2010, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: okular_dvi\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-12-22 09:07+0100\n"
+"PO-Revision-Date: 2011-04-16 17:52-0700\n"
+"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+"Taiki Komoda,Noboru Sinohara,Tsuda Eisuke,Kurose Shushi,Ikuya "
+"Awashiro,Fumiaki Okushi,Yukiko Bando"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+"kom@kde.gr.jp,shinobo@leo.bekkoame.ne.jp,eis-"
+"t@mue.biglobe.ne.jp,md81@bird.email.ne.jp,ikuya@oooug.jp,okushi@kde.gr.jp,ybando@k6.dion.ne.jp"
+
+#. +> stable6
+#: dviexport.cpp:123
+#, fuzzy, kde-format
+#| msgid ""
+#| "Okular could not locate the program 'dvipdfm' on your computer. This "
+#| "program is essential for the export function to work. You can, however, "
+#| "convert the DVI-file to PDF using the print function of Okular, but that "
+#| "will often produce documents which print okay, but are of inferior "
+#| "quality if viewed in Acrobat Reader. It may be wise to upgrade to a more "
+#| "recent version of your TeX distribution which includes the 'dvipdfm' "
+#| "program.\n"
+#| "Hint to the perplexed system administrator: Okular uses the PATH "
+#| "environment variable when looking for programs."
+msgid ""
+"<qt><p>Okular could not locate the program <em>dvipdfm</em> on your "
+"computer. This program is essential for the export function to work. You "
+"can, however, convert the DVI-file to PDF using the print function of "
+"Okular, but that will often produce documents which print okay, but are of "
+"inferior quality if viewed in Acrobat Reader. It may be wise to upgrade to a "
+"more recent version of your TeX distribution which includes the <em>dvipdfm</"
+"em> program.</p><p>Hint to the perplexed system administrator: Okular uses "
+"the PATH environment variable when looking for programs.</p></qt>"
+msgstr ""
+"Okular はプログラム <tt>dvipdfm</tt> を見つけられませんでした。このプログラム"
+"はエクスポート機能に必要です。Okular の印刷機能を使って DVI ファイルを PDF に"
+"変換することもできますが、この方法を使うと印刷では問題なくても Acrobat "
+"Reader で開いたときに表示の質が落ちることがよくあります。<tt>dvipdfm</tt> が"
+"含まれているより新しい TeX ディストリビューションにアップグレードする方がよい"
+"でしょう。\n"
+"当惑しているシステム管理者へのヒント: Okular はプログラムを探す際に PATH 環境"
+"変数を使います。"
+
+#. +> trunk6 stable6
+#: dviexport.cpp:129
+#, fuzzy, kde-format
+#| msgid ""
+#| "<qt><P>This DVI file refers to external graphic files which are not in "
+#| "PostScript format, and cannot be handled by the <strong>dvips</strong> "
+#| "program that Okular uses interally to print or to export to PostScript. "
+#| "The functionality that you require is therefore unavailable in this "
+#| "version of Okular.</p><p>As a workaround, you can use the <strong>File/"
+#| "Export As</strong>-Menu to save this file in PDF format, and then use a "
+#| "PDF viewer.</p><p>It is planned to add this functionality at a later date."
+#| "</p></qt>"
+msgid ""
+"<qt>This DVI file refers to external graphic files which are not in "
+"PostScript format, and cannot be handled by the <em>dvips</em> program that "
+"Okular uses internally to print or to export to PostScript. The "
+"functionality that you require is therefore unavailable in this version of "
+"Okular.</qt>"
+msgstr ""
+"<qt><p>この DVI ファイルは PostScript ではない外部グラフィックファイルを参照"
+"しています。Okular が印刷や PostScript へのエクスポートに内部で使用する "
+"<tt>dvips</tt> がこのファイルを扱えないため、このバージョンの Okular では要求"
+"された処理を行うことができません。</p><p>回避策として、メニューの「ファイル|"
+"エクスポート」から PDF で保存して、PDF ビューアを使ってください。</p><p>この"
+"機能は、いずれ追加する予定です。</p></qt>"
+
+#. +> trunk6 stable6
+#: dviexport.cpp:137
+#, fuzzy, kde-format
+#| msgid ""
+#| "Okular could not locate the program 'dvips' on your computer. That "
+#| "program is essential for the export function to work.\n"
+#| "Hint to the perplexed system administrator: Okular uses the PATH "
+#| "environment variable when looking for programs."
+msgid ""
+"<qt><p>Okular could not locate the program <em>dvips</em> on your computer. "
+"That program is essential for the export function to work.</p><p>Hint to the "
+"perplexed system administrator: Okular uses the PATH environment variable "
+"when looking for programs.</p></qt>"
+msgstr ""
+"Okular はプログラム <tt>dvips</tt> を見つけられませんでした。このプログラムは"
+"エクスポート機能に必要です。\n"
+"当惑しているシステム管理者へのヒント: Okular はプログラムを探す際に PATH 環境"
+"変数を使います。"
+
+#. +> trunk6 stable6
+#: dviexport.cpp:231
+#, kde-format
+msgid ""
+"<qt>The external program 'dvips', which was used to export the file, "
+"reported an error. You might wish to look at the <strong>document info "
+"dialog</strong> which you will find in the File-Menu for a precise error "
+"report.</qt>"
+msgstr ""
+"<qt>DVI ファイルのエクスポートに使用した外部プログラム <tt>dvips</tt> がエ"
+"ラーを返しました。「ファイル」メニューから「文書情報」ダイアログを開いてエ"
+"ラーの詳細を確認した方がよいでしょう。</qt>"
+
+#. +> stable6
+#: dviexport.cpp:142
+#, kde-format
+msgid ""
+"<qt>The external program 'dvipdfm', which was used to export the file, "
+"reported an error. You might wish to look at the <strong>document info "
+"dialog</strong> which you will find in the File-Menu for a precise error "
+"report.</qt>"
+msgstr ""
+"<qt>DVI ファイルのエクスポートに使用した外部プログラム <tt>dvipdfm</tt> がエ"
+"ラーを返しました。「ファイル」メニューから「文書情報」ダイアログを開いてエ"
+"ラーの詳細を確認した方がよいでしょう。</qt>"
+
+#. +> trunk6 stable6
+#: dviFile.cpp:91
+#, kde-format
+msgid "The DVI file does not start with the preamble."
+msgstr "DVI ファイルがプリアンブルから始まっていません。"
+
+#. +> trunk6 stable6
+#: dviFile.cpp:97
+#, kde-format
+msgid ""
+"The DVI file contains the wrong version of DVI output for this program. "
+"Hint: If you use the typesetting system Omega, you have to use a special "
+"program, such as oxdvi."
+msgstr ""
+"DVI ファイルに、このプログラムでは扱えないバージョンの DVI 出力が含まれていま"
+"す。ヒント: タイプセットに Omega を使っている場合は、専用のプログラム (oxdvi "
+"など) を使う必要があります。"
+
+#. +> trunk6 stable6
+#: dviFile.cpp:134
+#, kde-format
+msgid ""
+"The DVI file is badly corrupted. Okular was not able to find the postamble."
+msgstr ""
+"DVI ファイルはひどく壊れています。Okular はポストアンブルを見つけられませんで"
+"した。"
+
+#. +> trunk6 stable6
+#: dviFile.cpp:148
+#, kde-format
+msgid "The postamble does not begin with the POST command."
+msgstr "ポストアンブルが POST コマンドで始まっていません。"
+
+#. +> trunk6 stable6
+#: dviFile.cpp:202
+#, kde-format
+msgid "The postamble contained a command other than FNTDEF."
+msgstr "ポストアンブルに FNTDEF 以外のコマンドが含まれています。"
+
+#. +> trunk6 stable6
+#: dviFile.cpp:240
+#, kde-format
+msgid "The page %1 does not start with the BOP command."
+msgstr "ページ %1 は BOP コマンドで始まっていません。"
+
+#. +> trunk6 stable6
+#: dviFile.cpp:354
+#, fuzzy, kde-format
+#| msgid ""
+#| "<qt><p>The external program <strong>pdf2ps</strong> could not be started. "
+#| "As a result, the PDF-file %1 could not be converted to PostScript. Some "
+#| "graphic elements in your document will therefore not be displayed.</"
+#| "p><p><b>Possible reason:</b> The program <strong>pdf2ps</strong> may not "
+#| "be installed on your system, or cannot be found in the current search "
+#| "path.</p><p><b>What you can do:</b> The program <strong>pdf2ps</strong> "
+#| "is normally contained in distributions of the ghostscript PostScript "
+#| "interpreter system. If ghostscipt is not installed on your system, you "
+#| "could install it now. If you are sure that ghostscript is installed, try "
+#| "to use <strong>pdf2ps</strong> from the command line to check if it "
+#| "really works.</p><p><b>PATH:</b> %2</p></qt>"
+msgid ""
+"<qt><p>The external program <strong>pdf2ps</strong> could not be started. As "
+"a result, the PDF-file %1 could not be converted to PostScript. Some graphic "
+"elements in your document will therefore not be displayed.</p><p><b>Possible "
+"reason:</b> The program <strong>pdf2ps</strong> may not be installed on your "
+"system, or cannot be found in the current search path.</p><p><b>What you can "
+"do:</b> The program <strong>pdf2ps</strong> is normally contained in "
+"distributions of the ghostscript PostScript interpreter system. If "
+"ghostscript is not installed on your system, you could install it now. If "
+"you are sure that ghostscript is installed, try to use <strong>pdf2ps</"
+"strong> from the command line to check if it really works.</p><p><em>PATH:</"
+"em> %2</p></qt>"
+msgstr ""
+"<qt><p>外部プログラム <tt>pdf2ps</tt> を起動できなかったため、PDF ファイル "
+"‘%1’ を PostScript に変換できませんでした。したがって文書に含まれる一部のグラ"
+"フィック要素は表示されません。</p><p>考えられる原因: <tt>pdf2ps</tt> プログラ"
+"ムがインストールされていないか、検索パスにないためだと考えられます。</p><p>対"
+"処法: <tt>pdf2ps</tt> プログラムは通常 <tt>ghostscript</tt> PostScript インタ"
+"プリタシステムの一部として配布されています。<tt>ghostscript</tt> がインストー"
+"ルされていない場合は、インストールしてください。<tt>ghostscript</tt> がインス"
+"トールされている場合は、<tt>pdf2ps</tt> プログラムをコマンドラインから実行し"
+"て動作を確認してください。</p><p>パス: %2</p></qt>"
+
+#. +> trunk6 stable6
+#: dviFile.cpp:415
+#, kde-format
+msgid ""
+"<qt><p>The PDF-file %1 could not be converted to PostScript. Some graphic "
+"elements in your document will therefore not be displayed.</p><p><b>Possible "
+"reason:</b> The file %1 might be broken, or might not be a PDF-file at all. "
+"This is the output of the <strong>pdf2ps</strong> program that Okular used:</"
+"p><p><strong>%2</strong></p></qt>"
+msgstr ""
+"<qt><p>PDF ファイル ‘%1’ を PostScript に変換できませんでした。したがって文書"
+"に含まれる一部のグラフィック要素は表示されません。</p><p>考えられる原因: ファ"
+"イル ‘%1’ が壊れているか、PDF ファイルではないためだと考えられます。Okular が"
+"使用した <tt>pdf2ps</tt> プログラムの出力は以下のとおりです:</p><p>%2</p></"
+"qt>"
+
+#. +> trunk6 stable6
+#: dviRenderer.cpp:203 dviRenderer.cpp:435
+#, fuzzy, kde-format
+#| msgid ""
+#| "File not found: \n"
+#| " %1"
+msgid "File corruption. %1"
+msgstr ""
+"ファイルが見つかりません:\n"
+" %1"
+
+#. +> trunk6 stable6
+#: dviRenderer.cpp:326
+#, kde-format
+msgid "Not all PostScript files could be embedded into your document. %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: dviRenderer.cpp:329
+#, kde-format
+msgid "All external PostScript files were embedded into your document."
+msgstr ""
+
+#. +> trunk6 stable6
+#: dviRenderer.cpp:419
+#, fuzzy, kde-format
+#| msgid "The special command '%1' is not implemented."
+msgid "The specified file '%1' does not exist."
+msgstr "special コマンド %1 は実装されていません。"
+
+#. +> trunk6 stable6
+#: dviRenderer.cpp:565
+#, kde-format
+msgid ""
+"You have asked Okular to locate the place in the DVI file which corresponds "
+"to line %1 in the TeX-file %2. It seems, however, that the DVI file does not "
+"contain the necessary source file information. "
+msgstr ""
+
+#. +> trunk6 stable6
+#: dviRenderer.cpp:604
+#, kde-format
+msgid ""
+"Okular was not able to locate the place in the DVI file which corresponds to "
+"line %1 in the TeX-file %2."
+msgstr ""
+
+#. +> trunk6 stable6
+#: dviRenderer_draw.cpp:239
+#, kde-format
+msgid "The DVI code set a character of an unknown font."
+msgstr "DVI コードは未知のフォントの文字をセットしています。"
+
+#. +> trunk6 stable6
+#: dviRenderer_draw.cpp:266 dviRenderer_prescan.cpp:667
+#, kde-format
+msgid "The DVI code referred to font #%1, which was not previously defined."
+msgstr "DVI コードはフォント #%1 を参照していますが、これは未定義です。"
+
+#. +> trunk6 stable6
+#: dviRenderer_draw.cpp:349
+#, kde-format
+msgid "The stack was not empty when the EOP command was encountered."
+msgstr "スタックが空にならないうちに EOP コマンドが出現しました。"
+
+#. +> trunk6 stable6
+#: dviRenderer_draw.cpp:361
+#, kde-format
+msgid "The stack was empty when a POP command was encountered."
+msgstr "スタックが空なのに POP コマンドが出現しました。"
+
+#. +> trunk6 stable6
+#: dviRenderer_draw.cpp:485 dviRenderer_draw.cpp:494
+#, kde-format
+msgid "The DVI code referred to a font which was not previously defined."
+msgstr "DVI コードは未定義のフォントを参照しています。"
+
+#. +> trunk6 stable6
+#: dviRenderer_draw.cpp:535
+#, kde-format
+msgid "An illegal command was encountered."
+msgstr "不正なコマンドが発生しました。"
+
+#. +> trunk6 stable6
+#: dviRenderer_draw.cpp:540
+#, kde-format
+msgid "The unknown op-code %1 was encountered."
+msgstr "未知の op-code %1 が発生しました。"
+
+#. +> trunk6 stable6
+#: dviRenderer_prescan.cpp:87
+#, kde-format
+msgid "Embedding %1"
+msgstr "%1 を埋め込み"
+
+#. +> trunk6 stable6
+#: dviRenderer_prescan.cpp:105
+#, kde-format
+msgid ""
+"Page %1: The PDF file <strong>%2</strong> could not be converted to "
+"PostScript.<br>"
+msgstr ""
+"<qt>ページ %1: PDF ファイル ‘%2’ を PostScript に変換できませんでした。<br/>"
+
+#. +> trunk6 stable6
+#: dviRenderer_prescan.cpp:107
+#, kde-format
+msgid ""
+"Page %1: The PostScript file <strong>%2</strong> could not be found.<br>"
+msgstr "<qt>ページ %1: PostScript ファイル ‘%2’ が見つかりませんでした。<br/>"
+
+#. +> trunk6 stable6
+#: dviRenderer_prescan.cpp:261
+#, kde-format
+msgid "The papersize data '%1' could not be parsed."
+msgstr "用紙サイズのデータ “%1” を解析できませんでした。"
+
+#. +> trunk6 stable6
+#: fontpool.cpp:194
+#, fuzzy, kde-format
+#| msgid ""
+#| "<qt><p>Okular was not able to locate all the font files which are "
+#| "necessary to display the current DVI file. Your document might be "
+#| "unreadable.</p></qt>"
+msgid ""
+"<qt><p>Okular was not able to locate all the font files which are necessary "
+"to display the current DVI file. Your document might be unreadable.</"
+"p><p><small><b>PATH:</b> %1</small></p><p><small>%2</small></p></qt>"
+msgstr ""
+"<qt><p>Okular は現在の DVI ファイルの表示に必要なすべてのフォントファイルを見"
+"つけられませんでした。文書は読めないかもしれません。</p></qt>"
+
+#. +> trunk6 stable6
+#: fontpool.cpp:269
+#, fuzzy, kde-format
+#| msgid ""
+#| "<p>There were problems running <b>kpsewhich</b>. As a result, some font "
+#| "files could not be located, and your document might be unreadable.</"
+#| "p><p><b>Possible reason:</b> The kpsewhich program is perhaps not "
+#| "installed on your system, or it cannot be found in the current search "
+#| "path.</p><p><b>What you can do:</b> The kpsewhich program is normally "
+#| "contained in distributions of the TeX typesetting system. If TeX is not "
+#| "installed on your system, you could install the TeX Live distribution "
+#| "(www.tug.org/texlive). If you are sure that TeX is installed, please try "
+#| "to use the kpsewhich program from the command line to check if it really "
+#| "works.</p>"
+msgid ""
+"<qt><p>There were problems running <em>kpsewhich</em>. As a result, some "
+"font files could not be located, and your document might be unreadable.<br/"
+">Possible reason: the <em>kpsewhich</em> program is perhaps not installed on "
+"your system, or it cannot be found in the current search path.</"
+"p><p><small><b>PATH:</b> %1</small></p><p><small>%2</small></p></qt>"
+msgstr ""
+"<qt><p><tt>kpsewhich</tt> の起動に問題がありました。そのため一部のフォント"
+"ファイルを見つけられませんでした。文書は読めないかもしれません。</p><p>考えら"
+"れる原因: <tt>kpsewhich</tt> プログラムがインストールされていないか、検索パス"
+"にないためだと考えられます。</p><p>対処法: <tt>kpsewhich</tt> プログラムは通"
+"常 TeX 文書組版システムの一部として配布されています。TeX がインストールされて"
+"いない場合は、TeX Live (www.tug.org/texlive) をインストールしてください。TeX "
+"がインストールされている場合は、<tt>kpsewhich</tt> プログラムをコマンドライン"
+"から実行して動作を確認してください。</p></qt>"
+
+#. +> trunk6 stable6
+#: fontpool.cpp:290
+#, fuzzy, kde-format
+#| msgid ""
+#| "<qt><p>The font generation by <b>kpsewhich</b> was aborted (exit code %1, "
+#| "error %2). As a result, some font files could not be located, and your "
+#| "document might be unreadable.</p></qt>"
+msgid ""
+"<qt>The font generation by <em>kpsewhich</em> was aborted (exit code %1, "
+"error %2). As a result, some font files could not be located, and your "
+"document might be unreadable.</qt>"
+msgstr ""
+"<qt><p><b>kpsewhich</b> によるフォント済々が中断されました (終了コード %1、エ"
+"ラー %2)。このため、フォントファイルがたらず、文書が読めないかもしれません。"
+"</p></qt>"
+
+#. +> trunk6 stable6
+#: fontpool.cpp:467
+#, fuzzy, kde-format
+#| msgid "Currently generating %1 at %2 dpi"
+msgid "Currently generating %1 at %2 dpi…"
+msgstr "現在 %1 を %2 dpi で生成中"
+
+#. +> trunk6 stable6
+#: generator_dvi.cpp:293
+#, kde-format
+msgid "Generator/Date"
+msgstr "ジェネレータ/日付"
+
+#. +> trunk6 stable6
+#: generator_dvi.cpp:382
+#, kde-format
+msgid "Font file not found"
+msgstr "フォントファイルが見つかりません"
+
+#. +> trunk6 stable6
+#: psgs.cpp:286
+#, fuzzy, kde-format
+#| msgid ""
+#| "<qt>The version of Ghostview that is installed on this computer does not "
+#| "contain any of the Ghostview device drivers that are known to Okular. "
+#| "PostScript support has therefore been turned off in Okular.</qt>"
+msgid ""
+"The version of Ghostview that is installed on this computer does not contain "
+"any of the Ghostview device drivers that are known to Okular. PostScript "
+"support has therefore been turned off in Okular."
+msgstr ""
+"<qt>このコンピュータにインストールされているバージョンの Ghostview には、"
+"Okular が認識する Ghostview デバイスドライバが含まれていません。そのため、"
+"Okular での PostScript のサポートを無効にしました。</qt>"
+
+#. +> trunk6 stable6
+#: special.cpp:36
+#, kde-format
+msgid "That makes 25 errors. Further error messages will not be printed."
+msgstr ""
+"25 個のエラーが発生しました。これ以上のエラーメッセージは表示されません。"
+
+#. +> trunk6 stable6
+#: special.cpp:232
+#, kde-format
+msgid ""
+"Error in DVIfile '%1', page %2. Color pop command issued when the color "
+"stack is empty."
+msgstr ""
+"DVI ファイル ‘%1’ のページ %2 でエラーが発生しました。カラースタックが空なの"
+"に、カラー取り出しコマンドが呼ばれました。"
+
+#. +> trunk6 stable6
+#: special.cpp:318
+#, kde-format
+msgid ""
+"Malformed parameter in the epsf special command.\n"
+"Expected a float to follow %1 in %2"
+msgstr ""
+"epsf special コマンドに不正なパラメータ。\n"
+"%2 の中で %1 の後には float が期待されます。"
+
+#. +> trunk6 stable6
+#: special.cpp:446
+#, kde-format
+msgid ""
+"File not found: \n"
+" %1"
+msgstr ""
+"ファイルが見つかりません:\n"
+" %1"
+
+#. +> trunk6 stable6
+#: special.cpp:695
+#, kde-format
+msgid ""
+"Error in DVIfile '%1', page %2. Could not interpret angle in text rotation "
+"special."
+msgstr ""
+"DVI ファイル ‘%1’ のページ %2 でエラーが発生しました。テキストの回転で角度を"
+"解釈できません。"
+
+#. +> trunk6 stable6
+#: special.cpp:714
+#, kde-format
+msgid "The special command '%1' is not implemented."
+msgstr "special コマンド %1 は実装されていません。"
+
+#. +> trunk6 stable6
+#: TeXFont_PFB.cpp:43
+#, kde-format
+msgid ""
+"The font file %1 could be opened and read, but its font format is "
+"unsupported."
+msgstr ""
+"フォントファイル ‘%1’ は読み込めましたが、フォントのフォーマットはサポートし"
+"ていない形式です。"
+
+#. +> trunk6 stable6
+#: TeXFont_PFB.cpp:48
+#, kde-format
+msgid "The font file %1 is broken, or it could not be opened or read."
+msgstr "フォントファイル ‘%1’ は読み込むことができないか、壊れています。"
+
+#. +> trunk6 stable6
+#: TeXFont_PFB.cpp:167
+#, kde-format
+msgid ""
+"FreeType reported an error when setting the character size for font file %1."
+msgstr ""
+"FreeType はフォントファイル ‘%1’ の文字サイズを設定中にエラーを返しました。"
+
+#. +> trunk6 stable6
+#: TeXFont_PFB.cpp:185
+#, kde-format
+msgid "FreeType is unable to load glyph #%1 from font file %2."
+msgstr "FreeType はフォントファイル ‘%2’ からグリフ #%1 を読み込めません。"
+
+#. +> trunk6 stable6
+#: TeXFont_PFB.cpp:198
+#, kde-format
+msgid "FreeType is unable to render glyph #%1 from font file %2."
+msgstr "FreeType はフォントファイル ‘%2’ のグリフ #%1 を描画できません。"
+
+#. +> trunk6 stable6
+#: TeXFont_PFB.cpp:212
+#, kde-format
+msgid "Glyph #%1 is empty."
+msgstr "グリフ #%1 が空です。"
+
+#. +> trunk6 stable6
+#: TeXFont_PFB.cpp:214
+#, kde-format
+msgid "Glyph #%1 from font file %2 is empty."
+msgstr "フォントファイル ‘%2’ のグリフ #%1 が空です。"
+
+#. +> trunk6 stable6
+#: TeXFont_PFB.cpp:279
+#, kde-format
+msgid "FreeType is unable to load metric for glyph #%1 from font file %2."
+msgstr ""
+"FreeType はフォントファイル ‘%2’ のグリフ #%1 のメトリックを読み込めません。"
+
+#. +> trunk6 stable6
+#: TeXFont_PK.cpp:69
+#, kde-format
+msgid "Cannot open font file %1."
+msgstr "フォントファイル ‘%1’ を開けません。"
+
+#. +> trunk6 stable6
+#: TeXFont_PK.cpp:116
+#, kde-format
+msgid "TexFont_PK::operator[]: Character %1 not defined in font %2"
+msgstr "TexFont_PK::operator[]: 文字 %1 はフォント %2 で定義されていません。"
+
+#. +> trunk6 stable6
+#: TeXFont_PK.cpp:419
+#, kde-format
+msgid "Unexpected %1 in PK file %2"
+msgstr "PK ファイル ‘%2’ に予期しない %1 "
+
+#. +> trunk6 stable6
+#: TeXFont_PK.cpp:485
+#, kde-format
+msgid "The character %1 is too large in file %2"
+msgstr "文字 %1 はファイル ‘%2’ で大きすぎます"
+
+#. +> trunk6 stable6
+#: TeXFont_PK.cpp:590 TeXFont_PK.cpp:680
+#, kde-format
+msgid "Wrong number of bits stored:  char. %1, font %2"
+msgstr "誤ったビット番号が格納されています:  文字 %1, フォント %2"
+
+#. +> trunk6 stable6
+#: TeXFont_PK.cpp:593 TeXFont_PK.cpp:683
+#, kde-format
+msgid "Bad pk file (%1), too many bits"
+msgstr "不正な PK ファイル (%1)、ビットが多すぎます"
+
+#. +> trunk6 stable6
+#: TeXFont_PK.cpp:714
+#, kde-format
+msgid "Font has non-square aspect ratio "
+msgstr "フォントのアスペクト比が正方形ではありません。"
+
+#. +> trunk6 stable6
+#: TeXFontDefinition.cpp:106
+#, kde-format
+msgid "Cannot find font %1, file %2."
+msgstr "フォント %1, ファイル ‘%2’ が見つかりません。"
+
+#. +> trunk6 stable6
+#: TeXFontDefinition.cpp:123
+#, kde-format
+msgid "Checksum mismatch for font file %1"
+msgstr "フォントファイル ‘%1’ のチェックサムが合いません"
+
+#. +> trunk6 stable6
+#: TeXFontDefinition.cpp:174
+#, kde-format
+msgid "Cannot recognize format for font file %1"
+msgstr "フォントファイル ‘%1’ のフォーマットを認識できません"
+
+#. +> trunk6 stable6
+#: util.cpp:58
+#, kde-format
+msgid ""
+"Fatal error.\n"
+"\n"
+msgstr ""
+"致命的なエラー\n"
+"\n"
+
+#. +> trunk6 stable6
+#: util.cpp:58
+#, kde-format
+msgid ""
+"\n"
+"\n"
+"This probably means that either you found a bug in Okular,\n"
+"or that the DVI file, or auxiliary files (such as font files, \n"
+"or virtual font files) were really badly broken.\n"
+"Okular will abort after this message. If you believe that you \n"
+"found a bug, or that Okular should behave better in this situation\n"
+"please report the problem."
+msgstr ""
+"\n"
+"\n"
+"これはおそらく Okular のバグか、DVI ファイルまたは補助ファイル\n"
+"(フォントファイル、仮想フォントファイルなど) がひどく壊れている\n"
+"ことを意味します。\n"
+"Okular はこのメッセージの後で終了します。バグと思われる場合、\n"
+"あるいは Okular はこのような状況でもっとうまく振る舞うべきだ\n"
+"と思われる場合は、問題を報告してください。"
+
+#. +> trunk6 stable6
+#: vf.cpp:165
+#, kde-format
+msgid "Wrong command byte found in VF macro list: %1"
+msgstr "VF マクロリストに不正なコマンドバイトが見つかりました: %1"
+
+#. +> stable6
+#: pageSize.cpp:298
+#, kde-format
+msgid "%1 × %2"
+msgstr ""
+
+#. +> stable6
+#: pageSize.cpp:311
+#, kde-format
+msgid "%1 × %2 mm"
+msgstr ""
+
+#. +> stable6
+#: pageSize.cpp:313
+#, kde-format
+msgid "%1 × %2 in"
+msgstr ""
+
+#. +> stable6
+#: pageSize.cpp:318
+#, kde-format
+msgid "portrait"
+msgstr "縦長"
+
+#. +> stable6
+#: pageSize.cpp:320
+#, kde-format
+msgid "landscape"
+msgstr "横長"
+
+#, fuzzy, kde-format
+#~| msgid "Currently generating %1 at %2 dpi"
+#~ msgid "Currently generating %1 at %2 dpi..."
+#~ msgstr "現在 %1 を %2 dpi で生成中"
+
+#~ msgid ""
+#~ "<qt><p>The Ghostview program, which Okular uses internally to display the "
+#~ "PostScript graphics that is included in this DVI file, is generally able "
+#~ "to write its output in a variety of formats. The sub-programs that "
+#~ "Ghostview uses for these tasks are called 'device drivers'; there is one "
+#~ "device driver for each format that Ghostview is able to write. Different "
+#~ "versions of Ghostview often have different sets of device drivers "
+#~ "available. It seems that the version of Ghostview that is installed on "
+#~ "this computer does not contain <strong>any</strong> of the device drivers "
+#~ "that are known to Okular.</p><p>It seems unlikely that a regular "
+#~ "installation of Ghostview would not contain these drivers. This error may "
+#~ "therefore point to a serious misconfiguration of the Ghostview "
+#~ "installation on your computer.</p><p>If you want to fix the problems with "
+#~ "Ghostview, you can use the command <strong>gs --help</strong> to display "
+#~ "the list of device drivers contained in Ghostview. Among others, Okular "
+#~ "can use the 'png256', 'jpeg' and 'pnm' drivers. Note that Okular needs to "
+#~ "be restarted to re-enable PostScript support.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>Okular が DVI ファイルに含まれている PostScript グラフィックスを表"
+#~ "示するために内部で使用する <tt>ghostview</tt> プログラムは、一般的にさまざ"
+#~ "まなフォーマットで出力することができます。<tt>ghostview</tt> がこれらのタ"
+#~ "スクに使用するサブプログラムは「デバイスドライバ」と呼ばれ、"
+#~ "<tt>ghostview</tt> が出力するフォーマットごとに一つずつデバイスドライバが"
+#~ "あります。利用できるデバイスドライバは <tt>ghostview</tt> のバージョンに"
+#~ "よってしばしば異なります。お使いのコンピュータにインストールされているバー"
+#~ "ジョンの <tt>ghostview</tt> には、Okular が認識できるデバイスドライバが一"
+#~ "つも含まれていません。</p><p><tt>ghostview</tt> を普通にインストールして、"
+#~ "これらのドライバが全く含まれていないということは考えられません。したがっ"
+#~ "て、このエラーは <tt>ghostview</tt> が間違った設定でインストールされている"
+#~ "ためだと思われます。</p><p>この <tt>ghostview</tt> 関連の問題を解決する場"
+#~ "合、<tt>gs --help</tt> とコマンドを打つことで、<tt>ghostview</tt> に含まれ"
+#~ "ているデバイスドライバの一覧を表示できます。Okular は png256, jpeg, pnm ド"
+#~ "ライバなどを使用できます。PostScript のサポートを有効にするには、Okular を"
+#~ "再起動する必要があります。</p></qt>"
+
+#~ msgid "DVI Backend"
+#~ msgstr "DVI バックエンド"
+
+#~ msgid "A DVI file renderer"
+#~ msgstr "DVI ファイルのレンダラー"
+
+#~ msgid "© 2006 Luigi Toscano"
+#~ msgstr "© 2006 Luigi Toscano"
+
+#~ msgid "Please be patient"
+#~ msgstr "お待ちください"
+
+#~ msgid ""
+#~ "Okular could not locate the program 'dvipdfm' on your computer. This "
+#~ "program is essential for the export function to work. You can, however, "
+#~ "convert the DVI-file to PDF using the print function of Okular, but that "
+#~ "will often produce documents which print okay, but are of inferior "
+#~ "quality if viewed in Acrobat Reader. It may be wise to upgrade to a more "
+#~ "recent version of your TeX distribution which includes the 'dvipdfm' "
+#~ "program.\n"
+#~ "Hint to the perplexed system administrator: Okular uses the PATH "
+#~ "environment variable when looking for programs."
+#~ msgstr ""
+#~ "Okular はプログラム dvipdfm を見つけられませんでした。このプログラムはエク"
+#~ "スポート機能に必要です。Okular の印刷機能を使って DVI ファイルを PDF に変"
+#~ "換することもできますが、この方法を使うと印刷では問題なくても Acrobat "
+#~ "Reader で開いたときに表示の質が落ちることがよくあります。dvipdfm が含まれ"
+#~ "ているより新しい TeX ディストリビューションにアップグレードする方がよいで"
+#~ "しょう。\n"
+#~ "当惑しているシステム管理者へのヒント: Okular はプログラムを探す際に PATH "
+#~ "環境変数を使います。"
+
+#, fuzzy
+#~| msgid ""
+#~| "<qt><P>This DVI file refers to external graphic files which are not in "
+#~| "PostScript format, and cannot be handled by the <strong>dvips</strong> "
+#~| "program that Okular uses interally to print or to export to PostScript. "
+#~| "The functionality that you require is therefore unavailable in this "
+#~| "version of Okular.</p><p>As a workaround, you can use the <strong>File/"
+#~| "Export As</strong>-Menu to save this file in PDF format, and then use a "
+#~| "PDF viewer.</p><p>It is planned to add this functionality at a later "
+#~| "date.</p></qt>"
+#~ msgid ""
+#~ "This DVI file refers to external graphic files which are not in "
+#~ "PostScript format, and cannot be handled by the 'dvips' program that "
+#~ "Okular uses internally to print or to export to PostScript. The "
+#~ "functionality that you require is therefore unavailable in this version "
+#~ "of Okular."
+#~ msgstr ""
+#~ "<qt><p>この DVI ファイルは PostScript ではない外部グラフィックファイルを参"
+#~ "照しています。Okular が印刷や PostScript へのエクスポートに内部で使用する "
+#~ "<tt>dvips</tt> がこのファイルを扱えないため、このバージョンの Okular では"
+#~ "要求された処理を行うことができません。</p><p>回避策として、メニューの"
+#~ "「ファイル|エクスポート」から PDF で保存して、PDF ビューアを使ってくださ"
+#~ "い。</p><p>この機能は、いずれ追加する予定です。</p></qt>"
+
+#~ msgid "*.pdf|Portable Document Format (*.pdf)"
+#~ msgstr "*.pdf|Portable Document Format (*.pdf)"
+
+#~ msgid "Export File As"
+#~ msgstr "ファイルをエクスポート"
+
+#~ msgid ""
+#~ "The file %1\n"
+#~ "exists. Do you want to overwrite it?"
+#~ msgstr ""
+#~ "ファイル ‘%1’ は存在します。\n"
+#~ "上書きしますか？"
+
+#~ msgid "Overwrite File"
+#~ msgstr "ファイルを上書き"
+
+#~ msgid "Overwrite"
+#~ msgstr "上書き"
+
+#~ msgid "Using dvipdfm to export the file to PDF"
+#~ msgstr "PDF へのエクスポートに dvipdfm を使用"
+
+#~ msgid ""
+#~ "Okular is currently using the external program 'dvipdfm' to convert your "
+#~ "DVI-file to PDF. Sometimes that can take a while because dvipdfm needs to "
+#~ "generate its own bitmap fonts Please be patient."
+#~ msgstr ""
+#~ "Okular は DVI ファイルの PDF への変換に外部プログラム dvipdfm を使っていま"
+#~ "す。dvipdfm はビットマップフォントを生成する必要があるため、時間がかかる場"
+#~ "合があります。お待ちください。"
+
+#~ msgid "Waiting for dvipdfm to finish..."
+#~ msgstr "dvipdfm の処理が終わるのを待っています..."
+
+#~ msgid ""
+#~ "Okular could not locate the program 'dvips' on your computer. That "
+#~ "program is essential for the export function to work.\n"
+#~ "Hint to the perplexed system administrator: Okular uses the PATH "
+#~ "environment variable when looking for programs."
+#~ msgstr ""
+#~ "Okular はプログラム dvips を見つけられませんでした。このプログラムはエクス"
+#~ "ポート機能に必要です。\n"
+#~ "当惑しているシステム管理者へのヒント: Okular はプログラムを探す際に PATH "
+#~ "環境変数を使います。"
+
+#~ msgid "*.ps|PostScript (*.ps)"
+#~ msgstr "*.ps|PostScript (*.ps)"
+
+#~ msgid "Using dvips to export the file to PostScript"
+#~ msgstr "PostScript へのエクスポートに dvips を使用"
+
+#~ msgid ""
+#~ "Okular is currently using the external program 'dvips' to convert your "
+#~ "DVI-file to PostScript. Sometimes that can take a while because dvips "
+#~ "needs to generate its own bitmap fonts Please be patient."
+#~ msgstr ""
+#~ "Okular は DVI ファイルの PostScript への変換に外部プログラム dvips を使っ"
+#~ "ています。dvips はビットマップフォントを生成する必要があるため、時間がかか"
+#~ "る場合があります。お待ちください。"
+
+#~ msgid "Waiting for dvips to finish..."
+#~ msgstr "dvips の処理が終わるのを待っています..."
+
+#, fuzzy
+#~| msgid ""
+#~| "<qt><p>The external program <strong>pdf2ps</strong> could not be "
+#~| "started. As a result, the PDF-file %1 could not be converted to "
+#~| "PostScript. Some graphic elements in your document will therefore not be "
+#~| "displayed.</p><p><b>Possible reason:</b> The program <strong>pdf2ps</"
+#~| "strong> may not be installed on your system, or cannot be found in the "
+#~| "current search path.</p><p><b>What you can do:</b> The program "
+#~| "<strong>pdf2ps</strong> is normally contained in distributions of the "
+#~| "ghostscript PostScript interpreter system. If ghostscipt is not "
+#~| "installed on your system, you could install it now. If you are sure that "
+#~| "ghostscript is installed, try to use <strong>pdf2ps</strong> from the "
+#~| "command line to check if it really works.</p><p><b>PATH:</b> %2</p></qt>"
+#~ msgid ""
+#~ "<qt><p>The external program <strong>pdf2ps</strong> could not be started. "
+#~ "As a result, the PDF-file %1 could not be converted to PostScript. Some "
+#~ "graphic elements in your document will therefore not be displayed.</"
+#~ "p><p><b>Possible reason:</b> The program <strong>pdf2ps</strong> may not "
+#~ "be installed on your system, or cannot be found in the current search "
+#~ "path.</p><p><b>What you can do:</b> The program <strong>pdf2ps</strong> "
+#~ "is normally contained in distributions of the ghostscript PostScript "
+#~ "interpreter system. If ghostscript is not installed on your system, you "
+#~ "could install it now. If you are sure that ghostscript is installed, try "
+#~ "to use <strong>pdf2ps</strong> from the command line to check if it "
+#~ "really works.</p><p><b>PATH:</b> %2</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>外部プログラム <tt>pdf2ps</tt> を起動できなかったため、PDF ファイ"
+#~ "ル ‘%1’ を PostScript に変換できませんでした。したがって文書に含まれる一部"
+#~ "のグラフィック要素は表示されません。</p><p>考えられる原因: <tt>pdf2ps</"
+#~ "tt> プログラムがインストールされていないか、検索パスにないためだと考えられ"
+#~ "ます。</p><p>対処法: <tt>pdf2ps</tt> プログラムは通常 <tt>ghostscript</"
+#~ "tt> PostScript インタプリタシステムの一部として配布されています。"
+#~ "<tt>ghostscript</tt> がインストールされていない場合は、インストールしてく"
+#~ "ださい。<tt>ghostscript</tt> がインストールされている場合は、<tt>pdf2ps</"
+#~ "tt> プログラムをコマンドラインから実行して動作を確認してください。</p><p>"
+#~ "パス: %2</p></qt>"
+
+#~ msgid "Aborts the font generation. Do not do this."
+#~ msgstr "フォント生成を中止。これはしないでください。"
+
+#~ msgid ""
+#~ "Okular is currently generating bitmap fonts which are needed to display "
+#~ "your document. For this, Okular uses a number of external programs, such "
+#~ "as MetaFont. You can find the output of these programs later in the "
+#~ "document info dialog."
+#~ msgstr ""
+#~ "Okular は文書の表示に必要なビットマップフォントを生成しています。Okular "
+#~ "は MetaFont など多くの外部プログラムを使用します。これらのプログラムの出力"
+#~ "は後で「文書情報」ダイアログで見ることができます。"
+
+#~ msgid "Okular is generating fonts. Please wait."
+#~ msgstr "Okular はフォント生成中です。お待ちください。"
+
+#, fuzzy
+#~| msgid ""
+#~| "<qt><p>Okular was not able to locate all the font files which are "
+#~| "necessary to display the current DVI file. Your document might be "
+#~| "unreadable.</p></qt>"
+#~ msgid ""
+#~ "Okular was not able to locate all the font files which are necessary to "
+#~ "display the current DVI file. Your document might be unreadable.\n"
+#~ "PATH: %1\n"
+#~ "kpswhich: %2"
+#~ msgstr ""
+#~ "<qt><p>Okular は現在の DVI ファイルの表示に必要なすべてのフォントファイル"
+#~ "を見つけられませんでした。文書は読めないかもしれません。</p></qt>"
+
+#~ msgid ""
+#~ "<p>Okular relies on the <b>kpsewhich</b> program to locate font files on "
+#~ "your hard disk and to generate PK fonts, if necessary.</p>"
+#~ msgstr ""
+#~ "<p>Okular は、ハードディスク上のフォントを探すために、また必要に応じて PK "
+#~ "フォントを生成するために <tt>kpsewhich</tt> を必要とします。</p>"
+
+#, fuzzy
+#~| msgid ""
+#~| "<qt><p>The font generation by <b>kpsewhich</b> was aborted (exit code "
+#~| "%1, error %2). As a result, some font files could not be located, and "
+#~| "your document might be unreadable.</p></qt>"
+#~ msgid ""
+#~ "The font generation by 'kpsewhich' was aborted (exit code %1, error %2). "
+#~ "As a result, some font files could not be located, and your document "
+#~ "might be unreadable."
+#~ msgstr ""
+#~ "<qt><p><b>kpsewhich</b> によるフォント済々が中断されました (終了コード "
+#~ "%1、エラー %2)。このため、フォントファイルがたらず、文書が読めないかもしれ"
+#~ "ません。</p></qt>"
+
+#~ msgid "Okular is currently generating bitmap fonts..."
+#~ msgstr "Okular は現在ビットマップフォントを生成中です..."
+
+#~ msgid "Font Generation Progress Dialog"
+#~ msgstr "フォント生成の進捗ダイアログ"
+
+#~ msgid "Abort"
+#~ msgstr "中止"
+
+#~ msgid "What is happening here?"
+#~ msgstr "一体何が起こっているんだ？"
+
+#~ msgid "%v of %m"
+#~ msgstr "%m の %v"
+
+#, fuzzy
+#~| msgid ""
+#~| "<qt><P>This DVI file refers to external graphic files which are not in "
+#~| "PostScript format, and cannot be handled by the <strong>dvips</strong> "
+#~| "program that Okular uses interally to print or to export to PostScript. "
+#~| "The functionality that you require is therefore unavailable in this "
+#~| "version of Okular.</p><p>As a workaround, you can use the <strong>File/"
+#~| "Export As</strong>-Menu to save this file in PDF format, and then use a "
+#~| "PDF viewer.</p><p>It is planned to add this functionality at a later "
+#~| "date.</p></qt>"
+#~ msgid ""
+#~ "<qt><P>This DVI file refers to external graphic files which are not in "
+#~ "PostScript format, and cannot be handled by the <strong>dvips</strong> "
+#~ "program that Okular uses internally to print or to export to PostScript. "
+#~ "The functionality that you require is therefore unavailable in this "
+#~ "version of Okular.</p><p>As a workaround, you can use the <strong>File/"
+#~ "Export As</strong>-Menu to save this file in PDF format, and then use a "
+#~ "PDF viewer.</p><p>It is planned to add this functionality at a later date."
+#~ "</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>この DVI ファイルは PostScript ではない外部グラフィックファイルを参"
+#~ "照しています。Okular が印刷や PostScript へのエクスポートに内部で使用する "
+#~ "<tt>dvips</tt> がこのファイルを扱えないため、このバージョンの Okular では"
+#~ "要求された処理を行うことができません。</p><p>回避策として、メニューの"
+#~ "「ファイル|エクスポート」から PDF で保存して、PDF ビューアを使ってくださ"
+#~ "い。</p><p>この機能は、いずれ追加する予定です。</p></qt>"
+
+#~ msgid "Export: %1 to PDF"
+#~ msgstr "エクスポート: %1 を PDF に"
+
+#~ msgid "Functionality Unavailable"
+#~ msgstr "機能が利用できません"
+
+#~ msgid "Export: %1 to PostScript"
+#~ msgstr "エクスポート: %1 を PostScript へ"
+
+#~ msgid ""
+#~ "<qt><strong>File corruption</strong> Okular could not interpret your DVI "
+#~ "file. This is most commonly caused by a corrupted file.</qt>"
+#~ msgstr ""
+#~ "<qt>ファイルが壊れています。Okular は DVI ファイルを解釈できませんでした。"
+#~ "おそらくこの DVI ファイルが壊れているためです。</qt>"
+
+#~ msgid "DVI File Error"
+#~ msgstr "DVI ファイルのエラー"
+
+#~ msgid "Not All Font Files Found"
+#~ msgstr "一部のフォントファイルが見つかりません"
+
+#~ msgid "Locating fonts..."
+#~ msgstr "フォントを探しています..."
+
+#~ msgid "Problem locating fonts"
+#~ msgstr "フォントが見つかりません"
+
+#~ msgid "Font generation aborted"
+#~ msgstr "フォントの生成を中止しました"
+
+#~ msgid ""
+#~ "<qt>The version of Ghostview that is installed on this computer does not "
+#~ "contain any of the Ghostview device drivers that are known to Okular. "
+#~ "PostScript support has therefore been turned off in Okular.</qt>"
+#~ msgstr ""
+#~ "<qt>このコンピュータにインストールされているバージョンの Ghostview には、"
+#~ "Okular が認識する Ghostview デバイスドライバが含まれていません。そのため、"
+#~ "Okular での PostScript のサポートを無効にしました。</qt>"
+
+#~ msgid ""
+#~ "<qt><P>This DVI file refers to external graphic files which are not in "
+#~ "PostScript format, and cannot be handled by the <strong>dvips</strong> "
+#~ "program that Okular uses interally to print or to export to PostScript. "
+#~ "The functionality that you require is therefore unavailable in this "
+#~ "version of Okular.</p><p>As a workaround, you can use the <strong>File/"
+#~ "Export As</strong>-Menu to save this file in PDF format, and then use a "
+#~ "PDF viewer.</p><p>It is planned to add this functionality at a later date."
+#~ "</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>この DVI ファイルは PostScript ではない外部グラフィックファイルを参"
+#~ "照しています。Okular が印刷や PostScript へのエクスポートに内部で使用する "
+#~ "<tt>dvips</tt> がこのファイルを扱えないため、このバージョンの Okular では"
+#~ "要求された処理を行うことができません。</p><p>回避策として、メニューの"
+#~ "「ファイル|エクスポート」から PDF で保存して、PDF ビューアを使ってくださ"
+#~ "い。</p><p>この機能は、いずれ追加する予定です。</p></qt>"
+
+#~ msgid ""
+#~ "<qt><p>The external program <strong>pdf2ps</strong> could not be started. "
+#~ "As a result, the PDF-file %1 could not be converted to PostScript. Some "
+#~ "graphic elements in your document will therefore not be displayed.</"
+#~ "p><p><b>Possible reason:</b> The program <strong>pdf2ps</strong> may not "
+#~ "be installed on your system, or cannot be found in the current search "
+#~ "path.</p><p><b>What you can do:</b> The program <strong>pdf2ps</strong> "
+#~ "is normally contained in distributions of the ghostscript PostScript "
+#~ "interpreter system. If ghostscipt is not installed on your system, you "
+#~ "could install it now. If you are sure that ghostscript is installed, try "
+#~ "to use <strong>pdf2ps</strong> from the command line to check if it "
+#~ "really works.</p><p><b>PATH:</b> %2</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>外部プログラム <tt>pdf2ps</tt> を起動できなかったため、PDF ファイ"
+#~ "ル ‘%1’ を PostScript に変換できませんでした。したがって文書に含まれる一部"
+#~ "のグラフィック要素は表示されません。</p><p>考えられる原因: <tt>pdf2ps</"
+#~ "tt> プログラムがインストールされていないか、検索パスにないためだと考えられ"
+#~ "ます。</p><p>対処法: <tt>pdf2ps</tt> プログラムは通常 <tt>ghostscript</"
+#~ "tt> PostScript インタプリタシステムの一部として配布されています。"
+#~ "<tt>ghostscript</tt> がインストールされていない場合は、インストールしてく"
+#~ "ださい。<tt>ghostscript</tt> がインストールされている場合は、<tt>pdf2ps</"
+#~ "tt> プログラムをコマンドラインから実行して動作を確認してください。</p><p>"
+#~ "パス: %2</p></qt>"
+
+#~ msgid "The fontlist is currently empty."
+#~ msgstr "フォントリストは現在空です。"
+
+#~ msgid "TeX Name"
+#~ msgstr "TeX 名"
+
+#~ msgid "Family"
+#~ msgstr "ファミリ"
+
+#~ msgid "Zoom"
+#~ msgstr "ズーム"
+
+#~ msgid "Type"
+#~ msgstr "タイプ"
+
+#~ msgid "Encoding"
+#~ msgstr "エンコード"
+
+#~ msgid "Comment"
+#~ msgstr "コメント"
+
+#~ msgid "TeX virtual"
+#~ msgstr "Tex 仮想フォント"
+
+#~ msgid "TeX Font Metric"
+#~ msgstr "Tex フォントメトリック"
+
+#~ msgid "FreeType"
+#~ msgstr "FreeType"
+
+#~ msgid "Aborts the font generation. Don't do this."
+#~ msgstr "フォント生成を中止。これはしないでください。"
+
+#~ msgid ""
+#~ "Okular is currently generating bitmap fonts which are needed to display "
+#~ "your document. For this, okular uses a number of external programs, such "
+#~ "as MetaFont. You can find the output of these programs later in the "
+#~ "document info dialog."
+#~ msgstr ""
+#~ "Okular は文書の表示に必要なビットマップフォントを生成しています。Okular "
+#~ "は MetaFont など多くの外部プログラムを使用します。これらのプログラムの出力"
+#~ "は後で「文書情報」ダイアログで見ることができます。"
+
+#~ msgid "Could not allocate memory for a font structure"
+#~ msgstr "フォント構造体にメモリを割り当てられません"
+
+#~ msgid ""
+#~ "<p>Okular relies on the <b>kpsewhich</b> program to locate font files on "
+#~ "your hard disc and to generate PK fonts, if necessary.</p>"
+#~ msgstr ""
+#~ "<p>Okular は、ハードディスク上のフォントを探すために、また必要に応じて PK "
+#~ "フォントを生成するために <tt>kpsewhich</tt> を必要とします。</p>"
+
+#~ msgid "Problem locating fonts - okular"
+#~ msgstr "フォントが見つかりません - Okular"
+
+#~ msgid "Font generation aborted - okular"
+#~ msgstr "フォントの生成を中止しました - Okular"
+
+#~ msgid "Not enough memory to load the DVI-file."
+#~ msgstr "DVI ファイルを読み込むのに十分なメモリがありません。"
+
+#~ msgid "Could not load the DVI-file."
+#~ msgstr "DVI ファイルを読み込めませんでした。"
+
+#~ msgid ""
+#~ "<qt><p>The external program <strong>pdf2ps</strong> could not be started. "
+#~ "As a result, the PDF-file %1 could not be converted to PostScript. Some "
+#~ "graphic elements in your document will therefore not be displayed.</"
+#~ "p><p><b>Possible reason:</b> The program <strong>pdf2ps</strong> is "
+#~ "perhaps not installed on your system, or it cannot be found in the "
+#~ "current search path.</p><p><b>What you can do:</b> The program "
+#~ "<strong>pdf2ps</strong> program is normally contained in distributions of "
+#~ "the ghostscript PostScript interpreter system. If ghostscipt is not "
+#~ "installed on your system, you could install it now. If you are sure that "
+#~ "ghostscript is installed, please try to use <strong>pdf2ps</strong> from "
+#~ "the command line to check if it really works.</p><p><b>PATH:</b> %2</p></"
+#~ "qt>"
+#~ msgstr ""
+#~ "<qt><p>外部プログラム <tt>pdf2ps</tt> を起動できなかったため、PDF ファイ"
+#~ "ル ‘%1’ を PostScript に変換できませんでした。したがって文書に含まれる一部"
+#~ "のグラフィック要素は表示されません。</p><p>考えられる原因: おそらく "
+#~ "<tt>pdf2ps</tt> プログラムがインストールされていないか、検索パスにないため"
+#~ "だと考えられます。</p><p>対処法: <tt>pdf2ps</tt> プログラムは通常 "
+#~ "<tt>ghostscript</tt> PostScript インタプリタシステムの一部として配布されて"
+#~ "います。<tt>ghostscript</tt> がインストールされていない場合は、インストー"
+#~ "ルしてください。<tt>ghostscript</tt> がインストールされている場合は、"
+#~ "<tt>pdf2ps</tt> プログラムをコマンドラインから実行して動作を確認してくださ"
+#~ "い。</p><p>パス: %2</p></qt>"
+
+#~ msgid ""
+#~ "<qt><p>The PDF-file %1 could not be converted to PostScript. Some graphic "
+#~ "elements in your document will therefore not be displayed.</"
+#~ "p><p><b>Possible reason:</b> The file %1 might be broken, or might not be "
+#~ "a PDF-file at all. This is the output of the <strong>pdf2ps</strong> "
+#~ "program that okular used:</p><p><strong>%2</strong></p></qt>"
+#~ msgstr ""
+#~ "<qt><p>PDF ファイル ‘%1’ を PostScript に変換できませんでした。したがって"
+#~ "文書に含まれる一部のグラフィック要素は表示されません。</p><p>考えられる原"
+#~ "因: ファイル ‘%1’ が壊れているか、PDF ファイルではないためだと考えられま"
+#~ "す。Okular が使用した <tt>pdf2ps</tt> プログラムの出力は以下のとおりです:"
+#~ "</p><p>%2</p></qt>"
+
+#~ msgid ""
+#~ "Okular could not locate the program 'dvipdfm' on your computer. That "
+#~ "program is essential for the export function to work. You can, however, "
+#~ "convert the DVI-file to PDF using the print function of Okular, but that "
+#~ "will often produce documents which print ok, but are of inferior quality "
+#~ "if viewed in the Acrobat Reader. It may be wise to upgrade to a more "
+#~ "recent version of your TeX distribution which includes the 'dvipdfm' "
+#~ "program.\n"
+#~ "Hint to the perplexed system administrator: Okular uses the PATH "
+#~ "environment variable when looking for programs."
+#~ msgstr ""
+#~ "Okular はプログラム dvipdfm を見つけられませんでした。このプログラムはエク"
+#~ "スポート機能に必要です。Okular の印刷機能を使って DVI ファイルを PDF に変"
+#~ "換することもできますが、この方法を使うと印刷では問題なくても Acrobat "
+#~ "Reader で開いたときに表示の質が落ちることがよくあります。dvipdfm が含まれ"
+#~ "ているより新しい TeX ディストリビューションにアップグレードする方がよいで"
+#~ "しょう。\n"
+#~ "当惑しているシステム管理者へのヒント: Okular はプログラムを探す際に PATH "
+#~ "環境変数を使います。"
+
+#~ msgid ""
+#~ "The file %1\n"
+#~ "exists. Do you want to overwrite that file?"
+#~ msgstr ""
+#~ "ファイル ‘%1’ は存在します。\n"
+#~ "上書きしますか？"
+
+#~ msgid ""
+#~ "<qt><P>This DVI file refers to external graphic files which are not in "
+#~ "PostScript format, and cannot be handled by the <strong>dvips</strong> "
+#~ "program that Okular uses interally to print or to export to PostScript. "
+#~ "The functionality that you require is therefore unavailable in this "
+#~ "version of Okular.</p><p>As a workaround, you can use the <strong>File/"
+#~ "Export As</strong>-Menu to save this file in PDF format, and then use a "
+#~ "PDF viewer.</p><p>The author of Okular apologizes for the inconvenience. "
+#~ "If enough users complain, the missing functionality might later be added."
+#~ "</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>この DVI ファイルは PostScript ではない外部グラフィックファイルを参"
+#~ "照しています。Okular が印刷や PostScript へのエクスポートに内部で使用する "
+#~ "<tt>dvips</tt> がこのファイルを扱えないため、このバージョンの Okular では"
+#~ "要求された処理を行うことができません。</p><p>回避策として、メニューの"
+#~ "「ファイル|エクスポート」から PDF で保存して、PDF ビューアを使ってくださ"
+#~ "い。</p><p>この機能は、いずれ追加する予定です。</p></qt>"
+
+#~ msgid "What's going on here?"
+#~ msgstr "一体何が起こっているんだ？"
+
+#~ msgid ""
+#~ "<qt><strong>File corruption</strong> Okular could not interprete your DVI "
+#~ "file. This is most commonly caused by a corrupted file.</qt>"
+#~ msgstr ""
+#~ "<qt>ファイルが壊れています。Okular は DVI ファイルを解釈できませんでした。"
+#~ "おそらくこの DVI ファイルが壊れているためです。</qt>"
+
+#~ msgid "Checksum mismatch"
+#~ msgstr "チェックサムが合いません"
+
+#~ msgid " in font file "
+#~ msgstr " フォントファイル"
+
+#~ msgid "Could not allocate memory for a macro table."
+#~ msgstr "マクロテーブルにメモリを割り当てられませんでした。"
+
+#~ msgid "Virtual character "
+#~ msgstr "仮想文字 "
+
+#~ msgid " in font "
+#~ msgstr " フォント "
+
+#~ msgid " ignored."
+#~ msgstr " 無視されました。"
+
+#~ msgid ""
+#~ "<qt>The version of Ghostview that is installed on this computer does not "
+#~ "contain any of the Ghostview device drivers that are known to okular. "
+#~ "PostScript support has therefore been turned off in okular.</qt>"
+#~ msgstr ""
+#~ "<qt>このコンピュータにインストールされているバージョンの Ghostview には、"
+#~ "Okular が認識する Ghostview デバイスドライバが含まれていません。そのため、"
+#~ "Okular での PostScript のサポートを無効にしました。</qt>"
+
+#~ msgid ""
+#~ "<qt><p>The Ghostview program, which okular uses internally to display the "
+#~ "PostScript graphics that is included in this DVI file, is generally able "
+#~ "to write its output in a variety of formats. The sub-programs that "
+#~ "Ghostview uses for these tasks are called 'device drivers'; there is one "
+#~ "device driver for each format that Ghostview is able to write. Different "
+#~ "versions of Ghostview often have different sets of device drivers "
+#~ "available. It seems that the version of Ghostview that is installed on "
+#~ "this computer does not contain <strong>any</strong> of the device drivers "
+#~ "that are known to okular.</p><p>It seems unlikely that a regular "
+#~ "installation of Ghostview would not contain these drivers. This error may "
+#~ "therefore point to a serious misconfiguration of the Ghostview "
+#~ "installation on your computer.</p><p>If you want to fix the problems with "
+#~ "Ghostview, you can use the command <strong>gs --help</strong> to display "
+#~ "the list of device drivers contained in Ghostview. Among others, okular "
+#~ "can use the 'png256', 'jpeg' and 'pnm' drivers. Note that okular needs to "
+#~ "be restarted to re-enable PostScript support.</p></qt>"
+#~ msgstr ""
+#~ "<qt><p>Okular が DVI ファイルに含まれている PostScript グラフィックスを表"
+#~ "示するために内部で使用する <tt>ghostview</tt> プログラムは、一般的にさまざ"
+#~ "まなフォーマットで出力することができます。<tt>ghostview</tt> がこれらのタ"
+#~ "スクに使用するサブプログラムは「デバイスドライバ」と呼ばれ、"
+#~ "<tt>ghostview</tt> が出力するフォーマットごとに一つずつデバイスドライバが"
+#~ "あります。利用できるデバイスドライバは <tt>ghostview</tt> のバージョンに"
+#~ "よってしばしば異なります。お使いのコンピュータにインストールされているバー"
+#~ "ジョンの <tt>ghostview</tt> には、Okular が認識できるデバイスドライバが一"
+#~ "つも含まれていません。</p><p><tt>ghostview</tt> を普通にインストールして、"
+#~ "これらのドライバが全く含まれていないということは考えられません。したがっ"
+#~ "て、このエラーは <tt>ghostview</tt> が間違った設定でインストールされている"
+#~ "ためだと思われます。</p><p>この <tt>ghostview</tt> 関連の問題を解決する場"
+#~ "合、<tt>gs --help</tt> とコマンドを打つことで、<tt>ghostview</tt> に含まれ"
+#~ "ているデバイスドライバの一覧を表示できます。Okular は png256, jpeg, pnm ド"
+#~ "ライバなどを使用できます。PostScript のサポートを有効にするには、Okular を"
+#~ "再起動する必要があります。</p></qt>"
+
+#~ msgid "Fatal Error"
+#~ msgstr "致命的なエラー"
+
+#~ msgid ""
+#~ "\n"
+#~ "\n"
+#~ "This probably means that either you found a bug in okular,\n"
+#~ "or that the DVI file, or auxiliary files (such as font files, \n"
+#~ "or virtual font files) were really badly broken.\n"
+#~ "Okular will abort after this message. If you believe that you \n"
+#~ "found a bug, or that okular should behave better in this situation\n"
+#~ "please report the problem."
+#~ msgstr ""
+#~ "\n"
+#~ "\n"
+#~ "これはおそらく Okular のバグか、DVI ファイルまたは補助ファイル\n"
+#~ "(フォントファイル、仮想フォントファイルなど) がひどく壊れている\n"
+#~ "ことを意味します。\n"
+#~ "Okular はこのメッセージの後で終了します。バグと思われる場合、\n"
+#~ "あるいは Okular はこのような状況でもっとうまく振る舞うべきだ\n"
+#~ "と思われる場合は、問題を報告してください。"

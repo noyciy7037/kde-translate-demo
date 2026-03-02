@@ -1,0 +1,186 @@
+# Translation of oktetapart into Japanese.
+# This file is distributed under the same license as the kdeutils package.
+#
+# Noboru Sinohara <shinobo@leo.bekkoame.ne.jp>, 2002.
+# SATOH Satoru <ss@kde.gr.jp>, 2004.
+# Fumiaki Okushi <fokushi@yahoo.co.jp>, 2004.
+# Fumiaki Okushi <fumiaki@okushi.com>, 2005.
+# Kenshi Muto <kmuto@debian.org>, 2005.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2007.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2007.
+# Daniel E. Moctezuma <democtezuma@gmail.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: oktetapart\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-01-31 10:32+0100\n"
+"PO-Revision-Date: 2010-07-07 02:03-0700\n"
+"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.0\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. i18n: ectx: Menu (file)
+#. +> trunk5 stable5
+#: oktetapartbrowserui.rc:5 oktetapartreadonlyui.rc:5
+#: oktetapartreadwriteui.rc:5
+#, kde-format
+msgid "&File"
+msgstr ""
+
+#. i18n: ectx: Menu (edit)
+#. +> trunk5 stable5
+#: oktetapartbrowserui.rc:8 oktetapartreadonlyui.rc:10
+#: oktetapartreadwriteui.rc:16
+#, kde-format
+msgid "&Edit"
+msgstr ""
+
+#. i18n: ectx: Menu (view)
+#. +> trunk5 stable5
+#: oktetapartbrowserui.rc:21 oktetapartreadonlyui.rc:26
+#: oktetapartreadwriteui.rc:41
+#, kde-format
+msgid "&View"
+msgstr ""
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#. +> trunk5 stable5
+#: oktetapartbrowserui.rc:43 oktetapartreadonlyui.rc:47
+#: oktetapartreadwriteui.rc:62
+#, kde-format
+msgid "Main Toolbar"
+msgstr "メインツールバー"
+
+#. i18n: ectx: Menu (permission)
+#. +> trunk5 stable5
+#: oktetapartreadwriteui.rc:11
+#, kde-format
+msgctxt "@title:menu"
+msgid "Permissions"
+msgstr "パーミッション"
+
+#. +> stable5
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+"R. Imura,Noboru Sinohara,SATOH Satoru,Fumiaki Okushi,Kenshi Muto,Daniel E. "
+"Moctezuma"
+
+#. +> stable5
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "imura@cs.titech.ac.jp,shinobo@leo.bekkoame.ne.jp,ss@kde.gr.jp,fumiaki@okushi.como.jp,kmuto@debian.org,democtezuma@gmail.com"
+
+#. +> stable5
+#: partfactory.cpp:33
+#, kde-format
+msgid "OktetaPart"
+msgstr "OktetaPart"
+
+#. +> stable5
+#: partfactory.cpp:35
+#, kde-format
+msgid "Embedded hex editor"
+msgstr "埋め込みバイナリエディタ"
+
+#. +> stable5
+#: partfactory.cpp:37
+#, kde-format
+msgid "Copyright 2003-%1 Friedrich W. H. Kossebau"
+msgstr ""
+
+#. +> stable5
+#: partfactory.cpp:39
+#, kde-format
+msgid "Friedrich W. H. Kossebau"
+msgstr ""
+
+#. +> stable5
+#: partfactory.cpp:39
+#, kde-format
+msgid "Author"
+msgstr "作者"
+
+#~ msgctxt "@title:menu"
+#~ msgid "&Value Coding"
+#~ msgstr "基数(&V)"
+
+#~ msgctxt ""
+#~ "@item:inmenu encoding of the bytes as values in the hexadecimal format"
+#~ msgid "&Hexadecimal"
+#~ msgstr "十六進(&H)"
+
+#~ msgctxt "@item:inmenu encoding of the bytes as values in the decimal format"
+#~ msgid "&Decimal"
+#~ msgstr "十進(&D)"
+
+#~ msgctxt "@item:inmenu encoding of the bytes as values in the octal format"
+#~ msgid "&Octal"
+#~ msgstr "八進(&O)"
+
+#~ msgctxt "@item:inmenu encoding of the bytes as values in the binary format"
+#~ msgid "&Binary"
+#~ msgstr "二進(&B)"
+
+#~ msgctxt "@title:menu"
+#~ msgid "&Char Encoding"
+#~ msgstr "文字コード(&C)"
+
+#~ msgctxt "@option:check"
+#~ msgid "Show &Non-printing Chars"
+#~ msgstr "印字不可能な文字を表示する(&N)"
+
+#~ msgctxt "@option:check"
+#~ msgid "&Line Offset"
+#~ msgstr "行オフセット(&L)"
+
+#, fuzzy
+#~ msgctxt "@item:inmenu"
+#~ msgid "&Values"
+#~ msgstr "値カラム(&V)"
+
+#, fuzzy
+#~ msgctxt "@item:inmenu"
+#~ msgid "&Chars"
+#~ msgstr "文字カラム(&C)"
+
+#~ msgctxt "@title:menu"
+#~ msgid "&Columns"
+#~ msgstr "カラム(&C)"
+
+#~ msgctxt "@title:menu"
+#~ msgid "&Resize Style"
+#~ msgstr "リサイズスタイル(&R)"
+
+#~ msgctxt "@item:inmenu"
+#~ msgid "&No Resize"
+#~ msgstr "リサイズなし(&N)"
+
+#~ msgctxt "@item:inmenu"
+#~ msgid "&Full Size Usage"
+#~ msgstr "フルサイズで使う(&F)"
+
+#~ msgctxt "@item:inmenu"
+#~ msgid "&Values Column"
+#~ msgstr "値カラム(&V)"
+
+#~ msgctxt "@item:inmenu"
+#~ msgid "&Both Columns"
+#~ msgstr "両方のカラム(&B)"
+
+#~ msgctxt "@item:inmenu"
+#~ msgid "&Lock Groups"
+#~ msgstr "グループをロック(&L)"
+
+#~ msgctxt "@item:inmenu"
+#~ msgid "&Chars Column"
+#~ msgstr "文字カラム(&C)"

@@ -1,0 +1,206 @@
+# Translation of desktop_kdeedu to Japanese.
+# Taiki Komoda <kom@kde.gr.jp>, 2002,2003.
+# hogie <satoshiy@juno.dti.ne.jp>, 2004.
+# Kyosuke Takayama <support@mc.neweb.ne.jp>, 2004.
+# Toyohiro Asukai <toyohiro@ksmplus.com>, 2004.
+# AWASHIRO Ikuya <ikuya@oooug.jp>, 2004.
+# KIMIZUKA Tomokazu <sgtom@pluto.dti.ne.jp>, 2005.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2007, 2008, 2009.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2006, 2011, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdeedu\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-09-09 08:55+0200\n"
+"PO-Revision-Date: 2014-09-21 00:26-0700\n"
+"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.10.2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: \n"
+"X-Text-Markup: \n"
+
+#. +> trunk6 stable6
+#: src/cantor-documentation.knsrc:2
+msgctxt "Name"
+msgid "Documentation"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/lib/cantor_assistant.desktop:4
+msgctxt "Comment"
+msgid "An Assistant for Cantor"
+msgstr "Cantor のウィザード"
+
+#. +> trunk6 stable6
+#: src/lib/cantor_backend.desktop:4
+msgctxt "Comment"
+msgid "A Backend for Cantor"
+msgstr "Cantor のバックエンド"
+
+#. +> trunk6 stable6
+#: src/lib/cantor_panelplugin.desktop:4
+msgctxt "Comment"
+msgid "A Plugin for Cantor's Panel"
+msgstr "Cantor のパネルのプラグイン"
+
+#. +> trunk6 stable6
+#: src/org.kde.cantor.desktop:2
+msgctxt "Name"
+msgid "Cantor"
+msgstr "Cantor"
+
+#. +> trunk6 stable6
+#: src/org.kde.cantor.desktop:59
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "KDE Frontend to Mathematical Software"
+msgctxt "GenericName"
+msgid "Frontend to Mathematical Software"
+msgstr "数値演算ソフトウェアのための KDE フロントエンド"
+
+#. +> trunk6 stable6
+#: src/org.kde.cantor.desktop:101
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "KDE Frontend to Mathematical Software"
+msgctxt "Comment"
+msgid "KDE Frontend to Mathematical Software"
+msgstr "数値演算ソフトウェアのための KDE フロントエンド"
+
+#~ msgctxt "GenericName"
+#~ msgid "KDE Frontend to Mathematical Software"
+#~ msgstr "数値演算ソフトウェアのための KDE フロントエンド"
+
+#~ msgctxt "Name"
+#~ msgid "Differentiate"
+#~ msgstr "微分"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "An Assistant dialog to simplify calculating derivatives of expressions"
+#~ msgstr "数式の微分計算を手助けするウィザード"
+
+#~ msgctxt "Name"
+#~ msgid "Integrate"
+#~ msgstr "積分"
+
+#~ msgctxt "Comment"
+#~ msgid "An Assistant dialog to simplify calculation of integrals"
+#~ msgstr "積分計算を手助けするウィザード"
+
+#~ msgctxt "Name"
+#~ msgid "Create Matrix"
+#~ msgstr "行列を作成"
+
+#~ msgctxt "Comment"
+#~ msgid "An Assistant dialog to simplify entering of matrices"
+#~ msgstr "行列の入力を手助けするウィザード"
+
+#~ msgctxt "Name"
+#~ msgid "Eigenvalues"
+#~ msgstr "固有値"
+
+#~ msgctxt "Comment"
+#~ msgid "An Assistant dialog to simplify calculating of Eigenvalues"
+#~ msgstr "固有値の計算を手助けするウィザード"
+
+#~ msgctxt "Name"
+#~ msgid "Eigenvectors"
+#~ msgstr "固有ベクトル"
+
+#~ msgctxt "Comment"
+#~ msgid "An Assistant dialog to simplify calculating of EigenVectors"
+#~ msgstr "固有ベクトルの計算を手助けするウィザード"
+
+#~ msgctxt "Name"
+#~ msgid "Invert Matrix"
+#~ msgstr "逆行列"
+
+#~ msgctxt "Comment"
+#~ msgid "An Assistant dialog to simplify inverting of matrices"
+#~ msgstr "逆行列の計算を手助けするウィザード"
+
+#~ msgctxt "Name"
+#~ msgid "Plot2d"
+#~ msgstr "Plot2d"
+
+#~ msgctxt "Comment"
+#~ msgid "An Assistant dialog to simplify plotting of 2D functions"
+#~ msgstr "二次曲線をグラフ化を手助けするウィザード"
+
+#~ msgctxt "Name"
+#~ msgid "Plot3d"
+#~ msgstr "Plot3d"
+
+#~ msgctxt "Comment"
+#~ msgid "An Assistant dialog to simplify plotting of 3D functions"
+#~ msgstr "三次曲線のグラフ化を手助けするウィザード"
+
+#~ msgctxt "Name"
+#~ msgid "RunScript"
+#~ msgstr "スクリプトの実行"
+
+#~ msgctxt "Comment"
+#~ msgid "An Assistant for running an external Script file"
+#~ msgstr "外部のスクリプトファイルを実行するウィザード"
+
+#~ msgctxt "Name"
+#~ msgid "Solve"
+#~ msgstr "解く"
+
+#~ msgctxt "Comment"
+#~ msgid "An Assistant dialog to simplify solving of equations"
+#~ msgstr "方程式を解くのを手助けするウィザード"
+
+#~ msgctxt "Name"
+#~ msgid "KAlgebra"
+#~ msgstr "KAlgebra"
+
+#~ msgctxt "Comment"
+#~ msgid "Backend for luajit"
+#~ msgstr "luajit のバックエンド"
+
+#~ msgctxt "Name"
+#~ msgid "Maxima"
+#~ msgstr "Maxima"
+
+#~ msgctxt "Comment"
+#~ msgid "Backend for the Maxima Computer Algebra System"
+#~ msgstr "Maxima のためのバックエンド"
+
+#~ msgctxt "Name"
+#~ msgid "nullbackend"
+#~ msgstr "空のバックエンド"
+
+#~ msgctxt "Comment"
+#~ msgid "Backend for Cantor for testing purposes"
+#~ msgstr "テストのための Cantor のバックエンド"
+
+#~ msgctxt "Comment"
+#~ msgid "Backend for GNU Octave"
+#~ msgstr "GNU Cantor のバックエンド"
+
+#~ msgctxt "Name"
+#~ msgid "R"
+#~ msgstr "R"
+
+#~ msgctxt "Comment"
+#~ msgid "Backend for The R Project for Statistical Computing"
+#~ msgstr "統計計算のための R のバックエンド"
+
+#~ msgctxt "Name"
+#~ msgid "Sage"
+#~ msgstr "Sage"
+
+#~ msgctxt "Comment"
+#~ msgid "Backend for the Sage Mathematics Software"
+#~ msgstr "数値演算ソフトウェア Sage のバックエンド"
+
+#~ msgctxt "Name"
+#~ msgid "CantorPart"
+#~ msgstr "Cantor パーツ"

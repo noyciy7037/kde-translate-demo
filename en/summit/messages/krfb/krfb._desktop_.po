@@ -1,0 +1,179 @@
+# Translation of desktop_kdenetwork into Japanese.
+# Noboru Sinohara <shinobo@leo.bekkoame.ne.jp>, 2002.
+# UTUMI Hirosi <utuhiro78@yahoo.co.jp>, 2004.
+# Toyohiro Asukai <toyohiro@ksmplus.com>, 2004.
+# AWASHIRO Ikuya <ikuya@oooug.jp>, 2004.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2007, 2008, 2009, 2010.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2006, 2008, 2010, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdenetwork\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-09-09 08:57+0200\n"
+"PO-Revision-Date: 2011-08-27 14:20-0700\n"
+"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: \n"
+"X-Text-Markup: \n"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:3 krfb/org.kde.krfb.desktop:119
+msgctxt "Comment"
+msgid "Desktop Sharing"
+msgstr "デスクトップ共有"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:77
+msgctxt "Name"
+msgid "User Accepts Connection"
+msgstr "ユーザが接続を許可"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:139
+msgctxt "Comment"
+msgid "User accepts connection"
+msgstr "ユーザが接続を許可"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:213
+msgctxt "Name"
+msgid "User Refuses Connection"
+msgstr "ユーザが接続を拒否"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:275
+msgctxt "Comment"
+msgid "User refuses connection"
+msgstr "ユーザが接続を拒否"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:349
+msgctxt "Name"
+msgid "Connection Closed"
+msgstr "接続切断"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:413
+msgctxt "Comment"
+msgid "Connection closed"
+msgstr "接続が閉じられました"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:491
+msgctxt "Name"
+msgid "Invalid Password"
+msgstr "無効なパスワード"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:555
+msgctxt "Comment"
+msgid "Invalid password"
+msgstr "無効なパスワード"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:636
+msgctxt "Name"
+msgid "Invalid Password Invitations"
+msgstr "招待に対する無効なパスワード"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:698
+msgctxt "Comment"
+msgid "The invited party sent an invalid password. Connection refused."
+msgstr "招待された人が無効なパスワードを送ってきました。接続を拒否しました。"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:770
+msgctxt "Name"
+msgid "New Connection on Hold"
+msgstr "保留中の新しい接続"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:831
+msgctxt "Comment"
+msgid "Connection requested, user must accept"
+msgstr "接続が要求されています。ユーザが許可しなければなりません。"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:904
+msgctxt "Name"
+msgid "New Connection Auto Accepted"
+msgstr "新しい接続の自動受け入れ"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:965
+msgctxt "Comment"
+msgid "New connection automatically established"
+msgstr "新しい接続を自動的に確立しました"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:1038
+msgctxt "Name"
+msgid "Too Many Connections"
+msgstr "多すぎる接続"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:1099
+msgctxt "Comment"
+msgid "Busy, connection refused"
+msgstr "ビジーです、接続を拒否しました"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:1175
+msgctxt "Name"
+msgid "Unexpected Connection"
+msgstr "予期しない接続"
+
+#. +> trunk6 stable6
+#: krfb/krfb.notifyrc:1237
+msgctxt "Comment"
+msgid "Received unexpected connection, abort"
+msgstr "予期しない接続を受信しました。廃棄します。"
+
+#. +> trunk6 stable6
+#: krfb/org.kde.krfb.desktop:9
+msgctxt "Name"
+msgid "Krfb"
+msgstr "Krfb"
+
+#. +> trunk6 stable6
+#: krfb/org.kde.krfb.desktop:79
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Desktop Sharing"
+msgctxt "GenericName"
+msgid "Desktop Sharing (VNC)"
+msgstr "デスクトップ共有"
+
+#. +> trunk6 stable6
+#: krfb/org.kde.krfb.virtualmonitor.desktop.cmake:7
+msgctxt "Name"
+msgid "KRFBs Virtual Monitor"
+msgstr ""
+
+#. +> trunk6 stable6
+#: krfb/org.kde.krfb.virtualmonitor.desktop.cmake:44
+msgctxt "Comment"
+msgid "Remote Virtual Monitor"
+msgstr ""
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Frame Buffer plugins for KRfb"
+#~ msgctxt "Comment"
+#~ msgid "Event plugins for KRfb"
+#~ msgstr "KRfb の フレームバッファプラグイン"
+
+#~ msgctxt "Comment"
+#~ msgid "Frame Buffer plugins for KRfb"
+#~ msgstr "KRfb の フレームバッファプラグイン"
+
+#~ msgctxt "GenericName"
+#~ msgid "Desktop Sharing"
+#~ msgstr "デスクトップ共有"

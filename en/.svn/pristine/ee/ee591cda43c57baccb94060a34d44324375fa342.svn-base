@@ -1,0 +1,978 @@
+# Translation of kdevcmake into Japanese.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2008.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2010.
+# Daniel E. Moctezuma <democtezuma@gmail.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdevcmake\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-05-16 12:10+0200\n"
+"PO-Revision-Date: 2010-10-31 15:39-0700\n"
+"Last-Translator: Daniel E. Moctezuma <democtezuma@gmail.com>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+"X-Generator: Lokalize 1.1\n"
+
+#. +> trunk6 stable6
+#: cmakebuilddirchooser.cpp:29
+#, fuzzy, kde-format
+#| msgid "Configure a build directory for %1"
+msgctxt "@title:window"
+msgid "Configure a Build Directory - %1"
+msgstr "%1 のためのビルドディレクトリを設定"
+
+#. +> trunk6 stable6
+#: cmakebuilddirchooser.cpp:86
+#, fuzzy, kde-format
+#| msgid "Configure a build directory for %1"
+msgctxt "@title:window"
+msgid "Configure a Build Directory for %1"
+msgstr "%1 のためのビルドディレクトリを設定"
+
+#. +> trunk6 stable6
+#: cmakebuilddirchooser.cpp:196
+#, kde-format
+msgid "You need to specify a build directory."
+msgstr "ビルドディレクトリを指定する必要があります。"
+
+#. +> trunk6 stable6
+#: cmakebuilddirchooser.cpp:203
+#, kde-format
+msgid "Using an already created build directory."
+msgstr "既に作成されたビルドディレクトリを使用。"
+
+#. +> trunk6 stable6
+#: cmakebuilddirchooser.cpp:214
+#, kde-format
+msgid "Creating a new build directory."
+msgstr "新しいビルドディレクトリを作成。"
+
+#. +> trunk6 stable6
+#: cmakebuilddirchooser.cpp:220
+#, kde-format
+msgid "Build directory already configured."
+msgstr "ビルドディレクトリは既に設定されています。"
+
+#. +> trunk6 stable6
+#: cmakebuilddirchooser.cpp:222
+#, kde-format
+msgid "This build directory is for %1, but the project directory is %2."
+msgstr ""
+"このビルドディレクトリは %1 のですが、プロジェクトディレクトリは %2 です。"
+
+#. +> trunk6 stable6
+#: cmakebuilddirchooser.cpp:225
+#, kde-format
+msgid "You may not select a relative build directory."
+msgstr ""
+
+#. +> trunk6 stable6
+#: cmakebuilddirchooser.cpp:227
+#, kde-format
+msgid "The selected build directory is not empty."
+msgstr "選択されたビルドディレクトリは空ではありません。"
+
+#. i18n: ectx: property (text), widget (QLabel, availableLabel)
+#. +> trunk6 stable6
+#: cmakebuilddirchooser.ui:32
+#, fuzzy, kde-format
+#| msgid "Already used build directory"
+msgctxt "@label:listbox"
+msgid "Available build directories:"
+msgstr "既に使われているビルドディレクトリ"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, availableBuildDirs)
+#. +> trunk6 stable6
+#: cmakebuilddirchooser.ui:40
+#, fuzzy, kde-format
+#| msgid "&Build Directory:"
+msgctxt "@item:inlistbox"
+msgid "New build directory"
+msgstr "ビルドディレクトリ(&B):"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#. +> trunk6 stable6
+#: cmakebuilddirchooser.ui:48
+#, fuzzy, kde-format
+#| msgid "&Build Directory:"
+msgctxt "@label:chooser"
+msgid "Build &directory:"
+msgstr "ビルドディレクトリ(&B):"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk6 stable6
+#: cmakebuilddirchooser.ui:84
+#, fuzzy, kde-format
+#| msgid "&Installation Prefix:"
+msgctxt "@label:chooser"
+msgid "&Installation prefix:"
+msgstr "インストールプレフィックス(&I):"
+
+#. i18n: ectx: property (toolTip), widget (KUrlRequester, installPrefix)
+#. +> trunk6 stable6
+#: cmakebuilddirchooser.ui:109
+#, kde-format
+msgctxt "@info:tooltip"
+msgid ""
+"The prefix under which the project will be installed. Leaving this empty "
+"will let CMake use its default install prefix."
+msgstr ""
+
+#. i18n: ectx: property (placeholderText), widget (KUrlRequester, installPrefix)
+#. +> trunk6 stable6
+#: cmakebuilddirchooser.ui:112
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "CMake's default install prefix"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. +> trunk6 stable6
+#: cmakebuilddirchooser.ui:119
+#, fuzzy, kde-format
+#| msgid "Build &type:"
+msgctxt "@label:listbox"
+msgid "Build &type:"
+msgstr "ビルドのタイプ(&T):"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#. i18n: ectx: property (text), widget (QLabel, extraArgumentsLabel)
+#. +> trunk6 stable6
+#: cmakebuilddirchooser.ui:162 settings/cmakebuildsettings.ui:178
+#, fuzzy, kde-format
+#| msgid "Extra Arguments:"
+msgctxt "@label:listbox"
+msgid "Extra arguments:"
+msgstr "他の引数:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#. +> trunk6 stable6
+#: cmakebuilddirchooser.ui:182
+#, kde-format
+msgctxt "@label:chooser"
+msgid "CMake &executable:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: cmakecodecompletionmodel.cpp:192
+#, kde-format
+msgid "INVALID"
+msgstr "不正"
+
+#. +> trunk6 stable6
+#: cmakecodecompletionmodel.cpp:200
+#, fuzzy, kde-format
+#| msgid "Command"
+msgctxt "@item"
+msgid "Command"
+msgstr "コマンド"
+
+#. +> trunk6 stable6
+#: cmakecodecompletionmodel.cpp:201
+#, fuzzy, kde-format
+#| msgid "Variable"
+msgctxt "@item"
+msgid "Variable"
+msgstr "変数"
+
+#. +> trunk6 stable6
+#: cmakecodecompletionmodel.cpp:202
+#, fuzzy, kde-format
+#| msgid "Macro"
+msgctxt "@item"
+msgid "Macro"
+msgstr "マクロ"
+
+#. +> trunk6 stable6
+#: cmakecodecompletionmodel.cpp:203
+#, fuzzy, kde-format
+#| msgid "Path"
+msgctxt "@item"
+msgid "Path"
+msgstr "パス"
+
+#. +> trunk6 stable6
+#: cmakecodecompletionmodel.cpp:204
+#, kde-format
+msgctxt "@item"
+msgid "Target"
+msgstr ""
+
+#. +> trunk6 stable6
+#: cmakecodecompletionmodel.cpp:256
+#, kde-format
+msgid "wrong"
+msgstr ""
+
+#. +> trunk6 stable6
+#: cmakecommandscontents.cpp:29
+#, fuzzy, kde-format
+#| msgid "Commands"
+msgctxt "@item cmake"
+msgid "Commands"
+msgstr "コマンド"
+
+#. +> trunk6 stable6
+#: cmakecommandscontents.cpp:30
+#, fuzzy, kde-format
+#| msgid "Variable"
+msgctxt "@item cmake"
+msgid "Variables"
+msgstr "変数"
+
+#. +> trunk6 stable6
+#: cmakecommandscontents.cpp:31
+#, fuzzy, kde-format
+#| msgid "Module"
+msgctxt "@item cmake"
+msgid "Modules"
+msgstr "モジュール"
+
+#. +> trunk6 stable6
+#: cmakecommandscontents.cpp:32
+#, fuzzy, kde-format
+#| msgid "Property"
+msgctxt "@item cmake"
+msgid "Properties"
+msgstr "プロパティ"
+
+#. +> trunk6 stable6
+#: cmakecommandscontents.cpp:33
+#, fuzzy, kde-format
+#| msgid "Policy"
+msgctxt "@item cmake"
+msgid "Policies"
+msgstr "ポリシー"
+
+#. +> trunk6 stable6
+#: cmakecommandscontents.cpp:102
+#, kde-format
+msgid "<p>For better CMake documentation rendering, install rst2html.</p>"
+msgstr ""
+
+#. +> trunk6 stable6
+#: cmakedocumentation.cpp:46 cmakemanager.cpp:76
+#, kde-format
+msgid "Unable to find a CMake executable. Is one installed on the system?"
+msgstr ""
+
+#. +> trunk6 stable6
+#: cmakedocumentation.cpp:81
+#, kde-format
+msgid "<br /><em>Cache Value:</em> %1\n"
+msgstr "<br />値をキャッシュ: %1\n"
+
+#. +> trunk6 stable6
+#: cmakedocumentation.cpp:84
+#, kde-format
+msgid "<br /><em>Cache Documentation:</em> %1\n"
+msgstr "<br />ドキュメントをキャッシュ: %1\n"
+
+#. +> trunk6 stable6
+#: cmakefileapiimportjob.cpp:41
+#, kde-format
+msgctxt "error message"
+msgid "invalid CMake file API project data"
+msgstr ""
+
+#. +> trunk6 stable6
+#: cmakehelpdocumentation.cpp:21
+#, kde-format
+msgid "CMake Content Page"
+msgstr "CMake コンテンツページ"
+
+#. +> trunk6 stable6
+#: cmakemanager.cpp:665
+#, kde-format
+msgid ""
+"Configured project '%1' with outdated CMake data. As a result, KDevelop's "
+"code understanding may be wrong.\n"
+"\n"
+"To fix this issue, please right-click the project item in the projects tool "
+"view and click 'Reload'."
+msgstr ""
+
+#. +> trunk6 stable6
+#: cmakemanager.cpp:676
+#, kde-format
+msgid ""
+"Failed to configure project '%1' (error message: %2). As a result, "
+"KDevelop's code understanding will likely be broken.\n"
+"\n"
+"To fix this issue, please ensure that the project's CMakeLists.txt files are "
+"correct, and KDevelop is configured to use the correct CMake version and "
+"settings. Then right-click the project item in the projects tool view and "
+"click 'Reload'."
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#. +> trunk6 stable6
+#: settings/cmakebuildsettings.ui:74
+#, fuzzy, kde-format
+#| msgid "Cache Values"
+msgctxt "@title:group"
+msgid "Cache Values"
+msgstr "値をキャッシュ"
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#. +> trunk6 stable6
+#: settings/cmakebuildsettings.ui:89
+#, fuzzy, kde-format
+#| msgid "Comment:"
+msgctxt "@label"
+msgid "Comment:"
+msgstr "コメント:"
+
+#. i18n: ectx: property (text), widget (QPushButton, showAdvanced)
+#. +> trunk6 stable6
+#: settings/cmakebuildsettings.ui:106
+#, fuzzy, kde-format
+#| msgid "Show Advanced"
+msgctxt "@action:button"
+msgid "Show Advanced"
+msgstr "詳細を表示"
+
+#. i18n: ectx: property (title), widget (QGroupBox, advancedBox)
+#. +> trunk6 stable6
+#: settings/cmakebuildsettings.ui:125
+#, fuzzy, kde-format
+#| msgid "Advanced"
+msgctxt "@title:group"
+msgid "Advanced"
+msgstr "詳細"
+
+#. i18n: ectx: property (text), widget (QLabel, installationPrefixLabel)
+#. +> trunk6 stable6
+#: settings/cmakebuildsettings.ui:134
+#, fuzzy, kde-format
+#| msgid "&Installation Prefix:"
+msgctxt "@label:chooser"
+msgid "Installation prefix:"
+msgstr "インストールプレフィックス(&I):"
+
+#. i18n: ectx: property (text), widget (QLabel, buildTypeLabel)
+#. +> trunk6 stable6
+#: settings/cmakebuildsettings.ui:144
+#, fuzzy, kde-format
+#| msgid "Build &type:"
+msgctxt "@label:listbox"
+msgid "Build type:"
+msgstr "ビルドのタイプ(&T):"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. +> trunk6 stable6
+#: settings/cmakebuildsettings.ui:198
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Configure environment:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (KDevelop::EnvironmentSelectionWidget, environment)
+#. +> trunk6 stable6
+#: settings/cmakebuildsettings.ui:213
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Select an environment to be used"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, showInternal)
+#. +> trunk6 stable6
+#: settings/cmakebuildsettings.ui:225
+#, fuzzy, kde-format
+#| msgid "Show Advanced Values"
+msgctxt "@option:check"
+msgid "Show advanced values"
+msgstr "詳細な値を表示する"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk6 stable6
+#: settings/cmakebuildsettings.ui:235
+#, kde-format
+msgctxt "@label:chooser"
+msgid "CMake executable:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: settings/cmakecachemodel.cpp:36
+#, fuzzy, kde-format
+#| msgid "Name"
+msgctxt "@title:column"
+msgid "Name"
+msgstr "名前"
+
+#. +> trunk6 stable6
+#: settings/cmakecachemodel.cpp:37
+#, fuzzy, kde-format
+#| msgid "Type"
+msgctxt "@title:column"
+msgid "Type"
+msgstr "タイプ"
+
+#. +> trunk6 stable6
+#: settings/cmakecachemodel.cpp:38
+#, fuzzy, kde-format
+#| msgid "Value"
+msgctxt "@title:column"
+msgid "Value"
+msgstr "値"
+
+#. +> trunk6 stable6
+#: settings/cmakecachemodel.cpp:39
+#, fuzzy, kde-format
+#| msgid "Comment"
+msgctxt "@title:column"
+msgid "Comment"
+msgstr "コメント"
+
+#. +> trunk6 stable6
+#: settings/cmakecachemodel.cpp:40
+#, fuzzy, kde-format
+#| msgid "Advanced"
+msgctxt "@title:column"
+msgid "Advanced"
+msgstr "詳細"
+
+#. +> trunk6 stable6
+#: settings/cmakecachemodel.cpp:41
+#, kde-format
+msgctxt "@title:column"
+msgid "Strings"
+msgstr ""
+
+#. +> trunk6 stable6
+#: settings/cmakepreferences.cpp:343
+#, fuzzy, kde-format
+#| msgid ""
+#| "The %1 directory is about to be removed in KDevelop's list.\n"
+#| "Do you want KDevelop to remove it in the file system as well?"
+msgid ""
+"The %1 directory is about to be removed in KDevelop's list.\n"
+"Do you want KDevelop to delete it in the file system as well?"
+msgstr ""
+"ビルドディレクトリ ‘%1’ は KDevelop のリストから削除されます。\n"
+"ファイルシステムからも削除しますか？"
+
+#. +> trunk6 stable6
+#: settings/cmakepreferences.cpp:347
+#, kde-format
+msgctxt "@action:button"
+msgid "Do Not Delete"
+msgstr ""
+
+#. +> trunk6 stable6
+#: settings/cmakepreferences.cpp:352
+#, fuzzy, kde-format
+#| msgid "Could not remove: %1.\n"
+msgid "Could not remove: %1"
+msgstr "削除できませんでした: %1\n"
+
+#. +> trunk6 stable6
+#: settings/cmakepreferences.cpp:398
+#, kde-format
+msgctxt "@title:tab"
+msgid "CMake"
+msgstr ""
+
+#. +> trunk6 stable6
+#: settings/cmakepreferences.cpp:403
+#, kde-format
+msgctxt "@title:tab"
+msgid "Configure CMake Settings"
+msgstr ""
+
+#. +> trunk6 stable6
+#: testing/ctestfindjob.cpp:23
+#, kde-format
+msgid "Parse test suite %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: testing/ctestrunjob.cpp:77
+#, kde-format
+msgid "CTest"
+msgstr ""
+
+#. +> trunk6 stable6
+#: testing/ctestrunjob.cpp:127
+#, kde-format
+msgctxt "running test %1, %2 test case"
+msgid "CTest %1: %2"
+msgstr ""
+
+#. +> trunk6 stable6
+#: testing/ctestrunjob.cpp:129
+#, kde-format
+msgctxt "running test %1, %2 number of test cases"
+msgid "CTest %2 (%1)"
+msgid_plural "CTest %2 (%1)"
+msgstr[0] ""
+
+#, fuzzy, kde-format
+#~| msgid ""
+#~| "KDevelop has found several possible project root for your project, "
+#~| "please select the correct one."
+#~ msgid ""
+#~ "KDevelop has found several possible root directories for your project, "
+#~ "please select the correct one."
+#~ msgstr ""
+#~ "KDevelop はあなたのプロジェクトに適したプロジェクトルートをいくつか見つけ"
+#~ "ました。正しいものを選択してください。"
+
+#, kde-format
+#~ msgid ""
+#~ "The %1 directory is about to be removed in KDevelop's list.\n"
+#~ "Do you want KDevelop to remove it in the file system as well?"
+#~ msgstr ""
+#~ "ビルドディレクトリ ‘%1’ は KDevelop のリストから削除されます。\n"
+#~ "ファイルシステムからも削除しますか？"
+
+#, fuzzy
+#~| msgid "Configure a build directory for %1"
+#~ msgid "Configure a build directory - %1"
+#~ msgstr "%1 のためのビルドディレクトリを設定"
+
+#~ msgid "Configure a build directory for %1"
+#~ msgstr "%1 のためのビルドディレクトリを設定"
+
+#, fuzzy
+#~| msgid "Already used build directory"
+#~ msgid "Available build directories:"
+#~ msgstr "既に使われているビルドディレクトリ"
+
+#, fuzzy
+#~| msgid "&Build Directory:"
+#~ msgid "New build directory"
+#~ msgstr "ビルドディレクトリ(&B):"
+
+#, fuzzy
+#~| msgid "&Build Directory:"
+#~ msgid "Build &directory:"
+#~ msgstr "ビルドディレクトリ(&B):"
+
+#, fuzzy
+#~| msgid "&Installation Prefix:"
+#~ msgid "&Installation prefix:"
+#~ msgstr "インストールプレフィックス(&I):"
+
+#~ msgid "Build &type:"
+#~ msgstr "ビルドのタイプ(&T):"
+
+#, fuzzy
+#~| msgid "Extra Arguments:"
+#~ msgid "Extra arguments:"
+#~ msgstr "他の引数:"
+
+#~ msgid "Command"
+#~ msgstr "コマンド"
+
+#~ msgid "Variable"
+#~ msgstr "変数"
+
+#~ msgid "Macro"
+#~ msgstr "マクロ"
+
+#~ msgid "Path"
+#~ msgstr "パス"
+
+#~ msgid "Commands"
+#~ msgstr "コマンド"
+
+#, fuzzy
+#~| msgid "Variable"
+#~ msgid "Variables"
+#~ msgstr "変数"
+
+#, fuzzy
+#~| msgid "Module"
+#~ msgid "Modules"
+#~ msgstr "モジュール"
+
+#, fuzzy
+#~| msgid "Property"
+#~ msgid "Properties"
+#~ msgstr "プロパティ"
+
+#, fuzzy
+#~| msgid "Policy"
+#~ msgid "Policies"
+#~ msgstr "ポリシー"
+
+#~ msgid "KDevelop - CMake Support"
+#~ msgstr "KDevelop - CMake サポート"
+
+#~ msgid "Cache Values"
+#~ msgstr "値をキャッシュ"
+
+#~ msgid "Comment:"
+#~ msgstr "コメント:"
+
+#~ msgid "Show Advanced"
+#~ msgstr "詳細を表示"
+
+#~ msgid "Advanced"
+#~ msgstr "詳細"
+
+#, fuzzy
+#~| msgid "&Installation Prefix:"
+#~ msgid "Installation prefix:"
+#~ msgstr "インストールプレフィックス(&I):"
+
+#, fuzzy
+#~| msgid "Build &type:"
+#~ msgid "Build type:"
+#~ msgstr "ビルドのタイプ(&T):"
+
+#, fuzzy
+#~| msgid "Show Advanced Values"
+#~ msgid "Show advanced values"
+#~ msgstr "詳細な値を表示する"
+
+#~ msgid "Name"
+#~ msgstr "名前"
+
+#~ msgid "Type"
+#~ msgstr "タイプ"
+
+#~ msgid "Value"
+#~ msgstr "値"
+
+#~ msgid "Comment"
+#~ msgstr "コメント"
+
+#~ msgid "Remove"
+#~ msgstr "削除"
+
+#~ msgid "Add"
+#~ msgstr "追加"
+
+#~ msgid "Configure a build directory"
+#~ msgstr "ビルドディレクトリを設定"
+
+#~ msgid "You need to select a cmake binary."
+#~ msgstr "CMake 実行ファイルを選択する必要があります。"
+
+#~ msgid "&Build Directory:"
+#~ msgstr "ビルドディレクトリ(&B):"
+
+#~ msgid "&Installation Prefix:"
+#~ msgstr "インストールプレフィックス(&I):"
+
+#~ msgid "Extra Arguments:"
+#~ msgstr "他の引数:"
+
+#~ msgid "CMake &Binary:"
+#~ msgstr "CMake 実行ファイル(&B):"
+
+#~ msgid "Support for CMake documentation"
+#~ msgstr "CMake ドキュメントのサポートします"
+
+#~ msgid "CMake Documentation"
+#~ msgstr "CMake ドキュメント"
+
+#~ msgid "CMake Manager"
+#~ msgstr "CMake マネージャ"
+
+#~ msgid "Support for managing CMake projects"
+#~ msgstr "CMake プロジェクトの管理をサポートします"
+
+#, fuzzy
+#~| msgid "Jump to target definition"
+#~ msgid "Jump to Target Definition"
+#~ msgstr "定義へジャンプ"
+
+#, fuzzy
+#~| msgid "Create a folder called '%1'."
+#~ msgid "Create folder '%1':"
+#~ msgstr "‘%1’ という名前のフォルダを作成します。"
+
+#~ msgid "Could not save the change."
+#~ msgstr "変更を保存できませんでした。"
+
+#, fuzzy
+#~ msgid "CMakeLists changes failed."
+#~ msgstr "CMake マネージャ"
+
+#~ msgid "Show Advanced Values"
+#~ msgstr "詳細な値を表示する"
+
+#~ msgid "Could not remove: %1.\n"
+#~ msgstr "削除できませんでした: %1\n"
+
+#~ msgctxt "NAME OF TRANSLATORS"
+#~ msgid "Your names"
+#~ msgstr "Fumiaki Okushi"
+
+#~ msgctxt "EMAIL OF TRANSLATORS"
+#~ msgid "Your emails"
+#~ msgstr "okushi@kde.gr.jp"
+
+#~ msgid "%1 is a deprecated command and should not be used"
+#~ msgstr "%1 は廃止予定のコマンドで、使用は推奨されません"
+
+#~ msgid "Unfinished function. "
+#~ msgstr "開発途中の関数。"
+
+#, fuzzy
+#~| msgid "&Installation Prefix:"
+#~ msgid "Installation Prefix"
+#~ msgstr "インストールプレフィックス(&I):"
+
+#, fuzzy
+#~| msgid "Build &type:"
+#~ msgid "Build Type"
+#~ msgstr "ビルドのタイプ(&T):"
+
+#, fuzzy
+#~| msgid "Extra Arguments:"
+#~ msgid "Extra Arguments"
+#~ msgstr "他の引数:"
+
+#, fuzzy
+#~| msgid "CMake &Binary:"
+#~ msgid "CMake Binary"
+#~ msgstr "CMake 実行ファイル(&B):"
+
+#, fuzzy
+#~| msgid "Unfinished function. "
+#~ msgid "Unfinished function."
+#~ msgstr "開発途中の関数。"
+
+#, fuzzy
+#~| msgid "You need to select a cmake binary."
+#~ msgid "You need to select a CMake executable."
+#~ msgstr "CMake 実行ファイルを選択する必要があります。"
+
+#, fuzzy
+#~| msgid "Could not remove: %1.\n"
+#~ msgid "Could not remove: %1\n"
+#~ msgstr "削除できませんでした: %1\n"
+
+#, fuzzy
+#~| msgid "CMake &Binary:"
+#~ msgid "CMake Binary:"
+#~ msgstr "CMake 実行ファイル(&B):"
+
+#~ msgid ""
+#~ "KDevelop has found several possible project root for your project, please "
+#~ "select the correct one."
+#~ msgstr ""
+#~ "KDevelop はあなたのプロジェクトに適したプロジェクトルートをいくつか見つけ"
+#~ "ました。正しいものを選択してください。"
+
+#~ msgid "Jump to target definition"
+#~ msgstr "定義へジャンプ"
+
+#~ msgid "CMake Directory"
+#~ msgstr "CMake ディレクトリ"
+
+#~ msgid "The build directory did not exist and could not be created."
+#~ msgstr "ビルドディレクトリ ‘%1’ は存在せず、作成できませんでした。"
+
+#~ msgid "Error creating build directory"
+#~ msgstr "ビルドディレクトリの作成でエラー"
+
+#~ msgid "Module"
+#~ msgstr "モジュール"
+
+#~ msgid "Property"
+#~ msgstr "プロパティ"
+
+#~ msgid "Policy"
+#~ msgstr "ポリシー"
+
+#~ msgid "Error"
+#~ msgstr "エラー"
+
+#~ msgid "Add a file called '%1' to target '%2'."
+#~ msgstr "ターゲット %2 にファイル %1 を追加。"
+
+#~ msgid "Remove a file called '%1'."
+#~ msgstr "‘%1’ という名前のファイルを削除します。"
+
+#~ msgid "Create a folder called '%1'."
+#~ msgstr "‘%1’ という名前のフォルダを作成します。"
+
+#~ msgid "Rename a folder called '%1'."
+#~ msgstr "‘%1’ というフォルダの名前を変更します。"
+
+#~ msgid "Cannot save the change."
+#~ msgstr "変更を保存できません。"
+
+#, fuzzy
+#~ msgid "CMakeLists Changes"
+#~ msgstr "CMake マネージャ"
+
+#~ msgid "Remove a folder called '%1'."
+#~ msgstr "‘%1’ という名前のフォルダを削除します。"
+
+#~ msgid "Swi&tch Colors"
+#~ msgstr "色を変更(&T)"
+
+#~ msgid "General"
+#~ msgstr "一般"
+
+#~ msgid "&Move"
+#~ msgstr "移動(&M)"
+
+#~ msgid "This project is one day old"
+#~ msgid_plural "This project is %1 days old"
+#~ msgstr[0] "このプロジェクトは %1 日前に作成されました"
+
+#~ msgid "Settings changed"
+#~ msgstr "設定が変更されました"
+
+#~ msgid "kapp4_base"
+#~ msgstr "kapp4_base"
+
+#~ msgid "hello, world"
+#~ msgstr "hello, world"
+
+#~ msgid "A KDE 4 Application"
+#~ msgstr "KDE 4 アプリケーション"
+
+#~ msgid "kde4app"
+#~ msgstr "kde4app"
+
+#~ msgid "(C) 2007 %{AUTHOR}"
+#~ msgstr "(C) 2007 %{AUTHOR}"
+
+#~ msgid "%{AUTHOR}"
+#~ msgstr "%{AUTHOR}"
+
+#~ msgid "Document to open"
+#~ msgstr "開くドキュメント"
+
+#~ msgid "Background color:"
+#~ msgstr "背景色:"
+
+#~ msgid "Choose a new background color"
+#~ msgstr "新しい背景色を選択"
+
+#~ msgid ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'DejaVu Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Change the <span "
+#~ "style=\" font-weight:600;\">background</span> color by clicking here and "
+#~ "choose the new <span style=\" color:#ff0000;\">color</span> in the <span "
+#~ "style=\" font-style:italic;\">color dialog</span>.</p></body></html>"
+#~ msgstr ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'DejaVu Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Change the <span "
+#~ "style=\" font-weight:600;\">背景</span>色を変更するには、ここをクリックし"
+#~ "て、新しい<span style=\" color:#ff0000;\">色</span>を<span style=\" font-"
+#~ "style:italic;\">色選択ダイアログ</span>から選択してください。</p></body></"
+#~ "html>"
+
+#~ msgid "Project age:"
+#~ msgstr "プロジェクトの経過:"
+
+#~ msgid "Foreground color:"
+#~ msgstr "前景色:"
+
+#~ msgid "Choose a new foreground color"
+#~ msgstr "新しい前景色を選択"
+
+#~ msgid ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'DejaVu Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Change the <span "
+#~ "style=\" font-weight:600;\">foreground</span> color by clicking here and "
+#~ "choose the new <span style=\" color:#ff0000;\">color</span> in the <span "
+#~ "style=\" font-style:italic;\">color dialog</span>.</p></body></html>"
+#~ msgstr ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'DejaVu Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "weight:600;\">前景</span>色を変更するには、ここをクリックして、新しい"
+#~ "<span style=\" color:#ff0000;\">色</span>を<span style=\" font-"
+#~ "style:italic;\">色選択ダイアログ</span>から選択します。</p></body></html>"
+
+#~ msgid "Set the project age (in days)"
+#~ msgstr "プロジェクトの経過日数を設定"
+
+#~ msgid "Change the project age (in days) by choosing a new number of days."
+#~ msgstr "プロジェクトの経過日数を変更。"
+
+#~ msgid "Could not create the directory's CMakeLists.txt file."
+#~ msgstr "ディレクトリの CMakeLists.txt ファイルを作成できませんでした。"
+
+#~ msgid "debug"
+#~ msgstr "デバッグ"
+
+#~ msgid "release"
+#~ msgstr "リリース"
+
+#~ msgid "Cannot remove the file."
+#~ msgstr "ファイルを削除できません。"
+
+#~ msgid "Text"
+#~ msgstr "テキスト"
+
+#~ msgid "Action"
+#~ msgstr "アクション"
+
+#~ msgid "Change"
+#~ msgstr "変更"
+
+#~ msgid "Insert"
+#~ msgstr "挿入"
+
+#~ msgid "Choose CMake Build Directory"
+#~ msgstr "CMake ビルドディレクトリを選択"
+
+#~ msgid "TextLabel"
+#~ msgstr "TextLabel"
+
+#~ msgid ""
+#~ "The %1 directory does not exist, but is needed before the build directory "
+#~ "is created.\n"
+#~ "Do you want KDevelop to create it for you?"
+#~ msgstr ""
+#~ "ディレクトリ ‘%1’ が存在しません。ビルドディレクトリを作成する前に必要で"
+#~ "す。\n"
+#~ "KDevelop に作成させますか？"
+
+#~ msgid "&Cancel"
+#~ msgstr "キャンセル(&C)"
+
+#~ msgid "&Run"
+#~ msgstr "実行(&R)"
+
+#~ msgid "CMake process killed"
+#~ msgstr "CMake プロセスが強制終了されました"
+
+#~ msgid "Created successfully"
+#~ msgstr "作成しました"
+
+#~ msgid "An error occurred"
+#~ msgstr "エラーが発生しました"
+
+#~ msgid "Run"
+#~ msgstr "実行"
+
+#~ msgid ""
+#~ "The %1 build directory is not valid. It will be removed from the list"
+#~ msgstr "ビルドディレクトリ ‘%1’ は無効です。リストから削除されます。"

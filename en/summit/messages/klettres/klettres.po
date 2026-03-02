@@ -1,0 +1,790 @@
+# Translation of klettres into Japanese.
+# This file is distributed under the same license as the kdeedu package.
+# Taiki Komoda <kom@kde.gr.jp>, 2003.
+# Kyosuke Takayama <support@mc.neweb.ne.jp>, 2004.
+# Toyohiro Asukai <toyohiro@ksmplus.com>, 2004.
+# KIMIZUKA Tomokazu <sgtom@pluto.dti.ne.jp>, 2005.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2007, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: klettres\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2026-01-03 08:09+0100\n"
+"PO-Revision-Date: 2008-07-12 15:29+0900\n"
+"Last-Translator: Yukiko Bando <ybando@k6.dion.ne.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.10.2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "KIMIZUKA Tomokazu,Kyosuke Takayama"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "sgtom@pluto.dti.ne.jp,support@mc.neweb.ne.jp"
+
+#. +> trunk6 stable6
+#: klettres.cpp:91
+#, kde-format
+msgid ""
+"The file sounds.xml was not found in\n"
+"$KDEDIR/share/apps/klettres/\n"
+"\n"
+"Please install this file and start KLettres again.\n"
+"\n"
+msgstr ""
+"$KDEDIR/share/apps/klettres/ に\n"
+"ファイル sounds.xml が見つかりません。\n"
+"\n"
+"このファイルをインストールして、KLettres を再起動してください。\n"
+"\n"
+
+#. +> trunk6 stable6
+#: klettres.cpp:94
+#, kde-format
+msgid "KLettres - Error"
+msgstr "KLettres - エラー"
+
+#. +> trunk6 stable6
+#: klettres.cpp:116
+#, kde-format
+msgid "New Sound"
+msgstr "新しい音"
+
+#. +> trunk6 stable6
+#: klettres.cpp:120
+#, kde-format
+msgid "Play a new sound"
+msgstr "新しい音を再生"
+
+#. +> trunk6 stable6
+#: klettres.cpp:121
+#, kde-format
+msgid ""
+"You can play a new sound by clicking this button or using the File menu, New "
+"Sound."
+msgstr ""
+"このボタンを押すか、「ファイル」メニューの「新しい音」を使って、新しい音を再"
+"生できます。"
+
+#. +> trunk6 stable6
+#: klettres.cpp:124
+#, kde-format
+msgid "Get Alphabet in New Language..."
+msgstr "新しい言語のアルファベットを取得..."
+
+#. +> trunk6 stable6
+#: klettres.cpp:129
+#, kde-format
+msgid "Replay Sound"
+msgstr "音をリプレイ"
+
+#. +> trunk6 stable6
+#: klettres.cpp:132
+#, kde-format
+msgid "Play the same sound again"
+msgstr "同じ音をもう一度再生"
+
+#. +> trunk6 stable6
+#: klettres.cpp:134
+#, kde-format
+msgid ""
+"You can replay the same sound again by clicking this button or using the "
+"File menu, Replay Sound."
+msgstr ""
+"このボタンを押すか、「ファイル」メニュー「音をリプレイ」を使って、同じ音をも"
+"う一度再生できます。"
+
+#. +> trunk6 stable6
+#: klettres.cpp:140
+#, kde-format
+msgctxt "@label:listbox which difficulty level to use"
+msgid "L&evel"
+msgstr "レベル(&E)"
+
+#. +> trunk6 stable6
+#: klettres.cpp:141
+#, kde-format
+msgid "Select the level"
+msgstr "レベルを選択"
+
+#. +> trunk6 stable6
+#: klettres.cpp:142
+#, kde-format
+msgid ""
+"You can select the level: level 1 displays a letter and you hear it; level 2 "
+"does not display the letter, you only hear it; level 3 displays a syllable "
+"and you hear it; level 4 does not display the syllable, you only hear it."
+msgstr ""
+"レベルを選択できます: レベル 1 では文字が表示され、発音されます。レベル 2 で"
+"は文字は表示されず、発音されます。レベル 3 では単語のつづりが表示され、発音さ"
+"れます。レベル 4 ではつづりは表示されず、発音されます。"
+
+#. +> trunk6 stable6
+#: klettres.cpp:145
+#, kde-format
+msgctxt "@label:listbox"
+msgid "&Language"
+msgstr "言語(&L)"
+
+#. +> trunk6 stable6
+#: klettres.cpp:148 klettres.cpp:149 klettres.cpp:150 klettres.cpp:151
+#, kde-format
+msgctxt "@item:inlistbox choose level"
+msgid "Level %1"
+msgid_plural "Level %1"
+msgstr[0] "レベル %1"
+
+#. +> trunk6 stable6
+#: klettres.cpp:156
+#, kde-format
+msgid "Themes"
+msgstr "テーマ"
+
+#. +> trunk6 stable6
+#: klettres.cpp:159
+#, kde-format
+msgid "Select the theme"
+msgstr "テーマを選択"
+
+#. +> trunk6 stable6
+#: klettres.cpp:160
+#, kde-format
+msgid ""
+"Here you can change the theme for KLettres. A theme consists in the "
+"background picture and the font color for the letter displayed."
+msgstr ""
+"ここで KLettres のテーマを変更できます。テーマは背景画像と表示される文字の色"
+"から成ります。"
+
+#. +> trunk6 stable6
+#: klettres.cpp:163
+#, kde-format
+msgid "Mode Kid"
+msgstr "子供モード"
+
+#. +> trunk6 stable6
+#: klettres.cpp:167
+#, kde-format
+msgid ""
+"If you are in the Grown-up mode, clicking on this button will set up the Kid "
+"mode. The Kid mode has no menubar and the font is bigger in the statusbar."
+msgstr ""
+"大人モードでこのボタンを押すと、子供モードになります。子供モードにはメニュー"
+"バーがなく、ステータスバーのフォントが大きくなります。"
+
+#. +> trunk6 stable6
+#: klettres.cpp:170
+#, kde-format
+msgid "Mode Grown-up"
+msgstr "大人モード"
+
+#. +> trunk6 stable6
+#: klettres.cpp:174
+#, kde-format
+msgid "The Grownup mode is the normal mode where you can see the menubar."
+msgstr "大人モードは、メニューバーが表示される普通のモードです。"
+
+#. i18n: ectx: label, entry (Font), group (mFont)
+#. +> trunk6 stable6
+#: klettres.cpp:210 klettres.kcfg:51
+#, kde-format
+msgid "Font"
+msgstr "フォント"
+
+#. +> trunk6 stable6
+#: klettres.cpp:210
+#, kde-format
+msgid "Font Settings"
+msgstr "フォントの設定"
+
+#. +> trunk6 stable6
+#: klettres.cpp:212
+#, kde-format
+msgid "Timer"
+msgstr "タイマー"
+
+#. +> trunk6 stable6
+#: klettres.cpp:212
+#, fuzzy, kde-format
+#| msgid "Timer setting widgets"
+msgid "Timer Settings"
+msgstr "タイマー設定ウィジェット"
+
+#. +> trunk6 stable6
+#: klettres.cpp:230 klettres.cpp:298
+#, kde-format
+msgctxt "@info:status the current level chosen"
+msgid "(Level %1)"
+msgstr "(レベル %1)"
+
+#. +> trunk6 stable6
+#: klettres.cpp:341
+#, kde-format
+msgid "Grown-up mode is currently active"
+msgstr "現在は大人モードです"
+
+#. +> trunk6 stable6
+#: klettres.cpp:342
+#, kde-format
+msgid "Switch to Kid mode"
+msgstr "子供モードに切り替え"
+
+#. +> trunk6 stable6
+#: klettres.cpp:360
+#, kde-format
+msgid "Kid mode is currently active"
+msgstr "現在は子供モードです"
+
+#. +> trunk6 stable6
+#: klettres.cpp:361
+#, kde-format
+msgid "Switch to Grown-up mode"
+msgstr "大人モードに切り替え"
+
+#. +> trunk6 stable6
+#: klettres.cpp:382
+#, kde-format
+msgid ""
+"File $KDEDIR/share/apps/klettres/%1.txt not found;\n"
+"please check your installation."
+msgstr ""
+"ファイル $KDEDIR/share/apps/klettres/%1.txt が見つかりません。\n"
+"インストールされているかどうか確認してください。"
+
+#. +> trunk6 stable6
+#: klettres.cpp:385
+#, kde-format
+msgid "Error"
+msgstr "エラー"
+
+#. i18n: ectx: label, entry (Language), group (General)
+#. +> trunk6 stable6
+#: klettres.kcfg:10
+#, kde-format
+msgid "Language"
+msgstr "言語"
+
+#. i18n: ectx: label, entry (Theme), group (General)
+#. +> trunk6 stable6
+#: klettres.kcfg:14
+#, kde-format
+msgid "Theme"
+msgstr "テーマ"
+
+#. i18n: ectx: label, entry (MenuBarBool), group (General)
+#. +> trunk6 stable6
+#: klettres.kcfg:23
+#, kde-format
+msgid "Whether the menubar is shown or hidden"
+msgstr "メニューバーを表示するかどうか"
+
+#. i18n: ectx: label, entry (Mode), group (General)
+#. +> trunk6 stable6
+#: klettres.kcfg:27
+#, kde-format
+msgid "Mode"
+msgstr "モード"
+
+#. i18n: ectx: label, entry (Level), group (General)
+#. +> trunk6 stable6
+#: klettres.kcfg:35
+#, kde-format
+msgid "Difficulty level."
+msgstr "難易度"
+
+#. i18n: ectx: label, entry (KidTimer), group (General)
+#. +> trunk6 stable6
+#: klettres.kcfg:41
+#, kde-format
+msgid "Kid Timer"
+msgstr "子供用タイマー"
+
+#. i18n: ectx: label, entry (GrownTimer), group (General)
+#. +> trunk6 stable6
+#: klettres.kcfg:45
+#, kde-format
+msgid "Grown-up Timer"
+msgstr "大人用タイマー"
+
+#. i18n: ectx: Menu (file)
+#. +> trunk6 stable6
+#: klettresui.rc:4
+#, kde-format
+msgid "&File"
+msgstr "ファイル(&F)"
+
+#. i18n: ectx: Menu (look_mode)
+#. +> trunk6 stable6
+#: klettresui.rc:15
+#, kde-format
+msgid "L&ook"
+msgstr "外観(&O)"
+
+#. i18n: ectx: Menu (settings)
+#. +> trunk6 stable6
+#: klettresui.rc:23
+#, kde-format
+msgid "&Settings"
+msgstr "設定(&S)"
+
+#. i18n: ectx: ToolBar (mainToolbar)
+#. +> trunk6 stable6
+#: klettresui.rc:33
+#, kde-format
+msgid "Main"
+msgstr "メイン"
+
+#. i18n: ectx: ToolBar (specialCharToolbar)
+#. +> trunk6 stable6
+#: klettresui.rc:47
+#, kde-format
+msgid "Special Characters"
+msgstr "特殊文字"
+
+#. +> trunk6 stable6
+#: klettresview.cpp:32
+#, kde-format
+msgid "Type the letter or syllable that you just heard"
+msgstr "いま聞いた文字を打ち込んでください"
+
+#. +> trunk6 stable6
+#: klettresview.cpp:131
+#, kde-format
+msgctxt "%1 is uppercase letter, %2 is the same in lowercase"
+msgid "%1 / %2"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kltheme.cpp:36
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Kid"
+msgstr "子供"
+
+#. +> trunk6 stable6
+#: kltheme.cpp:86
+#, kde-format
+msgctxt "@item:inlistbox desert theme for the interface"
+msgid "Desert"
+msgstr "砂漠"
+
+#. +> trunk6 stable6
+#: kltheme.cpp:136
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Savannah"
+msgstr "サバンナ"
+
+#. +> trunk6 stable6
+#: kltheme.cpp:187
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Aqua"
+msgstr ""
+
+#. +> trunk6 stable6
+#: langutils.cpp:86
+#, kde-format
+msgid "Romanized Hindi"
+msgstr "ローマ字表記のヒンディー語"
+
+#. +> trunk6 stable6
+#: langutils.cpp:88
+#, kde-format
+msgid "Luganda"
+msgstr "ルガンダ語"
+
+#. +> trunk6 stable6
+#: langutils.cpp:90
+#, fuzzy, kde-format
+#| msgid "English sounds"
+msgid "English Phonics"
+msgstr "英語の音"
+
+#. +> trunk6 stable6
+#: langutils.cpp:92
+#, kde-format
+msgid "Tswana"
+msgstr ""
+
+#. +> trunk6 stable6
+#: langutils.cpp:97
+#, fuzzy, kde-format
+#| msgid "None"
+msgctxt "@item:inlistbox no language for that locale"
+msgid "None"
+msgstr "なし"
+
+#. +> trunk6 stable6
+#: main.cpp:24
+#, kde-format
+msgid "KLettres"
+msgstr "KLettres"
+
+#. +> trunk6 stable6
+#: main.cpp:24
+#, fuzzy, kde-format
+#| msgid ""
+#| "KLettres helps a very young child or an adult learning \n"
+#| "a new language by associating sounds and \n"
+#| "letters in this language.\n"
+#| "\n"
+#| "18 languages are available: Arabian, Brazilian Portuguese, British, "
+#| "Czech, Danish, Dutch, English, French, German, Hebrew, Italian, Kannada, "
+#| "Low Saxon, Luganda, Romanized Hindi, Spanish, Slovak and Telugu."
+msgid ""
+"KLettres helps a very young child or an adult learning \n"
+"a new language by associating sounds and \n"
+"letters in this language.\n"
+"\n"
+"25 languages are available."
+msgstr ""
+"<html><p>KLettres は、ある言語の音と文字を関連付けることで、小さな子供や大人"
+"が新しい言語を学ぶ手助けをします。</p><p>現在、アラビア語、ブラジルのポルトガ"
+"ル語、チェコ語、デンマーク語、オランダ語、英語、イギリス英語、フランス語、ド"
+"イツ語、ヘブライ語、イタリア語、カンナダ語、低ザクソン語、ルガンダ語、ローマ"
+"字表記のヒンディー語、スペイン語、スロバキア語、テルグ語の 18 の言語が使えま"
+"す。</p></html>"
+
+#. +> trunk6 stable6
+#: main.cpp:28
+#, fuzzy, kde-format
+#| msgid "(C) 2001-2008 Anne-Marie Mahfouf"
+msgid "(C) 2001-2011 Anne-Marie Mahfouf"
+msgstr "(C) 2001-2008 Anne-Marie Mahfouf"
+
+#. +> trunk6 stable6
+#: main.cpp:29
+#, kde-format
+msgid "Anne-Marie Mahfouf"
+msgstr "Anne-Marie Mahfouf"
+
+#. +> trunk6 stable6
+#: main.cpp:30
+#, kde-format
+msgid "Marc Cheng"
+msgstr "Marc Cheng"
+
+#. +> trunk6 stable6
+#: main.cpp:31
+#, kde-format
+msgid "Kids and grown-up oxygen icons"
+msgstr "子供/大人モードの Oxygen アイコン"
+
+#. +> trunk6 stable6
+#: main.cpp:32
+#, kde-format
+msgid "Danny Allen"
+msgstr "Danny Allen"
+
+#. +> trunk6 stable6
+#: main.cpp:33
+#, kde-format
+msgid "SVG background pictures"
+msgstr "SVG の背景画像"
+
+#. +> trunk6 stable6
+#: main.cpp:34
+#, kde-format
+msgid "Robert Gogolok"
+msgstr "Robert Gogolok"
+
+#. +> trunk6 stable6
+#: main.cpp:35
+#, kde-format
+msgid "Support and coding guidance"
+msgstr "サポートおよびコーディングガイダンス"
+
+#. +> trunk6 stable6
+#: main.cpp:36
+#, kde-format
+msgid "Peter Hedlund"
+msgstr "Peter Hedlund"
+
+#. +> trunk6 stable6
+#: main.cpp:37
+#, kde-format
+msgid "Code for generating special characters' icons"
+msgstr "特殊文字のアイコンを生成するためのコード"
+
+#. +> trunk6 stable6
+#: main.cpp:38
+#, kde-format
+msgid "Waldo Bastian"
+msgstr "Waldo Bastian"
+
+#. +> trunk6 stable6
+#: main.cpp:39
+#, kde-format
+msgid "Port to KConfig XT, coding help"
+msgstr "KConfig XT への移植、コーディングの手助け"
+
+#. +> trunk6 stable6
+#: main.cpp:40
+#, kde-format
+msgid "Pino Toscano"
+msgstr "Pino Toscano"
+
+#. +> trunk6 stable6
+#: main.cpp:41
+#, kde-format
+msgid "Code cleaning, Theme class"
+msgstr "コードの整理、テーマクラス"
+
+#. +> trunk6 stable6
+#: main.cpp:42
+#, kde-format
+msgid "Michael Goettsche"
+msgstr "Michael Goettsche"
+
+#. +> trunk6 stable6
+#: main.cpp:43
+#, kde-format
+msgid "Timer setting widgets"
+msgstr "タイマー設定ウィジェット"
+
+#. +> trunk6 stable6
+#: main.cpp:44
+#, kde-format
+msgid "Laurent Navet"
+msgstr ""
+
+#. +> trunk6 stable6
+#: main.cpp:45
+#, kde-format
+msgid "Port to KDE Frameworks 5"
+msgstr ""
+
+#. +> trunk6 stable6
+#: soundfactory.cpp:89
+#, kde-format
+msgid "Error while loading the sound names."
+msgstr "サウンド名を読み込み中にエラー。"
+
+#. +> trunk6 stable6
+#: timer.cpp:19 timer.cpp:20 timer.cpp:28 timer.cpp:29
+#, fuzzy, kde-format
+#| msgid "tenths of second"
+msgid "1 tenth of second"
+msgid_plural "%1 tenths of second"
+msgstr[0] "/ 10 秒"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. +> trunk6 stable6
+#: timerui.ui:51
+#, kde-format
+msgid "Set the time between 2 letters."
+msgstr "2 つの文字の間の時間を設定します。"
+
+#. i18n: ectx: property (toolTip), widget (QSlider, kcfg_KidTimer)
+#. i18n: ectx: property (toolTip), widget (QSlider, kcfg_GrownTimer)
+#. +> trunk6 stable6
+#: timerui.ui:91 timerui.ui:184
+#, kde-format
+msgid "Set the timer (in tenths of seconds)"
+msgstr "タイマーをセット (1/10 秒単位)"
+
+#. i18n: ectx: property (whatsThis), widget (QSlider, kcfg_KidTimer)
+#. +> trunk6 stable6
+#: timerui.ui:94
+#, kde-format
+msgid ""
+"You can set the time between two letters in Kid mode. Default is 4 tenths of "
+"seconds but younger children might need longer time."
+msgstr ""
+"子供モードで次の文字を表示するまでの時間を設定します。標準設定では 4/10 秒で"
+"すが、年少の子供の場合は、もう少し時間が必要かもしれません。"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk6 stable6
+#: timerui.ui:122
+#, kde-format
+msgid ""
+"<html><head><meta name=\"qrichtext\" content=\"1\" /></head><body style=\" "
+"white-space: pre-wrap; font-family:Sans Serif; font-size:9pt; font-"
+"weight:400; font-style:normal; text-decoration:none;\"><p style=\" margin-"
+"top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-"
+"indent:0; text-indent:0px;\">Kid Mode</p></body></html>"
+msgstr "子供モード"
+
+#. i18n: ectx: property (whatsThis), widget (QSlider, kcfg_GrownTimer)
+#. +> trunk6 stable6
+#: timerui.ui:187
+#, kde-format
+msgid ""
+"You can set the time between two letters in Grown-up mode. Default is 2 "
+"tenths of seconds."
+msgstr ""
+"大人モードで次の文字を表示するまでの時間を設定します。標準設定では 2/10 秒で"
+"す。"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#. +> trunk6 stable6
+#: timerui.ui:215
+#, kde-format
+msgid ""
+"<html><head><meta name=\"qrichtext\" content=\"1\" /></head><body style=\" "
+"white-space: pre-wrap; font-family:Sans Serif; font-size:9pt; font-"
+"weight:400; font-style:normal; text-decoration:none;\"><p style=\" margin-"
+"top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-"
+"indent:0; text-indent:0px;\">Grown-up Mode</p></body></html>"
+msgstr "大人モード"
+
+#, fuzzy
+#~| msgid "KLettres"
+#~ msgid "Klettres"
+#~ msgstr "KLettres"
+
+#~ msgid "tenths of second"
+#~ msgstr "/ 10 秒"
+
+#~ msgid ""
+#~ "KLettres helps a very young child or an adult learning \n"
+#~ "a new language by associating sounds and \n"
+#~ "letters in this language.\n"
+#~ "\n"
+#~ "18 languages are available: Arabian, Brazilian Portuguese, British, "
+#~ "Czech, Danish, Dutch, English, French, German, Hebrew, Italian, Kannada, "
+#~ "Low Saxon, Luganda, Romanized Hindi, Spanish, Slovak and Telugu."
+#~ msgstr ""
+#~ "<html><p>KLettres は、ある言語の音と文字を関連付けることで、小さな子供や大"
+#~ "人が新しい言語を学ぶ手助けをします。</p><p>現在、アラビア語、ブラジルのポ"
+#~ "ルトガル語、チェコ語、デンマーク語、オランダ語、英語、イギリス英語、フラン"
+#~ "ス語、ドイツ語、ヘブライ語、イタリア語、カンナダ語、低ザクソン語、ルガンダ"
+#~ "語、ローマ字表記のヒンディー語、スペイン語、スロバキア語、テルグ語の 18 の"
+#~ "言語が使えます。</p></html>"
+
+#~ msgid "(C) 2001-2008 Anne-Marie Mahfouf"
+#~ msgstr "(C) 2001-2008 Anne-Marie Mahfouf"
+
+#~ msgid "Ludovic Grossard"
+#~ msgstr "Ludovic Grossard"
+
+#~ msgid "French sounds"
+#~ msgstr "フランス語の音"
+
+#~ msgid "Geert Stams"
+#~ msgstr "Geert Stams"
+
+#~ msgid "Robert Wadley"
+#~ msgstr "Robert Wadley"
+
+#~ msgid "Dutch sounds"
+#~ msgstr "オランダ語の音"
+
+#~ msgid "Erik Kjaer Pedersen"
+#~ msgstr "Erik Kjaer Pedersen"
+
+#~ msgid "Danish sounds"
+#~ msgstr "デンマーク語の音"
+
+#~ msgid "Eva Mikulčíková"
+#~ msgstr "Eva Mikulčíková"
+
+#~ msgid "Czech sounds"
+#~ msgstr "チェコ語の音"
+
+#~ msgid "Silvia Motyčková & Jozef Říha"
+#~ msgstr "Silvia Motyčková & Jozef Říha"
+
+#~ msgid "Slovak sounds"
+#~ msgstr "スロバキア語の音"
+
+#~ msgid "English sounds"
+#~ msgstr "英語の音"
+
+#~ msgid "Pietro Pasotti"
+#~ msgstr "Pietro Pasotti"
+
+#~ msgid "Italian sounds"
+#~ msgstr "イタリア語の音"
+
+#~ msgid "Ana Belén Caballero and Juan Pedro Paredes"
+#~ msgstr "Ana Belén Caballero, Juan Pedro Paredes"
+
+#~ msgid "Spanish sounds"
+#~ msgstr "スペイン語の音"
+
+#~ msgid "Vikas Kharat"
+#~ msgstr "Vikas Kharat"
+
+#~ msgid "Romanized Hindi sounds"
+#~ msgstr "ローマ字表記のヒンディー語の音"
+
+#~ msgid "John Magoye and Cormac Lynch"
+#~ msgstr "John Magoye, Cormac Lynch"
+
+#~ msgid "Luganda sounds"
+#~ msgstr "ルガンダ語の音"
+
+#~ msgid "Helmut Kriege"
+#~ msgstr "Helmut Kriege"
+
+#~ msgid "German sounds"
+#~ msgstr "ドイツ語の音"
+
+#~ msgid "Assaf Gorgon and Diego Iastrubni"
+#~ msgstr "Assaf Gorgon, Diego Iastrubni"
+
+#~ msgid "Hebrew sounds"
+#~ msgstr "ヘブライ語の音"
+
+#~ msgid "Lisa Kriege"
+#~ msgstr "Lisa Kriege"
+
+#~ msgid "British English sounds"
+#~ msgstr "イギリス英語の音"
+
+#~ msgid "Vikram Vincent"
+#~ msgstr "Vikram Vincent"
+
+#~ msgid "Kannada sounds"
+#~ msgstr "カンナダ語の音"
+
+#~ msgid "Show &Menubar"
+#~ msgstr "メニューバーを表示(&M)"
+
+#~ msgid "Hide &Menubar"
+#~ msgstr "メニューバーを隠す(&M)"
+
+#~ msgid ""
+#~ "You can show or hide the menubar as you wish by clicking this button."
+#~ msgstr "このボタンを押してメニューバーの表示/非表示を切り替えます。"
+
+#~ msgid "Show Menubar"
+#~ msgstr "メニューバーを表示"
+
+#~ msgid "Hide Menubar"
+#~ msgstr "メニューバーを隠す"
+
+#~ msgid "None"
+#~ msgstr "なし"
+
+#~ msgctxt "@item:inlistbox choose level 1"
+#~ msgid "Level 1"
+#~ msgstr "レベル 1"
+
+#~ msgctxt "@item:inlistbox choose level 2"
+#~ msgid "Level 2"
+#~ msgstr "レベル 2"
+
+#~ msgctxt "@item:inlistbox choose level 3"
+#~ msgid "Level 3"
+#~ msgstr "レベル 3"
+
+#~ msgctxt "@item:inlistbox choose level 4"
+#~ msgid "Level 4"
+#~ msgstr "レベル 4"

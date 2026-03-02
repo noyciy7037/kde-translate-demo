@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: org.kde.accessibilityinspector.metainfo\n"
+"POT-Creation-Date: 2026-02-14 09:56+0100\n"
+"PO-Revision-Date: 2023-11-24 21:44-0800\n"
+"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. (itstool) path: component/name
+#. +> trunk6 stable6
+#: org.kde.accessibilityinspector.metainfo.xml:11
+msgid "Accessibility Inspector"
+msgstr ""
+
+#. (itstool) path: component/summary
+#. +> trunk6 stable6
+#: org.kde.accessibilityinspector.metainfo.xml:12
+msgid "Inspect your application accessibility tree"
+msgstr ""
+
+#. (itstool) path: description/p
+#. +> trunk6 stable6
+#: org.kde.accessibilityinspector.metainfo.xml:14
+msgid ""
+"Accessibility Inspector is as the name suggests an inspector for your "
+"application accessibility tree. It lets you check all the items exposed via "
+"At-SPI, too."
+msgstr ""
+
+#. (itstool) path: screenshot/caption
+#. +> trunk6 stable6
+#: org.kde.accessibilityinspector.metainfo.xml:35
+msgid "The properties of a node of the accessibility tree."
+msgstr ""
+
+#. (itstool) path: screenshot/caption
+#. +> trunk6 stable6
+#: org.kde.accessibilityinspector.metainfo.xml:39
+msgid "The list of all the recent events."
+msgstr ""
+
+#. (itstool) path: description/p
+#. +> trunk6 stable6
+#: org.kde.accessibilityinspector.metainfo.xml:69
+msgid "Update to Qt6"
+msgstr ""
+
+#. (itstool) path: description/p
+#. +> trunk6 stable6
+#: org.kde.accessibilityinspector.metainfo.xml:75
+msgid "Initial version as a standalone component."
+msgstr ""

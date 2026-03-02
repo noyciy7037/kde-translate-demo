@@ -1,0 +1,295 @@
+# Translation of desktop_kdepimlibs into Japanese.
+# Taiki Komoda <kom@kde.gr.jp>, 2002,2003.
+# Shinichi Tsunoda <tsuno@ngy.1st.ne.jp>, 2004, 2005.
+# Toyohiro Asukai <toyohiro@ksmplus.com>, 2004.
+# AWASHIRO Ikuya <ikuya@oooug.jp>, 2004.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2006, 2008, 2010.
+# Taiki Komoda <kom@kde.gr.jp>, 2002, 2004.
+# Kenshi Muto <kmuto@debian.org>, 2004.
+# Toyohiro Asukai <toyohiro@ksmplus.com>, 2004.
+# AWASHIRO Ikuya <ikuya@oooug.jp>, 2004.
+# AWASHIRO Ikuya <ikuya@good-day.co.jp>, 2005.
+# Satoru SATOH <ss@kde.gr.jp>, 2005.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2006, 2011, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdepimlibs\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-09-09 08:56+0200\n"
+"PO-Revision-Date: 2014-09-25 00:58-0700\n"
+"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: \n"
+"X-Text-Markup: \n"
+
+#. +> trunk6 trunk5
+#: src/improtocols/aim.desktop:4
+msgctxt "Comment"
+msgid "AIM Protocol"
+msgstr "AIM プロトコル"
+
+#. +> trunk6 trunk5
+#: src/improtocols/aim.desktop:50
+msgctxt "Name"
+msgid "AIM"
+msgstr "AIM"
+
+#. +> trunk6 trunk5
+#: src/improtocols/facebook.desktop:4
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Yahoo Protocol"
+msgctxt "Comment"
+msgid "Facebook Protocol"
+msgstr "Yahoo プロトコル"
+
+#. +> trunk6 trunk5
+#: src/improtocols/facebook.desktop:48
+msgctxt "Name"
+msgid "Facebook"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: src/improtocols/gg.desktop:4
+msgctxt "Comment"
+msgid "Gadu-Gadu Protocol"
+msgstr "Gadu-Gadu プロトコル"
+
+#. +> trunk6 trunk5
+#: src/improtocols/gg.desktop:50
+msgctxt "Name"
+msgid "Gadu-Gadu"
+msgstr "Gadu-Gadu"
+
+#. +> trunk6 trunk5
+#: src/improtocols/googletalk.desktop:4
+msgctxt "Comment"
+msgid "Google Talk"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: src/improtocols/googletalk.desktop:49
+msgctxt "Name"
+msgid "Google Talk"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: src/improtocols/groupwise.desktop:4
+msgctxt "Comment"
+msgid "Novell GroupWise Messenger"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: src/improtocols/groupwise.desktop:49
+msgctxt "Name"
+msgid "GroupWise"
+msgstr "GroupWise"
+
+#. +> trunk6 trunk5
+#: src/improtocols/icq.desktop:4
+msgctxt "Comment"
+msgid "ICQ Protocol"
+msgstr "ICQ プロトコル"
+
+#. +> trunk6 trunk5
+#: src/improtocols/icq.desktop:50
+msgctxt "Name"
+msgid "ICQ"
+msgstr "ICQ"
+
+#. +> trunk6 trunk5
+#: src/improtocols/irc.desktop:4
+msgctxt "Comment"
+msgid "Internet Relay Chat"
+msgstr "インターネットリレーチャット"
+
+#. +> trunk6 trunk5
+#: src/improtocols/irc.desktop:50
+msgctxt "Name"
+msgid "IRC"
+msgstr "IRC"
+
+#. +> trunk6 trunk5
+#: src/improtocols/matrix.desktop:3
+msgctxt "Comment"
+msgid "Matrix"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: src/improtocols/matrix.desktop:42
+msgctxt "Name"
+msgid "Matrix"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: src/improtocols/meanwhile.desktop:4
+msgctxt "Comment"
+msgid "Meanwhile Protocol"
+msgstr "Meanwhile プロトコル"
+
+#. +> trunk6 trunk5
+#: src/improtocols/meanwhile.desktop:50
+msgctxt "Name"
+msgid "Meanwhile"
+msgstr "Meanwhile"
+
+#. +> trunk6 trunk5
+#: src/improtocols/msn.desktop:4
+msgctxt "Comment"
+msgid "MSN Messenger"
+msgstr "MSN メッセンジャー"
+
+#. +> trunk6 trunk5
+#: src/improtocols/msn.desktop:50
+msgctxt "Name"
+msgid "MSN Messenger"
+msgstr "MSN メッセンジャー"
+
+#. +> trunk6 trunk5
+#: src/improtocols/qq.desktop:4
+msgctxt "Comment"
+msgid "Tencent QQ Messaging"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: src/improtocols/qq.desktop:48
+msgctxt "Name"
+msgid "QQ"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: src/improtocols/rocketchat.desktop:3
+msgctxt "Comment"
+msgid "RocketChat"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: src/improtocols/rocketchat.desktop:41
+msgctxt "Name"
+msgid "RocketChat"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: src/improtocols/signal.desktop:3
+msgctxt "Comment"
+msgid "Signal"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: src/improtocols/signal.desktop:41
+msgctxt "Name"
+msgid "Signal"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: src/improtocols/sip.desktop:4
+msgctxt "Comment"
+msgid "Session Initiation Protocol"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: src/improtocols/sip.desktop:48
+msgctxt "Name"
+msgid "SIP"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: src/improtocols/skype.desktop:4
+msgctxt "Comment"
+msgid "Skype Internet Telephony"
+msgstr "Skype インターネット電話"
+
+#. +> trunk6 trunk5
+#: src/improtocols/skype.desktop:50
+msgctxt "Name"
+msgid "Skype"
+msgstr "Skype"
+
+#. +> trunk6 trunk5
+#: src/improtocols/sms.desktop:4
+msgctxt "Comment"
+msgid "SMS Protocol"
+msgstr "SMS プロトコル"
+
+#. +> trunk6 trunk5
+#: src/improtocols/sms.desktop:50
+msgctxt "Name"
+msgid "SMS"
+msgstr "SMS"
+
+#. +> trunk6 trunk5
+#: src/improtocols/telegram.desktop:3
+msgctxt "Comment"
+msgid "Telegram"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: src/improtocols/telegram.desktop:42
+msgctxt "Name"
+msgid "Telegram"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: src/improtocols/threema.desktop:3
+msgctxt "Comment"
+msgid "Threema"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: src/improtocols/threema.desktop:41
+msgctxt "Name"
+msgid "Threema"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: src/improtocols/twitter.desktop:4
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Jabber Protocol"
+msgctxt "Comment"
+msgid "Twitter Protocol"
+msgstr "Jabber プロトコル"
+
+#. +> trunk6 trunk5
+#: src/improtocols/twitter.desktop:48
+msgctxt "Name"
+msgid "Twitter"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: src/improtocols/xmpp.desktop:4
+msgctxt "Comment"
+msgid "Jabber Protocol"
+msgstr "Jabber プロトコル"
+
+#. +> trunk6 trunk5
+#: src/improtocols/xmpp.desktop:50
+msgctxt "Name"
+msgid "Jabber"
+msgstr "Jabber"
+
+#. +> trunk6 trunk5
+#: src/improtocols/ymsgr.desktop:4
+msgctxt "Comment"
+msgid "Yahoo Protocol"
+msgstr "Yahoo プロトコル"
+
+#. +> trunk6 trunk5
+#: src/improtocols/ymsgr.desktop:50
+msgctxt "Name"
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#~ msgctxt "Name"
+#~ msgid "Contact Actions"
+#~ msgstr "連絡先アクション"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure the Contact Actions"
+#~ msgstr "連絡先アクションの設定"

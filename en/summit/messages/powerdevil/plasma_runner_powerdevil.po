@@ -1,0 +1,304 @@
+# Translation of krunner_powerdevil into Japanese.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2009.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2010.
+# Taiki Komoda <kom@kde.gr.jp>, 2010.
+# Ryuichi Yamada <ryuichi_ya220@outlook.jp>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: krunner_powerdevil\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-11-22 11:23+0100\n"
+"PO-Revision-Date: 2022-08-18 13:04+0900\n"
+"Last-Translator: Ryuichi Yamada <ryuichi_ya220@outlook.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+"X-Generator: Lokalize 22.04.1\n"
+
+#. +> trunk6 stable6
+#: PowerDevilRunner.cpp:31
+#, kde-format
+msgctxt "Note this is a KRunner keyword; 'power' as in 'power saving mode'"
+msgid "power"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:32
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "suspend"
+msgstr "サスペンド"
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:33
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "to ram"
+msgstr "RAM へ"
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:34
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "sleep"
+msgstr "スリープ"
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:35
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "hibernate"
+msgstr "ハイバネート"
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:36
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "to disk"
+msgstr "ディスクへ"
+
+#. +> trunk6 stable6
+#: PowerDevilRunner.cpp:37
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "hybrid sleep"
+msgstr ""
+
+#. +> trunk6 stable6
+#: PowerDevilRunner.cpp:38
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "hybrid"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:39 PowerDevilRunner.cpp:40 PowerDevilRunner.cpp:66
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "dim screen"
+msgstr "スクリーンを暗く"
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:50
+#, kde-format
+msgid ""
+"Lists system suspend (e.g. sleep, hibernate) options and allows them to be "
+"activated"
+msgstr ""
+"すべてのシステム停止オプション (例 スリープ、ハイバネート) をリストし、有効化"
+"できるようにします"
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:54
+#, kde-format
+msgid "Suspends the system to RAM"
+msgstr "システムを RAM へサスペンド"
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:58
+#, kde-format
+msgid "Suspends the system to disk"
+msgstr "システムをディスクへサスペンド"
+
+#. +> trunk6 stable6
+#: PowerDevilRunner.cpp:62
+#, kde-format
+msgid "Sleeps now and falls back to hibernate"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:65
+#, kde-format
+msgctxt ""
+"Note this is a KRunner keyword, <> is a placeholder and should be at the end"
+msgid "screen brightness <percent value>"
+msgstr "スクリーン明るさ <percent value>"
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:68
+#, no-c-format, kde-format
+msgid ""
+"Lists screen brightness options or sets it to the brightness defined by the "
+"search term; e.g. screen brightness 50 would dim the screen to 50% maximum "
+"brightness"
+msgstr ""
+"スクリーン明るさオプションをリスト、または検索語によって定義される明るさに"
+"セットします。例: スクリーン明るさを50にすると最大明るさの50%にスクリーンを暗"
+"くします"
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:89
+#, kde-format
+msgid "Set Brightness to %1%"
+msgstr "ディスプレイの明るさを %1% にする"
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:98
+#, kde-format
+msgid "Dim screen totally"
+msgstr "ディスプレイを完全に暗くする"
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:106
+#, kde-format
+msgid "Dim screen by half"
+msgstr "ディスプレイの明るさを半分にする"
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:135
+#, kde-format
+msgctxt "Suspend to RAM"
+msgid "Sleep"
+msgstr "スリープ"
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:136
+#, kde-format
+msgid "Suspend to RAM"
+msgstr "RAM へサスペンド"
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:141
+#, kde-format
+msgctxt "Suspend to disk"
+msgid "Hibernate"
+msgstr "ハイバネート"
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:142
+#, kde-format
+msgid "Suspend to disk"
+msgstr "ディスクへサスペンド"
+
+#. +> trunk6 stable6
+#: PowerDevilRunner.cpp:147
+#, kde-format
+msgctxt "Suspend to both RAM and disk"
+msgid "Hybrid sleep"
+msgstr ""
+
+#. +> trunk6 stable6
+#: PowerDevilRunner.cpp:148
+#, kde-format
+msgid "Sleep now and fall back to hibernate"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:226
+#, kde-format
+msgctxt "Note this is a KRunner keyword, it should end with a space"
+msgid "screen brightness "
+msgstr "スクリーンの明るさ"
+
+#. +> trunk6 stable6 stable5
+#: PowerDevilRunner.cpp:228
+#, kde-format
+msgctxt "Note this is a KRunner keyword, it should end with a space"
+msgid "dim screen "
+msgstr "スクリーンを暗く"
+
+#, kde-format
+#~ msgctxt "Note this is a KRunner keyword"
+#~ msgid "screen brightness"
+#~ msgstr "スクリーン明るさ"
+
+#, kde-format
+#~ msgctxt "Note this is a KRunner keyword; %1 is a parameter"
+#~ msgid "dim screen %1"
+#~ msgstr "スクリーン %1 を暗くする"
+
+#, no-c-format, kde-format
+#~ msgid ""
+#~ "Lists screen brightness options or sets it to the brightness defined "
+#~ "by :q:; e.g. screen brightness 50 would dim the screen to 50% maximum "
+#~ "brightness"
+#~ msgstr ""
+#~ "スクリーン明るさオプションをリスト、または :q:; によって定義される明るさに"
+#~ "セットします。例 スクリーン明るさを50にすると最大明るさの50%にスクリーンを"
+#~ "暗くします"
+
+#, kde-format
+#~ msgid "Set Brightness to %1"
+#~ msgstr "ディスプレイの明るさを %1 にする"
+
+#, kde-format
+#~ msgctxt "Note this is a KRunner keyword; %1 is a parameter"
+#~ msgid "screen brightness %1"
+#~ msgstr "スクリーン明るさ %1"
+
+#~ msgid "Suspend to Disk"
+#~ msgstr "ディスクへサスペンド"
+
+#, fuzzy
+#~| msgctxt "Note this is a KRunner keyword"
+#~| msgid "suspend"
+#~ msgid "Suspend"
+#~ msgstr "サスペンド"
+
+#, fuzzy
+#~| msgctxt "Note this is a KRunner keyword"
+#~| msgid "hibernate"
+#~ msgid "Hibernate"
+#~ msgstr "ハイバネート"
+
+#~ msgctxt "Note this is a KRunner keyword"
+#~ msgid "power profile"
+#~ msgstr "電源プロファイル"
+
+#~ msgid "Lists all power profiles and allows them to be activated"
+#~ msgstr "すべての電源プロファイルをリストし、有効化します"
+
+#~ msgctxt "Note this is a KRunner keyword; %1 is a parameter"
+#~ msgid "power profile %1"
+#~ msgstr "電源プロファイル %1"
+
+#~ msgid "Set Profile to '%1'"
+#~ msgstr "プロファイルを “%1” にセット"
+
+#~ msgid "Turn off screen"
+#~ msgstr "ディスプレイの電源を切る"
+
+#~ msgctxt "Note this is a KRunner keyword"
+#~ msgid "cpu policy"
+#~ msgstr "cpu ポリシー"
+
+#~ msgctxt "Note this is a KRunner keyword"
+#~ msgid "power governor"
+#~ msgstr "電源管理機構"
+
+#~ msgctxt "Note this is a KRunner keyword"
+#~ msgid "power scheme"
+#~ msgstr "電源スキーム"
+
+#~ msgid "Lists all power saving schemes and allows them to be activated"
+#~ msgstr "すべての省電力スキームをリストし、有効化します"
+
+#~ msgid ""
+#~ "Lists all CPU frequency scaling policies and allows them to be activated"
+#~ msgstr "すべての CPU 周波数スケーリングポリシーをリストし、有効化します"
+
+#~ msgctxt "Note this is a KRunner keyword; %1 is a parameter"
+#~ msgid "power governor %1"
+#~ msgstr "電源管理機構 %1"
+
+#~ msgctxt "Note this is a KRunner keyword; %1 is a parameter"
+#~ msgid "power scheme %1"
+#~ msgstr "電源スキーム %1"
+
+#~ msgid "Set Powersaving Scheme to '%1'"
+#~ msgstr "省電力スキームを「%1」にセット"
+
+#~ msgctxt "Note this is a KRunner keyword; %1 is a parameter"
+#~ msgid "cpu policy %1"
+#~ msgstr "cpu ポリシー %1"
+
+#~ msgid "Set CPU frequency scaling policy to '%1'"
+#~ msgstr "CPU の動作周波数調整ポリシーを “%1” にセット"
+
+#~ msgid "Set CPU Governor to '%1'"
+#~ msgstr "CPU の動作周波数調整ポリシーを “%1” にセット"

@@ -1,0 +1,490 @@
+# Translation of desktop_kdebase into Japanese.
+# Noboru Sinohara <shinobo@leo.bekkoame.ne.jp>, 2002.
+# Taiki Komoda <kom@kde.gr.jp>, 2002,2003, 2004, 2010.
+# Masaharu 'Max' Goto <magotou@fubyshare.gr.jp>, 2004.
+# Toyohiro Asukai <toyohiro@ksmplus.com>, 2004.
+# Kurose Shushi <md81@bird.email.ne.jp>, 2004.
+# AWASHIRO Ikuya <ikuya@oooug.jp>, 2004.
+# Shinichi Tsunoda <tsuno@ngy.1st.ne.jp>, 2005.
+# Awashiro Ikuya <ikuya@fruitsbasket.info>, 2006.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2006, 2007, 2008, 2009, 2010.
+# phanect <phanective@gmail.com>, 2010.
+# Jumpei Ogawa (phanect) <phanective@gmail.com>, 2010.
+# TAKANO Yuji <takachan@running-dog.net>, 2015.
+# Fuminobu Takeyama <ftake@geeko.jp>, 2018.
+# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2005, 2006, 2007, 2010, 2011, 2018.
+# SPDX-FileCopyrightText: 2023, 2024, 2025 Ryuichi Yamada <ryuichi_ya220@outlook.jp>
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdebase\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2026-01-18 13:39+0100\n"
+"PO-Revision-Date: 2025-03-15 11:55+0900\n"
+"Last-Translator: Ryuichi Yamada <ryuichi_ya220@outlook.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: \n"
+"X-Text-Markup: \n"
+"X-Generator: Lokalize 24.12.3\n"
+
+#. +> trunk6
+#: applets/batterymonitor/metadata.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Power and Battery"
+msgctxt "Name"
+msgid "Power & Battery"
+msgstr "電源とバッテリ"
+
+#. +> stable6
+#: applets/batterymonitor/metadata.json
+msgctxt "Name"
+msgid "Power and Battery"
+msgstr "電源とバッテリ"
+
+#. +> trunk6 stable6
+#: applets/batterymonitor/metadata.json
+msgctxt "Description"
+msgid ""
+"Control power management settings and see the power status of your battery"
+msgstr "電源管理の制御とバッテリ状態の確認"
+
+#. +> trunk6 stable6
+#: applets/batterymonitor/metadata.json applets/brightness/metadata.json
+msgctxt "Authors Name"
+msgid "Sebastian Kügler"
+msgstr "Sebastian Kügler"
+
+#. +> trunk6 stable6
+#: applets/batterymonitor/metadata.json applets/brightness/metadata.json
+msgctxt "Authors Name"
+msgid "Kai Uwe Broulik"
+msgstr "Kai Uwe Broulik"
+
+#. +> trunk6
+#: applets/brightness/metadata.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Brightness and Color"
+msgctxt "Name"
+msgid "Brightness & Color"
+msgstr "明るさと色"
+
+#. +> stable6
+#: applets/brightness/metadata.json
+msgctxt "Name"
+msgid "Brightness and Color"
+msgstr "明るさと色"
+
+#. +> trunk6 stable6
+#: applets/brightness/metadata.json
+msgctxt "Description"
+msgid "Control brightness and color of your screens and keyboards"
+msgstr "スクリーンとキーボードの明るさと色の制御"
+
+#. +> trunk6 stable6
+#: applets/brightness/metadata.json
+msgctxt "Authors Name"
+msgid "Natalie Clarius"
+msgstr "Natalie Clarius"
+
+#. +> trunk6 stable6 stable5
+#: daemon/actions/bundled/powerdevilbrightnesscontrolaction.json
+#: daemon/actions/bundled/powerdevilscreenbrightnesscontrolaction.json
+msgctxt "Name"
+msgid "Screen brightness"
+msgstr "スクリーンの明るさ"
+
+#. +> trunk6 stable6 stable5
+#: daemon/actions/bundled/powerdevilbrightnesscontrolaction.json
+#: daemon/actions/bundled/powerdevilscreenbrightnesscontrolaction.json
+msgctxt "Description"
+msgid "Basic Controls for brightness"
+msgstr "明るさの基本的な制御"
+
+#. +> trunk6 stable6 stable5
+#: daemon/actions/bundled/powerdevildimdisplayaction.json
+msgctxt "Name"
+msgid "Dim screen"
+msgstr "スクリーンを暗く"
+
+#. +> trunk6 stable6 stable5
+#: daemon/actions/bundled/powerdevildimdisplayaction.json
+msgctxt "Description"
+msgid "Dims gradually the display on a time basis"
+msgstr "ディスプレイを時間とともに徐々に暗くします"
+
+#. +> trunk6 stable6 stable5
+#: daemon/actions/bundled/powerdevildpmsaction.json
+msgctxt "Name"
+msgid "Screen Energy Saving"
+msgstr "スクリーンの節電"
+
+#. +> trunk6 stable6 stable5
+#: daemon/actions/bundled/powerdevildpmsaction.json
+msgctxt "Description"
+msgid "Controls DPMS settings"
+msgstr "DPMS の設定を制御します"
+
+#. +> trunk6 stable6 stable5
+#: daemon/actions/bundled/powerdevilhandlebuttoneventsaction.json
+msgctxt "Name"
+msgid "Button events handling"
+msgstr "ボタンイベント設定"
+
+#. +> trunk6 stable6 stable5
+#: daemon/actions/bundled/powerdevilhandlebuttoneventsaction.json
+msgctxt "Description"
+msgid "Performs an action whenever a button is pressed"
+msgstr "ボタンが押されたときアクションを実行します"
+
+#. +> trunk6 stable6 stable5
+#: daemon/actions/bundled/powerdevilkeyboardbrightnesscontrolaction.json
+msgctxt "Name"
+msgid "Keyboard backlight"
+msgstr "キーボードバックライト"
+
+#. +> trunk6 stable6 stable5
+#: daemon/actions/bundled/powerdevilkeyboardbrightnesscontrolaction.json
+msgctxt "Description"
+msgid "Basic Controls for the keyboard backlight brightness"
+msgstr "キーボードバックライトの明るさの基本的な制御"
+
+#. +> trunk6 stable6 stable5
+#: daemon/actions/bundled/powerdevilpowerprofileaction.json
+msgctxt "Name"
+msgid "Power management profile"
+msgstr "電源管理プロファイル"
+
+#. +> trunk6 stable6 stable5
+#: daemon/actions/bundled/powerdevilpowerprofileaction.json
+msgctxt "Description"
+msgid "Apply a power management profile"
+msgstr "電源管理プロファイルを適用"
+
+#. +> trunk6 stable6 stable5
+#: daemon/actions/bundled/powerdevilrunscriptaction.json
+msgctxt "Name"
+msgid "Run script"
+msgstr "スクリプトを実行"
+
+#. +> trunk6 stable6 stable5
+#: daemon/actions/bundled/powerdevilrunscriptaction.json
+msgctxt "Description"
+msgid "Runs a custom script"
+msgstr "カスタムスクリプトを実行します"
+
+#. +> trunk6 stable6 stable5
+#: daemon/actions/bundled/powerdevilsuspendsessionaction.json
+msgctxt "Name"
+msgid "Suspend session"
+msgstr "セッションをサスペンド"
+
+#. +> trunk6 stable6 stable5
+#: daemon/actions/bundled/powerdevilsuspendsessionaction.json
+msgctxt "Description"
+msgid "Suspends the session"
+msgstr "セッションをサスペンドします"
+
+#. +> trunk6 stable6
+#: kcm/kcm_powerdevilprofilesconfig.json
+msgctxt "Name"
+msgid "Power Management"
+msgstr "電源管理"
+
+#. +> trunk6 stable6
+#: kcm/kcm_powerdevilprofilesconfig.json
+msgctxt "Description"
+msgid "Power Management"
+msgstr "電源管理"
+
+#. +> trunk6 stable6
+#: kcm/kcm_powerdevilprofilesconfig.json
+msgctxt "X-KDE-Keywords"
+msgid ""
+"system,power,power management,energy,energy "
+"saving,laptop,battery,suspension,AC,suspend,suspending,hibernating,hibernate,brightness,performance,lid,power "
+"saving,charging,charge,limit,charge limit,charging "
+"limit,discharge,discharging,dim screen,sleep,lock screen,lockscreen,turn "
+"screen off,turn off,power button,power buttons,battery levels,low "
+"battery,low level,critical level,power notifications,plug,unplug"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kcm_mobile/kcm_mobile_power.json
+msgctxt "Name"
+msgid "Energy"
+msgstr "エネルギー"
+
+#. +> trunk6 stable6
+#: kcm_mobile/kcm_mobile_power.json
+msgctxt "Description"
+msgid "Configure power management settings"
+msgstr "電源管理を設定"
+
+#. +> trunk6 stable6
+#: kcm_mobile/kcm_mobile_power.json
+msgctxt "X-KDE-Keywords"
+msgid ""
+"video, monitor, graphics, timeout, sleep, lock, screenlocker, screensaver"
+msgstr ""
+
+#. +> trunk6 stable6
+#: runners/powerdevil/plasma-runner-powerdevil.json
+msgctxt "Name"
+msgid "Power"
+msgstr "電源"
+
+#. +> trunk6 stable6
+#: runners/powerdevil/plasma-runner-powerdevil.json
+msgctxt "Description"
+msgid "Basic Power Management Operations"
+msgstr "基本的な電源管理操作"
+
+#. +> trunk6 stable6
+#: runners/powerdevil/plasma-runner-powerdevil.json
+msgctxt "Authors Name"
+msgid "Dario Freddi"
+msgstr "Dario Freddi"
+
+#. +> stable5
+#: daemon/actions/bundled/powerdevilwirelesspowersavingaction.json
+msgctxt "Name"
+msgid "Wireless"
+msgstr "ワイヤレス"
+
+#. +> stable5
+#: daemon/actions/bundled/powerdevilwirelesspowersavingaction.json
+msgctxt "Description"
+msgid "Turns off signal-transmitting devices"
+msgstr "信号を送信するデバイスの電源を切る"
+
+#. +> stable5
+#: kcmodule/activities/kcm_powerdevilactivitiesconfig.json
+msgctxt "Name"
+msgid "Activity Power Settings"
+msgstr "アクティビティの電源設定"
+
+#. +> stable5
+#: kcmodule/activities/kcm_powerdevilactivitiesconfig.json
+msgctxt "Description"
+msgid "Per-Activity Power Management"
+msgstr "アクティビティごとの電源管理"
+
+#. +> stable5
+#: kcmodule/activities/kcm_powerdevilactivitiesconfig.json
+msgctxt "X-KDE-Keywords"
+msgid ""
+"system,power,power "
+"management,energy,laptop,battery,suspension,AC,suspend,suspending,hibernating,hibernate,brightness,performance,lid,power "
+"saving,charging,charge,discharge,discharging,dim screen,sleep,lock "
+"screen,lockscreen,turn screen off,turn off,power button,power buttons,low "
+"battery,plug,unplug,activity,activities,workspaces,workspace,special behavior"
+msgstr ""
+
+#. +> stable5
+#: kcmodule/global/kcm_powerdevilglobalconfig.json
+msgctxt "Name"
+msgid "Advanced Power Settings"
+msgstr "高度な電源設定"
+
+#. +> stable5
+#: kcmodule/global/kcm_powerdevilglobalconfig.json
+msgctxt "Description"
+msgid "Advanced Power Management Settings"
+msgstr "高度な電源管理の設定"
+
+#. +> stable5
+#: kcmodule/global/kcm_powerdevilglobalconfig.json
+msgctxt "X-KDE-Keywords"
+msgid ""
+"system,power,power "
+"management,advanced,energy,laptop,battery,suspension,AC,suspend,hibernate,lid,charge,charging,limit,charge "
+"limit,charging limit,suspending,hibernating,discharge,discharging,turn "
+"off,battery levels,low battery,low level,critical level,power notifications"
+msgstr ""
+
+#. +> stable5
+#: kcmodule/profiles/kcm_powerdevilprofilesconfig.json
+msgctxt "Name"
+msgid "Energy Saving"
+msgstr "省エネルギー"
+
+#. +> stable5
+#: kcmodule/profiles/kcm_powerdevilprofilesconfig.json
+msgctxt "Description"
+msgid "Energy Saving"
+msgstr "省エネルギー"
+
+#. +> stable5
+#: kcmodule/profiles/kcm_powerdevilprofilesconfig.json
+msgctxt "X-KDE-Keywords"
+msgid ""
+"system,power,power "
+"management,energy,laptop,battery,suspension,AC,suspend,suspending,hibernating,hibernate,brightness,performance,lid,power "
+"saving,charging,charge,discharge,discharging,dim screen,sleep,lock "
+"screen,lockscreen,turn screen off,turn off,power button,power buttons,low "
+"battery,plug,unplug"
+msgstr ""
+
+#~ msgctxt "Comment"
+#~ msgid "Power Management Action Extension"
+#~ msgstr "電源管理アクション拡張"
+
+#~ msgctxt "Name"
+#~ msgid "KDE"
+#~ msgstr "KDE"
+
+#~ msgctxt "Name"
+#~ msgid "Get maximum brightness value"
+#~ msgstr "最大の明るさの値を取得"
+
+#~ msgctxt "Description"
+#~ msgid "System policies prevent you from getting the brightness level."
+#~ msgstr "システムポリシーにより、明るさのレベルを取得できません。"
+
+#~ msgctxt "Name"
+#~ msgid "Get brightness"
+#~ msgstr "明るさを取得"
+
+#~ msgctxt "Name"
+#~ msgid "Set brightness"
+#~ msgstr "明るさを設定"
+
+#~ msgctxt "Description"
+#~ msgid "System policies prevent you from setting the brightness level."
+#~ msgstr "システムポリシーにより、明るさを設定することができません。"
+
+#, fuzzy
+#~ msgctxt "Description"
+#~ msgid "System policies prevent you from getting the syspath"
+#~ msgstr "システムポリシーにより、日時設定を保存することができません。"
+
+#~ msgctxt "Name"
+#~ msgid "Check existence of discrete gpu"
+#~ msgstr "ディスクリート GPU の存在を確認"
+
+#~ msgctxt "Description"
+#~ msgid ""
+#~ "System policies prevent you from checking the existence of discrete gpu."
+#~ msgstr "システムポリシーにより、ディスクリート GPU の存在を確認できません。"
+
+#~ msgctxt "Name"
+#~ msgid "UPower PowerDevil Backend"
+#~ msgstr "UPower PowerDevil バックエンド"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Use KDE Power Management system through freedesktop.org upower daemon"
+#~ msgstr "freedesktop.org の upower デーモンを介して KDE 電源管理を使用"
+
+#, fuzzy
+#~| msgctxt "Description"
+#~| msgid "System policies prevent you from getting the brightness level."
+#~ msgctxt "Description"
+#~ msgid ""
+#~ "System policies prevent you from getting the current battery charge limit."
+#~ msgstr "システムポリシーにより、明るさのレベルを取得できません。"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "The battery is fully charged"
+#~ msgctxt "Name"
+#~ msgid "Set battery charge limit"
+#~ msgstr "バッテリーは完全に充電されています"
+
+#, fuzzy
+#~| msgctxt "Description"
+#~| msgid "System policies prevent you from setting the brightness level."
+#~ msgctxt "Description"
+#~ msgid "System policies prevent you from setting a battery charge limit."
+#~ msgstr "システムポリシーにより、明るさを設定することができません。"
+
+#~ msgctxt "Comment"
+#~ msgid "Battery, Display and CPU power management and notification"
+#~ msgstr "バッテリ、ディスプレイ、CPU の電源管理と通知"
+
+#~ msgctxt "Comment"
+#~ msgid "Energy Saving"
+#~ msgstr "省エネルギー"
+
+#~ msgctxt "Comment"
+#~ msgid "Power Management System"
+#~ msgstr "電源管理システム"
+
+#~ msgctxt "Name"
+#~ msgid "Warning"
+#~ msgstr "注意"
+
+#~ msgctxt "Comment"
+#~ msgid "Used for warning notifications"
+#~ msgstr "注意の通知に使用"
+
+#~ msgctxt "Name"
+#~ msgid "Notification"
+#~ msgstr "通知"
+
+#~ msgctxt "Comment"
+#~ msgid "Used for standard notifications"
+#~ msgstr "通常の通知に使用"
+
+#~ msgctxt "Name"
+#~ msgid "Critical notification"
+#~ msgstr "重大な通知"
+
+#~ msgctxt "Comment"
+#~ msgid "Notifies a critical event"
+#~ msgstr "重大なイベントを通知します"
+
+#~ msgctxt "Name"
+#~ msgid "Battery Low"
+#~ msgstr "バッテリ残量低"
+
+#~ msgctxt "Comment"
+#~ msgid "Your battery has reached low level"
+#~ msgstr "バッテリ残量が低レベルに達しました"
+
+#~ msgctxt "Name"
+#~ msgid "Battery Critical"
+#~ msgstr "バッテリ危険レベル"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Your battery has reached critical level. This notification triggers a "
+#~ "countdown before doing the configured action, hence it is strongly "
+#~ "advised to leave that on."
+#~ msgstr ""
+#~ "バッテリ残量が危険レベルに達しました。この通知によって、このレベルに設定さ"
+#~ "れているアクションのカウントダウンが開始されるので、有効にしておくことを強"
+#~ "くお勧めします。"
+
+#~ msgctxt "Name"
+#~ msgid "Charge Complete"
+#~ msgstr "充電完了"
+
+#~ msgctxt "Comment"
+#~ msgid "The battery is fully charged"
+#~ msgstr "バッテリーは完全に充電されています"
+
+#~ msgctxt "Comment"
+#~ msgid "The battery in a connected device, such as mouse or keyboard, is low"
+#~ msgstr ""
+#~ "マウスやキーボードなどの接続されたデバイスのバッテリーが低下しています"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "The power adaptor has been unplugged"
+#~ msgctxt "Comment"
+#~ msgid "The power source has been connected"
+#~ msgstr "電源アダプタが取り外されました"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "The power adaptor has been unplugged"
+#~ msgctxt "Comment"
+#~ msgid "The power source has been disconnected"
+#~ msgstr "電源アダプタが取り外されました"

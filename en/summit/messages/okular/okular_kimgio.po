@@ -1,0 +1,81 @@
+# translation of okular_kimgio.po to Japanese
+# This file is distributed under the same license as the kdegraphics package.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: okular_kimgio\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-09-11 10:53+0200\n"
+"PO-Revision-Date: 2007-09-10 20:00+0900\n"
+"Last-Translator: Yukiko Bando <ybando@k6.dion.ne.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Yukiko Bando"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "ybando@k6.dion.ne.jp"
+
+#. +> trunk6 stable6
+#: generator_kimgio.cpp:55 generator_kimgio.cpp:82
+#, kde-format
+msgid "Unable to load document: %1"
+msgstr "文書を読み込めません: %1"
+
+#. +> trunk6 stable6
+#: generator_kimgio.cpp:80
+#, kde-format
+msgid ""
+"This document appears malformed. Here is a best approximation of the "
+"document's intended appearance."
+msgstr ""
+
+#~ msgid "Image Backend"
+#~ msgstr "画像用バックエンド"
+
+#~ msgid "A simple image backend"
+#~ msgstr "シンプルな画像用バックエンド"
+
+#~ msgid ""
+#~ "© 2005, 2009 Albert Astals Cid\n"
+#~ "© 2006-2007 Pino Toscano\n"
+#~ "© 2006-2007 Tobias Koenig"
+#~ msgstr ""
+#~ "© 2005, 2009 Albert Astals Cid\n"
+#~ "© 2006-2007 Pino Toscano\n"
+#~ "© 2006-2007 Tobias Koenig"
+
+#~ msgid "Albert Astals Cid"
+#~ msgstr "Albert Astals Cid"
+
+#~ msgid "Pino Toscano"
+#~ msgstr "Pino Toscano"
+
+#~ msgid "Tobias Koenig"
+#~ msgstr "Tobias Koenig"
+
+#~ msgid "Main Toolbar"
+#~ msgstr "メインツールバー"
+
+#~ msgid ""
+#~ "© 2005 Albert Astals Cid\n"
+#~ "© 2006-2007 Pino Toscano\n"
+#~ "© 2006-2007 Tobias Koenig"
+#~ msgstr ""
+#~ "© 2005 Albert Astals Cid\n"
+#~ "© 2006-2007 Pino Toscano\n"
+#~ "© 2006-2007 Tobias Koenig"

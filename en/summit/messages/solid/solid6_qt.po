@@ -1,0 +1,2639 @@
+# Translation of solid_qt into Japanese.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2010.
+# Tomohiro Hyakutake <tomhioo@outlook.jp>, 2019.
+# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2011, 2019.
+# SPDX-FileCopyrightText: 2024 Tarot Osuji <tarot@sdf.org>
+msgid ""
+msgstr ""
+"Project-Id-Version: solid_qt\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-17 10:08+0100\n"
+"PO-Revision-Date: 2024-02-25 00:14+0900\n"
+"Last-Translator: Tarot Osuji <tarot@sdf.org>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: qtrich\n"
+"X-Qt-Contexts: true\n"
+"X-Generator: Lokalize 23.08.4\n"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/fstab/fstabdevice.cpp:69
+#, qt-format
+msgctxt "%1 is sharename, %2 is servername"
+msgid "%1 on %2"
+msgstr "%2 上の %1"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/fstab/fstabdevice.cpp:71
+#, qt-format
+msgctxt "%1 is mountpoint, %2 is fs type"
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/fstab/fstabmanager.cpp:80
+msgctxt "Solid::Backends::Fstab::FstabManager|"
+msgid "Filesystem Volumes"
+msgstr "ファイルシステムのボリューム"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/fstab/fstabmanager.cpp:81
+msgctxt "Solid::Backends::Fstab::FstabManager|"
+msgid "Mountable filesystems declared in your system"
+msgstr "システムで定義されているマウント可能なファイルシステム"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/imobile/imobiledevice.cpp:90
+msgctxt "imobiledevice|Company name"
+msgid "Apple"
+msgstr "Apple"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/imobile/imobilemanager.cpp:101
+msgctxt "Solid::Backends::IMobile::Manager|"
+msgid "iDevice"
+msgstr "iDevice"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/imobile/imobilemanager.cpp:102
+msgctxt "Solid::Backends::IMobile::Manager|"
+msgid "iOS devices"
+msgstr "iOS デバイス"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udev/udevdevice.cpp:147
+msgctxt "Solid::Backends::UDev::UDevDevice|"
+msgid "Computer"
+msgstr "コンピュータ"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udev/udevdevice.cpp:151
+msgctxt "Solid::Backends::UDev::UDevDevice|"
+msgid "Processor"
+msgstr "プロセッサ"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udev/udevdevice.cpp:162
+msgctxt "Solid::Backends::UDev::UDevDevice|"
+msgid "Portable Media Player"
+msgstr "ポータブルメディアプレーヤー"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udev/udevdevice.cpp:165
+msgctxt "Solid::Backends::UDev::UDevDevice|"
+msgid "Camera"
+msgstr "カメラ"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udev/udevmanager.cpp:221
+msgctxt "Solid::Backends::UDev::UDevManager|"
+msgid "Devices"
+msgstr "デバイス"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udev/udevmanager.cpp:222
+msgctxt "Solid::Backends::UDev::UDevManager|"
+msgid "Devices declared in your system"
+msgstr "システムで定義されているデバイス"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:43
+#, qt-format
+msgctxt "udisksdevice|"
+msgid "%1 TiB"
+msgstr "%1 TiB"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:45
+#, qt-format
+msgctxt "udisksdevice|"
+msgid "%1 GiB"
+msgstr "%1 GiB"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:51
+#, qt-format
+msgctxt "udisksdevice|"
+msgid "%1 MiB"
+msgstr "%1 MiB"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:56
+#, qt-format
+msgctxt "udisksdevice|"
+msgid "%1 KiB"
+msgstr "%1 KiB"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:60
+#, qt-format
+msgctxt "udisksdevice|"
+msgid "%1 B"
+msgstr "%1 B"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:64
+msgctxt "udisksdevice|"
+msgid "0 B"
+msgstr "0 B"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:75
+#, qt-format
+msgctxt "QObject|%1 is the size, %2 is the block device name e.g. sda, sda1"
+msgid "%1 External Drive (%2)"
+msgstr "%1 の外付けドライブ (%2)"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:77
+#, qt-format
+msgctxt "QObject|%1 is the size, %2 is the block device name e.g. sda, sda1"
+msgid "%1 Internal Drive (%2)"
+msgstr "%1 の内蔵ドライブ (%2)"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:81
+#, qt-format
+msgctxt "QObject|%1 is the block device name e.g. sda, sda1"
+msgid "External Drive (%1)"
+msgstr "外付けドライブ (%1)"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:83
+#, qt-format
+msgctxt "QObject|%1 is the block device name e.g. sda, sda1"
+msgid "Internal Drive (%1)"
+msgstr "内蔵ドライブ (%1)"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:236
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "Swap Space"
+msgstr "スワップデバイス"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:258
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "Loop Device"
+msgstr "ループデバイス"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:274
+msgctxt "Solid::Backends::UDisks2::Device|First item of %1%2 Drive sentence"
+msgid "CD-ROM"
+msgstr "CD-ROM"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:276
+msgctxt "Solid::Backends::UDisks2::Device|First item of %1%2 Drive sentence"
+msgid "CD-R"
+msgstr "CD-R"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:279
+msgctxt "Solid::Backends::UDisks2::Device|First item of %1%2 Drive sentence"
+msgid "CD-RW"
+msgstr "CD-RW"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:283
+msgctxt "Solid::Backends::UDisks2::Device|Second item of %1%2 Drive sentence"
+msgid "/DVD-ROM"
+msgstr "/DVD-ROM"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:286
+msgctxt "Solid::Backends::UDisks2::Device|Second item of %1%2 Drive sentence"
+msgid "/DVD+R"
+msgstr "/DVD+R"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:289
+msgctxt "Solid::Backends::UDisks2::Device|Second item of %1%2 Drive sentence"
+msgid "/DVD+RW"
+msgstr "/DVD+RW"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:292
+msgctxt "Solid::Backends::UDisks2::Device|Second item of %1%2 Drive sentence"
+msgid "/DVD-R"
+msgstr "/DVD-R"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:295
+msgctxt "Solid::Backends::UDisks2::Device|Second item of %1%2 Drive sentence"
+msgid "/DVD-RW"
+msgstr "/DVD-RW"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:298
+msgctxt "Solid::Backends::UDisks2::Device|Second item of %1%2 Drive sentence"
+msgid "/DVD-RAM"
+msgstr "/DVD-RAM"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:302
+msgctxt "Solid::Backends::UDisks2::Device|Second item of %1%2 Drive sentence"
+msgid "/DVD±R DL"
+msgstr "/DVD±R DL"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:304
+msgctxt "Solid::Backends::UDisks2::Device|Second item of %1%2 Drive sentence"
+msgid "/DVD±R"
+msgstr "/DVD±R"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:309
+msgctxt "Solid::Backends::UDisks2::Device|Second item of %1%2 Drive sentence"
+msgid "/DVD±RW DL"
+msgstr "/DVD±RW DL"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:311
+msgctxt "Solid::Backends::UDisks2::Device|Second item of %1%2 Drive sentence"
+msgid "/DVD±RW"
+msgstr "/DVD±RW"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:315
+msgctxt "Solid::Backends::UDisks2::Device|Second item of %1%2 Drive sentence"
+msgid "/BD-ROM"
+msgstr "/BD-ROM"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:318
+msgctxt "Solid::Backends::UDisks2::Device|Second item of %1%2 Drive sentence"
+msgid "/BD-R"
+msgstr "/BD-R"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:321
+msgctxt "Solid::Backends::UDisks2::Device|Second item of %1%2 Drive sentence"
+msgid "/BD-RE"
+msgstr "/BD-RE"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:324
+msgctxt "Solid::Backends::UDisks2::Device|Second item of %1%2 Drive sentence"
+msgid "/HD DVD-ROM"
+msgstr "/HD DVD-ROM"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:327
+msgctxt "Solid::Backends::UDisks2::Device|Second item of %1%2 Drive sentence"
+msgid "/HD DVD-R"
+msgstr "/HD DVD-R"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:330
+msgctxt "Solid::Backends::UDisks2::Device|Second item of %1%2 Drive sentence"
+msgid "/HD DVD-RW"
+msgstr "/HD DVD-RW"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:334
+#, qt-format
+msgctxt ""
+"Solid::Backends::UDisks2::Device|%1 is CD-ROM/CD-R/etc; %2 is '/DVD-ROM'/'/"
+"DVD-R'/etc (with leading slash)"
+msgid "External %1%2 Drive"
+msgstr "外付け %1%2 ドライブ"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:336
+#, qt-format
+msgctxt ""
+"Solid::Backends::UDisks2::Device|%1 is CD-ROM/CD-R/etc; %2 is '/DVD-ROM'/'/"
+"DVD-R'/etc (with leading slash)"
+msgid "%1%2 Drive"
+msgstr "%1%2 ドライブ"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:344
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "External Floppy Drive"
+msgstr "外付けフロッピードライブ"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:346
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "Floppy Drive"
+msgstr "フロッピードライブ"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:378
+#, qt-format
+msgctxt ""
+"Solid::Backends::UDisks2::Device|%1 is the vendor, %2 is the model of the "
+"device"
+msgid "%1 %2"
+msgstr "%1 %2"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:384
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "Drive"
+msgstr "ドライブ"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:414
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "CD-ROM"
+msgstr "CD-ROM"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:419
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "Blank CD-R"
+msgstr "空の CD-R"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:421
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "CD-R"
+msgstr "CD-R"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:427
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "Blank CD-RW"
+msgstr "空の CD-RW"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:429
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "CD-RW"
+msgstr "CD-RW"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:434
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "DVD-ROM"
+msgstr "DVD-ROM"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:439
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "Blank DVD-RAM"
+msgstr "空の DVD-RAM"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:441
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "DVD-RAM"
+msgstr "DVD-RAM"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:447
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "Blank DVD-R"
+msgstr "空の DVD-R"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:449
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "DVD-R"
+msgstr "DVD-R"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:455
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "Blank DVD+R Dual-Layer"
+msgstr "空の二層 DVD+R"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:457
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "DVD+R Dual-Layer"
+msgstr "二層 DVD+R"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:463
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "Blank DVD-RW"
+msgstr "空の DVD-RW"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:465
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "DVD-RW"
+msgstr "DVD-RW"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:471
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "Blank DVD+R"
+msgstr "空の DVD+R"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:473
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "DVD+R"
+msgstr "DVD+R"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:479
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "Blank DVD+RW"
+msgstr "空の DVD+RW"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:481
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "DVD+RW"
+msgstr "DVD+RW"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:487
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "Blank DVD+RW Dual-Layer"
+msgstr "空の二層 DVD+RW"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:489
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "DVD+RW Dual-Layer"
+msgstr "二層 DVD+RW"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:494
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "BD-ROM"
+msgstr "BD-ROM"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:499
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "Blank BD-R"
+msgstr "空の BD-R"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:501
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "BD-R"
+msgstr "BD-R"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:507
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "Blank BD-RE"
+msgstr "空の BD-RE"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:509
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "BD-RE"
+msgstr "BD-RE"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:514
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "HD DVD-ROM"
+msgstr "HD DVD-ROM"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:519
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "Blank HD DVD-R"
+msgstr "空の HD DVD-R"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:521
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "HD DVD-R"
+msgstr "HD DVD-R"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:527
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "Blank HD DVD-RW"
+msgstr "空の HD DVD-RW"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:529
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "HD DVD-RW"
+msgstr "HD DVD-RW"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:536
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "Audio CD"
+msgstr "オーディオ CD"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:549
+#, qt-format
+msgctxt "Solid::Backends::UDisks2::Device|%1 is the size"
+msgid "%1 Encrypted Drive"
+msgstr "%1 の暗号化ドライブ"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:551
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "Encrypted Drive"
+msgstr "暗号化ドライブ"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:556
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "Floppy Disk"
+msgstr "フロッピーディスク"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:560
+#, qt-format
+msgctxt "Solid::Backends::UDisks2::Device|%1 is the size"
+msgid "%1 Removable Media"
+msgstr "%1 のリムーバブルメディア"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:562
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "Removable Media"
+msgstr "リムーバブルメディア"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:566
+#, qt-format
+msgctxt "Solid::Backends::UDisks2::Device|%1 is the size"
+msgid "%1 Media"
+msgstr "%1 のメディア"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:568
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "Storage Media"
+msgstr "ストレージメディア"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:715
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "You are not authorized to perform this operation"
+msgstr "この操作を実行する権限がありません"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:717
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "The device is currently busy"
+msgstr "デバイスは現在使用中です。"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:719
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "The requested operation has failed"
+msgstr "要求された操作は失敗しました"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:721
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "The requested operation has been canceled"
+msgstr "要求された操作はキャンセルされました"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:723
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "An invalid or malformed option has been given"
+msgstr "無効なオプションまたは不正な形式のオプションが指定されました"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:725
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "The kernel driver for this filesystem type is not available"
+msgstr "このファイルシステムの種類のカーネルドライバーは利用できません"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:727
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "The device is already mounted"
+msgstr "デバイスは既にマウントされています"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:729
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "The device is not mounted"
+msgstr "デバイスはマウントされていません"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:731
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "The device is mounted by another user"
+msgstr "デバイスは別のユーザーによってマウントされています"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:733
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "The device is already unmounting"
+msgstr "デバイスは既にアンマウント中です"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:735
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "The operation timed out"
+msgstr "操作はタイムアウトしました"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:737
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "The operation would wake up a disk that is in a deep-sleep state"
+msgstr "この操作はディスクのディープスリープ状態を解除します。"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:739
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "The operation has already been canceled"
+msgstr "操作は既にキャンセルされています"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:741
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid ""
+"Cannot request authentication for this action. The PolicyKit authentication "
+"system appears to be not available."
+msgstr ""
+"このアクションの認証を要求できません。PolicyKit 認証システムが利用できないよ"
+"うです。"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:743
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "The authentication prompt was canceled"
+msgstr "認証プロンプトがキャンセルされました"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksdevice.cpp:745
+msgctxt "Solid::Backends::UDisks2::Device|"
+msgid "An unspecified error has occurred"
+msgstr "詳細不明なエラーが発生しました"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksmanager.cpp:106
+msgctxt "Solid::Backends::UDisks2::Manager|"
+msgid "Storage"
+msgstr "ストレージ"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/udisks2/udisksmanager.cpp:107
+msgctxt "Solid::Backends::UDisks2::Manager|"
+msgid "Storage devices"
+msgstr "ストレージデバイス"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/upower/upowerdevice.cpp:120
+#, qt-format
+msgctxt "Solid::Backends::UPower::UPowerDevice|%1 is battery technology"
+msgid "%1 Battery"
+msgstr "%1 バッテリ"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/upower/upowerdevice.cpp:137
+msgctxt "Solid::Backends::UPower::UPowerDevice|battery technology"
+msgid "Lithium Ion"
+msgstr "リチウムイオン"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/upower/upowerdevice.cpp:139
+msgctxt "Solid::Backends::UPower::UPowerDevice|battery technology"
+msgid "Lithium Polymer"
+msgstr "リチウムポリマー"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/upower/upowerdevice.cpp:141
+msgctxt "Solid::Backends::UPower::UPowerDevice|battery technology"
+msgid "Lithium Iron Phosphate"
+msgstr "リン酸鉄リチウムイオン"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/upower/upowerdevice.cpp:143
+msgctxt "Solid::Backends::UPower::UPowerDevice|battery technology"
+msgid "Lead Acid"
+msgstr "鉛酸"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/upower/upowerdevice.cpp:145
+msgctxt "Solid::Backends::UPower::UPowerDevice|battery technology"
+msgid "Nickel Cadmium"
+msgstr "ニッケルカドミウム"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/upower/upowerdevice.cpp:147
+msgctxt "Solid::Backends::UPower::UPowerDevice|battery technology"
+msgid "Nickel Metal Hydride"
+msgstr "ニッケル水素"
+
+#. +> trunk5
+#: solid/devices/backends/upower/upowerdevice.cpp:134
+#: solid/devices/backends/upower/upowerdevice.cpp:148
+#: solid/devices/backends/upower/upowerdevice.cpp:150
+msgctxt "Solid::Backends::UPower::UPowerDevice|battery technology"
+msgid "Unknown"
+msgstr "不明"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/upower/upowermanager.cpp:61
+msgctxt "Solid::Backends::UPower::UPowerManager|"
+msgid "Power Management"
+msgstr "電源管理"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/upower/upowermanager.cpp:62
+msgctxt "Solid::Backends::UPower::UPowerManager|"
+msgid "Batteries and other sources of power"
+msgstr "バッテリと他の電源"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/win/windevice.cpp:158
+msgctxt "Solid::Backends::Win::WinDevice|battery technology"
+msgid "Lithium Ion"
+msgstr "リチウムイオン"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/win/windevice.cpp:161
+msgctxt "Solid::Backends::Win::WinDevice|battery technology"
+msgid "Lead Acid"
+msgstr "鉛酸"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/win/windevice.cpp:164
+msgctxt "Solid::Backends::Win::WinDevice|battery technology"
+msgid "Nickel Cadmium"
+msgstr "ニッケルカドミウム"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/win/windevice.cpp:167
+msgctxt "Solid::Backends::Win::WinDevice|battery technology"
+msgid "Nickel Metal Hydride"
+msgstr "ニッケル水素"
+
+#. +> trunk6 trunk5
+#: solid/devices/backends/win/windevice.cpp:170
+msgctxt "Solid::Backends::Win::WinDevice|battery technology"
+msgid "Unknown"
+msgstr "不明"
+
+#. +> trunk6 trunk5
+#: solid/devices/frontend/deviceinterface.cpp:53
+msgctxt "Solid::DeviceInterface|Unknown device type"
+msgid "Unknown"
+msgstr "不明"
+
+#. +> trunk6 trunk5
+#: solid/devices/frontend/deviceinterface.cpp:55
+msgctxt "Solid::DeviceInterface|Generic Interface device type"
+msgid "Generic Interface"
+msgstr "汎用インターフェース"
+
+#. +> trunk6 trunk5
+#: solid/devices/frontend/deviceinterface.cpp:57
+msgctxt "Solid::DeviceInterface|Processor device type"
+msgid "Processor"
+msgstr "プロセッサ"
+
+#. +> trunk6 trunk5
+#: solid/devices/frontend/deviceinterface.cpp:59
+msgctxt "Solid::DeviceInterface|Block device type"
+msgid "Block"
+msgstr "ブロック"
+
+#. +> trunk6 trunk5
+#: solid/devices/frontend/deviceinterface.cpp:61
+msgctxt "Solid::DeviceInterface|Storage Access device type"
+msgid "Storage Access"
+msgstr "ストレージアクセス"
+
+#. +> trunk6 trunk5
+#: solid/devices/frontend/deviceinterface.cpp:63
+msgctxt "Solid::DeviceInterface|Storage Drive device type"
+msgid "Storage Drive"
+msgstr "ストレージドライブ"
+
+#. +> trunk6 trunk5
+#: solid/devices/frontend/deviceinterface.cpp:65
+msgctxt "Solid::DeviceInterface|Optical Drive device type"
+msgid "Optical Drive"
+msgstr "光学ドライブ"
+
+#. +> trunk6 trunk5
+#: solid/devices/frontend/deviceinterface.cpp:67
+msgctxt "Solid::DeviceInterface|Storage Volume device type"
+msgid "Storage Volume"
+msgstr "ストレージボリューム"
+
+#. +> trunk6 trunk5
+#: solid/devices/frontend/deviceinterface.cpp:69
+msgctxt "Solid::DeviceInterface|Optical Disc device type"
+msgid "Optical Disc"
+msgstr "光学ディスク"
+
+#. +> trunk6 trunk5
+#: solid/devices/frontend/deviceinterface.cpp:71
+msgctxt "Solid::DeviceInterface|Camera device type"
+msgid "Camera"
+msgstr "カメラ"
+
+#. +> trunk6 trunk5
+#: solid/devices/frontend/deviceinterface.cpp:73
+msgctxt "Solid::DeviceInterface|Portable Media Player device type"
+msgid "Portable Media Player"
+msgstr "ポータブルメディアプレーヤー"
+
+#. +> trunk6 trunk5
+#: solid/devices/frontend/deviceinterface.cpp:75
+msgctxt "Solid::DeviceInterface|Battery device type"
+msgid "Battery"
+msgstr "バッテリ"
+
+#. +> trunk6 trunk5
+#: solid/devices/frontend/deviceinterface.cpp:77
+msgctxt "Solid::DeviceInterface|Network Share device type"
+msgid "Network Share"
+msgstr "ネットワーク共有"
+
+#. +> trunk6 trunk5
+#: tools/solid-hardware/solid-hardware.cpp:218
+#: tools/solid-hardware/solid-hardware.cpp:341
+msgctxt "solid-hardware|"
+msgid "Device udi"
+msgstr "デバイス UDI"
+
+#. +> trunk6 trunk5
+#: tools/solid-hardware/solid-hardware.cpp:230
+msgctxt "solid-hardware|"
+msgid "Syntax:"
+msgstr "構文:"
+
+#. +> trunk6 trunk5
+#: tools/solid-hardware/solid-hardware.cpp:233
+msgctxt "solid-hardware|"
+msgid ""
+"             # List the hardware available in the system.\n"
+"             # - If the 'nonportableinfo' option is specified, the device\n"
+"             # properties are listed (be careful, in this case property "
+"names\n"
+"             # are backend dependent),\n"
+"             # - If the 'details' option is specified, the device "
+"interfaces\n"
+"             # and the corresponding properties are listed in a platform\n"
+"             # neutral fashion,\n"
+"             # - Otherwise only device UDIs are listed.\n"
+msgstr ""
+"             # システムで利用可能なハードウェアを一覧表示します。\n"
+"             # - 'nonportableinfo' オプションが指定されている場合、デバイスの"
+"プ\n"
+"             # ロパティが一覧表示されます (この場合、プロパティ名はバックエン"
+"ド\n"
+"             # 依存なので注意してください)。\n"
+"             # - 'details' オプションが指定されている場合、デバイスのイン"
+"ター\n"
+"             # フェースと対応するプロパティが、プラットフォームに依存しない方"
+"法\n"
+"             # で一覧表示されます。\n"
+"             # - それ以外の場合、デバイス UDI のみが一覧表示されます。\n"
+
+#. +> trunk6 trunk5
+#: tools/solid-hardware/solid-hardware.cpp:245
+msgctxt "solid-hardware|"
+msgid ""
+"             # Display all the interfaces and properties of the device\n"
+"             # corresponding to 'udi' in a platform neutral fashion.\n"
+msgstr ""
+"             # 'udi' に対応するデバイスのすべてのインターフェースとプロパ"
+"ティ\n"
+"             # を、プラットフォームに依存しない方法で表示します。\n"
+
+#. +> trunk6 trunk5
+#: tools/solid-hardware/solid-hardware.cpp:251
+msgctxt "solid-hardware|"
+msgid ""
+"             # Display all the properties of the device corresponding to "
+"'udi'\n"
+"             # (be careful, in this case property names are backend "
+"dependent).\n"
+msgstr ""
+"             # 'udi' に対応するデバイスのすべてのプロパティを表示します\n"
+"             # (この場合、プロパティ名はバックエンド依存なので注意してくださ"
+"い\n"
+"             # )。\n"
+
+#. +> trunk6 trunk5
+#: tools/solid-hardware/solid-hardware.cpp:257
+msgctxt "solid-hardware|"
+msgid ""
+"             # List the UDI of devices corresponding to 'predicate'.\n"
+"             # - If 'parentUdi' is specified, the search is restricted to "
+"the\n"
+"             # branch of the corresponding device,\n"
+"             # - Otherwise the search is done on all the devices.\n"
+msgstr ""
+"             # 'predicate' に対応するデバイスの UDI を一覧表示します。\n"
+"             # - 'parentUdi' が指定されている場合、検索は対応するデバイスのブ"
+"ラ\n"
+"             # ンチに限定されます。\n"
+"             # - それ以外の場合、検索がすべてのデバイスで行われます。\n"
+
+#. +> trunk6 trunk5
+#: tools/solid-hardware/solid-hardware.cpp:265
+msgctxt "solid-hardware|"
+msgid ""
+"             # If applicable, mount the device corresponding to 'udi'.\n"
+msgstr ""
+"             # 適用可能な場合、'udi' に対応するデバイスをマウントします。\n"
+
+#. +> trunk6 trunk5
+#: tools/solid-hardware/solid-hardware.cpp:268
+msgctxt "solid-hardware|"
+msgid ""
+"             # If applicable, unmount the device corresponding to 'udi'.\n"
+msgstr ""
+"             # 適用可能な場合、'udi' に対応するデバイスをアンマウントしま"
+"す。\n"
+
+#. +> trunk6 trunk5
+#: tools/solid-hardware/solid-hardware.cpp:271
+msgctxt "solid-hardware|"
+msgid ""
+"             # If applicable, eject the device corresponding to 'udi'.\n"
+msgstr ""
+"             # 適用可能な場合、'udi' に対応するデバイスをイジェクトします。\n"
+
+#. +> trunk6 trunk5
+#: tools/solid-hardware/solid-hardware.cpp:274
+msgctxt "solid-hardware|"
+msgid "             # Listen to all add/remove events on supported hardware.\n"
+msgstr ""
+"             # サポートされているハードウェアのすべての追加/削除イベントを監"
+"視\n"
+"             # します。\n"
+
+#. +> trunk6
+#: tools/solid-hardware/solid-hardware.cpp:277
+msgctxt "solid-hardware|"
+msgid "             # Monitor devices for changes.\n"
+msgstr "             # デバイスの変更を監視します。\n"
+
+#. +> trunk5
+#: tools/solid-hardware/solid-hardware.cpp:277
+msgctxt "solid-hardware|"
+msgid "             # Monitor a devices for changes.\n"
+msgstr "             # デバイスの変更を監視します。\n"
+
+#. +> trunk6
+#: tools/solid-hardware/solid-hardware.cpp:280
+#, fuzzy
+#| msgctxt "solid-hardware|"
+#| msgid ""
+#| "             # If applicable, eject the device corresponding to 'udi'.\n"
+msgctxt "solid-hardware|"
+msgid ""
+"             # Send \"CanCheck\" request to the device corresponding to "
+"'udi'.\n"
+msgstr ""
+"             # 適用可能な場合、'udi' に対応するデバイスをイジェクトします。\n"
+
+#. +> trunk6
+#: tools/solid-hardware/solid-hardware.cpp:283
+#, fuzzy
+#| msgctxt "solid-hardware|"
+#| msgid ""
+#| "             # If applicable, eject the device corresponding to 'udi'.\n"
+msgctxt "solid-hardware|"
+msgid ""
+"             # Send \"Check\" request to the device corresponding to 'udi'.\n"
+msgstr ""
+"             # 適用可能な場合、'udi' に対応するデバイスをイジェクトします。\n"
+
+#. +> trunk6
+#: tools/solid-hardware/solid-hardware.cpp:286
+#, fuzzy
+#| msgctxt "solid-hardware|"
+#| msgid ""
+#| "             # If applicable, eject the device corresponding to 'udi'.\n"
+msgctxt "solid-hardware|"
+msgid ""
+"             # Send \"CanRepair\" request to the device corresponding to "
+"'udi'.\n"
+msgstr ""
+"             # 適用可能な場合、'udi' に対応するデバイスをイジェクトします。\n"
+
+#. +> trunk6
+#: tools/solid-hardware/solid-hardware.cpp:289
+#, fuzzy
+#| msgctxt "solid-hardware|"
+#| msgid ""
+#| "             # If applicable, eject the device corresponding to 'udi'.\n"
+msgctxt "solid-hardware|"
+msgid ""
+"             # Send \"Repair\" request to the device corresponding to "
+"'udi'.\n"
+msgstr ""
+"             # 適用可能な場合、'udi' に対応するデバイスをイジェクトします。\n"
+
+#. +> trunk6 trunk5
+#: tools/solid-hardware/solid-hardware.cpp:301
+msgctxt "solid-hardware|"
+msgid "KDE tool for querying your hardware from the command line"
+msgstr "コマンドラインからハードウェアの照会を行う KDE ツール"
+
+#. +> trunk6 trunk5
+#: tools/solid-hardware/solid-hardware.cpp:304
+msgctxt "solid-hardware|"
+msgid "Command to execute"
+msgstr "実行するコマンド"
+
+#. +> trunk6 trunk5
+#: tools/solid-hardware/solid-hardware.cpp:306
+msgctxt "solid-hardware|"
+msgid "Show available commands"
+msgstr "利用可能なコマンドを表示する"
+
+#. +> trunk6 trunk5
+#: tools/solid-hardware/solid-hardware.cpp:328
+msgctxt "solid-hardware|"
+msgid "Show device details"
+msgstr "デバイスの詳細を表示する"
+
+#. +> trunk6 trunk5
+#: tools/solid-hardware/solid-hardware.cpp:329
+msgctxt "solid-hardware|"
+msgid "Show non portable information"
+msgstr "非ポータブルな情報を表示する"
+
+#. +> trunk6 trunk5
+#: tools/solid-hardware/solid-hardware.cpp:342
+msgctxt "solid-hardware|"
+msgid "Parent device udi"
+msgstr "親デバイスの UDI"
+
+#. +> trunk6 trunk5
+#: tools/solid-hardware/solid-hardware.cpp:384
+#, qt-format
+msgctxt "solid-hardware|"
+msgid "Syntax Error: Unknown command '%1'"
+msgstr "構文エラー: 不明なコマンド '%1'"
+
+#. +> trunk6 trunk5
+#: tools/solid-hardware/solid-hardware.cpp:446
+#, qt-format
+msgctxt "SolidHardware|"
+msgid "Error: %1 does not have the interface StorageAccess."
+msgstr "エラー: %1 には StorageAccess インターフェースがありません。"
+
+#. +> trunk6 trunk5
+#: tools/solid-hardware/solid-hardware.cpp:449
+#, qt-format
+msgctxt "SolidHardware|"
+msgid "Error: %1 does not have the interface OpticalDrive."
+msgstr "エラー: %1 には OpticalDrive インターフェースがありません。"
+
+#. +> trunk6
+#: tools/solid-hardware/solid-hardware.cpp:476
+#, qt-format
+msgctxt "SolidHardware|"
+msgid "Device CanCheck: %1"
+msgstr ""
+
+#. +> trunk6
+#: tools/solid-hardware/solid-hardware.cpp:476
+#: tools/solid-hardware/solid-hardware.cpp:491
+msgctxt "SolidHardware|"
+msgid "no"
+msgstr ""
+
+#. +> trunk6
+#: tools/solid-hardware/solid-hardware.cpp:476
+#: tools/solid-hardware/solid-hardware.cpp:491
+msgctxt "SolidHardware|"
+msgid "yes"
+msgstr ""
+
+#. +> trunk6
+#: tools/solid-hardware/solid-hardware.cpp:487
+msgctxt "SolidHardware|"
+msgid "Device Check: operation is not supported"
+msgstr ""
+
+#. +> trunk6
+#: tools/solid-hardware/solid-hardware.cpp:491
+#, qt-format
+msgctxt "SolidHardware|"
+msgid "Device CanRepair: %1"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: tools/solid-hardware/solid-hardware.cpp:506
+#, qt-format
+msgctxt "SolidHardware|"
+msgid "Error: %1"
+msgstr "エラー: %1"
+
+#. +> trunk6
+#: tools/solid-hardware/solid-hardware.cpp:577
+#, qt-format
+msgctxt "SolidHardware|"
+msgid "Device check: %1"
+msgstr ""
+
+#. +> trunk6
+#: tools/solid-hardware/solid-hardware.cpp:577
+msgctxt "SolidHardware|"
+msgid "no error"
+msgstr ""
+
+#. +> trunk6
+#: tools/solid-hardware/solid-hardware.cpp:577
+msgctxt "SolidHardware|"
+msgid "has error"
+msgstr ""
+
+#. +> trunk5
+#: tools/solid-power/main.cpp:22
+msgctxt "solid-power|"
+msgid "Tool to know and set the power management state of your device"
+msgstr "デバイスの電源管理状態を把握して設定するツール"
+
+#. +> trunk5
+#: tools/solid-power/main.cpp:24
+msgctxt "solid-power|"
+msgid "Command to execute"
+msgstr "実行するコマンド"
+
+#. +> trunk5
+#: tools/solid-power/main.cpp:26
+msgctxt "solid-power|"
+msgid "Show available commands"
+msgstr "利用可能なコマンドを表示する"
+
+#. +> trunk5
+#: tools/solid-power/main.cpp:35
+msgctxt "solid-power|"
+msgid ""
+"             # Show all the power management information from the system.\n"
+"             # - acPlugged: whether the device is connected to the AC or "
+"not\n"
+msgstr ""
+"             # システム由来のすべての電源管理情報を表示します。\n"
+"             # - acPlugged: デバイスがACに接続されているかどうか\n"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "%1 TiB"
+#~ msgstr "%1 TiB"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "%1 GiB"
+#~ msgstr "%1 GiB"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "%1 MiB"
+#~ msgstr "%1 MiB"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "%1 KiB"
+#~ msgstr "%1 KiB"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "%1 B"
+#~ msgstr "%1 B"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "0 B"
+#~ msgstr "0 B"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "WLAN Interface"
+#~ msgstr "WLAN インターフェース"
+
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "Networking Interface"
+#~ msgstr "ネットワークインターフェース"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|First item of %1%2 Drive sentence"
+#~ msgid "CD-ROM"
+#~ msgstr "CD-ROM"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|First item of %1%2 Drive sentence"
+#~ msgid "CD-R"
+#~ msgstr "CD-R"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|First item of %1%2 Drive sentence"
+#~ msgid "CD-RW"
+#~ msgstr "CD-RW"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|Second item of %1%2 Drive sentence"
+#~ msgid "/DVD-ROM"
+#~ msgstr "/DVD-ROM"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|Second item of %1%2 Drive sentence"
+#~ msgid "/DVD+R"
+#~ msgstr "/DVD+R"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|Second item of %1%2 Drive sentence"
+#~ msgid "/DVD+RW"
+#~ msgstr "/DVD+RW"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|Second item of %1%2 Drive sentence"
+#~ msgid "/DVD-R"
+#~ msgstr "/DVD-R"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|Second item of %1%2 Drive sentence"
+#~ msgid "/DVD-RW"
+#~ msgstr "/DVD-RW"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|Second item of %1%2 Drive sentence"
+#~ msgid "/DVD-RAM"
+#~ msgstr "/DVD-RAM"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|Second item of %1%2 Drive sentence"
+#~ msgid "/DVD±R DL"
+#~ msgstr "/DVD±R DL"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|Second item of %1%2 Drive sentence"
+#~ msgid "/DVD±R"
+#~ msgstr "/DVD±R"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|Second item of %1%2 Drive sentence"
+#~ msgid "/DVD±RW DL"
+#~ msgstr "/DVD±RW DL"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|Second item of %1%2 Drive sentence"
+#~ msgid "/DVD±RW"
+#~ msgstr "/DVD±RW"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|Second item of %1%2 Drive sentence"
+#~ msgid "/BD-ROM"
+#~ msgstr "/BD-ROM"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|Second item of %1%2 Drive sentence"
+#~ msgid "/BD-R"
+#~ msgstr "/BD-R"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|Second item of %1%2 Drive sentence"
+#~ msgid "/BD-RE"
+#~ msgstr "/BD-RE"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|Second item of %1%2 Drive sentence"
+#~ msgid "/HD DVD-ROM"
+#~ msgstr "/HD DVD-ROM"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|Second item of %1%2 Drive sentence"
+#~ msgid "/HD DVD-R"
+#~ msgstr "/HD DVD-R"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|Second item of %1%2 Drive sentence"
+#~ msgid "/HD DVD-RW"
+#~ msgstr "/HD DVD-RW"
+
+#, fuzzy
+#~ msgctxt ""
+#~ "Solid::Backends::Hal::HalDevice|%1 is CD-ROM/CD-R/etc; %2 is '/DVD-ROM'/'/"
+#~ "DVD-R'/etc (with leading slash)"
+#~ msgid "External %1%2 Drive"
+#~ msgstr "外付け %1%2 ドライブ"
+
+#, fuzzy
+#~ msgctxt ""
+#~ "Solid::Backends::Hal::HalDevice|%1 is CD-ROM/CD-R/etc; %2 is '/DVD-ROM'/'/"
+#~ "DVD-R'/etc (with leading slash)"
+#~ msgid "%1%2 Drive"
+#~ msgstr "%1%2 ドライブ"
+
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "External Floppy Drive"
+#~ msgstr "外付けフロッピードライブ"
+
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "Floppy Drive"
+#~ msgstr "フロッピードライブ"
+
+#~ msgctxt "Solid::Backends::Hal::HalDevice|%1 is the size"
+#~ msgid "%1 External Hard Drive"
+#~ msgstr "%1 の外付けハードディスクドライブ"
+
+#~ msgctxt "Solid::Backends::Hal::HalDevice|%1 is the size"
+#~ msgid "%1 Hard Drive"
+#~ msgstr "%1 のハードディスクドライブ"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "External Hard Drive"
+#~ msgstr "外付けハードディスクドライブ"
+
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "Hard Drive"
+#~ msgstr "ハードディスクドライブ"
+
+#, fuzzy
+#~ msgctxt ""
+#~ "Solid::Backends::Hal::HalDevice|%1 is the vendor, %2 is the model of the "
+#~ "device"
+#~ msgid "%1 %2"
+#~ msgstr "%1 %2"
+
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "Drive"
+#~ msgstr "ドライブ"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "CD-ROM"
+#~ msgstr "CD-ROM"
+
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "Blank CD-R"
+#~ msgstr "空の CD-R"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "CD-R"
+#~ msgstr "CD-R"
+
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "Blank CD-RW"
+#~ msgstr "空の CD-RW"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "CD-RW"
+#~ msgstr "CD-RW"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "DVD-ROM"
+#~ msgstr "DVD-ROM"
+
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "Blank DVD-RAM"
+#~ msgstr "空の DVD-RAM"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "DVD-RAM"
+#~ msgstr "DVD-RAM"
+
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "Blank DVD-R"
+#~ msgstr "空の DVD-R"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "DVD-R"
+#~ msgstr "DVD-R"
+
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "Blank DVD+R Dual-Layer"
+#~ msgstr "空の二層 DVD+R"
+
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "DVD+R Dual-Layer"
+#~ msgstr "二層 DVD+R"
+
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "Blank DVD-RW"
+#~ msgstr "空の DVD-RW"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "DVD-RW"
+#~ msgstr "DVD-RW"
+
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "Blank DVD+R"
+#~ msgstr "空の DVD+R"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "DVD+R"
+#~ msgstr "DVD+R"
+
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "Blank DVD+RW"
+#~ msgstr "空の DVD+RW"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "DVD+RW"
+#~ msgstr "DVD+RW"
+
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "Blank DVD+RW Dual-Layer"
+#~ msgstr "空の二層 DVD+RW"
+
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "DVD+RW Dual-Layer"
+#~ msgstr "二層 DVD+RW"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "BD-ROM"
+#~ msgstr "BD-ROM"
+
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "Blank BD-R"
+#~ msgstr "空の BD-R"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "BD-R"
+#~ msgstr "BD-R"
+
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "Blank BD-RE"
+#~ msgstr "空の BD-RE"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "BD-RE"
+#~ msgstr "BD-RE"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "HD DVD-ROM"
+#~ msgstr "HD DVD-ROM"
+
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "Blank HD DVD-R"
+#~ msgstr "空の HD DVD-R"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "HD DVD-R"
+#~ msgstr "HD DVD-R"
+
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "Blank HD DVD-RW"
+#~ msgstr "空の HD DVD-RW"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "HD DVD-RW"
+#~ msgstr "HD DVD-RW"
+
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "Audio CD"
+#~ msgstr "オーディオ CD"
+
+#~ msgctxt "Solid::Backends::Hal::HalDevice|%1 is the size"
+#~ msgid "%1 Encrypted Container"
+#~ msgstr "%1 の暗号化コンテナ"
+
+#~ msgctxt "Solid::Backends::Hal::HalDevice|"
+#~ msgid "Encrypted Container"
+#~ msgstr "暗号化コンテナ"
+
+#~ msgctxt "Solid::Backends::Hal::HalDevice|%1 is the size"
+#~ msgid "%1 Removable Media"
+#~ msgstr "%1 のリムーバブルメディア"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Hal::HalDevice|%1 is the size"
+#~ msgid "%1 Media"
+#~ msgstr "%1 のメディア"
+
+#~ msgctxt "Solid::Backends::UDisks2::Device|%1 is the size"
+#~ msgid "%1 External Hard Drive"
+#~ msgstr "%1 の外付けハードディスクドライブ"
+
+#~ msgctxt "Solid::Backends::UDisks2::Device|%1 is the size"
+#~ msgid "%1 Hard Drive"
+#~ msgstr "%1 のハードディスクドライブ"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks2::Device|"
+#~ msgid "External Hard Drive"
+#~ msgstr "外付けハードディスクドライブ"
+
+#~ msgctxt "Solid::Backends::UDisks2::Device|"
+#~ msgid "Hard Drive"
+#~ msgstr "ハードディスクドライブ"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Fstab::FstabManager|"
+#~ msgid "Network Shares"
+#~ msgstr "ネットワークシェア"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Fstab::FstabManager|"
+#~ msgid "NFS and SMB shares declared in your system"
+#~ msgstr "あなたのシステムで定義された NFS と SMB シェア"
+
+#~ msgid "Network Shares"
+#~ msgstr "ネットワークシェア"
+
+#~ msgid "NFS and SMB shares declared in your system"
+#~ msgstr "あなたのシステムで定義された NFS と SMB シェア"
+
+#~ msgid "%1 TiB"
+#~ msgstr "%1 TiB"
+
+#~ msgid "%1 GiB"
+#~ msgstr "%1 GiB"
+
+#~ msgid "%1 MiB"
+#~ msgstr "%1 MiB"
+
+#~ msgid "%1 KiB"
+#~ msgstr "%1 KiB"
+
+#~ msgid "%1 B"
+#~ msgstr "%1 B"
+
+#~ msgid "0 B"
+#~ msgstr "0 B"
+
+#~ msgid "WLAN Interface"
+#~ msgstr "WLAN インターフェース"
+
+#~ msgid "Networking Interface"
+#~ msgstr "ネットワークインターフェース"
+
+#~ msgctxt "First item of %1%2 Drive sentence"
+#~ msgid "CD-ROM"
+#~ msgstr "CD-ROM"
+
+#~ msgctxt "First item of %1%2 Drive sentence"
+#~ msgid "CD-R"
+#~ msgstr "CD-R"
+
+#~ msgctxt "First item of %1%2 Drive sentence"
+#~ msgid "CD-RW"
+#~ msgstr "CD-RW"
+
+#~ msgctxt "Second item of %1%2 Drive sentence"
+#~ msgid "/DVD-ROM"
+#~ msgstr "/DVD-ROM"
+
+#~ msgctxt "Second item of %1%2 Drive sentence"
+#~ msgid "/DVD+R"
+#~ msgstr "/DVD+R"
+
+#~ msgctxt "Second item of %1%2 Drive sentence"
+#~ msgid "/DVD+RW"
+#~ msgstr "/DVD+RW"
+
+#~ msgctxt "Second item of %1%2 Drive sentence"
+#~ msgid "/DVD-R"
+#~ msgstr "/DVD-R"
+
+#~ msgctxt "Second item of %1%2 Drive sentence"
+#~ msgid "/DVD-RW"
+#~ msgstr "/DVD-RW"
+
+#~ msgctxt "Second item of %1%2 Drive sentence"
+#~ msgid "/DVD-RAM"
+#~ msgstr "/DVD-RAM"
+
+#~ msgctxt "Second item of %1%2 Drive sentence"
+#~ msgid "/DVD±R DL"
+#~ msgstr "/DVD±R DL"
+
+#~ msgctxt "Second item of %1%2 Drive sentence"
+#~ msgid "/DVD±R"
+#~ msgstr "/DVD±R"
+
+#~ msgctxt "Second item of %1%2 Drive sentence"
+#~ msgid "/DVD±RW DL"
+#~ msgstr "/DVD±RW DL"
+
+#~ msgctxt "Second item of %1%2 Drive sentence"
+#~ msgid "/DVD±RW"
+#~ msgstr "/DVD±RW"
+
+#~ msgctxt "Second item of %1%2 Drive sentence"
+#~ msgid "/BD-ROM"
+#~ msgstr "/BD-ROM"
+
+#~ msgctxt "Second item of %1%2 Drive sentence"
+#~ msgid "/BD-R"
+#~ msgstr "/BD-R"
+
+#~ msgctxt "Second item of %1%2 Drive sentence"
+#~ msgid "/BD-RE"
+#~ msgstr "/BD-RE"
+
+#~ msgctxt "Second item of %1%2 Drive sentence"
+#~ msgid "/HD DVD-ROM"
+#~ msgstr "/HD DVD-ROM"
+
+#~ msgctxt "Second item of %1%2 Drive sentence"
+#~ msgid "/HD DVD-R"
+#~ msgstr "/HD DVD-R"
+
+#~ msgctxt "Second item of %1%2 Drive sentence"
+#~ msgid "/HD DVD-RW"
+#~ msgstr "/HD DVD-RW"
+
+#~ msgctxt ""
+#~ "%1 is CD-ROM/CD-R/etc; %2 is '/DVD-ROM'/'/DVD-R'/etc (with leading slash)"
+#~ msgid "External %1%2 Drive"
+#~ msgstr "外付け %1%2 ドライブ"
+
+#~ msgctxt ""
+#~ "%1 is CD-ROM/CD-R/etc; %2 is '/DVD-ROM'/'/DVD-R'/etc (with leading slash)"
+#~ msgid "%1%2 Drive"
+#~ msgstr "%1%2 ドライブ"
+
+#~ msgid "External Floppy Drive"
+#~ msgstr "外付けフロッピードライブ"
+
+#~ msgid "Floppy Drive"
+#~ msgstr "フロッピードライブ"
+
+#~ msgctxt "%1 is the size"
+#~ msgid "%1 External Hard Drive"
+#~ msgstr "%1 の外付けハードディスクドライブ"
+
+#~ msgctxt "%1 is the size"
+#~ msgid "%1 Hard Drive"
+#~ msgstr "%1 のハードディスクドライブ"
+
+#~ msgid "Hard Drive"
+#~ msgstr "ハードディスクドライブ"
+
+#~ msgctxt "%1 is the vendor, %2 is the model of the device"
+#~ msgid "%1 %2"
+#~ msgstr "%1 %2"
+
+#~ msgid "Drive"
+#~ msgstr "ドライブ"
+
+#~ msgid "CD-ROM"
+#~ msgstr "CD-ROM"
+
+#~ msgid "Blank CD-R"
+#~ msgstr "空の CD-R"
+
+#~ msgid "CD-R"
+#~ msgstr "CD-R"
+
+#~ msgid "Blank CD-RW"
+#~ msgstr "空の CD-RW"
+
+#~ msgid "CD-RW"
+#~ msgstr "CD-RW"
+
+#~ msgid "DVD-ROM"
+#~ msgstr "DVD-ROM"
+
+#~ msgid "Blank DVD-RAM"
+#~ msgstr "空の DVD-RAM"
+
+#~ msgid "DVD-RAM"
+#~ msgstr "DVD-RAM"
+
+#~ msgid "Blank DVD-R"
+#~ msgstr "空の DVD-R"
+
+#~ msgid "DVD-R"
+#~ msgstr "DVD-R"
+
+#~ msgid "Blank DVD+R Dual-Layer"
+#~ msgstr "空の二層 DVD+R"
+
+#~ msgid "DVD+R Dual-Layer"
+#~ msgstr "二層 DVD+R"
+
+#~ msgid "Blank DVD-RW"
+#~ msgstr "空の DVD-RW"
+
+#~ msgid "DVD-RW"
+#~ msgstr "DVD-RW"
+
+#~ msgid "Blank DVD+R"
+#~ msgstr "空の DVD+R"
+
+#~ msgid "DVD+R"
+#~ msgstr "DVD+R"
+
+#~ msgid "Blank DVD+RW"
+#~ msgstr "空の DVD+RW"
+
+#~ msgid "DVD+RW"
+#~ msgstr "DVD+RW"
+
+#~ msgid "Blank DVD+RW Dual-Layer"
+#~ msgstr "空の二層 DVD+RW"
+
+#~ msgid "DVD+RW Dual-Layer"
+#~ msgstr "二層 DVD+RW"
+
+#~ msgid "BD-ROM"
+#~ msgstr "BD-ROM"
+
+#~ msgid "Blank BD-R"
+#~ msgstr "空の BD-R"
+
+#~ msgid "BD-R"
+#~ msgstr "BD-R"
+
+#~ msgid "Blank BD-RE"
+#~ msgstr "空の BD-RE"
+
+#~ msgid "BD-RE"
+#~ msgstr "BD-RE"
+
+#~ msgid "HD DVD-ROM"
+#~ msgstr "HD DVD-ROM"
+
+#~ msgid "Blank HD DVD-R"
+#~ msgstr "空の HD DVD-R"
+
+#~ msgid "HD DVD-R"
+#~ msgstr "HD DVD-R"
+
+#~ msgid "Blank HD DVD-RW"
+#~ msgstr "空の HD DVD-RW"
+
+#~ msgid "HD DVD-RW"
+#~ msgstr "HD DVD-RW"
+
+#~ msgid "Audio CD"
+#~ msgstr "オーディオ CD"
+
+#~ msgctxt "%1 is the size"
+#~ msgid "%1 Encrypted Container"
+#~ msgstr "%1 の暗号化コンテナ"
+
+#~ msgid "Encrypted Container"
+#~ msgstr "暗号化コンテナ"
+
+#~ msgctxt "%1 is the size"
+#~ msgid "%1 Removable Media"
+#~ msgstr "%1 のリムーバブルメディア"
+
+#~ msgctxt "%1 is the size"
+#~ msgid "%1 Media"
+#~ msgstr "%1 のメディア"
+
+#~ msgid "UPnP Internet Gateway Device"
+#~ msgstr "UPnP インターネットゲートウェイデバイス"
+
+#~ msgid "UPnP Media Server v1"
+#~ msgstr "UPnP メディアサーバ v1"
+
+#~ msgid "UPnP Media Server v2"
+#~ msgstr "UPnP メディアサーバ v2"
+
+#~ msgid "UPnP Media Server v3"
+#~ msgstr "UPnP メディアサーバ v3"
+
+#~ msgid "Computer"
+#~ msgstr "コンピュータ"
+
+#~ msgid "Processor"
+#~ msgstr "プロセッサ"
+
+#~ msgid "Portable Media Player"
+#~ msgstr "ポータブルメディアプレーヤー"
+
+#~ msgid "Camera"
+#~ msgstr "カメラ"
+
+#~ msgid "Storage"
+#~ msgstr "ストレージ"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "%1 TiB"
+#~ msgstr "%1 TiB"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "%1 GiB"
+#~ msgstr "%1 GiB"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "%1 MiB"
+#~ msgstr "%1 MiB"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "%1 KiB"
+#~ msgstr "%1 KiB"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "%1 B"
+#~ msgstr "%1 B"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "0 B"
+#~ msgstr "0 B"
+
+#, fuzzy
+#~ msgid "Loop Device"
+#~ msgstr "デバイス"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "External Floppy Drive"
+#~ msgstr "外付けフロッピードライブ"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "Floppy Drive"
+#~ msgstr "フロッピードライブ"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "External Hard Drive"
+#~ msgstr "外付けハードディスクドライブ"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "Hard Drive"
+#~ msgstr "ハードディスクドライブ"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "Drive"
+#~ msgstr "ドライブ"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "CD-ROM"
+#~ msgstr "CD-ROM"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "Blank CD-R"
+#~ msgstr "空の CD-R"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "CD-R"
+#~ msgstr "CD-R"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "Blank CD-RW"
+#~ msgstr "空の CD-RW"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "CD-RW"
+#~ msgstr "CD-RW"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "DVD-ROM"
+#~ msgstr "DVD-ROM"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "Blank DVD-RAM"
+#~ msgstr "空の DVD-RAM"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "DVD-RAM"
+#~ msgstr "DVD-RAM"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "Blank DVD-R"
+#~ msgstr "空の DVD-R"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "DVD-R"
+#~ msgstr "DVD-R"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "Blank DVD+R Dual-Layer"
+#~ msgstr "空の二層 DVD+R"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "DVD+R Dual-Layer"
+#~ msgstr "二層 DVD+R"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "Blank DVD-RW"
+#~ msgstr "空の DVD-RW"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "DVD-RW"
+#~ msgstr "DVD-RW"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "Blank DVD+R"
+#~ msgstr "空の DVD+R"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "DVD+R"
+#~ msgstr "DVD+R"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "Blank DVD+RW"
+#~ msgstr "空の DVD+RW"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "DVD+RW"
+#~ msgstr "DVD+RW"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "Blank DVD+RW Dual-Layer"
+#~ msgstr "空の二層 DVD+RW"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "DVD+RW Dual-Layer"
+#~ msgstr "二層 DVD+RW"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "BD-ROM"
+#~ msgstr "BD-ROM"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "Blank BD-R"
+#~ msgstr "空の BD-R"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "BD-R"
+#~ msgstr "BD-R"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "Blank BD-RE"
+#~ msgstr "空の BD-RE"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "BD-RE"
+#~ msgstr "BD-RE"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "HD DVD-ROM"
+#~ msgstr "HD DVD-ROM"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "Blank HD DVD-R"
+#~ msgstr "空の HD DVD-R"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "HD DVD-R"
+#~ msgstr "HD DVD-R"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "Blank HD DVD-RW"
+#~ msgstr "空の HD DVD-RW"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "HD DVD-RW"
+#~ msgstr "HD DVD-RW"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "Audio CD"
+#~ msgstr "オーディオ CD"
+
+#, fuzzy
+#~ msgctxt "%1 is the size"
+#~ msgid "%1 Encrypted Drive"
+#~ msgstr "%1 の暗号化コンテナ"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "Encrypted Drive"
+#~ msgstr "暗号化コンテナ"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "Storage"
+#~ msgstr "ストレージ"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "Storage devices"
+#~ msgstr "ストレージデバイス"
+
+#~ msgid "UPnP Devices"
+#~ msgstr "UPnP デバイス"
+
+#~ msgid "UPnP devices detected on your network"
+#~ msgstr "あなたのネットワークで検出された UPnP デバイス"
+
+#~ msgid "A/C Adapter"
+#~ msgstr "AC アダプタ"
+
+#~ msgctxt "%1 is battery technology"
+#~ msgid "%1 Battery"
+#~ msgstr "%1 バッテリ"
+
+#~ msgctxt "battery technology"
+#~ msgid "Lithium Ion"
+#~ msgstr "リチウムイオン"
+
+#~ msgctxt "battery technology"
+#~ msgid "Lithium Polymer"
+#~ msgstr "リチウムポリマー"
+
+#~ msgctxt "battery technology"
+#~ msgid "Nickel Cadmium"
+#~ msgstr "ニッカド"
+
+#~ msgctxt "battery technology"
+#~ msgid "Unknown"
+#~ msgstr "不明"
+
+#~ msgid "Power Management"
+#~ msgstr "電源管理"
+
+#, fuzzy
+#~ msgctxt "battery technology"
+#~ msgid "Nickel  Zinc"
+#~ msgstr "ニッカド"
+
+#~ msgctxt "Unknown device type"
+#~ msgid "Unknown"
+#~ msgstr "不明"
+
+#~ msgctxt "Processor device type"
+#~ msgid "Processor"
+#~ msgstr "プロセッサ"
+
+#~ msgctxt "Block device type"
+#~ msgid "Block"
+#~ msgstr "ブロック"
+
+#~ msgctxt "Storage Access device type"
+#~ msgid "Storage Access"
+#~ msgstr "ストレージアクセス"
+
+#~ msgctxt "Storage Drive device type"
+#~ msgid "Storage Drive"
+#~ msgstr "ストレージドライブ"
+
+#~ msgctxt "Optical Drive device type"
+#~ msgid "Optical Drive"
+#~ msgstr "光学ドライブ"
+
+#~ msgctxt "Storage Volume device type"
+#~ msgid "Storage Volume"
+#~ msgstr "ストレージボリューム"
+
+#~ msgctxt "Optical Disc device type"
+#~ msgid "Optical Disc"
+#~ msgstr "光学ディスク"
+
+#~ msgctxt "Camera device type"
+#~ msgid "Camera"
+#~ msgstr "カメラ"
+
+#~ msgctxt "Portable Media Player device type"
+#~ msgid "Portable Media Player"
+#~ msgstr "ポータブルメディアプレーヤー"
+
+#~ msgctxt "Network Interface device type"
+#~ msgid "Network Interface"
+#~ msgstr "ネットワークインターフェース"
+
+#~ msgctxt "Ac Adapter device type"
+#~ msgid "Ac Adapter"
+#~ msgstr "AC アダプタ"
+
+#~ msgctxt "Battery device type"
+#~ msgid "Battery"
+#~ msgstr "バッテリ"
+
+#~ msgctxt "Button device type"
+#~ msgid "Button"
+#~ msgstr "ボタン"
+
+#~ msgctxt "Audio Interface device type"
+#~ msgid "Audio Interface"
+#~ msgstr "オーディオインターフェース"
+
+#~ msgctxt "Dvb Interface device type"
+#~ msgid "Dvb Interface"
+#~ msgstr "DVB インターフェース"
+
+#~ msgctxt "Video device type"
+#~ msgid "Video"
+#~ msgstr "ビデオ"
+
+#~ msgctxt "Serial Interface device type"
+#~ msgid "Serial Interface"
+#~ msgstr "シリアルインターフェース"
+
+#~ msgctxt "Smart Card Reader device type"
+#~ msgid "Smart Card Reader"
+#~ msgstr "スマートカードリーダー"
+
+#~ msgctxt "Internet Gateway device type"
+#~ msgid "Internet Gateway Device"
+#~ msgstr "インターネットゲートウェイデバイス"
+
+#~ msgctxt "Network Share device type"
+#~ msgid "Network Share"
+#~ msgstr "ネットワークシェア"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Win::WinBattery|battery technology"
+#~ msgid "Unknown"
+#~ msgstr "不明"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "%1 TiB"
+#~ msgstr "%1 TiB"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "%1 GiB"
+#~ msgstr "%1 GiB"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "%1 MiB"
+#~ msgstr "%1 MiB"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "%1 KiB"
+#~ msgstr "%1 KiB"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "%1 B"
+#~ msgstr "%1 B"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "0 B"
+#~ msgstr "0 B"
+
+#, fuzzy
+#~ msgctxt ""
+#~ "Solid::Backends::UDisks::UDisksDevice|First item of %1%2 Drive sentence"
+#~ msgid "CD-ROM"
+#~ msgstr "CD-ROM"
+
+#, fuzzy
+#~ msgctxt ""
+#~ "Solid::Backends::UDisks::UDisksDevice|First item of %1%2 Drive sentence"
+#~ msgid "CD-R"
+#~ msgstr "CD-R"
+
+#, fuzzy
+#~ msgctxt ""
+#~ "Solid::Backends::UDisks::UDisksDevice|First item of %1%2 Drive sentence"
+#~ msgid "CD-RW"
+#~ msgstr "CD-RW"
+
+#, fuzzy
+#~ msgctxt ""
+#~ "Solid::Backends::UDisks::UDisksDevice|Second item of %1%2 Drive sentence"
+#~ msgid "/DVD-ROM"
+#~ msgstr "/DVD-ROM"
+
+#, fuzzy
+#~ msgctxt ""
+#~ "Solid::Backends::UDisks::UDisksDevice|Second item of %1%2 Drive sentence"
+#~ msgid "/DVD+R"
+#~ msgstr "/DVD+R"
+
+#, fuzzy
+#~ msgctxt ""
+#~ "Solid::Backends::UDisks::UDisksDevice|Second item of %1%2 Drive sentence"
+#~ msgid "/DVD+RW"
+#~ msgstr "/DVD+RW"
+
+#, fuzzy
+#~ msgctxt ""
+#~ "Solid::Backends::UDisks::UDisksDevice|Second item of %1%2 Drive sentence"
+#~ msgid "/DVD-R"
+#~ msgstr "/DVD-R"
+
+#, fuzzy
+#~ msgctxt ""
+#~ "Solid::Backends::UDisks::UDisksDevice|Second item of %1%2 Drive sentence"
+#~ msgid "/DVD-RW"
+#~ msgstr "/DVD-RW"
+
+#, fuzzy
+#~ msgctxt ""
+#~ "Solid::Backends::UDisks::UDisksDevice|Second item of %1%2 Drive sentence"
+#~ msgid "/DVD-RAM"
+#~ msgstr "/DVD-RAM"
+
+#, fuzzy
+#~ msgctxt ""
+#~ "Solid::Backends::UDisks::UDisksDevice|Second item of %1%2 Drive sentence"
+#~ msgid "/DVD±R DL"
+#~ msgstr "/DVD±R DL"
+
+#, fuzzy
+#~ msgctxt ""
+#~ "Solid::Backends::UDisks::UDisksDevice|Second item of %1%2 Drive sentence"
+#~ msgid "/DVD±R"
+#~ msgstr "/DVD±R"
+
+#, fuzzy
+#~ msgctxt ""
+#~ "Solid::Backends::UDisks::UDisksDevice|Second item of %1%2 Drive sentence"
+#~ msgid "/DVD±RW DL"
+#~ msgstr "/DVD±RW DL"
+
+#, fuzzy
+#~ msgctxt ""
+#~ "Solid::Backends::UDisks::UDisksDevice|Second item of %1%2 Drive sentence"
+#~ msgid "/DVD±RW"
+#~ msgstr "/DVD±RW"
+
+#, fuzzy
+#~ msgctxt ""
+#~ "Solid::Backends::UDisks::UDisksDevice|Second item of %1%2 Drive sentence"
+#~ msgid "/BD-ROM"
+#~ msgstr "/BD-ROM"
+
+#, fuzzy
+#~ msgctxt ""
+#~ "Solid::Backends::UDisks::UDisksDevice|Second item of %1%2 Drive sentence"
+#~ msgid "/BD-R"
+#~ msgstr "/BD-R"
+
+#, fuzzy
+#~ msgctxt ""
+#~ "Solid::Backends::UDisks::UDisksDevice|Second item of %1%2 Drive sentence"
+#~ msgid "/BD-RE"
+#~ msgstr "/BD-RE"
+
+#, fuzzy
+#~ msgctxt ""
+#~ "Solid::Backends::UDisks::UDisksDevice|Second item of %1%2 Drive sentence"
+#~ msgid "/HD DVD-ROM"
+#~ msgstr "/HD DVD-ROM"
+
+#, fuzzy
+#~ msgctxt ""
+#~ "Solid::Backends::UDisks::UDisksDevice|Second item of %1%2 Drive sentence"
+#~ msgid "/HD DVD-R"
+#~ msgstr "/HD DVD-R"
+
+#, fuzzy
+#~ msgctxt ""
+#~ "Solid::Backends::UDisks::UDisksDevice|Second item of %1%2 Drive sentence"
+#~ msgid "/HD DVD-RW"
+#~ msgstr "/HD DVD-RW"
+
+#, fuzzy
+#~ msgctxt ""
+#~ "Solid::Backends::UDisks::UDisksDevice|%1 is CD-ROM/CD-R/etc; %2 is '/DVD-"
+#~ "ROM'/'/DVD-R'/etc (with leading slash)"
+#~ msgid "External %1%2 Drive"
+#~ msgstr "外付け %1%2 ドライブ"
+
+#, fuzzy
+#~ msgctxt ""
+#~ "Solid::Backends::UDisks::UDisksDevice|%1 is CD-ROM/CD-R/etc; %2 is '/DVD-"
+#~ "ROM'/'/DVD-R'/etc (with leading slash)"
+#~ msgid "%1%2 Drive"
+#~ msgstr "%1%2 ドライブ"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "External Floppy Drive"
+#~ msgstr "外付けフロッピードライブ"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "Floppy Drive"
+#~ msgstr "フロッピードライブ"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|%1 is the size"
+#~ msgid "%1 External Hard Drive"
+#~ msgstr "%1 の外付けハードディスクドライブ"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|%1 is the size"
+#~ msgid "%1 Hard Drive"
+#~ msgstr "%1 のハードディスクドライブ"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "External Hard Drive"
+#~ msgstr "外付けハードディスクドライブ"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "Hard Drive"
+#~ msgstr "ハードディスクドライブ"
+
+#, fuzzy
+#~ msgctxt ""
+#~ "Solid::Backends::UDisks::UDisksDevice|%1 is the vendor, %2 is the model "
+#~ "of the device"
+#~ msgid "%1 %2"
+#~ msgstr "%1 %2"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "Drive"
+#~ msgstr "ドライブ"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "CD-ROM"
+#~ msgstr "CD-ROM"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "Blank CD-R"
+#~ msgstr "空の CD-R"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "CD-R"
+#~ msgstr "CD-R"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "Blank CD-RW"
+#~ msgstr "空の CD-RW"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "CD-RW"
+#~ msgstr "CD-RW"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "DVD-ROM"
+#~ msgstr "DVD-ROM"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "Blank DVD-RAM"
+#~ msgstr "空の DVD-RAM"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "DVD-RAM"
+#~ msgstr "DVD-RAM"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "Blank DVD-R"
+#~ msgstr "空の DVD-R"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "DVD-R"
+#~ msgstr "DVD-R"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "Blank DVD+R Dual-Layer"
+#~ msgstr "空の二層 DVD+R"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "DVD+R Dual-Layer"
+#~ msgstr "二層 DVD+R"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "Blank DVD-RW"
+#~ msgstr "空の DVD-RW"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "DVD-RW"
+#~ msgstr "DVD-RW"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "Blank DVD+R"
+#~ msgstr "空の DVD+R"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "DVD+R"
+#~ msgstr "DVD+R"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "Blank DVD+RW"
+#~ msgstr "空の DVD+RW"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "DVD+RW"
+#~ msgstr "DVD+RW"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "Blank DVD+RW Dual-Layer"
+#~ msgstr "空の二層 DVD+RW"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "DVD+RW Dual-Layer"
+#~ msgstr "二層 DVD+RW"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "BD-ROM"
+#~ msgstr "BD-ROM"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "Blank BD-R"
+#~ msgstr "空の BD-R"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "BD-R"
+#~ msgstr "BD-R"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "Blank BD-RE"
+#~ msgstr "空の BD-RE"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "BD-RE"
+#~ msgstr "BD-RE"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "HD DVD-ROM"
+#~ msgstr "HD DVD-ROM"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "Blank HD DVD-R"
+#~ msgstr "空の HD DVD-R"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "HD DVD-R"
+#~ msgstr "HD DVD-R"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "Blank HD DVD-RW"
+#~ msgstr "空の HD DVD-RW"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "HD DVD-RW"
+#~ msgstr "HD DVD-RW"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "Audio CD"
+#~ msgstr "オーディオ CD"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|%1 is the size"
+#~ msgid "%1 Encrypted Container"
+#~ msgstr "%1 の暗号化コンテナ"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
+#~ msgid "Encrypted Container"
+#~ msgstr "暗号化コンテナ"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|%1 is the size"
+#~ msgid "%1 Removable Media"
+#~ msgstr "%1 のリムーバブルメディア"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksDevice|%1 is the size"
+#~ msgid "%1 Media"
+#~ msgstr "%1 のメディア"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksManager|"
+#~ msgid "Storage"
+#~ msgstr "ストレージ"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::UDisks::UDisksManager|"
+#~ msgid "Storage devices"
+#~ msgstr "ストレージデバイス"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Wmi::Battery|battery technology"
+#~ msgid "Nickel Cadmium"
+#~ msgstr "ニッカド"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Wmi::Battery|battery technology"
+#~ msgid "Lithium Ion"
+#~ msgstr "リチウムイオン"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Wmi::Battery|battery technology"
+#~ msgid "Lithium Polymer"
+#~ msgstr "リチウムポリマー"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Wmi::Battery|battery technology"
+#~ msgid "Unknown"
+#~ msgstr "不明"
+
+#, fuzzy
+#~ msgctxt "Solid::Backends::Wmi::WmiDevice|%1 is battery technology"
+#~ msgid "%1 Battery"
+#~ msgstr "%1 バッテリ"
+
+#, fuzzy
+#~ msgctxt "udisksdevice"
+#~ msgid "%1 TiB"
+#~ msgstr "%1 TiB"
+
+#, fuzzy
+#~ msgctxt "udisksdevice"
+#~ msgid "%1 GiB"
+#~ msgstr "%1 GiB"
+
+#, fuzzy
+#~ msgctxt "udisksdevice"
+#~ msgid "%1 MiB"
+#~ msgstr "%1 MiB"
+
+#, fuzzy
+#~ msgctxt "udisksdevice"
+#~ msgid "%1 KiB"
+#~ msgstr "%1 KiB"
+
+#, fuzzy
+#~ msgctxt "udisksdevice"
+#~ msgid "%1 B"
+#~ msgstr "%1 B"
+
+#, fuzzy
+#~ msgctxt "udisksdevice"
+#~ msgid "0 B"
+#~ msgstr "0 B"
+
+#, fuzzy
+#~ msgctxt "A pointing device"
+#~ msgid "PointingDevice"
+#~ msgstr "UPnP デバイス"
+
+#, fuzzy
+#~ msgctxt ""
+#~ msgid "Encrypted Container"
+#~ msgstr "暗号化コンテナ"
+
+#~ msgid "Blank DVD-R Dual-Layer"
+#~ msgstr "空の二層 DVD-R"
+
+#~ msgid "DVD-R Dual-Layer"
+#~ msgstr "二層 DVD-R"

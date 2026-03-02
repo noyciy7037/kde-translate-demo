@@ -1,0 +1,1342 @@
+# SPDX-FileCopyrightText: 2022, 2023, 2024 Ryuichi Yamada <ryuichi_ya220@outlook.jp>
+# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2022, 2023.
+# SPDX-FileCopyrightText: 2026 Mint <5602mint@gmail.com>
+msgid ""
+msgstr ""
+"Project-Id-Version: json files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-09-18 15:51+0200\n"
+"PO-Revision-Date: 2026-02-23 16:24+0900\n"
+"Last-Translator: Mint <5602mint@gmail.com>\n"
+"Language-Team: Japanese <kde-i18n-doc@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: \n"
+"X-Text-Markup: \n"
+"X-Generator: Lokalize 25.12.2\n"
+
+#. +> trunk6 stable6
+#: src/kcms/animations/kcm_animations_x11.json
+msgctxt "X-KDE-Keywords"
+msgid ""
+"animations,animation speed,transitions,effects,window open close,window open/"
+"close,window maximize,window minimize,window full screen,peek at "
+"desktop,peek desktop,virtual desktop switching,fade effect,glide "
+"effect,scale effect,stretch effect,magic lamp effect,squash effect,eye on "
+"screen effect,window aperture effect,slide effect,fading popups "
+"effect,sliding popups effect,login effect,logout effect"
+msgstr ""
+"animations,animation speed,transitions,effects,window open close,window open/"
+"close,window maximize,window minimize,window full screen,peek at "
+"desktop,peek desktop,virtual desktop switching,fade effect,glide "
+"effect,scale effect,stretch effect,magic lamp effect,squash effect,eye on "
+"screen effect,window aperture effect,slide effect,fading popups "
+"effect,sliding popups effect,login effect,logout effect, アニメーション,演出,"
+"アニメーション速度,遷移,トランジション,エフェクト,効果,ウィンドウの開閉,ウィ"
+"ンドウを開く,ウィンドウを閉じる,ウィンドウの最大化,ウィンドウの最小化,ウィン"
+"ドウのフルスクリーン,デスクトップを覗く,デスクトップ表示,仮想デスクトップの切"
+"り替え,フェード,グライド,滑空,スケール,拡大縮小,ストレッチ,引き伸ばし,魔法の"
+"ランプ,マジックランプ,スクワッシュ,押しつぶし,画面上の目,ウィンドウアパー"
+"チャ,絞り,スライド,ポップアップのフェード,スライディングポップアップ,ログイン"
+"エフェクト,ログアウトエフェクト"
+
+#. +> trunk6 stable6
+#: src/kcms/animations/kcm_animations_x11.json
+msgctxt "Name"
+msgid "Animations"
+msgstr "アニメーション"
+
+#. +> trunk6 stable6
+#: src/kcms/animations/kcm_animations_x11.json
+msgctxt "Description"
+msgid "Configure animation speed and style"
+msgstr "アニメーションのスピードやスタイルを設定"
+
+#. +> trunk6 stable6
+#: src/kcms/compositing/kwincompositing.json
+msgctxt "X-KDE-Keywords"
+msgid ""
+"kwin,window,manager,compositing,compositor,effect,3D effects,2D "
+"effects,video settings,graphical effects,desktop "
+"effects,graphics,latency,vsync,tearing,window thumbnails"
+msgstr ""
+"kwin,window,manager,compositing,compositor,effect,3D effects,2D "
+"effects,video settings,graphical effects,desktop "
+"effects,graphics,latency,vsync,tearing,window thumbnails, ウィンドウ,マネー"
+"ジャー,管理,コンポジット,コンポジター,合成,エフェクト,効果,演出,3Dエフェク"
+"ト,2Dエフェクト,ビデオ設定,グラフィカルエフェクト,デスクトップエフェクト,グラ"
+"フィックス,画像,描画,レイテンシ,遅延,応答性,V-Sync,垂直同期,テアリング,ティア"
+"リング,画面のズレ,画面のずれ,画面がずれる,ウィンドウサムネイル,プレビュー"
+
+#. +> trunk6 stable6
+#: src/kcms/compositing/kwincompositing.json
+msgctxt "Name"
+msgid "Compositor"
+msgstr "コンポジタ"
+
+#. +> trunk6 stable6
+#: src/kcms/compositing/kwincompositing.json
+msgctxt "Description"
+msgid "Compositor Settings for Desktop Effects"
+msgstr "デスクトップ効果のためのコンポジタ設定"
+
+#. +> trunk6 stable6
+#: src/kcms/decoration/kcm_kwindecoration_x11.json
+msgctxt "X-KDE-Keywords"
+msgid ""
+"kwin,window,manager,border,style,theme,look,feel,layout,button,handle,edge,kwm,decoration,window "
+"decorations,titlebar,window buttons,window border,skin,shadow"
+msgstr ""
+"kwin,window,manager,border,style,theme,look,feel,layout,button,handle,edge,kwm,decoration,window "
+"decorations,titlebar,window buttons,window border,skin,shadow, ウィンドウ,マ"
+"ネージャー,管理,ボーダー,枠線,境界,スタイル,テーマ,ルックアンドフィール,見た"
+"目と操作感,外観,レイアウト,配置,ボタン,ハンドル,エッジ,縁,端,デコレーション,"
+"装飾,ウィンドウの装飾,タイトルバー,ウィンドウボタン,ウィンドウの枠,スキン,外"
+"装,シャドウ,影,ドロップシャドウ"
+
+#. +> trunk6 stable6
+#: src/kcms/decoration/kcm_kwindecoration_x11.json
+msgctxt "Name"
+msgid "Window Decorations"
+msgstr "ウィンドウの装飾"
+
+#. +> trunk6 stable6
+#: src/kcms/decoration/kcm_kwindecoration_x11.json
+msgctxt "Description"
+msgid "Configure window titlebars and borders"
+msgstr "ウィンドウのタイトルバーと枠を設定"
+
+#. +> trunk6 stable6
+#: src/kcms/desktop/kcm_kwin_virtualdesktops_x11.json
+msgctxt "X-KDE-Keywords"
+msgid ""
+"desktop,desktops,number,virtual desktop,multiple desktops,pager,pager "
+"widget,pager applet,pager settings,indicator,navigation,cube,slide,workspaces"
+msgstr ""
+"desktop,desktops,number,virtual desktop,multiple desktops,pager,pager "
+"widget,pager applet,pager "
+"settings,indicator,navigation,cube,slide,workspaces, デスクトップ,複数デスク"
+"トップ,仮想デスクトップ,仮想画面,ワークスペース,作業領域,デスクトップの数,デ"
+"スクトップの追加,仮想デスクトップの管理,ページャー,ページャーウィジェット,"
+"ページャーアプレット,ページャー設定,インジケーター,ナビゲーション,移動,操作,"
+"キューブ,回転立方体,スライド,切り替え"
+
+#. +> trunk6 stable6
+#: src/kcms/desktop/kcm_kwin_virtualdesktops_x11.json
+msgctxt "Name"
+msgid "Virtual Desktops"
+msgstr "仮想デスクトップ"
+
+#. +> trunk6 stable6
+#: src/kcms/desktop/kcm_kwin_virtualdesktops_x11.json
+msgctxt "Description"
+msgid "Configure navigation, number and layout of virtual desktops"
+msgstr "仮想デスクトップの数、レイアウト、仮想デスクトップ間の移動を設定"
+
+#. +> trunk6 stable6
+#: src/kcms/effects/kcm_kwin_effects_x11.json
+msgctxt "X-KDE-Keywords"
+msgid ""
+"kwin,window,manager,effect,3D effects,2D effects,graphical effects,desktop "
+"effects,animations,various animations,window management "
+"effects,animations,desktop animations,rendering,render,snap helper "
+"effect,track mouse effect,blur effect,fall apart effect,highlight window "
+"effect,mouse mark effect,screenshot effect,sheet effect,thumbnail aside "
+"effect,translucency,translucency effect,transparency,window geometry "
+"effect,wobbly windows effect,startup feedback effect,dialog parent "
+"effect,dim inactive effect,dim screen effect,slide back effect,eye "
+"candy,candy,cover switch effect,desktop cube effect,desktop cube animation "
+"effect,desktop grid effect,background contrast "
+"effect,bling,fading,movement,motion,overview windows "
+"effect,accessibility,cursor,pointer,mouse,hide cursor,hide cursor "
+"effect,hide pointer,hide pointer effect,hide mouse,hide mouse effect"
+msgstr ""
+"kwin,window,manager,effect,3D effects,2D effects,graphical effects,desktop "
+"effects,animations,various animations,window management "
+"effects,animations,desktop animations,rendering,render,snap helper "
+"effect,track mouse effect,blur effect,fall apart effect,highlight window "
+"effect,mouse mark effect,screenshot effect,sheet effect,thumbnail aside "
+"effect,translucency,translucency effect,transparency,window geometry "
+"effect,wobbly windows effect,startup feedback effect,dialog parent "
+"effect,dim inactive effect,dim screen effect,slide back effect,eye "
+"candy,candy,cover switch effect,desktop cube effect,desktop cube animation "
+"effect,desktop grid effect,background contrast "
+"effect,bling,fading,movement,motion,overview windows "
+"effect,accessibility,cursor,pointer,mouse,hide cursor,hide cursor "
+"effect,hide pointer,hide pointer effect,hide mouse,hide mouse effect, ウィン"
+"ドウ,マネージャー,管理,エフェクト,効果,演出,3Dエフェクト,2Dエフェクト,3D効"
+"果,2D効果,3D演出,2D演出,グラフィカルエフェクト,デスクトップエフェクト,アニ"
+"メーション,動画,ウィンドウ管理エフェクト,デスクトップアニメーション,レンダリ"
+"ング,描画,スナップヘルパー,マウストラック,ぼかし,ブラー,バラバラ,崩壊,強調,マ"
+"ウスマーク,スクリーンショット,シート,サムネイル表示,半透明,透過,ウィンドウ幾"
+"何学,揺れるウィンドウ,プルプル,ふにゃふにゃ,ぐにゃぐにゃ,ぐらぐら,ふにふに,起"
+"動効果,起動演出,起動時の演出,ダイアログペアレント,非アクティブを暗く,スクリー"
+"ンを暗く,スライドバック,ぬるぬる,ヌルヌル,見た目の美しさ,カバースイッチ,デス"
+"クトップキューブ,回転立方体,デスクトップグリッド,一覧,背景のコントラスト,装"
+"飾,フェーディング,動き,モーション,オーバービュー,概要,アクセシビリティ,補助,"
+"バリアフリー,カーソル,ポインター,マウス,カーソルを隠す,ポインターを隠す,マウ"
+"スを隠す"
+
+#. +> trunk6 stable6
+#: src/kcms/effects/kcm_kwin_effects_x11.json
+msgctxt "Name"
+msgid "Desktop Effects"
+msgstr "デスクトップ効果"
+
+#. +> trunk6 stable6
+#: src/kcms/effects/kcm_kwin_effects_x11.json
+msgctxt "Description"
+msgid "Configure compositor settings for desktop effects"
+msgstr "デスクトップ効果のためのコンポジタ設定"
+
+#. +> trunk6 stable6
+#: src/kcms/options/kcm_kwinoptions_x11.json
+msgctxt "X-KDE-Keywords"
+msgid ""
+"focus,placement,window behavior,window actions,animation,raise,auto "
+"raise,windows,frame,titlebar,doubleclick,desktop,snap,movement,shading,shade,unshade,unshading,activation,activate"
+msgstr ""
+"focus,placement,window behavior,window actions,animation,raise,auto "
+"raise,windows,frame,titlebar,doubleclick,desktop,snap,movement,shading,shade,unshade,unshading,activation,activate, "
+"フォーカス,焦点,配置,ウィンドウの挙動,ウィンドウの振る舞い,ウィンドウアクショ"
+"ン,操作,アニメーション,前面に出す,最前面,自動的に前面に出す,オートレイズ,ウィ"
+"ンドウ,枠,フレーム,タイトルバー,ダブルクリック,デスクトップ,スナップ,吸着,移"
+"動,シェード,折りたたみ,シェード解除,元に戻す,アクティベーション,アクティブ化,有"
+"効化"
+
+#. +> trunk6 stable6
+#: src/kcms/options/kcm_kwinoptions_x11.json
+msgctxt "Name"
+msgid "Window Behavior"
+msgstr "ウィンドウの挙動"
+
+#. +> trunk6 stable6
+#: src/kcms/options/kcm_kwinoptions_x11.json
+msgctxt "Description"
+msgid "Configure window actions and behavior"
+msgstr "ウィンドウのアクションと挙動を設定"
+
+#. +> trunk6 stable6
+#: src/kcms/rules/kcm_kwinrules_x11.json
+msgctxt "X-KDE-Keywords"
+msgid ""
+"size,position,state,window "
+"behavior,windows,specific,workarounds,remember,rules,window "
+"rules,apps,applications"
+msgstr ""
+"size,position,state,window "
+"behavior,windows,specific,workarounds,remember,rules,window "
+"rules,apps,applications, サイズ,大きさ,位置,状態,ウィンドウの動作,ウィンドウ"
+"動作,ウィンドウ,特定の,ワークアラウンド,記憶,保存,ルール,ウィンドウルール,ア"
+"プリ,アプリケーション"
+
+#. +> trunk6 stable6
+#: src/kcms/rules/kcm_kwinrules_x11.json
+msgctxt "Name"
+msgid "Window Rules"
+msgstr "ウィンドウのルール"
+
+#. +> trunk6 stable6
+#: src/kcms/rules/kcm_kwinrules_x11.json
+msgctxt "Description"
+msgid "Individual Window Behavior"
+msgstr "個別のウィンドウの挙動"
+
+#. +> trunk6 stable6
+#: src/kcms/screenedges/kcm_kwinscreenedges_x11.json
+msgctxt "X-KDE-Keywords"
+msgid ""
+"kwin,window,manager,effect,corner,edge,border,action,switch,desktop,kwin "
+"screen edges,desktop edges,screen edges,maximize windows,tile windows,side "
+"of screen,screen behavior,switch desktop,virtual desktop,screen "
+"corners,borders,screen borders,desktop borders,desktop "
+"corners,corners,sticky corners,sticky edges,edge barriers,corner barriers"
+msgstr ""
+"kwin,window,manager,effect,corner,edge,border,action,switch,desktop,kwin "
+"screen edges,desktop edges,screen edges,maximize windows,tile windows,side "
+"of screen,screen behavior,switch desktop,virtual desktop,screen "
+"corners,borders,screen borders,desktop borders,desktop "
+"corners,corners,sticky corners,sticky edges,edge barriers,corner barriers,"
+"ウィンドウ,マネージャー,管理,エフェクト,効果,演出,隅,コーナー,角,エッジ,端,境"
+"界,縁,アクション,操作,切り替え,デスクトップ,スクリーンエッジ,画面の端,画面の"
+"縁,ウィンドウの最大化,タイル表示,並べる,画面の脇,画面の挙動,デスクトップの切"
+"り替え,仮想デスクトップ,画面の四隅,ボーダー,枠線,吸い付き,吸い付く,粘着コー"
+"ナー,粘着エッジ,エッジバリア,バリア,コーナーバリア,エッジバリア"
+
+#. +> trunk6 stable6
+#: src/kcms/screenedges/kcm_kwinscreenedges_x11.json
+msgctxt "Name"
+msgid "Screen Edges"
+msgstr "スクリーンエッジ"
+
+#. +> trunk6 stable6
+#: src/kcms/screenedges/kcm_kwinscreenedges_x11.json
+msgctxt "Description"
+msgid "Configure active screen corners and edges"
+msgstr "スクリーンエッジ機能を設定"
+
+#. +> trunk6 stable6
+#: src/kcms/screenedges/kcm_kwintouchscreen_x11.json
+msgctxt "X-KDE-Keywords"
+msgid ""
+"kwin,window,manager,effect,edge,border,action,switch,desktop,desktop "
+"edges,screen edges,side of screen,screen behavior,touch screen"
+msgstr ""
+"kwin,window,manager,effect,edge,border,action,switch,desktop,desktop "
+"edges,screen edges,side of screen,screen behavior,touch screen,ウィンドウ,マ"
+"ネージャー,管理,効果,演出,エッジ,角,端,隅,ボーダー,境界,アクション,スイッチ,"
+"切り替え,デスクトップ,デスクトップの角,デスクトップの隅,デスクトップの端,画面"
+"の角,画面の隅,画面の端,画面の動作,タッチスクリーン"
+
+#. +> trunk6 stable6
+#: src/kcms/screenedges/kcm_kwintouchscreen_x11.json
+msgctxt "Name"
+msgid "Touchscreen Gestures"
+msgstr "タッチスクリーンジェスチャー"
+
+#. +> trunk6 stable6
+#: src/kcms/screenedges/kcm_kwintouchscreen_x11.json
+msgctxt "Description"
+msgid "Configure touch screen swipe gestures"
+msgstr "スワイプジェスチャー機能を設定"
+
+#. +> trunk6 stable6
+#: src/kcms/scripts/kcm_kwin_scripts_x11.json
+msgctxt "X-KDE-Keywords"
+msgid "kwin script,plugins,window manager"
+msgstr ""
+"kwin script,plugins,window manager,kwinスクリプト,プラグイン,ウィンドウ管理,"
+"ウィンドウマネージャー"
+
+#. +> trunk6 stable6
+#: src/kcms/scripts/kcm_kwin_scripts_x11.json
+msgctxt "Name"
+msgid "KWin Scripts"
+msgstr "KWin スクリプト"
+
+#. +> trunk6 stable6
+#: src/kcms/scripts/kcm_kwin_scripts_x11.json
+msgctxt "Description"
+msgid "Manage KWin scripts"
+msgstr "Kwin スクリプトを管理"
+
+#. +> trunk6 stable6
+#: src/kcms/tabbox/kcm_kwintabbox_x11.json
+msgctxt "X-KDE-Keywords"
+msgid ""
+"window,windows,switcher,window switcher,switching,window "
+"switching,alttab,alt-tab,alt+tab,alt tab,apps changer,application "
+"changer,app,task,switch,task switcher"
+msgstr ""
+"window,windows,switcher,window switcher,switching,window "
+"switching,alttab,alt-tab,alt+tab,alt tab,apps changer,application "
+"changer,app,task,switch,task switcher,ウィンドウ,スイッチャー,ウィンドウス"
+"イッチャー,切り替え,ウィンドウの切り替え,アプリケーションスイッチャー,アプリ"
+"の切り替え,タスク,タスクスイッチャー,タスクの切り替え"
+
+#. +> trunk6 stable6
+#: src/kcms/tabbox/kcm_kwintabbox_x11.json
+msgctxt "Name"
+msgid "Task Switcher"
+msgstr "タスクスイッチャー"
+
+#. +> trunk6 stable6
+#: src/kcms/tabbox/kcm_kwintabbox_x11.json
+msgctxt "Description"
+msgid "Navigation Through Windows"
+msgstr "ウィンドウ間を移動"
+
+#. +> trunk6 stable6
+#: src/plugins/backgroundcontrast/metadata.json
+msgctxt "Name"
+msgid "Background Contrast"
+msgstr "背景のコントラスト"
+
+#. +> trunk6 stable6
+#: src/plugins/backgroundcontrast/metadata.json
+msgctxt "Description"
+msgid "Improve contrast and readability behind semi-transparent windows"
+msgstr "半透明なウィンドウの背景のコントラストと可読性を改善します"
+
+#. +> trunk6 stable6
+#: src/plugins/blendchanges/metadata.json
+msgctxt "Name"
+msgid "Blend Changes"
+msgstr "変更を溶け込ませる"
+
+#. +> trunk6 stable6
+#: src/plugins/blendchanges/metadata.json
+msgctxt "Description"
+msgid "Animates system style changes"
+msgstr "システムのスタイルの変更をアニメートします"
+
+#. +> trunk6 stable6
+#: src/plugins/blur/metadata.json
+msgctxt "Name"
+msgid "Blur"
+msgstr "ぼかし"
+
+#. +> trunk6 stable6
+#: src/plugins/blur/metadata.json
+msgctxt "Description"
+msgid "Blurs the background behind semi-transparent windows"
+msgstr "半透明なウィンドウの背景をぼかします"
+
+#. +> trunk6 stable6
+#: src/plugins/colorblindnesscorrection/metadata.json
+msgctxt "Name"
+msgid "Colorblindness Correction"
+msgstr "色覚異常補正"
+
+#. +> trunk6 stable6
+#: src/plugins/colorblindnesscorrection/metadata.json
+msgctxt "Description"
+msgid "Enhances color perception for color blindness"
+msgstr "色彩を補正して色覚異常を持つユーザの使用体験を改善します"
+
+#. +> trunk6 stable6
+#: src/plugins/colorpicker/metadata.json
+msgctxt "Name"
+msgid "Color Picker"
+msgstr "カラーピッカー"
+
+#. +> trunk6 stable6
+#: src/plugins/colorpicker/metadata.json
+msgctxt "Description"
+msgid "Supports picking a color"
+msgstr "カラーピッカーをサポートします"
+
+#. +> trunk6 stable6
+#: src/plugins/desktopchangeosd/package/metadata.json
+msgctxt "Name"
+msgid "Desktop Change OSD"
+msgstr "デスクトップの変更 OSD"
+
+#. +> trunk6 stable6
+#: src/plugins/desktopchangeosd/package/metadata.json
+msgctxt "Description"
+msgid "An on screen display indicating the desktop change"
+msgstr "デスクトップの変更をオンスクリーンディスプレイで通知します"
+
+#. +> trunk6 stable6
+#: src/plugins/desktopchangeosd/package/metadata.json
+#: src/plugins/fullscreen/package/metadata.json
+#: src/plugins/maximize/package/metadata.json
+#: src/plugins/synchronizeskipswitcher/package/metadata.json
+#: src/plugins/videowall/package/metadata.json
+msgctxt "Authors Name"
+msgid "Martin Gräßlin"
+msgstr "Martin Gräßlin"
+
+#. +> trunk6 stable6
+#: src/plugins/dialogparent/package/metadata.json
+msgctxt "Name"
+msgid "Dialog Parent"
+msgstr "ダイアログの親"
+
+#. +> trunk6 stable6
+#: src/plugins/dialogparent/package/metadata.json
+msgctxt "Description"
+msgid "Darkens the parent window of the currently active dialog"
+msgstr "アクティブなダイアログの親ウィンドウを暗くします"
+
+#. +> trunk6 stable6
+#: src/plugins/dialogparent/package/metadata.json
+msgctxt "Authors Name"
+msgid "Rivo Laks, Martin Gräßlin"
+msgstr "Rivo Laks, Martin Gräßlin"
+
+#. +> trunk6 stable6
+#: src/plugins/diminactive/metadata.json
+msgctxt "Name"
+msgid "Dim Inactive"
+msgstr "非アクティブなウィンドウを暗くする"
+
+#. +> trunk6 stable6
+#: src/plugins/diminactive/metadata.json
+msgctxt "Description"
+msgid "Darken inactive windows"
+msgstr "非アクティブなウィンドウを暗くします"
+
+#. +> trunk6 stable6
+#: src/plugins/dimscreen/package/metadata.json
+msgctxt "Name"
+msgid "Dim Screen for Administrator Mode"
+msgstr "管理者モードでスクリーンを暗くする"
+
+#. +> trunk6 stable6
+#: src/plugins/dimscreen/package/metadata.json
+msgctxt "Description"
+msgid "Darkens the entire screen when requesting root privileges"
+msgstr "root 権限が要求されるとスクリーン全体を暗くします"
+
+#. +> trunk6 stable6
+#: src/plugins/dimscreen/package/metadata.json
+msgctxt "Authors Name"
+msgid "Martin Flöser, Vlad Zahorodnii"
+msgstr "Martin Flöser, Vlad Zahorodnii"
+
+#. +> trunk6 stable6
+#: src/plugins/eyeonscreen/package/metadata.json
+msgctxt "Name"
+msgid "Eye on Screen"
+msgstr "スクリーンの目"
+
+#. +> trunk6 stable6
+#: src/plugins/eyeonscreen/package/metadata.json
+msgctxt "Description"
+msgid "Suck windows into the desktop"
+msgstr "ウィンドウをデスクトップに吸い込みます"
+
+#. +> trunk6 stable6
+#: src/plugins/eyeonscreen/package/metadata.json
+#: src/plugins/minimizeall/package/metadata.json
+#: src/plugins/windowaperture/package/metadata.json
+msgctxt "Authors Name"
+msgid "Thomas Lübking"
+msgstr "Thomas Lübking"
+
+#. +> trunk6 stable6
+#: src/plugins/fade/package/metadata.json
+#: src/plugins/fadedesktop/package/metadata.json
+msgctxt "Name"
+msgid "Fade"
+msgstr "フェード"
+
+#. +> trunk6 stable6
+#: src/plugins/fade/package/metadata.json
+msgctxt "Description"
+msgid "Make windows fade in and out when they are shown or hidden"
+msgstr "ウィンドウが表示/非表示時にフェードします"
+
+#. +> trunk6 stable6
+#: src/plugins/fade/package/metadata.json
+msgctxt "Authors Name"
+msgid "Philip Falkner, Martin Gräßlin"
+msgstr "Philip Falkner, Martin Gräßlin"
+
+#. +> trunk6 stable6
+#: src/plugins/fadedesktop/package/metadata.json
+msgctxt "Description"
+msgid "Fade between virtual desktops when switching"
+msgstr "仮想デスクトップ切り替え時にフェードします"
+
+#. +> trunk6 stable6
+#: src/plugins/fadedesktop/package/metadata.json
+msgctxt "Authors Name"
+msgid "Lucas Murray, Martin Gräßlin"
+msgstr "Lucas Murray, Martin Gräßlin"
+
+#. +> trunk6 stable6
+#: src/plugins/fadingpopups/package/metadata.json
+msgctxt "Name"
+msgid "Fading popups"
+msgstr "フェードするポップアップ"
+
+#. +> trunk6 stable6
+#: src/plugins/fadingpopups/package/metadata.json
+msgctxt "Description"
+msgid "Fade popups in and out"
+msgstr "ポップアップをフェードする"
+
+#. +> trunk6 stable6
+#: src/plugins/fadingpopups/package/metadata.json
+#: src/plugins/scale/package/metadata.json
+msgctxt "Authors Name"
+msgid "Vlad Zahorodnii"
+msgstr "Vlad Zahorodnii"
+
+#. +> trunk6 stable6
+#: src/plugins/fallapart/metadata.json
+msgctxt "Name"
+msgid "Fall Apart"
+msgstr "バラバラにする"
+
+#. +> trunk6 stable6
+#: src/plugins/fallapart/metadata.json
+msgctxt "Description"
+msgid "Closed windows fall into pieces"
+msgstr "閉じられたウィンドウがバラバラに砕け散ります"
+
+#. +> trunk6 stable6
+#: src/plugins/frozenapp/package/metadata.json
+msgctxt "Name"
+msgid "Desaturate Unresponsive Applications"
+msgstr "応答しないアプリケーションの彩度を下げる"
+
+#. +> trunk6 stable6
+#: src/plugins/frozenapp/package/metadata.json
+msgctxt "Description"
+msgid "Desaturate windows of unresponsive (frozen) applications"
+msgstr "応答しない (フリーズした) アプリケーションのウィンドウの彩度を下げます"
+
+#. +> trunk6 stable6
+#: src/plugins/frozenapp/package/metadata.json
+msgctxt "Authors Name"
+msgid "Kai Uwe Broulik"
+msgstr "Kai Uwe Broulik"
+
+#. +> trunk6 stable6
+#: src/plugins/fullscreen/package/metadata.json
+#: src/plugins/maximize/package/metadata.json
+msgctxt "Name"
+msgid "Stretch"
+msgstr "ストレッチ"
+
+#. +> trunk6 stable6
+#: src/plugins/fullscreen/package/metadata.json
+msgctxt "Description"
+msgid "Stretch windows going to and leaving full screen mode"
+msgstr "フルスクリーンモード開始時/終了時にウィンドウをストレッチします"
+
+#. +> trunk6 stable6
+#: src/plugins/glide/metadata.json
+msgctxt "Name"
+msgid "Glide"
+msgstr "グライド"
+
+#. +> trunk6 stable6
+#: src/plugins/glide/metadata.json
+msgctxt "Description"
+msgid "Glide windows as they appear or disappear"
+msgstr "出現/消失するウィンドウがグライドします"
+
+#. +> trunk6 stable6
+#: src/plugins/highlightwindow/metadata.json
+msgctxt "Name"
+msgid "Highlight Window"
+msgstr "ウィンドウを強調表示"
+
+#. +> trunk6 stable6
+#: src/plugins/highlightwindow/metadata.json
+msgctxt "Description"
+msgid "Highlight the appropriate window when hovering over taskbar entries"
+msgstr "タスクバーのエントリがホバーされたときウィンドウを強調表示します"
+
+#. +> trunk6 stable6
+#: src/plugins/invert/metadata.json
+msgctxt "Name"
+msgid "Invert"
+msgstr "反転"
+
+#. +> trunk6 stable6
+#: src/plugins/invert/metadata.json
+#, fuzzy
+#| msgctxt "Description"
+#| msgid "Inverts the color of the desktop and windows"
+msgctxt "Description"
+msgid ""
+"Inverts the color of the desktop and windows; activated with a keyboard "
+"shortcut"
+msgstr "デスクトップとウィンドウの色を反転します"
+
+#. +> trunk6 stable6
+#: src/plugins/kscreen/metadata.json
+msgctxt "Name"
+msgid "Kscreen"
+msgstr "Kscreen"
+
+#. +> trunk6 stable6
+#: src/plugins/kscreen/metadata.json
+msgctxt "Description"
+msgid "Helper Effect for KScreen"
+msgstr "KScreen のためのヘルパー効果"
+
+#. +> trunk6 stable6
+#: src/plugins/login/package/metadata.json
+msgctxt "Name"
+msgid "Login"
+msgstr "ログイン"
+
+#. +> trunk6 stable6
+#: src/plugins/login/package/metadata.json
+msgctxt "Description"
+msgid "Fade to the desktop when logging in"
+msgstr "ログイン時にデスクトップをフェード"
+
+#. +> trunk6 stable6
+#: src/plugins/login/package/metadata.json
+msgctxt "Authors Name"
+msgid "Lubos Lunak, Kai Uwe Broulik, Martin Gräßlin"
+msgstr "Lubos Lunak, Kai Uwe Broulik, Martin Gräßlin"
+
+#. +> trunk6 stable6
+#: src/plugins/logout/package/metadata.json
+msgctxt "Name"
+msgid "Logout"
+msgstr "ログアウト"
+
+#. +> trunk6 stable6
+#: src/plugins/logout/package/metadata.json
+msgctxt "Description"
+msgid "Fade to the logout screen"
+msgstr "ログアウト画面にフェード"
+
+#. +> trunk6 stable6
+#: src/plugins/logout/package/metadata.json
+msgctxt "Authors Name"
+msgid "Lubos Lunak, Kai Uwe Broulik, Martin Gräßlin, Marco Martin"
+msgstr "Lubos Lunak, Kai Uwe Broulik, Martin Gräßlin, Marco Martin"
+
+#. +> trunk6 stable6
+#: src/plugins/magiclamp/metadata.json
+msgctxt "Name"
+msgid "Magic Lamp"
+msgstr "魔法のランプ"
+
+#. +> trunk6 stable6
+#: src/plugins/magiclamp/metadata.json
+msgctxt "Description"
+msgid "Simulate a magic lamp when minimizing windows"
+msgstr "ウィンドウがランプの魔人のように最小化します"
+
+#. +> trunk6 stable6
+#: src/plugins/magnifier/metadata.json
+msgctxt "Name"
+msgid "Magnifier"
+msgstr "拡大鏡"
+
+#. +> trunk6 stable6
+#: src/plugins/magnifier/metadata.json
+#, fuzzy
+#| msgctxt "Description"
+#| msgid "Magnify the section of the screen that is near the mouse cursor"
+msgctxt "Description"
+msgid ""
+"Magnify the section of the screen that is near the mouse cursor; activated "
+"with a keyboard shortcut"
+msgstr "スクリーンのマウスカーソル近くのセクションを拡大します"
+
+#. +> trunk6 stable6
+#: src/plugins/maximize/package/metadata.json
+msgctxt "Description"
+msgid "Stretch windows when they are maximized or restored"
+msgstr "最大化/最小化時にウィンドウをストレッチします"
+
+#. +> trunk6 stable6
+#: src/plugins/minimizeall/package/metadata.json
+msgctxt "Name"
+msgid "MinimizeAll"
+msgstr "すべて最小化"
+
+#. +> trunk6 stable6
+#: src/plugins/minimizeall/package/metadata.json
+msgctxt "Description"
+msgid "Adds a shortcut to minimize and restore all windows"
+msgstr "すべてのウィンドウを最小化/復元するショートカットを追加します"
+
+#. +> trunk6 stable6
+#: src/plugins/mouseclick/metadata.json
+msgctxt "Name"
+msgid "Mouse Click Animation"
+msgstr "マウスクリックのアニメーション"
+
+#. +> trunk6 stable6
+#: src/plugins/mouseclick/metadata.json
+msgctxt "Description"
+msgid ""
+"Creates an animation whenever a mouse button is clicked. This is useful for "
+"screenrecordings/presentations. Activated with a keyboard shortcut"
+msgstr ""
+"マウスボタンがクリックされたときアニメーションを表示します。画面録画やプレゼ"
+"ンテーションの際に便利な機能です。ショートカットで起動します"
+
+#. +> trunk6 stable6
+#: src/plugins/mousemark/metadata.json
+msgctxt "Name"
+msgid "Mouse Mark"
+msgstr "マウスマーク"
+
+#. +> trunk6 stable6
+#: src/plugins/mousemark/metadata.json
+msgctxt "Description"
+msgid ""
+"Allows you to draw lines on the desktop; activated with a keyboard shortcut"
+msgstr "デスクトップに線を描くことができます。ショートカットで起動します"
+
+#. +> trunk6 stable6
+#: src/plugins/outputlocator/metadata.json
+msgctxt "Name"
+msgid "Output Locator"
+msgstr "出力ロケータ"
+
+#. +> trunk6 stable6
+#: src/plugins/outputlocator/metadata.json
+msgctxt "Description"
+msgid "Show screen names"
+msgstr "スクリーンの名前を表示します"
+
+#. +> trunk6 stable6
+#: src/plugins/outputlocator/metadata.json
+msgctxt "Authors Name"
+msgid "David Redondo"
+msgstr "David Redondo"
+
+#. +> trunk6 stable6
+#: src/plugins/overview/metadata.json
+msgctxt "Name"
+msgid "Overview"
+msgstr "オーバービュー"
+
+#. +> trunk6 stable6
+#: src/plugins/overview/metadata.json
+msgctxt "Description"
+msgid ""
+"Allows you to overview virtual desktops and windows; activated with a "
+"keyboard shortcut"
+msgstr ""
+"仮想デスクトップとウィンドウを一覧表示します。ショートカットで起動します"
+
+#. +> trunk6 stable6
+#: src/plugins/scale/package/metadata.json
+msgctxt "Name"
+msgid "Scale"
+msgstr "スケール"
+
+#. +> trunk6 stable6
+#: src/plugins/scale/package/metadata.json
+msgctxt "Description"
+msgid "Make windows scale in and out when they are shown or hidden"
+msgstr "ウィンドウが表示/非表示時に拡大/縮小します"
+
+#. +> trunk6 stable6
+#: src/plugins/screenedge/metadata.json
+msgctxt "Name"
+msgid "Highlight Screen Edges and Hot Corners"
+msgstr "画面の端とホットコーナーを強調表示する"
+
+#. +> trunk6 stable6
+#: src/plugins/screenedge/metadata.json
+msgctxt "Description"
+msgid ""
+"Highlights screen edges and corners that trigger actions when touched as the "
+"cursor approaches them"
+msgstr ""
+"画面の端や角にカーソルが近づくと、タッチしたときに発動するアクションをハイラ"
+"イトする"
+
+#. +> trunk6 stable6
+#: src/plugins/screenshot/metadata.json
+msgctxt "Name"
+msgid "Screenshot"
+msgstr "スクリーンショット"
+
+#. +> trunk6 stable6
+#: src/plugins/screenshot/metadata.json
+msgctxt "Description"
+msgid "Helper effect for screenshot tools"
+msgstr "スクリーンショットツールのためのヘルパー効果"
+
+#. +> trunk6 stable6
+#: src/plugins/sessionquit/package/metadata.json
+msgctxt "Name"
+msgid "Session Quit"
+msgstr "セッション退出"
+
+#. +> trunk6 stable6
+#: src/plugins/sessionquit/package/metadata.json
+msgctxt "Description"
+msgid "Keep the desktop background alive during logout until the end"
+msgstr "ログアウト時最後までデスクトップの背景を表示し続けます"
+
+#. +> trunk6 stable6
+#: src/plugins/sessionquit/package/metadata.json
+msgctxt "Authors Name"
+msgid "David Edmundson"
+msgstr "David Edmundson"
+
+#. +> trunk6 stable6
+#: src/plugins/sheet/metadata.json
+msgctxt "Name"
+msgid "Sheet"
+msgstr "シート"
+
+#. +> trunk6 stable6
+#: src/plugins/sheet/metadata.json
+msgctxt "Description"
+msgid ""
+"Make modal dialogs smoothly fly in and out when they are shown or hidden"
+msgstr "ダイアログが表示/非表示時に飛んで行ったり飛んで来たりします"
+
+#. +> trunk6 stable6
+#: src/plugins/showfps/metadata.json
+msgctxt "Name"
+msgid "Show FPS"
+msgstr "FPS を表示"
+
+#. +> trunk6 stable6
+#: src/plugins/showfps/metadata.json
+msgctxt "Description"
+msgid "Display KWin's performance in the corner of the screen"
+msgstr "KWin のパフォーマンスをスクリーンの角に表示します"
+
+#. +> trunk6 stable6
+#: src/plugins/showpaint/metadata.json
+msgctxt "Name"
+msgid "Show Paint"
+msgstr "描画を表示"
+
+#. +> trunk6 stable6
+#: src/plugins/showpaint/metadata.json
+#, fuzzy
+#| msgctxt "Description"
+#| msgid "Highlight areas of the desktop that have been recently updated"
+msgctxt "Description"
+msgid ""
+"Highlight areas of the desktop that have been recently updated; activated "
+"with a keyboard shortcut"
+msgstr "更新されたデスクトップの領域を強調表示します"
+
+#. +> trunk6 stable6
+#: src/plugins/slide/metadata.json
+msgctxt "Name"
+msgid "Slide"
+msgstr "スライド"
+
+#. +> trunk6 stable6
+#: src/plugins/slide/metadata.json
+msgctxt "Description"
+msgid "Slide between virtual desktops when switching"
+msgstr "仮想デスクトップ切り替え時にスライドします"
+
+#. +> trunk6 stable6
+#: src/plugins/slideback/metadata.json
+msgctxt "Name"
+msgid "Slide Back"
+msgstr "後ろにスライド"
+
+#. +> trunk6 stable6
+#: src/plugins/slideback/metadata.json
+msgctxt "Description"
+msgid "Slide back windows when another window is raised"
+msgstr "ウィンドウが前面に移動されたとき他のウィンドウを背面へスライドします"
+
+#. +> trunk6 stable6
+#: src/plugins/slidingpopups/metadata.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Sliding Popups"
+msgctxt "Name"
+msgid "Sliding popups"
+msgstr "スライドするポップアップ"
+
+#. +> trunk6 stable6
+#: src/plugins/slidingpopups/metadata.json
+msgctxt "Description"
+msgid "Slide Plasma popups in and out"
+msgstr "Plasma のポップアップをスライド"
+
+#. +> trunk6 stable6
+#: src/plugins/squash/package/metadata.json
+msgctxt "Name"
+msgid "Squash"
+msgstr "縮小"
+
+#. +> trunk6 stable6
+#: src/plugins/squash/package/metadata.json
+msgctxt "Description"
+msgid "Squash windows when they are minimized"
+msgstr "最小化されたときウィンドウが縮小します"
+
+#. +> trunk6 stable6
+#: src/plugins/squash/package/metadata.json
+msgctxt "Authors Name"
+msgid "Rivo Laks, Vlad Zahorodnii"
+msgstr "Rivo Laks, Vlad Zahorodnii"
+
+#. +> trunk6 stable6
+#: src/plugins/startupfeedback/metadata.json
+msgctxt "Name"
+msgid "Startup Feedback"
+msgstr "起動フィードバック"
+
+#. +> trunk6 stable6
+#: src/plugins/startupfeedback/metadata.json
+msgctxt "Description"
+msgid "Helper effect for startup feedback"
+msgstr "起動フィードバックのためのヘルパー効果"
+
+#. +> trunk6 stable6
+#: src/plugins/synchronizeskipswitcher/package/metadata.json
+msgctxt "Name"
+msgid "Synchronize Skip Switcher with Taskbar"
+msgstr "スイッチャーもスキップ"
+
+#. +> trunk6 stable6
+#: src/plugins/synchronizeskipswitcher/package/metadata.json
+msgctxt "Description"
+msgid ""
+"Hides all windows marked as Skip Taskbar to be also excluded from window "
+"switchers (e.g. Alt+Tab)"
+msgstr ""
+"「タスクバーをスキップ」が設定されたすべてのウィンドウをウィンドウスイッ"
+"チャー (例: Alt+Tab) からも除外します"
+
+#. +> trunk6 stable6
+#: src/plugins/systembell/metadata.json
+msgctxt "Name"
+msgid "System Bell"
+msgstr "システムベル"
+
+#. +> trunk6 stable6
+#: src/plugins/systembell/metadata.json
+msgctxt "Description"
+msgid "Provides the bell"
+msgstr "ベルを鳴らす"
+
+#. +> trunk6 stable6
+#: src/plugins/thumbnailaside/metadata.json
+msgctxt "Name"
+msgid "Thumbnail Aside"
+msgstr "サムネイルをわきに"
+
+#. +> trunk6 stable6
+#: src/plugins/thumbnailaside/metadata.json
+msgctxt "Description"
+msgid ""
+"Display window thumbnails on the edge of the screen; activated with a "
+"keyboard shortcut"
+msgstr ""
+"スクリーンの角にウィンドウのサムネイルを表示します。ショートカットで起動しま"
+"す"
+
+#. +> trunk6 stable6
+#: src/plugins/tileseditor/metadata.json
+msgctxt "Name"
+msgid "Tiling Editor"
+msgstr "タイリング設定"
+
+#. +> trunk6 stable6
+#: src/plugins/tileseditor/metadata.json
+msgctxt "Description"
+msgid "Editor for the tiling areas"
+msgstr "タイリング機能を設定するためのエディタ"
+
+#. +> trunk6 stable6
+#: src/plugins/trackmouse/metadata.json
+msgctxt "Name"
+msgid "Track Mouse"
+msgstr "マウスを追跡"
+
+#. +> trunk6 stable6
+#: src/plugins/trackmouse/metadata.json
+msgctxt "Description"
+msgid ""
+"Display a mouse cursor locating effect; activated with a keyboard shortcut"
+msgstr ""
+"マウスカーソルの場所を示すエフェクトを表示します。ショートカットで起動します"
+
+#. +> trunk6 stable6
+#: src/plugins/translucency/package/metadata.json
+msgctxt "Name"
+msgid "Translucency"
+msgstr "半透明性"
+
+#. +> trunk6 stable6
+#: src/plugins/translucency/package/metadata.json
+msgctxt "Description"
+msgid "Make windows translucent under different conditions"
+msgstr "さまざまな状況でウィンドウを半透明にします"
+
+#. +> trunk6 stable6
+#: src/plugins/translucency/package/metadata.json
+msgctxt "Authors Name"
+msgid "Luboš Luňák, Martin Gräßlin"
+msgstr "Luboš Luňák, Martin Gräßlin"
+
+#. +> trunk6 stable6
+#: src/plugins/videowall/package/metadata.json
+msgctxt "Name"
+msgid "Video Wall"
+msgstr "ビデオウォール"
+
+#. +> trunk6 stable6
+#: src/plugins/videowall/package/metadata.json
+msgctxt "Description"
+msgid ""
+"Spans fullscreen video player over all attached screens to create a Video "
+"Wall"
+msgstr ""
+"フルスクリーンの動画プレーヤーを接続されたすべてのスクリーンに広げて一つの画"
+"面を作ります"
+
+#. +> trunk6 stable6
+#: src/plugins/windowaperture/package/metadata.json
+msgctxt "Name"
+msgid "Window Aperture"
+msgstr "ウィンドウアパーチャー"
+
+#. +> trunk6 stable6
+#: src/plugins/windowaperture/package/metadata.json
+msgctxt "Description"
+msgid "Move windows into screen corners"
+msgstr "ウィンドウを画面の角に移動します"
+
+#. +> trunk6 stable6
+#: src/plugins/windowview/metadata.json
+msgctxt "Name"
+msgid "Present Windows"
+msgstr "ウィンドウを表示"
+
+#. +> trunk6 stable6
+#: src/plugins/windowview/metadata.json
+msgctxt "Description"
+msgid "Zoom out until all opened windows can be displayed side-by-side"
+msgstr "ズームアウトしてすべての開かれたウィンドウを並べて表示します"
+
+#. +> trunk6 stable6
+#: src/plugins/wobblywindows/metadata.json
+msgctxt "Name"
+msgid "Wobbly Windows"
+msgstr "ふにゃふにゃウィンドウ"
+
+#. +> trunk6 stable6
+#: src/plugins/wobblywindows/metadata.json
+msgctxt "Description"
+msgid "Deform windows while they are moving"
+msgstr "ウィンドウを移動時にふにゃふにゃにします"
+
+#. +> trunk6 stable6
+#: src/plugins/zoom/metadata.json
+msgctxt "Name"
+msgid "Zoom"
+msgstr "ズーム"
+
+#. +> trunk6 stable6
+#: src/plugins/zoom/metadata.json
+msgctxt "Description"
+msgid "Magnify the entire desktop; activated with a keyboard shortcut"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/tabbox/switchers/thumbnail_grid/metadata.json
+msgctxt "Name"
+msgid "Thumbnail Grid"
+msgstr "サムネイルグリッド"
+
+#. +> trunk6 stable6
+#: src/tabbox/switchers/thumbnail_grid/metadata.json
+msgctxt "Description"
+msgid "A window switcher layout using a small grid of thumbnails"
+msgstr "サムネイルの小さいグリッドを使用するウィンドウスイッチャー"
+
+#. +> trunk6 stable6
+#: src/tabbox/switchers/thumbnail_grid/metadata.json
+msgctxt "Authors Name"
+msgid "Chris Holland"
+msgstr "Chris Holland"
+
+#~ msgctxt "Name"
+#~ msgid "Fade Desktop"
+#~ msgstr "デスクトップをフェード"
+
+#~ msgctxt "Description"
+#~ msgid "Make popups smoothly fade in and out when they are shown or hidden"
+#~ msgstr "ポップアップが表示/非表示時にフェードします"
+
+#~ msgctxt "Name"
+#~ msgid "Full Screen"
+#~ msgstr "フルスクリーン"
+
+#~ msgctxt "Name"
+#~ msgid "Maximize"
+#~ msgstr "最大化"
+
+#~ msgctxt "Description"
+#~ msgid "Animation for a window going to maximize/restore from maximize"
+#~ msgstr "最大化/復元時のウィンドウアニメーション"
+
+#~ msgctxt "Description"
+#~ msgid "Slide desktops when switching virtual desktops"
+#~ msgstr "仮想デスクトップを切り替えるときデスクトップをスライドします"
+
+#~ msgctxt "Description"
+#~ msgid "Sliding animation for Plasma popups"
+#~ msgstr "Plasma ポップアップのスライドアニメーション"
+
+#~ msgctxt "Name"
+#~ msgid "Snap Helper"
+#~ msgstr "スナップヘルパー"
+
+#~ msgctxt "Description"
+#~ msgid "Help you locate the center of the screen when moving a window"
+#~ msgstr "ウィンドウを移動するときスクリーンの中心を見つけやすくします"
+
+#~ msgctxt "Name"
+#~ msgid "Virtual Keyboard"
+#~ msgstr "仮想キーボード"
+
+#~ msgctxt "Description"
+#~ msgid "Select which virtual keyboard to use"
+#~ msgstr "使用する仮想キーボードを選択"
+
+#~ msgctxt "Name"
+#~ msgid "Legacy X11 App Support"
+#~ msgstr "レガシー X11 アプリケーションのサポート"
+
+#~ msgctxt "Description"
+#~ msgid "Select which keys will be globally available to legacy X11 apps"
+#~ msgstr "レガシーな X11 アプリケーションがグローバルに利用できるキーを選択"
+
+#~ msgctxt "Name"
+#~ msgid "Hide Cursor"
+#~ msgstr "カーソルを隠す"
+
+#~ msgctxt "Description"
+#~ msgid "Hide mouse cursor on inactivity or keyboard input"
+#~ msgstr "非アクティブまたはキーボード入力時にマウスカーソルを非表示にする"
+
+#~ msgctxt "Name"
+#~ msgid "Transform"
+#~ msgstr "変形"
+
+#~ msgctxt "Description"
+#~ msgid "Animates display transformations"
+#~ msgstr "ディスプレイの変形をアニメートします"
+
+#~ msgctxt "Name"
+#~ msgid "Shake Cursor"
+#~ msgstr "カーソルを前後に動かす"
+
+#~ msgctxt "Description"
+#~ msgid ""
+#~ "Makes the cursor larger when the pointer is quickly moved back and forth"
+#~ msgstr "ポインタが素早く動かされたときにカーソルを拡大します"
+
+#~ msgctxt "Name"
+#~ msgid "Show Compositing"
+#~ msgstr "コンポジタを表示"
+
+#~ msgctxt "Description"
+#~ msgid "Display if compositing is active"
+#~ msgstr "コンポジタがアクティブかどうかを表示"
+
+#~ msgctxt "Name"
+#~ msgid "Touch Points"
+#~ msgstr "タッチポイント"
+
+#~ msgctxt "Description"
+#~ msgid "Visualize touch points"
+#~ msgstr "タッチしたポイントを視覚化します"
+
+#~ msgctxt "Name"
+#~ msgid "Aurorae"
+#~ msgstr "Aurorae"
+
+#~ msgctxt "Description"
+#~ msgid "Window Decoration Theme Engine"
+#~ msgstr "ウィンドウ装飾テーマエンジン"
+
+#~ msgctxt "Name"
+#~ msgid "Plastik"
+#~ msgstr "Plastik"
+
+#~ msgctxt "Description"
+#~ msgid "The classic theme known from KDE 3"
+#~ msgstr "KDE 3 からのクラシックテーマ"
+
+#~ msgctxt "Name"
+#~ msgid "x11"
+#~ msgstr "x11"
+
+#~ msgctxt "Description"
+#~ msgid "Render to a nested window on X11 windowing system."
+#~ msgstr "X11 ウィンドウシステムにネストされたウィンドウにレンダーします。"
+
+#~ msgctxt "Name"
+#~ msgid "Desktop Grid"
+#~ msgstr "デスクトップグリッド"
+
+#~ msgctxt "Description"
+#~ msgid "Zoom out so all desktops are displayed side-by-side in a grid"
+#~ msgstr "ズームアウトしてすべてのデスクトップを並べて表示します"
+
+#~ msgctxt "Description"
+#~ msgid "Inverts the color of the desktop and windows"
+#~ msgstr "デスクトップとウィンドウの色を反転します"
+
+#~ msgctxt "Description"
+#~ msgid "Magnify the section of the screen that is near the mouse cursor"
+#~ msgstr "スクリーンのマウスカーソル近くのセクションを拡大します"
+
+#~ msgctxt "Name"
+#~ msgid "Morphing Popups"
+#~ msgstr "変形するポップアップ"
+
+#~ msgctxt "Description"
+#~ msgid ""
+#~ "Cross fade animation when Tooltips or Notifications change their geometry"
+#~ msgstr ""
+#~ "ツールチップや通知ポップアップのジオメトリ変更時のクロスフェードアニメー"
+#~ "ション"
+
+#~ msgctxt "Authors Name"
+#~ msgid "Marco Martin"
+#~ msgstr "Marco Martin"
+
+#~ msgctxt "Description"
+#~ msgid ""
+#~ "Creates an animation whenever a mouse button is clicked. This is useful "
+#~ "for screenrecordings/presentations"
+#~ msgstr ""
+#~ "マウスボタンがクリックされたときアニメーションを表示します。これはスクリー"
+#~ "ン録画やプレゼンテーションの際に便利な機能です"
+
+#~ msgctxt "Description"
+#~ msgid "Allows you to draw lines on the desktop"
+#~ msgstr "デスクトップに線を描きます"
+
+#~ msgctxt "Description"
+#~ msgid "Allows you to overview virtual desktops and windows"
+#~ msgstr "仮想デスクトップとウィンドウを概観します"
+
+#~ msgctxt "Name"
+#~ msgid "Screen Edge"
+#~ msgstr "スクリーンエッジ"
+
+#~ msgctxt "Description"
+#~ msgid "Highlights a screen edge when approaching"
+#~ msgstr "カーソルが近づけられたときスクリーンエッジを強調表示します"
+
+#~ msgctxt "Description"
+#~ msgid "Highlight areas of the desktop that have been recently updated"
+#~ msgstr "更新されたデスクトップの領域を強調表示します"
+
+#~ msgctxt "Description"
+#~ msgid "Display window thumbnails on the edge of the screen"
+#~ msgstr "スクリーンの角にウィンドウのサムネイルを表示します"
+
+#~ msgctxt "Description"
+#~ msgid "Display a mouse cursor locating effect when activated"
+#~ msgstr "有効化されたときマウスカーソルの場所を示す効果を表示します"
+
+#~ msgctxt "Description"
+#~ msgid "Magnify the entire desktop"
+#~ msgstr "デスクトップ全体を拡大します"
+
+#~ msgctxt "Name"
+#~ msgid "KWin Aurorae"
+#~ msgstr "KWin Aurorae"
+
+#~ msgctxt "Authors Name"
+#~ msgid "Demitrius Belai"
+#~ msgstr "Demitrius Belai"
+
+#~ msgctxt "Name"
+#~ msgid "KWin Decoration"
+#~ msgstr "KWin 装飾"
+
+#~ msgctxt "Name"
+#~ msgid "KWin Effect"
+#~ msgstr "KWin 効果"
+
+#~ msgctxt "Name"
+#~ msgid "KWin Script"
+#~ msgstr "KWin スクリプト"
+
+#~ msgctxt "Name"
+#~ msgid "KWin Window Switcher"
+#~ msgstr "KWin ウィンドウスイッチャー"

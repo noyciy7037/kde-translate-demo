@@ -1,0 +1,1644 @@
+# Translation of khotkeys into Japanese.
+# This file is distributed under the same license as the kdebase package.
+#
+# Toyohiro Asukai <toyohiro@ksmplus.com>, 2004.
+# Kenshi Muto <kmuto@debian.org>, 2004.
+# Fumiaki Okushi <fumiaki@okushi.com>, 2005, 2006.
+# Shinichi Tsunoda <tsuno@ngy.1st.ne.jp>, 2005.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2008, 2009, 2010.
+# Jumpei Ogawa <phanective@gmail.com>, 2010.
+# Jumpei Ogawa (phanect) <phanective@gmail.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: khotkeys\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-05-07 23:56+0200\n"
+"PO-Revision-Date: 2010-09-25 17:17-0700\n"
+"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+"X-Generator: Lokalize 1.1\n"
+
+#. +> stable5
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Fumiaki Okushi,Shinichi Tsunoda"
+
+#. +> stable5
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "fumiaki@okushi.com,tsuno@ngy.1st.ne.jp"
+
+#. +> stable5
+#: kcm_hotkeys/action_group_widget.cpp:17
+#, kde-format
+msgid "Conditions"
+msgstr "条件"
+
+#. i18n: ectx: property (text), widget (QLabel, commandLabel)
+#. +> stable5
+#: kcm_hotkeys/actions/command_url_action_widget.ui:16
+#, kde-format
+msgid "Command/URL:"
+msgstr "コマンド/URL:"
+
+#. i18n: ectx: property (text), widget (QLabel, applicationLabel)
+#. +> stable5
+#: kcm_hotkeys/actions/dbus_action_widget.ui:19
+#, kde-format
+msgid "Remote application:"
+msgstr "リモートアプリケーション:"
+
+#. i18n: ectx: property (text), widget (QLabel, objectLabel)
+#. +> stable5
+#: kcm_hotkeys/actions/dbus_action_widget.ui:32
+#, kde-format
+msgid "Remote object:"
+msgstr "リモートオブジェクト:"
+
+#. i18n: ectx: property (text), widget (QLabel, functionLabel)
+#. +> stable5
+#: kcm_hotkeys/actions/dbus_action_widget.ui:45
+#, kde-format
+msgid "Function:"
+msgstr "関数:"
+
+#. i18n: ectx: property (text), widget (QLabel, argumentsLabel)
+#. +> stable5
+#: kcm_hotkeys/actions/dbus_action_widget.ui:58
+#, kde-format
+msgid "Arguments:"
+msgstr "引数:"
+
+#. i18n: ectx: property (text), widget (QPushButton, execButton)
+#. +> stable5
+#: kcm_hotkeys/actions/dbus_action_widget.ui:85
+#, kde-format
+msgid "Call"
+msgstr "コール"
+
+#. i18n: ectx: property (text), widget (QPushButton, launchButton)
+#. +> stable5
+#: kcm_hotkeys/actions/dbus_action_widget.ui:92
+#, fuzzy, kde-format
+#| msgid "Launch  D-Bus Browser"
+msgid "Launch D-Bus Browser"
+msgstr "D-Bus ブラウザを起動"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#. i18n: ectx: property (title), widget (QGroupBox, window_group)
+#. +> stable5
+#: kcm_hotkeys/actions/keyboard_input_action_widget.ui:19
+#: kcm_hotkeys/triggers/window_trigger_widget.ui:53
+#, kde-format
+msgid "Window"
+msgstr "ウィンドウ"
+
+#. i18n: ectx: property (text), widget (QRadioButton, active_radio)
+#. +> stable5
+#: kcm_hotkeys/actions/keyboard_input_action_widget.ui:27
+#, kde-format
+msgid "Active window"
+msgstr "アクティブウィンドウ"
+
+#. i18n: ectx: property (text), widget (QRadioButton, specific_radio)
+#. +> stable5
+#: kcm_hotkeys/actions/keyboard_input_action_widget.ui:34
+#, kde-format
+msgid "Specific window"
+msgstr "特定のウィンドウ"
+
+#. i18n: ectx: property (text), widget (QRadioButton, action_radio)
+#. +> stable5
+#: kcm_hotkeys/actions/keyboard_input_action_widget.ui:41
+#, kde-format
+msgid "Action window"
+msgstr "アクションウィンドウ"
+
+#. i18n: ectx: property (text), widget (QLabel, applicationLabel)
+#. +> stable5
+#: kcm_hotkeys/actions/menuentry_action_widget.ui:16
+#, kde-format
+msgid "Application:"
+msgstr "アプリケーション:"
+
+#. i18n: ectx: property (text), widget (QPushButton, applicationButton)
+#. +> stable5
+#: kcm_hotkeys/actions/menuentry_action_widget.ui:30
+#, kde-format
+msgid "Select Application ..."
+msgstr "アプリケーションを選択..."
+
+#. +> stable5
+#: kcm_hotkeys/conditions/condition_type_menu.cpp:13
+#, kde-format
+msgctxt "Condition type"
+msgid "Active Window ..."
+msgstr "アクティブウィンドウ..."
+
+#. +> stable5
+#: kcm_hotkeys/conditions/condition_type_menu.cpp:14
+#, kde-format
+msgctxt "Condition type"
+msgid "Existing Window ..."
+msgstr "既存のウィンドウ..."
+
+#. +> stable5
+#: kcm_hotkeys/conditions/condition_type_menu.cpp:15
+#, kde-format
+msgctxt "Condition type"
+msgid "And"
+msgstr "かつ"
+
+#. +> stable5
+#: kcm_hotkeys/conditions/condition_type_menu.cpp:16
+#, kde-format
+msgctxt "Condition type"
+msgid "Or"
+msgstr "または"
+
+#. +> stable5
+#: kcm_hotkeys/conditions/condition_type_menu.cpp:17
+#, kde-format
+msgctxt "Condition type"
+msgid "Not"
+msgstr "等しくない"
+
+#. +> stable5
+#: kcm_hotkeys/conditions/conditions_widget.cpp:63
+#, kde-format
+msgctxt "Add a new condition"
+msgid "And"
+msgstr "かつ"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, tree)
+#. +> stable5
+#: kcm_hotkeys/conditions/conditions_widget.ui:20
+#, kde-format
+msgid "1"
+msgstr "1"
+
+#. i18n: ectx: property (text), widget (QPushButton, new_button)
+#. +> stable5
+#: kcm_hotkeys/conditions/conditions_widget.ui:30
+#, fuzzy, kde-format
+#| msgid "New"
+msgctxt "new condition"
+msgid "New"
+msgstr "新規"
+
+#. i18n: ectx: property (text), widget (QPushButton, edit_button)
+#. +> stable5
+#: kcm_hotkeys/conditions/conditions_widget.ui:37
+#, kde-format
+msgid "Edit..."
+msgstr "編集..."
+
+#. i18n: ectx: property (text), widget (QPushButton, delete_button)
+#. +> stable5
+#: kcm_hotkeys/conditions/conditions_widget.ui:44
+#: kcm_hotkeys/hotkeys_context_menu.cpp:107
+#, kde-format
+msgid "Delete"
+msgstr "削除"
+
+#. i18n: ectx: property (title), widget (QGroupBox, global_group)
+#. +> stable5
+#: kcm_hotkeys/global_settings_widget.ui:32
+#, kde-format
+msgid "Input Actions Daemon"
+msgstr "入力アクションデーモン"
+
+#. i18n: ectx: property (text), widget (QCheckBox, enabled)
+#. +> stable5
+#: kcm_hotkeys/global_settings_widget.ui:38
+#, kde-format
+msgid "Start the Input Actions daemon on login"
+msgstr "ログイン時に入力アクションデーモンを起動する"
+
+#. i18n: ectx: property (title), widget (QGroupBox, gestures_group)
+#. +> stable5
+#: kcm_hotkeys/global_settings_widget.ui:48
+#, kde-format
+msgid "Gestures"
+msgstr "ジェスチャー"
+
+#. i18n: ectx: property (text), widget (QLabel, gestures_timeout_label)
+#. +> stable5
+#: kcm_hotkeys/global_settings_widget.ui:57
+#, kde-format
+msgid "Timeout:"
+msgstr "タイムアウト:"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, gestures_timeout)
+#. +> stable5
+#: kcm_hotkeys/global_settings_widget.ui:70
+#, fuzzy, kde-format
+#| msgid "ms"
+msgid " ms"
+msgstr "ミリ秒"
+
+#. i18n: ectx: property (text), widget (QLabel, gestures_button_label)
+#. +> stable5
+#: kcm_hotkeys/global_settings_widget.ui:99
+#, kde-format
+msgid "Mouse button:"
+msgstr "マウスボタン:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, gestures_button)
+#. +> stable5
+#: kcm_hotkeys/global_settings_widget.ui:123
+#, fuzzy, kde-format
+#| msgid "Mouse button:"
+msgid "Middle button"
+msgstr "マウスボタン:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, gestures_button)
+#. +> stable5
+#: kcm_hotkeys/global_settings_widget.ui:128
+#, kde-format
+msgid "Right button"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, gestures_button)
+#. +> stable5
+#: kcm_hotkeys/global_settings_widget.ui:133
+#, kde-format
+msgid "Button 4"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, gestures_button)
+#. +> stable5
+#: kcm_hotkeys/global_settings_widget.ui:138
+#, kde-format
+msgid "Button 5"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, gestures_button)
+#. +> stable5
+#: kcm_hotkeys/global_settings_widget.ui:143
+#, kde-format
+msgid "Button 6"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, gestures_button)
+#. +> stable5
+#: kcm_hotkeys/global_settings_widget.ui:148
+#, kde-format
+msgid "Button 7"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, gestures_button)
+#. +> stable5
+#: kcm_hotkeys/global_settings_widget.ui:153
+#, kde-format
+msgid "Button 8"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, gestures_button)
+#. +> stable5
+#: kcm_hotkeys/global_settings_widget.ui:158
+#, kde-format
+msgid "Button 9"
+msgstr ""
+
+#. +> stable5
+#: kcm_hotkeys/helper_widgets/edit_gesture_dialog.cpp:19
+#, kde-format
+msgid "Edit Gesture"
+msgstr "ジェスチャーを編集"
+
+#. +> stable5
+#: kcm_hotkeys/helper_widgets/edit_gesture_dialog.cpp:22
+#, kde-format
+msgid ""
+"Draw the gesture you would like to record below. Press and hold the left "
+"mouse button while drawing, and release when you have finished."
+msgstr ""
+"登録するジェスチャーを描いてください。マウスの左ボタンを押し、押したまま描い"
+"て、描き終えたらボタンを放します。"
+
+#. i18n: ectx: property (text), widget (QPushButton, edit_button)
+#. i18n: ectx: property (text), widget (QPushButton, menu_button)
+#. +> stable5
+#: kcm_hotkeys/helper_widgets/gesture_widget.ui:19
+#: kcm_hotkeys/kcm_hotkeys.ui:29
+#, kde-format
+msgid "Edit"
+msgstr "編集"
+
+#. i18n: ectx: property (text), widget (QLabel, comment_label)
+#. +> stable5
+#: kcm_hotkeys/helper_widgets/window_definition_list_widget.ui:19
+#: kcm_hotkeys/helper_widgets/window_definition_widget.ui:24
+#, kde-format
+msgid "Comment:"
+msgstr "コメント:"
+
+#. i18n: ectx: property (text), widget (QPushButton, edit_button)
+#. +> stable5
+#: kcm_hotkeys/helper_widgets/window_definition_list_widget.ui:38
+#, kde-format
+msgid "&Edit..."
+msgstr "編集(&E)..."
+
+#. i18n: ectx: property (text), widget (QPushButton, new_button)
+#. +> stable5
+#: kcm_hotkeys/helper_widgets/window_definition_list_widget.ui:45
+#, kde-format
+msgid "&New..."
+msgstr "新規(&N)..."
+
+#. i18n: ectx: property (text), widget (QPushButton, duplicate_button)
+#. +> stable5
+#: kcm_hotkeys/helper_widgets/window_definition_list_widget.ui:52
+#, kde-format
+msgid "&Duplicate..."
+msgstr "複製(&D)..."
+
+#. i18n: ectx: property (text), widget (QPushButton, delete_button)
+#. +> stable5
+#: kcm_hotkeys/helper_widgets/window_definition_list_widget.ui:59
+#, kde-format
+msgid "&Delete"
+msgstr "削除(&L)"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#. +> stable5
+#: kcm_hotkeys/helper_widgets/window_definition_widget.ui:16
+#, kde-format
+msgid "Window Data"
+msgstr "ウィンドウのデータ"
+
+#. i18n: ectx: property (text), widget (QLabel, window_title_label)
+#. +> stable5
+#: kcm_hotkeys/helper_widgets/window_definition_widget.ui:31
+#, kde-format
+msgid "Window title:"
+msgstr "ウィンドウのタイトル:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, window_title_combo)
+#. +> stable5
+#: kcm_hotkeys/helper_widgets/window_definition_widget.ui:39
+#, fuzzy, kde-format
+#| msgid "Is Not Important"
+msgctxt "window title is not important"
+msgid "Is Not Important"
+msgstr "重要ではない"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, window_title_combo)
+#. i18n: ectx: property (text), item, widget (QComboBox, window_class_combo)
+#. i18n: ectx: property (text), item, widget (QComboBox, window_role_combo)
+#. +> stable5
+#: kcm_hotkeys/helper_widgets/window_definition_widget.ui:44
+#: kcm_hotkeys/helper_widgets/window_definition_widget.ui:90
+#: kcm_hotkeys/helper_widgets/window_definition_widget.ui:136
+#, kde-format
+msgid "Contains"
+msgstr "含む"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, window_title_combo)
+#. i18n: ectx: property (text), item, widget (QComboBox, window_class_combo)
+#. i18n: ectx: property (text), item, widget (QComboBox, window_role_combo)
+#. +> stable5
+#: kcm_hotkeys/helper_widgets/window_definition_widget.ui:49
+#: kcm_hotkeys/helper_widgets/window_definition_widget.ui:95
+#: kcm_hotkeys/helper_widgets/window_definition_widget.ui:141
+#, kde-format
+msgid "Is"
+msgstr "等しい"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, window_title_combo)
+#. i18n: ectx: property (text), item, widget (QComboBox, window_class_combo)
+#. i18n: ectx: property (text), item, widget (QComboBox, window_role_combo)
+#. +> stable5
+#: kcm_hotkeys/helper_widgets/window_definition_widget.ui:54
+#: kcm_hotkeys/helper_widgets/window_definition_widget.ui:100
+#: kcm_hotkeys/helper_widgets/window_definition_widget.ui:146
+#, kde-format
+msgid "Matches Regular Expression"
+msgstr "正規表現に一致"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, window_title_combo)
+#. i18n: ectx: property (text), item, widget (QComboBox, window_class_combo)
+#. i18n: ectx: property (text), item, widget (QComboBox, window_role_combo)
+#. +> stable5
+#: kcm_hotkeys/helper_widgets/window_definition_widget.ui:59
+#: kcm_hotkeys/helper_widgets/window_definition_widget.ui:105
+#: kcm_hotkeys/helper_widgets/window_definition_widget.ui:151
+#, kde-format
+msgid "Does Not Contain"
+msgstr "含まない"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, window_title_combo)
+#. i18n: ectx: property (text), item, widget (QComboBox, window_class_combo)
+#. i18n: ectx: property (text), item, widget (QComboBox, window_role_combo)
+#. +> stable5
+#: kcm_hotkeys/helper_widgets/window_definition_widget.ui:64
+#: kcm_hotkeys/helper_widgets/window_definition_widget.ui:110
+#: kcm_hotkeys/helper_widgets/window_definition_widget.ui:156
+#, kde-format
+msgid "Is Not"
+msgstr "等しくない"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, window_title_combo)
+#. i18n: ectx: property (text), item, widget (QComboBox, window_class_combo)
+#. i18n: ectx: property (text), item, widget (QComboBox, window_role_combo)
+#. +> stable5
+#: kcm_hotkeys/helper_widgets/window_definition_widget.ui:69
+#: kcm_hotkeys/helper_widgets/window_definition_widget.ui:115
+#: kcm_hotkeys/helper_widgets/window_definition_widget.ui:161
+#, kde-format
+msgid "Does Not Match Regular Expression"
+msgstr "正規表現と一致しない"
+
+#. i18n: ectx: property (text), widget (QLabel, window_class_label)
+#. +> stable5
+#: kcm_hotkeys/helper_widgets/window_definition_widget.ui:77
+#, kde-format
+msgid "Window class:"
+msgstr "ウィンドウのクラス:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, window_class_combo)
+#. +> stable5
+#: kcm_hotkeys/helper_widgets/window_definition_widget.ui:85
+#, fuzzy, kde-format
+#| msgid "Is Not Important"
+msgctxt "window class is not important"
+msgid "Is Not Important"
+msgstr "重要ではない"
+
+#. i18n: ectx: property (text), widget (QLabel, window_role_label)
+#. +> stable5
+#: kcm_hotkeys/helper_widgets/window_definition_widget.ui:123
+#, kde-format
+msgid "Window role:"
+msgstr "ウィンドウの役割:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, window_role_combo)
+#. +> stable5
+#: kcm_hotkeys/helper_widgets/window_definition_widget.ui:131
+#, fuzzy, kde-format
+#| msgid "Is Not Important"
+msgctxt "window role is not important"
+msgid "Is Not Important"
+msgstr "重要ではない"
+
+#. i18n: ectx: property (text), widget (QPushButton, autodetect)
+#. +> stable5
+#: kcm_hotkeys/helper_widgets/window_definition_widget.ui:195
+#, kde-format
+msgid "&Autodetect"
+msgstr "自動検出(&A)"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#. +> stable5
+#: kcm_hotkeys/helper_widgets/window_definition_widget.ui:205
+#, kde-format
+msgid "Window Types"
+msgstr "ウィンドウのタイプ"
+
+#. i18n: ectx: property (text), widget (QRadioButton, type_normal)
+#. +> stable5
+#: kcm_hotkeys/helper_widgets/window_definition_widget.ui:211
+#, kde-format
+msgid "Normal"
+msgstr "標準"
+
+#. i18n: ectx: property (text), widget (QRadioButton, type_desktop)
+#. +> stable5
+#: kcm_hotkeys/helper_widgets/window_definition_widget.ui:218
+#, kde-format
+msgid "Desktop"
+msgstr "デスクトップ"
+
+#. i18n: ectx: property (text), widget (QRadioButton, type_dialog)
+#. +> stable5
+#: kcm_hotkeys/helper_widgets/window_definition_widget.ui:225
+#, kde-format
+msgid "Dialog"
+msgstr "ダイアログ"
+
+#. i18n: ectx: property (text), widget (QRadioButton, type_dock)
+#. +> stable5
+#: kcm_hotkeys/helper_widgets/window_definition_widget.ui:232
+#, kde-format
+msgid "Dock"
+msgstr "ドッキングパネル"
+
+#. +> stable5
+#: kcm_hotkeys/hotkeys_context_menu.cpp:29
+#: kcm_hotkeys/hotkeys_context_menu.cpp:39
+#, kde-format
+msgid "Test"
+msgstr "テスト"
+
+#. +> stable5
+#: kcm_hotkeys/hotkeys_context_menu.cpp:101
+#: kcm_hotkeys/hotkeys_context_menu.cpp:111 kcm_hotkeys/hotkeys_model.cpp:69
+#, kde-format
+msgid "New Group"
+msgstr "新しいグループ"
+
+#. +> stable5
+#: kcm_hotkeys/hotkeys_context_menu.cpp:115
+#, kde-format
+msgid "Export Group..."
+msgstr "グループをエクスポート..."
+
+#. +> stable5
+#: kcm_hotkeys/hotkeys_context_menu.cpp:116
+#, kde-format
+msgid "Import..."
+msgstr "インポート..."
+
+#. +> stable5
+#: kcm_hotkeys/hotkeys_context_menu.cpp:121
+#, fuzzy, kde-format
+#| msgid "New"
+msgctxt "@title:menu create various trigger types"
+msgid "New"
+msgstr "新規"
+
+#. +> stable5
+#: kcm_hotkeys/hotkeys_context_menu.cpp:126
+#, kde-format
+msgid "Global Shortcut"
+msgstr "グローバルショートカット"
+
+#. +> stable5
+#: kcm_hotkeys/hotkeys_context_menu.cpp:136
+#, kde-format
+msgid "Window Action"
+msgstr "ウィンドウアクション"
+
+#. +> stable5
+#: kcm_hotkeys/hotkeys_context_menu.cpp:146
+#, kde-format
+msgid "Mouse Gesture Action"
+msgstr "マウスジェスチャーアクション"
+
+#. +> stable5
+#: kcm_hotkeys/hotkeys_context_menu.cpp:213
+#, kde-format
+msgid "Command/URL"
+msgstr "コマンド/URL"
+
+#. +> stable5
+#: kcm_hotkeys/hotkeys_context_menu.cpp:217
+#, kde-format
+msgid "D-Bus Command"
+msgstr "D-Bus コマンド"
+
+#. +> stable5
+#: kcm_hotkeys/hotkeys_context_menu.cpp:221
+#, kde-format
+msgid "K-Menu Entry"
+msgstr "K-メニューの項目"
+
+#. +> stable5
+#: kcm_hotkeys/hotkeys_context_menu.cpp:225
+#, kde-format
+msgid "Send Keyboard Input"
+msgstr "キーボード入力を送る"
+
+#. i18n: ectx: attribute (title), widget (QWidget, comment_tab)
+#. +> stable5
+#: kcm_hotkeys/hotkeys_context_menu.cpp:240
+#: kcm_hotkeys/hotkeys_context_menu.cpp:263
+#: kcm_hotkeys/hotkeys_context_menu.cpp:286 kcm_hotkeys/hotkeys_model.cpp:69
+#: kcm_hotkeys/hotkeys_widget_base.ui:23
+#, kde-format
+msgid "Comment"
+msgstr "コメント"
+
+#. +> stable5
+#: kcm_hotkeys/hotkeys_context_menu.cpp:240
+#: kcm_hotkeys/hotkeys_context_menu.cpp:263
+#: kcm_hotkeys/hotkeys_context_menu.cpp:286
+#, kde-format
+msgid "New Action"
+msgstr "新しいアクション"
+
+#. +> stable5
+#: kcm_hotkeys/hotkeys_export_widget.cpp:24
+#, kde-format
+msgid "Export Group"
+msgstr "グループをエクスポート"
+
+#. i18n: ectx: property (toolTip), widget (QLabel, stateLabel)
+#. +> stable5
+#: kcm_hotkeys/hotkeys_export_widget.ui:17
+#, kde-format
+msgid "Change the exported state for the actions."
+msgstr "アクションをどの状態でエクスポートするかを設定します。"
+
+#. i18n: ectx: property (text), widget (QLabel, stateLabel)
+#. +> stable5
+#: kcm_hotkeys/hotkeys_export_widget.ui:20
+#, kde-format
+msgid "Export Actions"
+msgstr "アクションをエクスポート"
+
+#. i18n: ectx: property (whatsThis), widget (QComboBox, state)
+#. +> stable5
+#: kcm_hotkeys/hotkeys_export_widget.ui:40
+#, kde-format
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+"REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+"css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">Configure in which state "
+"the actions should be exported.</p>\n"
+"<p style=\" margin-top:8px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">Actual State</p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:30px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">Export the actions in "
+"their current state.</p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">Disabled</p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:30px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">Export the actions in a "
+"disabled state.</p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">Enabled</p>\n"
+"<p style=\" margin-top:0px; margin-bottom:8px; margin-left:30px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">Export the actions in an "
+"enabled state.</p></body></html>"
+msgstr ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+"REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+"css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">アクションをどの状態で エク"
+"スポートするかを設定します。</p>\n"
+"<p style=\" margin-top:8px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">現在の状態</p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:30px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">: アクションを現在の状態の"
+"まま エクスポートします。</p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">無効</p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:30px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">アクションの状態を無効にし"
+"て エクスポートします。</p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">有効</p>\n"
+"<p style=\" margin-top:0px; margin-bottom:8px; margin-left:30px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">アクションの状態を有効にし"
+"て エクスポートします。</p></body></html> "
+
+#. i18n: ectx: property (text), item, widget (QComboBox, state)
+#. +> stable5
+#: kcm_hotkeys/hotkeys_export_widget.ui:44
+#, kde-format
+msgctxt "Don't change the state of exported hotkey actions."
+msgid "Actual State"
+msgstr "現在の状態"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, state)
+#. +> stable5
+#: kcm_hotkeys/hotkeys_export_widget.ui:49
+#, kde-format
+msgctxt "Export hotkey actions in enabled state."
+msgid "Enabled"
+msgstr "有効"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, state)
+#. +> stable5
+#: kcm_hotkeys/hotkeys_export_widget.ui:54
+#, kde-format
+msgctxt "Export hotkey actions into disabled  state"
+msgid "Disabled"
+msgstr "無効"
+
+#. i18n: ectx: property (statusTip), widget (QLabel, idLabel)
+#. +> stable5
+#: kcm_hotkeys/hotkeys_export_widget.ui:62
+#, kde-format
+msgid "KHotkeys file id."
+msgstr "KHotkeys ファイルの ID"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, idLabel)
+#. +> stable5
+#: kcm_hotkeys/hotkeys_export_widget.ui:65
+#, kde-format
+msgid ""
+"A khotkeys file id is used to ensure files are not imported more than once. "
+"They are mostly used for automatic updates from the KDE developers."
+msgstr ""
+"khotkeys ファイル ID は、ファイルを二回以上インポートしないために使われます。"
+"普通は KDE 開発者からの自動更新に使われます。"
+
+#. i18n: ectx: property (text), widget (QLabel, idLabel)
+#. +> stable5
+#: kcm_hotkeys/hotkeys_export_widget.ui:68
+#, kde-format
+msgid "Id"
+msgstr "ID"
+
+#. i18n: ectx: property (placeholderText), widget (QLineEdit, id)
+#. +> stable5
+#: kcm_hotkeys/hotkeys_export_widget.ui:78
+#, kde-format
+msgid "Set import id for file, or leave empty"
+msgstr "ファイルのインポート ID を設定、または空欄"
+
+#. i18n: ectx: property (text), widget (QLabel, filenameLabel)
+#. +> stable5
+#: kcm_hotkeys/hotkeys_export_widget.ui:85
+#, kde-format
+msgid "Filename"
+msgstr "ファイル名"
+
+#. i18n: ectx: property (text), widget (QLabel, allowMergingLabel)
+#. +> stable5
+#: kcm_hotkeys/hotkeys_export_widget.ui:124
+#, kde-format
+msgid "Allow Merging"
+msgstr "マージを許可する"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, allowMerging)
+#. +> stable5
+#: kcm_hotkeys/hotkeys_export_widget.ui:134
+#, kde-format
+msgid "Merge into existing directories on import?"
+msgstr "インポート時に既存のフォルダとマージしますか？"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, allowMerging)
+#. +> stable5
+#: kcm_hotkeys/hotkeys_export_widget.ui:137
+#, kde-format
+msgid ""
+"Allow merging of content if a directory with the same name exists on "
+"importing. If merging is not allowed, there will be two directories with the "
+"same name."
+msgstr ""
+"インポートの際に、同じ名前のディレクトリが存在する場合は、コンテンツの統合を"
+"許可します。統合が許可されていない場合は、同じ名前のディレクトリが二つ存在す"
+"ることになります。"
+
+#. +> stable5
+#: kcm_hotkeys/hotkeys_model.cpp:321
+#, kde-format
+msgctxt "action name"
+msgid "Name"
+msgstr "名前"
+
+#. +> stable5
+#: kcm_hotkeys/hotkeys_model.cpp:325
+#, kde-format
+msgctxt "action enabled"
+msgid "Enabled"
+msgstr "有効"
+
+#. +> stable5
+#: kcm_hotkeys/hotkeys_model.cpp:328
+#, kde-format
+msgid "Type"
+msgstr "タイプ"
+
+#. +> stable5
+#: kcm_hotkeys/kcm_hotkeys.cpp:78
+#, kde-format
+msgid "KDE Hotkeys Configuration Module"
+msgstr "KDE ホットキー設定モジュール"
+
+#. +> stable5
+#: kcm_hotkeys/kcm_hotkeys.cpp:82
+#, kde-format
+msgid "Copyright 2008 (c) Michael Jansen"
+msgstr "Copyright 2008 (c) Michael Jansen"
+
+#. +> stable5
+#: kcm_hotkeys/kcm_hotkeys.cpp:83
+#, kde-format
+msgid "Michael Jansen"
+msgstr "Michael Jansen"
+
+#. +> stable5
+#: kcm_hotkeys/kcm_hotkeys.cpp:83
+#, kde-format
+msgid "Maintainer"
+msgstr "メンテナ"
+
+#. +> stable5
+#: kcm_hotkeys/kcm_hotkeys.cpp:259
+#, fuzzy, kde-format
+#| msgid ""
+#| "The current action has unsaved changes. If you continue these changes "
+#| "will be lost."
+msgid ""
+"The current action has unsaved changes.\n"
+"Do you want to apply the changes or discard them?"
+msgstr ""
+"現在のアクションには未保存の変更があります。続行するとこれらの変更は失われま"
+"す。"
+
+#. +> stable5
+#: kcm_hotkeys/kcm_hotkeys.cpp:261
+#, kde-format
+msgid "Save changes"
+msgstr "変更を保存"
+
+#. +> stable5
+#: kcm_hotkeys/kcm_hotkeys.cpp:298 kcm_hotkeys/kcm_hotkeys.cpp:336
+#, kde-format
+msgid ""
+"Unable to contact khotkeys. Your changes are saved, but they could not be "
+"activated."
+msgstr ""
+"khotkeys と交信できません。変更は保存しましたが有効にできませんでした。"
+
+#. i18n: ectx: property (text), widget (QPushButton, settings_button)
+#. +> stable5
+#: kcm_hotkeys/kcm_hotkeys.ui:36
+#, kde-format
+msgid "Settings"
+msgstr "設定"
+
+#. +> stable5
+#: kcm_hotkeys/simple_action_data_widget.cpp:103
+#, kde-format
+msgid "Trigger"
+msgstr "トリガー"
+
+#. +> stable5
+#: kcm_hotkeys/simple_action_data_widget.cpp:131
+#, kde-format
+msgid "Action"
+msgstr "アクション"
+
+#. i18n: ectx: property (text), widget (QLabel, shortcut_label)
+#. +> stable5
+#: kcm_hotkeys/triggers/shortcut_trigger_widget.ui:17
+#, kde-format
+msgid "&Shortcut:"
+msgstr "ショートカット(&S):"
+
+#. i18n: ectx: property (title), widget (QGroupBox, when_group)
+#. +> stable5
+#: kcm_hotkeys/triggers/window_trigger_widget.ui:16
+#, kde-format
+msgid "Trigger When"
+msgstr "トリガーする時"
+
+#. i18n: ectx: property (text), widget (QRadioButton, window_appears)
+#. +> stable5
+#: kcm_hotkeys/triggers/window_trigger_widget.ui:22
+#, kde-format
+msgid "Window appears"
+msgstr "ウィンドウが現れる"
+
+#. i18n: ectx: property (text), widget (QRadioButton, window_disappears)
+#. +> stable5
+#: kcm_hotkeys/triggers/window_trigger_widget.ui:29
+#, kde-format
+msgid "Window disappears"
+msgstr "ウィンドウが消える"
+
+#. i18n: ectx: property (text), widget (QRadioButton, window_gets_focus)
+#. +> stable5
+#: kcm_hotkeys/triggers/window_trigger_widget.ui:36
+#, kde-format
+msgid "Window gets focus"
+msgstr "ウィンドウがフォーカスを受ける"
+
+#. i18n: ectx: property (text), widget (QRadioButton, window_lost_focus)
+#. +> stable5
+#: kcm_hotkeys/triggers/window_trigger_widget.ui:43
+#, kde-format
+msgid "Window loses focus"
+msgstr "ウィンドウがフォーカスを失う"
+
+#. +> stable5
+#: libkhotkeysprivate/actions/activate_window_action.cpp:65
+#, kde-format
+msgid "Activate window: "
+msgstr "ウィンドウをアクティブに: "
+
+#. +> stable5
+#: libkhotkeysprivate/actions/command_url_action.cpp:64
+#, kde-format
+msgid "Command/URL : "
+msgstr "コマンド/URL: "
+
+#. +> stable5
+#: libkhotkeysprivate/actions/dbus_action.cpp:115
+#, kde-format
+msgid "D-Bus: "
+msgstr "D-Bus: "
+
+#. +> stable5
+#: libkhotkeysprivate/actions/keyboard_input_action.cpp:165
+#, kde-format
+msgid "Keyboard input: "
+msgstr "キーボード入力: "
+
+#. +> stable5
+#: libkhotkeysprivate/actions/menuentry_action.cpp:64
+#, kde-format
+msgid "No service configured."
+msgstr "サービスが設定されていません。"
+
+#. +> stable5
+#: libkhotkeysprivate/actions/menuentry_action.cpp:64
+#: libkhotkeysprivate/actions/menuentry_action.cpp:69
+#, kde-format
+msgid "Input Action: %1"
+msgstr "入力アクション: %1"
+
+#. +> stable5
+#: libkhotkeysprivate/actions/menuentry_action.cpp:69
+#, kde-format
+msgid "Failed to start service '%1'."
+msgstr "サービス “%1” を開始できませんでした。"
+
+# |,no-bad-patterns
+#. +> stable5
+#: libkhotkeysprivate/actions/menuentry_action.cpp:81
+#, kde-format
+msgid "Menu entry: "
+msgstr "メニュー項目: "
+
+#. +> stable5
+#: libkhotkeysprivate/conditions/active_window_condition.cpp:64
+#, kde-format
+msgid "Active window: "
+msgstr "アクティブウィンドウ: "
+
+#. +> stable5
+#: libkhotkeysprivate/conditions/and_condition.cpp:44
+#, kde-format
+msgctxt "And_condition"
+msgid "And"
+msgstr "かつ"
+
+#. +> stable5
+#: libkhotkeysprivate/conditions/existing_window_condition.cpp:55
+#, kde-format
+msgid "Existing window: "
+msgstr "既存のウィンドウ: "
+
+#. +> stable5
+#: libkhotkeysprivate/conditions/not_condition.cpp:47
+#, kde-format
+msgctxt "Not_condition"
+msgid "Not"
+msgstr "等しくない"
+
+#. +> stable5
+#: libkhotkeysprivate/conditions/or_condition.cpp:50
+#, kde-format
+msgctxt "Or_condition"
+msgid "Or"
+msgstr "または"
+
+#. +> stable5
+#: libkhotkeysprivate/khotkeysglobal.h:33
+#, kde-format
+msgid "Menu Editor entries"
+msgstr "メニューエディタの項目"
+
+#. +> stable5
+#: libkhotkeysprivate/settings.cpp:259
+#, kde-format
+msgid ""
+"This \"actions\" file has already been imported before. Are you sure you "
+"want to import it again?"
+msgstr ""
+"このアクションファイルは既にインポートされています。本当にもう一度インポート"
+"しますか？"
+
+#. +> stable5
+#: libkhotkeysprivate/settings.cpp:281
+#, kde-format
+msgid ""
+"This \"actions\" file has no ImportId field and therefore it cannot be "
+"determined whether or not it has been imported already. Are you sure you "
+"want to import it?"
+msgstr ""
+"このアクションファイルには ImportId フィールドがないため、インポート済みかど"
+"うか分かりません。本当にこれをインポートしますか？"
+
+#. +> stable5
+#: libkhotkeysprivate/shortcuts_handler.cpp:33
+#, kde-format
+msgid "Custom Shortcuts Service"
+msgstr ""
+
+#. +> stable5
+#: libkhotkeysprivate/triggers/gesture_trigger.cpp:101
+#, kde-format
+msgid "Gesture trigger"
+msgstr "ジェスチャートリガー"
+
+#. +> stable5
+#: libkhotkeysprivate/triggers/shortcut_trigger.cpp:120
+#, kde-format
+msgid "Shortcut trigger: "
+msgstr "ショートカットトリガー: "
+
+#. +> stable5
+#: libkhotkeysprivate/triggers/window_trigger.cpp:118
+#, kde-format
+msgid "Window trigger: "
+msgstr "ウィンドウトリガー: "
+
+#. +> stable5
+#: libkhotkeysprivate/windows_helper/window_selection_rules.cpp:65
+#, kde-format
+msgid "Window simple: "
+msgstr "ウィンドウ簡素: "
+
+#, kde-format
+#~ msgid "Failed to run qdbusviewer"
+#~ msgstr "qdbusviewer の起動に失敗しました"
+
+#, kde-format
+#~ msgid "Voice trigger: "
+#~ msgstr "音声トリガー: "
+
+#~ msgid ""
+#~ "The current action has unsaved changes. If you continue these changes "
+#~ "will be lost."
+#~ msgstr ""
+#~ "現在のアクションには未保存の変更があります。続行するとこれらの変更は失われ"
+#~ "ます。"
+
+#~ msgid "Launch  D-Bus Browser"
+#~ msgstr "D-Bus ブラウザを起動"
+
+#~ msgid "ms"
+#~ msgstr "ミリ秒"
+
+#~ msgid "New"
+#~ msgstr "新規"
+
+#~ msgid "Is Not Important"
+#~ msgstr "重要ではない"
+
+#~ msgid "These entries were created using Menu Editor."
+#~ msgstr "これらの項目はメニューエディタを使用して作成されました。"
+
+#~ msgid "Parent group is disabled"
+#~ msgstr "親グループが無効になっています"
+
+#~ msgid "Started server <em>org.kde.khotkeys</em>."
+#~ msgstr "サーバ “org.kde.khotkeys” を起動しました。"
+
+#~ msgid "Unable to start server <em>org.kde.khotkeys</em>."
+#~ msgstr "サーバ “org.kde.khotkeys” を起動できません。"
+
+# dummy markup
+#~ msgid ""
+#~ "Unable to start service <em>org.kde.khotkeys</em>.<br /><br /><i>Error: "
+#~ "%1</i>"
+#~ msgstr ""
+#~ "<i></i>サービス “org.kde.khotkeys” を開始できません。<br /><br />エラー: "
+#~ "%1"
+
+#~ msgid "KHotKeys Daemon"
+#~ msgstr "KHotKeys デーモン"
+
+#~ msgid "General"
+#~ msgstr "全般"
+
+#~ msgid "Add comment here"
+#~ msgstr "ここにコメントを追加します"
+
+#~ msgid "KHotKeys Update"
+#~ msgstr "KHotKeys 更新"
+
+#~ msgid "KHotKeys update utility"
+#~ msgstr "KHotKeys 更新ユーティリティ"
+
+#~ msgid "Id of the script to add to %1"
+#~ msgstr "%1 に追加するスクリプトの ID"
+
+#~ msgid "KHotKeys Update Helper"
+#~ msgstr "KHotKeys 更新ヘルパー"
+
+#~ msgid "(C) 2003-2009 Lubos Lunak"
+#~ msgstr "(C) 2003-2009 Lubos Lunak"
+
+#~ msgid "Menu"
+#~ msgstr "メニュー"
+
+#~ msgid "&Copy"
+#~ msgstr "コピー(&C)"
+
+#~ msgid "Info"
+#~ msgstr "情報"
+
+#~ msgid "D-Bus Call Settings"
+#~ msgstr "D-Bus コールの設定"
+
+#~ msgid "Copy of "
+#~ msgstr "コピー: "
+
+#~ msgid "Id of the script to add to khotkeysrc."
+#~ msgstr "khotkeysrc に追加するスクリプトの ID"
+
+#~ msgid "KHotKeys"
+#~ msgstr "KHotKeys"
+
+#~ msgid "KHotKeys daemon"
+#~ msgstr "KHotKeys デーモン"
+
+#~ msgid "&Disable (group is disabled)"
+#~ msgstr "無効 (グループの無効) (&D)"
+
+#~ msgid ""
+#~ "A group is selected.\n"
+#~ "Add the new condition in this selected group?"
+#~ msgstr ""
+#~ "グループが選択されています。\n"
+#~ "選択されたグループに新しい条件を追加しますか？"
+
+#~ msgid "Add in Group"
+#~ msgstr "グループに追加"
+
+#~ msgctxt "to try"
+#~ msgid "&Try"
+#~ msgstr "試す(&T)"
+
+#~ msgid "Generic"
+#~ msgstr "全般"
+
+#~ msgid "Keyboard Shortcut -> Command/URL (simple)"
+#~ msgstr "キーボードショートカット -> コマンド/URL (簡素)"
+
+#~ msgid "Keyboard Shortcut -> D-Bus Call (simple)"
+#~ msgstr "キーボードショートカット -> D-Bus コール (簡素)"
+
+#~ msgid "Keyboard Shortcut -> Keyboard Input (simple)"
+#~ msgstr "キーボードショートカット -> キーボード入力 (簡素)"
+
+#~ msgid "Keyboard Shortcut -> Activate Window (simple)"
+#~ msgstr "キーボードショートカット -> ウィンドウをアクティブに (簡素)"
+
+#~ msgid ""
+#~ "Draw the gesture you would like to record below. Press and hold the left "
+#~ "mouse button while drawing, and release when you have finished.\n"
+#~ "\n"
+#~ "You will be required to draw the gesture 3 times. After each drawing, if "
+#~ "they match, the indicators below will change to represent which step you "
+#~ "are on.\n"
+#~ "\n"
+#~ "If at any point they do not match, you will be required to restart. If "
+#~ "you want to force a restart, use the reset button below.\n"
+#~ "\n"
+#~ "Draw here:"
+#~ msgstr ""
+#~ "登録するジェスチャーを描いてください。マウスの左ボタンを押し、押したまま描"
+#~ "いて、描き終えたらボタンを放します。\n"
+#~ "\n"
+#~ "ジェスチャーは 3 回描く必要があります。描いたものが前回のものと一致する"
+#~ "と、下のインジケータのステップが上がります。\n"
+#~ "\n"
+#~ "前回のものと一致しなかった場合は、何回目であっても最初からやり直さなければ"
+#~ "なりません。強制的に最初からやり直すときは「リセット」ボタンを押してくださ"
+#~ "い。\n"
+#~ "\n"
+#~ "ここに描いてください:"
+
+#~ msgid "Your gestures did not match."
+#~ msgstr "前回のジェスチャーと一致していません。"
+
+#~ msgid ""
+#~ "You have already completed the three required drawings. Either press 'Ok' "
+#~ "to save or 'Reset' to try again."
+#~ msgstr ""
+#~ "登録に必要な 3 回の描画を終了しました。保存する場合は「OK」を、やり直す場"
+#~ "合は「リセット」を押してください。"
+
+#~ msgid "Button 2 (middle)"
+#~ msgstr "ボタン 2 (中)"
+
+#~ msgid "Button 3 (secondary)"
+#~ msgstr "ボタン 3 (セカンダリ)"
+
+#~ msgid "Button 4 (often wheel up)"
+#~ msgstr "ボタン 4 (ホイールを上)"
+
+#~ msgid "Button 5 (often wheel down)"
+#~ msgstr "ボタン 4 (ホイールを下)"
+
+#~ msgid "Button 6 (if available)"
+#~ msgstr "ボタン 6 (利用可能な場合)"
+
+#~ msgid "Button 7 (if available)"
+#~ msgstr "ボタン 7 (利用可能な場合)"
+
+#~ msgid "Button 8 (if available)"
+#~ msgstr "ボタン 8 (利用可能な場合)"
+
+#~ msgid "Button 9 (if available)"
+#~ msgstr "ボタン 9 (利用可能な場合)"
+
+#~ msgid "Lubos Lunak"
+#~ msgstr "Lubos Lunak"
+
+#~ msgid "Select File with Actions to Be Imported"
+#~ msgstr "インポートするアクションファイルを選択"
+
+#~ msgid ""
+#~ "Import of the specified file failed. Most probably the file is not a "
+#~ "valid file with actions."
+#~ msgstr ""
+#~ "指定されたファイルのインポートに失敗しました。おそらくファイルは有効なアク"
+#~ "ションファイルではありません。"
+
+#~ msgid "Select keyboard shortcut:"
+#~ msgstr "キーボードショートカットを選択:"
+
+#~ msgid "Action group &name:"
+#~ msgstr "アクショングループ名(&N):"
+
+#~ msgid "&Try"
+#~ msgstr "試す(&T)"
+
+#~ msgid "Disable KHotKeys daemon"
+#~ msgstr "KHotKeys デーモンを無効にする"
+
+#~ msgid "Disable mouse gestures globally"
+#~ msgstr "マウスジェスチャーをすべて無効にする"
+
+#~ msgid "Info_tab_ui"
+#~ msgstr "Info_tab_ui"
+
+#~ msgid ""
+#~ "<p>This module allows configuration of input actions, such as mouse "
+#~ "gestures, keyboard shortcuts for performing commands, launching "
+#~ "applications or D-Bus calls, and similar.</p>\n"
+#~ "<p><b>NOTE: </b>If you are not an experienced user, you should be careful "
+#~ "when modifying the actions, and should limit your changes mainly to "
+#~ "enabling/disabling actions, and changing triggers.</p>"
+#~ msgstr ""
+#~ "<html><p>このモジュールで、コマンドの実行、アプリケーションの起動、D-Bus "
+#~ "コールなどに使用するキーボードショートカットやマウスジェスチャーなどの入力"
+#~ "アクションを設定できます。</p>\n"
+#~ "<p>【注意】 経験を積んだユーザでなければ、アクションの変更は有効/無効の切"
+#~ "り替えとトリガーの変更にとどめておくのがよいでしょう。</p></html>"
+
+#~ msgid ""
+#~ "Specify the window where the keyboard input should be sent to:<ul>\n"
+#~ "<li><em>Action window:</em> The window where the triggering action "
+#~ "happened; this is usually the currently active window, except for mouse "
+#~ "gesture triggers - where it is the window under mouse - and window "
+#~ "triggers -where it is the window triggering the action.</li>\n"
+#~ "<li><em>Active window:</em> The currently active window.</li>\n"
+#~ "<li><em>Specific window:</em> Any window matching the given criteria.</"
+#~ "li>\n"
+#~ "</ul>"
+#~ msgstr ""
+#~ "キーボード入力を送るウィンドウを指定します。<ul>\n"
+#~ "<li>アクションウィンドウ: トリガーアクションが発生したウィンドウ。通常は現"
+#~ "在のアクティブウィンドウ。マウスジェスチャートリガーの場合はマウスの下にあ"
+#~ "るウィンドウ。ウィンドウトリガーの場合はアクションをトリガーしたウィンド"
+#~ "ウ。</li>\n"
+#~ "<li>アクティブウィンドウ: 現在のアクティブウィンドウ。</li>\n"
+#~ "<li>特定のウィンドウ: 指定した基準に適合するウィンドウ。</li>\n"
+#~ "</ul>"
+
+#~ msgid "&Browse..."
+#~ msgstr "ブラウズ(&B)..."
+
+#~ msgid "&Play"
+#~ msgstr "再生(&P)"
+
+#~ msgid "&Record"
+#~ msgstr "録音(&R)"
+
+#~ msgid "&Stop"
+#~ msgstr "停止(&S)"
+
+#~ msgid ""
+#~ "In order to trigger a spoken action, you have to press the key (or "
+#~ "combination of keys) configured below, speak the command and then press "
+#~ "the same key again once you have finished speaking."
+#~ msgstr ""
+#~ "発話アクションをトリガーするには、下に設定したキー (またはキーの組み合わ"
+#~ "せ) を押し、コマンドを発話し、発話終了後にもう一度同じショートカットを押す"
+#~ "必要があります。"
+
+#~ msgid ""
+#~ "<b>Note:</b> To get voice recognition working correctly and in full "
+#~ "duplex mode: \n"
+#~ "make sure <i>Full duplex</i> is checked in your <i>Sound System</i> "
+#~ "options."
+#~ msgstr ""
+#~ "<html>【注意】 音声認識を正しく全二重モードで動作させるには、「サウンドシ"
+#~ "ステム」の設定で「全二重」が有効になっていることを確認してください。</"
+#~ "html>"
+
+#~ msgid "Recording..."
+#~ msgstr "録音中..."
+
+#~ msgid ""
+#~ "The word you recorded is too close to the existing reference '%1'. Please "
+#~ "record another word."
+#~ msgstr ""
+#~ "録音した単語は既存の参照 “%1” に近すぎます。他の単語を録音してください。"
+
+#~ msgid ""
+#~ "Unable to extract voice information from noise.\n"
+#~ "If this error occurs repeatedly, it suggests that there is either too "
+#~ "much background noise, or the quality of your microphone is too poor."
+#~ msgstr ""
+#~ "ノイズのために音声情報を抽出できません。\n"
+#~ "このエラーが繰り返し発生する場合は、周囲に雑音が多すぎるか、マイクロホンの"
+#~ "質が悪すぎるためです。"
+
+#~ msgid ""
+#~ "Enter a code for the sound (e.g. the word you are saying) and record the "
+#~ "same word twice."
+#~ msgstr ""
+#~ "サウンドに対するコード (すなわち、話した単語) を入力し、同じ単語を二度録音"
+#~ "してください。"
+
+#~ msgid ""
+#~ "<qt>%1<br /><font color='red'>The sound code already exists</font></qt>"
+#~ msgstr ""
+#~ "<qt>%1<br /><font color='red'>そのサウンドコードは既に存在します</font></"
+#~ "qt>"
+
+#~ msgid ""
+#~ "<qt>%1<br /><font color='red'>One of the sound references is not correct</"
+#~ "font></qt>"
+#~ msgstr ""
+#~ "<qt>%1<br /><font color='red'>そのサウンドの参照の一つは正しくありません</"
+#~ "font></qt>"
+
+#~ msgid "KDE Hotkeys:"
+#~ msgstr "KDE ホットキー:"
+
+#, fuzzy
+#~ msgid "Export..."
+#~ msgstr "インポート..."
+
+#, fuzzy
+#~ msgid "Name"
+#~ msgstr "名前"
+
+#, fuzzy
+#~ msgid "Enabled"
+#~ msgstr "有効"
+
+#, fuzzy
+#~ msgid "Remote Application:"
+#~ msgstr "リモートアプリケーション:"
+
+#, fuzzy
+#~ msgid "Remote Object:"
+#~ msgstr "リモートオブジェクト:"
+
+#, fuzzy
+#~ msgid "New Global Shortcut"
+#~ msgstr "グローバルショートカット"
+
+#, fuzzy
+#~ msgid ""
+#~ "Unable to contact khotkeys. Your changes are saved but i failed to "
+#~ "activate them"
+#~ msgstr ""
+#~ "khotkeys と交信できません。変更は保存しましたが有効にできませんでした。"
+
+#, fuzzy
+#~ msgid "Input Action : %1"
+#~ msgstr "入力アクション: %1"
+
+#, fuzzy
+#~ msgid "Gesture trigger: "
+#~ msgstr "ジェスチャートリガー"
+
+#, fuzzy
+#~ msgid ""
+#~ "The current action has unsaved changes. If you continue those changes "
+#~ "will be lost!"
+#~ msgstr ""
+#~ "現在のアクションには未保存の変更があります。続行するとこれらの変更は失われ"
+#~ "ます。"
+
+#, fuzzy
+#~ msgid "Start the khotkeys daemon on logon"
+#~ msgstr "ログイン時に入力アクションデーモンを起動する"
+
+#, fuzzy
+#~ msgid "&Enabled"
+#~ msgstr "有効"
+
+#, fuzzy
+#~ msgid "Application"
+#~ msgstr "アプリケーション:"
+
+#, fuzzy
+#~ msgid "&Edit"
+#~ msgstr "編集"
+
+#, fuzzy
+#~ msgid "Active Window"
+#~ msgstr "アクティブウィンドウ"
+
+#, fuzzy
+#~ msgid "Enable Gestures"
+#~ msgstr "ジェスチャー"
+
+#, fuzzy
+#~ msgid "Form"
+#~ msgstr "標準"
+
+#, fuzzy
+#~ msgid "&Modify..."
+#~ msgstr "編集(&E)..."
+
+#, fuzzy
+#~ msgid "General Settings"
+#~ msgstr "設定"
+
+#, fuzzy
+#~ msgid "Gestures Settings"
+#~ msgstr "ジェスチャートリガー"
+
+#, fuzzy
+#~ msgid "Triggers"
+#~ msgstr "トリガー"
+
+#, fuzzy
+#~ msgid "Keyboard Shortcut"
+#~ msgstr "グローバルショートカット"
+
+#, fuzzy
+#~ msgid "Command/URL Settings"
+#~ msgstr "コマンド/URL"
+
+#, fuzzy
+#~ msgid "Menu Entry Settings"
+#~ msgstr "メニューエディタの項目"
+
+#, fuzzy
+#~ msgid "Keyboard Input Settings"
+#~ msgstr "キーボード入力: "
+
+#, fuzzy
+#~ msgid "Command/URL: "
+#~ msgstr "コマンド/URL: "
+
+#, fuzzy
+#~ msgid "&Disable"
+#~ msgstr "無効"
+
+#, fuzzy
+#~ msgid "Command/URL..."
+#~ msgstr "コマンド/URL"
+
+#, fuzzy
+#~ msgid "K-Menu Entry..."
+#~ msgstr "K-メニューの項目"
+
+#, fuzzy
+#~ msgid "D-Bus Call..."
+#~ msgstr "D-Bus コマンド"
+
+#, fuzzy
+#~ msgid "Activate Window..."
+#~ msgstr "アクティブウィンドウ..."
+
+#, fuzzy
+#~ msgid "K-Menu Entry (simple)"
+#~ msgstr "K-メニューの項目"
+
+#, fuzzy
+#~ msgid "Gesture -> Keyboard Input (simple)"
+#~ msgstr "キーボード入力を送る"
+
+#, fuzzy
+#~ msgid "&Reset"
+#~ msgstr "削除(&L)"
+
+#, fuzzy
+#~ msgid "New Action Group"
+#~ msgstr "新しいアクション"
+
+#, fuzzy
+#~ msgid "Shortcut Trigger..."
+#~ msgstr "ショートカットトリガー: "
+
+#, fuzzy
+#~ msgid "Gesture Trigger..."
+#~ msgstr "ジェスチャートリガー"
+
+#, fuzzy
+#~ msgid "Window Trigger..."
+#~ msgstr "ウィンドウトリガー: "
+
+#, fuzzy
+#~ msgid "Voice Trigger..."
+#~ msgstr "音声トリガー: "
+
+#, fuzzy
+#~ msgid "&Disable:"
+#~ msgstr "無効"
+
+#, fuzzy
+#~ msgid "&Comment:"
+#~ msgstr "コメント:"
+
+#, fuzzy
+#~ msgid "Command/URL to execute:"
+#~ msgstr "コマンド/URL: "
+
+#, fuzzy
+#~ msgid "Called &function:"
+#~ msgstr "関数:"
+
+#, fuzzy
+#~ msgid "Run &D-Bus browser"
+#~ msgstr "D-Bus ブラウザを起動"
+
+#, fuzzy
+#~ msgid "Action &type:"
+#~ msgstr "アクション"
+
+#, fuzzy
+#~ msgid "Action &name:"
+#~ msgstr "アクション"
+
+#, fuzzy
+#~ msgid "Gestures:"
+#~ msgstr "ジェスチャー"
+
+#, fuzzy
+#~ msgid "Gesture timeout (ms):"
+#~ msgstr "ジェスチャートリガー"
+
+#, fuzzy
+#~ msgid "Keyboard_input_widget_ui"
+#~ msgstr "キーボード入力: "
+
+#, fuzzy
+#~ msgid "Keyboard input:"
+#~ msgstr "キーボード入力: "
+
+#, fuzzy
+#~ msgid "Modify..."
+#~ msgstr "編集..."
+
+#, fuzzy
+#~ msgid "Send Input To"
+#~ msgstr "キーボード入力を送る"
+
+#, fuzzy
+#~ msgid "&New Action"
+#~ msgstr "新しいアクション"
+
+#, fuzzy
+#~ msgid "New &Group"
+#~ msgstr "新しいグループ"
+
+#, fuzzy
+#~ msgid "Delete Action"
+#~ msgstr "新しいアクション"
+
+#, fuzzy
+#~ msgid "Global &Settings"
+#~ msgstr "設定"
+
+# |,no-bad-patterns
+#, fuzzy
+#~ msgid "Menu entry to execute:"
+#~ msgstr "メニュー項目: "
+
+#, fuzzy
+#~ msgid "Shortcut:"
+#~ msgstr "ショートカット(&S):"
+
+#, fuzzy
+#~ msgid "Window activates"
+#~ msgstr "ウィンドウのタイトル:"
+
+#, fuzzy
+#~ msgid "Window deactivates"
+#~ msgstr "ウィンドウのタイトル:"
+
+#, fuzzy
+#~ msgid "Simple Window..."
+#~ msgstr "アクティブウィンドウ..."

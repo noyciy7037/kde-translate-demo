@@ -1,0 +1,79 @@
+# Tomohiro Hyakutake <tomhioo@outlook.jp>, 2019, 2020.
+# SPDX-FileCopyrightText: 2023, 2024 Ryuichi Yamada <ryuichi_ya220@outlook.jp>
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-09-20 11:50+0200\n"
+"PO-Revision-Date: 2024-02-14 19:33+0900\n"
+"Last-Translator: Ryuichi Yamada <ryuichi_ya220@outlook.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: \n"
+"X-Text-Markup: \n"
+"X-Generator: Lokalize 23.08.4\n"
+
+#. +> trunk6 stable6
+#: applet/metadata.json
+msgctxt "Name"
+msgid "Audio Volume"
+msgstr "音量"
+
+#. +> trunk6 stable6
+#: applet/metadata.json
+msgctxt "Description"
+msgid "Adjust the volume of devices and applications"
+msgstr "デバイスとアプリケーションの音量を調整"
+
+#. +> trunk6 stable6 stable5
+#: applet/metadata.json src/kcm/kcm_pulseaudio.json
+msgctxt "Authors Name"
+msgid "Harald Sitter"
+msgstr "Harald Sitter"
+
+#. +> trunk6 stable6
+#: src/kcm/kcm_pulseaudio.json
+msgctxt "Name"
+msgid "Sound"
+msgstr "音声"
+
+#. +> stable5
+#: src/kcm/kcm_pulseaudio.json
+msgctxt "Name"
+msgid "Audio"
+msgstr "オーディオ"
+
+#. +> trunk6 stable6 stable5
+#: src/kcm/kcm_pulseaudio.json
+msgctxt "Description"
+msgid "Configure audio devices and volume"
+msgstr "オーディオデバイスと音量を設定"
+
+#. +> trunk6 stable6 stable5
+#: src/kcm/kcm_pulseaudio.json
+msgctxt "X-KDE-Keywords"
+msgid ""
+"sound,volume,output,input,speakers,microphone,audio,music,hardware,devices,alsa,pulseaudio,pipewire,jack,hdmi,recording,playback,streams,sink,balance,audio "
+"balance,mono,stereo,surround,sound card,right speaker,left speaker,center "
+"speaker,notification "
+"sounds,analog,digital,headphone,headphones,earbuds,headset,earpiece,channel,channels,2.0,2.1,5.1,6.1,7.1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/kded/audioshortcutsservice.json
+msgctxt "Name"
+msgid "Audio Shortcuts"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/kded/audioshortcutsservice.json
+#, fuzzy
+#| msgctxt "Description"
+#| msgid "Configure audio devices and volume"
+msgctxt "Description"
+msgid "Provides shortcuts for audio device and volume control"
+msgstr "オーディオデバイスと音量を設定"

@@ -1,0 +1,757 @@
+# Translation of kdevsubversion into Japanese.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2008.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdevsubversion\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-04-18 17:41+0200\n"
+"PO-Revision-Date: 2010-07-17 15:10-0700\n"
+"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. +> trunk6 stable6
+#: kdevsvnplugin.cpp:334
+#, fuzzy, kde-format
+#| msgid "Copy..."
+msgctxt "@action:inmenu"
+msgid "Copy..."
+msgstr "コピー..."
+
+#. +> trunk6 stable6
+#: kdevsvnplugin.cpp:341
+#, fuzzy, kde-format
+#| msgid "Move..."
+msgctxt "@action:inmenu"
+msgid "Move..."
+msgstr "移動..."
+
+#. +> trunk6 stable6
+#: kdevsvnplugin.cpp:356 kdevsvnplugin.cpp:392
+#, kde-format
+msgid "Please select only one item for this operation"
+msgstr "この操作には一つだけ選んでください"
+
+#. +> trunk6 stable6
+#: kdevsvnplugin.cpp:370
+#, fuzzy, kde-format
+#| msgid "Destination Path:"
+msgctxt "@label"
+msgid "Destination file/directory"
+msgstr "チェックアウト先パス:"
+
+#. +> trunk6 stable6
+#: kdevsvnplugin.cpp:382
+#, kde-format
+msgid "Copying only works on local files"
+msgstr "ローカルファイルのみコピーできます"
+
+#. +> trunk6 stable6
+#: kdevsvnplugin.cpp:406
+#, kde-format
+msgid "Destination file/directory"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kdevsvnplugin.cpp:418
+#, kde-format
+msgid "Moving only works on local files/dirs"
+msgstr "ローカルファイルとディレクトリのみ移動できます"
+
+#. +> trunk6 stable6
+#: kdevsvnplugin.cpp:425
+#, kde-format
+msgid "Subversion"
+msgstr "Subversion"
+
+#. +> trunk6 stable6
+#: svnaddjob.cpp:73
+#, kde-format
+msgid "Subversion Add"
+msgstr "Subversion Add"
+
+#. +> trunk6 stable6
+#: svnaddjob.cpp:84
+#, kde-format
+msgid "Not enough information to add file"
+msgstr "ファイルを追加するには情報が足りません"
+
+#. +> trunk6 stable6
+#: svnblamejob.cpp:130
+#, kde-format
+msgid "Subversion Annotate"
+msgstr "Subversion Annotate"
+
+#. +> trunk6 stable6
+#: svnblamejob.cpp:143
+#, kde-format
+msgid "Not enough information to blame location"
+msgstr ""
+
+#. +> trunk6 stable6
+#: svncheckoutjob.cpp:84
+#, kde-format
+msgid "Subversion Checkout"
+msgstr "Subversion Checkout"
+
+#. +> trunk6 stable6
+#: svncheckoutjob.cpp:95
+#, kde-format
+msgid "Not enough information to checkout"
+msgstr "チェックアウトするには情報が足りません"
+
+#. +> trunk6 stable6
+#: svncommitjob.cpp:108
+#, fuzzy, kde-format
+#| msgid "Subversion Cat"
+msgid "Subversion Commit"
+msgstr "Subversion Cat"
+
+#. +> trunk6 stable6
+#: svncommitjob.cpp:119
+#, kde-format
+msgid "Not enough information to execute commit"
+msgstr "コミットするには情報が足りません"
+
+#. +> trunk6 stable6
+#: svncommitjob.cpp:121
+#, kde-format
+msgid "Committing..."
+msgstr "コミット中..."
+
+#. +> trunk6 stable6
+#: svncopyjob.cpp:71
+#, kde-format
+msgid "Subversion Copy"
+msgstr "Subversion Copy"
+
+#. +> trunk6 stable6
+#: svncopyjob.cpp:82
+#, kde-format
+msgid "Not enough information to copy file"
+msgstr "ファイルをコピーするには情報が足りません"
+
+#. +> trunk6 stable6
+#: svndiffjob.cpp:255
+#, kde-format
+msgid "Subversion Diff"
+msgstr "Subversion Diff"
+
+#. +> trunk6 stable6
+#: svndiffjob.cpp:271
+#, kde-format
+msgid "Not enough information given to execute diff"
+msgstr "差分を得るには情報が足りません"
+
+#. +> trunk6 stable6
+#: svnimportjob.cpp:86
+#, kde-format
+msgid "Subversion Import"
+msgstr "Subversion Import"
+
+#. +> trunk6 stable6
+#: svnimportjob.cpp:98
+#, kde-format
+msgid "Not enough information to import"
+msgstr "インポートするには情報が足りません"
+
+#. +> trunk6 stable6
+#: svninfojob.cpp:82
+#, kde-format
+msgid "Subversion Info"
+msgstr "Subversion Info"
+
+#. +> trunk6 stable6
+#: svninfojob.cpp:113
+#, kde-format
+msgid "Not enough information to execute info job"
+msgstr ""
+
+#. +> trunk6 stable6
+#: svninternaljobbase.cpp:87
+#, kde-format
+msgctxt "A file was marked to be added to svn"
+msgid "Added %1"
+msgstr "%1 を追加予定"
+
+#. +> trunk6 stable6
+#: svninternaljobbase.cpp:90
+#, kde-format
+msgctxt "A file was marked for deletion from svn"
+msgid "Deleted %1"
+msgstr "%1 を削除予定"
+
+#. +> trunk6 stable6
+#: svninternaljobbase.cpp:94
+#, kde-format
+msgctxt "A file was deleted during an svn update operation"
+msgid "Deleted %1"
+msgstr "%1 を削除"
+
+#. +> trunk6 stable6
+#: svninternaljobbase.cpp:97
+#, kde-format
+msgctxt "A file was added during an svn update operation"
+msgid "Added %1"
+msgstr "%1 を追加"
+
+#. +> trunk6 stable6
+#: svninternaljobbase.cpp:137
+#, kde-format
+msgid "Revision %1"
+msgstr "リビジョン %1"
+
+#. +> trunk6 stable6
+#: svninternaljobbase.cpp:140
+#, kde-format
+msgid "Updating externals: %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: svninternaljobbase.cpp:148
+#, kde-format
+msgid "Sending %1"
+msgstr "%1 を送信中"
+
+#. +> trunk6 stable6
+#: svninternaljobbase.cpp:152
+#, kde-format
+msgid "Adding %1 using mimetype %2."
+msgstr ""
+
+#. +> trunk6 stable6
+#: svninternaljobbase.cpp:154
+#, kde-format
+msgid "Adding %1."
+msgstr "%1 を追加中。"
+
+#. +> trunk6 stable6
+#: svninternaljobbase.cpp:158
+#, kde-format
+msgid "Deleting %1."
+msgstr "%1 を削除中。"
+
+#. +> trunk6 stable6
+#: svninternaljobbase.cpp:161
+#, kde-format
+msgid "Replacing %1."
+msgstr ""
+
+#. +> trunk6 stable6
+#: svninternaljobbase.cpp:166
+#, kde-format
+msgid "Transmitting file data "
+msgstr "ファイルデータを送信中 "
+
+#. +> trunk6 stable6
+#: svninternaljobbase.cpp:172
+#, kde-format
+msgid "Blame finished for revision %1, path %2"
+msgstr ""
+
+#. +> trunk6 stable6
+#: svninternaljobbase.cpp:175
+#, kde-format
+msgid "Reverted working copy %1"
+msgstr "作業コピー %1 を復元"
+
+#. +> trunk6 stable6
+#: svninternaljobbase.cpp:178
+#, kde-format
+msgid "Reverting failed on working copy %1"
+msgstr "作業コピー %1 を復元するにの失敗しました"
+
+#. +> trunk6 stable6
+#: svninternaljobbase.cpp:181
+#, kde-format
+msgid "Copied %1"
+msgstr "%1 をコピー"
+
+#. +> trunk6 stable6
+#: svninternaljobbase.cpp:236
+#, kde-format
+msgid "Certificate is not yet valid."
+msgstr "証明書はまだ有効ではありません。"
+
+#. +> trunk6 stable6
+#: svninternaljobbase.cpp:240
+#, kde-format
+msgid "Certificate has expired."
+msgstr "証明書は失効しました。"
+
+#. +> trunk6 stable6
+#: svninternaljobbase.cpp:244
+#, kde-format
+msgid "Certificate's CN (hostname) doesn't match the remote hostname."
+msgstr "証明書の CN がリモートのホスト名と一致しません。"
+
+#. +> trunk6 stable6
+#: svninternaljobbase.cpp:248
+#, kde-format
+msgid "Certificate authority is unknown."
+msgstr "不明な認証局です。"
+
+#. +> trunk6 stable6
+#: svninternaljobbase.cpp:252
+#, kde-format
+msgid "Other unknown error."
+msgstr "他の不明なエラー"
+
+#. +> trunk6 stable6
+#: svnjobbase.cpp:114
+#, kde-format
+msgid "Enter Login for: %1"
+msgstr "%1 のログインを入力"
+
+#. +> trunk6 stable6
+#: svnjobbase.cpp:188
+#, kde-format
+msgid "Completed"
+msgstr "完了"
+
+#. +> trunk6 stable6
+#: svnjobbase.cpp:203
+#, kde-format
+msgid ""
+"Error executing Job:\n"
+"%1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: svnlogjob.cpp:105
+#, kde-format
+msgid "Subversion Log"
+msgstr "Subversion Log"
+
+#. +> trunk6 stable6
+#: svnlogjob.cpp:119
+#, kde-format
+msgid "Not enough information to log location"
+msgstr ""
+
+#. +> trunk6 stable6
+#: svnmovejob.cpp:83
+#, kde-format
+msgid "Subversion Move"
+msgstr "Subversion Move"
+
+#. +> trunk6 stable6
+#: svnmovejob.cpp:94
+#, kde-format
+msgid "Not enough information to move file"
+msgstr "ファイルを移動するには情報が不足しています"
+
+#. +> trunk6 stable6
+#: svnremovejob.cpp:76
+#, kde-format
+msgid "Subversion Remove"
+msgstr "Subversion Remove"
+
+#. +> trunk6 stable6
+#: svnremovejob.cpp:87
+#, kde-format
+msgid "Not enough information to execute remove job"
+msgstr ""
+
+#. +> trunk6 stable6
+#: svnrevertjob.cpp:74
+#, kde-format
+msgid "Subversion Revert"
+msgstr "Subversion Revert"
+
+#. +> trunk6 stable6
+#: svnrevertjob.cpp:85
+#, kde-format
+msgid "Not enough information to execute revert"
+msgstr ""
+
+#. +> trunk6 stable6
+#: svnssldialog.cpp:28
+#, fuzzy, kde-format
+#| msgid "SSL Server Certificate"
+msgctxt "@title:window"
+msgid "SSL Server Certificate"
+msgstr "SSL サーバ証明書"
+
+#. +> trunk6 stable6
+#: svnssldialog.cpp:30
+#, fuzzy, kde-format
+#| msgid "Trust Permanently"
+msgctxt "@action:button"
+msgid "Trust Permanently"
+msgstr "永続的に信用"
+
+#. +> trunk6 stable6
+#: svnssldialog.cpp:31
+#, fuzzy, kde-format
+#| msgid "Trust Temporarily"
+msgctxt "@action:button"
+msgid "Trust Temporarily"
+msgstr "一時的に信用"
+
+#. +> trunk6 stable6
+#: svnssldialog.cpp:62
+#, fuzzy, kde-format
+#| msgid "Ssl Server Certificate: %1"
+msgctxt "@title:window"
+msgid "SSL Server Certificate: %1"
+msgstr "SSL サーバ証明書: %1"
+
+#. +> trunk6 stable6
+#: svnstatusjob.cpp:117
+#, kde-format
+msgid "Subversion Status"
+msgstr "Subversion Status"
+
+#. +> trunk6 stable6
+#: svnstatusjob.cpp:130
+#, kde-format
+msgid "Not enough information to execute status job"
+msgstr ""
+
+#. +> trunk6 stable6
+#: svnupdatejob.cpp:107
+#, kde-format
+msgid "Subversion Update"
+msgstr "Subversion Update"
+
+#. +> trunk6 stable6
+#: svnupdatejob.cpp:119
+#, kde-format
+msgid "Not enough Information to execute update"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, labelForSrc)
+#. +> trunk6 stable6
+#: ui/importmetadatawidget.ui:20
+#, fuzzy, kde-format
+#| msgid "Source directory:"
+msgctxt "@label:textbox"
+msgid "Source directory:"
+msgstr "ソースディレクトリ:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. +> trunk6 stable6
+#: ui/importmetadatawidget.ui:27
+#, fuzzy, kde-format
+#| msgid "Repository:"
+msgctxt "@label:textbox"
+msgid "Repository:"
+msgstr "リポジトリ:"
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, dest)
+#. +> trunk6 stable6
+#: ui/importmetadatawidget.ui:34
+#, fuzzy, kde-format
+#| msgid "Repository Location"
+msgctxt "@info:tooltip"
+msgid "Repository location"
+msgstr "リポジトリの場所"
+
+#. i18n: ectx: property (whatsThis), widget (QLineEdit, dest)
+#. +> trunk6 stable6
+#: ui/importmetadatawidget.ui:37
+#, fuzzy, kde-format
+#| msgid "Choose the repository into which the source directory is imported"
+msgctxt "@info:whatsthis"
+msgid "Choose the repository into which the source directory is imported"
+msgstr "ソースディレクトリをインポートするリポジトリを選択"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk6 stable6
+#: ui/importmetadatawidget.ui:57
+#, fuzzy, kde-format
+#| msgid "Commit Message:"
+msgctxt "@label:textbox"
+msgid "Commit message:"
+msgstr "コミットメッセージ:"
+
+#. i18n: ectx: property (text), widget (QLabel, msgLabel)
+#. +> trunk6 stable6
+#: ui/ssltrustdialog.ui:17
+#, kde-format
+msgid ""
+"There were errors validating the server certificate.\n"
+"Do you want to trust this certificate?"
+msgstr ""
+"サーバ証明書を検証中にエラーがありました。\n"
+"この証明書を信用しますか？"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#. +> trunk6 stable6
+#: ui/ssltrustdialog.ui:30
+#, kde-format
+msgid "Reasons why the validation failed"
+msgstr "検証が失敗した理由"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#. +> trunk6 stable6
+#: ui/ssltrustdialog.ui:52
+#, fuzzy, kde-format
+#| msgid "Certificate Information"
+msgctxt "@title:group"
+msgid "Certificate Information"
+msgstr "証明書情報"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk6 stable6
+#: ui/ssltrustdialog.ui:64
+#, fuzzy, kde-format
+#| msgid "Hostname:"
+msgctxt "@label:textbox"
+msgid "Hostname:"
+msgstr "ホスト名:"
+
+#. i18n: ectx: property (text), widget (QLabel, hostname)
+#. +> trunk6 stable6
+#: ui/ssltrustdialog.ui:77
+#, kde-format
+msgid "someserver"
+msgstr "あるサーバ"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. +> trunk6 stable6
+#: ui/ssltrustdialog.ui:84
+#, fuzzy, kde-format
+#| msgid "Issuer:"
+msgctxt "@label:textbox"
+msgid "Issuer:"
+msgstr "発行者:"
+
+#. i18n: ectx: property (text), widget (QLabel, issuer)
+#. +> trunk6 stable6
+#: ui/ssltrustdialog.ui:97
+#, kde-format
+msgid "someissuer"
+msgstr "ある発行者"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#. +> trunk6 stable6
+#: ui/ssltrustdialog.ui:104
+#, fuzzy, kde-format
+#| msgid "Valid From:"
+msgctxt "@label:textbox"
+msgid "Valid from:"
+msgstr "有効期限開始:"
+
+#. i18n: ectx: property (text), widget (QLabel, validFrom)
+#. +> trunk6 stable6
+#: ui/ssltrustdialog.ui:117
+#, kde-format
+msgid "validfrom"
+msgstr "有効開始"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#. +> trunk6 stable6
+#: ui/ssltrustdialog.ui:124
+#, fuzzy, kde-format
+#| msgid "Valid Until:"
+msgctxt "@label:textbox"
+msgid "Valid until:"
+msgstr "有効期限終了:"
+
+#. i18n: ectx: property (text), widget (QLabel, validUntil)
+#. +> trunk6 stable6
+#: ui/ssltrustdialog.ui:137
+#, kde-format
+msgid "validuntil"
+msgstr "有効終了"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#. +> trunk6 stable6
+#: ui/ssltrustdialog.ui:144
+#, fuzzy, kde-format
+#| msgid "Fingerprint:"
+msgctxt "@label:textbox"
+msgid "Fingerprint:"
+msgstr "フィンガープリント:"
+
+#. i18n: ectx: property (text), widget (QLabel, fingerprint)
+#. +> trunk6 stable6
+#: ui/ssltrustdialog.ui:157
+#, kde-format
+msgid "fingerprint"
+msgstr "フィンガープリント"
+
+#~ msgid "Copy..."
+#~ msgstr "コピー..."
+
+#~ msgid "Move..."
+#~ msgstr "移動..."
+
+#~ msgid "Ssl Server Certificate"
+#~ msgstr "SSL サーバ証明書"
+
+#~ msgid "Trust Permanently"
+#~ msgstr "永続的に信用"
+
+#~ msgid "Trust Temporarily"
+#~ msgstr "一時的に信用"
+
+#~ msgid "Ssl Server Certificate: %1"
+#~ msgstr "SSL サーバ証明書: %1"
+
+#~ msgid "Source directory:"
+#~ msgstr "ソースディレクトリ:"
+
+#~ msgid "Repository:"
+#~ msgstr "リポジトリ:"
+
+#~ msgid "Repository Location"
+#~ msgstr "リポジトリの場所"
+
+#~ msgid "Repository Location to import into"
+#~ msgstr "インポート先のリポジトリ"
+
+#~ msgid "Choose the repository into which the source directory is imported"
+#~ msgstr "ソースディレクトリをインポートするリポジトリを選択"
+
+#, fuzzy
+#~| msgid "Commit Message:"
+#~ msgid "Commit message:"
+#~ msgstr "コミットメッセージ:"
+
+#~ msgid "SSL Server Certificate"
+#~ msgstr "SSL サーバ証明書"
+
+#~ msgid "Certificate Information"
+#~ msgstr "証明書情報"
+
+#~ msgid "Hostname:"
+#~ msgstr "ホスト名:"
+
+#~ msgid "Issuer:"
+#~ msgstr "発行者:"
+
+#~ msgid "Valid From:"
+#~ msgstr "有効期限開始:"
+
+#~ msgid "Valid Until:"
+#~ msgstr "有効期限終了:"
+
+#~ msgid "Fingerprint:"
+#~ msgstr "フィンガープリント:"
+
+#~ msgid "Import into Subversion repository"
+#~ msgstr "Subversion リポジトリへインポート"
+
+#~ msgid "Checkout from Subversion repository"
+#~ msgstr "Subversion リポジトリからチェックアウト"
+
+#~ msgid "Subversion Cat"
+#~ msgstr "Subversion Cat"
+
+#~ msgid "Not enough information to execute cat"
+#~ msgstr "cat を実行するには情報が足りません"
+
+#~ msgid "Start Revision"
+#~ msgstr "開始リビジョン"
+
+#~ msgid "End Revision"
+#~ msgstr "終了リビジョン"
+
+#~ msgid "Checkout"
+#~ msgstr "チェックアウト"
+
+#~ msgid "Repository Url:"
+#~ msgstr "リポジトリの URL:"
+
+#~ msgid "Recursive:"
+#~ msgstr "再帰的:"
+
+#~ msgid "Requested local path:"
+#~ msgstr "ローカルパス:"
+
+#~ msgid "Source"
+#~ msgstr "ソース"
+
+#~ msgid "Specify by repository URL"
+#~ msgstr "リポジトリ URL で指定"
+
+#~ msgid "Specify by local working copy"
+#~ msgstr "ローカル作業コピーで指定"
+
+#~ msgid "Source revision"
+#~ msgstr "ソースリビジョン"
+
+#~ msgid "Destination"
+#~ msgstr "対象"
+
+#~ msgid "Target Url"
+#~ msgstr "対象 URL"
+
+#~ msgid "Non Recursive"
+#~ msgstr "再帰しない"
+
+#~ msgid "Ignore contents type"
+#~ msgstr "contents type を無視"
+
+#~ msgid "Subversion Log View Options"
+#~ msgstr "Subversion Log 表示オプション"
+
+#~ msgid "Maximum number of logs to be displayed"
+#~ msgstr "表示するログの最大数"
+
+#~ msgid "Forcefully delete locally modified and/or unversioned items"
+#~ msgstr ""
+#~ "ローカルで変更されたか、バージョン管理されていないファイルを強制的に削除"
+
+#~ msgid "Select working copies to be reverted:"
+#~ msgstr "復元する作業コピーを選択:"
+
+#~ msgid "Select"
+#~ msgstr "選択"
+
+#~ msgid "Working Copy"
+#~ msgstr "作業コピー"
+
+#~ msgid "Recursive"
+#~ msgstr "再帰的"
+
+#~ msgid "Specify as number:"
+#~ msgstr "数値として指定:"
+
+#~ msgid "Specify as keyword:"
+#~ msgstr "キーワードとして指定:"
+
+#~ msgid "Specify as date:"
+#~ msgstr "日時として指定:"
+
+#~ msgid "Specify revision"
+#~ msgstr "リビジョンを指定"
+
+#~ msgid "Non recursive"
+#~ msgstr "再帰しない"
+
+#~ msgid "Do not ignore svn:ignore"
+#~ msgstr "svn:ignore を無視しない"
+
+#~ msgid "Select Revision"
+#~ msgstr "リビジョンを選択"
+
+#~ msgid "Support for Subversion version control systems"
+#~ msgstr "Subversion バージョン管理システムのサポート"
+
+#~ msgid "Commit Message:"
+#~ msgstr "コミットメッセージ:"
+
+#~ msgctxt "NAME OF TRANSLATORS"
+#~ msgid "Your names"
+#~ msgstr "Fumiaki Okushi"
+
+#~ msgctxt "EMAIL OF TRANSLATORS"
+#~ msgid "Your emails"
+#~ msgstr "okushi@kde.gr.jp"
+
+#~ msgid "Subversion Log (%1)"
+#~ msgstr "Subversion ログ (%1)"
+
+#~ msgid "Annotation (%1)"
+#~ msgstr "注釈 (%1)"

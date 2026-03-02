@@ -1,0 +1,1629 @@
+# Translation of kdevcppdebugger into Japanese.
+# Taiki Komoda <kom@kde.gr.jp>, 2002.
+# Hideki Ikemoto <ikemo@wakaba.jp>, 2003, 2004.
+# Shimada Hirofumi <hirosoft@users.sourceforge.net>, 2004.
+# Kurose Shushi <md81@bird,email.ne.jp>, 2004.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2007, 2010.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdevcppdebugger\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-11-20 14:05+0100\n"
+"PO-Revision-Date: 2010-07-18 15:54-0700\n"
+"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. +> trunk6 stable6
+#: debuggerplugin.cpp:35 gdbconfigpage.cpp:94
+#, kde-format
+msgid "GDB"
+msgstr "GDB"
+
+#. i18n: ectx: property (windowTitle), widget (QDialog, DebuggerTracingDialog)
+#. +> trunk6 stable6
+#: debuggertracingdialog.ui:14
+#, fuzzy, kde-format
+#| msgid "Tracing Configuration"
+msgctxt "@title:window"
+msgid "Tracing Configuration"
+msgstr "トレースの設定"
+
+#. i18n: ectx: property (whatsThis), widget (QLineEdit, customFormat)
+#. +> trunk6 stable6
+#: debuggertracingdialog.ui:26
+#, no-c-format, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"<b>Custom format string</b>\n"
+"<p>Specify a C-style format string that will be used when printing the "
+"chosen expression. For example:\n"
+"<p align=\"center\"> <tt>Tracepoint 1: g = %d</tt></p>\n"
+"If custom format string is not enabled, names and values of all expressions "
+"will be printed, using \"%d\" as format specifier for all expressions."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, expressionsLabel)
+#. +> trunk6 stable6
+#: debuggertracingdialog.ui:36
+#, kde-format
+msgctxt "@label"
+msgid "Expressions to print:"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, enable)
+#. +> trunk6 stable6
+#: debuggertracingdialog.ui:47
+#, kde-format
+msgctxt "@info:whatthis"
+msgid ""
+"<b>Enable tracing</b>\n"
+"<p>Tracing is a mechanism to automatically print values of the chosen "
+"expressions and continue execution when breakpoint is hit. You can think of "
+"it as printf debugging that does not require modifying the source.</p>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, enable)
+#. +> trunk6 stable6
+#: debuggertracingdialog.ui:50
+#, fuzzy, kde-format
+#| msgid "Enable tracing"
+msgctxt "@option:check"
+msgid "Enable tracing"
+msgstr "トレースを有効にする"
+
+#. i18n: ectx: property (text), widget (QCheckBox, enableCustomFormat)
+#. +> trunk6 stable6
+#: debuggertracingdialog.ui:60
+#, kde-format
+msgctxt "@option:check"
+msgid "Custom format string"
+msgstr ""
+
+#. +> trunk6 stable6
+#: debugsession.cpp:162
+#, kde-format
+msgid ""
+"No environment profile specified, looks like a broken configuration, please "
+"check run configuration '%1'. Using default environment profile."
+msgstr ""
+
+#. +> trunk6 stable6
+#: debugsession.cpp:253
+#, kde-format
+msgid "<unknown version>"
+msgstr ""
+
+#. +> trunk6 stable6
+#: debugsession.cpp:272
+#, kde-format
+msgid "<b>You need gdb 7.0.0 or higher.</b><br />You are using: %1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: gdb.cpp:68
+#, kde-format
+msgid "Could not locate the debugging shell '%1'."
+msgstr "デバッグシェル “%1” を見つけることができませんでした。"
+
+#. +> trunk6 stable6
+#: gdbconfigpage.cpp:79
+#, fuzzy, kde-format
+#| msgid "GDB Configuration"
+msgctxt "@title:tab"
+msgid "GDB Configuration"
+msgstr "GDB の設定"
+
+#. +> trunk6 stable6
+#: gdbconfigpage.cpp:99
+#, kde-format
+msgid "Executes a native application in GDB"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#. +> trunk6 stable6
+#: gdbconfigpage.ui:29
+#, fuzzy, kde-format
+#| msgid "Debugger"
+msgctxt "@title:group"
+msgid "Debugger"
+msgstr "デバッガ"
+
+#. i18n: ectx: property (text), widget (QLabel, gdbPath_label)
+#. +> trunk6 stable6
+#: gdbconfigpage.ui:35
+#, fuzzy, kde-format
+#| msgid "Debugger executable:"
+msgctxt "@label:chooser"
+msgid "Debugger e&xecutable:"
+msgstr "デバッガ実行ファイル:"
+
+#. i18n: ectx: property (toolTip), widget (KUrlRequester, kcfg_gdbPath)
+#. +> trunk6 stable6
+#: gdbconfigpage.ui:48
+#, fuzzy, kde-format
+#| msgid "Gdb executable"
+msgctxt "@info:tooltip"
+msgid "Gdb executable"
+msgstr "GDB 実行ファイル"
+
+#. i18n: ectx: property (whatsThis), widget (KUrlRequester, kcfg_gdbPath)
+#. +> trunk6 stable6
+#: gdbconfigpage.ui:51
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"To run \"gdb\" executable from $PATH, leave this field empty. To run custom "
+"gdb, for example, for a different architecture, enter the executable name "
+"here. You can either run gdb from $PATH, but with a different name (say, "
+"\"arm-gdb\"), by typing the name here, or specify full path to the gdb "
+"executable."
+msgstr ""
+
+#. i18n: ectx: property (placeholderText), widget (KUrlRequester, kcfg_gdbPath)
+#. +> trunk6 stable6
+#: gdbconfigpage.ui:54
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Override path to gdb executable..."
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QLabel, debuggingShell_label)
+#. i18n: ectx: property (toolTip), widget (KUrlRequester, kcfg_debuggingShell)
+#. +> trunk6 stable6
+#: gdbconfigpage.ui:61 gdbconfigpage.ui:77
+#, kde-format
+msgctxt "@info:tooltip"
+msgid ""
+"<html><head/><body><p>If you want gdb to be executed by a special shell "
+"script, which for example properly sets the library path, insert it here "
+"e.g.: /path/to/script.sh --scriptArguments</p><p>Note: your script'll be "
+"invoked like this: /path/to/script.sh --scriptArguments debugger --"
+"debuggerArguments. So script.sh <span style=\" font-weight:600;\">must</"
+"span> invoke &quot;debugger&quot; executable manually.</p></body></html>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, debuggingShell_label)
+#. +> trunk6 stable6
+#: gdbconfigpage.ui:64
+#, fuzzy, kde-format
+#| msgctxt "Shell script to be executed at run time"
+#| msgid "R&un shell script:"
+msgctxt "@label:chooser"
+msgid "She&ll script:"
+msgstr "実行するシェルスクリプト(&U):"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#. +> trunk6 stable6
+#: gdbconfigpage.ui:87
+#, fuzzy, kde-format
+#| msgid "Options"
+msgctxt "@title:group"
+msgid "Options"
+msgstr "オプション"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#. +> trunk6 stable6
+#: gdbconfigpage.ui:96
+#, fuzzy, kde-format
+#| msgid "Display static &members"
+msgctxt "@option:check"
+msgid "Display static &members:"
+msgstr "静的メンバを表示する(&M)"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_displayStaticMembers)
+#. +> trunk6 stable6
+#: gdbconfigpage.ui:111
+#, fuzzy, kde-format
+#| msgid ""
+#| "Displaying static members makes GDB slower in\n"
+#| "producing data within KDE and Qt.\n"
+#| "It may change the \"signature\" of the data\n"
+#| "which QString and friends rely on,\n"
+#| "but if you need to debug into these values then\n"
+#| "check this option."
+msgctxt "@info:whatsthis"
+msgid ""
+"Displaying static members makes GDB slower in\n"
+"producing data with Qt-based code.\n"
+"It may change the \"signature\" of the data\n"
+"which QString and friends rely on,\n"
+"but if you need to debug into these values then\n"
+"check this option."
+msgstr ""
+"KDE や Qt 内でデータ作成時に静的メンバを表示させると、\n"
+"GDB は遅くなります。\n"
+"また、QString やそのフレンドクラスが依存している\n"
+"データの「シグニチャ」を変更してしまう可能性があります。\n"
+"しかし、もしそれら値の中までデバッグする必要があるのなら\n"
+"このオプションをチェックしてください。"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. +> trunk6 stable6
+#: gdbconfigpage.ui:121
+#, fuzzy, kde-format
+#| msgid "Display &demangled names"
+msgctxt "@option:check"
+msgid "Display &demangled names:"
+msgstr "修飾されていない名前を表示する(&D)"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_asmDemangle)
+#. +> trunk6 stable6
+#: gdbconfigpage.ui:133
+#, fuzzy, kde-format
+#| msgid ""
+#| "When displaying the disassembled code you\n"
+#| "can select to see the methods' mangled names.\n"
+#| "However, non-mangled names are easier to read."
+msgctxt "@info:whatthis"
+msgid ""
+"When displaying the disassembled code you\n"
+"can select to see the methods' mangled names.\n"
+"However, non-mangled names are easier to read."
+msgstr ""
+"逆アセンブルされたコードを表示する際に、\n"
+"修飾されたシンボル名を表示することもできます。\n"
+"ですが、修飾されていない名前の方が読みやすいです。"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk6 stable6
+#: gdbconfigpage.ui:143
+#, fuzzy, kde-format
+#| msgid "Start in debugger"
+msgctxt "@label:listbox"
+msgid "S&tart debugger with:"
+msgstr "デバッガで起動"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_startWith)
+#. +> trunk6 stable6
+#: gdbconfigpage.ui:154
+#, fuzzy, kde-format
+#| msgid "Application interrupted"
+msgctxt "@item:inlistbox start debugger with"
+msgid "Application Output"
+msgstr "アプリケーションはインタラプトされました"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_startWith)
+#. +> trunk6 stable6
+#: gdbconfigpage.ui:159
+#, kde-format
+msgctxt "@item:inlistbox start debugger with"
+msgid "GDB Console"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_startWith)
+#. +> trunk6 stable6
+#: gdbconfigpage.ui:164
+#, fuzzy, kde-format
+#| msgid "Frame Stack"
+msgctxt "@item:inlistbox start debugger with"
+msgid "Frame Stack"
+msgstr "フレームスタック"
+
+#. i18n: ectx: property (whatsThis), widget (QGroupBox, groupBox)
+#. +> trunk6 stable6
+#: gdbconfigpage.ui:178
+#, fuzzy, kde-format
+#| msgid ""
+#| "This script is intended for the actual commands needed to connect to a "
+#| "remotely running executable.\n"
+#| "\tshell sleep 5\twait for remote program to start\n"
+#| "\ttarget remote ...\tconnect to the remote debugger\n"
+#| "\tcontinue\t[optional] run debugging to the first breakpoint"
+msgctxt "@info:whatsthis"
+msgid ""
+"This script is intended for the actual commands needed to connect to a "
+"remotely running executable.\n"
+"\tshell sleep 5\twait for remote program to start\n"
+"\ttarget remote ...\tconnect to the remote debugger\n"
+"\tcontinue\t[optional] run debugging to the first breakpoint"
+msgstr ""
+"このスクリプトは遠隔実行ファイルを接続する時、実際のコマンドが必要なように意"
+"図されています。\n"
+"\tshell sleep 5\tリモートプログラムが開始するのを待つ\n"
+"\ttarget remote ...\tリモードデバッガに接続\n"
+"\tcontinue\t[任意] 最初のブレークポイントへデバッグを実行"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#. +> trunk6 stable6
+#: gdbconfigpage.ui:181
+#, fuzzy, kde-format
+#| msgid "Remote Debugging"
+msgctxt "@title:group"
+msgid "Remote Debugging"
+msgstr "リモートデバッグ"
+
+#. i18n: ectx: property (toolTip), widget (QLabel, runShellScript_label)
+#. i18n: ectx: property (toolTip), widget (KUrlRequester, kcfg_runShellScript)
+#. +> trunk6 stable6
+#: gdbconfigpage.ui:187 gdbconfigpage.ui:203
+#, fuzzy, kde-format
+#| msgid ""
+#| "This shell script is run after the Config gdb script has been sourced by "
+#| "gdb.\n"
+#| "When debugging remotely this script is intended to actually start the "
+#| "remote process.\n"
+#| "[It is expected that the debug executable can be reached on the target, "
+#| "maybe by downloading it as a final build step]\n"
+#| "1) Find a way to execute a command remotely - rsh, ssh, telnet, ...\n"
+#| "2a) Execute \"gdbserver ... application\" on target.\n"
+#| "or if your executable contains the gdb stub\n"
+#| "2b) Execute \"application\" on target."
+msgctxt "@info:tooltip"
+msgid ""
+"<html><head/><body><p>Script to start remote application</p><p></p><p>This "
+"shell script is run after the Gdb Config script has been sourced by gdb.</"
+"p><p>It's purpose is to actually start the remote process.</p><p>1) Find a "
+"way to execute a command remotely - rsh, ssh, telnet, ...</p><p>2a) Execute "
+"&quot;gdbserver ... application&quot; on target.</p><p>or if your executable "
+"contains the gdb stub:</p><p>2b) Execute &quot;application&quot; on target.</"
+"p></body></html>"
+msgstr ""
+"このスクリプトは、GDB 設定スクリプトがソースされた後に実行されます。\n"
+"遠隔デバッグする場合、このスクリプトが遠隔プロセスを開始します。\n"
+"[ターゲットでデバッグ実行ファイルをアクセスできることを想定しています。例えば"
+"ビルドの最後のステップとしてファイルをダウンロードするとか。]\n"
+"1) リモートでコマンドを実行できる方法を探す - rsh, ssh, telnet, ...\n"
+"2a) “gdbserver ... application” をターゲット上で実行\n"
+"または実行ファイルが gdb スタブを含む場合\n"
+"2b) “application” をターゲット上で実行"
+
+#. i18n: ectx: property (text), widget (QLabel, runShellScript_label)
+#. +> trunk6 stable6
+#: gdbconfigpage.ui:190
+#, fuzzy, kde-format
+#| msgctxt "Shell script to be executed at run time"
+#| msgid "R&un shell script:"
+msgctxt "@label:chooser Shell script to be executed at run time"
+msgid "R&un shell script:"
+msgstr "実行するシェルスクリプト(&U):"
+
+#. i18n: ectx: property (toolTip), widget (QLabel, configGdbScript_label)
+#. i18n: ectx: property (toolTip), widget (KUrlRequester, kcfg_configGdbScript)
+#. +> trunk6 stable6
+#: gdbconfigpage.ui:210 gdbconfigpage.ui:249
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "This script is sourced by gdb when the debugging starts."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, configGdbScript_label)
+#. +> trunk6 stable6
+#: gdbconfigpage.ui:213
+#, fuzzy, kde-format
+#| msgctxt "Gdb script to be executed at run time."
+#| msgid "Run &gdb script:"
+msgctxt "@label:chooser"
+msgid "Gdb &config script:"
+msgstr "実行する GDB スクリプト(&G):"
+
+#. i18n: ectx: property (toolTip), widget (KUrlRequester, kcfg_runGdbScript)
+#. i18n: ectx: property (toolTip), widget (QLabel, runGdbScript_label)
+#. +> trunk6 stable6
+#: gdbconfigpage.ui:226 gdbconfigpage.ui:233
+#, fuzzy, kde-format
+#| msgid ""
+#| "This script is intended for the actual commands needed to connect to a "
+#| "remotely running executable.\n"
+#| "\tshell sleep 5\twait for remote program to start\n"
+#| "\ttarget remote ...\tconnect to the remote debugger\n"
+#| "\tcontinue\t[optional] run debugging to the first breakpoint"
+msgctxt "@info:tooltip"
+msgid ""
+"<html><head/><body><p>Script to connect with remote application</p><p>For "
+"example:</p><p>\tshell sleep 5\t #wait for remote program to start</"
+"p><p>\ttarget remote ...\t#connect to the remote debugger</"
+"p><p>\tcontinue\t#[optional] run debugging to the first breakpoint.</p></"
+"body></html>"
+msgstr ""
+"このスクリプトは遠隔実行ファイルを接続する時、実際のコマンドが必要なように意"
+"図されています。\n"
+"\tshell sleep 5\tリモートプログラムが開始するのを待つ\n"
+"\ttarget remote ...\tリモードデバッガに接続\n"
+"\tcontinue\t[任意] 最初のブレークポイントへデバッグを実行"
+
+#. i18n: ectx: property (text), widget (QLabel, runGdbScript_label)
+#. +> trunk6 stable6
+#: gdbconfigpage.ui:236
+#, fuzzy, kde-format
+#| msgctxt "Gdb script to be executed at run time."
+#| msgid "Run &gdb script:"
+msgctxt "@label:chooser Gdb script to be executed at run time."
+msgid "Run &gdb script:"
+msgstr "実行する GDB スクリプト(&G):"
+
+#. +> trunk6 stable6
+#: gdboutputwidget.cpp:50
+#, fuzzy, kde-format
+#| msgid "GDB Output"
+msgctxt "@title:window"
+msgid "GDB Output"
+msgstr "GDB の出力"
+
+#. +> trunk6 stable6
+#: gdboutputwidget.cpp:51
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"<b>GDB output</b><p>Shows all GDB commands being executed. You can also "
+"issue any other GDB command while debugging.</p>"
+msgstr ""
+
+#. +> trunk6 stable6
+#: gdboutputwidget.cpp:64
+#, fuzzy, kde-format
+#| msgid "&GDB cmd:"
+msgctxt "@label:listbox"
+msgid "&GDB command:"
+msgstr "GDB コマンド(&G):"
+
+#. +> trunk6 stable6
+#: gdboutputwidget.cpp:69
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Pause execution of the app to enter GDB commands"
+msgstr ""
+
+#. +> trunk6 stable6
+#: gdboutputwidget.cpp:383
+#, fuzzy, kde-format
+#| msgid "Show Internal Commands"
+msgctxt "@action:inmenu"
+msgid "Show Internal Commands"
+msgstr "内部コマンドを表示"
+
+#. +> trunk6 stable6
+#: gdboutputwidget.cpp:389
+#, kde-format
+msgctxt "@info:tooltip"
+msgid ""
+"Controls if commands issued internally by KDevelop will be shown or not."
+"<br>This option will affect only future commands, it will not add or remove "
+"already issued commands from the view."
+msgstr ""
+
+#. +> trunk6 stable6
+#: gdboutputwidget.cpp:394
+#, fuzzy, kde-format
+#| msgid "Copy All"
+msgctxt "@action:inmenu"
+msgid "Copy All"
+msgstr "すべてコピー"
+
+#. i18n: ectx: ToolBar (debugToolBar)
+#. +> trunk6 stable6
+#: kdevgdbui.rc:19
+#, kde-format
+msgid "Debugger Toolbar"
+msgstr "デバッガツールバー"
+
+#. +> trunk6 stable6
+#: memviewdlg.cpp:68
+#, fuzzy, kde-format
+#| msgid "Start"
+msgctxt "@label:textbox"
+msgid "Start:"
+msgstr "開始"
+
+#. +> trunk6 stable6
+#: memviewdlg.cpp:71
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Amount:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: memviewdlg.cpp:94
+#, fuzzy, kde-format
+#| msgid "Memory view"
+msgctxt "@title:window"
+msgid "Memory View"
+msgstr "メモリビュー"
+
+#. +> trunk6 stable6
+#: memviewdlg.cpp:223
+#, kde-format
+msgid "%2 (1 byte)"
+msgid_plural "%2 (%1 bytes)"
+msgstr[0] "%1 (%2 バイト)"
+
+#. +> trunk6 stable6
+#: memviewdlg.cpp:267
+#, fuzzy, kde-format
+#| msgid "Reload"
+msgctxt "@action::inmenu"
+msgid "&Reload"
+msgstr "再読み込み"
+
+#. +> trunk6 stable6
+#: memviewdlg.cpp:275
+#, fuzzy, kde-format
+#| msgid "Format"
+msgctxt "@title:menu"
+msgid "&Format"
+msgstr "フォーマット"
+
+#. +> trunk6 stable6
+#: memviewdlg.cpp:278
+#, kde-format
+msgctxt "@item:inmenu display format"
+msgid "&Binary"
+msgstr ""
+
+#. +> trunk6 stable6
+#: memviewdlg.cpp:283
+#, kde-format
+msgctxt "@item:inmenu display format"
+msgid "&Octal"
+msgstr ""
+
+#. +> trunk6 stable6
+#: memviewdlg.cpp:288
+#, fuzzy, kde-format
+#| msgid "Decimal"
+msgctxt "@item:inmenu display format"
+msgid "&Decimal"
+msgstr "十進"
+
+#. +> trunk6 stable6
+#: memviewdlg.cpp:293
+#, fuzzy, kde-format
+#| msgid "Hexadecimal"
+msgctxt "@item:inmenu display format"
+msgid "&Hexadecimal"
+msgstr "十六進"
+
+#. +> trunk6 stable6
+#: memviewdlg.cpp:307
+#, kde-format
+msgctxt "@title:menu"
+msgid "&Grouping"
+msgstr ""
+
+#. +> trunk6 stable6
+#: memviewdlg.cpp:310
+#, kde-format
+msgctxt "@item:inmenu no byte grouping"
+msgid "&0"
+msgstr ""
+
+#. +> trunk6 stable6
+#: memviewdlg.cpp:315
+#, kde-format
+msgctxt "@item:inmenu byte group size"
+msgid "&1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: memviewdlg.cpp:320
+#, kde-format
+msgctxt "@item:inmenu byte group size"
+msgid "&2"
+msgstr ""
+
+#. +> trunk6 stable6
+#: memviewdlg.cpp:325
+#, kde-format
+msgctxt "@item:inmenu byte group size"
+msgid "&4"
+msgstr ""
+
+#. +> trunk6 stable6
+#: memviewdlg.cpp:330
+#, kde-format
+msgctxt "@item:inmenu byte group size"
+msgid "&8"
+msgstr ""
+
+#. +> trunk6 stable6
+#: memviewdlg.cpp:335
+#, kde-format
+msgctxt "@item:inmenu byte group size"
+msgid "1&6"
+msgstr ""
+
+#. +> trunk6 stable6
+#: memviewdlg.cpp:348
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Write Changes"
+msgstr ""
+
+#. +> trunk6 stable6
+#: memviewdlg.cpp:352
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Change Memory Range"
+msgstr ""
+
+#. +> trunk6 stable6
+#: memviewdlg.cpp:356
+#, fuzzy, kde-format
+#| msgid "Close this view"
+msgctxt "@action:inmenu"
+msgid "Close View"
+msgstr "このビューを閉じる"
+
+#. +> trunk6 stable6
+#: memviewdlg.cpp:407
+#, fuzzy, kde-format
+#| msgid "Memory view"
+msgctxt "@title:window"
+msgid "Memory Viewer"
+msgstr "メモリビュー"
+
+#. +> trunk6 stable6
+#: memviewdlg.cpp:411
+#, fuzzy, kde-format
+#| msgid "Memory view"
+msgctxt "@action"
+msgid "New Memory Viewer"
+msgstr "メモリビュー"
+
+#. +> trunk6 stable6
+#: memviewdlg.cpp:412
+#, fuzzy, kde-format
+#| msgid "Memory view"
+msgctxt "@info:tooltip"
+msgid "Open a new memory viewer"
+msgstr "メモリビュー"
+
+#. +> trunk6 stable6
+#: toolviewfactoryholder.cpp:34
+#, fuzzy, kde-format
+#| msgid "Disassemble"
+msgctxt "@title:window"
+msgid "Disassemble/Registers"
+msgstr "逆アセンブル"
+
+#. +> trunk6 stable6
+#: toolviewfactoryholder.cpp:38
+#, fuzzy, kde-format
+#| msgid "GDB"
+msgctxt "@title:window"
+msgid "GDB"
+msgstr "GDB"
+
+#. +> trunk6 stable6
+#: toolviewfactoryholder.cpp:43
+#, fuzzy, kde-format
+#| msgid "Memory view"
+msgctxt "@title:window"
+msgid "Memory"
+msgstr "メモリビュー"
+
+#, kde-format
+#~ msgid "<b>Could not start debugger:</b><br />"
+#~ msgstr "<b>デバッガを開始できませんでした:</b><br />"
+
+#, fuzzy, kde-format
+#~| msgid ""
+#~| "<b>Debugger error</b><p>Debugger reported the following error:<p><tt>%1"
+#~ msgid ""
+#~ "<b>Failed to load core file</b><p>Debugger reported the following error:"
+#~ "<p><tt>%1"
+#~ msgstr ""
+#~ "<b>デバッガのエラー</b><p>デバッガが以下のエラーを報告しました:</"
+#~ "p><p><tt>%1"
+
+#~ msgid "gdb error"
+#~ msgstr "gdb エラー"
+
+#~ msgid "Debugging Shell Not Found"
+#~ msgstr "デバッグシェルが見つかりません"
+
+#~ msgid "Debugger Configuration"
+#~ msgstr "デバッガの設定"
+
+#~ msgctxt "@title:menu"
+#~ msgid "Run"
+#~ msgstr "実行(&R)"
+
+#~ msgid "OK"
+#~ msgstr "OK"
+
+#~ msgid "Cancel"
+#~ msgstr "キャンセル"
+
+#~ msgid "GDB Support"
+#~ msgstr "GDB サポート"
+
+#~ msgid "Examine Core File..."
+#~ msgstr "コアファイルを検査..."
+
+#~ msgid "Examine core file"
+#~ msgstr "コアファイルを検査"
+
+#~ msgid "Attach to Process"
+#~ msgstr "プロセスにアタッチ"
+
+#~ msgid "Attach to process..."
+#~ msgstr "プロセスにアタッチ..."
+
+#~ msgid ""
+#~ "<b>Attach to process</b><p>Attaches the debugger to a running process.</p>"
+#~ msgstr ""
+#~ "<b>プロセスにアタッチ</b><p>デバッガを実行中のプロセスに接続します。</p>"
+
+#~ msgid "KDevelop"
+#~ msgstr "KDevelop"
+
+#~ msgid "Evaluate: %1"
+#~ msgstr "評価: %1"
+
+#~ msgid ""
+#~ "<b>Evaluate expression</b><p>Shows the value of the expression under the "
+#~ "cursor.</p>"
+#~ msgstr "<b>式を評価</b><p>カーソルの下にある式の値を表示します。</p>"
+
+#~ msgid "Watch: %1"
+#~ msgstr "ウォッチ: %1"
+
+#~ msgid ""
+#~ "<b>Watch expression</b><p>Adds an expression under the cursor to the "
+#~ "Variables/Watch list.</p>"
+#~ msgstr ""
+#~ "<b>式をウォッチ</b><p>カーソルの下にある式を変数/ウォッチリストに追加しま"
+#~ "す。</p>"
+
+#~ msgid "Choose a core file to examine..."
+#~ msgstr "検査するコアファイルを選択..."
+
+#~ msgid "Examining core file %1"
+#~ msgstr "コアファイル ‘%1’ を検査中"
+
+#~ msgid "Debug core file"
+#~ msgstr "コアファイルをデバッグ"
+
+#~ msgid "Choose a process to attach to..."
+#~ msgstr "アタッチするプロセスを選択..."
+
+#~ msgid "Not attaching to process %1: cannot attach the debugger to itself."
+#~ msgstr ""
+#~ "プロセス %1 にアタッチしません。デバッガ自身にあったちすることはできませ"
+#~ "ん。"
+
+#~ msgid "Attaching to process %1"
+#~ msgstr "プロセス %1 にアタッチ"
+
+#~ msgid "Debug process %1"
+#~ msgstr "プロセス %1 をデバッグ"
+
+#~ msgid "Debugger stopped"
+#~ msgstr "デバッガ停止"
+
+#~ msgid "Process exited"
+#~ msgstr "プロセスは終了しました"
+
+#~ msgid "Application is running"
+#~ msgstr "アプリケーションは実行中です"
+
+#~ msgid "Application is paused"
+#~ msgstr "アプリケーションは一時停止中です"
+
+#~ msgid "Application interrupted"
+#~ msgstr "アプリケーションはインタラプトされました"
+
+#~ msgid "Debugger error"
+#~ msgstr "デバッガのエラー"
+
+#~ msgid "<b>Invalid debugger command</b><br>%1"
+#~ msgstr "<b>無効なデバッガコマンド</b><br/>%1"
+
+#~ msgid "<b>Could not attach debugger:</b><br />"
+#~ msgstr "<b>デバッガをアタッチできませんでした:</b><br />"
+
+#~ msgid "GDB exited abnormally"
+#~ msgstr "GDB が異常終了しました"
+
+#~ msgid ""
+#~ "<b>Gdb command sent when debugger is not running</b><br>The command was:"
+#~ "<br> %1"
+#~ msgstr ""
+#~ "<b>デバッガが実行されていないときに GDB コマンドが送られました</b><br/>送"
+#~ "られたコマンド:<br/> %1"
+
+#~ msgid "Internal error"
+#~ msgstr "内部エラー"
+
+#~ msgid "Invalid debugger command"
+#~ msgstr "無効なデバッガコマンド"
+
+#~ msgid "Exited normally"
+#~ msgstr "正常終了しました"
+
+#~ msgid "Exited on signal %1"
+#~ msgstr "シグナル %1 で終了しました"
+
+#~ msgid "Program received signal %1 (%2)"
+#~ msgstr "プログラムはシグナル %1 (%2) を受け取りました"
+
+#~ msgid "Running program"
+#~ msgstr "プログラムを実行"
+
+#~ msgid "Warning"
+#~ msgstr "警告"
+
+#~ msgid ""
+#~ "<b>Debugger error</b><p>Debugger reported the following error:<p><tt>%1"
+#~ msgstr ""
+#~ "<b>デバッガのエラー</b><p>デバッガが以下のエラーを報告しました:</"
+#~ "p><p><tt>%1"
+
+#~ msgid "Debugger state: %1\n"
+#~ msgstr "デバッガの状態: %1\n"
+
+#~ msgid "Debugger status"
+#~ msgstr "デバッガの状態"
+
+#~ msgid "Could not start debugger"
+#~ msgstr "デバッガを開始できませんでした"
+
+#~ msgid "Internal debugger error"
+#~ msgstr "デバッガの内部エラー"
+
+#~ msgid ""
+#~ "<b>Could not start debugger.</b><p>Could not run '%1'. Make sure that the "
+#~ "path name is specified correctly."
+#~ msgstr ""
+#~ "<b>デバッガを開始できませんでした。</b><p><tt>%1</tt> を実行できませんでし"
+#~ "た。パス名が正しく指定されているか確認してください。"
+
+#~ msgid "Debugger executable:"
+#~ msgstr "デバッガ実行ファイル:"
+
+#, fuzzy
+#~| msgctxt "Shell script to be executed at run time"
+#~| msgid "R&un shell script:"
+#~ msgid "&Shell script:"
+#~ msgstr "実行するシェルスクリプト(&U):"
+
+#, fuzzy
+#~| msgid "Start in debugger"
+#~ msgid "Start Debugger with:"
+#~ msgstr "デバッガで起動"
+
+#~ msgid "<br>Old value: %1"
+#~ msgstr "<br>古い値: %1"
+
+#~ msgid "<br>New value: %1"
+#~ msgstr "<br>新しい値: %1"
+
+#, fuzzy
+#~| msgid "Address"
+#~ msgid "Address Selector"
+#~ msgstr "アドレス"
+
+#, fuzzy
+#~| msgid "Jump to cursor"
+#~ msgid "&Jump to Cursor"
+#~ msgstr "カーソル位置へジャンプ"
+
+#, fuzzy
+#~| msgid "Run to &Cursor"
+#~ msgid "&Run to Cursor"
+#~ msgstr "カーソル位置まで実行(&C)"
+
+#~ msgid "Address"
+#~ msgstr "アドレス"
+
+#~ msgid "Function"
+#~ msgstr "関数"
+
+#, fuzzy
+#~| msgid "Warning"
+#~ msgid "(running)"
+#~ msgstr "警告"
+
+#~ msgid "Attach to a process"
+#~ msgstr "プロセスにアタッチ"
+
+#, fuzzy
+#~| msgid "Decimal"
+#~ msgid "Decimal"
+#~ msgstr "十進"
+
+#, fuzzy
+#~| msgid "Hexadecimal"
+#~ msgid "Hexadecimal"
+#~ msgstr "十六進"
+
+#, fuzzy
+#~| msgid "Format"
+#~ msgid "Format"
+#~ msgstr "フォーマット"
+
+#, fuzzy
+#~| msgid "Address"
+#~ msgid "Address selector"
+#~ msgstr "アドレス"
+
+#~ msgid "Select Core File"
+#~ msgstr "コアファイルを選択"
+
+#~ msgid "Executable:"
+#~ msgstr "実行ファイル:"
+
+#~ msgid "Core File:"
+#~ msgstr "コアファイル:"
+
+#, fuzzy
+#~| msgid ""
+#~| "GDB cannot use the tty* or pty* devices.\n"
+#~| "Check the settings on /dev/tty* and /dev/pty*\n"
+#~| "As root you may need to \"chmod ug+rw\" tty* and pty* devices and/or add "
+#~| "the user to the tty group using \"usermod -G tty username\"."
+#~ msgid ""
+#~ "Cannot use the tty* or pty* devices.\n"
+#~ "Check the settings on /dev/tty* and /dev/pty*\n"
+#~ "As root you may need to \"chmod ug+rw\" tty* and pty* devices and/or add "
+#~ "the user to the tty group using \"usermod -aG tty username\"."
+#~ msgstr ""
+#~ "GDB は tty* または pty* デバイスを使用できません。\n"
+#~ "/dev/tty* と /dev/pty* の設定を確認してください。\n"
+#~ "root になって、tty* と pty* デバイスに chmod ug+rw を行なってください。\n"
+#~ "さらに usermod -G tty username でユーザを tty グループに追加しなければなら"
+#~ "ないかもしれません。"
+
+#~ msgctxt "NAME OF TRANSLATORS"
+#~ msgid "Your names"
+#~ msgstr "Fumiaki Okushi"
+
+#~ msgctxt "EMAIL OF TRANSLATORS"
+#~ msgid "Your emails"
+#~ msgstr "okushi@kde.gr.jp"
+
+#, fuzzy
+#~| msgid "Disassemble"
+#~ msgid "Disassembly flavor"
+#~ msgstr "逆アセンブル"
+
+#~ msgid "Debugging &shell:"
+#~ msgstr "デバッグシェル(&S):"
+
+#~ msgid "Script to start remote application"
+#~ msgstr "リモートアプリケーションを開始するスクリプト"
+
+#~ msgid ""
+#~ "This shell script is run after the Config gdb script has been sourced by "
+#~ "gdb.\n"
+#~ "When debugging remotely this script is intended to actually start the "
+#~ "remote process.\n"
+#~ "[It is expected that the debug executable can be reached on the target, "
+#~ "maybe by downloading it as a final build step]\n"
+#~ "1) Find a way to execute a command remotely - rsh, ssh, telnet, ...\n"
+#~ "2a) Execute \"gdbserver ... application\" on target.\n"
+#~ "or if your executable contains the gdb stub\n"
+#~ "2b) Execute \"application\" on target."
+#~ msgstr ""
+#~ "このスクリプトは、GDB 設定スクリプトがソースされた後に実行されます。\n"
+#~ "遠隔デバッグする場合、このスクリプトが遠隔プロセスを開始します。\n"
+#~ "[ターゲットでデバッグ実行ファイルをアクセスできることを想定しています。例"
+#~ "えばビルドの最後のステップとしてファイルをダウンロードするとか。]\n"
+#~ "1) リモートでコマンドを実行できる方法を探す - rsh, ssh, telnet, ...\n"
+#~ "2a) “gdbserver ... application” をターゲット上で実行\n"
+#~ "または実行ファイルが gdb スタブを含む場合\n"
+#~ "2b) “application” をターゲット上で実行"
+
+#~ msgid "Script to connect with remote application"
+#~ msgstr "リモートアプリケーションと接続するためのスクリプト"
+
+#~ msgid ""
+#~ "This script is sourced by gdb after the two preceding scripts have been "
+#~ "executed.\n"
+#~ "This script is intended for the actual commands needed to connect to a "
+#~ "remotely running executable.\n"
+#~ "\tshell sleep 5\twait for remote program to start\n"
+#~ "\ttarget remote ...\tconnect to the remote debugger\n"
+#~ "\tcontinue\t[optional] run debugging to the first breakpoint."
+#~ msgstr ""
+#~ "このスクリプトは、前の二つのスクリプトが実行された後にソースされます。\n"
+#~ "このスクリプトは遠隔実行ファイルに接続するためのコマンドを含むよう意図され"
+#~ "ています。\n"
+#~ "\tshell sleep 5\tリモートプログラムが開始するのを待つ\n"
+#~ "\ttarget remote ...\tリモードデバッガに接続\n"
+#~ "\tcontinue\t[任意] 最初のブレークポイントへデバッグを実行"
+
+#~ msgid ""
+#~ "GDB cannot use the tty* or pty* devices.\n"
+#~ "Check the settings on /dev/tty* and /dev/pty*\n"
+#~ "As root you may need to \"chmod ug+rw\" tty* and pty* devices and/or add "
+#~ "the user to the tty group using \"usermod -G tty username\"."
+#~ msgstr ""
+#~ "GDB は tty* または pty* デバイスを使用できません。\n"
+#~ "/dev/tty* と /dev/pty* の設定を確認してください。\n"
+#~ "root になって、tty* と pty* デバイスに chmod ug+rw を行なってください。\n"
+#~ "さらに usermod -G tty username でユーザを tty グループに追加しなければなら"
+#~ "ないかもしれません。"
+
+#~ msgid "Offset"
+#~ msgstr "オフセット"
+
+#, fuzzy
+#~| msgid "Address"
+#~ msgid "End Address:"
+#~ msgstr "アドレス"
+
+#~ msgid "Reload"
+#~ msgstr "再読み込み"
+
+#~ msgid "kdevelop: Debug application console"
+#~ msgstr "kdevelop: デバッグアプリケーションコンソール"
+
+#~ msgid "Watches"
+#~ msgstr "ウォッチ"
+
+#~ msgid "Recent"
+#~ msgstr "最近"
+
+#~ msgid "Display static &members"
+#~ msgstr "静的メンバを表示する(&M)"
+
+#~ msgid "Display &demangled names"
+#~ msgstr "修飾されていない名前を表示する(&D)"
+
+#~ msgid ""
+#~ "This allows you to enter terminal input when your\n"
+#~ "application contains terminal input code (e.g. cin, fgets, etc.).\n"
+#~ "If you use terminal input in your application then check this option.\n"
+#~ "Otherwise leave it unchecked."
+#~ msgstr ""
+#~ "これにより、あなたのアプリケーションがターミナル入力のコードを持っている\n"
+#~ "時 (例 cin, fgets など)、ターミナル入力ができるようになります。\n"
+#~ "あなたのアプリケーションがターミナル入力を使うならここを有効にしてくださ"
+#~ "い。\n"
+#~ "そうでない限り、チェックを外しておいてください。"
+
+#~ msgid "Enable separate terminal for application &IO"
+#~ msgstr "アプリケーションの I/O のために別のターミナルを有効にする(&I)"
+
+#~ msgid ""
+#~ "If GDB has not seen a library that will be loaded via\n"
+#~ "\"dlopen\" then it will refuse to set a breakpoint in that code.\n"
+#~ "With this option, GDB will stop on a library load and hence\n"
+#~ "try to set the pending breakpoints. See the documentation\n"
+#~ "for more details relating to this behavior.\n"
+#~ "\n"
+#~ "If you are not \"dlopen\"ing libs then leave this unchecked."
+#~ msgstr ""
+#~ "GDB は、“dlopen” を用いてロードされるライブラリでまだロードされていない\n"
+#~ "ものについては、その中のコードへのブレークポイントの設定を拒否します。\n"
+#~ "そこでライブラリのロードで一度 GDB を停止させれば、ペンディングにされてい"
+#~ "た\n"
+#~ "ブレークポイントの設定を試みることができるようになります。\n"
+#~ "この挙動の詳細についてはドキュメントを参照してください。\n"
+#~ "\n"
+#~ "もしライブラリを “dlopen” していないならチェックを外しておいてください。"
+
+#~ msgid "Try setting &breakpoints on library loading"
+#~ msgstr "ライブラリのロード時にブレークポイント設定を試みる(&B)"
+
+#~ msgid "Breakpoint"
+#~ msgstr "ブレークポイント"
+
+#~ msgid "Enabled"
+#~ msgstr "有効"
+
+#~ msgid "Type"
+#~ msgstr "タイプ"
+
+#~ msgid "Status"
+#~ msgstr "状態"
+
+#~ msgid "Location"
+#~ msgstr "場所"
+
+#~ msgid "Condition"
+#~ msgstr "条件"
+
+#~ msgid "Hits"
+#~ msgstr "ヒット"
+
+#~ msgid "Tracing"
+#~ msgstr "トレース"
+
+#, fuzzy
+#~| msgid ""
+#~| "Debug arguments can be set on the Run Options page\n"
+#~| " or directly in the project manager"
+#~ msgid ""
+#~ "Debug arguments can be set on the Run Options page, or directly in the "
+#~ "project manager."
+#~ msgstr ""
+#~ "デバッグ時の引数は「実行オプション」のページ\n"
+#~ "または直接プロジェクトマネージャで設定できます。"
+
+#~ msgid ""
+#~ "Use the floating toolbar. This toolbar always stays\n"
+#~ "on top of all windows so that if the app covers KDevelop\n"
+#~ "you have control of the app through the small toolbar. It\n"
+#~ "can also be docked into the panel.\n"
+#~ "\n"
+#~ "This toolbar is in addition to the toolbar in KDevelop."
+#~ msgstr ""
+#~ "フローティングツールバーを使います。このツールバーは、常に\n"
+#~ "すべてのウィンドウの前面に表示されるので、アプリケーションが\n"
+#~ "KDevelop を覆い隠してしまっても、この小さいツールバーを使っ\n"
+#~ "てアプリケーションのデバッグ実行をコントロールできます。\n"
+#~ "またこのツールバーはパネルにドッキングできます。\n"
+#~ "\n"
+#~ "このツールバーは KDevelop のツールバーに追加されます。"
+
+#~ msgid "E&nable floating toolbar"
+#~ msgstr "フローティングツールバーを有効にする(&N)"
+
+#~ msgid "Framestack"
+#~ msgstr "フレームスタック"
+
+#, fuzzy
+#~ msgid ""
+#~ "This shell script is run after the Config gdb script has been sourced by "
+#~ "gdb.\n"
+#~ "When debugging remotely this script is intended to actually start the "
+#~ "remote process.\n"
+#~ "[It is expected that the debug executable can be reached on the target, "
+#~ "maybe by downloading it as a final build step.]\n"
+#~ "1) Find a way to execute a command remotely - rsh, ssh, telnet, ....\n"
+#~ "2a) Execute \"gdbserver ... application\" on target.\n"
+#~ "... or if your executable contains the gdb stub:\n"
+#~ "2b) Execute \"application\" on target."
+#~ msgstr ""
+#~ "遠隔デバッグする場合、このスクリプトは、実際に遠隔プロセスを始めるように意"
+#~ "図されます。\n"
+#~ "[恐らく最後のビルドステップとしてそれをダウンロードする時、デバッグ実行"
+#~ "ファイルがターゲットに届くことが予想されます。]\n"
+#~ "1) リモートでコマンドを実行できる方法を探す - rsh, ssh, telnet, ...\n"
+#~ "2a) “gdbserver ... application” をターゲット上で実行\n"
+#~ "または実行ファイルが gdb スタブを含む場合\n"
+#~ "2b) “application” をターゲット上で実行"
+
+#, fuzzy
+#~ msgid ""
+#~ "This script is sourced by gdb after the two preceding scripts have been "
+#~ "executed.\n"
+#~ "This script is intended for the actual commands needed to connect to a "
+#~ "remotely running executable.\n"
+#~ "\tshell sleep 5\twait for remote program to start;\n"
+#~ "\ttarget remote ...\tconnect to the remote debugger;\n"
+#~ "\tcontinue\t[optional] run debugging to the first breakpoint."
+#~ msgstr ""
+#~ "このスクリプトは遠隔実行ファイルを接続する時、実際のコマンドが必要なように"
+#~ "意図されています。\n"
+#~ "\tshell sleep 5\tリモートプログラムが開始するのを待つ\n"
+#~ "\ttarget remote ...\tリモードデバッガに接続\n"
+#~ "\tcontinue\t[任意] 最初のブレークポイントへデバッグを実行"
+
+#~ msgid "Breakpoints"
+#~ msgstr "ブレークポイント"
+
+#~ msgid "Variables"
+#~ msgstr "変数"
+
+#~ msgid "&Start"
+#~ msgstr "開始(&S)"
+
+#~ msgid ""
+#~ "<b>Start in debugger</b><p>Starts the debugger with the project's main "
+#~ "executable. You may set some breakpoints before this, or you can "
+#~ "interrupt the program while it is running, in order to get information "
+#~ "about variables, frame stack, and so on."
+#~ msgstr ""
+#~ "<b>デバッガ内で起動</b><p>プロジェクトのメインの実行ファイルとともにデバッ"
+#~ "ガを起動します。これを行なう前にいくつかブレークポイントをセットしておく"
+#~ "か、プログラムの実行中に割り込みを行なうことで、変数やフレームスタックなど"
+#~ "の情報を得ることができます。</p>"
+
+#~ msgid "&Restart"
+#~ msgstr "再スタート(&R)"
+
+#~ msgid "Restart program"
+#~ msgstr "プログラムを再スタート"
+
+#~ msgid ""
+#~ "<b>Restarts application</b><p>Restarts applications from the beginning."
+#~ msgstr ""
+#~ "<b>プログラムを再スタート</b><p>プログラムを最初から再スタートします。</p>"
+
+#~ msgid "Attach to process"
+#~ msgstr "プロセスにアタッチ"
+
+#~ msgid "Sto&p"
+#~ msgstr "停止(&P)"
+
+#~ msgid "<b>Stop debugger</b><p>Kills the executable and exits the debugger."
+#~ msgstr ""
+#~ "<b>デバッガを停止</b><p>プログラムを強制終了し、デバッガを終了します。"
+
+#~ msgid "Interrupt"
+#~ msgstr "中断"
+
+#~ msgid "Interrupt application"
+#~ msgstr "アプリケーションを中断"
+
+#~ msgid ""
+#~ "<b>Interrupt application</b><p>Interrupts the debugged process or current "
+#~ "GDB command."
+#~ msgstr ""
+#~ "<b>アプリケーションを中断</b><p>デバッグプロセスまたは現在の GDB コマンド"
+#~ "を中断します。"
+
+#~ msgid "Run to cursor"
+#~ msgstr "カーソル位置まで実行"
+
+#~ msgid "Step &Over"
+#~ msgstr "ステップオーバー(&O)"
+
+#~ msgid ""
+#~ "<b>Step over</b><p>Executes one line of source in the current source "
+#~ "file. If the source line is a call to a function the whole function is "
+#~ "executed and the app will stop at the line following the function call."
+#~ msgstr ""
+#~ "<b>ステップオーバー</b><p>現在のソースファイルの 1 行分を実行します。ソー"
+#~ "スの行が関数の呼び出し部分であれば、関数全体を一気に実行し、呼び出し部分の"
+#~ "次の行で停止します。</p> "
+
+#~ msgid ""
+#~ "<b>Attach to process</b><p>Attaches the debugger to a running process."
+#~ msgstr ""
+#~ "<b>プロセスにアタッチ</b><p>デバッガを実行中のプロセスに接続します。"
+
+#~ msgid "Step &Into"
+#~ msgstr "ステップイントゥ(&I)"
+
+#~ msgid ""
+#~ "<b>Step into</b><p>Executes exactly one line of source. If the source "
+#~ "line is a call to a function then execution will stop after the function "
+#~ "has been entered."
+#~ msgstr ""
+#~ "<b>ステップイントゥ</b><p>現在のソースファイルの正確に 1 行分を実行しま"
+#~ "す。ソースの行が関数の呼び出し部分であれば、関数内部に進入して最初の行で停"
+#~ "止します。</p>"
+
+#~ msgid "Step O&ut"
+#~ msgstr "ステップアウト(&U)"
+
+#~ msgid "Steps out of the current function"
+#~ msgstr "現在の関数からステップアウト"
+
+#~ msgid "Viewers"
+#~ msgstr "ビューア"
+
+#~ msgid "Debug in &KDevelop"
+#~ msgstr "KDevelop でデバッグ(&K)"
+
+#~ msgid ""
+#~ "<b>Evaluate expression</b><p>Shows the value of the expression under the "
+#~ "cursor."
+#~ msgstr "<b>式を評価</b><p>カーソルの下にある式の値を表示します。"
+
+#~ msgid "Toggle Breakpoint"
+#~ msgstr "ブレークポイントを有効/無効にする"
+
+#~ msgid "Toggle breakpoint"
+#~ msgstr "ブレークポイントを有効/無効にします"
+
+#~ msgid ""
+#~ "<b>Toggle breakpoint</b><p>Toggles the breakpoint at the current line in "
+#~ "editor."
+#~ msgstr ""
+#~ "<b>ブレークポイントを有効/無効にする</b><p>エディタの現在の行のブレークポ"
+#~ "イントを有効/無効にします。"
+
+#~ msgid ""
+#~ "<b>Watch expression</b><p>Adds an expression under the cursor to the "
+#~ "Variables/Watch list."
+#~ msgstr ""
+#~ "<b>式をウォッチ</b><p>カーソルの下にある式を変数/ウォッチリストに追加しま"
+#~ "す。"
+
+#~ msgid "Stop debugger"
+#~ msgstr "デバッガを停止"
+
+#~ msgid "Debugger viewers"
+#~ msgstr "デバッガビューア"
+
+#, fuzzy
+#~| msgid "Runs the program in the debugger"
+#~ msgid "Runs the program in the debugger."
+#~ msgstr "デバッガでプログラムを実行"
+
+#~ msgid ""
+#~ "Start in debugger\n"
+#~ "\n"
+#~ "Starts the debugger with the project's main executable. You may set some "
+#~ "breakpoints before this, or you can interrupt the program while it is "
+#~ "running, in order to get information about variables, frame stack, and so "
+#~ "on."
+#~ msgstr ""
+#~ "デバッガ内で起動\n"
+#~ "\n"
+#~ "プロジェクトのメインの実行ファイルとともにデバッガを起動します。これを行な"
+#~ "う前にいくつかブレークポイントをセットしておくか、プログラムの実行中に割り"
+#~ "込みを行なうことで、変数やフレームスタックなどの情報を得ることができます。"
+
+#~ msgid "&Continue"
+#~ msgstr "続行(&C)"
+
+#~ msgid "Continues the application execution"
+#~ msgstr "アプリケーションの実行を続行"
+
+#, fuzzy
+#~| msgid ""
+#~| "Continue application execution\n"
+#~| "\n"
+#~| "Continues the execution of your application in the debugger. This only "
+#~| "takes effect when the application has been halted by the debugger (i.e. "
+#~| "a breakpoint has been activated or the interrupt was pressed)."
+#~ msgid ""
+#~ "Continue application execution\n"
+#~ "\n"
+#~ "Continues the execution of your application in the debugger. This only "
+#~ "takes effect when the application has been halted by the debugger (i.e. a "
+#~ "breakpoint has been activated or the interrupt was pressed.)"
+#~ msgstr ""
+#~ "アプリケーションの実行を続行\n"
+#~ "\n"
+#~ "デバッガ内のアプリケーションの実行を続行します。これはアプリケーションがデ"
+#~ "バッガにより停止させられているとき (すなわち、ブレークポイントに到達したか"
+#~ "割り込みが行なわれた場合) のみ有効です。"
+
+#~ msgid "Application does not exist"
+#~ msgstr "アプリケーションは存在しません"
+
+#~ msgid ""
+#~ "<b>Invalid gdb reply</b><p>The 'stopped' packet does not include the "
+#~ "'reason' field."
+#~ msgstr ""
+#~ "<b>GDB から無効な応答</b><p>“stopped” パケットに “reason” フィールドがあり"
+#~ "ません。</p>"
+
+#~ msgid "The gdb reply is: invalid"
+#~ msgstr "GDB からの応答: 無効"
+
+#~ msgid "Invalid gdb reply"
+#~ msgstr "GDB から無効な応答"
+
+#~ msgid ""
+#~ "gdb message:\n"
+#~ "%1"
+#~ msgstr ""
+#~ "GDB メッセージ:\n"
+#~ "%1"
+
+#, fuzzy
+#~| msgid ""
+#~| "<b>Gdb command sent when debugger is not running</b><br>The command was:"
+#~| "<br> %1"
+#~ msgid ""
+#~ "<b>Gdb command sent when debugger is not running.</b><br>The command was:"
+#~ "<br> %1"
+#~ msgstr ""
+#~ "<b>デバッガが実行されていないときに GDB コマンドが送られました</b><br/>送"
+#~ "られたコマンド:<br/> %1"
+
+#~ msgid "Received signal"
+#~ msgstr "シグナルを受け取りました"
+
+#~ msgid "Could not run application"
+#~ msgstr "アプリケーションを実行できませんでした"
+
+#~ msgid "Disabled"
+#~ msgstr "無効"
+
+#~ msgid "Active"
+#~ msgstr "アクティブ"
+
+#~ msgctxt "Code breakpoint"
+#~ msgid "Code"
+#~ msgstr "コード"
+
+#~ msgid "Invalid"
+#~ msgstr "無効"
+
+#~ msgid "Watchpoint"
+#~ msgstr "ウォッチポイント"
+
+#~ msgid "Frame"
+#~ msgstr "フレーム"
+
+#, fuzzy
+#~| msgid ""
+#~| "<b>Frame stack</b><p>Often referred to as the \"call stack\", this is a "
+#~| "list showing what function is currently active and who called each "
+#~| "function to get to this point in your program. By clicking on an item "
+#~| "you can see the values in any of the previous calling functions."
+#~ msgid ""
+#~ "<b>Frame stack</b><p>Often referred to as the \"call stack\", this is a "
+#~ "list showing which function is currently active and what called each "
+#~ "function to get to this point in your program. By clicking on an item you "
+#~ "can see the values in any of the previous calling functions."
+#~ msgstr ""
+#~ "<b>フレームスタック</b><p>しばしば「コールスタック」などとも呼ばれます。こ"
+#~ "れは現在アクティブな関数と、プログラム内でその関数を呼び出したポイントを表"
+#~ "示します。アイテムをクリックすることで任意の前の呼び出し関数の値を表示でき"
+#~ "ます。</p>"
+
+#~ msgid "Debugger Breakpoints"
+#~ msgstr "デバッガのブレークポイント"
+
+#~ msgctxt "Data breakpoint"
+#~ msgid "Data write"
+#~ msgstr "データ書き込み"
+
+#~ msgctxt "Data read breakpoint"
+#~ msgid "Data read"
+#~ msgstr "データ読み取り"
+
+#~ msgid "Show text"
+#~ msgstr "テキストを表示"
+
+#~ msgid "Edit"
+#~ msgstr "編集"
+
+#~ msgid "Disable"
+#~ msgstr "無効にする"
+
+#~ msgid "Delete"
+#~ msgstr "削除"
+
+#~ msgid "Disable all"
+#~ msgstr "すべて無効にする"
+
+#~ msgid "Enable all"
+#~ msgstr "すべて有効にする"
+
+#~ msgid "Delete all"
+#~ msgstr "すべて削除"
+
+#~ msgid "Enable"
+#~ msgstr "有効にする"
+
+#~ msgid "Pid"
+#~ msgstr "PID"
+
+#~ msgid "TTY"
+#~ msgstr "TTY"
+
+#~ msgid "Time"
+#~ msgstr "時間"
+
+#~ msgid "Command"
+#~ msgstr "コマンド"
+
+#~ msgid "Thread %1"
+#~ msgstr "スレッド %1"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Source"
+#~ msgstr "ソース"
+
+#~ msgid "Variable"
+#~ msgstr "変数"
+
+#~ msgid "Value"
+#~ msgstr "値"
+
+#~ msgid "Debugger Variables"
+#~ msgstr "デバッガ変数"
+
+#~ msgid "&Evaluate"
+#~ msgstr "評価(&E)"
+
+#~ msgid "&Watch"
+#~ msgstr "ウォッチ(&W)"
+
+#~ msgid "Recent Expressions"
+#~ msgstr "最近の式"
+
+#~ msgid "Remove All"
+#~ msgstr "すべて削除"
+
+#~ msgid "Re-evaluate All"
+#~ msgstr "すべて再評価"
+
+#~ msgid "Character"
+#~ msgstr "文字"
+
+#~ msgid "Remember Value"
+#~ msgstr "値を記憶"
+
+#~ msgid "Remove Watch Variable"
+#~ msgstr "ウォッチ変数を削除"
+
+#~ msgid "Watch Variable"
+#~ msgstr "ウォッチ変数"
+
+#, fuzzy
+#~| msgid "Reevaluate Expression"
+#~ msgid "Re-evaluate Expression"
+#~ msgstr "式を再評価"
+
+#~ msgid "Remove Expression"
+#~ msgstr "式を削除"
+
+#~ msgid "Copy Value"
+#~ msgstr "値をコピー"
+
+#~ msgid "Debug views"
+#~ msgstr "デバッグビュー"
+
+#, fuzzy
+#~| msgid "Format"
+#~ msgid "Form"
+#~ msgstr "フォーマット"
+
+#, fuzzy
+#~| msgid "<b>Expression entry</b><p>Type in expression to watch."
+#~ msgid "<b>Expression entry</b><p>Type in expression to watch.</p>"
+#~ msgstr "<b>式の入力</b><p>ウォッチする式を入力してください。"
+
+#~ msgid "Reevaluate Expression"
+#~ msgstr "式を再評価"
+
+#~ msgid ""
+#~ "Debug arguments can be set on the Run Options page\n"
+#~ " or directly in the project manager"
+#~ msgstr ""
+#~ "デバッグ時の引数は「実行オプション」のページ\n"
+#~ "または直接プロジェクトマネージャで設定できます。"
+
+#~ msgid "Runs the program in the debugger"
+#~ msgstr "デバッガでプログラムを実行"
+
+#~ msgid ""
+#~ "Continue application execution\n"
+#~ "\n"
+#~ "Continues the execution of your application in the debugger. This only "
+#~ "takes effect when the application has been halted by the debugger (i.e. a "
+#~ "breakpoint has been activated or the interrupt was pressed)."
+#~ msgstr ""
+#~ "アプリケーションの実行を続行\n"
+#~ "\n"
+#~ "デバッガ内のアプリケーションの実行を続行します。これはアプリケーションがデ"
+#~ "バッガにより停止させられているとき (すなわち、ブレークポイントに到達したか"
+#~ "割り込みが行なわれた場合) のみ有効です。"
+
+#, fuzzy
+#~| msgid ""
+#~| "<b>Frame stack</b><p>Often referred to as the \"call stack\", this is a "
+#~| "list showing what function is currently active and who called each "
+#~| "function to get to this point in your program. By clicking on an item "
+#~| "you can see the values in any of the previous calling functions."
+#~ msgid ""
+#~ "<b>Frame stack</b><p>Often referred to as the \"call stack\", this is a "
+#~ "list showing which function is currently active, and what called each "
+#~ "function to get to this point in your program. By clicking on an item you "
+#~ "can see the values in any of the previous calling functions."
+#~ msgstr ""
+#~ "<b>フレームスタック</b><p>しばしば「コールスタック」などとも呼ばれます。こ"
+#~ "れは現在アクティブな関数と、プログラム内でその関数を呼び出したポイントを表"
+#~ "示します。アイテムをクリックすることで任意の前の呼び出し関数の値を表示でき"
+#~ "ます。</p>"
+
+#~ msgid "Ignore"
+#~ msgstr "無視"
+
+#~ msgid "next hits"
+#~ msgstr "次のヒット"
+
+#~ msgid "Breakpoint is %1"
+#~ msgstr "ブレークポイントは %1"
+
+#~ msgid "Hit %1 time"
+#~ msgid_plural "Hit %1 times"
+#~ msgstr[0] "%1 回ヒット"
+
+#~ msgid "Double-click to create new code breakpoint"
+#~ msgstr "ダブルクリックして新しいコードブレークポイントを作成します"
+
+#~ msgid "C++ Debugger"
+#~ msgstr "C++ デバッガ"

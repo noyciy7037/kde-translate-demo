@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kdenlive Manual \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-13 09:59+0100\n"
+"PO-Revision-Date: 2024-10-01 21:30+0900\n"
+"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. +> trunk5
+#: ../../<rst_epilog>:34
+msgid "application-menu"
+msgstr ""
+
+#. +> trunk5
+#: ../../<rst_epilog>:230
+msgid "go-up"
+msgstr ""
+
+#. +> trunk5
+#: ../../<rst_epilog>:590
+msgid "window-close"
+msgstr ""
+
+#. +> trunk5
+#: ../../project_and_asset_management/project_bin/project_bin_use_multiple_bins.rst:29
+msgid "Multiple Bins"
+msgstr ""
+
+#. +> trunk5
+#: ../../project_and_asset_management/project_bin/project_bin_use_multiple_bins.rst:34
+msgid ""
+"Folders are a good way to stay organized but they are tied to the Project "
+"Bin. If you need more flexibility you can create various bins "
+"from :ref:`folders <create_folder>` you have created. The advantage of "
+"multiple bins is that you can un-dock them, move them around your workspace, "
+"change the sequence in the dock area, and even move them to a second (or "
+"third) monitor."
+msgstr ""
+
+#. +> trunk5
+#: ../../project_and_asset_management/project_bin/project_bin_use_multiple_bins.rst:43
+msgid "Turning folders into bins"
+msgstr ""
+
+#. +> trunk5
+#: ../../project_and_asset_management/project_bin/project_bin_use_multiple_bins.rst:45
+msgid ""
+"Right-click the folder name and choose :guilabel:`Open Current Folder In New "
+"Bin`."
+msgstr ""
+
+#. +> trunk5
+#: ../../project_and_asset_management/project_bin/project_bin_use_multiple_bins.rst:47
+msgid ""
+"A bin can be closed either by clicking the |window-close|\\ :guilabel:`Close "
+"Current Bin` icon on the bin toolbar, opening the |application-menu|"
+"\\ :guilabel:`Options` menu and selecting :guilabel:`Close Current Bin` (you "
+"must be in the bin), or by selecting the :menuselection:`Menu --> View --> "
+"Project Bins` and un-ticking the respective bin in the list."
+msgstr ""
+
+#. +> trunk5
+#: ../../project_and_asset_management/project_bin/project_bin_use_multiple_bins.rst:58
+msgid "Additional icons in the toolbar"
+msgstr ""
+
+#. +> trunk5
+#: ../../project_and_asset_management/project_bin/project_bin_use_multiple_bins.rst:60
+msgid "Note the additional icons in the toolbar of the bin."
+msgstr ""
+
+#. +> trunk5
+#: ../../project_and_asset_management/project_bin/project_bin_use_multiple_bins.rst:62
+msgid ""
+"|go-up|\\ :guilabel:`Go up` (keyboard shortcut :kbd:`Alt+UP`) goes up one "
+"level in the current bin."
+msgstr ""
+
+#. +> trunk5
+#: ../../project_and_asset_management/project_bin/project_bin_use_multiple_bins.rst:64
+msgid "|window-close|\\ :guilabel:`Close Current Bin` closes the current bin."
+msgstr ""
+
+#. +> trunk5
+#: ../../project_and_asset_management/project_bin/project_bin_use_multiple_bins.rst:-1
+msgid "Kdenlive Documentation - Using the Project Bin - Multiple Bins"
+msgstr ""
+
+#. +> trunk5
+#: ../../project_and_asset_management/project_bin/project_bin_use_multiple_bins.rst:-1
+msgid ""
+"KDE, Kdenlive, project bin, working, using, documentation, user manual, "
+"video editor, open source, free, learn, easy"
+msgstr ""

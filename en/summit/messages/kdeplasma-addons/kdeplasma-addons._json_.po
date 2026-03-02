@@ -1,0 +1,1101 @@
+# Translation of desktop_kdeplasma-addons into Japanese.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2008, 2009, 2010.
+# R.Suga <21r.suga@gmail.com>, 2022.
+# SPDX-FileCopyrightText: 2022, 2023, 2025 Ryuichi Yamada <ryuichi_ya220@outlook.jp>
+# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2010, 2012, 2021, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdeplasma-addons\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2026-01-13 14:38+0100\n"
+"PO-Revision-Date: 2025-03-15 18:37+0900\n"
+"Last-Translator: Ryuichi Yamada <ryuichi_ya220@outlook.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: \n"
+"X-Text-Markup: \n"
+"X-Generator: Lokalize 24.12.3\n"
+
+#. +> trunk6 stable6 stable5
+#: applets/binary-clock/metadata.json
+msgctxt "Name"
+msgid "Binary Clock"
+msgstr "バイナリ時計"
+
+#. +> trunk6 stable6 stable5
+#: applets/binary-clock/metadata.json
+msgctxt "Description"
+msgid "Time displayed in binary format"
+msgstr "時間をバイナリ形式で表示します"
+
+#. +> trunk6 stable6 stable5
+#: applets/binary-clock/metadata.json applets/katesessions/metadata.json
+msgctxt "Authors Name"
+msgid "Joseph Wenninger"
+msgstr "Joseph Wenninger"
+
+#. +> trunk6 stable6 stable5
+#: applets/binary-clock/metadata.json applets/timer/metadata.json
+msgctxt "Authors Name"
+msgid "Davide Bettio"
+msgstr "Davide Bettio"
+
+#. +> trunk6 stable6 stable5
+#: applets/binary-clock/metadata.json
+msgctxt "Authors Name"
+msgid "Piotr Kąkol"
+msgstr "Piotr Kąkol"
+
+#. +> trunk6 stable6 stable5
+#: applets/calculator/metadata.json
+msgctxt "Name"
+msgid "Calculator"
+msgstr "計算機"
+
+#. +> trunk6 stable6 stable5
+#: applets/calculator/metadata.json
+msgctxt "Description"
+msgid "Calculate simple sums"
+msgstr "簡単な計算ができます"
+
+#. +> trunk6 stable6 stable5
+#: applets/calculator/metadata.json
+msgctxt "Authors Name"
+msgid "Henry Stanaland, Davide Bettio"
+msgstr "Henry Stanaland, Davide Bettio"
+
+#. +> trunk6 stable6 stable5
+#: applets/colorpicker/metadata.json
+msgctxt "Name"
+msgid "Color Picker"
+msgstr "カラーピッカー"
+
+#. +> trunk6 stable6 stable5
+#: applets/colorpicker/metadata.json
+msgctxt "Description"
+msgid "Pick a color from the desktop"
+msgstr "デスクトップから色を取得します"
+
+#. +> trunk6 stable6 stable5
+#: applets/colorpicker/metadata.json applets/fuzzy-clock/metadata.json
+#: applets/userswitcher/metadata.json runners/colors/plasma-runner-colors.json
+msgctxt "Authors Name"
+msgid "Kai Uwe Broulik"
+msgstr "Kai Uwe Broulik"
+
+#. +> trunk6 stable6 stable5
+#: applets/comic/metadata.json
+msgctxt "Name"
+msgid "Comic Strip"
+msgstr "コミックストリップ"
+
+#. +> trunk6 stable6 stable5
+#: applets/comic/metadata.json
+msgctxt "Description"
+msgid "View comic strips from the Internet"
+msgstr "インターネット上のコミックを表示します"
+
+#. +> trunk6 stable6 stable5
+#: applets/comic/metadata.json
+msgctxt "Authors Name"
+msgid "Reza Fatahilah Shah"
+msgstr "Reza Fatahilah Shah"
+
+#. +> trunk6 stable6 stable5
+#: applets/dict/metadata.json runners/dictionary/plasma-runner-dictionary.json
+msgctxt "Name"
+msgid "Dictionary"
+msgstr "辞書"
+
+#. +> trunk6 stable6 stable5
+#: applets/dict/metadata.json
+msgctxt "Description"
+msgid ""
+"Look up the meaning of words and their translation into different languages"
+msgstr "単語の意味や翻訳を調べます"
+
+#. +> trunk6 stable6 stable5
+#: applets/dict/metadata.json
+msgctxt "Authors Name"
+msgid "The Plasma Team"
+msgstr "Plasma チーム"
+
+#. +> trunk6 stable6 stable5
+#: applets/diskquota/metadata.json
+msgctxt "Name"
+msgid "Disk Quota"
+msgstr "ディスククォータ"
+
+#. +> trunk6 stable6 stable5
+#: applets/diskquota/metadata.json
+msgctxt "Description"
+msgid "Shows details about disk quota"
+msgstr "ディスククォータの詳細を表示します"
+
+#. +> trunk6 stable6 stable5
+#: applets/diskquota/metadata.json
+msgctxt "Authors Name"
+msgid "Dominik Haumann"
+msgstr "Dominik Haumann"
+
+#. +> trunk6 stable6 stable5
+#: applets/fifteenPuzzle/metadata.json
+msgctxt "Name"
+msgid "Fifteen Puzzle"
+msgstr "15 ピースパズル"
+
+#. +> trunk6 stable6 stable5
+#: applets/fifteenPuzzle/metadata.json
+msgctxt "Description"
+msgid "Put the pieces in order"
+msgstr "ピースを正しい順序に並べるパズル"
+
+#. +> trunk6 stable6 stable5
+#: applets/fifteenPuzzle/metadata.json
+msgctxt "Authors Name"
+msgid "Jesper Thomschutz"
+msgstr "Jesper Thomschutz"
+
+#. +> trunk6 stable6 stable5
+#: applets/fuzzy-clock/metadata.json
+msgctxt "Name"
+msgid "Fuzzy Clock"
+msgstr "あいまい時計"
+
+#. +> trunk6 stable6 stable5
+#: applets/fuzzy-clock/metadata.json
+msgctxt "Description"
+msgid "Time displayed in a less precise format"
+msgstr "時間をあいまいな形式で表示します"
+
+#. +> trunk6 stable6 stable5
+#: applets/grouping/metadata.json
+msgctxt "Name"
+msgid "Grouping Plasmoid"
+msgstr "ウィジェットのグループ化"
+
+#. +> trunk6 stable6 stable5
+#: applets/grouping/metadata.json
+msgctxt "Description"
+msgid "Group Plasma widgets together"
+msgstr "Plasma ウィジェット同士をグループ化します"
+
+#. +> trunk6 stable6 stable5
+#: applets/grouping/metadata.json
+msgctxt "Authors Name"
+msgid "David Edmundson"
+msgstr "David Edmundson"
+
+#. +> trunk6 stable6 stable5
+#: applets/katesessions/metadata.json
+#: runners/katesessions/plasma-runner-katesessions.json
+msgctxt "Name"
+msgid "Kate Sessions"
+msgstr "Kate セッション"
+
+#. +> trunk6 stable6
+#: applets/katesessions/metadata.json
+msgctxt "Description"
+msgid "Kate session launcher"
+msgstr "Kate セッションランチャー"
+
+#. +> stable5
+#: applets/katesessions/metadata.json
+msgctxt "Description"
+msgid "Kate Session Launcher"
+msgstr "Kate セッションランチャー"
+
+#. +> trunk6 stable6 stable5
+#: applets/keyboardindicator/metadata.json
+msgctxt "Name"
+msgid "Lock Keys Status"
+msgstr "ロックキーの状態"
+
+#. +> trunk6 stable6 stable5
+#: applets/keyboardindicator/metadata.json
+msgctxt "Description"
+msgid "Shows whether Caps Lock or Num Lock are active"
+msgstr "Caps Lock または Num Lock が有効かどうか表示します"
+
+#. +> trunk6 stable6 stable5
+#: applets/keyboardindicator/metadata.json
+msgctxt "Authors Name"
+msgid "Aleix Pol Gonzalez"
+msgstr "Aleix Pol Gonzalez"
+
+#. +> trunk6 stable6 stable5
+#: applets/kickerdash/metadata.json
+msgctxt "Name"
+msgid "Application Dashboard"
+msgstr "アプリケーションダッシュボード"
+
+#. +> trunk6 stable6 stable5
+#: applets/kickerdash/metadata.json
+msgctxt "Description"
+msgid "A fullscreen application launcher"
+msgstr "フルスクリーンのアプリケーションランチャー"
+
+#. +> trunk6 stable6 stable5
+#: applets/kickerdash/metadata.json
+msgctxt "Authors Name"
+msgid "Eike Hein"
+msgstr "Eike Hein"
+
+#. +> trunk6 stable6 stable5
+#: applets/konsoleprofiles/metadata.json
+#: runners/konsoleprofiles/plasma-runner-konsoleprofiles.json
+msgctxt "Name"
+msgid "Konsole Profiles"
+msgstr "Konsole プロファイル"
+
+#. +> trunk6 stable6 stable5
+#: applets/konsoleprofiles/metadata.json
+msgctxt "Description"
+msgid "List and launch Konsole profiles"
+msgstr "Konsole のプロファイルを起動します"
+
+#. +> trunk6 stable6 stable5
+#: applets/konsoleprofiles/metadata.json
+msgctxt "Authors Name"
+msgid "Shaun Reich"
+msgstr "Shaun Reich"
+
+#. +> trunk6 stable6 stable5
+#: applets/mediaframe/metadata.json
+msgctxt "Name"
+msgid "Media Frame"
+msgstr "メディアフレーム"
+
+#. +> trunk6 stable6
+#: applets/mediaframe/metadata.json
+msgctxt "Description"
+msgid "(Picture) frame"
+msgstr "写真フレーム"
+
+#. +> trunk6 stable6 stable5
+#: applets/mediaframe/metadata.json
+msgctxt "Authors Name"
+msgid "Lars Pontoppidan"
+msgstr "Lars Pontoppidan"
+
+#. +> trunk6 stable6 stable5
+#: applets/notes/metadata.json
+msgctxt "Name"
+msgid "Sticky Note"
+msgstr "付箋"
+
+#. +> trunk6 stable6 stable5
+#: applets/notes/metadata.json
+msgctxt "Description"
+msgid "Desktop sticky note"
+msgstr "デスクトップの付箋"
+
+#. +> trunk6 stable6 stable5
+#: applets/notes/metadata.json
+msgctxt "Authors Name"
+msgid "Davide Bettio, Lukas Kropatschek"
+msgstr "Davide Bettio, Lukas Kropatschek"
+
+#. +> trunk6 stable6 stable5
+#: applets/quicklaunch/metadata.json
+msgctxt "Name"
+msgid "Quicklaunch"
+msgstr "クイック起動"
+
+#. +> trunk6 stable6
+#: applets/quicklaunch/metadata.json
+msgctxt "Description"
+msgid "Launch your favourite applications"
+msgstr "お気に入りのアプリケーションを起動"
+
+#. +> trunk6 stable6 stable5
+#: applets/quicklaunch/metadata.json
+msgctxt "Authors Name"
+msgid "David Rosca"
+msgstr "David Rosca"
+
+#. +> trunk6 stable6 stable5
+#: applets/timer/metadata.json
+msgctxt "Name"
+msgid "Timer"
+msgstr "タイマー"
+
+#. +> trunk6 stable6 stable5
+#: applets/timer/metadata.json
+msgctxt "Description"
+msgid "Countdown over a specified time period"
+msgstr "指定された時間をカウントダウンします"
+
+#. +> trunk6 stable6 stable5
+#: applets/userswitcher/metadata.json
+msgctxt "Name"
+msgid "User Switcher"
+msgstr "ユーザスイッチャー"
+
+#. +> trunk6 stable6 stable5
+#: applets/userswitcher/metadata.json
+msgctxt "Description"
+msgid "Quickly switch between different users"
+msgstr "他のユーザに素早く切り替え"
+
+#. +> trunk6 stable6
+#: applets/weather/ions/bbcukmet/metadata.json
+msgctxt "Name"
+msgid "BBC Weather"
+msgstr ""
+
+#. +> trunk6 stable6
+#: applets/weather/ions/bbcukmet/metadata.json
+msgctxt "Description"
+msgid "XML Data from the British Broadcasting Corporation"
+msgstr ""
+
+#. +> trunk6 stable6
+#: applets/weather/ions/dwd/metadata.json
+msgctxt "Name"
+msgid "German Weather Service"
+msgstr ""
+
+#. +> trunk6 stable6
+#: applets/weather/ions/dwd/metadata.json
+msgctxt "Description"
+msgid "Weather forecast by German Weather Service"
+msgstr ""
+
+#. +> trunk6 stable6
+#: applets/weather/ions/envcan/metadata.json
+msgctxt "Name"
+msgid "Environment Canada"
+msgstr ""
+
+#. +> trunk6 stable6
+#: applets/weather/ions/envcan/metadata.json
+msgctxt "Description"
+msgid "XML Data from Environment Canada"
+msgstr ""
+
+#. +> trunk6 stable6
+#: applets/weather/ions/noaa/metadata.json
+msgctxt "Name"
+msgid "NOAA's National Weather Service"
+msgstr ""
+
+#. +> trunk6 stable6
+#: applets/weather/ions/noaa/metadata.json
+msgctxt "Description"
+msgid "XML Data from NOAA's National Weather Service"
+msgstr ""
+
+#. +> trunk6 stable6
+#: applets/weather/ions/wetter.com/metadata.json
+msgctxt "Name"
+msgid "wetter.com"
+msgstr ""
+
+#. +> trunk6 stable6
+#: applets/weather/ions/wetter.com/metadata.json
+msgctxt "Description"
+msgid "Weather forecast by wetter.com"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: applets/weather/metadata.json
+msgctxt "Name"
+msgid "Weather Report"
+msgstr "天気予報"
+
+#. +> trunk6 stable6 stable5
+#: applets/weather/metadata.json
+msgctxt "Description"
+msgid "Forecast and current conditions"
+msgstr "現在の気象状況と予報"
+
+#. +> trunk6 stable6 stable5
+#: applets/weather/metadata.json
+msgctxt "Authors Name"
+msgid "Luís Gabriel Lima"
+msgstr "Luís Gabriel Lima"
+
+#. +> trunk6 stable6
+#: applets/webbrowser/metadata.json
+msgctxt "Name"
+msgid "Web Browser"
+msgstr "ウェブブラウザ"
+
+#. +> trunk6 stable6 stable5
+#: applets/webbrowser/metadata.json
+msgctxt "Description"
+msgid "Add a webpage on your desktop."
+msgstr "ウェブページをデスクトップに追加します。"
+
+#. +> trunk6 stable6 stable5
+#: applets/webbrowser/metadata.json
+msgctxt "Authors Name"
+msgid "Mikhail Ivchenko"
+msgstr "Mikhail Ivchenko"
+
+#. +> trunk6 stable6
+#: kdeds/kameleon/kameleon.json
+msgctxt "Name"
+msgid "Kameleon"
+msgstr "カメレオン"
+
+#. +> trunk6 stable6
+#: kdeds/kameleon/kameleon.json
+msgctxt "Description"
+msgid "Synchronizes device LEDs with the Plasma accent color"
+msgstr "デバイスの LED と Plasma のアクセントカラーを同期させます"
+
+#. +> trunk6 stable6
+#: kwin/effects/cube/package/metadata.json
+msgctxt "Name"
+msgid "Cube"
+msgstr "デスクトップキューブ"
+
+#. +> trunk6 stable6
+#: kwin/effects/cube/package/metadata.json
+msgctxt "Description"
+msgid "Arrange desktops in a virtual cube; activated with a keyboard shortcut"
+msgstr ""
+"仮想の立方体でデスクトップを管理します。キーボードショートカットで有効化"
+
+#. +> trunk6 stable6 stable5
+#: kwin/effects/cube/package/metadata.json
+#: wallpapers/tiled/package/metadata.json
+msgctxt "Authors Name"
+msgid "Vlad Zahorodnii"
+msgstr "Vlad Zahorodnii"
+
+#. +> trunk6 stable6
+#: kwin/scripts/virtualdesktopsonlyonprimary/metadata.json
+msgctxt "Name"
+msgid "Virtual Desktops Only on Primary"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kwin/scripts/virtualdesktopsonlyonprimary/metadata.json
+msgctxt "Description"
+msgid "Switching virtual desktops only affects the primary screen"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kwin/scripts/virtualdesktopsonlyonprimary/metadata.json
+msgctxt "Authors Name"
+msgid "Kristen McWilliam"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: kwin/windowswitchers/big_icons/metadata.json
+msgctxt "Name"
+msgid "Large Icons"
+msgstr "大きいアイコン"
+
+#. +> trunk6 stable6 stable5
+#: kwin/windowswitchers/big_icons/metadata.json
+msgctxt "Description"
+msgid "A window switcher layout using large icons to represent the window"
+msgstr "ウィンドウを大きいアイコンで表すウィンドウスイッチャー"
+
+#. +> trunk6 stable6 stable5
+#: kwin/windowswitchers/big_icons/metadata.json
+#: kwin/windowswitchers/compact/metadata.json
+msgctxt "Authors Name"
+msgid "Martin Gräßlin"
+msgstr "Martin Gräßlin"
+
+#. +> trunk6 stable6 stable5
+#: kwin/windowswitchers/compact/metadata.json
+msgctxt "Name"
+msgid "Compact"
+msgstr "コンパクト"
+
+#. +> trunk6 stable6 stable5
+#: kwin/windowswitchers/compact/metadata.json
+msgctxt "Description"
+msgid "A compact window switcher layout"
+msgstr "コンパクトなウィンドウスイッチャー"
+
+#. +> trunk6 stable6 stable5
+#: kwin/windowswitchers/coverswitch/metadata.json
+msgctxt "Name"
+msgid "Cover Switch"
+msgstr "カバースイッチ"
+
+#. +> trunk6 stable6 stable5
+#: kwin/windowswitchers/coverswitch/metadata.json
+msgctxt "Description"
+msgid "A Window Switcher layout showing thumbnails as a 3D carousel"
+msgstr "サムネイルを 3D カルーセルで表示するウィンドウスイッチャー"
+
+#. +> trunk6 stable6 stable5
+#: kwin/windowswitchers/coverswitch/metadata.json
+#: kwin/windowswitchers/flipswitch/metadata.json
+msgctxt "Authors Name"
+msgid "Ismael Asensio"
+msgstr "Ismael Asensio"
+
+#. +> trunk6 stable6 stable5
+#: kwin/windowswitchers/flipswitch/metadata.json
+msgctxt "Name"
+msgid "Flip Switch"
+msgstr "フリップスイッチ"
+
+#. +> trunk6 stable6 stable5
+#: kwin/windowswitchers/flipswitch/metadata.json
+msgctxt "Description"
+msgid "A Window Switcher layout showing thumbnails as a 3D card deck"
+msgstr "サムネイルを 3D カードデッキで表示するウィンドウスイッチャー"
+
+#. +> trunk6 stable6
+#: kwin/windowswitchers/sidebar/metadata.json
+msgctxt "Name"
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#. +> trunk6 stable6
+#: kwin/windowswitchers/sidebar/metadata.json
+msgctxt "Description"
+msgid "Window switcher layout using a vertical sidebar"
+msgstr "垂直なサイドバーを使用するウィンドウスイッチャー"
+
+#. +> trunk6 stable6
+#: kwin/windowswitchers/sidebar/metadata.json
+msgctxt "Authors Name"
+msgid "KDE Visual Design Group"
+msgstr "KDE Visual Design Group"
+
+#. +> trunk6 stable6 stable5
+#: plasmacalendarplugins/alternatecalendar/alternatecalendarplugin.json
+msgctxt "Name"
+msgid "Alternate Calendar"
+msgstr "代替カレンダー"
+
+#. +> trunk6 stable6
+#: plasmacalendarplugins/alternatecalendar/alternatecalendarplugin.json
+msgctxt "Description"
+msgid ""
+"Show dates in an alternate calendar system, such as Chinese Lunar or Islamic"
+msgstr ""
+
+#. +> stable5
+#: plasmacalendarplugins/alternatecalendar/alternatecalendarplugin.json
+msgctxt "Description"
+msgid "Calendar plugin for displaying dates from the alternate calendar system"
+msgstr "代替カレンダーからの日付を表示するカレンダープラグイン"
+
+#. +> trunk6 stable6 stable5
+#: plasmacalendarplugins/astronomical/astronomicaleventsplugin.json
+msgctxt "Name"
+msgid "Astronomical Events"
+msgstr "天文現象"
+
+#. +> trunk6 stable6
+#: plasmacalendarplugins/astronomical/astronomicaleventsplugin.json
+msgctxt "Description"
+msgid "Show lunar phases, solstices, and equinoxes"
+msgstr ""
+
+#. +> stable5
+#: plasmacalendarplugins/astronomical/astronomicaleventsplugin.json
+msgctxt "Description"
+msgid "Calendar plugin for displaying astronomical events"
+msgstr "天文現象を表示するカレンダープラグイン"
+
+#. +> trunk6 stable6 stable5
+#: plasmacalendarplugins/astronomical/astronomicaleventsplugin.json
+msgctxt "Authors Name"
+msgid "Friedrich W. H. Kossebau"
+msgstr "Friedrich W. H. Kossebau"
+
+#. +> trunk6 stable6 stable5
+#: runners/characters/plasma-runner-character.json
+msgctxt "Name"
+msgid "Special Characters"
+msgstr "特殊文字"
+
+#. +> trunk6 stable6 stable5
+#: runners/characters/plasma-runner-character.json
+msgctxt "Description"
+msgid "Creates special characters from their hexadecimal codes"
+msgstr "十六進コードから特殊文字を作ります"
+
+#. +> trunk6 stable6 stable5
+#: runners/characters/plasma-runner-character.json
+msgctxt "Authors Name"
+msgid "Anton Kreuzkamp"
+msgstr "Anton Kreuzkamp"
+
+#. +> trunk6 stable6
+#: runners/colors/plasma-runner-colors.json
+msgctxt "Name"
+msgid "Colors"
+msgstr "カラーズ"
+
+#. +> trunk6 stable6
+#: runners/colors/plasma-runner-colors.json
+msgctxt "Description"
+msgid "Display hex colors, rgb color triplets, and SVG color names"
+msgstr "Hex カラーコード、RGB カラートリプレット、SVG カラー名を表示します"
+
+#. +> trunk6 stable6 stable5
+#: runners/converter/plasma-runner-converter.json
+msgctxt "Name"
+msgid "Unit Converter"
+msgstr "単位変換器"
+
+#. +> trunk6 stable6 stable5
+#: runners/converter/plasma-runner-converter.json
+msgctxt "Description"
+msgid "Convert values to different units"
+msgstr "数値を他の単位に変換します"
+
+#. +> trunk6 stable6 stable5
+#: runners/converter/plasma-runner-converter.json
+msgctxt "Authors Name"
+msgid "Petri Damstén"
+msgstr "Petri Damstén"
+
+#. +> trunk6 stable6 stable5
+#: runners/datetime/plasma-runner-datetime.json
+msgctxt "Name"
+msgid "Date and Time"
+msgstr "日付と時間"
+
+#. +> trunk6 stable6 stable5
+#: runners/datetime/plasma-runner-datetime.json
+msgctxt "Description"
+msgid "The current date and time, locally or in any timezone"
+msgstr "現在の日時を任意のタイムゾーンで表示します"
+
+#. +> trunk6 stable6 stable5
+#: runners/datetime/plasma-runner-datetime.json
+msgctxt "Authors Name"
+msgid "Plasma Team"
+msgstr "Plasma チーム"
+
+#. +> trunk6 stable6 stable5
+#: runners/dictionary/plasma-runner-dictionary.json
+msgctxt "Description"
+msgid "Define words"
+msgstr "単語を定義"
+
+#. +> trunk6 stable6 stable5
+#: runners/dictionary/plasma-runner-dictionary.json
+msgctxt "Authors Name"
+msgid "Jason A. Donenfeld"
+msgstr "Jason A. Donenfeld"
+
+#. +> trunk6 stable6 stable5
+#: runners/katesessions/plasma-runner-katesessions.json
+msgctxt "Description"
+msgid "Matches Kate Sessions"
+msgstr "Kate のセッションを探します"
+
+#. +> trunk6 stable6 stable5
+#: runners/katesessions/plasma-runner-katesessions.json
+msgctxt "Authors Name"
+msgid "Sebastian Kügler"
+msgstr "Sebastian Kügler"
+
+#. +> trunk6 stable6 stable5
+#: runners/konsoleprofiles/plasma-runner-konsoleprofiles.json
+msgctxt "Description"
+msgid "Matches Konsole Profiles"
+msgstr "Konsole のセッションを探します"
+
+#. +> trunk6 stable6 stable5
+#: runners/konsoleprofiles/plasma-runner-konsoleprofiles.json
+msgctxt "Authors Name"
+msgid "Laurent Montel"
+msgstr "Laurent Montel"
+
+#. +> trunk6 stable6 stable5
+#: runners/spellchecker/plasma-runner-spellchecker.json
+msgctxt "Name"
+msgid "Spell Checker"
+msgstr "スペルチェッカー"
+
+#. +> trunk6 stable6 stable5
+#: runners/spellchecker/plasma-runner-spellchecker.json
+msgctxt "Description"
+msgid "Check the spelling of a word"
+msgstr "単語のスペルをチェックします"
+
+#. +> trunk6 stable6 stable5
+#: runners/spellchecker/plasma-runner-spellchecker.json
+msgctxt "Authors Name"
+msgid "Ryan P. Bitanga"
+msgstr "Ryan P. Bitanga"
+
+#. +> trunk6 stable6 stable5
+#: wallpapers/haenau/metadata.json
+msgctxt "Name"
+msgid "Haenau"
+msgstr "Haenau"
+
+#. +> trunk6 stable6 stable5
+#: wallpapers/haenau/metadata.json
+msgctxt "Description"
+msgid "Haenau wallpaper"
+msgstr "Haenau 壁紙"
+
+#. +> trunk6 stable6 stable5
+#: wallpapers/haenau/metadata.json wallpapers/hunyango/metadata.json
+msgctxt "Authors Name"
+msgid "Marco Martin"
+msgstr "Marco Martin"
+
+#. +> trunk6 stable6 stable5
+#: wallpapers/hunyango/metadata.json
+msgctxt "Name"
+msgid "Hunyango"
+msgstr "Hunyango"
+
+#. +> trunk6 stable6 stable5
+#: wallpapers/hunyango/metadata.json
+msgctxt "Description"
+msgid "Hunyango wallpaper"
+msgstr "Hunyango 壁紙"
+
+#. +> trunk6 stable6 stable5
+#: wallpapers/potd/package/metadata.json
+msgctxt "Name"
+msgid "Picture of the Day"
+msgstr "今日の写真"
+
+#. +> trunk6 stable6 stable5
+#: wallpapers/potd/package/metadata.json
+msgctxt "Description"
+msgid "A new picture from the Internet each day"
+msgstr "インターネット上の画像を日替わりで設定します"
+
+#. +> trunk6 stable6 stable5
+#: wallpapers/potd/package/metadata.json
+msgctxt "Authors Name"
+msgid "Weng Xuetian"
+msgstr "Weng Xuetian"
+
+#. +> trunk6 stable6 stable5
+#: wallpapers/potd/plugins/plasma_potdprovider.json
+msgctxt "Description"
+msgid "Plugin for Plasma PoTD Engine"
+msgstr "Plasma PoTD (今日の写真) エンジンのためのプラグイン"
+
+#. +> trunk6 stable6 stable5
+#: wallpapers/potd/plugins/providers/apodprovider.json
+msgctxt "Name"
+msgid "Astronomy (NASA)"
+msgstr "天文学 (NASA)"
+
+#. +> trunk6 stable6 stable5
+#: wallpapers/potd/plugins/providers/bingprovider.json
+msgctxt "Name"
+msgid "Bing"
+msgstr "Bing"
+
+#. +> trunk6 stable6 stable5
+#: wallpapers/potd/plugins/providers/epodprovider.json
+msgctxt "Name"
+msgid "Earth Science (USRA)"
+msgstr "地球科学 (USRA)"
+
+#. +> trunk6 stable6 stable5
+#: wallpapers/potd/plugins/providers/flickrprovider.json
+msgctxt "Name"
+msgid "Flickr"
+msgstr "Flickr"
+
+#. +> trunk6 stable6 stable5
+#: wallpapers/potd/plugins/providers/simonstalenhagprovider.json
+msgctxt "Name"
+msgid "Simon Stålenhag Wallpapers"
+msgstr "Simon Stålenhag 壁紙"
+
+#. +> trunk6 stable6 stable5
+#: wallpapers/potd/plugins/providers/wcpotdprovider.json
+msgctxt "Name"
+msgid "Wikimedia Commons"
+msgstr "ウィキメディア・コモンズ"
+
+#. +> trunk6 stable6
+#: wallpapers/tiled/package/metadata.json
+msgctxt "Name"
+msgid "Tiled"
+msgstr ""
+
+#. +> trunk6 stable6
+#: wallpapers/tiled/package/metadata.json
+msgctxt "Description"
+msgid "Wallpaper view for tiled images"
+msgstr ""
+
+#. +> stable5
+#: applets/mediaframe/package/metadata.json
+msgctxt "Description"
+msgid "(Picture) Frame"
+msgstr "写真フレーム"
+
+#. +> stable5
+#: applets/nightcolor/package/metadata.json
+msgctxt "Name"
+msgid "Night Color Control"
+msgstr "Night Color コントロール"
+
+#. +> stable5
+#: applets/nightcolor/package/metadata.json
+msgctxt "Description"
+msgid "Plasmoid for controlling Night Color"
+msgstr "Night Color を制御するウィジェット"
+
+#. +> stable5
+#: applets/nightcolor/package/metadata.json
+msgctxt "X-KDE-Keywords"
+msgid ""
+"kwin,window,manager,night,colors,redshift,eyes,night mode,colour,dark "
+"mode,dark,dim,sleep,eye strain,red,shift,orange,yellow,warm,screen "
+"tint,temperature,blue,light"
+msgstr ""
+"kwin,window,manager,night,colors,redshift,eyes,night mode,colour,dark "
+"mode,dark,dim,sleep,eye strain,red,shift,orange,yellow,warm,screen "
+"tint,temperature,blue,light"
+
+#. +> stable5
+#: applets/quicklaunch/package/metadata.json
+msgctxt "Description"
+msgid "Launch your favourite Applications"
+msgstr "お気に入りのアプリケーションを起動"
+
+#. +> stable5
+#: applets/quickshare/plasmoid/metadata.json
+msgctxt "Name"
+msgid "Quick Share"
+msgstr "クイック共有"
+
+#. +> stable5
+#: applets/quickshare/plasmoid/metadata.json
+msgctxt "Description"
+msgid "Paste text/images to a remote server"
+msgstr "テキストや画像をリモートサーバに貼り付けます"
+
+#. +> stable5
+#: applets/webbrowser/package/metadata.json
+msgctxt "Name"
+msgid "Web browser"
+msgstr "ウェブブラウザ"
+
+#. +> stable5
+#: desktopswitchers/previews/metadata.json
+msgctxt "Name"
+msgid "Previews"
+msgstr "プレビュー"
+
+#. +> stable5
+#: desktopswitchers/previews/metadata.json
+msgctxt "Description"
+msgid "A desktop switcher layout with previews of the desktops"
+msgstr "デスクトップのプレビューを表示するデスクトップスイッチャー"
+
+#. +> stable5
+#: wallpapers/potd/plugins/providers/natgeoprovider.json
+msgctxt "Name"
+msgid "National Geographic"
+msgstr "ナショナルジオグラフィック"
+
+#. +> stable5
+#: wallpapers/potd/plugins/providers/noaaprovider.json
+msgctxt "Name"
+msgid "Weather Satellite (NOAA)"
+msgstr "気象衛星 (NOAA)"
+
+#. +> stable5
+#: wallpapers/potd/plugins/providers/unsplashprovider.json
+msgctxt "Name"
+msgid "Unsplash Wallpapers"
+msgstr "Unsplash 壁紙"
+
+#. +> stable5
+#: windowswitchers/informative/metadata.json
+msgctxt "Name"
+msgid "Informative"
+msgstr "インフォマティブ"
+
+#. +> stable5
+#: windowswitchers/informative/metadata.json
+msgctxt "Description"
+msgid "An informative window switcher layout including desktop name"
+msgstr "デスクトップの名前も表示する情報量が多いウィンドウスイッチャー"
+
+#. +> stable5
+#: windowswitchers/present_windows/metadata.json
+msgctxt "Name"
+msgid "Grid"
+msgstr "グリッド"
+
+#. +> stable5
+#: windowswitchers/present_windows/metadata.json
+msgctxt "Description"
+msgid "A Window Switcher layout showing all windows as thumbnails in a grid"
+msgstr ""
+"すべてのウィンドウをグリッド上にサムネイルとして表示するウィンドウスイッ"
+"チャー"
+
+#. +> stable5
+#: windowswitchers/small_icons/metadata.json
+msgctxt "Name"
+msgid "Small Icons"
+msgstr "小さいアイコン"
+
+#. +> stable5
+#: windowswitchers/small_icons/metadata.json
+msgctxt "Description"
+msgid "A window switcher layout using small icons to represent the window"
+msgstr "ウィンドウを小さいアイコンで表すウィンドウスイッチャー"
+
+#. +> stable5
+#: windowswitchers/text/metadata.json
+msgctxt "Name"
+msgid "Text Only"
+msgstr "テキストのみ"
+
+#. +> stable5
+#: windowswitchers/text/metadata.json
+msgctxt "Description"
+msgid "A window switcher layout only showing window captions"
+msgstr "ウィンドウのタイトルのみを表示するウィンドウスイッチャー"
+
+#. +> stable5
+#: windowswitchers/thumbnail_grid/metadata.json
+msgctxt "Name"
+msgid "Thumbnail Grid"
+msgstr "サムネイルグリッド"
+
+#. +> stable5
+#: windowswitchers/thumbnail_grid/metadata.json
+msgctxt "Description"
+msgid "A window switcher layout using a small grid of thumbnails"
+msgstr "サムネイルの小さいグリッドを使用するウィンドウスイッチャー"
+
+#. +> stable5
+#: windowswitchers/thumbnail_grid/metadata.json
+msgctxt "Authors Name"
+msgid "Chris Holland"
+msgstr "Chris Holland"
+
+#. +> stable5
+#: windowswitchers/thumbnails/metadata.json
+msgctxt "Name"
+msgid "Thumbnails"
+msgstr "サムネイル"
+
+#. +> stable5
+#: windowswitchers/thumbnails/metadata.json
+msgctxt "Description"
+msgid "A window switcher layout using live thumbnails"
+msgstr "ライブサムネイルを使用するウィンドウスイッチャー"
+
+#~ msgctxt "Description"
+#~ msgid "Arrange desktops in a virtual cube"
+#~ msgstr "仮想の立方体でデスクトップを管理"
+
+#~ msgctxt "Authors Name"
+#~ msgid "Joseph Wenninger,Davide Bettio,Piotr Kąkol"
+#~ msgstr "Joseph Wenninger,Davide Bettio,Piotr Kąkol"
+
+#~ msgctxt "Name"
+#~ msgid "Activity Pager"
+#~ msgstr "アクティビティページャ"
+
+#~ msgctxt "Description"
+#~ msgid "Switch between activities"
+#~ msgstr "アクティビティを切り替えます"
+
+#~ msgctxt "Name"
+#~ msgid "Comic Strips"
+#~ msgstr "コミック・ストリップ"
+
+#~ msgctxt "Description"
+#~ msgid "Online comic strips"
+#~ msgstr "オンライン コミック・ストリップ"
+
+#~ msgctxt "Name"
+#~ msgid "Comic"
+#~ msgstr "漫画"
+
+#~ msgctxt "Description"
+#~ msgid "Comic Package Structure"
+#~ msgstr "コミックパッケージの集まり"
+
+#~ msgctxt "Description"
+#~ msgid "Plugin for Plasma Comic Engine"
+#~ msgstr "Plasma 漫画エンジンのためのプラグインです"
+
+#~ msgctxt "Description"
+#~ msgid "Data Engine for getting various online Pictures of The Day."
+#~ msgstr ""
+#~ "インターネット上のさまざまな今日の写真を取得するデータエンジンです。"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Apod Provider"
+#~ msgctxt "Description"
+#~ msgid "Apod Provider"
+#~ msgstr "Apod のプロバイダ"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Osei Provider"
+#~ msgctxt "Description"
+#~ msgid "Bing Provider"
+#~ msgstr "Osei のプロバイダ"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Epod Provider"
+#~ msgctxt "Description"
+#~ msgid "Epod Provider"
+#~ msgstr "Epod のプロバイダ"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Flickr Provider"
+#~ msgctxt "Description"
+#~ msgid "Flickr Provider"
+#~ msgstr "Flickr のプロバイダ"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Apod Provider"
+#~ msgctxt "Description"
+#~ msgid "NOAA Provider"
+#~ msgstr "Apod のプロバイダ"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Wcpotd Provider"
+#~ msgctxt "Description"
+#~ msgid "Wcpotd Provider"
+#~ msgstr "Wcpotd プロバイダ"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Astronomy Picture of the Day"
+#~ msgstr "今日の写真"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Earth Science Picture of the Day"
+#~ msgstr "今日の写真"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Flickr Picture of the Day"
+#~ msgstr "今日の写真"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Wikimedia Picture of the Day"
+#~ msgstr "今日の写真"

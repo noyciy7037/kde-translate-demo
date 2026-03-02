@@ -1,0 +1,1315 @@
+# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: Krita Manual 4.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-25 09:27+0100\n"
+"PO-Revision-Date: 2022-03-27 19:11-0700\n"
+"Last-Translator: Fumiaki Okushi <fumiaki.okushi@gmail.com>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. +> trunk5
+#: ../../<rst_epilog>:2
+msgid "mouseleft"
+msgstr ""
+
+#. +> trunk5
+#: ../../<rst_epilog>:2
+msgid ".. image:: /images/icons/Krita_mouse_left.png"
+msgstr ""
+
+#. +> trunk5
+#: ../../<rst_epilog>:4
+msgid "mouseright"
+msgstr ""
+
+#. +> trunk5
+#: ../../<rst_epilog>:4
+msgid ".. image:: /images/icons/Krita_mouse_right.png"
+msgstr ""
+
+#. +> trunk5
+#: ../../<rst_epilog>:10
+#, fuzzy
+#| msgid "Shape Selection"
+msgid "toolshapeselection"
+msgstr "形状選択"
+
+#. +> trunk5
+#: ../../<rst_epilog>:10
+msgid ".. image:: /images/icons/shape_select_tool.svg"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:13
+msgid "Tools"
+msgstr "ツール"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:13
+msgid "Vector"
+msgstr "ベクター"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:13
+msgid "Shape Selection"
+msgstr "形状選択"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:16
+msgid "icon_paintorder-fsm"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:16
+msgid ".. image:: /images/icons/paint-order-fill-stroke-marker.svg"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:18
+msgid "icon_paintorder-sfm"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:18
+msgid ".. image:: /images/icons/paint-order-stroke-fill-marker.svg"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:22
+msgid "icon_chain"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:22
+msgid ".. image:: /images/icons/chain-icon.svg"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:24
+msgid "icon_chain-broken"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:24
+msgid ".. image:: /images/icons/chain-broken-icon.svg"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:26
+msgid "icon_strokecap-butt"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:26
+msgid ".. image:: /images/icons/stroke-cap-butt.svg"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:28
+msgid "icon_strokecap-round"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:28
+msgid ".. image:: /images/icons/stroke-cap-round.svg"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:30
+msgid "icon_strokecap-square"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:30
+msgid ".. image:: /images/icons/stroke-cap-square.svg"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:32
+msgid "icon_strokejoin-bevel"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:32
+msgid ".. image:: /images/icons/stroke-join-bevel.svg"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:34
+msgid "icon_strokejoin-miter"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:34
+msgid ".. image:: /images/icons/stroke-join-miter.svg"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:36
+msgid "icon_strokejoin-round"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:36
+msgid ".. image:: /images/icons/stroke-join-round.svg"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:39
+msgid "img_strokejoin-miter"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:39
+msgid ".. image:: /images/tools/shape-selection-menu-stroke-corner-miter.png"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:41
+msgid "img_strokejoin-round"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:41
+msgid ".. image:: /images/tools/shape-selection-menu-stroke-corner-round.png"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:43
+msgid "img_strokejoin-bevel"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:43
+msgid ".. image:: /images/tools/shape-selection-menu-stroke-corner-bevel.png"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:51
+msgid "Shape Selection Tool"
+msgstr "形状選択ツール"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:53
+msgid "|toolshapeselection|"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:55
+msgid ""
+"The shape selection tool used to be called the \"default\" tool. This had to "
+"do with Krita being part of an office suite once upon a time. But this is no "
+"longer the case, so we renamed it to its purpose in Krita: Selecting shapes! "
+"This tool only works on vector layers, so trying to use it on a paint layer "
+"will give a notification."
+msgstr ""
+"この形状選択ツールは\"既定\"ツールと呼ばれていました。これは Krita が大昔に "
+"Office の一部であったことに由来しています。でもそれではわかりにくいので、"
+"Krita での目的に合うように名前が変えられました:シェイプ選択です！ このツール"
+"はベクターレイヤーでのみ動きますので、ペイントレイヤーで使おうとすると通知が"
+"表示されます。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:57
+#, fuzzy
+#| msgid ""
+#| "After you create vector shapes, you can use this tool to select, "
+#| "transform, and access the shape's options in the tool options docker. "
+#| "There are a lot of different properties and things you can do with each "
+#| "vector shape."
+msgid ""
+"After you create vector shapes, you can use this tool to select, transform, "
+"and access the shape's options in the tool options docker. There are a lot "
+"of different properties and things you can do with each vector shape. If you "
+"have text shapes selected, you can edit their properties with "
+"the :ref:`text_properties_docker`, see :ref:`shape_selection_tool_text` for "
+"more information."
+msgstr ""
+"ベクターシェイプを作成すると、このツールを使って選択、変形やツールのオプショ"
+"ンからシェイプのオプションにアクセスできます。ベクターシェイプについて多くの"
+"プロパティがあります。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:60
+msgid "Selection"
+msgstr "選択"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:61
+#, fuzzy
+#| msgid "Selecting shapes can be done by two types of actions:"
+msgid "Selecting shapes can be done by three types of actions:"
+msgstr "シェイプの選択は二つの方法で行うことができます:"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:63
+msgid "|mouseleft| on a single shape to select it."
+msgstr "シェイプを選択するには |mouseleft| します。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:64
+msgid "|mouseleft| and drag to select multiple shapes."
+msgstr "複数シェイプを選択するには |mouseleft| ドラッグします。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:66
+msgid ""
+"*Blue selection* (drag left to right): selects only shapes fully covered."
+msgstr ""
+"*ブルー選択* (左から右にドラッグ): 完全におさまるシェイプのみを選択します。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:67
+msgid "*Green selection* (drag right to left): selects all the touched shapes."
+msgstr ""
+"*グリーン選択* (右から左にドラッグ): 触れるすべてのシェイプを選択します。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:68
+msgid ""
+"Press :kbd:`Shift` key while |mouseleft| to add or remove a shape from "
+"selection."
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:74
+msgid "Left: Blue selection. Right: Green selection."
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:74
+msgid ".. image:: /images/tools/blue-and-green-selections.png"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:74
+msgid ""
+"Blue selection: left-to-right, selects fully covered images. --  Green "
+"selection: right-to-left, selects touched shapes."
+msgstr ""
+"ブルー選択: 左から右に、完全に覆われるすべての画像を選択します。-- グリーン選"
+"択: 右から左に、触れるすべてのシェイプを選択します。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:79
+msgid ""
+"*Selecting multiple shapes is only possible for shapes within the same "
+"Vector Layer*"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:83
+msgid "Placement, Scale, Angle and Distortion"
+msgstr "配置、拡大縮小、傾きとねじれ"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:85
+msgid ""
+"Once an object is selected, a dashed bounding box will appear around it. The "
+"box will also have square handles. You can use this bounding box to do "
+"adjust: placement, scale, angle and distortion of the selected object."
+msgstr ""
+"オブジェクトが選択されたら、破線のバウンディングボックスが表示されます。ボッ"
+"クスには四角いハンドルがあります。このバウンディングボックスを使って様々な調"
+"節: 選択したオブジェクトの配置、拡大縮小、傾きとねじれができます。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:91
+msgid "Left to right: Placement, Scale, Angle and Distortion."
+msgstr "左から右に: 配置、拡大縮小、傾きとねじれ。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:91
+msgid ".. image:: /images/tools/shapes-selection-properties.png"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:94
+msgid ""
+"|mouseleft| and hold inside the bounding box, while holding move the shape "
+"to the desired position."
+msgstr ""
+"バウンディングボックスの内側で |mouseleft| ホールドし、シェイプを好きな場所に"
+"移動します。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:98
+msgid "Placement"
+msgstr "配置"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:98
+msgid ""
+"You can lock movement to the vertical or horizontal axis: hold |mouseleft| "
+"and then press :kbd:`Shift` key while moving."
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:101
+msgid ""
+"|mouseleft| and hold inside any of the square handles, move to adjust the "
+"dimensions of the object."
+msgstr ""
+"四角いハンドルの内側で |mouseleft| ホールドし、動かしてオブジェクトの大きさを"
+"調節します。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:105
+msgid ""
+"You can lock width/height ratio when resizing the shape: hold |mouseleft| "
+"and then press :kbd:`Shift` while resizing."
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:107
+msgid ""
+"You can resize around the shape center: hold |mouseleft| and then "
+"press :kbd:`Ctrl` while resizing."
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:109
+msgid "Scale"
+msgstr "拡大縮小"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:109
+msgid "Combination of :kbd:`Ctrl + Shift` is possible."
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:112
+msgid ""
+"Place the cursor slightly outside any of the corner handles. |mouseleft| and "
+"drag to adjust the angle of the shape."
+msgstr ""
+"いずれかの角ハンドルの少し外側にカーソルを持っていき、|mouseleft| ドラッグで"
+"シェイプの角度を調節できます。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:116
+msgid "Angle"
+msgstr "傾き"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:116
+msgid ""
+"You can constrain rotation to 45°: hold |mouseleft| and then "
+"press :kbd:`Ctrl` while rotating."
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:119
+msgid ""
+"Place the cursor slightly outside any of the middle handles. |mouseleft| and "
+"drag to skew the shape."
+msgstr ""
+"いずれかの中央ハンドルの少し外側にカーソルを持っていき、|mouseleft| ドラッグ"
+"でシェイプをゆがませることができます。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:121
+msgid "Distortion"
+msgstr "ねじれ"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:124
+msgid "Tool Options"
+msgstr "ツールのオプション"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:126
+msgid ""
+"The tool options of this menu are quite involved, and separated over 3 tabs."
+msgstr "このメニューにあるツールのオプションは、3つのタブに分けられています。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:130
+msgid "Geometry"
+msgstr "ジオメトリ"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:136
+msgid "Geometry is the first section in the tool options."
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:140
+msgid ""
+"Position of a shape is defined by :guilabel:`X` and :guilabel:`Y` "
+"coordinates."
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:144
+msgid ""
+"Also, the origin of position (top-left, middle, bottom-right, ...) is "
+"defined by the active button:"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:148
+msgid ""
+"Provided position coordinates are always relative to the origin: if the "
+"origin is modified, :guilabel:`X` and :guilabel:`Y` coordinates are updated "
+"by consequence."
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:153
+msgid ""
+"You can also use :ref:`Docker Arrange <arrange_docker>` tools to easily:"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:155
+msgid "Align shapes"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:156
+msgid "Distribute shapes"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:157
+msgid "Position"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:157
+msgid "Normalize distances between shapes"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:160
+msgid "Size of a shape is defined by its width and height."
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:166
+msgid "Size"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:169
+msgid "Enabled: when scaling, it will scale the stroke width with the shape."
+msgstr "有効: 拡大縮小すると、ストローク幅をシェイプに合わせて拡大縮小します。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:171
+msgid "Scale Styles"
+msgstr "スタイルの拡大縮小"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:171
+msgid "Not enabled: when scaling, the stroke width will stay the same."
+msgstr "無効: 拡大縮小してもストローク幅を同じに保ちます。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:174
+msgid "Global coordinates"
+msgstr "グローバル座標"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:174
+msgid ""
+"Determines whether the width and height bars use the width and height of the "
+"object, while taking transforms into account."
+msgstr ""
+"変形を行う際に幅/高さバーがオブジェクトの幅/高さを使用するかを決めます。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:177
+msgid ""
+"Like there's a *Z-Order* for painting shapes, there's also an order to "
+"render shape elements (Fill, Stroke, Markers)."
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:179
+msgid "Which element is drawn first can change the final look of the shape."
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:181
+msgid "A polygon, solid Red fill, Blue 25px solid stroke, Blue bullet markers"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:187
+msgid "|icon_paintorder-fsm| Fill, Stroke, Markers"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:187
+msgid "|icon_paintorder-sfm| Stroke, Fill, Markers"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:187
+msgid "|icon_paintorder-fsm| Markers, Stroke, Fill"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:189
+msgid "Fill, Stroke, Markers"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:192
+#: ../../reference_manual/tools/shape_selection.rst:286
+msgid "Opacity"
+msgstr "不透明度"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:192
+msgid ""
+"The general opacity, or transparency, of the object. Opacity for stroke and "
+"fill are explained in the next two sections."
+msgstr ""
+"オブジェクトの透過や通常の不透明度です。ストロークと塗りつぶしについての不透"
+"明度については次の二つのセクションで説明します。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:196
+#, fuzzy
+#| msgid "Anchor Lock is not implemented at the moment."
+msgid ""
+"As Anchor Lock is not implemented at the moment, this checkbox is disabled."
+msgstr "アンカーロックは今のところ実装されていません。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:200
+msgid "Stroke"
+msgstr "ストローク"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:206
+msgid "The stroke tab determines how the stroke around the object should look."
+msgstr ""
+"このストロークタブではオブジェクト周りのストロークがどのような見た目になるか"
+"を決めます。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:208
+msgid ""
+"The first set of buttons allows us to set the fill of the stroke: *None*, "
+"*Color* and *Gradient*; the same options exist for the fill of the shape, "
+"please refer to the following \"**Fill**\" section for more details on how "
+"to use both of them."
+msgstr ""
+"最初のボタンではストロークの塗り方を設定できます: *なし*、*単色* と *グラデー"
+"ション* です; 同じオプションがシェイプの塗りつぶしにもあり、その二つの使い方"
+"についてより詳しくは下の\"塗りつぶし\"セクションを見てください。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:210
+msgid "Then, there are the settings for the stroke style:"
+msgstr "それから、ストロークのスタイルについての設定があります:"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:213
+msgid "Thickness"
+msgstr "太さ"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:213
+msgid ""
+"Sets the width of the stroke. When creating a shape, Krita will use the "
+"current brush size to determine the width of the stroke."
+msgstr ""
+"ストロークの幅を設定します。シェイプを作成すると、Krita は現在のブラシサイズ"
+"をストローク幅として使用します。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:216
+msgid ""
+"Line Cap defines how the ends of a stroke are drawn, while Line Corner "
+"defines how segments joins (from a polyline or polygon) are drawn."
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:218
+#, fuzzy
+#| msgid ""
+#| "Sets the stroke cap and stroke corner style, this can be accessed by "
+#| "pressing the three dots button next to the thickness entry."
+msgid ""
+"Options can be accessed by pressing the three dots button next to the "
+"thickness entry."
+msgstr ""
+"ストロークの端と角のスタイルを設定します。太さ設定の隣にある3点ボタンを押すこ"
+"とでアクセスできます。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:220
+msgid "Possible Cap values:"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:222
+msgid "|icon_strokecap-butt| Butt"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:223
+msgid "|icon_strokecap-round| Round"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:224
+msgid "|icon_strokecap-square| Square"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:228
+msgid ""
+"Difference between cap values on 25px thickness lines: Butt, Round and Square"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:230
+msgid "Possible Corner values:"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:232
+msgid "|icon_strokejoin-bevel| Bevel"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:233
+msgid "|icon_strokejoin-miter| Miter"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:234
+msgid "|icon_strokejoin-round| Round"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:236
+msgid "|img_strokejoin-bevel| |img_strokejoin-miter| |img_strokejoin-round|"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:238
+msgid ""
+"*Difference between corner values on 25px thickness rectangle: Bevel, Miter "
+"and Round*"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:239
+msgid "Cap and corner style"
+msgstr "端と角のスタイル"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:242
+msgid ""
+"Sets the line style of the stroke: *solid*, *dashes*, *dots*, or mixes of "
+"*dashes and dots*."
+msgstr ""
+"ストロークのスタイルを設定します: *実線*、*破線*、*点線* や *破線と点* の混合"
+"があります。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:245
+msgid "Line-style"
+msgstr "線のスタイル"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:248
+msgid ""
+"Adds markers to the stroke. Markers are little figures that will appear at "
+"the start, end or all the nodes in between, depending on your configuration."
+msgstr ""
+"ストロークにマーカーを追加します。マーカーは設定により全ノード間、開始地点ま"
+"たは終了地点に現れる小さな目印です。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:249
+msgid "Markers"
+msgstr "マーカー"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:252
+msgid "Fill"
+msgstr "塗りつぶし"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:257
+msgid ""
+"This section is about the color that fills the shape. As mentioned above in "
+"the **Stroke** section, the features are the same for both the fill of the "
+"stroke and the fill of the shape. Here is the explanation for both:"
+msgstr ""
+"このセクションはシェイプを塗りつぶす色についてです。上の **ストローク** セク"
+"ションで述べた通り、シェイプの塗りつぶしとストロークの塗りの二つの機能は同じ"
+"ものです。これがその説明です:"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:259
+msgid "A fill can be: *solid color*, *gradient*, or *none* (transparent)"
+msgstr ""
+"塗りつぶしは:  *単色*、 *グラデーション* または *なし* (透過)があります。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:262
+msgid "None"
+msgstr "なし"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:262
+msgid "No fill. It's transparent."
+msgstr "塗りつぶししません。透明です。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:265
+msgid "Color"
+msgstr "単色"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:265
+msgid "A flat color, you can select a new one by pressing the color button."
+msgstr "単一の色で、色ボタンを押すことで新しい色を選択できます。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:268
+msgid ""
+"As the name implies this type fills the shape with a gradient. It has the "
+"following options:"
+msgstr ""
+"名前の示す通りシェイプをグラデーションで塗りつぶします。次のオプションがあり"
+"ます:"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:270
+msgid "Type"
+msgstr "タイプ"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:271
+msgid "A linear or radial gradient."
+msgstr "線形や円形グラデーションです。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:272
+msgid "Repeat"
+msgstr "繰り返し"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:273
+msgid "How the gradient repeats itself."
+msgstr "グラデーションをどのように繰り返すかです。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:274
+msgid "Preset"
+msgstr "プリセット"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:275
+msgid ""
+"A menu for selecting a base gradient from a set of predefined gradient "
+"presets, which can be edited as desired."
+msgstr ""
+"元のグラデーションから、好みに編集できる定義済みのグラデーションまで選べるメ"
+"ニューです。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:276
+msgid "Save Gradient"
+msgstr "グラデーションを保存"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:277
+msgid "A quick way for saving the current gradient as a preset."
+msgstr "現在のグラデーションをプリセットとして保存する手っ取り早い方法です。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:279
+msgid "Stops Options Line"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:279
+msgid ""
+"A representation of how the gradient colors should look. The stops are "
+"represented by triangles. There are two stops by default one at the "
+"beginning and one at the end. You can create more stops just by clicking "
+"anywhere on the line. To select a stop |mouseleft| inside the triangle. To "
+"delete the stops, |mouseleft| drag them to left or right until the end of "
+"the line."
+msgstr ""
+"グラデーションカラーがどのように見えるかの例です。中間点は三角形で表されま"
+"す。既定では最初に始点と終点の二つの点があります。線のどこでもクリックするこ"
+"とで中間点を作成することができます。選択するにはこの三角形の内側を |"
+"mouseleft| します。削除するには右か左の線の終わりまで |mouseleft| ドラッグし"
+"ます。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:281
+msgid "Flip Gradient"
+msgstr "グラデーション反転"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:282
+msgid "A quick way to invert the order of the gradient."
+msgstr "グラデーションの向きを素早く反転します。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:283
+#: ../../reference_manual/tools/shape_selection.rst:300
+msgid "Stop"
+msgstr "中間点"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:284
+msgid "Choose a color for the current selected stop."
+msgstr "現在選択されている中間点の色を選択します。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:286
+msgid "Gradient"
+msgstr "グラデーション"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:286
+msgid "Choose the opacity for the current selected stop."
+msgstr "現在選択されている中間点の不透明度を選択します。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:290
+msgid ""
+"When a stop triangle is selected, it is highlighted with a slight blue "
+"outline. The selected stop triangle will change its color and opacity "
+"accordingly when these options are changed."
+msgstr ""
+"中間点が選択されると、青い枠線でハイライトされます。これらオプションに変更が"
+"加えられると、それに伴って選択された中間点の色や不透明度も変わります。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:294
+msgid ""
+"You can edit the gradient in two ways. The first one is the actual gradient "
+"in the docker that you can manipulate. Vectors always use stop-gradients. "
+"The other way to edit gradients is editing their position on the canvas."
+msgstr ""
+"グラデーションは二つの方法で編集できます。一つ目はドッカーで編集できる実際の"
+"グラデーションです。ベクターは常に中間点グラデーションを使います。二つ目は"
+"キャンバス上の場所を編集することです。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:298
+msgid "Fills the shape with a Mesh Gradient. It has following options:"
+msgstr ""
+"シェイプをメッシュグラデーションで塗りつぶします。次のオプションがあります:"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:301
+msgid ""
+"Change the color of the selected stop. Only the color of a Corner can be "
+"changed (rectangle), changing the color of Bezier handle (circle) is not "
+"possible."
+msgstr ""
+"選択した中間点の色を変えます。角の色(四角形)のみが可能で、ベジェハンドルの色"
+"(円)を変えることはできません。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:302
+msgid "Rows"
+msgstr "行"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:303
+msgid "Change the number of rows in a Mesh Gradient."
+msgstr "メッシュグラデーションの行数を変えます。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:304
+msgid "Columns"
+msgstr "列"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:305
+msgid "Change the number of columns in a Mesh Gradient."
+msgstr "メッシュグラデーションの列数を買えます。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:307
+msgid "Mesh Gradient"
+msgstr "メッシュグラデーション"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:307
+msgid "Smoothing"
+msgstr "スムーズ"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:307
+msgid ""
+"There are two possible values, *Bilinear* (default) and *Bicubic*. "
+"*Bilinear* is the linear interpolation of the color of stops, however it may "
+"create `Mach Banding effect <https://en.wikipedia.org/wiki/Mach_bands>`_. "
+"*Bicubic* is the bicubic interpolation of the color stops, this should "
+"produce smoother gradient."
+msgstr ""
+"二つのやり方があります、*バイリニア*(既定)と *バイキュービック* です。*バイリ"
+"ニア* は色の段階を線形補間します、しかし`マッハバンド効果 <https://"
+"ja.wikipedia.org/wiki/"
+"%E3%83%9E%E3%83%83%E3%83%8F%E3%83%90%E3%83%B3%E3%83%89>`_ を起こすことがあり"
+"ます。*バイキュービック* は色の段階を双三次補間し、これがよりスムーズなグラ"
+"デーションになります。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:311
+msgid ""
+"Mesh Gradients follow `SVG draft 2 <https://svgwg.org/svg-next/"
+"pservers.html#MeshGradients>`_ for the rendering."
+msgstr ""
+"メッシュグラデーションは `SVG draft 2 <https://svgwg.org/svg-next/"
+"pservers.html#MeshGradients>`_ に基づいてレンダリングされます。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:314
+msgid "Creating Mesh Gradients"
+msgstr "メッシュグラデーションの作成"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:316
+msgid ""
+"When Mesh Gradients option is selected for a shape, Krita fills it with "
+"default mesh gradient, which is an alternating color (it alternates between "
+"background color and white). Changing number of rows and columns from Tool "
+"Options, will add more patches to the Mesh Gradient and corners can be "
+"changed individually."
+msgstr ""
+"シェイプのメッシュグラデーションが選択されていると、Krita は既定のメッシュグ"
+"ラデーションで、もう一つの色(背景色と白)とともに塗りつぶします。ツールのオプ"
+"ションから行と列数を変えると、メッシュグラデーションのパッチが追加され角がそ"
+"れぞれ変えられるようになります。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:319
+msgid "Editing Mesh Gradients"
+msgstr "メッシュグラデーションの編集"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:321
+msgid ""
+"The way to edit Mesh Gradients is pretty straight forward. Each curve is an "
+"individual Bezier Curve. There are two ways to change the structure, one is "
+"by dragging the corner (rectangle) and other is by dragging the handle "
+"(circle)."
+msgstr ""
+"メッシュグラデーションの編集はとても直感的です。曲線がそれぞれ別のベジェ曲線"
+"になっています。構造を変えていくには二つの方法があります、一つは角(四角)を、"
+"もう一つはハンドル(円)をドラッグすることです。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:327
+msgid "Left to right: Normal, Corner Hovered, Corner Moved and Selected."
+msgstr ""
+"左から右へ: 通常、角にマウスホバーしたところ、角を動かして選択したところ。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:327
+msgid ".. image:: /images/tools/MeshGradients-corner-moving.png"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:329
+msgid ""
+"To change the color, a corner has to be selected and then Tool Options can "
+"be used to change the color of the selected corner."
+msgstr ""
+"色を変えるには、角を選択する必要がありツールのオプションから選択された角の色"
+"を変えます。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:333
+msgid ""
+"When importing from Inkscape, shapes may be grouped, which may not allow "
+"Krita to edit Mesh Gradients. To fix this, first ungroup (via |mouseright|) "
+"them."
+msgstr ""
+"Inkscape からインポートするとき、シェイプがグループ化されている場合があります"
+"が、Krita でメッシュグラデーションを編集できなくなります。これを修正するには"
+"まずグループ解除(|mouseright| 経由)してください。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:338
+msgid "Right-click menu"
+msgstr "右クリックメニュー"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:340
+msgid ""
+"The shape selection tool has a nice right click menu that gives you several "
+"features. If you have an object selected, you can perform various functions "
+"like cutting, copying, or moving the object to the front or back."
+msgstr ""
+"シェイプ選択ツールには多数の機能がある右クリックメニューがあります。オブジェ"
+"クトが選択されていると、オブジェクトの切り取り、コピーや前面/背面移動といった"
+"様々な操作を行うことができます。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:343
+msgid ".. image:: /images/vector/Vector-right-click-menu.png"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:344
+msgid ""
+"If you have multiple objects selected you can perform \"Logical Operators\" "
+"on them, or boolean operations as they are commonly called. It will be the "
+"last item on the right-click menu. You can unite, intersect, subtract, or "
+"split the selected objects."
+msgstr ""
+"複数オブジェクトが選択されているならそれらで\"論理演算\"を行うことができま"
+"す。右クリックメニューの一番最後にあります。選択されたオブジェクトの結合、交"
+"差、除外や分割ができます。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:349
+#, fuzzy
+#| msgid "Shape Selection Tool"
+msgid "Shape Selection Text Options"
+msgstr "形状選択ツール"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:351
+msgid ""
+"When text shapes are selected, their paragraph properties can be edited all "
+"at once with the :ref:`text_properties_docker`. Beyond that, there's a "
+"number of extra actions available:"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:353
+msgid "Convert..."
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:354
+msgid "See :ref:`text_type` for more information."
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:355
+msgid "Flow Text in Shape"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:356
+msgid ""
+"Flows the first selected text into all the selected shapes. The visual order "
+"determines the initial text flow order."
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:357
+msgid "Subtract Shape from Text Flow Area"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:358
+msgid ""
+"Adds all selected shapes to the first selected text shape as subtraction "
+"areas. See :ref:`text_in_shape` for more information."
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:360
+msgid "Put Text On Path"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:360
+msgid ""
+"Puts the whole text on the first selected path. This function will replace "
+"any pre-existing paths."
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:362
+msgid ""
+"When a :ref:`text_in_shape` is selected, a button appears in the top right. "
+"Clicking this will switch the tool into text contour mode. In this mode you "
+"can select, move, scale and rotate the shapes that belong with a text. It is "
+"also available in the :ref:`shape_edit_tool`, but automatically disables in "
+"the :ref:`text_tool`. When in this mode, the text properties docker will "
+"edit the text regardless of what is selected."
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:364
+msgid ""
+"A number of extra actions become available in the right click menu when in "
+"in text contour mode:"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:366
+msgid "Remove Shapes from Text Flow"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:367
+msgid "Remove all selected shapes from the current text."
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:368
+msgid "Toggle Flow Shape Type"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:369
+msgid "Switches the shape type between Subtract and Inside."
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:370
+msgid "Set Flow Shape as Last"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:371
+msgid "Make this flow shape the last in the text chain as used by text layout."
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:372
+msgid "Earlier In Chain"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:373
+msgid "Move this shape earlier in the text chain."
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:374
+msgid "Later In Chain"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:375
+msgid "Move this shape later in the text chain."
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:377
+msgid ""
+"Make this flow shape the first in the text chain as used by text layout."
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:378
+msgid "First In Chain"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:-1
+msgid "Krita's shape selection tool reference."
+msgstr "Krita 形状選択ツールの説明。"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:-1
+msgid "Tool options: Geometry tool."
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:-1
+msgid ".. image:: /images/tools/shape-selection-menu-geometry.png"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:-1
+msgid "Tool options: Stroke tool."
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:-1
+msgid ".. image:: /images/tools/shape-selection-menu-stroke.png"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:-1
+#, fuzzy
+#| msgid "Tool Options"
+msgid "Tool options: Fill tool."
+msgstr "ツールのオプション"
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:-1
+msgid ".. image:: /images/tools/shape-selection-menu-fill.png"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:0
+msgid ".. image:: /images/tools/shape-selection-menu-geometry-position.png"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:0
+msgid ".. image:: /images/tools/shape-selection-menu-geometry-origin.png"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:0
+msgid ".. image:: /images/tools/shape-selection-menu-geometry-size.png"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:0
+msgid ""
+"Aspect ratio of a shape can be locked |icon_chain| or unlocked |icon_chain-"
+"broken|."
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:0
+msgid ""
+"When locked, modifying the width value will automatically update the height, "
+"modifying the height value will automatically update the width."
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:0
+msgid ".. image:: /images/tools/shape-selection-menu-geometry-zorder-fsm.png"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:0
+msgid ".. image:: /images/tools/shape-selection-menu-geometry-zorder-sfm.png"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:0
+msgid ".. image:: /images/tools/shape-selection-menu-stroke-cap.png"
+msgstr ""
+
+#. +> trunk5
+#: ../../reference_manual/tools/shape_selection.rst:0
+msgid ".. image:: /images/tools/shape-selection-menu-stroke-style.png"
+msgstr ""
+
+#~ msgid ""
+#~ "Geometry is the first section in the tool options. This section allows "
+#~ "you to set precisely the 'x' and 'y' coordinates, and also the width and "
+#~ "height of the shape."
+#~ msgstr ""
+#~ "ジオメトリはツールのオプションにある最初のものです。このセクションでは正確"
+#~ "にシェイプの'x'や'y'座標、高さや幅を設定することができます。"

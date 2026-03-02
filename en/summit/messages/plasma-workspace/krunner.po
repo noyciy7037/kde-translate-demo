@@ -1,0 +1,493 @@
+# Translation of krunner into Japanese.
+# This file is distributed under the same license as the kdebase package.
+#
+#
+# Noboru Sinohara <shinobo@leo.bekkoame.ne.jp>, 2002.
+# Kenshi Muto <kmuto@debian.org>, 2004.
+# Toyohiro Asukai <toyohiro@ksmplus.com>, 2004.
+# Shinichi Tsunoda <tsuno@ngy.1st.ne.jp>, 2005.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2006, 2007, 2008, 2009, 2010.
+# Jumpei Ogawa <phanective@gmail.com>, 2010.
+# Tomohiro Hyakutake <tomhioo@outlook.jp>, 2019.
+# Ryuichi Yamada <ryuichi_ya220@outlook.jp>, 2023.
+# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2005, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: krunner\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2026-02-19 10:18+0100\n"
+"PO-Revision-Date: 2023-04-07 23:36-0700\n"
+"Last-Translator: Fumiaki Okushi <fumiaki.okushi@gmail.com>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+"X-Generator: Lokalize 22.12.3\n"
+
+#. +> trunk6 stable6 stable5
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Noboru Sinohara,Toyohiro Asukai,Shinichi Tsunoda,Ryuichi Yamada"
+
+#. +> trunk6 stable6 stable5
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "shinobo@leo.bekkoame.ne.jp,toyohiro@ksmplus.com,tsuno@ngy.1st.ne.jp,ryuichi_ya220@outlook.jp"
+
+#. +> trunk6 stable6 stable5
+#: main.cpp:58 view.cpp:49
+#, kde-format
+msgid "KRunner"
+msgstr "KRunner"
+
+#. +> trunk6 stable6 stable5
+#: main.cpp:58
+#, kde-format
+msgid "Run Command interface"
+msgstr "コマンド実行インターフェース"
+
+#. +> trunk6 stable6 stable5
+#: main.cpp:64
+#, kde-format
+msgid "Use the clipboard contents as query for KRunner"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: main.cpp:65
+#, kde-format
+msgid "Start KRunner in the background, don't show it."
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: main.cpp:66
+#, kde-format
+msgid "Replace an existing instance"
+msgstr ""
+
+#. +> trunk6 stable6
+#: main.cpp:67
+#, kde-format
+msgid "Show only results from the given plugin"
+msgstr ""
+
+#. +> trunk6 stable6
+#: main.cpp:68
+#, fuzzy, kde-format
+msgid "List available plugins"
+msgstr "利用可能な機能"
+
+#. +> trunk6 stable6 stable5
+#: main.cpp:75
+#, kde-format
+msgid "The query to run, only used if -c is not provided"
+msgstr ""
+
+#. +> trunk6 stable6
+#: main.cpp:84
+#, fuzzy, kde-format
+msgctxt "Header for command line output"
+msgid "Available KRunner plugins, pluginId"
+msgstr "利用可能な機能"
+
+#. +> trunk6 stable6 stable5
+#: qml/RunCommand.qml:109 qml/RunCommand.qml:110 qml/RunCommand.qml:112
+#, kde-format
+msgid "Show Usage Help"
+msgstr "使用方法のヘルプを表示"
+
+#. +> trunk6 stable6
+#: qml/RunCommand.qml:125
+#, kde-format
+msgid "Showing only results from %1"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: qml/RunCommand.qml:139
+#, kde-format
+msgctxt "Textfield placeholder text, query specific KRunner plugin"
+msgid "Search '%1'…"
+msgstr "'%1' を検索中..."
+
+#. +> trunk6 stable6 stable5
+#: qml/RunCommand.qml:140
+#, kde-format
+msgctxt "Textfield placeholder text"
+msgid "Search…"
+msgstr "検索..."
+
+#. +> trunk6 stable6 stable5
+#: qml/RunCommand.qml:296
+#, kde-format
+msgid "Configure"
+msgstr "設定"
+
+#. +> trunk6 stable6 stable5
+#: qml/RunCommand.qml:297
+#, kde-format
+msgid "Configure KRunner Behavior"
+msgstr "KRunner の挙動を設定"
+
+#. +> trunk6 stable6 stable5
+#: qml/RunCommand.qml:300
+#, kde-format
+msgid "Configure KRunner…"
+msgstr "KRunner を設定..."
+
+#. +> trunk6 stable6 stable5
+#: qml/RunCommand.qml:308
+#, kde-format
+msgid "Pin"
+msgstr "ピン留め"
+
+#. +> trunk6 stable6 stable5
+#: qml/RunCommand.qml:309
+#, kde-format
+msgid "Pin Search"
+msgstr "検索をピン留め"
+
+#. +> trunk6 stable6 stable5
+#: qml/RunCommand.qml:311
+#, kde-format
+msgid "Keep Open"
+msgstr "開けたままにする"
+
+#. +> trunk6 stable6 stable5
+#: qml/RunCommand.qml:373 qml/RunCommand.qml:379
+#, kde-format
+msgid "Recent Queries"
+msgstr "最近のクエリ"
+
+#. +> trunk6 stable6 stable5
+#: qml/RunCommand.qml:377
+#, kde-format
+msgid "Remove"
+msgstr "削除"
+
+#, kde-format
+#~ msgid "krunner"
+#~ msgstr "krunner"
+
+#~ msgid "Run Command"
+#~ msgstr "コマンドを実行"
+
+#~ msgctxt "Name for krunner shortcuts category"
+#~ msgid "Run Command"
+#~ msgstr "コマンドを実行"
+
+#~ msgid "Run Command on clipboard contents"
+#~ msgstr "クリップボードの内容に対してコマンドを実行"
+
+#~ msgid "Show KRunner"
+#~ msgstr "KRunner を表示"
+
+#, fuzzy
+#~ msgctxt "Name for krunner shortcuts category"
+#~ msgid "KRunner"
+#~ msgstr "KRunner の設定"
+
+#~ msgid "(c) 2006, Aaron Seigo"
+#~ msgstr "(c) 2006, Aaron Seigo"
+
+#~ msgid "Aaron J. Seigo"
+#~ msgstr "Aaron J. Seigo"
+
+#~ msgid "Author and maintainer"
+#~ msgstr "作者およびメンテナ"
+
+#~ msgid "KDE run command interface"
+#~ msgstr "KDE コマンド実行インターフェース"
+
+#~ msgid "Run Command Interface"
+#~ msgstr "コマンド実行インターフェース"
+
+#~ msgid "User Interface"
+#~ msgstr "ユーザインターフェース"
+
+#~ msgid "Positioning:"
+#~ msgstr "配置:"
+
+#~ msgid "Top edge of screen"
+#~ msgstr "スクリーンの上端"
+
+#~ msgid "Free floating window"
+#~ msgstr "自由に動かせるフローティングウィンドウ"
+
+#~ msgid "Style:"
+#~ msgstr "スタイル:"
+
+#~ msgid "Command oriented"
+#~ msgstr "コマンド重視"
+
+#~ msgid "Task oriented"
+#~ msgstr "タスク重視"
+
+#~ msgid "Preview"
+#~ msgstr "プレビュー"
+
+#~ msgid "Settings"
+#~ msgstr "設定"
+
+#~ msgid "Help"
+#~ msgstr "ヘルプ"
+
+#~ msgid "Information on using this application"
+#~ msgstr "このアプリケーションの使い方"
+
+#~ msgctxt "tooltip, shortcut"
+#~ msgid "%1 (%2)"
+#~ msgstr "%1 (%2)"
+
+#~ msgid "(From %1, %2)"
+#~ msgstr "(%1 から、%2)"
+
+#~ msgid "Actions"
+#~ msgstr "アクション"
+
+#~ msgid "Type to search."
+#~ msgstr "検索語を入力してください。"
+
+#~ msgid "1 item"
+#~ msgid_plural "%1 items"
+#~ msgstr[0] "%1 アイテム"
+
+#~ msgid "1 action"
+#~ msgid_plural "%1 actions"
+#~ msgstr[0] "%1 アクション"
+
+#~ msgid "Loading..."
+#~ msgstr "読み込み中..."
+
+#~ msgid "No results found."
+#~ msgstr "マッチするものが見つかりませんでした。"
+
+#~ msgctxt "%1 current item number, %2 total number of items"
+#~ msgid "%1 of %2"
+#~ msgstr "%1 / %2"
+
+#~ msgid "The interface style to use in KRunner"
+#~ msgstr "KRunner で使うインターフェース"
+
+#~ msgid ""
+#~ "Set to true to show the interface in a freely floating dialog instead of "
+#~ "at the top of the screen"
+#~ msgstr ""
+#~ "true に設定することで、インターフェースをスクリーンの一番上に表示する代わ"
+#~ "りに、自由に移動できるようにします。"
+
+#~ msgid "Completion mode used for the query text."
+#~ msgstr "検索テキストに使用する補完モード"
+
+#~ msgid "History if past queries successfully completed"
+#~ msgstr "補完に成功した検索テキストの履歴"
+
+#~ msgid "Whether to keep the tasks dialog above other windows when shown."
+#~ msgstr "タスクダイアログを他のウィンドウより前面に保持するかどうか"
+
+#~ msgid "Show System Activity"
+#~ msgstr "システムの活動を表示"
+
+#~ msgid "Switch User"
+#~ msgstr "ユーザを切り替え"
+
+#~ msgctxt "Run krunner restricting the search only to runner %1"
+#~ msgid "Run Command (runner \"%1\" only)"
+#~ msgstr "コマンドを実行 (runner “%1” のみ)"
+
+#, fuzzy
+#~ msgctxt "@title:window"
+#~ msgid "Run Command"
+#~ msgstr "コマンドを実行"
+
+#~ msgid "System Activity"
+#~ msgstr "システムの活動"
+
+#~ msgid "Lock Session"
+#~ msgstr "セッションをロック"
+
+#~ msgid "Enable screen saver"
+#~ msgstr "スクリーンセーバーを有効にする"
+
+#~ msgid "Enables the screen saver."
+#~ msgstr "スクリーンセーバーを有効にします。"
+
+#~ msgid "Screen saver timeout"
+#~ msgstr "スクリーンセーバーのタイムアウト"
+
+#~ msgid "Sets the seconds after which the screen saver is started."
+#~ msgstr "スクリーンセーバーが起動するまでの無入力秒数を設定します。"
+
+#~ msgid "Suspend screen saver when DPMS kicks in"
+#~ msgstr "省電力モードに入ったらスクリーンセーバーを停止する"
+
+#~ msgid ""
+#~ "Usually the screen saver is suspended when display power saving kicks "
+#~ "in,\n"
+#~ "       as nothing can be seen on the screen anyway, obviously. However, "
+#~ "some screen savers\n"
+#~ "       actually perform useful computations, so it is not desirable to "
+#~ "suspend them."
+#~ msgstr ""
+#~ "ディスプレイが省電力モードに入ると、当然のことながらスクリーンには何も表示"
+#~ "されないので、通常はスクリーンセーバーは停止されます。\n"
+#~ "しかしながら、その間に有用な計算を行うスクリーンセーバーもあるので、その場"
+#~ "合は停止するのは望ましくありません。"
+
+#~ msgid "<qt><nobr><b>Automatic Log Out</b></nobr></qt>"
+#~ msgstr "<qt><nobr><b>自動ログアウト</b></nobr></qt>"
+
+#~ msgid ""
+#~ "<qt>To prevent being logged out, resume using this session by moving the "
+#~ "mouse or pressing a key.</qt>"
+#~ msgstr ""
+#~ "<qt>ログアウトされるのを防ぐには、マウスを移動するか、キーを押してセッショ"
+#~ "ンを再開してください。</qt>"
+
+#~ msgid "Time Remaining:"
+#~ msgstr "残り時間:"
+
+#~ msgid ""
+#~ "<qt><nobr>You will be automatically logged out in 1 second</nobr></qt>"
+#~ msgid_plural ""
+#~ "<qt><nobr>You will be automatically logged out in %1 seconds</nobr></qt>"
+#~ msgstr[0] "<qt><nobr>%1 秒後に自動的にログアウトします</nobr></qt>"
+
+#~ msgid "<nobr><b>The session is locked</b></nobr><br />"
+#~ msgstr "<nobr><b>セッションがロックされています</b></nobr><br />"
+
+#~ msgid "<nobr><b>The session was locked by %1</b></nobr><br />"
+#~ msgstr ""
+#~ "<nobr><b>セッションが %1 によってロックされています</b></nobr><br />"
+
+#~ msgid "Unl&ock"
+#~ msgstr "ロック解除(&O)"
+
+#~ msgid "Sw&itch User..."
+#~ msgstr "ユーザを切り替え(&I)..."
+
+#~ msgid "<b>Unlocking failed</b>"
+#~ msgstr "<b>ロック解除に失敗しました</b>"
+
+#~ msgid "<b>Warning: Caps Lock on</b>"
+#~ msgstr "<b>警告: Caps Lock オン</b>"
+
+#~ msgid ""
+#~ "Cannot unlock the session because the authentication system failed to "
+#~ "work;\n"
+#~ "you must kill kscreenlocker (pid %1) manually."
+#~ msgstr ""
+#~ "<html>認証システムが機能しなかったので、セッションのロックを解除できませ"
+#~ "ん。<tt>kscreenlocker</tt> (PID %1) を手動で強制終了 (kill コマンド) しな"
+#~ "ければなりません。</html>"
+
+#~ msgid "&Start New Session"
+#~ msgstr "新しいセッションを開始(&S)"
+
+#~ msgid ""
+#~ "You have chosen to open another desktop session instead of resuming the "
+#~ "current one.\n"
+#~ "The current session will be hidden and a new login screen will be "
+#~ "displayed.\n"
+#~ "An F-key is assigned to each session; F%1 is usually assigned to the "
+#~ "first session, F%2 to the second session and so on. You can switch "
+#~ "between sessions by pressing Ctrl, Alt and the appropriate F-key at the "
+#~ "same time. Additionally, the KDE Panel and Desktop menus have actions for "
+#~ "switching between sessions."
+#~ msgstr ""
+#~ "現在のデスクトップセッションを再開する代わりに、新しいセッションを開始する"
+#~ "ことを選択しました。\n"
+#~ "現在のセッションは隠されて、新たにログインスクリーンが表示されます。\n"
+#~ "各セッションにはファンクションキーが一つずつ割り当てられます。通常、F%1 は"
+#~ "一番最初のセッション、F%2 は二番目のセッション、というふうに割り当てられま"
+#~ "す。セッションを切り替えるには、Ctrl と Alt と該当するファンクションキーを"
+#~ "同時に押します。KDE パネルとデスクトップメニューからセッションを切り替える"
+#~ "こともできます。"
+
+#~ msgid "&Do not ask again"
+#~ msgstr "次回から確認しない(&D)"
+
+#~ msgid "Session"
+#~ msgstr "セッション"
+
+#~ msgid "Location"
+#~ msgstr "場所"
+
+#~ msgctxt "session"
+#~ msgid "&Activate"
+#~ msgstr "アクティブにする(&A)"
+
+#~ msgid "Start &New Session"
+#~ msgstr "新しいセッションを開始(&N)"
+
+#~ msgid "Will not lock the session, as unlocking would be impossible:\n"
+#~ msgstr "セッションロックの解除が不可能なので、セッションをロックしません:\n"
+
+#~ msgid "Cannot start <i>kcheckpass</i>."
+#~ msgstr "<qt><tt>kcheckpass</tt> を起動できません。</qt>"
+
+#~ msgid ""
+#~ "<i>kcheckpass</i> is unable to operate. Possibly it is not setuid root."
+#~ msgstr ""
+#~ "<qt><tt>kcheckpass</tt> は動作できません。おそらく root の setuid が設定さ"
+#~ "れていないためです。</qt>"
+
+#~ msgid "No appropriate greeter plugin configured."
+#~ msgstr "適切な greeter プラグインが設定されていません。"
+
+#~ msgid "KDE Screen Locker"
+#~ msgstr "KDE スクリーンロッカー"
+
+#~ msgid "Session Locker for KDE Workspace"
+#~ msgstr "KDE ワークスペースのセッションロッカー"
+
+#~ msgid "Force session locking"
+#~ msgstr "強制的にセッションをロック"
+
+#~ msgid "Only start screen saver"
+#~ msgstr "スクリーンセーバーを起動するだけ"
+
+#~ msgid "Only use the blank screen saver"
+#~ msgstr "ブランクのスクリーンセーバーのみを使う"
+
+#~ msgid "start with plasma unlocked for configuring"
+#~ msgstr "設定のために Plasma のロックを解除して起動"
+
+#~ msgid "Available Features"
+#~ msgstr "利用可能な機能"
+
+#~ msgid "Log Out"
+#~ msgstr "ログアウト"
+
+#~ msgid "Log Out Without Confirmation"
+#~ msgstr "確認なしでログアウト"
+
+#~ msgid "Halt Without Confirmation"
+#~ msgstr "確認なしでコンピュータを停止"
+
+#~ msgid "Reboot Without Confirmation"
+#~ msgstr "確認なしでコンピュータを再起動"
+
+#~ msgid ""
+#~ "Could not log out properly.\n"
+#~ "The session manager cannot be contacted. You can try to force a shutdown "
+#~ "by pressing Ctrl+Alt+Backspace; note, however, that your current session "
+#~ "will not be saved with a forced shutdown."
+#~ msgstr ""
+#~ "<html><p>正常にログアウトできませんでした。</p><p>セッションマネージャに接"
+#~ "続できません。Ctrl, Alt, Backspace キーを同時に押して強制的にシャットダウ"
+#~ "ンすることもできますが、現在のセッションは保存されないことに注意してくださ"
+#~ "い。</p></html>"
+
+#~ msgid "actions"
+#~ msgstr "アクション"
+
+#~ msgid "items"
+#~ msgstr "アイテム"
+
+#~ msgid "%1 %2"
+#~ msgstr "%1 %2"

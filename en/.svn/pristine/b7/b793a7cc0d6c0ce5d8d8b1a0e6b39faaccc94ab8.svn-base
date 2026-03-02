@@ -1,0 +1,1326 @@
+# Translation of desktop_kdevelop into Japanese
+# Shinya TAKEBAYASHI <makoto@kanon-net.jp>, 2004.
+# AWASHIRO Ikuya <ikuya@oooug.jp>, 2004.
+# Daniel E. Moctezuma <democtezuma@gmail.com>, 2010.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2006, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdevelop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2026-02-22 07:18+0100\n"
+"PO-Revision-Date: 2010-11-02 00:41-0700\n"
+"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: \n"
+"X-Text-Markup: \n"
+
+#. +> trunk6 stable6
+#: app/kdevelop.notifyrc:4
+msgctxt "Comment"
+msgid "KDevelop"
+msgstr "KDevelop"
+
+#. +> trunk6 stable6
+#: app/kdevelop.notifyrc:58
+msgctxt "Name"
+msgid "Debugger"
+msgstr "デバッガ"
+
+#. +> trunk6 stable6
+#: app/kdevelop.notifyrc:105
+msgctxt "Name"
+msgid "Breakpoint Hit"
+msgstr "ブレイクポイントをヒット"
+
+#. +> trunk6 stable6
+#: app/kdevelop.notifyrc:147
+msgctxt "Comment"
+msgid "A Breakpoint has been hit by the debugger"
+msgstr "デバッガがブレイクポイントをヒットしました"
+
+#. +> trunk6 stable6
+#: app/kdevelop.notifyrc:193
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Breakpoint Hit"
+msgctxt "Name"
+msgid "Breakpoint Error"
+msgstr "ブレイクポイントをヒット"
+
+#. +> trunk6 stable6
+#: app/kdevelop.notifyrc:224
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "A Breakpoint has been hit by the debugger"
+msgctxt "Comment"
+msgid "An error was reported by the debugger"
+msgstr "デバッガがブレイクポイントをヒットしました"
+
+#. +> trunk6 stable6
+#: app/kdevelop.notifyrc:259
+msgctxt "Name"
+msgid "Watchpoint Hit"
+msgstr "ウォッチポイントをヒット"
+
+#. +> trunk6 stable6
+#: app/kdevelop.notifyrc:301
+msgctxt "Comment"
+msgid "A Watchpoint has been hit by the debugger"
+msgstr "デバッガがウォッチポイントをヒットしました"
+
+#. +> trunk6 stable6
+#: app/org.kde.kdevelop.desktop:10 app/org.kde.kdevelop_kdev4.desktop:7
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "KDevelop"
+msgctxt "Name"
+msgid "KDevelop"
+msgstr "KDevelop"
+
+#. +> trunk6 stable6
+#: app/org.kde.kdevelop.desktop:44 app/org.kde.kdevelop_kdev4.desktop:41
+#: plugins/bazaar/org.kde.kdevelop_bzr.desktop:38
+#: plugins/git/org.kde.kdevelop_git.desktop:38
+#: plugins/subversion/org.kde.kdevelop_svn.desktop:38
+msgctxt "GenericName"
+msgid "Integrated Development Environment"
+msgstr "統合開発環境"
+
+#. +> trunk6 stable6
+#: app/org.kde.kdevelop.desktop:92
+msgctxt "Name"
+msgid "Open a Session"
+msgstr ""
+
+#. +> trunk6 stable6
+#: app/org.kde.kdevelop_ps.desktop:7
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "KDevelop 4"
+msgctxt "Name"
+msgid "KDevelop (Pick Session)"
+msgstr "KDevelop 4"
+
+#. +> trunk6 stable6
+#: app/org.kde.kdevelop_ps.desktop:40
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Integrated Development Environment"
+msgctxt "GenericName"
+msgid "Integrated Development Environment (Pick Session to start with)"
+msgstr "統合開発環境"
+
+#. +> trunk6 stable6
+#: app_templates/c/CMake/cmake_plainc/cmake_plainc.kdevtemplate:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "CMake"
+msgctxt "Name"
+msgid "CMake C"
+msgstr "CMake"
+
+#. +> trunk6 stable6
+#: app_templates/c/CMake/cmake_plainc/cmake_plainc.kdevtemplate:35
+#, fuzzy
+msgctxt "Comment"
+msgid "Simple CMake-based C application"
+msgstr "Qt4 CMake コアアプリケーション"
+
+#. +> trunk6 stable6
+#: app_templates/c/meson/meson_plainc/meson_plainc.kdevtemplate:3
+msgctxt "Name"
+msgid "Meson C"
+msgstr ""
+
+#. +> trunk6 stable6
+#: app_templates/c/meson/meson_plainc/meson_plainc.kdevtemplate:31
+#, fuzzy
+msgctxt "Comment"
+msgid "Simple Meson-based C application"
+msgstr "Qt4 CMake コアアプリケーション"
+
+#. +> trunk6 stable6
+#: app_templates/cpp/CMake/cmake_kdevplugin/cmake_kdevplugin.kdevtemplate:3
+msgctxt "Name"
+msgid "Simple KDevelop Plugin"
+msgstr ""
+
+#. +> trunk6 stable6
+#: app_templates/cpp/CMake/cmake_kdevplugin/cmake_kdevplugin.kdevtemplate:36
+msgctxt "Comment"
+msgid "Generate a general KDevelop plugin, using CMake and C++"
+msgstr ""
+
+#. +> trunk6 stable6
+#: app_templates/cpp/CMake/cmake_plaincpp/cmake_plaincpp.kdevtemplate:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "CMake"
+msgctxt "Name"
+msgid "CMake C++"
+msgstr "CMake"
+
+#. +> trunk6 stable6
+#: app_templates/cpp/CMake/cmake_plaincpp/cmake_plaincpp.kdevtemplate:42
+#, fuzzy
+msgctxt "Comment"
+msgid "Simple CMake-based C++ application"
+msgstr "Qt4 CMake コアアプリケーション"
+
+#. +> trunk6 stable6
+#: app_templates/cpp/CMake/cmake_qt6quick_app/cmake_qt6quick_app.kdevtemplate:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Qt4 CMake Gui application"
+msgctxt "Name"
+msgid "CMake Qt6 Quick Application"
+msgstr "Qt4 CMake Gui アプリケーション"
+
+#. +> trunk6 stable6
+#: app_templates/cpp/CMake/cmake_qt6quick_app/cmake_qt6quick_app.kdevtemplate:28
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Generate a CMake/Qt4 based application (crossplatform compatible)"
+msgctxt "Comment"
+msgid ""
+"Generate a CMake & Qt6 Quick based application (crossplatform compatible)"
+msgstr "CMake/Qt4 ベースのアプリケーションを作成 (クロスプラットフォーム)"
+
+#. +> trunk6 stable6
+#: app_templates/cpp/CMake/cmake_qt6widgetsapp/cmake_qt6widgetsapp.kdevtemplate:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Qt4 CMake Gui application"
+msgctxt "Name"
+msgid "CMake Qt6 Widgets Application"
+msgstr "Qt4 CMake Gui アプリケーション"
+
+#. +> trunk6 stable6
+#: app_templates/cpp/CMake/cmake_qt6widgetsapp/cmake_qt6widgetsapp.kdevtemplate:28
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Generate a CMake/Qt4 based application (crossplatform compatible)"
+msgctxt "Comment"
+msgid ""
+"Generate a CMake & Qt6 Widgets based application (crossplatform compatible)"
+msgstr "CMake/Qt4 ベースのアプリケーションを作成 (クロスプラットフォーム)"
+
+#. +> trunk6 stable6
+#: app_templates/cpp/meson/meson_plaincpp/meson_plaincpp.kdevtemplate:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "CMake"
+msgctxt "Name"
+msgid "Meson C++"
+msgstr "CMake"
+
+#. +> trunk6 stable6
+#: app_templates/cpp/meson/meson_plaincpp/meson_plaincpp.kdevtemplate:31
+#, fuzzy
+msgctxt "Comment"
+msgid "Simple Meson-based C++ application"
+msgstr "Qt4 CMake コアアプリケーション"
+
+#. +> trunk6 stable6
+#: app_templates/cpp/QMake/qmake_qt5guiapp/qmake_qt5guiapp.kdevtemplate:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Qt4 CMake Gui application"
+msgctxt "Name"
+msgid "QMake Qt5 QWidgets GUI Application"
+msgstr "Qt4 CMake Gui アプリケーション"
+
+#. +> trunk6 stable6
+#: app_templates/cpp/QMake/qmake_qt5guiapp/qmake_qt5guiapp.kdevtemplate:34
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid ""
+#| "Generate a CMake/Qt4 based GUI application (crossplatform compatible)"
+msgctxt "Comment"
+msgid "Generate a QMake/Qt5 based GUI application (crossplatform compatible)"
+msgstr "CMake/Qt4 ベースの GUI アプリケーションを作成 (クロスプラットフォーム)"
+
+#. +> trunk6 stable6
+#: app_templates/cpp/QMake/qt5-qml2/qt5-qml2.kdevtemplate:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Qt4 CMake Gui application"
+msgctxt "Name"
+msgid "QtQuick 2 Application"
+msgstr "Qt4 CMake Gui アプリケーション"
+
+#. +> trunk6 stable6
+#: app_templates/cpp/QMake/qt5-qml2/qt5-qml2.kdevtemplate:36
+msgctxt "Comment"
+msgid "A Qt5 and QML2 basic application using QMake"
+msgstr ""
+
+#. +> trunk6 stable6
+#: app_templates/empty/empty.kdevtemplate:2
+msgctxt "Name"
+msgid "Empty"
+msgstr ""
+
+#. +> trunk6 stable6
+#: app_templates/empty/empty.kdevtemplate:38
+msgctxt "Comment"
+msgid "A project to fill with your ideas"
+msgstr ""
+
+#. +> trunk6 stable6
+#: app_templates/kdevelop/file_template_template/kdevelop_file_template_template.kdevtemplate:2
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "KDevelop Make Builder"
+msgctxt "Name"
+msgid "KDevelop File Template"
+msgstr "KDevelop Make ビルダー"
+
+#. +> trunk6 stable6
+#: app_templates/kdevelop/file_template_template/kdevelop_file_template_template.kdevtemplate:33
+msgctxt "Comment"
+msgid "Setup for KDevelop File Template which is packaged using CMake"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/c_gobject/c_gobject.desktop:2
+msgctxt "Name"
+msgid "GObject"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/c_gobject/c_gobject.desktop:41
+msgctxt "Comment"
+msgid "A simple GObject subclass"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/c_gobject/c_gobject.desktop:79
+#: file_templates/classes/c_gobject_private/c_gobject_private.desktop:75
+#: file_templates/classes/c_gobject_properties/c_gobject_properties.desktop:75
+msgctxt "Language"
+msgid "C"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/c_gobject/c_gobject.desktop:128
+#: file_templates/classes/c_gobject_private/c_gobject_private.desktop:124
+#: file_templates/classes/c_gobject_properties/c_gobject_properties.desktop:124
+#: file_templates/classes/cpp_basic/cpp_basic.desktop:130
+#: file_templates/classes/qabstractitemmodel_pimpl/qabstractitemmodel_pimpl.desktop:117
+#: file_templates/classes/qobject_pimpl/qobject_pimpl.desktop:117
+#: file_templates/testing/cpp_qtestlib/cpp_qtestlib.desktop:126
+#: file_templates/testing/cpp_qtestlib_kdevelop/cpp_qtestlib_kdevelop.desktop:125
+msgctxt "Name"
+msgid "Header"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/c_gobject/c_gobject.desktop:172
+#: file_templates/classes/c_gobject_private/c_gobject_private.desktop:168
+#: file_templates/classes/c_gobject_properties/c_gobject_properties.desktop:168
+#: file_templates/classes/cpp_basic/cpp_basic.desktop:174
+#: file_templates/classes/private_pointer/private_pointer.desktop:205
+#: file_templates/classes/qabstractitemmodel/qabstractitemmodel.desktop:157
+#: file_templates/classes/qabstractitemmodel_pimpl/qabstractitemmodel_pimpl.desktop:201
+#: file_templates/classes/qdialog/qdialog.desktop:156
+#: file_templates/classes/qdialog_pimpl/qdialog_pimpl.desktop:196
+#: file_templates/classes/qobject/qobject.desktop:168
+#: file_templates/classes/qobject_pimpl/qobject_pimpl.desktop:201
+#: file_templates/classes/qt_interface/qt_interface.desktop:156
+#: file_templates/classes/qt_shared/qt_shared.desktop:164
+#: file_templates/classes/qt_widget/qt_widget.desktop:165
+#: file_templates/classes/qwidget_pimpl/qwidget_pimpl.desktop:195
+#: file_templates/testing/cpp_cpputest/cpp_cpputest.desktop:115
+#: file_templates/testing/cpp_gtest/cpp_gtest.desktop:115
+#: file_templates/testing/cpp_qtestlib/cpp_qtestlib.desktop:170
+#: file_templates/testing/cpp_qtestlib_kdevelop/cpp_qtestlib_kdevelop.desktop:169
+#: file_templates/testing/php_phpunit/php_phpunit.desktop:123
+#: file_templates/testing/python_pyunit/python_pyunit.desktop:128
+#: plugins/docker/dockerfile-template/dockerfile-template.desktop:108
+#: plugins/flatpak/flatpak-template/flatpak-builder-manifest.desktop:106
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "CMake Documentation"
+msgctxt "Name"
+msgid "Implementation"
+msgstr "CMake ドキュメンテーション"
+
+#. +> trunk6 stable6
+#: file_templates/classes/c_gobject_private/c_gobject_private.desktop:2
+msgctxt "Name"
+msgid "GObject with private pointer"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/c_gobject_private/c_gobject_private.desktop:38
+msgctxt "Comment"
+msgid "A GObject subclass with a private pointer"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/c_gobject_properties/c_gobject_properties.desktop:2
+msgctxt "Name"
+msgid "GObject with properties"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/c_gobject_properties/c_gobject_properties.desktop:38
+msgctxt "Comment"
+msgid "A GObject subclass with a private pointer and properties"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/cpp_basic/cpp_basic.desktop:2
+#: file_templates/classes/python_basic/python_basic.desktop:2
+msgctxt "Name"
+msgid "Basic"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/cpp_basic/cpp_basic.desktop:43
+msgctxt "Comment"
+msgid "Basic C++ Class"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/cpp_basic/cpp_basic.desktop:81
+#: file_templates/classes/private_pointer/private_pointer.desktop:75
+#: file_templates/classes/qabstractitemmodel/qabstractitemmodel.desktop:66
+#: file_templates/classes/qabstractitemmodel_pimpl/qabstractitemmodel_pimpl.desktop:66
+#: file_templates/classes/qdialog/qdialog.desktop:65
+#: file_templates/classes/qdialog_pimpl/qdialog_pimpl.desktop:65
+#: file_templates/classes/qobject/qobject.desktop:78
+#: file_templates/classes/qobject_pimpl/qobject_pimpl.desktop:67
+#: file_templates/classes/qt_interface/qt_interface.desktop:66
+#: file_templates/classes/qt_shared/qt_shared.desktop:75
+#: file_templates/classes/qt_widget/qt_widget.desktop:75
+#: file_templates/classes/qwidget_pimpl/qwidget_pimpl.desktop:65
+#: file_templates/other/qt_qrc_file/qt_qrc_file.desktop:55
+#: file_templates/testing/cpp_cpputest/cpp_cpputest.desktop:66
+#: file_templates/testing/cpp_gtest/cpp_gtest.desktop:66
+#: file_templates/testing/cpp_qtestlib/cpp_qtestlib.desktop:76
+#: file_templates/testing/cpp_qtestlib_kdevelop/cpp_qtestlib_kdevelop.desktop:75
+msgctxt "Language"
+msgid "C++"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/private_pointer/private_pointer.desktop:2
+msgctxt "Name"
+msgid "Private Pointer"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/private_pointer/private_pointer.desktop:38
+msgctxt "Comment"
+msgid "C++ Class with a private D-pointer"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/private_pointer/private_pointer.desktop:125
+#: file_templates/classes/qabstractitemmodel/qabstractitemmodel.desktop:117
+#: file_templates/classes/qdialog/qdialog.desktop:116
+#: file_templates/classes/qdialog_pimpl/qdialog_pimpl.desktop:116
+#: file_templates/classes/qobject/qobject.desktop:128
+#: file_templates/classes/qt_interface/qt_interface.desktop:116
+#: file_templates/classes/qt_shared/qt_shared.desktop:124
+#: file_templates/classes/qt_widget/qt_widget.desktop:125
+#: file_templates/classes/qwidget_pimpl/qwidget_pimpl.desktop:115
+msgctxt "Name"
+msgid "Public Header"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/private_pointer/private_pointer.desktop:165
+#: file_templates/classes/qabstractitemmodel_pimpl/qabstractitemmodel_pimpl.desktop:161
+#: file_templates/classes/qdialog_pimpl/qdialog_pimpl.desktop:156
+#: file_templates/classes/qobject_pimpl/qobject_pimpl.desktop:161
+#: file_templates/classes/qwidget_pimpl/qwidget_pimpl.desktop:155
+msgctxt "Name"
+msgid "Private Header"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/python_basic/python_basic.desktop:43
+msgctxt "Comment"
+msgid "Basic Python Class"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/python_basic/python_basic.desktop:81
+#: file_templates/testing/python_pyunit/python_pyunit.desktop:79
+msgctxt "Language"
+msgid "Python"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/python_basic/python_basic.desktop:130
+msgctxt "Name"
+msgid "Definition"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/qabstractitemmodel/qabstractitemmodel.desktop:2
+msgctxt "Name"
+msgid "QAbstractItemModel subclass"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/qabstractitemmodel/qabstractitemmodel.desktop:34
+msgctxt "Comment"
+msgid "QAbstractItemModel subclass with properties"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/qabstractitemmodel_pimpl/qabstractitemmodel_pimpl.desktop:2
+msgctxt "Name"
+msgid "QAbstractItemModel pimpl subclass"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/qabstractitemmodel_pimpl/qabstractitemmodel_pimpl.desktop:34
+msgctxt "Comment"
+msgid "QAbstractItemModel subclass with private implementation"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/qdialog/qdialog.desktop:2
+msgctxt "Name"
+msgid "Dialog with a UI File"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/qdialog/qdialog.desktop:33
+msgctxt "Comment"
+msgid "QDialog subclass with a separate Qt Designer file"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/qdialog/qdialog.desktop:200
+#: file_templates/classes/qdialog_pimpl/qdialog_pimpl.desktop:240
+#: file_templates/classes/qt_widget/qt_widget.desktop:209
+#: file_templates/classes/qwidget_pimpl/qwidget_pimpl.desktop:239
+msgctxt "Name"
+msgid "User Interface"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/qdialog_pimpl/qdialog_pimpl.desktop:2
+msgctxt "Name"
+msgid "Dialog (pimpl) with a UI File"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/qdialog_pimpl/qdialog_pimpl.desktop:33
+msgctxt "Comment"
+msgid ""
+"QDialog subclass with a separate Qt Designer file and private implementation"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/qobject/qobject.desktop:2
+msgctxt "Name"
+msgid "QObject subclass"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/qobject/qobject.desktop:40
+msgctxt "Comment"
+msgid "QObject subclass with properties"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/qobject_pimpl/qobject_pimpl.desktop:2
+msgctxt "Name"
+msgid "QObject pimpl subclass"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/qobject_pimpl/qobject_pimpl.desktop:35
+msgctxt "Comment"
+msgid "QObject subclass with private implementation"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/qt_interface/qt_interface.desktop:2
+msgctxt "Name"
+msgid "QObject interface class"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/qt_interface/qt_interface.desktop:34
+msgctxt "Comment"
+msgid "QObject interface class with properties"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/qt_shared/qt_shared.desktop:2
+msgctxt "Name"
+msgid "Implicitly shared class"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/qt_shared/qt_shared.desktop:38
+msgctxt "Comment"
+msgid "Class with a private QSharedData member"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/qt_widget/qt_widget.desktop:2
+msgctxt "Name"
+msgid "Widget with a UI File"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/qt_widget/qt_widget.desktop:38
+msgctxt "Comment"
+msgid "QWidget subclass with a separate Qt Designer file"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/qwidget_pimpl/qwidget_pimpl.desktop:2
+msgctxt "Name"
+msgid "Widget (pimpl) with a UI File"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/classes/qwidget_pimpl/qwidget_pimpl.desktop:33
+msgctxt "Comment"
+msgid ""
+"QWidget subclass with a separate Qt Designer file and private implementation"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/other/cmake_module/cmake_module.desktop:2
+msgctxt "Name"
+msgid "CMake Module with pkg-config"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/other/cmake_module/cmake_module.desktop:38
+msgctxt "Comment"
+msgid "CMake module for finding a library using pkg-config"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/other/cmake_module/cmake_module.desktop:75
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "CMake"
+msgctxt "Language"
+msgid "CMake"
+msgstr "CMake"
+
+#. +> trunk6 stable6
+#: file_templates/other/cmake_module/cmake_module.desktop:124
+msgctxt "Name"
+msgid "Module"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/other/qt_qrc_file/qt_qrc_file.desktop:2
+#: file_templates/other/qt_qrc_file/qt_qrc_file.desktop:105
+msgctxt "Name"
+msgid "Qt Resource Collection File"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/other/qt_qrc_file/qt_qrc_file.desktop:28
+msgctxt "Comment"
+msgid "A simple version with one prefix and one file."
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/testing/cpp_cpputest/cpp_cpputest.desktop:2
+msgctxt "Name"
+msgid "CppUTest"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/testing/cpp_cpputest/cpp_cpputest.desktop:34
+msgctxt "Comment"
+msgid "A unit test using the CppUTest library"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/testing/cpp_gtest/cpp_gtest.desktop:2
+msgctxt "Name"
+msgid "Google Test"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/testing/cpp_gtest/cpp_gtest.desktop:34
+msgctxt "Comment"
+msgid "A unit test using the Google Test library"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/testing/cpp_qtestlib/cpp_qtestlib.desktop:2
+msgctxt "Name"
+msgid "Test Suite"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/testing/cpp_qtestlib/cpp_qtestlib.desktop:39
+msgctxt "Comment"
+msgid ""
+"A unit test suite using the QTest library without a graphical user interface"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/testing/cpp_qtestlib_kdevelop/cpp_qtestlib_kdevelop.desktop:2
+msgctxt "Name"
+msgid "A test for KDevPlatform"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/testing/cpp_qtestlib_kdevelop/cpp_qtestlib_kdevelop.desktop:38
+msgctxt "Comment"
+msgid "A unit test using the QTest library with KDevPlatform test helpers"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/testing/php_phpunit/php_phpunit.desktop:2
+msgctxt "Name"
+msgid "PHPUnit"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/testing/php_phpunit/php_phpunit.desktop:41
+msgctxt "Comment"
+msgid "A unit test using the PHPUnit framework"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/testing/php_phpunit/php_phpunit.desktop:78
+msgctxt "Language"
+msgid "Php"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/testing/python_pyunit/python_pyunit.desktop:2
+msgctxt "Name"
+msgid "PyUnit"
+msgstr ""
+
+#. +> trunk6 stable6
+#: file_templates/testing/python_pyunit/python_pyunit.desktop:42
+msgctxt "Comment"
+msgid "A unit test using the PyUnit framework"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kdevplatform/interfaces/kdevelopplugin.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "KDevelop 4"
+msgctxt "Name"
+msgid "KDevelop Plugin"
+msgstr "KDevelop 4"
+
+#. +> trunk6 stable6
+#: plugins/appwizard/kdevappwizard.knsrc:2
+msgctxt "Name"
+msgid "Application Templates (SDK)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/bazaar/org.kde.kdevelop_bzr.desktop:7
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "KDevelop 4 Project File"
+msgctxt "Name"
+msgid "KDevelop (Fetch Bazaar Project)"
+msgstr "KDevelop 4 プロジェクトファイル"
+
+#. +> trunk6 stable6
+#: plugins/docker/dockerfile-template/dockerfile-template.desktop:2
+msgctxt "Name"
+msgid "Dockerfile"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/docker/dockerfile-template/dockerfile-template.desktop:35
+msgctxt "Comment"
+msgid ""
+"A Dockerfile is a text document that contains all the commands a user could "
+"call on the command line to assemble an image"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/docker/dockerfile-template/dockerfile-template.desktop:67
+#: plugins/flatpak/flatpak-template/flatpak-builder-manifest.desktop:65
+msgctxt "Language"
+msgid "JSON"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/filetemplates/kdevfiletemplates.knsrc:2
+msgctxt "Name"
+msgid "File Templates (SDK)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/flatpak/flatpak-template/flatpak-builder-manifest.desktop:2
+msgctxt "Name"
+msgid "Flatpak Builder Manifest"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/flatpak/flatpak-template/flatpak-builder-manifest.desktop:33
+msgctxt "Comment"
+msgid "A file to configure how a project is built by flatpak"
+msgstr ""
+
+#. +> trunk6 stable6
+#: plugins/git/org.kde.kdevelop_git.desktop:7
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "KDevelop 4 Project File"
+msgctxt "Name"
+msgid "KDevelop (Fetch git Project)"
+msgstr "KDevelop 4 プロジェクトファイル"
+
+#. +> trunk6 stable6
+#: plugins/qthelp/kdevelop-qthelp.knsrc:2
+#, fuzzy
+msgctxt "Name"
+msgid "API Documentation (QtHelp)"
+msgstr "文書ビュー"
+
+#. +> trunk6 stable6
+#: plugins/subversion/org.kde.kdevelop_svn.desktop:7
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "KDevelop 4"
+msgctxt "Name"
+msgid "KDevelop (Fetch Subversion Project)"
+msgstr "KDevelop 4"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "CMake"
+#~ msgctxt "Name"
+#~ msgid "CMake Qt5 - C++"
+#~ msgstr "CMake"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid ""
+#~| "Generate a CMake/Qt4 based GUI application (crossplatform compatible)"
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Qt5 CMake Gui application. Generate a CMake/Qt5 based GUI application "
+#~ "(crossplatform compatible)"
+#~ msgstr ""
+#~ "CMake/Qt4 ベースの GUI アプリケーションを作成 (クロスプラットフォーム)"
+
+#~ msgctxt "Name"
+#~ msgid "Process successful"
+#~ msgstr "プロセス成功"
+
+#~ msgctxt "Name"
+#~ msgid "Process error"
+#~ msgstr "プロセスエラー"
+
+#~ msgctxt "Name"
+#~ msgid "Loading Project"
+#~ msgstr "プロジェクトの読み込み"
+
+#~ msgctxt "Name"
+#~ msgid "Project Loaded Successfully"
+#~ msgstr "プロジェクトを読み込みました"
+
+#~ msgctxt "Comment"
+#~ msgid "Process finished successfully"
+#~ msgstr "プロセスは成功しました。"
+
+#~ msgctxt "Comment"
+#~ msgid "Process finished with errors"
+#~ msgstr "プロセスはエラーを起こし、終了しました。"
+
+#~ msgctxt "Comment"
+#~ msgid "A project loading process has just started"
+#~ msgstr "プロジェクトの読み込みを開始しました"
+
+#~ msgctxt "Comment"
+#~ msgid "A project has been loaded successfully"
+#~ msgstr "プロジェクトを読み込みました"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "KDevelop 4"
+#~ msgctxt "Name"
+#~ msgid "KDevelop Sessions"
+#~ msgstr "KDevelop 4"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "KDevelop 4"
+#~ msgctxt "Comment"
+#~ msgid "List and launch KDevelop sessions"
+#~ msgstr "KDevelop 4"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Document Tool"
+#~ msgctxt "Name"
+#~ msgid "Document View"
+#~ msgstr "文書ツール"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure Document View settings"
+#~ msgstr "文書ビューのオプションを設定します"
+
+#~ msgctxt "Name"
+#~ msgid "KDevelop 4"
+#~ msgstr "KDevelop 4"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "KDevelop 4"
+#~ msgctxt "Name"
+#~ msgid "KDevelop 4 (Pick Session)"
+#~ msgstr "KDevelop 4"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Generate a CMake/Qt4 based application (crossplatform compatible)"
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Qt4 CMake Core application. Generate a CMake/Qt4 based application "
+#~ "(crossplatform compatible)"
+#~ msgstr "CMake/Qt4 ベースのアプリケーションを作成 (クロスプラットフォーム)"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Generate a CMake/Qt4 based application (crossplatform compatible)"
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Qt4 CMake QTest Core application. Generate a CMake/Qt4 based application "
+#~ "(cross-platform)"
+#~ msgstr "CMake/Qt4 ベースのアプリケーションを作成 (クロスプラットフォーム)"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid ""
+#~| "Generate a CMake/Qt4 based GUI application (crossplatform compatible)"
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Qt4 CMake Gui application. Generate a CMake/Qt4 based GUI application "
+#~ "(crossplatform compatible)"
+#~ msgstr ""
+#~ "CMake/Qt4 ベースの GUI アプリケーションを作成 (クロスプラットフォーム)"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "This plugin provides a frontend for GDB, a source-level debugger for C, C+"
+#~ "+ and more."
+#~ msgstr ""
+#~ "このプラグインは、C, C++ などのソースレベルデバッガ GDB のフロントエンドを"
+#~ "提供します。"
+
+#~ msgctxt "Name"
+#~ msgid "GDB Support"
+#~ msgstr "GDB サポート"
+
+#~ msgctxt "GenericName"
+#~ msgid "Debugger Frontend"
+#~ msgstr "デバッガのフロントエンド"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "This plugin provides QtHelp integration"
+#~ msgctxt "Comment"
+#~ msgid "This plugin provides Manual Pages integration"
+#~ msgstr "このプラグインは QtHelp を統合します"
+
+#, fuzzy
+#~ msgctxt "GenericName"
+#~ msgid "Documentation Support"
+#~ msgstr "文書ビュー"
+
+#~ msgctxt "Comment"
+#~ msgid "This plugin provides QtHelp integration"
+#~ msgstr "このプラグインは QtHelp を統合します"
+
+#~ msgctxt "Name"
+#~ msgid "Qt Documentation"
+#~ msgstr "Qt ドキュメンテーション"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Qt Documentation"
+#~ msgctxt "Name"
+#~ msgid "QtHelp Documentation"
+#~ msgstr "Qt ドキュメンテーション"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "A plugin for formatting of sourcecode according to a specified set of "
+#~ "rules"
+#~ msgstr "指定された規則に従ってソースコードを整形します"
+
+#~ msgctxt "Name"
+#~ msgid "AStyle Formatter Backend"
+#~ msgstr "AStyle フォーマッタのバックエンド"
+
+#~ msgctxt "GenericName"
+#~ msgid "Formatter Backend"
+#~ msgstr "フォーマッタのバックエンド"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid ""
+#~| "A plugin for formatting of sourcecode according to a specified set of "
+#~| "rules"
+#~ msgctxt "Comment"
+#~ msgid "A plugin for formatting C files using custom scripts"
+#~ msgstr "指定された規則に従ってソースコードを整形します"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "AStyle Formatter Backend"
+#~ msgctxt "Name"
+#~ msgid "Custom Script Formatter Backend"
+#~ msgstr "AStyle フォーマッタのバックエンド"
+
+#, fuzzy
+#~ msgctxt "GenericName"
+#~ msgid "Plasmoid Launcher Support"
+#~ msgstr "言語のサポート"
+
+#~ msgctxt "Comment"
+#~ msgid "This plugin helps to obtain KDE projects"
+#~ msgstr "このプラグインで KDE のプロジェクトが取得できます"
+
+#~ msgctxt "Comment"
+#~ msgid "C/C++ Language Support"
+#~ msgstr "C/C++ 言語のサポート"
+
+#~ msgctxt "Name"
+#~ msgid "C++ Support"
+#~ msgstr "C++ サポート"
+
+#~ msgctxt "GenericName"
+#~ msgid "Language Support"
+#~ msgstr "言語のサポート"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Custom Makefile Project Manager"
+#~ msgctxt "Name"
+#~ msgid "Custom Defines And Includes Manager"
+#~ msgstr "カスタム Makefile プロジェクトマネージャ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Custom Makefile Project Manager"
+#~ msgctxt "GenericName"
+#~ msgid "Custom Defines And Includes Manager"
+#~ msgstr "カスタム Makefile プロジェクトマネージャ"
+
+#~ msgctxt "Name"
+#~ msgid "CMake"
+#~ msgstr "CMake"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure CMake settings"
+#~ msgctxt "Comment"
+#~ msgid "Configure global CMake settings"
+#~ msgstr "CMake のオプションを設定します"
+
+#~ msgctxt "Name"
+#~ msgid "CMake Project Builder"
+#~ msgstr "CMake プロジェクトビルダー"
+
+#~ msgctxt "GenericName"
+#~ msgid "Project Builder"
+#~ msgstr "プロジェクトビルダー"
+
+#~ msgctxt "Comment"
+#~ msgid "Builds CMake Projects"
+#~ msgstr "CMake プロジェクトをビルドします"
+
+#~ msgctxt "Name"
+#~ msgid "Make"
+#~ msgstr "Make"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure Make settings"
+#~ msgstr "Make のオプションを設定します"
+
+#~ msgctxt "Name"
+#~ msgid "Make Project Builder"
+#~ msgstr "Make プロジェクトビルダー"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure CMake settings"
+#~ msgstr "CMake のオプションを設定します"
+
+#~ msgctxt "Name"
+#~ msgid "CMake Documentation"
+#~ msgstr "CMake ドキュメンテーション"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "Allows KDevelop to provide CMake documentation"
+#~ msgstr "KDevelop で CMake ベースのプロジェクトを管理できるようにします"
+
+#~ msgctxt "Name"
+#~ msgid "CMake Project Manager"
+#~ msgstr "CMake プロジェクトマネージャ"
+
+#~ msgctxt "GenericName"
+#~ msgid "Project Manager"
+#~ msgstr "プロジェクトマネージャ"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Allows KDevelop to manager CMake based projects"
+#~ msgctxt "Comment"
+#~ msgid "Allows KDevelop to manage CMake-based projects"
+#~ msgstr "KDevelop で CMake ベースのプロジェクトを管理できるようにします"
+
+#~ msgctxt "GenericName"
+#~ msgid "A KDE4 Application"
+#~ msgstr "KDE4 アプリケーション"
+
+#~ msgctxt "Name"
+#~ msgid "Custom Makefile Project Manager"
+#~ msgstr "カスタム Makefile プロジェクトマネージャ"
+
+#~ msgctxt "Comment"
+#~ msgid "Imports and edits custom make projects"
+#~ msgstr "カスタム Make プロジェクトのインポートと編集を行います"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "This plugin helps to obtain KDE projects"
+#~ msgctxt "Comment"
+#~ msgid "This plugin helps to obtain projects from Github"
+#~ msgstr "このプラグインで KDE のプロジェクトが取得できます"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Okteta Integration"
+#~ msgstr "Qt デザイナーの統合"
+
+#, fuzzy
+#~ msgctxt "GenericName"
+#~ msgid "Hex Editor Integration"
+#~ msgstr "Qt デザイナーの統合"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "KDevelop Hex Editor based on Okteta"
+#~ msgstr "Qt デザイナーに基づく KDevelop GUI ビルダー"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Qt4 CMake Gui application"
+#~ msgctxt "Name"
+#~ msgid "Qt4 GUI Application"
+#~ msgstr "Qt4 CMake Gui アプリケーション"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Generate a QMake/Qt4 based application with graphical user interface "
+#~ "(crossplatform compatible)"
+#~ msgstr ""
+#~ "グラフィカルユーザインターフェースを持つ QMake/Qt4 ベースのアプリケーショ"
+#~ "ンを作成 (クロスプラットフォーム)"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Qt4 CMake Gui application"
+#~ msgctxt "Name"
+#~ msgid "Qt5 QML2 Application"
+#~ msgstr "Qt4 CMake Gui アプリケーション"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid ""
+#~| "A plugin for formatting of sourcecode according to a specified set of "
+#~| "rules"
+#~ msgctxt "Comment"
+#~ msgid "A plugin for formatting C files using GNU indent"
+#~ msgstr "指定された規則に従ってソースコードを整形します"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Indent Formatter Backend"
+#~ msgstr "字下げフォーマッタバックエンド"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Simple CMake-based C++ application"
+#~ msgstr "Qt4 CMake コアアプリケーション"
+
+#~ msgctxt "Name"
+#~ msgid "Qt4 CMake Core application"
+#~ msgstr "Qt4 CMake コアアプリケーション"
+
+#~ msgctxt "Name"
+#~ msgid "Qt4 CMake QTest Core application"
+#~ msgstr "Qt4 CMake QTest コアアプリケーション"
+
+#~ msgctxt "Comment"
+#~ msgid "Allows KDevelop to manager CMake based projects"
+#~ msgstr "KDevelop で CMake ベースのプロジェクトを管理できるようにします"
+
+#~ msgctxt "GenericName"
+#~ msgid "Qt Help"
+#~ msgstr "Qt ヘルプ"
+
+#, fuzzy
+#~ msgctxt "GenericName"
+#~ msgid "PHP Documentation"
+#~ msgstr "文書ビュー"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Simple PHP Application"
+#~ msgstr "Qt4 GUI アプリケーション"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "KDevPhpSupport"
+#~ msgstr "KDevCppSupport"
+
+#, fuzzy
+#~ msgctxt "GenericName"
+#~ msgid "Php Support"
+#~ msgstr "GDB サポート"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "Configure Upload Profiles"
+#~ msgstr "GDB のオプションを設定します"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "KDevUpload"
+#~ msgstr "KDevelop"
+
+#, fuzzy
+#~ msgctxt "GenericName"
+#~ msgid "Upload Plugin"
+#~ msgstr "AStyle プラグイン"
+
+#~ msgctxt "Name"
+#~ msgid "KDevQtHelp"
+#~ msgstr "KDevQtHelp"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Valgrind is a tool that helps you find memory management problems in "
+#~ "programs. http://www.valgrind.org/"
+#~ msgstr ""
+#~ "Valgrind は、プログラム内のメモリ管理問題を発見することを手助けするツール"
+#~ "です。http://valgrind.org/"
+
+#~ msgctxt "Name"
+#~ msgid "Valgrind Support"
+#~ msgstr "Valgrind サポート"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Allows fast searching of multiple files using patterns or regular "
+#~ "expressions."
+#~ msgstr ""
+#~ "パターンや正規表現やパターンを用いて素早く複数のファイルを検索できるように"
+#~ "します。"
+
+#~ msgctxt "Name"
+#~ msgid "Find In Files"
+#~ msgstr "ファイル内を検索"
+
+#~ msgctxt "GenericName"
+#~ msgid "Search Tool"
+#~ msgstr "検索ツール"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "lcov settings"
+#~ msgstr "Valgrind の設定"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "This plugin displays a graphical view of all documents currently loaded "
+#~ "and separates them by mimetype."
+#~ msgstr ""
+#~ "このプラグインは現在読み込まれているすべての文書をグラフィカルに表示し、"
+#~ "MIME タイプで分類します。"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure GDB settings"
+#~ msgstr "GDB のオプションを設定します"
+
+#~ msgctxt "Name"
+#~ msgid "QMake"
+#~ msgstr "QMake"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure QMake settings"
+#~ msgstr "QMake のオプションを設定します"
+
+#~ msgctxt "Name"
+#~ msgid "QMake Project Builder"
+#~ msgstr "QMake プロジェクトビルダー"
+
+#~ msgctxt "Comment"
+#~ msgid "Builds QMake Projects"
+#~ msgstr "QMake プロジェクトをビルドします"
+
+#~ msgctxt "Name"
+#~ msgid "QMake Project Manager"
+#~ msgstr "QMake プロジェクトマネージャ"
+
+#~ msgctxt "Comment"
+#~ msgid "Imports and edits qmake projects"
+#~ msgstr "QMake プロジェクトのインポートと編集を行います"
+
+#~ msgctxt "GenericName"
+#~ msgid "GUI Designer Integration"
+#~ msgstr "GUI デザイナーの統合"
+
+#~ msgctxt "Name"
+#~ msgid "Valgrind Settings"
+#~ msgstr "Valgrind の設定"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure Valgrind settings"
+#~ msgstr "Valgrind のオプションを設定します"
+
+#~ msgctxt "GenericName"
+#~ msgid "Valgrind Frontend"
+#~ msgstr "Valgrind フロントエンド"
+
+#~ msgctxt "Name"
+#~ msgid "Source Code Formatter"
+#~ msgstr "ソースコードフォーマッタ"
+
+#~ msgctxt "Name"
+#~ msgid "KDevIndent"
+#~ msgstr "KDevIndent"
+
+#~ msgctxt "Name"
+#~ msgid "File Searching Support"
+#~ msgstr "ファイル検索のサポート"
+
+#~ msgctxt "GenericName"
+#~ msgid "Grep Frontend"
+#~ msgstr "Grep フロントエンド"
+
+#~ msgctxt "GenericName"
+#~ msgid "KDevelop Qt Designer Support"
+#~ msgstr "KDevelop Qt デザイナーサポート"

@@ -1,0 +1,1026 @@
+# Translation of kcontactmanager into Japanese.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2009, 2010.
+# Daniel E. Moctezuma <democtezuma@gmail.com>, 2010.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2010, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcontactmanager\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-09-21 13:30+0200\n"
+"PO-Revision-Date: 2014-09-23 00:51-0700\n"
+"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+"X-Generator: Lokalize 1.0\n"
+
+#. +> trunk6 stable6
+#: csv/csvimportexportplugininterface.cpp:35
+#, fuzzy, kde-format
+#| msgid "Export CSV file..."
+msgid "Export CSV file…"
+msgstr "CSV ファイルにエクスポート..."
+
+#. +> trunk6 stable6
+#: csv/csvimportexportplugininterface.cpp:36
+#, kde-format
+msgid "Export contacts to a file in comma separated value format."
+msgstr "連絡先を CSV フォーマットのファイルにエクスポートします。"
+
+#. +> trunk6 stable6
+#: csv/csvimportexportplugininterface.cpp:41
+#, fuzzy, kde-format
+#| msgid "Import CSV file..."
+msgid "Import CSV file…"
+msgstr "CSV ファイルをインポート..."
+
+#. +> trunk6 stable6
+#: csv/csvimportexportplugininterface.cpp:42
+#, kde-format
+msgid "Import contacts from a file in comma separated value format."
+msgstr "CSV フォーマットのファイルから連絡先をインポートします。"
+
+#. +> trunk6 stable6
+#: csv/csvimportexportplugininterface.cpp:147
+#: gmx/gmximportexportplugininterface.cpp:80
+#: ldif/ldifimportexportplugininterface.cpp:123
+#: vcards/vcardimportexportplugininterface.cpp:375
+#, kde-format
+msgid "Which contact do you want to export?"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/csvimportexportplugininterface.cpp:157
+#: gmx/gmximportexportplugininterface.cpp:90
+#: ldif/ldifimportexportplugininterface.cpp:133
+#: vcards/vcardimportexportplugininterface.cpp:387
+#, fuzzy, kde-format
+#| msgid ""
+#| "You have selected a list of contacts, shall they be exported to several "
+#| "files?"
+msgid "You have not selected any contacts to export."
+msgstr ""
+"複数の連絡先を含むリストを選択しました。複数のファイルに分割してエクスポート"
+"しますか？"
+
+#. +> trunk6 stable6
+#: csv/csvimportexportplugininterface.cpp:186
+#: gmx/gmximportexportplugininterface.cpp:124
+#: ldif/ldifimportexportplugininterface.cpp:154
+#, kde-format
+msgid "<qt>Unable to open file <b>%1</b></qt>"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/csvimportexportplugininterface.cpp:198
+#: gmx/gmximportexportplugininterface.cpp:139
+#: ldif/ldifimportexportplugininterface.cpp:184
+#, kde-format
+msgid "<qt>Unable to open file <b>%1</b>.</qt>"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:168
+#, fuzzy, kde-format
+#| msgid "vCard Import Failed"
+msgctxt "@title:window"
+msgid "CSV Import Dialog"
+msgstr "vCard のインポートに失敗"
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:223
+#, fuzzy, kde-format
+#| msgid "Import contacts from a vCard file."
+msgctxt "@label"
+msgid "Importing contacts"
+msgstr "vCard ファイルから連絡先をインポートします。"
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:294
+#, fuzzy, kde-format
+#| msgctxt "@label"
+#| msgid "File to import:"
+msgctxt "@label"
+msgid "File to import:"
+msgstr "インポートするファイル:"
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:302
+#, fuzzy, kde-format
+#| msgid "Select vCard to Import"
+msgctxt "@info:tooltip"
+msgid "Select a csv file to import"
+msgstr "インポートする vCard を選択"
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:304
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Click this button to start a file chooser that will allow you to select a "
+"csv file to import."
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:311
+#, kde-format
+msgctxt "@title:group"
+msgid "Delimiter"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:321
+#, kde-format
+msgctxt "@option:radio Field separator"
+msgid "Comma"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:322
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Set the field separator to a comma"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:323
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Select this option if your csv file uses the comma as a field separator."
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:328
+#, kde-format
+msgctxt "@option:radio Field separator"
+msgid "Semicolon"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:329
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Set the field separator to a semicolon"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:330
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Select this option if your csv file uses the semicolon as a field separator."
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:334
+#, kde-format
+msgctxt "@option:radio Field separator"
+msgid "Tabulator"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:335
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Set the field separator to a tab character"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:336
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Select this option if your csv file uses the tab character as a field "
+"separator."
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:340
+#, kde-format
+msgctxt "@option:radio Field separator"
+msgid "Space"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:341
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Set the field separator to a space character"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:342
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Select this option if your csv file uses the space character as a field "
+"separator."
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:346
+#, kde-format
+msgctxt "@option:radio Custom field separator"
+msgid "Other"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:347
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Set the field separator to a custom character"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:349
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Select this option if to use some other character as the field delimiter for "
+"the data in your csv file."
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:355
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Set the custom delimiter character"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:357
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Enter a custom character to use as the delimiter character. If you enter "
+"more than 1 character, only the first will be used and the remaining "
+"characters will be ignored."
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:363
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Text quote:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:369
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Select the quote character"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:371
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Choose the character that your csv data uses to \"quote\" the field "
+"delimiter if that character happens to occur within the data.  For example, "
+"if the comma is the field delimiter, then any comma occurring with the data "
+"will be \"quoted\" by the character specified here."
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:376
+#, kde-format
+msgctxt "@item:inlistbox Quote character option"
+msgid "\""
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:377
+#, kde-format
+msgctxt "@item:inlistbox Quote character option"
+msgid "'"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:378
+#, kde-format
+msgctxt "@item:inlistbox Quote character option"
+msgid "None"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:382
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Date format:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:390
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid ""
+"<para><list><item>y: year with 2 digits</item><item>Y: year with 4 digits</"
+"item><item>m: month with 1 or 2 digits</item><item>M: month with 2 digits</"
+"item><item>d: day with 1 or 2 digits</item><item>D: day with 2 digits</"
+"item><item>H: hours with 2 digits</item><item>I: minutes with 2 digits</"
+"item><item>S: seconds with 2 digits</item></list></para>"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:401
+#, kde-kuit-format
+msgctxt "@info:whatsthis"
+msgid ""
+"<para>Specify a format to use for dates included in your csv data. Use the "
+"following sequences to help you define the format:</"
+"para><para><list><item>y: year with 2 digits</item><item>Y: year with 4 "
+"digits</item><item>m: month with 1 or 2 digits</item><item>M: month with 2 "
+"digits</item><item>d: day with 1 or 2 digits</item><item>D: day with 2 "
+"digits</item><item>H: hours with 2 digits</item><item>I: minutes with 2 "
+"digits</item><item>S: seconds with 2 digits</item></list></"
+"para><para>Example: \"Y-M-D\" corresponds to a date like \"2012-01-04\"</"
+"para>"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:417
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Text codec:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:423
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Select the text codec"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:424
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Choose the character encoding of the data in your csv file."
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:428
+#, kde-format
+msgctxt "@option:check"
+msgid "Skip first row of file"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:430
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Skip first row of csv file when importing"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:432
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Check this box if you want the import to skip over the first row of the csv "
+"data. In many cases, the first line of a csv file will be a comment line "
+"describing the order of the data fields included in the file."
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:448
+#, kde-format
+msgctxt "@action:button"
+msgid "Apply Template…"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:449
+#, kde-format
+msgctxt "@action:button"
+msgid "Save Template…"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:470
+#, kde-format
+msgctxt "@item:inlistbox Codec setting"
+msgid "Local (%1)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:471
+#, kde-format
+msgctxt "@item:inlistbox Codec setting"
+msgid "Latin1"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:472
+#, kde-format
+msgctxt "@item:inlistbox Codec setting"
+msgid "Unicode"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:473
+#, kde-format
+msgctxt "@item:inlistbox Codec setting"
+msgid "Microsoft Unicode"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:574
+#, kde-format
+msgctxt "@info:status"
+msgid "You must assign at least one column."
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:584
+#, kde-format
+msgctxt "@label"
+msgid "There are no templates available yet."
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:584
+#, kde-format
+msgctxt "@title:window"
+msgid "No templates available"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:649
+#, kde-format
+msgctxt "@title:window"
+msgid "Template Name"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:649
+#, kde-format
+msgctxt "@info"
+msgid "Please enter a name for the template:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/csvimportdialog.cpp:699
+#, kde-format
+msgctxt "@info:status"
+msgid "Cannot open input file."
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/qcsvreader.cpp:92
+#, kde-format
+msgid "Device is not open"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/templateselectiondialog.cpp:182
+#, kde-format
+msgctxt "@label"
+msgid "Do you really want to delete template '%1'?"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/templateselectiondialog.cpp:203
+#, kde-format
+msgctxt "@title:window"
+msgid "Template Selection"
+msgstr ""
+
+#. +> trunk6 stable6
+#: csv/import/templateselectiondialog.cpp:206
+#, kde-format
+msgctxt "@info"
+msgid "Please select a template, that matches the CSV file:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: gmx/gmximportexportplugininterface.cpp:25
+#, kde-format
+msgid "GMX address book file (*.gmxa)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: gmx/gmximportexportplugininterface.cpp:40
+#, fuzzy, kde-format
+#| msgid "Import GMX file..."
+msgid "Import GMX file…"
+msgstr "GMX ファイルをインポート..."
+
+#. +> trunk6 stable6
+#: gmx/gmximportexportplugininterface.cpp:41
+#, fuzzy, kde-format
+#| msgid "Import contacts from a vCard file."
+msgid "Import contacts from a GMX address book file."
+msgstr "vCard ファイルから連絡先をインポートします。"
+
+#. +> trunk6 stable6
+#: gmx/gmximportexportplugininterface.cpp:46
+#, fuzzy, kde-format
+#| msgid "Export CSV file..."
+msgid "Export GMX file…"
+msgstr "CSV ファイルにエクスポート..."
+
+#. +> trunk6 stable6
+#: gmx/gmximportexportplugininterface.cpp:47
+#, fuzzy, kde-format
+#| msgid "Export contacts to a vCard 4.0 file."
+msgid "Export contacts to a GMX address book file."
+msgstr "連絡先を vCard 4.0 ファイルにエクスポートします。"
+
+#. +> trunk6 stable6
+#: gmx/gmximportexportplugininterface.cpp:434
+#: ldif/ldifimportexportplugininterface.cpp:80
+#: windows-contacts/importwindowcontact.cpp:26
+#, kde-format
+msgid "<qt>Unable to open <b>%1</b> for reading.</qt>"
+msgstr ""
+
+#. +> trunk6 stable6
+#: gmx/gmximportexportplugininterface.cpp:447
+#, kde-format
+msgid "%1 is not a GMX address book file."
+msgstr ""
+
+#. +> trunk6 stable6
+#: ldap/ldapimportexportplugininterface.cpp:25
+#, fuzzy, kde-format
+#| msgid "Import From LDAP server..."
+msgid "Import From LDAP server…"
+msgstr "LDAP サーバからインポート..."
+
+#. +> trunk6 stable6
+#: ldap/ldapimportexportplugininterface.cpp:26
+#, kde-format
+msgid "Import contacts from an LDAP server."
+msgstr "LDAP サーバから連絡先をインポートします。"
+
+#. +> trunk6 stable6
+#: ldif/ldifimportexportplugininterface.cpp:36
+#, fuzzy, kde-format
+#| msgid "Import LDIF file..."
+msgid "Import LDIF file…"
+msgstr "LDIF ファイルをインポート..."
+
+#. +> trunk6 stable6
+#: ldif/ldifimportexportplugininterface.cpp:37
+#, kde-format
+msgid "Import contacts from an LDIF file."
+msgstr "LDIF ファイルから連絡先をインポートします。"
+
+#. +> trunk6 stable6
+#: ldif/ldifimportexportplugininterface.cpp:42
+#, fuzzy, kde-format
+#| msgid "Export LDIF file..."
+msgid "Export LDIF file…"
+msgstr "LDIF ファイルにエクスポート..."
+
+#. +> trunk6 stable6
+#: ldif/ldifimportexportplugininterface.cpp:43
+#, kde-format
+msgid "Export contacts to an LDIF file."
+msgstr "連絡先を LDIF ファイルにエクスポートします。"
+
+#. +> trunk6 stable6
+#: ldif/ldifimportexportplugininterface.cpp:106
+#, kde-format
+msgid "LDif Files"
+msgstr ""
+
+#. +> trunk6 stable6
+#: ldif/ldifimportexportplugininterface.cpp:144
+#, kde-format
+msgid "LDif Files (*.ldif)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: vcards/engine/vcardexportselectionwidget.cpp:22
+#, fuzzy, kde-format
+#| msgctxt "@label"
+#| msgid "File to import:"
+msgctxt "@title:group"
+msgid "Fields to be exported"
+msgstr "インポートするファイル:"
+
+#. +> trunk6 stable6
+#: vcards/engine/vcardexportselectionwidget.cpp:29
+#, fuzzy, kde-format
+#| msgid "Private fields"
+msgctxt "@option:check"
+msgid "Private fields"
+msgstr "プライベートフィールド"
+
+#. +> trunk6 stable6
+#: vcards/engine/vcardexportselectionwidget.cpp:30
+#, fuzzy, kde-format
+#| msgid "Private fields"
+msgctxt "@info:tooltip"
+msgid "Export private fields"
+msgstr "プライベートフィールド"
+
+#. +> trunk6 stable6
+#: vcards/engine/vcardexportselectionwidget.cpp:32
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Check this box if you want to export the contact's private fields to the "
+"vCard output file."
+msgstr ""
+
+#. +> trunk6 stable6
+#: vcards/engine/vcardexportselectionwidget.cpp:36
+#, fuzzy, kde-format
+#| msgid "Business fields"
+msgctxt "@option:check"
+msgid "Business fields"
+msgstr "ビジネスフィールド"
+
+#. +> trunk6 stable6
+#: vcards/engine/vcardexportselectionwidget.cpp:37
+#, fuzzy, kde-format
+#| msgid "Business fields"
+msgctxt "@info:tooltip"
+msgid "Export business fields"
+msgstr "ビジネスフィールド"
+
+#. +> trunk6 stable6
+#: vcards/engine/vcardexportselectionwidget.cpp:39
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Check this box if you want to export the contact's business fields to the "
+"vCard output file."
+msgstr ""
+
+#. +> trunk6 stable6
+#: vcards/engine/vcardexportselectionwidget.cpp:43
+#, fuzzy, kde-format
+#| msgid "Other fields"
+msgctxt "@option:check"
+msgid "Other fields"
+msgstr "その他のフィールド"
+
+#. +> trunk6 stable6
+#: vcards/engine/vcardexportselectionwidget.cpp:44
+#, fuzzy, kde-format
+#| msgid "Other fields"
+msgctxt "@info:tooltip"
+msgid "Export other fields"
+msgstr "その他のフィールド"
+
+#. +> trunk6 stable6
+#: vcards/engine/vcardexportselectionwidget.cpp:46
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Check this box if you want to export the contact's other fields to the vCard "
+"output file."
+msgstr ""
+
+#. +> trunk6 stable6
+#: vcards/engine/vcardexportselectionwidget.cpp:50
+#, fuzzy, kde-format
+#| msgid "Encryption keys"
+msgctxt "@option:check"
+msgid "Encryption keys"
+msgstr "暗号化鍵"
+
+#. +> trunk6 stable6
+#: vcards/engine/vcardexportselectionwidget.cpp:51
+#, fuzzy, kde-format
+#| msgid "Encryption keys"
+msgctxt "@info:tooltip"
+msgid "Export encryption keys"
+msgstr "暗号化鍵"
+
+#. +> trunk6 stable6
+#: vcards/engine/vcardexportselectionwidget.cpp:53
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Check this box if you want to export the contact's encryption keys to the "
+"vCard output file."
+msgstr ""
+
+#. +> trunk6 stable6
+#: vcards/engine/vcardexportselectionwidget.cpp:57
+#, fuzzy, kde-format
+#| msgid "Pictures"
+msgctxt "@option:check"
+msgid "Pictures"
+msgstr "画像"
+
+#. +> trunk6 stable6
+#: vcards/engine/vcardexportselectionwidget.cpp:58
+#, fuzzy, kde-format
+#| msgid "Pictures"
+msgctxt "@info:tooltip"
+msgid "Export pictures"
+msgstr "画像"
+
+#. +> trunk6 stable6
+#: vcards/engine/vcardexportselectionwidget.cpp:60
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Check this box if you want to export the contact's picture to the vCard "
+"output file."
+msgstr ""
+
+#. +> trunk6 stable6
+#: vcards/engine/vcardexportselectionwidget.cpp:64
+#, fuzzy, kde-format
+#| msgid "Export to One File"
+msgctxt "@title:group"
+msgid "Export options"
+msgstr "一つのファイルにエクスポート"
+
+#. +> trunk6 stable6
+#: vcards/engine/vcardexportselectionwidget.cpp:70
+#, kde-format
+msgctxt "@option:check"
+msgid "Display name as full name"
+msgstr ""
+
+#. +> trunk6 stable6
+#: vcards/engine/vcardexportselectionwidget.cpp:71
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Export display name as full name"
+msgstr ""
+
+#. +> trunk6 stable6
+#: vcards/engine/vcardexportselectionwidget.cpp:73
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Check this box if you want to export the contact's display name in the "
+"vCard's full name field.  This may be required to get the name shown "
+"correctly in GMail or Android."
+msgstr ""
+
+#. +> trunk6 stable6
+#: vcards/engine/vcardviewerdialog.cpp:28
+#, fuzzy, kde-format
+#| msgid "Import vCard"
+msgctxt "@title:window"
+msgid "Import vCard"
+msgstr "vCard をインポート"
+
+#. +> trunk6 stable6
+#: vcards/engine/vcardviewerdialog.cpp:51
+#, fuzzy, kde-format
+#| msgid "Do you want to import this contact into your address book?"
+msgctxt "@info"
+msgid "Do you want to import this contact into your address book?"
+msgstr "本当にこの連絡先をアドレス帳にインポートしますか？"
+
+#. +> trunk6 stable6
+#: vcards/engine/vcardviewerdialog.cpp:61
+#, fuzzy, kde-format
+#| msgid "Import All..."
+msgctxt "@action:button"
+msgid "Import All…"
+msgstr "すべてインポート..."
+
+#. +> trunk6 stable6
+#: vcards/vcardimportexportplugininterface.cpp:45
+#, fuzzy, kde-format
+#| msgid "Import vCard"
+msgid "Import vCard…"
+msgstr "vCard をインポート"
+
+#. +> trunk6 stable6
+#: vcards/vcardimportexportplugininterface.cpp:46
+#, kde-format
+msgid "Import contacts from a vCard file."
+msgstr "vCard ファイルから連絡先をインポートします。"
+
+#. +> trunk6 stable6
+#: vcards/vcardimportexportplugininterface.cpp:53
+#, kde-format
+msgid "Export contacts to a vCard 4.0 file."
+msgstr "連絡先を vCard 4.0 ファイルにエクスポートします。"
+
+#. +> trunk6 stable6
+#: vcards/vcardimportexportplugininterface.cpp:54
+#, fuzzy, kde-format
+#| msgid "Export vCard 4.0..."
+msgid "Export vCard 4.0…"
+msgstr "vCard 4.0 にエクスポート..."
+
+#. +> trunk6 stable6
+#: vcards/vcardimportexportplugininterface.cpp:59
+#, fuzzy, kde-format
+#| msgid "Export vCard 3.0..."
+msgid "Export vCard 3.0…"
+msgstr "vCard 3.0 にエクスポート..."
+
+#. +> trunk6 stable6
+#: vcards/vcardimportexportplugininterface.cpp:60
+#, kde-format
+msgid "Export contacts to a vCard 3.0 file."
+msgstr "連絡先を vCard 3.0 ファイルにエクスポートします。"
+
+#. +> trunk6 stable6
+#: vcards/vcardimportexportplugininterface.cpp:65
+#, fuzzy, kde-format
+#| msgid "Export vCard 2.1..."
+msgid "Export vCard 2.1…"
+msgstr "vCard 2.1 にエクスポート..."
+
+#. +> trunk6 stable6
+#: vcards/vcardimportexportplugininterface.cpp:66
+#, kde-format
+msgid "Export contacts to a vCard 2.1 file."
+msgstr "連絡先を vCard 2.1 ファイルにエクスポートします。"
+
+#. +> trunk6 stable6
+#: vcards/vcardimportexportplugininterface.cpp:114
+#, kde-format
+msgid "vCard (*.vcf *.vcard *.vct *.gcrd);;All files (*)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: vcards/vcardimportexportplugininterface.cpp:115
+#, fuzzy, kde-format
+#| msgid "Select vCard to Import"
+msgctxt "@title:window"
+msgid "Select vCard to Import"
+msgstr "インポートする vCard を選択"
+
+#. +> trunk6 stable6
+#: vcards/vcardimportexportplugininterface.cpp:121
+#, fuzzy, kde-format
+#| msgid "vCard Import Failed"
+msgctxt "@title:window"
+msgid "vCard Import Failed"
+msgstr "vCard のインポートに失敗"
+
+#. +> trunk6 stable6
+#: vcards/vcardimportexportplugininterface.cpp:135
+#, kde-kuit-format
+msgctxt "@info"
+msgid "<para>Unable to access vCard:</para><para>%1</para>"
+msgstr "<para>vCard にアクセスできません:</para><para>%1</para>"
+
+#. +> trunk6 stable6
+#: vcards/vcardimportexportplugininterface.cpp:441
+#, fuzzy, kde-format
+#| msgid ""
+#| "You have selected a list of contacts, shall they be exported to several "
+#| "files?"
+msgctxt "@info"
+msgid ""
+"You have selected a list of contacts, shall they be exported to several "
+"files?"
+msgstr ""
+"複数の連絡先を含むリストを選択しました。複数のファイルに分割してエクスポート"
+"しますか？"
+
+#. +> trunk6 stable6
+#: vcards/vcardimportexportplugininterface.cpp:444
+#, fuzzy, kde-format
+#| msgid "Export to One File"
+msgctxt "@action:button"
+msgid "Export to One File"
+msgstr "一つのファイルにエクスポート"
+
+#. +> trunk6 stable6
+#: vcards/vcardimportexportplugininterface.cpp:445
+#, fuzzy, kde-format
+#| msgid "Export to Several Files"
+msgctxt "@action:button"
+msgid "Export to Several Files"
+msgstr "複数のファイルにエクスポート"
+
+#. +> trunk6 stable6
+#: windows-contacts/windowscontactimportexportplugininterface.cpp:29
+#, fuzzy, kde-format
+#| msgid "Import CSV file..."
+msgid "Import Windows Contact file…"
+msgstr "CSV ファイルをインポート..."
+
+#. +> trunk6 stable6
+#: windows-contacts/windowscontactimportexportplugininterface.cpp:30
+#, fuzzy, kde-format
+#| msgid "Import contacts from an LDIF file."
+msgid "Import contacts from windows contact file."
+msgstr "LDIF ファイルから連絡先をインポートします。"
+
+#. +> trunk6 stable6
+#: windows-contacts/windowscontactimportexportplugininterface.cpp:68
+#, kde-format
+msgid "Windows Contact file (*.contact)"
+msgstr ""
+
+#, kde-format
+#~ msgid "Export CSV file..."
+#~ msgstr "CSV ファイルにエクスポート..."
+
+#, kde-format
+#~ msgid "Import CSV file..."
+#~ msgstr "CSV ファイルをインポート..."
+
+#, fuzzy, kde-format
+#~| msgid "Import GMX file..."
+#~ msgid "Import GMX file..."
+#~ msgstr "GMX ファイルをインポート..."
+
+#, fuzzy, kde-format
+#~| msgid "Export CSV file..."
+#~ msgid "Export GMX file..."
+#~ msgstr "CSV ファイルにエクスポート..."
+
+#, kde-format
+#~ msgid "Import From LDAP server..."
+#~ msgstr "LDAP サーバからインポート..."
+
+#, kde-format
+#~ msgid "Import LDIF file..."
+#~ msgstr "LDIF ファイルをインポート..."
+
+#, kde-format
+#~ msgid "Export LDIF file..."
+#~ msgstr "LDIF ファイルにエクスポート..."
+
+#, fuzzy, kde-format
+#~| msgid "Import All..."
+#~ msgctxt "@action:button"
+#~ msgid "Import All..."
+#~ msgstr "すべてインポート..."
+
+#, kde-format
+#~ msgid "Import vCard..."
+#~ msgstr "vCard をインポート..."
+
+#, kde-format
+#~ msgid "Export vCard 4.0..."
+#~ msgstr "vCard 4.0 にエクスポート..."
+
+#, kde-format
+#~ msgid "Export vCard 3.0..."
+#~ msgstr "vCard 3.0 にエクスポート..."
+
+#, kde-format
+#~ msgid "Export vCard 2.1..."
+#~ msgstr "vCard 2.1 にエクスポート..."
+
+#, fuzzy, kde-format
+#~| msgid "Import CSV file..."
+#~ msgid "Import Windows Contact file..."
+#~ msgstr "CSV ファイルをインポート..."
+
+#, fuzzy
+#~| msgid "Import vCard"
+#~ msgctxt "@title:window"
+#~ msgid "Import Contacts"
+#~ msgstr "vCard をインポート"
+
+#, fuzzy
+#~| msgid "Import vCard"
+#~ msgid "Import Contacts"
+#~ msgstr "vCard をインポート"
+
+#, fuzzy
+#~| msgid "No contacts were imported, due to errors with the vCards."
+#~ msgctxt "@info"
+#~ msgid "No contacts were imported, due to errors with the vCards."
+#~ msgstr "vCard に関するエラーにより、連絡先をインポートできませんでした。"
+
+#, fuzzy
+#~| msgid "The vCard does not contain any contacts."
+#~ msgctxt "@info"
+#~ msgid "The vCard does not contain any contacts."
+#~ msgstr "vCard は連絡先を含んでいません。"
+
+#, fuzzy
+#~| msgid "Export GMX file..."
+#~ msgid "Export GMX 4.0..."
+#~ msgstr "GMX ファイルにエクスポート..."
+
+#, fuzzy
+#~| msgid "Export GMX file..."
+#~ msgid "Export GMX 3.0..."
+#~ msgstr "GMX ファイルにエクスポート..."
+
+#, fuzzy
+#~| msgid "Export contacts to a vCard 3.0 file."
+#~ msgid "Export contacts to a GMX 3.0 file."
+#~ msgstr "連絡先を vCard 3.0 ファイルにエクスポートします。"
+
+#, fuzzy
+#~| msgid "Export GMX file..."
+#~ msgid "Export GMX 2.1..."
+#~ msgstr "GMX ファイルにエクスポート..."
+
+#, fuzzy
+#~| msgid "Export contacts to a vCard 2.1 file."
+#~ msgid "Export contacts to a GMX 2.1 file."
+#~ msgstr "連絡先を vCard 2.1 ファイルにエクスポートします。"

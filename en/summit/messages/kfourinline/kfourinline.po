@@ -1,0 +1,1256 @@
+# Translation of kfourinline into Japanese.
+# This file is distributed under the same license as the kdegames package.
+# Taiki Komoda <kom@kde.gr.jp>, 2002.
+# Takuro Ashie <ashie@homa.ne.jp>, 2004.
+# Kurose Shushi <md81@bird.email.ne.jp>, 2004.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2006.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: kfourinline\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-11-28 09:59+0100\n"
+"PO-Revision-Date: 2010-02-02 22:00+0900\n"
+"Last-Translator: Yukiko Bando <ybando@k6.dion.ne.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Taiki Komoda,Takuro Ashie,Kurose Shushi"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "kom@kde.gr.jp,ashie@homa.ne.jp,md81@bird.email.ne.jp"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "default name of first player"
+msgid "Player 1"
+msgstr "プレイヤー 1"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "default name of second player"
+msgid "Player 2"
+msgstr "プレイヤー 2"
+
+#. +> trunk6 stable6
+#, fuzzy, kde-format
+#| msgid "Black"
+msgctxt "Player 0 color"
+msgid "Black"
+msgstr "黒"
+
+#. +> trunk6 stable6
+#, fuzzy, kde-format
+#| msgid " %1 - Yellow "
+msgctxt "Player 0 color"
+msgid "Yellow"
+msgstr " %1 - 黄 "
+
+#. +> trunk6 stable6
+#, fuzzy, kde-format
+#| msgid "Red"
+msgctxt "Player 1 color"
+msgid "Red"
+msgstr "赤"
+
+#. +> trunk6 stable6
+#: chatdlg.cpp:33
+#, fuzzy, kde-format
+#| msgid "Chat Dlg"
+msgctxt "@title:window"
+msgid "Chat Dlg"
+msgstr "チャットダイアログ"
+
+#. +> trunk6 stable6
+#: chatdlg.cpp:48
+#, fuzzy, kde-format
+#| msgid "Chat"
+msgctxt "@title:group"
+msgid "Chat"
+msgstr "チャット"
+
+#. +> trunk6 stable6
+#: chatdlg.cpp:54
+#, fuzzy, kde-format
+#| msgid "Configure..."
+msgctxt "@action:button"
+msgid "Configure…"
+msgstr "設定..."
+
+#. +> trunk6 stable6
+#: displayintro.cpp:71
+#, fuzzy, kde-format
+#| msgctxt "Name of quicklaunch field"
+#| msgid "Quick Launch"
+msgctxt "@title:group"
+msgid "Quick Launch"
+msgstr "クイックスタート"
+
+#. +> trunk6 stable6
+#: displayintro.cpp:77
+#, fuzzy, kde-format
+#| msgctxt "Ask player who should start game"
+#| msgid "Who starts?"
+msgctxt "@label Ask player who should start game"
+msgid "Who starts?"
+msgstr "先手プレイヤーは？"
+
+#. +> trunk6 stable6
+#: displayintro.cpp:80
+#, fuzzy, kde-format
+#| msgctxt "Ask player which color he wants to play"
+#| msgid "Your color?"
+msgctxt "@label Ask player which color he wants to play"
+msgid "Your color?"
+msgstr "あなたの色は？"
+
+#. +> trunk6 stable6
+#: displayintro.cpp:124
+#, fuzzy, kde-format
+#| msgctxt "quick start button - player versus AI level easy"
+#| msgid "Easy Game"
+msgctxt "@action:button quick start - player versus AI level easy"
+msgid "Easy Game"
+msgstr "初級ゲーム"
+
+#. +> trunk6 stable6
+#: displayintro.cpp:130
+#, fuzzy, kde-format
+#| msgctxt "quick start button - player versus AI level normal"
+#| msgid "Normal Game"
+msgctxt "@action:button quick start - player versus AI level normal"
+msgid "Normal Game"
+msgstr "中級ゲーム"
+
+#. +> trunk6 stable6
+#: displayintro.cpp:136
+#, fuzzy, kde-format
+#| msgctxt "quick start button - player versus AI level hard"
+#| msgid "Hard Game"
+msgctxt "@action:button quick start - player versus AI level hard"
+msgid "Hard Game"
+msgstr "上級ゲーム"
+
+#. +> trunk6 stable6
+#: displayintro.cpp:142
+#, fuzzy, kde-format
+#| msgctxt "quick start button - player versus player"
+#| msgid "Two Player Game"
+msgctxt "@action:button quick start - player versus player"
+msgid "Two Player Game"
+msgstr "2 人でプレイ"
+
+#. +> trunk6 stable6
+#: kchatdialog.cpp:80
+#, fuzzy, kde-format
+#| msgid "Configure..."
+msgctxt "@title:window"
+msgid "Configure Chat"
+msgstr "設定..."
+
+#. +> trunk6 stable6
+#: kchatdialog.cpp:92 kchatdialog.cpp:114
+#, kde-format
+msgctxt "@action:button"
+msgid "Name Font…"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kchatdialog.cpp:95 kchatdialog.cpp:117
+#, kde-format
+msgctxt "@action:button"
+msgid "Text Font…"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kchatdialog.cpp:104
+#, fuzzy, kde-format
+#| msgid "Player 1"
+msgid "Player: "
+msgstr "プレイヤー 1"
+
+#. +> trunk6 stable6
+#: kchatdialog.cpp:106
+#, kde-format
+msgid "This is a player message"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kchatdialog.cpp:112
+#, kde-format
+msgid "System Messages - Messages directly sent from the game"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kchatdialog.cpp:126
+#, kde-format
+msgid "--- Game: "
+msgstr ""
+
+#. +> trunk6 stable6
+#: kchatdialog.cpp:128
+#, kde-format
+msgid "This is a system message"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kchatdialog.cpp:132
+#, kde-format
+msgid "Maximum number of messages (-1 = unlimited):"
+msgstr ""
+
+#. i18n: ectx: Menu (game)
+#. +> trunk6 stable6
+#: kfourinlineui.rc:10
+#, kde-format
+msgid "&Game"
+msgstr "ゲーム(&G)"
+
+#. i18n: ectx: Menu (settings)
+#. +> trunk6 stable6
+#: kfourinlineui.rc:18
+#, kde-format
+msgid "&Settings"
+msgstr "設定(&S)"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#. +> trunk6 stable6
+#: kfourinlineui.rc:24
+#, kde-format
+msgid "Main Toolbar"
+msgstr "メインツールバー"
+
+#. +> trunk6 stable6
+#: kgameconnectdialog.cpp:63
+#, fuzzy, kde-format
+#| msgid "The network game ended!\n"
+msgctxt "@option:radio"
+msgid "Create a network game"
+msgstr "ネットワークゲームは終了しました!\n"
+
+#. +> trunk6 stable6
+#: kgameconnectdialog.cpp:66
+#, fuzzy, kde-format
+#| msgid "The network game ended!\n"
+msgctxt "@option:radio"
+msgid "Join a network game"
+msgstr "ネットワークゲームは終了しました!\n"
+
+#. +> trunk6 stable6
+#: kgameconnectdialog.cpp:72
+#, fuzzy, kde-format
+#| msgid "Game name"
+msgctxt "@label:textbox"
+msgid "Game name:"
+msgstr "ゲーム名"
+
+#. +> trunk6 stable6
+#: kgameconnectdialog.cpp:74
+#, fuzzy, kde-format
+#| msgid "Network Chat..."
+msgctxt "@label:textbox"
+msgid "Network games:"
+msgstr "ネットワークチャット..."
+
+#. +> trunk6 stable6
+#: kgameconnectdialog.cpp:84
+#, kde-format
+msgctxt "@label:spinbox"
+msgid "Port to connect to:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kgameconnectdialog.cpp:90
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Host to connect to:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kgameconnectdialog.cpp:95
+#, fuzzy, kde-format
+#| msgid "Network Chat..."
+msgctxt "@action:button"
+msgid "&Start Network"
+msgstr "ネットワークチャット..."
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:118
+#, kde-format
+msgctxt "@title:window"
+msgid "KGame Debug Dialog"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:140
+#, fuzzy, kde-format
+#| msgid "Debug KGame"
+msgid "Debug &KGame"
+msgstr "KGame をデバッグ"
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:162 kgamedebugdialog.cpp:215
+#, kde-format
+msgid "Update"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:167
+#, fuzzy, kde-format
+#| msgid "Game name"
+msgid "KGame Pointer"
+msgstr "ゲーム名"
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:168
+#, fuzzy, kde-format
+#| msgid "&Game"
+msgid "Game ID"
+msgstr "ゲーム(&G)"
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:169
+#, fuzzy, kde-format
+#| msgid "Game name"
+msgid "Game Cookie"
+msgstr "ゲーム名"
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:170
+#, kde-format
+msgid "Is Master"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:171
+#, kde-format
+msgid "Is Admin"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:172
+#, kde-format
+msgid "Is Offering Connections"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:173
+#, fuzzy, kde-format
+#| msgid "Game name"
+msgid "Game Status"
+msgstr "ゲーム名"
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:174
+#, fuzzy, kde-format
+#| msgid "Game running..."
+msgid "Game is Running"
+msgstr "ゲーム続行中..."
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:175
+#, kde-format
+msgid "Maximal Players"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:176
+#, kde-format
+msgid "Minimal Players"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:177
+#, fuzzy, kde-format
+#| msgid "Player 1"
+msgid "Players"
+msgstr "プレイヤー 1"
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:183
+#, fuzzy, kde-format
+#| msgid "Debug KGame"
+msgid "Debug &Players"
+msgstr "KGame をデバッグ"
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:193
+#, kde-format
+msgid "Available Players"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:219
+#, fuzzy, kde-format
+#| msgid "Player 1 name"
+msgid "Player Pointer"
+msgstr "プレイヤー名 1"
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:220
+#, fuzzy, kde-format
+#| msgid "Player 1"
+msgid "Player ID"
+msgstr "プレイヤー 1"
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:221
+#, fuzzy, kde-format
+#| msgid "Player Names"
+msgid "Player Name"
+msgstr "プレイヤー名"
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:222
+#, fuzzy, kde-format
+#| msgid "Player 1"
+msgid "Player Group"
+msgstr "プレイヤー 1"
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:223
+#, fuzzy, kde-format
+#| msgid "Player 1"
+msgid "Player User ID"
+msgstr "プレイヤー 1"
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:224
+#, kde-format
+msgid "My Turn"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:225
+#, kde-format
+msgid "Async Input"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:226
+#, kde-format
+msgid "KGame Address"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:227
+#, fuzzy, kde-format
+#| msgid "Player 1 name"
+msgid "Player is Virtual"
+msgstr "プレイヤー名 1"
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:228
+#, fuzzy, kde-format
+#| msgid "Player 1 name"
+msgid "Player is Active"
+msgstr "プレイヤー名 1"
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:229
+#, kde-format
+msgid "RTTI"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:230
+#, fuzzy, kde-format
+#| msgid "Network connection port"
+msgid "Network Priority"
+msgstr "ネットワーク接続ポート"
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:236
+#, fuzzy, kde-format
+#| msgid "Debug KGame"
+msgid "Debug &Messages"
+msgstr "KGame をデバッグ"
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:251
+#, kde-format
+msgid "&>>"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:255
+#, kde-format
+msgid "&<<"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:259
+#, kde-format
+msgid "Do not show IDs:"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:328
+#, kde-format
+msgid "NULL pointer"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:338 kgamedebugdialog.cpp:339 kgamedebugdialog.cpp:340
+#: kgamedebugdialog.cpp:342 kgamedebugdialog.cpp:395 kgamedebugdialog.cpp:396
+#: kgamedebugdialog.cpp:399 kgamedebugdialog.cpp:400
+#, kde-format
+msgid "True"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:338 kgamedebugdialog.cpp:339 kgamedebugdialog.cpp:340
+#: kgamedebugdialog.cpp:342 kgamedebugdialog.cpp:395 kgamedebugdialog.cpp:396
+#: kgamedebugdialog.cpp:399 kgamedebugdialog.cpp:400
+#, kde-format
+msgid "False"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:354 kgamedebugdialog.cpp:412
+#, kde-format
+msgid "Clean"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:357 kgamedebugdialog.cpp:415
+#, kde-format
+msgid "Dirty"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:360 kgamedebugdialog.cpp:418
+#, kde-format
+msgid "Local"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:364 kgamedebugdialog.cpp:422
+#, kde-format
+msgid "Undefined"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kgamedebugdialog.cpp:507
+#, kde-format
+msgid "Unknown"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kgamedialog.cpp:92
+#, fuzzy, kde-format
+#| msgid "Network Chat..."
+msgctxt "@title:tab"
+msgid "&Network"
+msgstr "ネットワークチャット..."
+
+#. +> trunk6 stable6
+#: kgamedialogconfig.cpp:124
+#, kde-format
+msgctxt "@action:button"
+msgid "Disconnect"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kgamedialogconfig.cpp:128
+#, fuzzy, kde-format
+#| msgid "Network Configuration"
+msgctxt "@title:group"
+msgid "Network Configuration"
+msgstr "ネットワーク設定"
+
+#. +> trunk6 stable6
+#: kgamedialogconfig.cpp:187
+#, kde-format
+msgid "Cannot connect to the network"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kgamedialogconfig.cpp:193
+#, kde-format
+msgid "Network status: No Network"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kgamedialogconfig.cpp:199
+#, kde-format
+msgid "Network status: You are MASTER"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kgamedialogconfig.cpp:201
+#, kde-format
+msgid "Network status: You are connected"
+msgstr ""
+
+#. +> trunk6 stable6
+#: kwin4.cpp:75
+#, kde-format
+msgid "Installation error: No theme list found."
+msgstr "インストールエラー: テーマリストが見つかりません。"
+
+#. +> trunk6 stable6
+#: kwin4.cpp:102
+#, kde-format
+msgid "Installation error: No AI engine found. Continue without AI."
+msgstr "インストールエラー: AI エンジンが見つかりません。AI なしで続行します。"
+
+#. +> trunk6 stable6
+#: kwin4.cpp:117
+#, kde-format
+msgid "Installation error: Theme file error."
+msgstr "インストールエラー: テーマファイルのエラー。"
+
+#. +> trunk6 stable6
+#: kwin4.cpp:267
+#, kde-format
+msgid "Ends a currently played game. No winner will be declared."
+msgstr "プレイ中のゲームを終了します。勝者なしになります。"
+
+#. +> trunk6 stable6
+#: kwin4.cpp:272
+#, fuzzy, kde-format
+#| msgid "Configure..."
+msgctxt "@action"
+msgid "Configure Network…"
+msgstr "設定..."
+
+#. +> trunk6 stable6
+#: kwin4.cpp:276
+#, fuzzy, kde-format
+#| msgid "Network Chat..."
+msgctxt "@action"
+msgid "Network Chat"
+msgstr "ネットワークチャット..."
+
+#. +> trunk6 stable6
+#: kwin4.cpp:281
+#, fuzzy, kde-format
+#| msgid "&Show Statistics"
+msgctxt "@action"
+msgid "Show Statistics"
+msgstr "統計を表示(&S)"
+
+#. +> trunk6 stable6
+#: kwin4.cpp:283
+#, fuzzy, kde-format
+#| msgid "Show statistics."
+msgctxt "@info:tooltip"
+msgid "Show statistics"
+msgstr "統計を表示します。"
+
+#. +> trunk6 stable6
+#: kwin4.cpp:295
+#, fuzzy, kde-format
+#| msgid "Theme"
+msgctxt "@title:menu"
+msgid "Theme"
+msgstr "テーマ"
+
+#. +> trunk6 stable6
+#: kwin4.cpp:306
+#, kde-format
+msgid "Debug KGame"
+msgstr "KGame をデバッグ"
+
+#. +> trunk6 stable6
+#: kwin4.cpp:329
+#, kde-format
+msgid "Welcome to Four Wins"
+msgstr "KWin4 へようこそ"
+
+#. +> trunk6 stable6
+#: kwin4.cpp:485 kwin4.cpp:638
+#, fuzzy, kde-format
+#| msgid "Game running..."
+msgctxt "@info"
+msgid "Game running…"
+msgstr "ゲーム続行中..."
+
+#. +> trunk6 stable6
+#: kwin4.cpp:599
+#, kde-format
+msgid "No game  "
+msgstr "ゲームなし"
+
+#. +> trunk6 stable6
+#: kwin4.cpp:601 kwin4.cpp:603
+#, fuzzy, kde-format
+#| msgid " %1 - Red "
+msgid " %1 - %2 "
+msgstr " %1 - 赤 "
+
+#. +> trunk6 stable6
+#: kwin4.cpp:605
+#, kde-format
+msgid "Nobody  "
+msgstr "Nobody  "
+
+#. +> trunk6 stable6
+#: kwin4.cpp:627
+#, kde-format
+msgid "The network game ended!\n"
+msgstr "ネットワークゲームは終了しました!\n"
+
+#. +> trunk6 stable6
+#: kwin4.cpp:648
+#, kde-format
+msgid "The game is drawn. Please restart next round."
+msgstr "引き分けです。次のラウンドを開始してください。"
+
+#. +> trunk6 stable6
+#: kwin4.cpp:655
+#, kde-format
+msgid "%1 won the game. Please restart next round."
+msgstr "%1 の勝ちです。次のラウンドを開始してください。"
+
+#. +> trunk6 stable6
+#: kwin4.cpp:660
+#, kde-format
+msgid " Game ended. Please restart next round."
+msgstr " ゲームは終了されました。次のラウンドを開始してください。"
+
+#. +> trunk6 stable6
+#: kwin4.cpp:679
+#, fuzzy, kde-format
+#| msgid "Network Configuration"
+msgctxt "@title:window"
+msgid "Network Configuration"
+msgstr "ネットワーク設定"
+
+#. +> trunk6 stable6
+#: kwin4.cpp:690
+#, fuzzy, kde-format
+#| msgid "Black should be played by remote player"
+msgctxt "@option:radio"
+msgid "Black should be played by remote player"
+msgstr "黒はリモートプレイヤー"
+
+#. +> trunk6 stable6
+#: kwin4.cpp:691
+#, fuzzy, kde-format
+#| msgid "Red should be played by remote player"
+msgctxt "@option:radio"
+msgid "Red should be played by remote player"
+msgstr "赤はリモートプレイヤー"
+
+#. +> trunk6 stable6
+#: kwin4.cpp:788
+#, fuzzy, kde-format
+#| msgid "General"
+msgctxt "@title:tab"
+msgid "General"
+msgstr "全般"
+
+#. i18n: ectx: label, entry (port), group (Parameter)
+#. +> trunk6 stable6
+#: kwin4.kcfg:10
+#, kde-format
+msgid "Network connection port"
+msgstr "ネットワーク接続ポート"
+
+#. i18n: ectx: label, entry (gamename), group (Parameter)
+#. +> trunk6 stable6
+#: kwin4.kcfg:14
+#, kde-format
+msgid "Game name"
+msgstr "ゲーム名"
+
+#. i18n: ectx: label, entry (host), group (Parameter)
+#. +> trunk6 stable6
+#: kwin4.kcfg:17
+#, kde-format
+msgid "Network connection host"
+msgstr "ネットワーク接続ホスト"
+
+#. i18n: ectx: property (whatsThis), widget (QSlider, kcfg_level)
+#. i18n: ectx: label, entry (level), group (Parameter)
+#. +> trunk6 stable6
+#: kwin4.kcfg:21 settings.ui:26
+#, kde-format
+msgid "Change the strength of the computer player."
+msgstr "コンピュータプレイヤーの強さを変更"
+
+#. i18n: ectx: label, entry (Name1), group (Parameter)
+#. +> trunk6 stable6
+#: kwin4.kcfg:28
+#, kde-format
+msgid "Player 1 name"
+msgstr "プレイヤー名 1"
+
+#. i18n: ectx: label, entry (Name2), group (Parameter)
+#. +> trunk6 stable6
+#: kwin4.kcfg:35
+#, kde-format
+msgid "Player 2 name"
+msgstr "プレイヤー名 2"
+
+#. +> trunk6 stable6
+#: main.cpp:73
+#, kde-format
+msgid "KFourInLine"
+msgstr "KFourInLine"
+
+#. +> trunk6 stable6
+#: main.cpp:75
+#, kde-format
+msgid "KFourInLine: Two player board game"
+msgstr "KFourInLine: 2 プレイヤーのボードゲーム"
+
+#. +> trunk6 stable6
+#: main.cpp:77
+#, kde-format
+msgid "(c) 1995-2007, Martin Heni"
+msgstr "(c) 1995-2007, Martin Heni"
+
+#. +> trunk6 stable6
+#: main.cpp:78
+#, kde-format
+msgid "Martin Heni"
+msgstr "Martin Heni"
+
+#. +> trunk6 stable6
+#: main.cpp:78
+#, kde-format
+msgid "Game design and code"
+msgstr "ゲームのデザインとコード"
+
+#. +> trunk6 stable6
+#: main.cpp:79
+#, kde-format
+msgid "Johann Ollivier Lapeyre"
+msgstr "Johann Ollivier Lapeyre"
+
+#. +> trunk6 stable6
+#: main.cpp:79 main.cpp:80
+#, kde-format
+msgid "Graphics"
+msgstr "グラフィック"
+
+#. +> trunk6 stable6
+#: main.cpp:80
+#, kde-format
+msgid "Eugene Trounev"
+msgstr "Eugene Trounev"
+
+#. +> trunk6 stable6
+#: main.cpp:81
+#, kde-format
+msgid "Benjamin Meyer"
+msgstr "Benjamin Meyer"
+
+#. +> trunk6 stable6
+#: main.cpp:81
+#, kde-format
+msgid "Code Improvements"
+msgstr "コードの改良"
+
+#. +> trunk6 stable6
+#: main.cpp:89
+#, kde-format
+msgid "Enter debug level"
+msgstr "デバッグレベルを指定"
+
+#. +> trunk6 stable6
+#: main.cpp:90
+#, kde-format
+msgid "Skip intro animation"
+msgstr "起動時のアニメーションを省略"
+
+#. +> trunk6 stable6
+#: main.cpp:91
+#, kde-format
+msgid "Run game in demo (autoplay) mode"
+msgstr "ゲームをデモ (自動プレイ) モードで実行"
+
+#. +> trunk6 stable6
+#: scoresprite.cpp:158
+#, kde-format
+msgctxt "computer level"
+msgid "Level %1"
+msgstr "レベル %1"
+
+#. i18n: ectx: property (title), widget (QGroupBox, Difficulty)
+#. +> trunk6 stable6
+#: settings.ui:20
+#, kde-format
+msgid "Computer Difficulty"
+msgstr "コンピュータのスキル"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#. +> trunk6 stable6
+#: settings.ui:53
+#, kde-format
+msgid "Easy"
+msgstr "初級"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#. +> trunk6 stable6
+#: settings.ui:60
+#, kde-format
+msgid "Hard"
+msgstr "上級"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_learning)
+#. +> trunk6 stable6
+#: settings.ui:72
+#, kde-format
+msgid "Use AI learning"
+msgstr "AI は学習する"
+
+#. i18n: ectx: property (title), widget (QGroupBox, Player1)
+#. +> trunk6 stable6
+#: settings.ui:95
+#, kde-format
+msgid "Red"
+msgstr "赤"
+
+#. i18n: ectx: property (text), widget (QLabel, nameLabel1)
+#. i18n: ectx: property (text), widget (QLabel, nameLabel2)
+#. +> trunk6 stable6
+#: settings.ui:103 settings.ui:217
+#, fuzzy, kde-format
+#| msgid "Name"
+msgid "Name:"
+msgstr "名前"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_startcolourred)
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_startcolouryellow)
+#. +> trunk6 stable6
+#: settings.ui:113 settings.ui:227
+#, fuzzy, kde-format
+#| msgid "Starting Player Color"
+msgid "Starting Player"
+msgstr "先手プレイヤーの色"
+
+#. i18n: ectx: property (text), widget (QLabel, playerLabel1)
+#. i18n: ectx: property (text), widget (QLabel, playerLabel2)
+#. +> trunk6 stable6
+#: settings.ui:146 settings.ui:257
+#, fuzzy, kde-format
+#| msgid "Player 1"
+msgid "Player:"
+msgstr "プレイヤー 1"
+
+#. i18n: ectx: property (text), widget (QRadioButton, kcfg_input0mouse)
+#. i18n: ectx: property (text), widget (QRadioButton, kcfg_input1mouse)
+#. +> trunk6 stable6
+#: settings.ui:153 settings.ui:264
+#, kde-format
+msgid "Human with Mouse"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, kcfg_input0key)
+#. i18n: ectx: property (text), widget (QRadioButton, kcfg_input1key)
+#. +> trunk6 stable6
+#: settings.ui:166 settings.ui:274
+#, kde-format
+msgid "Human with Keyboard"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, kcfg_input0ai)
+#. i18n: ectx: property (text), widget (QRadioButton, kcfg_input1ai)
+#. +> trunk6 stable6
+#: settings.ui:176 settings.ui:281
+#, kde-format
+msgid "Computer"
+msgstr "コンピュータ"
+
+#. i18n: ectx: property (title), widget (QGroupBox, Player2)
+#. +> trunk6 stable6
+#: settings.ui:209
+#, kde-format
+msgid "Black"
+msgstr "黒"
+
+#. i18n: ectx: property (windowTitle), widget (QDialog, Statistics)
+#. +> trunk6 stable6
+#: statistics.ui:13
+#, kde-format
+msgid "Statistics"
+msgstr "統計"
+
+#. i18n: ectx: property (text), widget (QLabel, p1_name)
+#. +> trunk6 stable6
+#: statistics.ui:51 statuswidget.ui:107
+#, kde-format
+msgid "Player 1"
+msgstr "プレイヤー 1"
+
+#. i18n: ectx: property (text), widget (QLabel, Name)
+#. +> trunk6 stable6
+#: statistics.ui:58
+#, kde-format
+msgid "Name"
+msgstr "名前"
+
+#. i18n: ectx: property (text), widget (QLabel, won)
+#. +> trunk6 stable6
+#: statistics.ui:68
+#, kde-format
+msgid "Won"
+msgstr "勝ち"
+
+#. i18n: ectx: property (text), widget (QLabel, lost)
+#. +> trunk6 stable6
+#: statistics.ui:81
+#, kde-format
+msgid "Lost"
+msgstr "負け"
+
+#. i18n: ectx: property (text), widget (QLabel, sum)
+#. +> trunk6 stable6
+#: statistics.ui:97
+#, kde-format
+msgid "Sum"
+msgstr "合計"
+
+#. i18n: ectx: property (text), widget (QLabel, aborted)
+#. +> trunk6 stable6
+#: statistics.ui:107
+#, kde-format
+msgid "Aborted"
+msgstr "中止"
+
+#. i18n: ectx: property (text), widget (QPushButton, pushButton1)
+#. +> trunk6 stable6
+#: statistics.ui:122
+#, kde-format
+msgid "Clear All Statistics"
+msgstr "すべての統計をクリア"
+
+#. i18n: ectx: property (text), widget (QPushButton, pushButton2)
+#. +> trunk6 stable6
+#: statistics.ui:145
+#, kde-format
+msgid "&Close"
+msgstr "閉じる(&C)"
+
+#. i18n: ectx: property (text), widget (QLabel, p2_name)
+#. +> trunk6 stable6
+#: statistics.ui:157 statuswidget.ui:214
+#, kde-format
+msgid "Player 2"
+msgstr "プレイヤー 2"
+
+#. i18n: ectx: property (text), widget (QLabel, drawn)
+#. +> trunk6 stable6
+#: statistics.ui:167
+#, kde-format
+msgid "Drawn"
+msgstr "引き分け"
+
+#. i18n: ectx: property (text), widget (QLabel, wins)
+#. +> trunk6 stable6
+#: statuswidget.ui:57
+#, kde-format
+msgid "W"
+msgstr "勝"
+
+#. i18n: ectx: property (text), widget (QLabel, draws)
+#. +> trunk6 stable6
+#: statuswidget.ui:67
+#, kde-format
+msgid "D"
+msgstr "引"
+
+#. i18n: ectx: property (text), widget (QLabel, loses)
+#. +> trunk6 stable6
+#: statuswidget.ui:77
+#, kde-format
+msgid "L"
+msgstr "負"
+
+#. i18n: ectx: property (text), widget (QLabel, num)
+#. +> trunk6 stable6
+#: statuswidget.ui:87
+#, kde-format
+msgid "No"
+msgstr "計"
+
+#. i18n: ectx: property (text), widget (QLabel, bk)
+#. +> trunk6 stable6
+#: statuswidget.ui:97
+#, kde-format
+msgid "Bk"
+msgstr "中止"
+
+#, kde-format
+#~ msgid "Chat"
+#~ msgstr "チャット"
+
+#, kde-format
+#~ msgid "Configure..."
+#~ msgstr "設定..."
+
+#, kde-format
+#~ msgctxt "Name of quicklaunch field"
+#~ msgid "Quick Launch"
+#~ msgstr "クイックスタート"
+
+#, kde-format
+#~ msgctxt "Ask player who should start game"
+#~ msgid "Who starts?"
+#~ msgstr "先手プレイヤーは？"
+
+#, kde-format
+#~ msgctxt "Ask player which color he wants to play"
+#~ msgid "Your color?"
+#~ msgstr "あなたの色は？"
+
+#, kde-format
+#~ msgctxt "quick start button - player versus AI level easy"
+#~ msgid "Easy Game"
+#~ msgstr "初級ゲーム"
+
+#, kde-format
+#~ msgctxt "quick start button - player versus AI level normal"
+#~ msgid "Normal Game"
+#~ msgstr "中級ゲーム"
+
+#, kde-format
+#~ msgctxt "quick start button - player versus AI level hard"
+#~ msgid "Hard Game"
+#~ msgstr "上級ゲーム"
+
+#, kde-format
+#~ msgctxt "quick start button - player versus player"
+#~ msgid "Two Player Game"
+#~ msgstr "2 人でプレイ"
+
+#, fuzzy, kde-format
+#~| msgid "The network game ended!\n"
+#~ msgid "Create a network game"
+#~ msgstr "ネットワークゲームは終了しました!\n"
+
+#, fuzzy, kde-format
+#~| msgid "The network game ended!\n"
+#~ msgid "Join a network game"
+#~ msgstr "ネットワークゲームは終了しました!\n"
+
+#, fuzzy, kde-format
+#~| msgid "Game name"
+#~ msgid "Game name:"
+#~ msgstr "ゲーム名"
+
+#, fuzzy, kde-format
+#~| msgid "Network Chat..."
+#~ msgid "Network games:"
+#~ msgstr "ネットワークチャット..."
+
+#, fuzzy, kde-format
+#~| msgid "Network Chat..."
+#~ msgid "&Network"
+#~ msgstr "ネットワークチャット..."
+
+#, kde-format
+#~ msgid "Network Configuration"
+#~ msgstr "ネットワーク設定"
+
+#, kde-format
+#~ msgid "Network Chat..."
+#~ msgstr "ネットワークチャット..."
+
+#, kde-format
+#~ msgid "&Show Statistics"
+#~ msgstr "統計を表示(&S)"
+
+#, kde-format
+#~ msgid "Show statistics."
+#~ msgstr "統計を表示します。"
+
+#, kde-format
+#~ msgid "Theme"
+#~ msgstr "テーマ"
+
+#, kde-format
+#~ msgid "Game running..."
+#~ msgstr "ゲーム続行中..."
+
+#, kde-format
+#~ msgid "&Network Configuration..."
+#~ msgstr "ネットワーク設定(&N)..."
+
+#, kde-format
+#~ msgid "Black should be played by remote player"
+#~ msgstr "黒はリモートプレイヤー"
+
+#, kde-format
+#~ msgid "Red should be played by remote player"
+#~ msgstr "赤はリモートプレイヤー"
+
+#, kde-format
+#~ msgid "General"
+#~ msgstr "全般"
+
+#, fuzzy, kde-format
+#~| msgid "Red Plays With"
+#~ msgid "%1 Plays With"
+#~ msgstr "赤プレイヤー"
+
+#, kde-format
+#~ msgid "Red Plays With"
+#~ msgstr "赤プレイヤー"
+
+#, kde-format
+#~ msgid "Mouse"
+#~ msgstr "マウス"
+
+#, kde-format
+#~ msgid "Black Plays With"
+#~ msgstr "黒プレイヤー"
+
+#, kde-format
+#~ msgid "Starting Player Color"
+#~ msgstr "先手プレイヤーの色"
+
+#, kde-format
+#~ msgid "Player Names"
+#~ msgstr "プレイヤー名"
+
+#, kde-format
+#~ msgid "Player 1:"
+#~ msgstr "プレイヤー 1:"
+
+#, kde-format
+#~ msgid "Player 2:"
+#~ msgstr "プレイヤー 2:"
+
+#, kde-format
+#~ msgid "Keyboard"
+#~ msgstr "キーボード"
+
+#~ msgid "Chat Dlg"
+#~ msgstr "チャットダイアログ"
+
+#~ msgid "Ready"
+#~ msgstr "準備完了"
+
+#~ msgid "This leaves space for the mover"
+#~ msgstr "これはプレイヤーにスペースを残します"
+
+#~ msgid " %1 - Yellow "
+#~ msgstr " %1 - 黄 "
+
+#~ msgid " %1 - Red "
+#~ msgstr " %1 - 赤 "
+
+#~ msgid "Aborts a currently played game. No winner will be declared."
+#~ msgstr "現在のゲームを中止します。勝者なしになります。"
+
+#~ msgid " Game aborted. Please restart next round."
+#~ msgstr " ゲームは中止されました。次のラウンドを開始してください。"

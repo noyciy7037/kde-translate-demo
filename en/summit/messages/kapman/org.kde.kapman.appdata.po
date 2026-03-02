@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kapman.appdata\n"
+"POT-Creation-Date: 2024-04-04 10:36+0200\n"
+"PO-Revision-Date: 2014-11-08 17:44-0800\n"
+"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. (itstool) path: component/name
+#. +> trunk6 stable6
+#: org.kde.kapman.appdata.xml:9
+msgid "Kapman"
+msgstr ""
+
+#. (itstool) path: component/summary
+#. +> trunk6 stable6
+#: org.kde.kapman.appdata.xml:10
+msgid "Pac-Man Clone"
+msgstr ""
+
+#. (itstool) path: description/p
+#. +> trunk6 stable6
+#: org.kde.kapman.appdata.xml:12
+msgid "Kapman is a clone of the well known game Pac-Man."
+msgstr ""
+
+#. (itstool) path: description/p
+#. +> trunk6 stable6
+#: org.kde.kapman.appdata.xml:15
+msgid ""
+"You must run through the maze to eat all pills without being captured by a "
+"ghost. By eating an energizer, Kapman gets the ability to eat ghosts for a "
+"few seconds. When a stage is cleared of pills and energizer the player is "
+"taken to the next stage with slightly increased game speed."
+msgstr ""

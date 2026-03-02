@@ -1,0 +1,111 @@
+# Tomohiro Hyakutake <tomhioo@outlook.jp>, 2019.
+# Ryuichi Yamada <ryuichi_ya220@outlook.jp>, 2023.
+# SPDX-FileCopyrightText: 2025 Yuma Kakei <yumasansansan@gmail.com>
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-09-20 11:48+0200\n"
+"PO-Revision-Date: 2025-09-21 13:09+0900\n"
+"Last-Translator: Yuma Kakei <yumasansansan@gmail.com>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: \n"
+"X-Text-Markup: \n"
+"X-Generator: Lokalize 25.08.1\n"
+
+#. +> trunk6 stable6
+#: kcm/kcm_updates.json
+msgctxt "X-KDE-Keywords"
+msgid "updates,offline,automatic"
+msgstr "更新,オフライン,自動"
+
+#. +> stable5
+#: kcm/kcm_updates.json
+msgctxt "X-KDE-Keywords"
+msgid "updates"
+msgstr "更新"
+
+#. +> trunk6 stable6 stable5
+#: kcm/kcm_updates.json
+msgctxt "Name"
+msgid "Software Update"
+msgstr "ソフトウェア更新"
+
+#. +> trunk6 stable6 stable5
+#: kcm/kcm_updates.json
+msgctxt "Description"
+msgid "Configure software update behavior"
+msgstr "ソフトウェア更新の挙動を設定します"
+
+#~ msgctxt "Name"
+#~ msgid "Discover"
+#~ msgstr "Discover"
+
+#~ msgctxt "GenericName"
+#~ msgid "Software Center"
+#~ msgstr "ソフトウェアセンター"
+
+#, fuzzy
+#~ msgctxt "Keywords"
+#~ msgid ""
+#~ "program;software;repository;package;add;install;uninstall;remove;update;apps;applications;games;flatpak;snap;addons;add-"
+#~ "ons;firmware;"
+#~ msgstr "キーワード"
+
+#, fuzzy
+#~ msgctxt "Keywords"
+#~ msgid "program;software;repository;package;install;remove;update;apps;applications;"
+#~ msgstr "キーワード"
+
+#~ msgctxt "Name"
+#~ msgid "Updates"
+#~ msgstr "更新"
+
+#~ msgctxt "Name"
+#~ msgid "Snap login action"
+#~ msgstr "スナップログインアクション"
+
+#~ msgctxt "Description"
+#~ msgid "Allows snap front-ends to log in"
+#~ msgstr "スナップフロントエンドがログインできることを許可します"
+
+#~ msgctxt "Comment"
+#~ msgid "Discover"
+#~ msgstr "Discover"
+
+#~ msgctxt "Name"
+#~ msgid "Updates Are Available"
+#~ msgstr "更新が利用可能です"
+
+#~ msgctxt "Comment"
+#~ msgid "Updates Available"
+#~ msgstr "更新が利用可能"
+
+#~ msgctxt "Name"
+#~ msgid "Successful Offline Update"
+#~ msgstr "オフラインの更新に成功しました"
+
+#~ msgctxt "Comment"
+#~ msgid "System updated successfully"
+#~ msgstr "システムが正常に更新されました"
+
+#~ msgctxt "Name"
+#~ msgid "Failed Offline Update"
+#~ msgstr "オフラインの更新に失敗しました"
+
+#~ msgctxt "Comment"
+#~ msgid "System update failed"
+#~ msgstr "システムの更新に失敗しました"
+
+#~ msgctxt "Name"
+#~ msgid "Repair Failed"
+#~ msgstr "修復に失敗しました"
+
+#~ msgctxt "Comment"
+#~ msgid "Repair failure after offline update"
+#~ msgstr "オフラインの更新後の修復に失敗しました"

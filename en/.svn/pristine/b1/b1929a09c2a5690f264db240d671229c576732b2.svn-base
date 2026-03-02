@@ -1,0 +1,328 @@
+# Translation of kblocks into Japanese.
+# This file is distributed under the same license as the kdegames package.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2008, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kblocks\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-11-22 11:22+0100\n"
+"PO-Revision-Date: 2010-06-30 23:02-0700\n"
+"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Yukiko Bando"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "ybando@k6.dion.ne.jp"
+
+#. i18n: ectx: label, entry (Theme), group (General)
+#. +> trunk6 stable6
+#: config/kblocks.kcfg:9
+#, kde-format
+msgid "The graphical theme to be used."
+msgstr "使用するグラフィックテーマ"
+
+#. i18n: ectx: label, entry (Sounds), group (Preferences)
+#. +> trunk6 stable6
+#: config/kblocks.kcfg:14
+#, kde-format
+msgid "Whether sound effects should be played."
+msgstr "効果音を鳴らすかどうか"
+
+#. +> trunk6 stable6
+#: KBlocksDisplay.cpp:58
+#, kde-format
+msgid "Score List : 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0"
+msgstr ""
+
+#. +> trunk6 stable6
+#: KBlocksDisplay.cpp:120
+#, kde-format
+msgid "Score List : %1 - %2 - %3 - %4 - %5 - %6 - %7 - %8"
+msgstr ""
+
+#. +> trunk6 stable6
+#: KBlocksKeyboardPlayer.cpp:76
+#, fuzzy, kde-format
+#| msgid "Rotate Piece Clockwise"
+msgctxt "@action"
+msgid "Rotate Piece Clockwise"
+msgstr "ピースを時計回りに回転"
+
+#. +> trunk6 stable6
+#: KBlocksKeyboardPlayer.cpp:82
+#, fuzzy, kde-format
+#| msgid "Rotate Piece Counter Clockwise"
+msgctxt "@action"
+msgid "Rotate Piece Counterclockwise"
+msgstr "ピースを反時計回りに回転"
+
+#. +> trunk6 stable6
+#: KBlocksKeyboardPlayer.cpp:88
+#, fuzzy, kde-format
+#| msgid "Move Piece Left"
+msgctxt "@action"
+msgid "Move Piece Left"
+msgstr "ピースを左に移動"
+
+#. +> trunk6 stable6
+#: KBlocksKeyboardPlayer.cpp:94
+#, fuzzy, kde-format
+#| msgid "Move Piece Right"
+msgctxt "@action"
+msgid "Move Piece Right"
+msgstr "ピースを右に移動"
+
+#. +> trunk6 stable6
+#: KBlocksKeyboardPlayer.cpp:100
+#, fuzzy, kde-format
+#| msgid "Move Piece Down"
+msgctxt "@action"
+msgid "Move Piece Down"
+msgstr "ピースを下に移動"
+
+#. +> trunk6 stable6
+#: KBlocksKeyboardPlayer.cpp:106
+#, fuzzy, kde-format
+#| msgid "Drop the Piece"
+msgctxt "@action"
+msgid "Drop the Piece"
+msgstr "ピースを落とす"
+
+#. +> trunk6 stable6
+#: KBlocksScene.cpp:216
+#, kde-format
+msgid "Game Resumed!"
+msgstr "再開!"
+
+#. +> trunk6 stable6
+#: KBlocksScene.cpp:217
+#, kde-format
+msgid "Game Paused!"
+msgstr "一時停止中!"
+
+#. +> trunk6 stable6
+#: KBlocksScene.cpp:271
+#, kde-format
+msgid "Game Start!"
+msgstr "ゲーム開始!"
+
+#. +> trunk6 stable6
+#: KBlocksScene.cpp:277
+#, kde-format
+msgid "Game Over!"
+msgstr "ゲームオーバー!"
+
+#. +> trunk6 stable6
+#: KBlocksScene.cpp:283
+#, kde-format
+msgid "You Win!"
+msgstr ""
+
+#. +> trunk6 stable6
+#: KBlocksScene.cpp:289
+#, kde-format
+msgid "You Lose!"
+msgstr ""
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#. +> trunk6 stable6
+#: kblocksui.rc:24
+#, kde-format
+msgid "Main Toolbar"
+msgstr "メインツールバー"
+
+#. +> trunk6 stable6
+#: KBlocksWin.cpp:145 KBlocksWin.cpp:249
+#, kde-format
+msgid "Points: %1 - Lines: %2 - Level: %3"
+msgstr "ポイント: %1 - ライン: %2 - レベル: %3"
+
+#. +> trunk6 stable6
+#: KBlocksWin.cpp:290
+#, fuzzy, kde-format
+#| msgid "Resuming Game"
+msgctxt "@action"
+msgid "Single Game"
+msgstr "ゲーム再開"
+
+#. +> trunk6 stable6
+#: KBlocksWin.cpp:294
+#, kde-format
+msgctxt "@action"
+msgid "Human vs AI"
+msgstr ""
+
+#. +> trunk6 stable6
+#: KBlocksWin.cpp:313
+#, fuzzy, kde-format
+#| msgid "&Play sounds"
+msgctxt "@option:check"
+msgid "Play Sounds"
+msgstr "効果音あり(&P)"
+
+#. +> trunk6 stable6
+#: KBlocksWin.cpp:320
+#, kde-format
+msgid "Points: 0 - Lines: 0 - Level: 0"
+msgstr "ポイント: 0 - ライン: 0 - レベル: 0"
+
+#. +> trunk6 stable6
+#: main.cpp:409
+#, kde-format
+msgid "KBlocks"
+msgstr "KBlocks"
+
+#. +> trunk6 stable6
+#: main.cpp:411
+#, fuzzy, kde-format
+#| msgid "A falling blocks game for KDE"
+msgid "A falling blocks game by KDE"
+msgstr "落ちてくるブロックのゲーム"
+
+#. +> trunk6 stable6
+#: main.cpp:413
+#, kde-format
+msgid "(c) 2007, Mauricio Piacentini"
+msgstr "(c) 2007, Mauricio Piacentini"
+
+#. +> trunk6 stable6
+#: main.cpp:416
+#, kde-format
+msgid "Mauricio Piacentini"
+msgstr "Mauricio Piacentini"
+
+#. +> trunk6 stable6
+#: main.cpp:416
+#, kde-format
+msgid "Author"
+msgstr "作者"
+
+#. +> trunk6 stable6
+#: main.cpp:417
+#, kde-format
+msgid "Dirk Leifeld"
+msgstr "Dirk Leifeld"
+
+#. +> trunk6 stable6
+#: main.cpp:417
+#, kde-format
+msgid "Developer"
+msgstr "開発者"
+
+#. +> trunk6 stable6
+#: main.cpp:418
+#, kde-format
+msgid "Zhongjie Cai"
+msgstr ""
+
+#. +> trunk6 stable6
+#: main.cpp:418
+#, kde-format
+msgid "New design of KBlocks for AI and tetris research platform"
+msgstr ""
+
+#. +> trunk6 stable6
+#: main.cpp:419
+#, kde-format
+msgid "Johann Ollivier Lapeyre"
+msgstr "Johann Ollivier Lapeyre"
+
+#. +> trunk6 stable6
+#: main.cpp:419
+#, kde-format
+msgid "Oxygen art for KDE4"
+msgstr "KDE4 用の Oxygen アートワーク"
+
+#. +> trunk6 stable6
+#: main.cpp:428
+#, kde-format
+msgid ""
+"Setup kblocks game running mode.\n"
+"\t0 = Desktop Mode\t1 = Game Engine Mode\n"
+"\t2 = Gui Mode\t3 = Player Mode"
+msgstr ""
+
+#. +> trunk6 stable6
+#: main.cpp:429
+#, kde-format
+msgid ""
+"Setup the configuration file for tetris researcher mode. Not for desktop "
+"users."
+msgstr ""
+
+#, kde-format
+#~ msgid "Rotate Piece Clockwise"
+#~ msgstr "ピースを時計回りに回転"
+
+#, kde-format
+#~ msgid "Rotate Piece Counter Clockwise"
+#~ msgstr "ピースを反時計回りに回転"
+
+#, kde-format
+#~ msgid "Move Piece Left"
+#~ msgstr "ピースを左に移動"
+
+#, kde-format
+#~ msgid "Move Piece Right"
+#~ msgstr "ピースを右に移動"
+
+#, kde-format
+#~ msgid "Move Piece Down"
+#~ msgstr "ピースを下に移動"
+
+#, kde-format
+#~ msgid "Drop the Piece"
+#~ msgstr "ピースを落とす"
+
+#, fuzzy, kde-format
+#~| msgid "Resuming Game"
+#~ msgid "Single Game"
+#~ msgstr "ゲーム再開"
+
+#, fuzzy, kde-format
+#~| msgid "&Play sounds"
+#~ msgid "&Play Sounds"
+#~ msgstr "効果音あり(&P)"
+
+#, kde-format
+#~ msgid "Theme"
+#~ msgstr "テーマ"
+
+#~ msgid "&Play sounds"
+#~ msgstr "効果音あり(&P)"
+
+#~ msgid "A falling blocks game for KDE"
+#~ msgstr "落ちてくるブロックのゲーム"
+
+#, fuzzy
+#~| msgid "KBlocks"
+#~ msgid "KBlock"
+#~ msgstr "KBlocks"
+
+#~ msgid "The difficulty level."
+#~ msgstr "難易度"
+
+#~ msgid "Game Over"
+#~ msgstr "ゲームオーバー"
+
+#~ msgid "Game started"
+#~ msgstr "ゲーム開始"
+
+#~ msgid "Game Paused"
+#~ msgstr "一時停止中"

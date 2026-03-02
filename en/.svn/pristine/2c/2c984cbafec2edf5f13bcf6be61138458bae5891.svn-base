@@ -1,0 +1,828 @@
+# Taiki Komoda <kom@kde.gr.jp>, 2010.
+# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2010, 2015.
+# SPDX-FileCopyrightText: 2025 Yuma Kakei <yumasansansan@gmail.com>
+msgid ""
+msgstr ""
+"Project-Id-Version: kcm_devinfo\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-05-25 08:53+0200\n"
+"PO-Revision-Date: 2025-09-24 15:33+0900\n"
+"Last-Translator: Yuma Kakei <yumasansansan@gmail.com>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+"X-Generator: Lokalize 25.08.1\n"
+
+#. +> stable5
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Taiki Komoda,Yuma Kakei"
+
+#. +> stable5
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "kom@kde.gr.jp,yumasansansan@gmail.com"
+
+#. +> stable5
+#: devicelisting.cpp:41
+#, kde-format
+msgctxt "Device Listing Whats This"
+msgid "Shows all the devices that are currently listed."
+msgstr "現在リストされているすべてのデバイスを表示します。"
+
+#. +> stable5
+#: devicelisting.cpp:44
+#, kde-format
+msgid "Devices"
+msgstr "デバイス"
+
+#. +> stable5
+#: devicelisting.cpp:57
+#, kde-format
+msgid "Collapse All"
+msgstr "すべてたたむ"
+
+#. +> stable5
+#: devicelisting.cpp:60
+#, kde-format
+msgid "Expand All"
+msgstr "すべて展開"
+
+#. +> stable5
+#: devicelisting.cpp:63
+#, kde-format
+msgid "Show All Devices"
+msgstr "すべてのデバイスを表示"
+
+#. +> stable5
+#: devicelisting.cpp:66
+#, kde-format
+msgid "Show Relevant Devices"
+msgstr "関連するデバイスを表示"
+
+#. +> stable5
+#: devicelisting.cpp:95
+#, kde-format
+msgctxt "unknown device type"
+msgid "Unknown"
+msgstr "未知"
+
+#. +> stable5
+#: devicelisting.cpp:136 devinfo.cpp:79
+#, kde-format
+msgctxt "no device UDI"
+msgid "None"
+msgstr "なし"
+
+#. +> stable5
+#: devinfo.cpp:28
+#, kde-format
+msgid "kcmdevinfo"
+msgstr "kcmdevinfo"
+
+#. +> stable5
+#: devinfo.cpp:28
+#, kde-format
+msgid "Device Viewer"
+msgstr "デバイスビューア"
+
+#. +> stable5
+#: devinfo.cpp:28
+#, kde-format
+msgid "(c) 2010 David Hubner"
+msgstr "(c) 2010 David Hubner"
+
+#. +> stable5
+#: devinfo.cpp:58
+#, kde-format
+msgid "UDI: "
+msgstr "UDI: "
+
+#. +> stable5
+#: devinfo.cpp:66
+#, kde-format
+msgctxt "Udi Whats This"
+msgid "Shows the current device's UDI (Unique Device Identifier)"
+msgstr "現在のデバイスの UDI (Unique Device Identifier) を表示"
+
+#. +> stable5
+#: infopanel.cpp:20
+#, kde-format
+msgid "Device Information"
+msgstr "デバイス情報"
+
+#. +> stable5
+#: infopanel.cpp:29
+#, kde-format
+msgctxt "Info Panel Whats This"
+msgid "Shows information about the currently selected device."
+msgstr "現在選択されているデバイスの情報を表示します。"
+
+#. +> stable5
+#: infopanel.cpp:56
+#, kde-format
+msgid ""
+"\n"
+"Solid Based Device Viewer Module"
+msgstr ""
+"\n"
+"Solid ベースのデバイスビューアモジュール"
+
+#. +> stable5
+#: infopanel.cpp:119
+#, kde-format
+msgid "Description: "
+msgstr "説明:"
+
+#. +> stable5
+#: infopanel.cpp:121
+#, kde-format
+msgid "Product: "
+msgstr "製品: "
+
+#. +> stable5
+#: infopanel.cpp:123
+#, kde-format
+msgid "Vendor: "
+msgstr "ベンダー: "
+
+#. +> stable5
+#: infopanel.cpp:145
+#, kde-format
+msgid "Yes"
+msgstr "はい"
+
+#. +> stable5
+#: infopanel.cpp:147
+#, kde-format
+msgid "No"
+msgstr "いいえ"
+
+#. +> stable5
+#: infopanel.h:36
+#, kde-format
+msgctxt "name of something is not known"
+msgid "Unknown"
+msgstr "未知"
+
+#. +> stable5
+#: soldevice.cpp:65
+#, kde-format
+msgctxt "unknown device"
+msgid "Unknown"
+msgstr "未知"
+
+#. +> stable5
+#: soldevice.cpp:91
+#, kde-format
+msgctxt "Default device tooltip"
+msgid "A Device"
+msgstr "デバイス"
+
+#. +> stable5
+#: soldevicetypes.cpp:43
+#, kde-format
+msgid "Processors"
+msgstr "プロセッサ"
+
+#. +> stable5
+#: soldevicetypes.cpp:59
+#, kde-format
+msgid "Processor %1"
+msgstr "プロセッサ %1"
+
+#. +> stable5
+#: soldevicetypes.cpp:76
+#, kde-format
+msgid "Intel MMX"
+msgstr "Intel MMX"
+
+#. +> stable5
+#: soldevicetypes.cpp:79
+#, kde-format
+msgid "Intel SSE"
+msgstr "Intel SSE"
+
+#. +> stable5
+#: soldevicetypes.cpp:82
+#, kde-format
+msgid "Intel SSE2"
+msgstr "Intel SSE2"
+
+#. +> stable5
+#: soldevicetypes.cpp:85
+#, kde-format
+msgid "Intel SSE3"
+msgstr "Intel SSE3"
+
+#. +> stable5
+#: soldevicetypes.cpp:88
+#, kde-format
+msgid "Intel SSSE3"
+msgstr "Intel SSSE3"
+
+#. +> stable5
+#: soldevicetypes.cpp:91
+#, kde-format
+msgid "Intel SSE4.1"
+msgstr "Intel SSE4.1"
+
+#. +> stable5
+#: soldevicetypes.cpp:94
+#, kde-format
+msgid "Intel SSE4.2"
+msgstr "Intel SSE4.2"
+
+#. +> stable5
+#: soldevicetypes.cpp:97
+#, kde-format
+msgid "AMD 3DNow!"
+msgstr "AMD 3DNow!"
+
+#. +> stable5
+#: soldevicetypes.cpp:100
+#, kde-format
+msgid "ATI IVEC"
+msgstr "ATI IVEC"
+
+#. +> stable5
+#: soldevicetypes.cpp:103
+#, kde-format
+msgctxt "no instruction set extensions"
+msgid "None"
+msgstr "なし"
+
+#. +> stable5
+#: soldevicetypes.cpp:106
+#, kde-format
+msgid "Processor Number: "
+msgstr "プロセッサナンバー: "
+
+#. +> stable5
+#: soldevicetypes.cpp:106
+#, kde-format
+msgid "Max Speed: "
+msgstr "最大速度: "
+
+#. +> stable5
+#: soldevicetypes.cpp:107
+#, kde-format
+msgid "Supported Instruction Sets: "
+msgstr "サポートされている命令セット: "
+
+#. +> stable5
+#: soldevicetypes.cpp:132
+#, kde-format
+msgid "Storage Drives"
+msgstr "ストレージデバイス"
+
+#. +> stable5
+#: soldevicetypes.cpp:151
+#, kde-format
+msgid "Hard Disk Drive"
+msgstr "ハードディスクドライブ"
+
+#. +> stable5
+#: soldevicetypes.cpp:154
+#, kde-format
+msgid "Compact Flash Reader"
+msgstr "コンパクトフラッシュリーダー"
+
+#. +> stable5
+#: soldevicetypes.cpp:157
+#, kde-format
+msgid "Smart Media Reader"
+msgstr "スマートメディアリーダー"
+
+#. +> stable5
+#: soldevicetypes.cpp:160
+#, kde-format
+msgid "SD/MMC Reader"
+msgstr "SD/MMC リーダー"
+
+#. +> stable5
+#: soldevicetypes.cpp:163
+#, kde-format
+msgid "Optical Drive"
+msgstr "光学デバイス"
+
+#. +> stable5
+#: soldevicetypes.cpp:166
+#, kde-format
+msgid "Memory Stick Reader"
+msgstr "メモリスティックリーダー"
+
+#. +> stable5
+#: soldevicetypes.cpp:169
+#, kde-format
+msgid "xD Reader"
+msgstr "xD リーダー"
+
+#. +> stable5
+#: soldevicetypes.cpp:172
+#, kde-format
+msgid "Unknown Drive"
+msgstr "未知のデバイス"
+
+#. +> stable5
+#: soldevicetypes.cpp:192
+#, kde-format
+msgid "IDE"
+msgstr "IDE"
+
+#. +> stable5
+#: soldevicetypes.cpp:195
+#, kde-format
+msgid "USB"
+msgstr "USB"
+
+#. +> stable5
+#: soldevicetypes.cpp:198
+#, kde-format
+msgid "IEEE1394"
+msgstr "IEEE1394"
+
+#. +> stable5
+#: soldevicetypes.cpp:201
+#, kde-format
+msgid "SCSI"
+msgstr "SCSI"
+
+#. +> stable5
+#: soldevicetypes.cpp:204
+#, kde-format
+msgid "SATA"
+msgstr "SATA"
+
+#. +> stable5
+#: soldevicetypes.cpp:207
+#, kde-format
+msgctxt "platform storage bus"
+msgid "Platform"
+msgstr "プラットフォーム"
+
+#. +> stable5
+#: soldevicetypes.cpp:210
+#, kde-format
+msgctxt "unknown storage bus"
+msgid "Unknown"
+msgstr "未知"
+
+#. +> stable5
+#: soldevicetypes.cpp:213
+#, kde-format
+msgid "Bus: "
+msgstr "バス: "
+
+#. +> stable5
+#: soldevicetypes.cpp:213
+#, kde-format
+msgid "Hotpluggable?"
+msgstr "ホットプラグ可能？"
+
+#. +> stable5
+#: soldevicetypes.cpp:213
+#, kde-format
+msgid "Removable?"
+msgstr "リムーバブル？"
+
+#. +> stable5
+#: soldevicetypes.cpp:257
+#, kde-format
+msgid "Unused"
+msgstr "未使用"
+
+#. +> stable5
+#: soldevicetypes.cpp:260
+#, kde-format
+msgid "File System"
+msgstr "ファイルシステム"
+
+#. +> stable5
+#: soldevicetypes.cpp:263
+#, kde-format
+msgid "Partition Table"
+msgstr "パーテションテーブル"
+
+#. +> stable5
+#: soldevicetypes.cpp:266
+#, kde-format
+msgid "Raid"
+msgstr "Raid"
+
+#. +> stable5
+#: soldevicetypes.cpp:269
+#, kde-format
+msgid "Encrypted"
+msgstr "暗号化"
+
+#. +> stable5
+#: soldevicetypes.cpp:272
+#, kde-format
+msgctxt "unknown volume usage"
+msgid "Unknown"
+msgstr "未知"
+
+#. +> stable5
+#: soldevicetypes.cpp:275
+#, kde-format
+msgid "File System Type: "
+msgstr "ファイルシステムタイプ: "
+
+#. +> stable5
+#: soldevicetypes.cpp:275
+#, kde-format
+msgid "Label: "
+msgstr "ラベル: "
+
+#. +> stable5
+#: soldevicetypes.cpp:276
+#, kde-format
+msgid "Not Set"
+msgstr "未セット"
+
+#. +> stable5
+#: soldevicetypes.cpp:276
+#, kde-format
+msgid "Volume Usage: "
+msgstr "ボリューム使用法: "
+
+#. +> stable5
+#: soldevicetypes.cpp:276
+#, kde-format
+msgid "UUID: "
+msgstr "UUID: "
+
+#. +> stable5
+#: soldevicetypes.cpp:282
+#, kde-format
+msgid "Mounted At: "
+msgstr "マウント場所: "
+
+#. +> stable5
+#: soldevicetypes.cpp:282
+#, kde-format
+msgid "Not Mounted"
+msgstr "未マウント"
+
+#. +> stable5
+#: soldevicetypes.cpp:287
+#, kde-format
+msgid "Volume Space:"
+msgstr "ボリュームスペース: "
+
+#. +> stable5
+#: soldevicetypes.cpp:297
+#, kde-format
+msgctxt "Available space out of total partition size (percent used)"
+msgid "%1 free of %2 (%3% used)"
+msgstr "%1 / %2 (%3% 使用済み)"
+
+#. +> stable5
+#: soldevicetypes.cpp:303
+#, kde-format
+msgid "No data available"
+msgstr "データはありません"
+
+#. +> stable5
+#: soldevicetypes.cpp:330
+#, kde-format
+msgid "Multimedia Players"
+msgstr "マルチメディアプレーヤー"
+
+#. +> stable5
+#: soldevicetypes.cpp:349 soldevicetypes.cpp:388
+#, kde-format
+msgid "Supported Drivers: "
+msgstr "サポートされているドライバ: "
+
+#. +> stable5
+#: soldevicetypes.cpp:349 soldevicetypes.cpp:388
+#, kde-format
+msgid "Supported Protocols: "
+msgstr "サポートされているプロトコル: "
+
+#. +> stable5
+#: soldevicetypes.cpp:369
+#, kde-format
+msgid "Cameras"
+msgstr "カメラ"
+
+#. +> stable5
+#: soldevicetypes.cpp:408
+#, kde-format
+msgid "Batteries"
+msgstr "バッテリ"
+
+#. +> stable5
+#: soldevicetypes.cpp:430
+#, kde-format
+msgid "PDA"
+msgstr "PDA"
+
+#. +> stable5
+#: soldevicetypes.cpp:433
+#, kde-format
+msgid "UPS"
+msgstr "UPS"
+
+#. +> stable5
+#: soldevicetypes.cpp:436
+#, kde-format
+msgid "Primary"
+msgstr "プライマリ"
+
+#. +> stable5
+#: soldevicetypes.cpp:439
+#, kde-format
+msgid "Mouse"
+msgstr "マウス"
+
+#. +> stable5
+#: soldevicetypes.cpp:442
+#, kde-format
+msgid "Keyboard"
+msgstr "キーボード"
+
+#. +> stable5
+#: soldevicetypes.cpp:445
+#, kde-format
+msgid "Keyboard + Mouse"
+msgstr "キーボード + マウス"
+
+#. +> stable5
+#: soldevicetypes.cpp:448
+#, kde-format
+msgid "Camera"
+msgstr "カメラ"
+
+#. +> stable5
+#: soldevicetypes.cpp:451
+#, kde-format
+msgid "Phone"
+msgstr "電話"
+
+#. +> stable5
+#: soldevicetypes.cpp:454
+#, kde-format
+msgctxt "Screen"
+msgid "Monitor"
+msgstr "モニター"
+
+#. +> stable5
+#: soldevicetypes.cpp:457
+#, kde-format
+msgctxt "Wireless game pad or joystick battery"
+msgid "Gaming Input"
+msgstr "ゲーミング入力デバイス"
+
+#. +> stable5
+#: soldevicetypes.cpp:460
+#, kde-format
+msgctxt "unknown battery type"
+msgid "Unknown"
+msgstr "未知"
+
+#. +> stable5
+#: soldevicetypes.cpp:466
+#, kde-format
+msgid "Charging"
+msgstr "充電中"
+
+#. +> stable5
+#: soldevicetypes.cpp:469
+#, kde-format
+msgid "Discharging"
+msgstr "放電中"
+
+#. +> stable5
+#: soldevicetypes.cpp:472
+#, kde-format
+msgid "Fully Charged"
+msgstr "完全に充電済み"
+
+#. +> stable5
+#: soldevicetypes.cpp:475
+#, kde-format
+msgid "No Charge"
+msgstr "充電なし"
+
+#. +> stable5
+#: soldevicetypes.cpp:478
+#, kde-format
+msgid "Battery Type: "
+msgstr "バッテリタイプ: "
+
+#. +> stable5
+#: soldevicetypes.cpp:478
+#, kde-format
+msgid "Charge Status: "
+msgstr "充電状態: "
+
+#. +> stable5
+#: soldevicetypes.cpp:478
+#, kde-format
+msgid "Charge Percent: "
+msgstr "充電率: "
+
+#~ msgid "Intel SSE4"
+#~ msgstr "Intel SSE4"
+
+#~ msgid "AMD 3DNow"
+#~ msgstr "AMD 3DNow"
+
+#~ msgid "KDE Solid Based Device Viewer"
+#~ msgstr "KDE Solid ベースのデバイスビューア"
+
+#~ msgid "Card Reader"
+#~ msgstr "カードリーダー"
+
+#~ msgid "Unknown Button"
+#~ msgstr "未知のボタン"
+
+#~ msgctxt "platform serial interface type"
+#~ msgid "Platform"
+#~ msgstr "プラットフォーム"
+
+#~ msgctxt "unknown port"
+#~ msgid "Unknown"
+#~ msgstr "未知"
+
+#~ msgid "Network Interfaces"
+#~ msgstr "ネットワークインターフェース"
+
+#~ msgid "Wireless"
+#~ msgstr "無線"
+
+#~ msgid "Wired"
+#~ msgstr "有線"
+
+#~ msgid "Video"
+#~ msgstr "ビデオ"
+
+#~ msgid "Connected"
+#~ msgstr "接続"
+
+#~ msgid "Hardware Address: "
+#~ msgstr "ハードウェアアドレス: "
+
+#~ msgid "Wireless?"
+#~ msgstr "無線？"
+
+#~ msgid "Audio Interfaces"
+#~ msgstr "オーディオインターフェース"
+
+#~ msgid "AC Adapters"
+#~ msgstr "AC アダプタ"
+
+#~ msgid "Modem"
+#~ msgstr "モデム"
+
+#~ msgid "Alsa Interfaces"
+#~ msgstr "Alsa インターフェース"
+
+#~ msgid "Open Sound System Interfaces"
+#~ msgstr "Open Sound System インターフェース"
+
+#~ msgctxt "unknown audio interface type"
+#~ msgid "Unknown"
+#~ msgstr "未知"
+
+#~ msgctxt "unknown sound card type"
+#~ msgid "Unknown"
+#~ msgstr "未知"
+
+#~ msgctxt "unknown serial interface type"
+#~ msgid "Unknown"
+#~ msgstr "未知"
+
+#~ msgctxt "unknown smart card type"
+#~ msgid "Unknown"
+#~ msgstr "未知"
+
+#~ msgid "Soundcard Type: "
+#~ msgstr "サウンドカードタイプ: "
+
+#~ msgid "Button type: "
+#~ msgstr "ボタンタイプ:"
+
+#~ msgid "Device Type: "
+#~ msgstr "デバイスタイプ: "
+
+#~ msgid "Serial Type: "
+#~ msgstr "シリアルタイプ: "
+
+#~ msgid "Smart Card Type: "
+#~ msgstr "スマートカードタイプ: "
+
+#~ msgid "Control"
+#~ msgstr "コントロール"
+
+#~ msgid "Input"
+#~ msgstr "入力"
+
+#~ msgid "Output"
+#~ msgstr "出力"
+
+#~ msgid "Internal Soundcard"
+#~ msgstr "内部サウンドカード"
+
+#~ msgid "USB Soundcard"
+#~ msgstr "USB サウンドカード"
+
+#~ msgid "Firewire Soundcard"
+#~ msgstr "Firewire サウンドカード"
+
+#~ msgid "Headset"
+#~ msgstr "ヘッドセット"
+
+#~ msgid "Audio Interface Type: "
+#~ msgstr "オーディオインターフェースタイプ: "
+
+#~ msgid "Device Buttons"
+#~ msgstr "デバイスボタン"
+
+#~ msgid "Lid Button"
+#~ msgstr "Lid ボタン"
+
+#~ msgid "Power Button"
+#~ msgstr "電源ボタン"
+
+#~ msgid "Sleep Button"
+#~ msgstr "スリープボタン"
+
+#~ msgid "Tablet Button"
+#~ msgstr "タブレットボタン"
+
+#~ msgid "Has State?"
+#~ msgstr "状態有り？"
+
+#~ msgid "Is plugged in?"
+#~ msgstr "コンセントに接続済？"
+
+#~ msgid "Digital Video Broadcasting Devices"
+#~ msgstr "デジタルビデオ放送デバイス"
+
+#~ msgid "Audio"
+#~ msgstr "オーディオ"
+
+#~ msgid "Conditional access system"
+#~ msgstr "コンデショナルアクセスシステム"
+
+#~ msgid "Demux"
+#~ msgstr "Demux"
+
+#~ msgid "Digital video recorder"
+#~ msgstr "デジタルビデオレコーダー"
+
+#~ msgid "Front end"
+#~ msgstr "フロントエンド"
+
+#~ msgid "Network"
+#~ msgstr "ネットワーク"
+
+#~ msgid "On-Screen display"
+#~ msgstr "オンスクリーンディスプレイ"
+
+#~ msgid "Security and content protection"
+#~ msgstr "セキュリティとコンテンツ保護"
+
+#~ msgid "Serial Devices"
+#~ msgstr "シリアルデバイス"
+
+#~ msgid "Port: "
+#~ msgstr "ポート: "
+
+#~ msgid "Smart Card Devices"
+#~ msgstr "スマートカードデバイス"
+
+#~ msgid "Crypto Token"
+#~ msgstr "暗号トークン"
+
+#~ msgid "Video Devices"
+#~ msgstr "ビデオデバイス"
+
+#~ msgid "Device unable to be cast to correct device"
+#~ msgstr "正しいデバイスとして当てはまらないデバイス"
+
+#~ msgid "Unknown"
+#~ msgstr "未知"
+
+#~ msgid "None"
+#~ msgstr "なし"
+
+#~ msgid "Platform"
+#~ msgstr "プラットフォーム"
+
+#~ msgid "Volume Size: "
+#~ msgstr "ボリュームサイズ: "
+
+#~ msgid "Percentage Used / Available: "
+#~ msgstr "使用済 / 利用可能パーセンテージ: "

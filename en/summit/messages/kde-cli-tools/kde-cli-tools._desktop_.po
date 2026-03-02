@@ -1,0 +1,3983 @@
+# Translation of desktop_kdebase into Japanese.
+# Noboru Sinohara <shinobo@leo.bekkoame.ne.jp>, 2002.
+# Taiki Komoda <kom@kde.gr.jp>, 2002,2003, 2004, 2010.
+# Masaharu 'Max' Goto <magotou@fubyshare.gr.jp>, 2004.
+# Toyohiro Asukai <toyohiro@ksmplus.com>, 2004.
+# Kurose Shushi <md81@bird.email.ne.jp>, 2004.
+# AWASHIRO Ikuya <ikuya@oooug.jp>, 2004.
+# Shinichi Tsunoda <tsuno@ngy.1st.ne.jp>, 2005.
+# Awashiro Ikuya <ikuya@fruitsbasket.info>, 2006.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2006, 2007, 2008, 2009, 2010.
+# phanect <phanective@gmail.com>, 2010.
+# Jumpei Ogawa (phanect) <phanective@gmail.com>, 2010.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2005, 2006, 2007, 2010, 2011, 2013, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdebase\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2026-02-23 08:05+0100\n"
+"PO-Revision-Date: 2014-02-22 22:37-0800\n"
+"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: \n"
+"X-Text-Markup: \n"
+"X-Generator: Lokalize 1.1\n"
+
+#. +> trunk6 stable6 stable5
+#: keditfiletype/org.kde.keditfiletype.desktop:2
+msgctxt "Name"
+msgid "File Type Editor"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: keditfiletype/org.kde.keditfiletype.desktop:44
+msgctxt "GenericName"
+msgid "File Type Editor"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: plasma-open-settings/org.kde.plasma.settings.open.desktop:5
+msgctxt "Name"
+msgid "Open System Settings"
+msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "File Associations"
+#~ msgstr "ファイルの関連付け"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure file associations"
+#~ msgstr "ファイルの関連付けを設定"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "Filetypes,File Associations,Mime Types,File Patterns,Files,Pattern"
+#~ msgstr "Filetypes,File Associations,Mime Types,File Patterns,Files,Pattern"
+
+#~ msgctxt "Name"
+#~ msgid "Social Desktop"
+#~ msgstr "ソーシャルデスクトップ"
+
+#~ msgctxt "Comment"
+#~ msgid "Manage Social Desktop Providers"
+#~ msgstr "ソーシャルデスクトッププロバイダを管理"
+
+# 以前の翻訳は「大気」
+#~ msgctxt "Name"
+#~ msgid "Air"
+#~ msgstr "Air"
+
+#~ msgctxt "Comment"
+#~ msgid "A breath of fresh air"
+#~ msgstr "新鮮な空気"
+
+#~ msgctxt "Name"
+#~ msgid "Application dashboard"
+#~ msgstr "アプリケーションダッシュボード"
+
+#~ msgctxt "Name"
+#~ msgid "Oxygen"
+#~ msgstr "Oxygen"
+
+#~ msgctxt "Comment"
+#~ msgid "Theme done in the Oxygen style"
+#~ msgstr "Oxygen スタイルのテーマ"
+
+#~ msgctxt "Name"
+#~ msgid "gdb"
+#~ msgstr "gdb"
+
+#~ msgctxt "Name"
+#~ msgid "kdbg"
+#~ msgstr "kdbg"
+
+#~ msgctxt "Name"
+#~ msgid "dbx"
+#~ msgstr "dbx"
+
+#~ msgctxt "Name"
+#~ msgid "kdbgwin"
+#~ msgstr "kdbgwin"
+
+#~ msgctxt "Name"
+#~ msgid "Default Applications"
+#~ msgstr "デフォルトのアプリケーション"
+
+#~ msgctxt "Comment"
+#~ msgid "Choose the default components for various services"
+#~ msgstr "各種サービスにデフォルトで使用するコンポーネントを選択"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid ""
+#~ "default applications,components,component chooser,resources,e-mail,email "
+#~ "client,text editor,instant messenger,terminal emulator,web "
+#~ "browser,URL,hyperlinks"
+#~ msgstr ""
+#~ "default applications,components,component chooser,resources,e-mail,email "
+#~ "client,text editor,instant messenger,terminal emulator,web "
+#~ "browser,URL,hyperlinks"
+
+#~ msgctxt "Name|standard desktop component"
+#~ msgid "Web Browser"
+#~ msgstr "ウェブブラウザ"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Here you can configure your default web browser. All KDE applications in "
+#~ "which you can select hyperlinks should honor this setting."
+#~ msgstr ""
+#~ "デフォルトで使用するウェブブラウザを設定します。ハイパーリンクの選択が可能"
+#~ "なすべての KDE アプリケーションは、この設定に従います。"
+
+#~ msgctxt "Name|standard desktop component"
+#~ msgid "File Manager"
+#~ msgstr "ファイルマネージャ"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Here you can configure your default file manager. The entries in the K "
+#~ "menu and all KDE applications in which you can open folders will use this "
+#~ "file manager."
+#~ msgstr ""
+#~ "デフォルトで使用するファイルマネージャを設定します。K メニューのエントリ"
+#~ "と、フォルダを開くことが可能なすべての KDE アプリケーションは、このファイ"
+#~ "ルマネージャを使います。"
+
+#~ msgctxt "Name|standard desktop component"
+#~ msgid "Email Client"
+#~ msgstr "メールクライアント"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "This service allows you to configure your default email client. All KDE "
+#~ "applications which need access to an email client application should "
+#~ "honor this setting."
+#~ msgstr ""
+#~ "デフォルトで使用するメールクライアントを設定します。メールクライアントを必"
+#~ "要とするすべての KDE アプリケーションは、この設定に従います。"
+
+#~ msgctxt "Name|standard desktop component"
+#~ msgid "Terminal Emulator"
+#~ msgstr "ターミナルエミュレータ"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "This service allows you to configure your default terminal emulator. All "
+#~ "KDE applications which invoke a terminal emulator application should "
+#~ "honor this setting."
+#~ msgstr ""
+#~ "デフォルトで使用するターミナルエミュレータを設定します。ターミナルエミュ"
+#~ "レータを起動するすべての KDE アプリケーションは、この設定に従います。"
+
+#~ msgctxt "Name|standard desktop component"
+#~ msgid "Window Manager"
+#~ msgstr "ウィンドウマネージャ"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Here you can select the window manager to be run in your KDE session."
+#~ msgstr "KDE セッションで使うウィンドウマネージャを選択します。"
+
+#~ msgctxt "Name"
+#~ msgid "A nice name you have chosen for your interface"
+#~ msgstr "あなたのインターフェースに素敵な名前を付けてください"
+
+#~ msgctxt "Comment"
+#~ msgid "A helpful description of the interface for the top right info box"
+#~ msgstr "右上の情報ボックスのためのインターフェースに関する説明"
+
+#~ msgctxt "Name"
+#~ msgid ""
+#~ "Compiz custom (create wrapper script 'compiz-kde-launcher' to launch it)"
+#~ msgstr ""
+#~ "Compiz カスタム (起動するためのラッパースクリプト compiz-kde-launcher を作"
+#~ "成します)"
+
+#~ msgctxt "Name"
+#~ msgid "Compiz"
+#~ msgstr "Compiz"
+
+#~ msgctxt "Name"
+#~ msgid "Metacity (GNOME)"
+#~ msgstr "Metacity (GNOME)"
+
+#~ msgctxt "Name"
+#~ msgid "Openbox"
+#~ msgstr "Openbox"
+
+#~ msgctxt "Name"
+#~ msgid "Service Discovery"
+#~ msgstr "サービスディスカバリ"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure service discovery"
+#~ msgstr "サービスディスカバリの設定"
+
+#~ msgctxt "Name"
+#~ msgid "Emoticons"
+#~ msgstr "感情アイコン"
+
+#~ msgctxt "Comment"
+#~ msgid "Choose Emoticon Theme"
+#~ msgstr "感情アイコンテーマの選択"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "Emoticons"
+#~ msgstr "感情アイコン"
+
+#~ msgctxt "Name"
+#~ msgid "Icons"
+#~ msgstr "アイコン"
+
+#~ msgctxt "Comment"
+#~ msgid "Customize KDE Icons"
+#~ msgstr "KDE アイコンをカスタマイズ"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "icons,effects,size,hicolor,locolor"
+#~ msgstr "icons,effects,size,hicolor,locolor"
+
+#~ msgctxt "Name"
+#~ msgid "Service Manager"
+#~ msgstr "サービスマネージャ"
+
+#~ msgctxt "Comment"
+#~ msgid "KDE Services Configuration"
+#~ msgstr "KDE サービスの設定"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "KDED,Daemon,Services"
+#~ msgstr "KDED,Daemon,Services"
+
+#~ msgctxt "Name"
+#~ msgid "Manage Notifications"
+#~ msgstr "通知の管理"
+
+#~ msgctxt "Comment"
+#~ msgid "System Notification Configuration"
+#~ msgstr "システム通知の設定"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "System sounds,Audio,Sound,Notify,Alerts,Notification,popups"
+#~ msgstr "System sounds,Audio,Sound,Notify,Alerts,Notification,popups"
+
+#~ msgctxt "Name"
+#~ msgid "Country/Region & Language"
+#~ msgstr "国と言語"
+
+#~ msgctxt "Comment"
+#~ msgid "Language, numeric, and time settings for your particular region"
+#~ msgstr "地域特有の言語と数値や日付書式を設定"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid ""
+#~ "language,translation,number format,locale,Country,charsets,character "
+#~ "sets,Decimal symbol,Thousands "
+#~ "separator,symbol,separator,sign,positive,negative,currency,money,fractional "
+#~ "digits,calendar,time,date,formats,week,week "
+#~ "start,first,paper,size,letter,A4,measure,metric,English,Imperial"
+#~ msgstr ""
+#~ "language,translation,number format,locale,Country,charsets,character "
+#~ "sets,Decimal symbol,Thousands "
+#~ "separator,symbol,separator,sign,positive,negative,currency,money,fractional "
+#~ "digits,calendar,time,date,formats,week,week "
+#~ "start,first,paper,size,letter,A4,measure,metric,English,Imperial"
+
+#~ msgctxt "Name"
+#~ msgid "Information"
+#~ msgstr "情報"
+
+#~ msgctxt "Name"
+#~ msgid "Spell Checker"
+#~ msgstr "スペルチェッカー"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure the spell checker"
+#~ msgstr "スペルチェッカーを設定"
+
+#~ msgctxt "Name"
+#~ msgid "KDED Global Shortcuts Server"
+#~ msgstr "KDED グローバルショートカットサーバ"
+
+#~ msgctxt "Comment"
+#~ msgid "Global Keyboard Shortcuts"
+#~ msgstr "グローバルキーボードショートカット"
+
+#~ msgctxt "Name"
+#~ msgid "kglobalaccel"
+#~ msgstr "kglobalaccel"
+
+#~ msgctxt "Name"
+#~ msgid "Application"
+#~ msgstr "アプリケーション"
+
+#~ msgctxt "Comment"
+#~ msgid "The application name"
+#~ msgstr "アプリケーションの名前"
+
+#~ msgctxt "Name"
+#~ msgid "Global Shortcut Registration"
+#~ msgstr "グローバルショートカットの登録"
+
+#~ msgctxt "Comment"
+#~ msgid "An application registered new global shortcuts."
+#~ msgstr "アプリケーションがグローバルショートカットを登録しました。"
+
+#~ msgctxt "Name"
+#~ msgid "Global Shortcut Triggered"
+#~ msgstr "グローバルショートカットの使用"
+
+#~ msgctxt "Comment"
+#~ msgid "The user triggered a global shortcut"
+#~ msgstr "グローバルショートカットが使用されました。"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "KDE Forums"
+#~ msgctxt "Name"
+#~ msgid "KDE Fundamentals"
+#~ msgstr "KDE フォーラム"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "KDE UserBase"
+#~ msgctxt "Name"
+#~ msgid "KDE Users' Manual"
+#~ msgstr "KDE UserBase"
+
+#~ msgctxt "Name"
+#~ msgid "CGI Scripts"
+#~ msgstr "CGI スクリプト"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure the CGI KIO slave"
+#~ msgstr "CGI KIO スレーブの設定"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "CGI,KIO,Slave,Paths"
+#~ msgstr "CGI,KIO,Slave,Paths"
+
+#, fuzzy
+#~| msgctxt "X-KDE-Keywords"
+#~| msgid "trash"
+#~ msgctxt "Name"
+#~ msgid "Trash"
+#~ msgstr "ごみ箱"
+
+#~ msgctxt "Name"
+#~ msgid "Remote URL Change Notifier"
+#~ msgstr "リモート URL 変更通知"
+
+#~ msgctxt "Comment"
+#~ msgid "Provides change notification for network folders"
+#~ msgstr "ネットワークフォルダの変更を通知"
+
+#~ msgctxt "Comment"
+#~ msgid "This service allows configuration of the trash."
+#~ msgstr "このサービスでごみ箱の設定を変更できます。"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure trash settings"
+#~ msgstr "ごみ箱のオプション設定"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "trash"
+#~ msgstr "ごみ箱"
+
+#~ msgctxt "ExtraNames"
+#~ msgid "Original Path,Deletion Date"
+#~ msgstr "元のパス,削除日"
+
+#~ msgctxt "Name"
+#~ msgid "KNetAttach"
+#~ msgstr "KNetAttach"
+
+#~ msgctxt "GenericName"
+#~ msgid "Network Folder Wizard"
+#~ msgstr "ネットワーク フォルダ ウィザード"
+
+#~ msgctxt "Name"
+#~ msgid "Hardware notifications"
+#~ msgstr "ハードウェアの通知"
+
+#~ msgctxt "Comment"
+#~ msgid "Notifications triggered by hardware devices"
+#~ msgstr "ハードウェアデバイスが通知を引き起こしました"
+
+#~ msgctxt "Name"
+#~ msgid "Device Notifier"
+#~ msgstr "デバイスの通知"
+
+#~ msgctxt "Comment"
+#~ msgid "The Plasma device notifier is present"
+#~ msgstr "Plasma デバイス通知があります"
+
+#~ msgctxt "Name"
+#~ msgid "Mount or unmount error"
+#~ msgstr "マウントかアンマウントのエラー"
+
+#~ msgctxt "Comment"
+#~ msgid "There has been a problem mounting or unmounting a device"
+#~ msgstr "デバイスをマウントかアンマウントするのに問題がありました"
+
+#~ msgctxt "Name"
+#~ msgid "The device can be safely removed"
+#~ msgstr "デバイスを安全に取り除くことができます"
+
+#~ msgctxt "Comment"
+#~ msgid "KDE Workspace"
+#~ msgstr "KDE ワークスペース"
+
+#~ msgctxt "Name"
+#~ msgid "Trash: Emptied"
+#~ msgstr "ごみ箱: 空"
+
+#~ msgctxt "Comment"
+#~ msgid "The trash has been emptied"
+#~ msgstr "ごみ箱を空にしました"
+
+#~ msgctxt "Name"
+#~ msgid "Textcompletion: Rotation"
+#~ msgstr "テキスト補完: 繰り返し"
+
+#~ msgctxt "Comment"
+#~ msgid "The end of the list of matches has been reached"
+#~ msgstr "マッチリストの終端に達しました"
+
+#~ msgctxt "Name"
+#~ msgid "Textcompletion: No Match"
+#~ msgstr "テキスト補完: マッチなし"
+
+#~ msgctxt "Comment"
+#~ msgid "No matching completion was found"
+#~ msgstr "マッチする補完は見つかりませんでした"
+
+#~ msgctxt "Name"
+#~ msgid "Textcompletion: Partial Match"
+#~ msgstr "テキスト補完: 部分的にマッチ"
+
+#~ msgctxt "Comment"
+#~ msgid "There is more than one possible match"
+#~ msgstr "マッチするものが複数あります"
+
+#~ msgctxt "Name"
+#~ msgid "Fatal Error"
+#~ msgstr "致命的なエラー"
+
+#~ msgctxt "Comment"
+#~ msgid "There was a serious error causing the program to exit"
+#~ msgstr "プログラムを終了させる深刻なエラーが発生しました"
+
+#~ msgctxt "Name"
+#~ msgid "Notification"
+#~ msgstr "通知"
+
+#~ msgctxt "Comment"
+#~ msgid "Something special happened in the program"
+#~ msgstr "何か特別なことがプログラムに起こりました"
+
+#~ msgctxt "Name"
+#~ msgid "Warning"
+#~ msgstr "警告"
+
+#~ msgctxt "Comment"
+#~ msgid "There was an error in the program which may cause problems"
+#~ msgstr "問題を引き起こす可能性のあるエラーがプログラムに発生しました"
+
+#~ msgctxt "Name"
+#~ msgid "Catastrophe"
+#~ msgstr "大惨事"
+
+#~ msgctxt "Comment"
+#~ msgid "A very serious error occurred, at least causing the program to exit"
+#~ msgstr "少なくともプログラムを終了させる非常に重大なエラーが発生しました"
+
+#~ msgctxt "Name"
+#~ msgid "Login"
+#~ msgstr "ログイン"
+
+#~ msgctxt "Name"
+#~ msgid "Logout"
+#~ msgstr "ログアウト"
+
+#~ msgctxt "Comment"
+#~ msgid "Session is exiting"
+#~ msgstr "セッションを終了中"
+
+#~ msgctxt "Name"
+#~ msgid "Logout Canceled"
+#~ msgstr "ログアウトのキャンセル"
+
+#~ msgctxt "Comment"
+#~ msgid "KDE logout was canceled"
+#~ msgstr "KDE からのログアウトがキャンセルされました"
+
+#~ msgctxt "Name"
+#~ msgid "Print Error"
+#~ msgstr "印刷エラー"
+
+#~ msgctxt "Comment"
+#~ msgid "A print error has occurred"
+#~ msgstr "印刷エラーが発生しました"
+
+#~ msgctxt "Name"
+#~ msgid "Information Message"
+#~ msgstr "情報メッセージ"
+
+#~ msgctxt "Comment"
+#~ msgid "An information message is being shown"
+#~ msgstr "情報メッセージが表示されています"
+
+#~ msgctxt "Name"
+#~ msgid "Warning Message"
+#~ msgstr "警告メッセージ"
+
+#~ msgctxt "Comment"
+#~ msgid "A warning message is being shown"
+#~ msgstr "警告メッセージが表示されています"
+
+#~ msgctxt "Name"
+#~ msgid "Critical Message"
+#~ msgstr "重大なメッセージ"
+
+#~ msgctxt "Comment"
+#~ msgid "A critical message is being shown"
+#~ msgstr "重大なメッセージが表示されています"
+
+#~ msgctxt "Name"
+#~ msgid "Question"
+#~ msgstr "質問"
+
+#~ msgctxt "Comment"
+#~ msgid "A question is being asked"
+#~ msgstr "質問が出されています"
+
+#~ msgctxt "Name"
+#~ msgid "Beep"
+#~ msgstr "ビープ"
+
+#~ msgctxt "Comment"
+#~ msgid "Sound bell"
+#~ msgstr "サウンドベル"
+
+#~ msgctxt "Name"
+#~ msgid "KNotify"
+#~ msgstr "KNotify"
+
+#~ msgctxt "Comment"
+#~ msgid "KDE Notification Daemon"
+#~ msgstr "KDE 通知デーモン"
+
+#~ msgctxt "Name"
+#~ msgid "Password Caching"
+#~ msgstr "パスワードキャッシング"
+
+#~ msgctxt "Comment"
+#~ msgid "Temporary password caching"
+#~ msgstr "一時的なパスワードキャッシング"
+
+#~ msgctxt "Name"
+#~ msgid "Time Zone"
+#~ msgstr "タイムゾーン"
+
+#~ msgctxt "Comment"
+#~ msgid "Provides the system's time zone to applications"
+#~ msgstr "アプリケーションにシステムのタイムゾーンを提供します"
+
+#~ msgctxt "Name"
+#~ msgid "kuiserver"
+#~ msgstr "kuiserver"
+
+#~ msgctxt "Comment"
+#~ msgid "KDE's Progress Info UI server"
+#~ msgstr "KDE 進捗情報 UI サーバ"
+
+#~ msgctxt "Name"
+#~ msgid "FixHostFilter"
+#~ msgstr "FixHostFilter"
+
+#~ msgctxt "Name"
+#~ msgid "InternetKeywordsFilter"
+#~ msgstr "インターネットキーワードフィルタ"
+
+#~ msgctxt "Name"
+#~ msgid "SearchKeywordsFilter"
+#~ msgstr "キーワード検索フィルタ"
+
+#~ msgctxt "Comment"
+#~ msgid "Search Engine"
+#~ msgstr "検索エンジン"
+
+#~ msgctxt "Name"
+#~ msgid "7Digital"
+#~ msgstr "7Digital"
+
+#~ msgctxt "Query"
+#~ msgid ""
+#~ "http://us.7digital.com/Search?search=\\\\{@}"
+#~ "&searchtype=global&submit=Search"
+#~ msgstr ""
+#~ "http://us.7digital.com/Search?search=\\\\{@}"
+#~ "&searchtype=global&submit=Search"
+
+#~ msgctxt "Name"
+#~ msgid "Acronym Database"
+#~ msgstr "Acronym Database"
+
+#~ msgctxt "Query"
+#~ msgid "http://www.abbreviations.com/\\\\{@}"
+#~ msgstr "http://www.abbreviations.com/\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Amazon"
+#~ msgstr "Amazon"
+
+#~ msgctxt "Query"
+#~ msgid ""
+#~ "http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=aps&field-"
+#~ "keywords=\\\\{@}&x=0&y=0"
+#~ msgstr ""
+#~ "http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=aps&field-"
+#~ "keywords=\\\\{@}&x=0&y=0"
+
+#~ msgctxt "Name"
+#~ msgid "Amazon MP3"
+#~ msgstr "Amazon MP3"
+
+#~ msgctxt "Query"
+#~ msgid ""
+#~ "http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=digital-"
+#~ "music&field-keywords=\\\\{@}&x=0&y=0"
+#~ msgstr ""
+#~ "http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=digital-"
+#~ "music&field-keywords=\\\\{@}&x=0&y=0"
+
+#~ msgctxt "Name"
+#~ msgid "All Music Guide"
+#~ msgstr "All Music Guide"
+
+#~ msgctxt "Query"
+#~ msgid "http://www.allmusic.com/search/all/\\\\{@}"
+#~ msgstr "http://www.allmusic.com/search/all/\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Debian Backports Search"
+#~ msgstr "Debian バックポート検索"
+
+#~ msgctxt "Query"
+#~ msgid ""
+#~ "http://packages.debian.org/search?suite=squeeze-"
+#~ "backports&section=all&arch=any&searchon=names&keywords=\\\\{@}"
+#~ msgstr ""
+#~ "http://packages.debian.org/search?suite=squeeze-"
+#~ "backports&section=all&arch=any&searchon=names&keywords=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Baidu"
+#~ msgstr "百度"
+
+#~ msgctxt "Query"
+#~ msgid "http://www.baidu.com/s?wd=\\\\{@}"
+#~ msgstr "http://www.baidu.com/s?wd=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Beolingus Online Dictionary"
+#~ msgstr "Beolingus オンライン辞書"
+
+#~ msgctxt "Query"
+#~ msgid ""
+#~ "http://dict.tu-chemnitz.de/dings.cgi?"
+#~ "lang=de&service=deen&opterrors=0&optpro=0&query=\\\\{@}"
+#~ "&iservice=&comment=&email"
+#~ msgstr ""
+#~ "http://dict.tu-chemnitz.de/dings.cgi?"
+#~ "lang=de&service=deen&opterrors=0&optpro=0&query=\\\\{@}"
+#~ "&iservice=&comment=&email"
+
+#~ msgctxt "Name"
+#~ msgid "Bing"
+#~ msgstr "Bing"
+
+#~ msgctxt "Query"
+#~ msgid "http://www.bing.com/search?q=\\\\{@}"
+#~ msgstr "http://www.bing.com/search?q=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Blip.tv"
+#~ msgstr "Blip.tv"
+
+#~ msgctxt "Query"
+#~ msgid "https://blip.tv/search?q=\\\\{@}"
+#~ msgstr "https://blip.tv/search?q=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Bug Database Fulltext Search"
+#~ msgstr "KDE バグデータベース全文検索"
+
+#~ msgctxt "Query"
+#~ msgid "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
+#~ msgstr "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Bug Database Bug Number Search"
+#~ msgstr "KDE バグデータベース バグ番号検索"
+
+#~ msgctxt "Query"
+#~ msgid "https://bugs.kde.org/show_bug.cgi?id=\\\\{@}"
+#~ msgstr "https://bugs.kde.org/show_bug.cgi?id=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "QRZ.com Callsign Database"
+#~ msgstr "QRZ.com Callsign データベース"
+
+#~ msgctxt "Query"
+#~ msgid "http://www.qrz.com/db/\\\\{@}"
+#~ msgstr "http://www.qrz.com/db/\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "CIA World Fact Book"
+#~ msgstr "CIA World Fact Book"
+
+#~ msgctxt "Query"
+#~ msgid ""
+#~ "https://www.cia.gov/search?q=\\\\{@}"
+#~ "&site=WORLD_FACTBOOK&btnG=Search&client=CIA&myAction=/"
+#~ "search&proxystylesheet=CIA&submitMethod=get&oe=UTF-8&ie=UTF-8&ud=1"
+#~ msgstr ""
+#~ "https://www.cia.gov/search?q=\\\\{@}"
+#~ "&site=WORLD_FACTBOOK&btnG=Search&client=CIA&myAction=/"
+#~ "search&proxystylesheet=CIA&submitMethod=get&oe=UTF-8&ie=UTF-8&ud=1"
+
+#~ msgctxt "Name"
+#~ msgid "CiteSeer: Scientific Literature Digital Library"
+#~ msgstr "CiteSeer: 学術電子論文ブラウザ"
+
+#~ msgctxt "Query"
+#~ msgid ""
+#~ "http://citeseer.ist.psu.edu/search?q=\\\\{@}&submit=Search&sort=rlv&t=doc"
+#~ msgstr ""
+#~ "http://citeseer.ist.psu.edu/search?q=\\\\{@}&submit=Search&sort=rlv&t=doc"
+
+# skip-rule: archive
+#~ msgctxt "Name"
+#~ msgid "CPAN - Comprehensive Perl Archive Network"
+#~ msgstr "CPAN - Comprehensive Perl Archive Network"
+
+#~ msgctxt "Query"
+#~ msgid ""
+#~ "http://search.cpan.org/search?mode=\\\\{mode,2,\"\"}&query=\\\\{query,q,1}"
+#~ msgstr ""
+#~ "http://search.cpan.org/search?mode=\\\\{mode,2,\"\"}&query=\\\\{query,q,1}"
+
+# skip-rule: archive
+#~ msgctxt "Name"
+#~ msgid "CTAN - Comprehensive TeX Archive Network"
+#~ msgstr "CTAN - Comprehensive TeX Archive Network"
+
+#~ msgctxt "Query"
+#~ msgid "http://ctan.org/search?phrase=\\\\{@}"
+#~ msgstr "http://ctan.org/search?phrase=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "CTAN Catalog"
+#~ msgstr "CTAN カタログ"
+
+#~ msgctxt "Query"
+#~ msgid ""
+#~ "http://tug.ctan.org/cgi-bin/search.py?metadataSearch=\\\\{@}"
+#~ "&metadataSearchSubmit=Search"
+#~ msgstr ""
+#~ "http://tug.ctan.org/cgi-bin/search.py?metadataSearch=\\\\{@}"
+#~ "&metadataSearchSubmit=Search"
+
+#~ msgctxt "Name"
+#~ msgid "Debian BTS Bug Search"
+#~ msgstr "Debian BTS バグ検索"
+
+#~ msgctxt "Query"
+#~ msgid "http://bugs.debian.org/\\\\{@}"
+#~ msgstr "http://bugs.debian.org/\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "dict.cc Translation: German to English"
+#~ msgstr "dict.cc ドイツ語-英語翻訳"
+
+#~ msgctxt "Query"
+#~ msgid "http://www.dict.cc/?s=\\\\{@}"
+#~ msgstr "http://www.dict.cc/?s=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "LEO - Translate Between German and French"
+#~ msgstr "LEO - ドイツ語-フランス語間の翻訳"
+
+#~ msgctxt "Query"
+#~ msgid "http://dict.leo.org/?lp=frde&search=\\\\{@}"
+#~ msgstr "http://dict.leo.org/?lp=frde&search=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Debian Package Search"
+#~ msgstr "Debian パッケージ検索"
+
+#~ msgctxt "Query"
+#~ msgid "http://packages.debian.org/\\\\{@}"
+#~ msgstr "http://packages.debian.org/\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "CNRTL/TILF French dictionary"
+#~ msgstr "CNRTL/TILF フランス語辞書"
+
+#~ msgctxt "Query"
+#~ msgid "http://www.cnrtl.fr/definition/\\\\{@}"
+#~ msgstr "http://www.cnrtl.fr/definition/\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Open Directory"
+#~ msgstr "Open Directory"
+
+#~ msgctxt "Query"
+#~ msgid "http://search.dmoz.org/cgi-bin/search?search=\\\\{@}"
+#~ msgstr "http://search.dmoz.org/cgi-bin/search?search=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "DocBook - The Definitive Guide"
+#~ msgstr "DocBook - 完全ガイド"
+
+#~ msgctxt "Query"
+#~ msgid "http://www.docbook.org/tdg/en/html/\\\\{1}.html"
+#~ msgstr "http://www.docbook.org/tdg/en/html/\\\\{1}.html"
+
+#~ msgctxt "Name"
+#~ msgid "Digital Object Identifier"
+#~ msgstr "デジタルオブジェクト識別子"
+
+#~ msgctxt "Query"
+#~ msgid "http://dx.doi.org/\\\\{@}"
+#~ msgstr "http://dx.doi.org/\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Duck Duck Go"
+#~ msgstr "Duck Duck Go"
+
+#~ msgctxt "Query"
+#~ msgid "https://duckduckgo.com/?q=\\\\{@}&t=kde"
+#~ msgstr "https://duckduckgo.com/?q=\\\\{@}&t=kde"
+
+#~ msgctxt "Name"
+#~ msgid "Duck Duck Go Info"
+#~ msgstr "Duck Duck Go Info"
+
+#~ msgctxt "Query"
+#~ msgid "https://duckduckgo.com/?q=\\\\{@}&v=r&t=kde"
+#~ msgstr "https://duckduckgo.com/?q=\\\\{@}&v=r&t=kde"
+
+#~ msgctxt "Name"
+#~ msgid "Duck Duck Go Shopping"
+#~ msgstr "Duck Duck Go Shopping"
+
+#~ msgctxt "Query"
+#~ msgid "https://duckduckgo.com/?q=\\\\{@}&v=s&t=kde"
+#~ msgstr "https://duckduckgo.com/?q=\\\\{@}&v=s&t=kde"
+
+#~ msgctxt "Name"
+#~ msgid "Ecosia search engine"
+#~ msgstr "Ecosia 検索エンジン"
+
+#~ msgctxt "Query"
+#~ msgid "http://ecosia.org/search.php?q=\\\\{@}&meta=normal"
+#~ msgstr "http://ecosia.org/search.php?q=\\\\{@}&meta=normal"
+
+#~ msgctxt "Name"
+#~ msgid "dict.cc Translation: English to German"
+#~ msgstr "dict.cc 英語-ドイツ語翻訳"
+
+#~ msgctxt "Name"
+#~ msgid "WordReference.com Translation: English to Spanish"
+#~ msgstr "WordReference.com 英語-スペイン語翻訳"
+
+#~ msgctxt "Query"
+#~ msgid "http://www.wordreference.com/es/translation.asp?tranword=\\\\{@}"
+#~ msgstr "http://www.wordreference.com/es/translation.asp?tranword=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "WordReference.com Translation: English to French"
+#~ msgstr "WordReference.com 英語-フランス語翻訳"
+
+#~ msgctxt "Query"
+#~ msgid "http://www.wordreference.com/fr/Translation.asp?enfr=\\\\{@}"
+#~ msgstr "http://www.wordreference.com/fr/Translation.asp?enfr=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "WordReference.com Translation: English to Italian"
+#~ msgstr "WordReference.com 英語-イタリア語翻訳"
+
+#~ msgctxt "Query"
+#~ msgid "http://www.wordreference.com/it/translation.asp?enit=\\\\{@}"
+#~ msgstr "http://www.wordreference.com/it/translation.asp?enit=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "WordReference.com Translation: Spanish to English"
+#~ msgstr "WordReference.com スペイン語-英語翻訳"
+
+#~ msgctxt "Query"
+#~ msgid "http://www.wordreference.com/es/en/translation.asp?spen=\\\\{@}"
+#~ msgstr "http://www.wordreference.com/es/en/translation.asp?spen=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Ethicle"
+#~ msgstr "Ethicle"
+
+#~ msgctxt "Query"
+#~ msgid "http://www.ethicle.com/search.php?q=\\\\{@}"
+#~ msgstr "http://www.ethicle.com/search.php?q=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgctxt "Query"
+#~ msgid "https://www.facebook.com/search/?q=\\\\{@}&init=quick"
+#~ msgstr "https://www.facebook.com/search/?q=\\\\{@}&init=quick"
+
+#~ msgctxt "Name"
+#~ msgid "Feedster"
+#~ msgstr "Feedster"
+
+#~ msgctxt "Query"
+#~ msgid ""
+#~ "http://www.feedster.com/index.php?page=search/web&type=Web&search=\\\\{@}"
+#~ msgstr ""
+#~ "http://www.feedster.com/index.php?page=search/web&type=Web&search=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Flickr"
+#~ msgstr "Flickr"
+
+#~ msgctxt "Query"
+#~ msgid "http://www.flickr.com/search/?q=\\\\{@}"
+#~ msgstr "http://www.flickr.com/search/?q=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Flickr Creative Commons"
+#~ msgstr "Flickr Creative Commons"
+
+#~ msgctxt "Query"
+#~ msgid "https://www.flickr.com/search/?q=\\\\{@}&l=cc&ct=0&mt=all&adv=1"
+#~ msgstr "https://www.flickr.com/search/?q=\\\\{@}&l=cc&ct=0&mt=all&adv=1"
+
+#~ msgctxt "Name"
+#~ msgid "Free On-Line Dictionary of Computing"
+#~ msgstr "コンピューティングに関するフリーのオンライン辞書"
+
+#~ msgctxt "Query"
+#~ msgid "http://foldoc.org/\\\\{@}"
+#~ msgstr "http://foldoc.org/\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "LEO - Translate Between French and German"
+#~ msgstr "LEO - フランス語-ドイツ語間の翻訳"
+
+#~ msgctxt "Name"
+#~ msgid "WordReference.com Translation: French to English"
+#~ msgstr "WordReference.com フランス語-英語翻訳"
+
+#~ msgctxt "Query"
+#~ msgid "http://www.wordreference.com/fr/en/translation.asp?fren=\\\\{@}"
+#~ msgstr "http://www.wordreference.com/fr/en/translation.asp?fren=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Freecode"
+#~ msgstr "Freecode"
+
+#~ msgctxt "Query"
+#~ msgid "http://freecode.com/search?q=\\\\{@}"
+#~ msgstr "http://freecode.com/search?q=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "FreeDB"
+#~ msgstr "FreeDB"
+
+#~ msgctxt "Query"
+#~ msgid "http://www.freedb.org/freedb_search.php?words=\\\\{@}"
+#~ msgstr "http://www.freedb.org/freedb_search.php?words=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "FSF/UNESCO Free Software Directory"
+#~ msgstr "FSF/UNESCO フリーソフトウェア ディレクトリ"
+
+#~ msgctxt "Query"
+#~ msgid "http://directory.fsf.org/search/?query=\\\\{@}"
+#~ msgstr "http://directory.fsf.org/search/?query=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "GitHub"
+#~ msgstr "GitHub"
+
+#~ msgctxt "Query"
+#~ msgid "https://github.com/search?q=\\\\{@}&x=0&y=0"
+#~ msgstr "https://github.com/search?q=\\\\{@}&x=0&y=0"
+
+#~ msgctxt "Name"
+#~ msgid "Gitorious"
+#~ msgstr "Gitorious"
+
+#~ msgctxt "Query"
+#~ msgid "https://gitorious.org/search?q=\\\\{@}&commit=Search"
+#~ msgstr "https://gitorious.org/search?q=\\\\{@}&commit=Search"
+
+#~ msgctxt "Name"
+#~ msgid "Google"
+#~ msgstr "Google"
+
+#~ msgctxt "Query"
+#~ msgid "https://www.google.com/search?q=\\\\{@}&ie=UTF-8"
+#~ msgstr "https://www.google.com/search?q=\\\\{@}&ie=UTF-8"
+
+#~ msgctxt "Name"
+#~ msgid "Google Advanced Search"
+#~ msgstr "Google 検索オプション"
+
+#~ msgctxt "Query"
+#~ msgid ""
+#~ "https://www.google.com/search?as_q=\\\\{all,@}&num=\\\\{num,\"10\"}"
+#~ "&btnG=Google+Search&as_epq=\\\\{exact,\"\"}&as_oq=\\\\{any,\"\"}&as_eq=\\"
+#~ "\\{without,\"\"}&lr=\\\\{lang,\"\"}&as_ft=\\\\{ft,\"i\"}&as_filetype=\\\\"
+#~ "{filetype,\"\"}&as_qdr=\\\\{date,\"all\"}&as_occt=\\\\{occ,\"any\"}"
+#~ "&as_dt=\\\\{siteop,\"i\"}&as_sitesearch=\\\\{site}&safe=\\\\{safe,"
+#~ "\"active\"}&ie=UTF-8&oe=UTF-8"
+#~ msgstr ""
+#~ "https://www.google.com/search?as_q=\\\\{all,@}&num=\\\\{num,\"10\"}"
+#~ "&btnG=Google+Search&as_epq=\\\\{exact,\"\"}&as_oq=\\\\{any,\"\"}&as_eq=\\"
+#~ "\\{without,\"\"}&lr=\\\\{lang,\"\"}&as_ft=\\\\{ft,\"i\"}&as_filetype=\\\\"
+#~ "{filetype,\"\"}&as_qdr=\\\\{date,\"all\"}&as_occt=\\\\{occ,\"any\"}"
+#~ "&as_dt=\\\\{siteop,\"i\"}&as_sitesearch=\\\\{site}&safe=\\\\{safe,"
+#~ "\"active\"}&ie=UTF-8&oe=UTF-8"
+
+#~ msgctxt "Name"
+#~ msgid "Google Code"
+#~ msgstr "Google Code"
+
+#~ msgctxt "Query"
+#~ msgid "https://code.google.com/query/#q=\\\\{%2520}"
+#~ msgstr "https://code.google.com/query/#q=\\\\{%2520}"
+
+#~ msgctxt "Name"
+#~ msgid "Google Groups"
+#~ msgstr "Google グループ"
+
+#~ msgctxt "Query"
+#~ msgid "https://groups.google.com/groups?oi=djq&as_q=\\\\{@}"
+#~ msgstr "https://groups.google.com/groups?oi=djq&as_q=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Google Image Search"
+#~ msgstr "Google イメージ検索"
+
+#~ msgctxt "Query"
+#~ msgid "https://www.google.com/search?site=imghp&tbm=isch&q=\\\\{@}"
+#~ msgstr "https://www.google.com/search?site=imghp&tbm=isch&q=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Google (I'm Feeling Lucky)"
+#~ msgstr "Google (I'm Feeling Lucky)"
+
+#~ msgctxt "Query"
+#~ msgid ""
+#~ "https://www.google.com/search?q=\\\\{@}"
+#~ "&btnI=I%27m+Feeling+Lucky&ie=UTF-8&oe=UTF-8"
+#~ msgstr ""
+#~ "https://www.google.com/search?q=\\\\{@}"
+#~ "&btnI=I%27m+Feeling+Lucky&ie=UTF-8&oe=UTF-8"
+
+#~ msgctxt "Name"
+#~ msgid "Google Maps"
+#~ msgstr "Google Maps"
+
+#~ msgctxt "Query"
+#~ msgid "https://maps.google.com/maps?q=\\\\{@}&ie=UTF8&iwloc=addr"
+#~ msgstr "https://maps.google.com/maps?q=\\\\{@}&ie=UTF8&iwloc=addr"
+
+#~ msgctxt "Name"
+#~ msgid "Google Movies"
+#~ msgstr "Google Movies"
+
+#~ msgctxt "Query"
+#~ msgid "http://www.google.com/search?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
+#~ msgstr "http://www.google.com/search?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
+
+#~ msgctxt "Name"
+#~ msgid "Google News"
+#~ msgstr "Google ニュース"
+
+#~ msgctxt "Query"
+#~ msgid "https://news.google.com/news?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
+#~ msgstr "https://news.google.com/news?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
+
+#~ msgctxt "Name"
+#~ msgid "Google Shopping"
+#~ msgstr "Google ショッピング"
+
+#~ msgctxt "Query"
+#~ msgid "https://www.google.com/search?hl=en&tbm=shop&q=\\\\{@}"
+#~ msgstr "https://www.google.com/search?hl=en&tbm=shop&q=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid ""
+#~ "Great Dictionary of the Catalan Language (GRan Enciclopèdia  Catalana)"
+#~ msgstr "カタロニア語大辞典 (GRan Enciclopèdia Catalana)"
+
+#~ msgctxt "Query"
+#~ msgid "http://ec.grec.net/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART=\\\\{@}"
+#~ msgstr "http://ec.grec.net/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "HyperDictionary.com"
+#~ msgstr "HyperDictionary.com"
+
+#~ msgctxt "Query"
+#~ msgid "http://www.hyperdictionary.com/search.aspx?define=\\\\{@}"
+#~ msgstr "http://www.hyperdictionary.com/search.aspx?define=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "HyperDictionary.com Thesaurus"
+#~ msgstr "HyperDictionary.com シソーラス"
+
+#~ msgctxt "Query"
+#~ msgid "http://www.hyperdictionary.com/search.aspx?Dict=T&define=\\\\{@}"
+#~ msgstr "http://www.hyperdictionary.com/search.aspx?Dict=T&define=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Internet Book List"
+#~ msgstr "Internet Book List"
+
+#~ msgctxt "Query"
+#~ msgid "http://www.iblist.com/search/search.php?item=\\\\{@}&submit=Search"
+#~ msgstr "http://www.iblist.com/search/search.php?item=\\\\{@}&submit=Search"
+
+#~ msgctxt "Name"
+#~ msgid "Identi.ca Groups"
+#~ msgstr "Identi.ca Groups"
+
+#~ msgctxt "Query"
+#~ msgid "https://identi.ca/search/group?q=\\\\{@}"
+#~ msgstr "https://identi.ca/search/group?q=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Identi.ca Notices"
+#~ msgstr "Identi.ca Notices"
+
+#~ msgctxt "Query"
+#~ msgid "https://identi.ca/search/notice?q=\\\\{@}"
+#~ msgstr "https://identi.ca/search/notice?q=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Identi.ca People"
+#~ msgstr "Identi.ca People"
+
+#~ msgctxt "Query"
+#~ msgid "https://identi.ca/search/people?q=\\\\{@}&search=Search"
+#~ msgstr "https://identi.ca/search/people?q=\\\\{@}&search=Search"
+
+#~ msgctxt "Name"
+#~ msgid "Internet Movie Database"
+#~ msgstr "インターネット映画データベース"
+
+#~ msgctxt "Query"
+#~ msgid "http://imdb.com/find?s=all&q=\\\\{@}"
+#~ msgstr "http://imdb.com/find?s=all&q=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "WordReference.com Translation: Italian to English"
+#~ msgstr "WordReference.com イタリア語-英語翻訳"
+
+#~ msgctxt "Query"
+#~ msgid "http://www.wordreference.com/it/en/translation.asp?iten=\\\\{@}"
+#~ msgstr "http://www.wordreference.com/it/en/translation.asp?iten=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Jamendo"
+#~ msgstr "Jamendo"
+
+#~ msgctxt "Query"
+#~ msgid "http://www.jamendo.com/en/search?qs=q=\\\\{@}"
+#~ msgstr "http://www.jamendo.com/en/search?qs=q=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Ask Jeeves"
+#~ msgstr "Ask Jeeves"
+
+#~ msgctxt "Query"
+#~ msgid ""
+#~ "http://www.ask.com/main/askJeeves.asp?"
+#~ "origin=0&qSource=4&site_name=Jeeves&metasearch=yes&ask=\\\\{@}"
+#~ msgstr ""
+#~ "http://www.ask.com/main/askJeeves.asp?"
+#~ "origin=0&qSource=4&site_name=Jeeves&metasearch=yes&ask=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "KDE API Documentation"
+#~ msgstr "KDE API 文書"
+
+#~ msgctxt "Query"
+#~ msgid "http://api.kde.org/classmapper.php?class=\\\\{@}"
+#~ msgstr "http://api.kde.org/classmapper.php?class=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "KDE App Search"
+#~ msgstr "KDE アプリケーション検索"
+
+#~ msgctxt "Query"
+#~ msgid ""
+#~ "http://www.kde-apps.org/content/search.php?search=Search&name=\\\\{@}"
+#~ msgstr ""
+#~ "http://www.kde-apps.org/content/search.php?search=Search&name=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Forums"
+#~ msgstr "KDE フォーラム"
+
+#~ msgctxt "Query"
+#~ msgid ""
+#~ "https://forum.kde.org/search.php?keywords=\\\\{@}"
+#~ "&terms=all&author=&tags=&sv=0&sc=1&sf=all&sr=posts&sk=t&sd=d&st=0&ch=300&countlimit=100&t=0&submit=Search"
+#~ msgstr ""
+#~ "https://forum.kde.org/search.php?keywords=\\\\{@}"
+#~ "&terms=all&author=&tags=&sv=0&sc=1&sf=all&sr=posts&sk=t&sd=d&st=0&ch=300&countlimit=100&t=0&submit=Search"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Look"
+#~ msgstr "KDE Look"
+
+#~ msgctxt "Query"
+#~ msgid ""
+#~ "http://www.kde-look.org/content/search.php?search=Search&name=\\\\{@}"
+#~ msgstr ""
+#~ "http://www.kde-look.org/content/search.php?search=Search&name=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Projects"
+#~ msgstr "KDE プロジェクト"
+
+#~ msgctxt "Query"
+#~ msgid "https://projects.kde.org/search?projects=1&q=\\\\{@}"
+#~ msgstr "https://projects.kde.org/search?projects=1&q=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "KDE TechBase"
+#~ msgstr "KDE TechBase"
+
+#~ msgctxt "Query"
+#~ msgid ""
+#~ "http://techbase.kde.org/Special:Search?search=\\\\{@}&fulltext=Search"
+#~ msgstr ""
+#~ "http://techbase.kde.org/Special:Search?search=\\\\{@}&fulltext=Search"
+
+#~ msgctxt "Name"
+#~ msgid "KDE UserBase"
+#~ msgstr "KDE UserBase"
+
+#~ msgctxt "Query"
+#~ msgid ""
+#~ "http://userbase.kde.org/Special:Search?search=\\\\{@}&fulltext=Search"
+#~ msgstr ""
+#~ "http://userbase.kde.org/Special:Search?search=\\\\{@}&fulltext=Search"
+
+#~ msgctxt "Name"
+#~ msgid "LEO-Translate"
+#~ msgstr "LEO-Translate"
+
+#~ msgctxt "Query"
+#~ msgid "http://dict.leo.org/?search=\\\\{@}"
+#~ msgstr "http://dict.leo.org/?search=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Magnatune"
+#~ msgstr "Magnatune"
+
+#~ msgctxt "Query"
+#~ msgid "http://my.magnatune.com/search?w=\\\\{@}&t=m&x=0&y=0"
+#~ msgstr "http://my.magnatune.com/search?w=\\\\{@}&t=m&x=0&y=0"
+
+#~ msgctxt "Name"
+#~ msgid "MetaCrawler"
+#~ msgstr "MetaCrawler"
+
+#~ msgctxt "Query"
+#~ msgid ""
+#~ "http://www.metacrawler.com/info.metac.cloud.other/search/web?q=\\\\{@}"
+#~ msgstr ""
+#~ "http://www.metacrawler.com/info.metac.cloud.other/search/web?q=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Microsoft Developer Network Search"
+#~ msgstr "Microsoft Developer Network 検索"
+
+#~ msgctxt "Query"
+#~ msgid "https://social.msdn.microsoft.com/Search/en-US?query=\\\\{@}"
+#~ msgstr "https://social.msdn.microsoft.com/Search/en-US?query=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Multitran - Translate Between German and Russian"
+#~ msgstr "Multitran - ドイツ語-ロシア語間の翻訳"
+
+#~ msgctxt "Query"
+#~ msgid "http://multitran.ru/c/m.exe?l1=3&s=\\\\{@}"
+#~ msgstr "http://multitran.ru/c/m.exe?l1=3&s=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Multitran - Translate Between English and Russian"
+#~ msgstr "Multitran - 英語-ロシア語間の翻訳"
+
+#~ msgctxt "Query"
+#~ msgid "http://multitran.ru/c/m.exe?l1=1&l2=2&s=\\\\{@}"
+#~ msgstr "http://multitran.ru/c/m.exe?l1=1&l2=2&s=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Multitran - Translate Between Spanish and Russian"
+#~ msgstr "Multitran - スペイン語-ロシア語間の翻訳"
+
+#~ msgctxt "Query"
+#~ msgid "http://multitran.ru/c/m.exe?l1=5&s=\\\\{@}"
+#~ msgstr "http://multitran.ru/c/m.exe?l1=5&s=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Multitran - Translate Between French and Russian"
+#~ msgstr "Multitran - フランス語-ロシア語間の翻訳"
+
+#~ msgctxt "Query"
+#~ msgid "http://multitran.ru/c/m.exe?l1=4&s=\\\\{@}"
+#~ msgstr "http://multitran.ru/c/m.exe?l1=4&s=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Multitran - Translate Between Italian and Russian"
+#~ msgstr "Multitran - イタリア語-ロシア語間の翻訳"
+
+#~ msgctxt "Query"
+#~ msgid "http://multitran.ru/c/m.exe?l1=23&s=\\\\{@}"
+#~ msgstr "http://multitran.ru/c/m.exe?l1=23&s=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Multitran - Translate Between Dutch and Russian"
+#~ msgstr "Multitran - オランダ語-ロシア語間の翻訳"
+
+#~ msgctxt "Query"
+#~ msgid "http://multitran.ru/c/m.exe?l1=24&s=\\\\{@}"
+#~ msgstr "http://multitran.ru/c/m.exe?l1=24&s=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Netcraft"
+#~ msgstr "Netcraft"
+
+#~ msgctxt "Query"
+#~ msgid "http://uptime.netcraft.com/up/graph?site=\\\\{@}"
+#~ msgstr "http://uptime.netcraft.com/up/graph?site=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Telephonebook Search Provider"
+#~ msgstr "Telephonebook 検索プロバイダ"
+
+#~ msgctxt "Query"
+#~ msgid ""
+#~ "http://www.detelefoongids.nl/\\\\{1}/\\\\{2}/10-1/?oWhat=\\\\{1}&oWhere=\\"
+#~ "\\{2}"
+#~ msgstr ""
+#~ "http://www.detelefoongids.nl/\\\\{1}/\\\\{2}/10-1/?oWhat=\\\\{1}&oWhere=\\"
+#~ "\\{2}"
+
+#~ msgctxt "Name"
+#~ msgid "Teletekst Search Provider"
+#~ msgstr "Teletekst 検索プロバイダ"
+
+#~ msgctxt "Query"
+#~ msgid "http://teletekst.nos.nl/gif/\\\\{@}-01.html"
+#~ msgstr "http://teletekst.nos.nl/gif/\\\\{@}-01.html"
+
+#~ msgctxt "Name"
+#~ msgid "openDesktop.org"
+#~ msgstr "openDesktop.org"
+
+#~ msgctxt "Query"
+#~ msgid ""
+#~ "http://www.opendesktop.org/content/search.php?search=Search&name=\\\\{@}"
+#~ msgstr ""
+#~ "http://www.opendesktop.org/content/search.php?search=Search&name=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "OpenPGP Key Search"
+#~ msgstr "OpenPGP キー検索"
+
+#~ msgctxt "Query"
+#~ msgid "http://pgp.mit.edu:11371/pks/lookup?search=\\\\{@}&op=vindex"
+#~ msgstr "http://pgp.mit.edu:11371/pks/lookup?search=\\\\{@}&op=vindex"
+
+#~ msgctxt "Name"
+#~ msgid "PHP Search"
+#~ msgstr "PHP 検索"
+
+#~ msgctxt "Query"
+#~ msgid "http://www.php.net/manual-lookup.php?pattern=\\\\{@}"
+#~ msgstr "http://www.php.net/manual-lookup.php?pattern=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Python Reference Manual"
+#~ msgstr "Python リファレンスマニュアル"
+
+#~ msgctxt "Query"
+#~ msgid ""
+#~ "https://www.google.com/search?sourceid=python-search&q=\\\\{@}"
+#~ "&submit=Search&q=site%3Apython.org"
+#~ msgstr ""
+#~ "https://www.google.com/search?sourceid=python-search&q=\\\\{@}"
+#~ "&submit=Search&q=site%3Apython.org"
+
+#~ msgctxt "Name"
+#~ msgid "Latest Qt Online Documentation"
+#~ msgstr "Qt 最新オンラインドキュメント"
+
+#~ msgctxt "Query"
+#~ msgid "http://qt-project.org/doc/search/qt-5.0?search=\\\\{@}"
+#~ msgstr "http://qt-project.org/doc/search/qt-5.0?search=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Qt4 Documentation"
+#~ msgstr "Qt4 ドキュメント"
+
+#~ msgctxt "Query"
+#~ msgid "http://qt-project.org/doc/search/qt-4.8?search=\\\\{@}"
+#~ msgstr "http://qt-project.org/doc/search/qt-4.8?search=\\\\{@}"
+
+#, fuzzy
+#~| msgctxt "Query"
+#~| msgid "https://www.facebook.com/search/?q=\\\\{@}&init=quick"
+#~ msgctxt "Query"
+#~ msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&source=web"
+#~ msgstr "https://www.facebook.com/search/?q=\\\\{@}&init=quick"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Yahoo Images"
+#~ msgctxt "Name"
+#~ msgid "Qwant Images"
+#~ msgstr "Yahoo Images"
+
+#, fuzzy
+#~| msgctxt "Query"
+#~| msgid "https://www.facebook.com/search/?q=\\\\{@}&init=quick"
+#~ msgctxt "Query"
+#~ msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=images"
+#~ msgstr "https://www.facebook.com/search/?q=\\\\{@}&init=quick"
+
+#, fuzzy
+#~| msgctxt "Query"
+#~| msgid "https://www.facebook.com/search/?q=\\\\{@}&init=quick"
+#~ msgctxt "Query"
+#~ msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=news"
+#~ msgstr "https://www.facebook.com/search/?q=\\\\{@}&init=quick"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Yahoo Shopping"
+#~ msgctxt "Name"
+#~ msgid "Qwant Shopping"
+#~ msgstr "Yahoo Shopping"
+
+#, fuzzy
+#~| msgctxt "Query"
+#~| msgid "https://www.facebook.com/search/?q=\\\\{@}&init=quick"
+#~ msgctxt "Query"
+#~ msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=shopping"
+#~ msgstr "https://www.facebook.com/search/?q=\\\\{@}&init=quick"
+
+#, fuzzy
+#~| msgctxt "Query"
+#~| msgid "https://www.facebook.com/search/?q=\\\\{@}&init=quick"
+#~ msgctxt "Query"
+#~ msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=social"
+#~ msgstr "https://www.facebook.com/search/?q=\\\\{@}&init=quick"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Yahoo Video"
+#~ msgctxt "Name"
+#~ msgid "Qwant Videos"
+#~ msgstr "Yahoo Video"
+
+#, fuzzy
+#~| msgctxt "Query"
+#~| msgid "https://www.facebook.com/search/?q=\\\\{@}&init=quick"
+#~ msgctxt "Query"
+#~ msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=videos"
+#~ msgstr "https://www.facebook.com/search/?q=\\\\{@}&init=quick"
+
+#~ msgctxt "Name"
+#~ msgid "Dictionary of the Spanish Academy (RAE)"
+#~ msgstr "スペイン大学辞書"
+
+#~ msgctxt "Query"
+#~ msgid "http://www.rae.es/drae/?val=\\\\{@}"
+#~ msgstr "http://www.rae.es/drae/?val=\\\\{@}"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Dictionary of the Spanish Academy (RAE)"
+#~ msgctxt "Name"
+#~ msgid "Dictionary of the Galician Academy (RAG)"
+#~ msgstr "スペイン大学辞書"
+
+#~ msgctxt "Name"
+#~ msgid "IETF Requests for Comments"
+#~ msgstr "IETF Requests for Comments"
+
+#~ msgctxt "Query"
+#~ msgid "http://tools.ietf.org/id/\\\\{@}"
+#~ msgstr "http://tools.ietf.org/id/\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "RPM-Find"
+#~ msgstr "RPM-Find"
+
+#~ msgctxt "Query"
+#~ msgid "http://www.rpmfind.net/linux/rpm2html/search.php?query=\\\\{@}"
+#~ msgstr "http://www.rpmfind.net/linux/rpm2html/search.php?query=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Ruby Application Archive"
+#~ msgstr "Ruby アプリケーションアーカイブ"
+
+#~ msgctxt "Query"
+#~ msgid "http://www.ruby-lang.org/en/raa-list.rhtml?name=\\\\{@}"
+#~ msgstr "http://www.ruby-lang.org/en/raa-list.rhtml?name=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "SourceForge"
+#~ msgstr "SourceForge"
+
+#~ msgctxt "Query"
+#~ msgid ""
+#~ "http://sourceforge.net/search/?type_of_search=\\\\{type,\"soft\"}&exact=\\"
+#~ "\\{exact,\"0\"}&words=\\\\{@}"
+#~ msgstr ""
+#~ "http://sourceforge.net/search/?type_of_search=\\\\{type,\"soft\"}&exact=\\"
+#~ "\\{exact,\"0\"}&words=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Technorati"
+#~ msgstr "Technorati"
+
+#~ msgctxt "Query"
+#~ msgid "http://technorati.com/search?return=sites&authority=high&q=\\\\{@}"
+#~ msgstr "http://technorati.com/search?return=sites&authority=high&q=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Technorati Tags"
+#~ msgstr "Technorati Tag"
+
+#~ msgctxt "Query"
+#~ msgid "http://technorati.com/tag/\\\\{@}?sourceid=kde-search"
+#~ msgstr "http://technorati.com/tag/\\\\{@}?sourceid=kde-search"
+
+#~ msgctxt "Name"
+#~ msgid "Merriam-Webster Thesaurus"
+#~ msgstr "Merriam-Webster Thesaurus"
+
+#~ msgctxt "Query"
+#~ msgid "http://www.m-w.com/cgi-bin/thesaurus?book=Thesaurus&va=\\\\{@}"
+#~ msgstr "http://www.m-w.com/cgi-bin/thesaurus?book=Thesaurus&va=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "TV Tome"
+#~ msgstr "TV Tome"
+
+#~ msgctxt "Query"
+#~ msgid "http://www.tv.com/search.php?type=11&stype=all&qs=\\\\{@}&x=0&y=0"
+#~ msgstr "http://www.tv.com/search.php?type=11&stype=all&qs=\\\\{@}&x=0&y=0"
+
+#~ msgctxt "Name"
+#~ msgid "Urban Dictionary"
+#~ msgstr "Urban Dictionary"
+
+#~ msgctxt "Query"
+#~ msgid "http://www.urbandictionary.com/define.php?term=\\\\{@}"
+#~ msgstr "http://www.urbandictionary.com/define.php?term=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "U.S. Patent Database"
+#~ msgstr "米国特許データベース"
+
+#~ msgctxt "Query"
+#~ msgid ""
+#~ "http://patft.uspto.gov/netacgi/nph-Parser?TERM1=\\\\{@}"
+#~ "&Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=/netahtml/srchnum.htm&r=0&f=S&l=50"
+#~ msgstr ""
+#~ "http://patft.uspto.gov/netacgi/nph-Parser?TERM1=\\\\{@}"
+#~ "&Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=/netahtml/srchnum.htm&r=0&f=S&l=50"
+
+#~ msgctxt "Name"
+#~ msgid "Vimeo"
+#~ msgstr "Vimeo"
+
+#~ msgctxt "Query"
+#~ msgid "http://vimeo.com/search?q=\\\\{@}"
+#~ msgstr "http://vimeo.com/search?q=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Voila"
+#~ msgstr "Voila"
+
+#~ msgctxt "Query"
+#~ msgid "http://www.voila.com/S/geek?an=1&kw=\\\\{@}&dt=*"
+#~ msgstr "http://www.voila.com/S/geek?an=1&kw=\\\\{@}&dt=*"
+
+#~ msgctxt "Name"
+#~ msgid "Merriam-Webster Dictionary"
+#~ msgstr "Merriam-Webster Dictionary"
+
+#~ msgctxt "Query"
+#~ msgid "http://www.m-w.com/cgi-bin/dictionary?book=Dictionary&va=\\\\{@}"
+#~ msgstr "http://www.m-w.com/cgi-bin/dictionary?book=Dictionary&va=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Wikia"
+#~ msgstr "Wikia"
+
+#~ msgctxt "Query"
+#~ msgid ""
+#~ "http://www.wikia.com/Special:Search?search=\\\\{@}"
+#~ "&wikia_search_submit=Search"
+#~ msgstr ""
+#~ "http://www.wikia.com/Special:Search?search=\\\\{@}"
+#~ "&wikia_search_submit=Search"
+
+#~ msgctxt "Name"
+#~ msgid "Wikipedia - The Free Encyclopedia"
+#~ msgstr "Wikipedia - フリーな百科事典"
+
+#~ msgctxt "Query"
+#~ msgid "https://en.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
+#~ msgstr "https://en.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
+
+#~ msgctxt "Name"
+#~ msgid "Wiktionary - The Free Dictionary"
+#~ msgstr "Wictionary - フリーな辞書"
+
+#~ msgctxt "Query"
+#~ msgid "https://en.wiktionary.org/wiki/Special:Search?search=\\\\{@}&go=Go"
+#~ msgstr "https://en.wiktionary.org/wiki/Special:Search?search=\\\\{@}&go=Go"
+
+#~ msgctxt "Name"
+#~ msgid "Wolfram Alpha"
+#~ msgstr "Wolfram Alpha"
+
+#~ msgctxt "Query"
+#~ msgid "https://www.wolframalpha.com/input/?i=\\\\{@}"
+#~ msgstr "https://www.wolframalpha.com/input/?i=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "WordReference.com English Dictionary"
+#~ msgstr "WordReference.com 英語辞書"
+
+#~ msgctxt "Query"
+#~ msgid "http://www.wordreference.com/english/definition.asp?en=\\\\{@}"
+#~ msgstr "http://www.wordreference.com/english/definition.asp?en=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Yahoo"
+#~ msgstr "Yahoo"
+
+#~ msgctxt "Query"
+#~ msgid ""
+#~ "http://search.yahoo.com/search?toggle=1&cop=mss&ei=UTF-8&fr=yfp-t-701&p=\\"
+#~ "\\{@}&x=0&y=0&=Web+Search"
+#~ msgstr ""
+#~ "http://search.yahoo.com/search?toggle=1&cop=mss&ei=UTF-8&fr=yfp-t-701&p=\\"
+#~ "\\{@}&x=0&y=0&=Web+Search"
+
+#~ msgctxt "Name"
+#~ msgid "Yahoo Images"
+#~ msgstr "Yahoo Images"
+
+#~ msgctxt "Query"
+#~ msgid ""
+#~ "http://images.search.yahoo.com/search/"
+#~ "images;_ylt=A0geuy0K6JZLsVkB4m1XNyoA?ei=UTF-8&p=\\\\{@}&y=0&fr2=tab-"
+#~ "web&fr=yfp-t-701"
+#~ msgstr ""
+#~ "http://images.search.yahoo.com/search/"
+#~ "images;_ylt=A0geuy0K6JZLsVkB4m1XNyoA?ei=UTF-8&p=\\\\{@}&y=0&fr2=tab-"
+#~ "web&fr=yfp-t-701"
+
+#~ msgctxt "Name"
+#~ msgid "Yahoo Local"
+#~ msgstr "Yahoo Local"
+
+#~ msgctxt "Query"
+#~ msgid ""
+#~ "http://local.yahoo.com/results?stx=\\\\{@}&ei=UTF-8&fr=yfp-t-701&fr2=tab-"
+#~ "img"
+#~ msgstr ""
+#~ "http://local.yahoo.com/results?stx=\\\\{@}&ei=UTF-8&fr=yfp-t-701&fr2=tab-"
+#~ "img"
+
+#~ msgctxt "Name"
+#~ msgid "Yahoo Shopping"
+#~ msgstr "Yahoo Shopping"
+
+#~ msgctxt "Query"
+#~ msgid ""
+#~ "http://shopping.yahoo.com/"
+#~ "search;_ylt=A0SO8ZgG65ZLyX8AsLX7w8QF;_ylu=X3oDMTBpcjIxMDllBHNlYwN0YWJzBHZ0aWQDVjEwOQ--?"
+#~ "cop=mss&ei=UTF-8&p=\\\\{@}&fr2=tab-video&fr=yfp-t-701"
+#~ msgstr ""
+#~ "http://shopping.yahoo.com/"
+#~ "search;_ylt=A0SO8ZgG65ZLyX8AsLX7w8QF;_ylu=X3oDMTBpcjIxMDllBHNlYwN0YWJzBHZ0aWQDVjEwOQ--?"
+#~ "cop=mss&ei=UTF-8&p=\\\\{@}&fr2=tab-video&fr=yfp-t-701"
+
+#~ msgctxt "Name"
+#~ msgid "Yahoo Video"
+#~ msgstr "Yahoo Video"
+
+#~ msgctxt "Query"
+#~ msgid ""
+#~ "http://video.search.yahoo.com/search/video;_ylt=A0WTb_3a6JZLSHwAK7.JzbkF?"
+#~ "ei=UTF-8&p=\\\\{@}&y=0&fr2=tab-img&fr=yfp-t-701"
+#~ msgstr ""
+#~ "http://video.search.yahoo.com/search/video;_ylt=A0WTb_3a6JZLSHwAK7.JzbkF?"
+#~ "ei=UTF-8&p=\\\\{@}&y=0&fr2=tab-img&fr=yfp-t-701"
+
+#~ msgctxt "Name"
+#~ msgid "YouTube"
+#~ msgstr "YouTube"
+
+#~ msgctxt "Query"
+#~ msgid ""
+#~ "https://www.youtube.com/results?search_query=\\\\{@}&search_type=&aq=f"
+#~ msgstr ""
+#~ "https://www.youtube.com/results?search_query=\\\\{@}&search_type=&aq=f"
+
+#~ msgctxt "Name"
+#~ msgid "LocalDomainFilter"
+#~ msgstr "LocalDomainFilter"
+
+#~ msgctxt "Name"
+#~ msgid "ShortURIFilter"
+#~ msgstr "ShortURIFilter"
+
+#~ msgctxt "Name"
+#~ msgid "Andorra"
+#~ msgstr "アンドラ"
+
+#~ msgctxt "Name"
+#~ msgid "United Arab Emirates"
+#~ msgstr "アラブ首長国連邦"
+
+#~ msgctxt "Name"
+#~ msgid "Afghanistan"
+#~ msgstr "アフガニスタン"
+
+#~ msgctxt "Name"
+#~ msgid "Antigua and Barbuda"
+#~ msgstr "アンティグア・バーブーダ"
+
+#~ msgctxt "Name"
+#~ msgid "Anguilla"
+#~ msgstr "アンギラ"
+
+#~ msgctxt "Name"
+#~ msgid "Albania"
+#~ msgstr "アルバニア"
+
+#~ msgctxt "Name"
+#~ msgid "Armenia"
+#~ msgstr "アルメニア"
+
+#~ msgctxt "Name"
+#~ msgid "Netherlands Antilles"
+#~ msgstr "オランダ領アンティル"
+
+#~ msgctxt "Name"
+#~ msgid "Angola"
+#~ msgstr "アンゴラ"
+
+#~ msgctxt "Name"
+#~ msgid "Argentina"
+#~ msgstr "アルゼンチン"
+
+#~ msgctxt "Name"
+#~ msgid "American Samoa"
+#~ msgstr "米領サモア"
+
+#~ msgctxt "Name"
+#~ msgid "Austria"
+#~ msgstr "オーストリア"
+
+#~ msgctxt "Name"
+#~ msgid "Australia"
+#~ msgstr "オーストラリア"
+
+#~ msgctxt "Name"
+#~ msgid "Aruba"
+#~ msgstr "アルバ"
+
+#~ msgctxt "Name"
+#~ msgid "Åland Islands"
+#~ msgstr "オーランド諸島"
+
+#~ msgctxt "Name"
+#~ msgid "Azerbaijan"
+#~ msgstr "アゼルバイジャン"
+
+#~ msgctxt "Name"
+#~ msgid "Bosnia and Herzegovina"
+#~ msgstr "ボスニア・ヘルツェゴビナ"
+
+#~ msgctxt "Name"
+#~ msgid "Barbados"
+#~ msgstr "バルバドス"
+
+#~ msgctxt "Name"
+#~ msgid "Bangladesh"
+#~ msgstr "バングラデシュ"
+
+#~ msgctxt "Name"
+#~ msgid "Belgium"
+#~ msgstr "ベルギー"
+
+#~ msgctxt "Name"
+#~ msgid "Burkina Faso"
+#~ msgstr "ブルキナファソ"
+
+#~ msgctxt "Name"
+#~ msgid "Bulgaria"
+#~ msgstr "ブルガリア"
+
+#~ msgctxt "Name"
+#~ msgid "Bahrain"
+#~ msgstr "バーレーン"
+
+#~ msgctxt "Name"
+#~ msgid "Burundi"
+#~ msgstr "ブルンジ"
+
+#~ msgctxt "Name"
+#~ msgid "Benin"
+#~ msgstr "ベナン"
+
+#~ msgctxt "Name"
+#~ msgid "Saint Barthélemy"
+#~ msgstr "サンバルテルミー島"
+
+#~ msgctxt "Name"
+#~ msgid "Bermuda"
+#~ msgstr "バミューダ諸島"
+
+#~ msgctxt "Name"
+#~ msgid "Brunei Darussalam"
+#~ msgstr "ブルネイ"
+
+#~ msgctxt "Name"
+#~ msgid "Bolivia"
+#~ msgstr "ボリビア"
+
+#~ msgctxt "Name"
+#~ msgid "Brazil"
+#~ msgstr "ブラジル"
+
+#~ msgctxt "Name"
+#~ msgid "Bahamas"
+#~ msgstr "バハマ"
+
+#~ msgctxt "Name"
+#~ msgid "Bhutan"
+#~ msgstr "ブータン"
+
+#~ msgctxt "Name"
+#~ msgid "Botswana"
+#~ msgstr "ボツワナ"
+
+#~ msgctxt "Name"
+#~ msgid "Belarus"
+#~ msgstr "ベラルーシ"
+
+#~ msgctxt "Name"
+#~ msgid "Belize"
+#~ msgstr "ベリーズ"
+
+#~ msgctxt "Name"
+#~ msgid "Default"
+#~ msgstr "標準"
+
+#~ msgctxt "Name"
+#~ msgid "Canada"
+#~ msgstr "カナダ"
+
+#~ msgctxt "Name"
+#~ msgid "Caribbean"
+#~ msgstr "カリブ"
+
+#~ msgctxt "Name"
+#~ msgid "Cocos (Keeling) Islands"
+#~ msgstr "ココス諸島"
+
+#~ msgctxt "Name"
+#~ msgid "Congo, The Democratic Republic of the"
+#~ msgstr "コンゴ"
+
+#~ msgctxt "Name"
+#~ msgid "Africa, Central"
+#~ msgstr "中央アフリカ"
+
+#~ msgctxt "Name"
+#~ msgid "America, Central"
+#~ msgstr "中央アメリカ"
+
+#~ msgctxt "Name"
+#~ msgid "Asia, Central"
+#~ msgstr "中央アジア"
+
+#~ msgctxt "Name"
+#~ msgid "Europe, Central"
+#~ msgstr "中央ヨーロッパ"
+
+#~ msgctxt "Name"
+#~ msgid "Central African Republic"
+#~ msgstr "中央アフリカ共和国"
+
+#~ msgctxt "Name"
+#~ msgid "Congo"
+#~ msgstr "コンゴ共和国"
+
+#~ msgctxt "Name"
+#~ msgid "Switzerland"
+#~ msgstr "スイス"
+
+#~ msgctxt "Name"
+#~ msgid "Cote d'ivoire"
+#~ msgstr "コートジボワール"
+
+#~ msgctxt "Name"
+#~ msgid "Cook islands"
+#~ msgstr "クック諸島"
+
+#~ msgctxt "Name"
+#~ msgid "Chile"
+#~ msgstr "チリ"
+
+#~ msgctxt "Name"
+#~ msgid "Cameroon"
+#~ msgstr "カメルーン"
+
+#~ msgctxt "Name"
+#~ msgid "China"
+#~ msgstr "中国"
+
+#~ msgctxt "Name"
+#~ msgid "Colombia"
+#~ msgstr "コロンビア"
+
+#~ msgctxt "Name"
+#~ msgid "Costa Rica"
+#~ msgstr "コスタリカ"
+
+#~ msgctxt "Name"
+#~ msgid "Cuba"
+#~ msgstr "キューバ"
+
+#~ msgctxt "Name"
+#~ msgid "Cape Verde"
+#~ msgstr "カーボベルデ"
+
+#~ msgctxt "Name"
+#~ msgid "Christmas Island"
+#~ msgstr "クリスマス島"
+
+#~ msgctxt "Name"
+#~ msgid "Cyprus"
+#~ msgstr "キプロス"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Czech Koruna"
+#~ msgctxt "Name"
+#~ msgid "Czechia"
+#~ msgstr "チェコ・コルナ"
+
+#~ msgctxt "Name"
+#~ msgid "Germany"
+#~ msgstr "ドイツ"
+
+#~ msgctxt "Name"
+#~ msgid "Djibouti"
+#~ msgstr "ジブチ"
+
+#~ msgctxt "Name"
+#~ msgid "Denmark"
+#~ msgstr "デンマーク"
+
+#~ msgctxt "Name"
+#~ msgid "Dominica"
+#~ msgstr "ドミニカ"
+
+#~ msgctxt "Name"
+#~ msgid "Dominican Republic"
+#~ msgstr "ドミニカ共和国"
+
+#~ msgctxt "Name"
+#~ msgid "Algeria"
+#~ msgstr "アルジェリア"
+
+#~ msgctxt "Name"
+#~ msgid "Africa, Eastern"
+#~ msgstr "東アフリカ"
+
+#~ msgctxt "Name"
+#~ msgid "Asia, East"
+#~ msgstr "東アジア"
+
+#~ msgctxt "Name"
+#~ msgid "Europe, Eastern"
+#~ msgstr "東ヨーロッパ"
+
+#~ msgctxt "Name"
+#~ msgid "Ecuador"
+#~ msgstr "エクアドル"
+
+#~ msgctxt "Name"
+#~ msgid "Estonia"
+#~ msgstr "エストニア"
+
+#~ msgctxt "Name"
+#~ msgid "Egypt"
+#~ msgstr "エジプト"
+
+#~ msgctxt "Name"
+#~ msgid "Western Sahara"
+#~ msgstr "西サハラ"
+
+#~ msgctxt "Name"
+#~ msgid "Eritrea"
+#~ msgstr "エリトリア"
+
+#~ msgctxt "Name"
+#~ msgid "Spain"
+#~ msgstr "スペイン"
+
+#~ msgctxt "Name"
+#~ msgid "Ethiopia"
+#~ msgstr "エチオピア"
+
+#~ msgctxt "Name"
+#~ msgid "Finland"
+#~ msgstr "フィンランド"
+
+#~ msgctxt "Name"
+#~ msgid "Fiji"
+#~ msgstr "フィジー"
+
+#~ msgctxt "Name"
+#~ msgid "Falkland Islands (Malvinas)"
+#~ msgstr "フォークランド諸島"
+
+#~ msgctxt "Name"
+#~ msgid "Micronesia, Federated States of"
+#~ msgstr "ミクロネシア連邦"
+
+#~ msgctxt "Name"
+#~ msgid "Faroe Islands"
+#~ msgstr "フェロー諸島"
+
+#~ msgctxt "Name"
+#~ msgid "France"
+#~ msgstr "フランス"
+
+#~ msgctxt "Name"
+#~ msgid "Gabon"
+#~ msgstr "ガボン"
+
+#~ msgctxt "Name"
+#~ msgid "United Kingdom"
+#~ msgstr "英国"
+
+#~ msgctxt "Name"
+#~ msgid "Grenada"
+#~ msgstr "グレナダ"
+
+#~ msgctxt "Name"
+#~ msgid "Georgia"
+#~ msgstr "グルジア"
+
+#~ msgctxt "Name"
+#~ msgid "French Guiana"
+#~ msgstr "仏領ギアナ"
+
+#~ msgctxt "Name"
+#~ msgid "Guernsey"
+#~ msgstr "ガーンジー"
+
+#~ msgctxt "Name"
+#~ msgid "Ghana"
+#~ msgstr "ガーナ"
+
+#~ msgctxt "Name"
+#~ msgid "Gibraltar"
+#~ msgstr "ジブラルタル"
+
+#~ msgctxt "Name"
+#~ msgid "Greenland"
+#~ msgstr "グリーンランド"
+
+#~ msgctxt "Name"
+#~ msgid "Gambia"
+#~ msgstr "ガンビア"
+
+#~ msgctxt "Name"
+#~ msgid "Guinea"
+#~ msgstr "ギニア"
+
+#~ msgctxt "Name"
+#~ msgid "Guadeloupe"
+#~ msgstr "グアドループ"
+
+#~ msgctxt "Name"
+#~ msgid "Equatorial Guinea"
+#~ msgstr "赤道ギニア"
+
+#~ msgctxt "Name"
+#~ msgid "Greece"
+#~ msgstr "ギリシャ"
+
+#~ msgctxt "Name"
+#~ msgid "Guatemala"
+#~ msgstr "グアテマラ"
+
+#~ msgctxt "Name"
+#~ msgid "Guam"
+#~ msgstr "グアム"
+
+#~ msgctxt "Name"
+#~ msgid "Guinea-Bissau"
+#~ msgstr "ギニアビサウ"
+
+#~ msgctxt "Name"
+#~ msgid "Guyana"
+#~ msgstr "ガイアナ"
+
+#~ msgctxt "Name"
+#~ msgid "Hong Kong SAR(China)"
+#~ msgstr "香港 (中国)"
+
+#~ msgctxt "Name"
+#~ msgid "Honduras"
+#~ msgstr "ホンジュラス"
+
+#~ msgctxt "Name"
+#~ msgid "Croatia"
+#~ msgstr "クロアチア"
+
+#~ msgctxt "Name"
+#~ msgid "Haiti"
+#~ msgstr "ハイチ"
+
+#~ msgctxt "Name"
+#~ msgid "Hungary"
+#~ msgstr "ハンガリー"
+
+#~ msgctxt "Name"
+#~ msgid "Indonesia"
+#~ msgstr "インドネシア"
+
+#~ msgctxt "Name"
+#~ msgid "Ireland"
+#~ msgstr "アイルランド"
+
+#~ msgctxt "Name"
+#~ msgid "Israel"
+#~ msgstr "イスラエル"
+
+#~ msgctxt "Name"
+#~ msgid "Isle of Man"
+#~ msgstr "マン島"
+
+#~ msgctxt "Name"
+#~ msgid "India"
+#~ msgstr "インド"
+
+#~ msgctxt "Name"
+#~ msgid "Iraq"
+#~ msgstr "イラク"
+
+#~ msgctxt "Name"
+#~ msgid "Iran"
+#~ msgstr "イラン"
+
+#~ msgctxt "Name"
+#~ msgid "Iceland"
+#~ msgstr "アイスランド"
+
+#~ msgctxt "Name"
+#~ msgid "Italy"
+#~ msgstr "イタリア"
+
+#~ msgctxt "Name"
+#~ msgid "Jersey"
+#~ msgstr "ジャージー島"
+
+#~ msgctxt "Name"
+#~ msgid "Jamaica"
+#~ msgstr "ジャマイカ"
+
+#~ msgctxt "Name"
+#~ msgid "Jordan"
+#~ msgstr "ヨルダン"
+
+#~ msgctxt "Name"
+#~ msgid "Japan"
+#~ msgstr "日本"
+
+#~ msgctxt "Name"
+#~ msgid "Kenya"
+#~ msgstr "ケニア"
+
+#~ msgctxt "Name"
+#~ msgid "Kyrgyzstan"
+#~ msgstr "キルギス"
+
+#~ msgctxt "Name"
+#~ msgid "Cambodia"
+#~ msgstr "カンボジア"
+
+#~ msgctxt "Name"
+#~ msgid "Kiribati"
+#~ msgstr "キリバス"
+
+#~ msgctxt "Name"
+#~ msgid "Comoros"
+#~ msgstr "コモロ"
+
+#~ msgctxt "Name"
+#~ msgid "St. Kitts and Nevis"
+#~ msgstr "セントクリストファー・ネビス"
+
+#~ msgctxt "Name"
+#~ msgid "North Korea"
+#~ msgstr "北朝鮮"
+
+#~ msgctxt "Name"
+#~ msgid "South Korea"
+#~ msgstr "韓国"
+
+#~ msgctxt "Name"
+#~ msgid "Kuwait"
+#~ msgstr "クウェート"
+
+#~ msgctxt "Name"
+#~ msgid "Cayman Islands"
+#~ msgstr "ケイマン諸島"
+
+#~ msgctxt "Name"
+#~ msgid "Kazakhstan"
+#~ msgstr "カザフスタン"
+
+#~ msgctxt "Name"
+#~ msgid "Laos"
+#~ msgstr "ラオス"
+
+#~ msgctxt "Name"
+#~ msgid "Lebanon"
+#~ msgstr "レバノン"
+
+#~ msgctxt "Name"
+#~ msgid "St. Lucia"
+#~ msgstr "セントルシア"
+
+#~ msgctxt "Name"
+#~ msgid "Liechtenstein"
+#~ msgstr "リヒテンシュタイン"
+
+#~ msgctxt "Name"
+#~ msgid "Sri Lanka"
+#~ msgstr "スリランカ"
+
+#~ msgctxt "Name"
+#~ msgid "Liberia"
+#~ msgstr "リベリア"
+
+#~ msgctxt "Name"
+#~ msgid "Lesotho"
+#~ msgstr "レソト"
+
+#~ msgctxt "Name"
+#~ msgid "Lithuania"
+#~ msgstr "リトアニア"
+
+#~ msgctxt "Name"
+#~ msgid "Luxembourg"
+#~ msgstr "ルクセンブルク"
+
+#~ msgctxt "Name"
+#~ msgid "Latvia"
+#~ msgstr "ラトビア"
+
+#~ msgctxt "Name"
+#~ msgid "Libya"
+#~ msgstr "リビア"
+
+#~ msgctxt "Name"
+#~ msgid "Morocco"
+#~ msgstr "モロッコ"
+
+#~ msgctxt "Name"
+#~ msgid "Monaco"
+#~ msgstr "モナコ"
+
+#~ msgctxt "Name"
+#~ msgid "Moldova"
+#~ msgstr "モルドバ"
+
+#~ msgctxt "Name"
+#~ msgid "Montenegro"
+#~ msgstr "モンテネグロ"
+
+#~ msgctxt "Name"
+#~ msgid "Saint Martin"
+#~ msgstr "セント・マーチン島"
+
+#~ msgctxt "Name"
+#~ msgid "Madagascar"
+#~ msgstr "マダガスカル"
+
+#~ msgctxt "Name"
+#~ msgid "Marshall Islands"
+#~ msgstr "マーシャル諸島"
+
+#~ msgctxt "Name"
+#~ msgid "Middle-East"
+#~ msgstr "中東"
+
+#~ msgctxt "Name"
+#~ msgid "Macedonia"
+#~ msgstr "マケドニア"
+
+#~ msgctxt "Name"
+#~ msgid "Mali"
+#~ msgstr "マリ"
+
+#~ msgctxt "Name"
+#~ msgid "Myanmar"
+#~ msgstr "ミャンマー"
+
+#~ msgctxt "Name"
+#~ msgid "Mongolia"
+#~ msgstr "モンゴル"
+
+#~ msgctxt "Name"
+#~ msgid "Macau SAR(China)"
+#~ msgstr "マカオ (中国)"
+
+#~ msgctxt "Name"
+#~ msgid "Northern Mariana Islands"
+#~ msgstr "北マリアナ諸島"
+
+#~ msgctxt "Name"
+#~ msgid "Martinique"
+#~ msgstr "マルティニク"
+
+#~ msgctxt "Name"
+#~ msgid "Mauritania"
+#~ msgstr "モーリタニア"
+
+#~ msgctxt "Name"
+#~ msgid "Montserrat"
+#~ msgstr "モントセラト"
+
+#~ msgctxt "Name"
+#~ msgid "Malta"
+#~ msgstr "マルタ"
+
+#~ msgctxt "Name"
+#~ msgid "Mauritius"
+#~ msgstr "モーリシャス"
+
+#~ msgctxt "Name"
+#~ msgid "Maldives"
+#~ msgstr "モルディブ"
+
+#~ msgctxt "Name"
+#~ msgid "Malawi"
+#~ msgstr "マラウイ"
+
+#~ msgctxt "Name"
+#~ msgid "Mexico"
+#~ msgstr "メキシコ"
+
+#~ msgctxt "Name"
+#~ msgid "Malaysia"
+#~ msgstr "マレーシア"
+
+#~ msgctxt "Name"
+#~ msgid "Mozambique"
+#~ msgstr "モザンビーク"
+
+#~ msgctxt "Name"
+#~ msgid "Namibia"
+#~ msgstr "ナミビア"
+
+#~ msgctxt "Name"
+#~ msgid "New Caledonia"
+#~ msgstr "ニューカレドニア"
+
+#~ msgctxt "Name"
+#~ msgid "Niger"
+#~ msgstr "ニジェール"
+
+#~ msgctxt "Name"
+#~ msgid "Norfolk Island"
+#~ msgstr "ノーフォーク島"
+
+#~ msgctxt "Name"
+#~ msgid "Nigeria"
+#~ msgstr "ナイジェリア"
+
+#~ msgctxt "Name"
+#~ msgid "Nicaragua"
+#~ msgstr "ニカラグア"
+
+#~ msgctxt "Name"
+#~ msgid "Netherlands"
+#~ msgstr "オランダ"
+
+#~ msgctxt "Name"
+#~ msgid "Norway"
+#~ msgstr "ノルウェー"
+
+#~ msgctxt "Name"
+#~ msgid "Africa, Northern"
+#~ msgstr "北アフリカ"
+
+#~ msgctxt "Name"
+#~ msgid "America, North"
+#~ msgstr "北アメリカ"
+
+#~ msgctxt "Name"
+#~ msgid "Europe, Northern"
+#~ msgstr "北ヨーロッパ"
+
+#~ msgctxt "Name"
+#~ msgid "Nepal"
+#~ msgstr "ネパール"
+
+#~ msgctxt "Name"
+#~ msgid "Nauru"
+#~ msgstr "ナウル"
+
+#~ msgctxt "Name"
+#~ msgid "Niue"
+#~ msgstr "ニウエ"
+
+#~ msgctxt "Name"
+#~ msgid "New Zealand"
+#~ msgstr "ニュージーランド"
+
+#~ msgctxt "Name"
+#~ msgid "Oceania"
+#~ msgstr "オセアニア"
+
+#~ msgctxt "Name"
+#~ msgid "Oman"
+#~ msgstr "オマーン"
+
+#~ msgctxt "Name"
+#~ msgid "Panama"
+#~ msgstr "パナマ"
+
+#~ msgctxt "Name"
+#~ msgid "Peru"
+#~ msgstr "ペルー"
+
+#~ msgctxt "Name"
+#~ msgid "French Polynesia"
+#~ msgstr "仏領ポリネシア"
+
+#~ msgctxt "Name"
+#~ msgid "Papua New Guinea"
+#~ msgstr "パプアニューギニア"
+
+#~ msgctxt "Name"
+#~ msgid "Philippines"
+#~ msgstr "フィリピン"
+
+#~ msgctxt "Name"
+#~ msgid "Pakistan"
+#~ msgstr "パキスタン"
+
+#~ msgctxt "Name"
+#~ msgid "Poland"
+#~ msgstr "ポーランド"
+
+#~ msgctxt "Name"
+#~ msgid "Saint Pierre and Miquelon"
+#~ msgstr "サンピエール島・ミクロン島"
+
+#~ msgctxt "Name"
+#~ msgid "Pitcairn"
+#~ msgstr "ピトケアン島"
+
+#~ msgctxt "Name"
+#~ msgid "Puerto Rico"
+#~ msgstr "プエルトリコ"
+
+#~ msgctxt "Name"
+#~ msgid "Palestinian Territory"
+#~ msgstr "パレスチナ"
+
+#~ msgctxt "Name"
+#~ msgid "Portugal"
+#~ msgstr "ポルトガル"
+
+#~ msgctxt "Name"
+#~ msgid "Palau"
+#~ msgstr "パラオ"
+
+#~ msgctxt "Name"
+#~ msgid "Paraguay"
+#~ msgstr "パラグアイ"
+
+#~ msgctxt "Name"
+#~ msgid "Qatar"
+#~ msgstr "カタール"
+
+#~ msgctxt "Name"
+#~ msgid "Réunion"
+#~ msgstr "レユニオン"
+
+#~ msgctxt "Name"
+#~ msgid "Romania"
+#~ msgstr "ルーマニア"
+
+#~ msgctxt "Name"
+#~ msgid "Serbia"
+#~ msgstr "セルビア"
+
+#~ msgctxt "Name"
+#~ msgid "Russia"
+#~ msgstr "ロシア"
+
+#~ msgctxt "Name"
+#~ msgid "Rwanda"
+#~ msgstr "ルワンダ"
+
+#~ msgctxt "Name"
+#~ msgid "Saudi Arabia"
+#~ msgstr "サウジアラビア"
+
+#~ msgctxt "Name"
+#~ msgid "Solomon Islands"
+#~ msgstr "ソロモン諸島"
+
+#~ msgctxt "Name"
+#~ msgid "Seychelles"
+#~ msgstr "セーシェル"
+
+#~ msgctxt "Name"
+#~ msgid "Sudan"
+#~ msgstr "スーダン"
+
+#~ msgctxt "Name"
+#~ msgid "Sweden"
+#~ msgstr "スウェーデン"
+
+#~ msgctxt "Name"
+#~ msgid "Singapore"
+#~ msgstr "シンガポール"
+
+#~ msgctxt "Name"
+#~ msgid "Saint Helena"
+#~ msgstr "セントヘレナ島"
+
+#~ msgctxt "Name"
+#~ msgid "Slovenia"
+#~ msgstr "スロベニア"
+
+#~ msgctxt "Name"
+#~ msgid "Slovakia"
+#~ msgstr "スロバキア"
+
+#~ msgctxt "Name"
+#~ msgid "Sierra Leone"
+#~ msgstr "シエラレオネ"
+
+#~ msgctxt "Name"
+#~ msgid "San Marino"
+#~ msgstr "サンマリノ"
+
+#~ msgctxt "Name"
+#~ msgid "Senegal"
+#~ msgstr "セネガル"
+
+#~ msgctxt "Name"
+#~ msgid "Somalia"
+#~ msgstr "ソマリア"
+
+#~ msgctxt "Name"
+#~ msgid "Africa, Southern"
+#~ msgstr "南アフリカ"
+
+#~ msgctxt "Name"
+#~ msgid "America, South"
+#~ msgstr "南アメリカ"
+
+#~ msgctxt "Name"
+#~ msgid "Asia, South"
+#~ msgstr "南アジア"
+
+#~ msgctxt "Name"
+#~ msgid "Asia, South-East"
+#~ msgstr "南東アジア"
+
+#~ msgctxt "Name"
+#~ msgid "Europe, Southern"
+#~ msgstr "南ヨーロッパ"
+
+#~ msgctxt "Name"
+#~ msgid "Suriname"
+#~ msgstr "スリナム"
+
+#~ msgctxt "Name"
+#~ msgid "South Sudan"
+#~ msgstr "南スーダン"
+
+#~ msgctxt "Name"
+#~ msgid "Sao Tome and Principe"
+#~ msgstr "サントメ・プリンシペ"
+
+#~ msgctxt "Name"
+#~ msgid "El Salvador"
+#~ msgstr "エルサルバドル"
+
+#~ msgctxt "Name"
+#~ msgid "Syria"
+#~ msgstr "シリア"
+
+#~ msgctxt "Name"
+#~ msgid "Swaziland"
+#~ msgstr "スワジランド"
+
+#~ msgctxt "Name"
+#~ msgid "Turks and Caicos Islands"
+#~ msgstr "タークス諸島・カイコス諸島"
+
+#~ msgctxt "Name"
+#~ msgid "Chad"
+#~ msgstr "チャド"
+
+#~ msgctxt "Name"
+#~ msgid "Togo"
+#~ msgstr "トーゴ"
+
+#~ msgctxt "Name"
+#~ msgid "Thailand"
+#~ msgstr "タイ"
+
+#~ msgctxt "Name"
+#~ msgid "Tajikistan"
+#~ msgstr "タジキスタン"
+
+#~ msgctxt "Name"
+#~ msgid "Tokelau"
+#~ msgstr "トケラウ"
+
+#~ msgctxt "Name"
+#~ msgid "Timor-Leste"
+#~ msgstr "東ティモール"
+
+#~ msgctxt "Name"
+#~ msgid "Turkmenistan"
+#~ msgstr "トルクメニスタン"
+
+#~ msgctxt "Name"
+#~ msgid "Tunisia"
+#~ msgstr "チュニジア"
+
+#~ msgctxt "Name"
+#~ msgid "Tonga"
+#~ msgstr "トンガ"
+
+#~ msgctxt "Name"
+#~ msgid "East Timor"
+#~ msgstr "東ティモール"
+
+#~ msgctxt "Name"
+#~ msgid "Turkey"
+#~ msgstr "トルコ"
+
+#~ msgctxt "Name"
+#~ msgid "Trinidad and Tobago"
+#~ msgstr "トリニダード・トバゴ"
+
+#~ msgctxt "Name"
+#~ msgid "Tuvalu"
+#~ msgstr "ツバル"
+
+#~ msgctxt "Name"
+#~ msgid "Taiwan"
+#~ msgstr "台湾"
+
+#~ msgctxt "Name"
+#~ msgid "Tanzania, United Republic of"
+#~ msgstr "タンザニア"
+
+#~ msgctxt "Name"
+#~ msgid "Ukraine"
+#~ msgstr "ウクライナ"
+
+#~ msgctxt "Name"
+#~ msgid "Uganda"
+#~ msgstr "ウガンダ"
+
+#~ msgctxt "Name"
+#~ msgid "United States of America"
+#~ msgstr "米国"
+
+#~ msgctxt "Name"
+#~ msgid "Uruguay"
+#~ msgstr "ウルグアイ"
+
+#~ msgctxt "Name"
+#~ msgid "Uzbekistan"
+#~ msgstr "ウズベキスタン"
+
+#~ msgctxt "Name"
+#~ msgid "Vatican City"
+#~ msgstr "バチカン"
+
+#~ msgctxt "Name"
+#~ msgid "St. Vincent and the Grenadines"
+#~ msgstr "セントビンセント・グレナディーン"
+
+#~ msgctxt "Name"
+#~ msgid "Venezuela"
+#~ msgstr "ベネズエラ"
+
+#~ msgctxt "Name"
+#~ msgid "Virgin Islands, British"
+#~ msgstr "英領バージン諸島"
+
+#~ msgctxt "Name"
+#~ msgid "Virgin Islands, U.S."
+#~ msgstr "米領バージン諸島"
+
+#~ msgctxt "Name"
+#~ msgid "Vietnam"
+#~ msgstr "ベトナム"
+
+#~ msgctxt "Name"
+#~ msgid "Vanuatu"
+#~ msgstr "バヌアツ"
+
+#~ msgctxt "Name"
+#~ msgid "Africa, Western"
+#~ msgstr "西アフリカ"
+
+#~ msgctxt "Name"
+#~ msgid "Europe, Western"
+#~ msgstr "西ヨーロッパ"
+
+#~ msgctxt "Name"
+#~ msgid "Wallis and Futuna"
+#~ msgstr "ワリス・フテュナ諸島"
+
+#~ msgctxt "Name"
+#~ msgid "Samoa"
+#~ msgstr "サモア"
+
+#~ msgctxt "Name"
+#~ msgid "Yemen"
+#~ msgstr "イエメン"
+
+#~ msgctxt "Name"
+#~ msgid "Mayotte"
+#~ msgstr "マヨット"
+
+#~ msgctxt "Name"
+#~ msgid "South Africa"
+#~ msgstr "南アフリカ"
+
+#~ msgctxt "Name"
+#~ msgid "Zambia"
+#~ msgstr "ザンビア"
+
+#~ msgctxt "Name"
+#~ msgid "Zimbabwe"
+#~ msgstr "ジンバブエ"
+
+#~ msgctxt "Name"
+#~ msgid "Andorran Franc"
+#~ msgstr "アンドラ・フラン"
+
+#~ msgctxt "Name"
+#~ msgid "Andorran Peseta"
+#~ msgstr "アンドラ・ペセタ"
+
+#~ msgctxt "Name"
+#~ msgid "United Arab Emirates Dirham"
+#~ msgstr "UAE ディルハム"
+
+#~ msgctxt "Name"
+#~ msgid "Afghan Afghani"
+#~ msgstr "アフガニスタン・アフガニ"
+
+#~ msgctxt "Name"
+#~ msgid "Albanian Lek"
+#~ msgstr "アルバニア・レク"
+
+#~ msgctxt "Name"
+#~ msgid "Armenian Dram"
+#~ msgstr "アルメニア・ドラム"
+
+#~ msgctxt "Name"
+#~ msgid "Netherlands Antillean Guilder"
+#~ msgstr "オランダ領アンティル・ギルダー"
+
+#~ msgctxt "Name"
+#~ msgid "Angolan Kwanza"
+#~ msgstr "アンゴラ・クワンザ"
+
+#~ msgctxt "Name"
+#~ msgid "Angolan Novo Kwanza"
+#~ msgstr "アンゴラ・ノボ・クワンザ"
+
+#~ msgctxt "Name"
+#~ msgid "Argentine Peso"
+#~ msgstr "アルゼンチン・ペソ"
+
+#~ msgctxt "Name"
+#~ msgid "Austrian Schilling"
+#~ msgstr "オーストリア・シリング"
+
+#~ msgctxt "Name"
+#~ msgid "Australian Dollar"
+#~ msgstr "オーストラリア・ドル"
+
+#~ msgctxt "Name"
+#~ msgid "Aruban Florin"
+#~ msgstr "アルバ・フロリン"
+
+#~ msgctxt "Name"
+#~ msgid "Azerbaijani Manat"
+#~ msgstr "アゼルバイジャン・マナト"
+
+#~ msgctxt "Name"
+#~ msgid "Bosnia and Herzegovina Convertible Mark"
+#~ msgstr "ボスニア・ヘルツェゴビナ・兌換マルク"
+
+#~ msgctxt "Name"
+#~ msgid "Barbados Dollar"
+#~ msgstr "バルバドス・ドル"
+
+#~ msgctxt "Name"
+#~ msgid "Bangladeshi Taka"
+#~ msgstr "バングラデシュ・タカ"
+
+#~ msgctxt "Name"
+#~ msgid "Belgian Franc"
+#~ msgstr "ベルギー・フラン"
+
+#~ msgctxt "Name"
+#~ msgid "Bulgarian Lev A/99"
+#~ msgstr "旧ブルガリア・レフ"
+
+#~ msgctxt "Name"
+#~ msgid "Bulgarian Lev"
+#~ msgstr "ブルガリア・レフ"
+
+#~ msgctxt "Name"
+#~ msgid "Bahraini Dinar"
+#~ msgstr "バーレーン・ディナール"
+
+#~ msgctxt "Name"
+#~ msgid "Burundian Franc"
+#~ msgstr "ブルンジ・フラン"
+
+#~ msgctxt "Name"
+#~ msgid "Bermuda Dollar"
+#~ msgstr "バミューダ・ドル"
+
+#~ msgctxt "Name"
+#~ msgid "Brunei Dollar"
+#~ msgstr "ブルネイ・ドル"
+
+#~ msgctxt "Name"
+#~ msgid "Bolivian Boliviano"
+#~ msgstr "ボリビア・ボリビアーノ"
+
+#~ msgctxt "Name"
+#~ msgid "Bolivian Mvdol"
+#~ msgstr "ボリビア・Mvdol"
+
+#~ msgctxt "Name"
+#~ msgid "Brazilian Real"
+#~ msgstr "ブラジル・レアル"
+
+#~ msgctxt "Name"
+#~ msgid "Bahamian Dollar"
+#~ msgstr "バハマ・ドル"
+
+#~ msgctxt "Name"
+#~ msgid "Bhutanese Ngultrum"
+#~ msgstr "ブータン・ニュルタム"
+
+#~ msgctxt "Name"
+#~ msgid "Botswana Pula"
+#~ msgstr "ボツワナ・プラ"
+
+#~ msgctxt "Name"
+#~ msgid "Belarusian Ruble"
+#~ msgstr "ベラルーシ・ルーブル"
+
+#~ msgctxt "Name"
+#~ msgid "Belize Dollar"
+#~ msgstr "ベリーズ・ドル"
+
+#~ msgctxt "Name"
+#~ msgid "Canadian Dollar"
+#~ msgstr "カナダ・ドル"
+
+#~ msgctxt "Name"
+#~ msgid "Congolese Franc"
+#~ msgstr "コンゴ・フラン"
+
+#~ msgctxt "Name"
+#~ msgid "Swiss Franc"
+#~ msgstr "スイス・フラン"
+
+#~ msgctxt "Name"
+#~ msgid "Chilean Unidad de Fomento"
+#~ msgstr "チリ・Unidad de Fomento"
+
+#~ msgctxt "Name"
+#~ msgid "Chilean Peso"
+#~ msgstr "チリ・ペソ"
+
+#~ msgctxt "Name"
+#~ msgid "Chinese Yuan"
+#~ msgstr "人民元"
+
+#~ msgctxt "Name"
+#~ msgid "Colombian Peso"
+#~ msgstr "コロンビア・ペソ"
+
+#~ msgctxt "Name"
+#~ msgid "Colombian Unidad de Valor Real"
+#~ msgstr "コロンビア・Unidad de Valor Real"
+
+#~ msgctxt "Name"
+#~ msgid "Costa Rican Colon"
+#~ msgstr "コスタリカ・コロン"
+
+#~ msgctxt "Name"
+#~ msgid "Cuban Convertible Peso"
+#~ msgstr "キューバ・兌換ペソ"
+
+#~ msgctxt "Name"
+#~ msgid "Cuban Peso"
+#~ msgstr "キューバ・ペソ"
+
+#~ msgctxt "Name"
+#~ msgid "Cape Verde Escudo"
+#~ msgstr "カーボベルデ・エスクード"
+
+#~ msgctxt "Name"
+#~ msgid "Cypriot Pound"
+#~ msgstr "キプロス・ポンド"
+
+#~ msgctxt "Name"
+#~ msgid "Czech Koruna"
+#~ msgstr "チェコ・コルナ"
+
+#~ msgctxt "Name"
+#~ msgid "German Mark"
+#~ msgstr "ドイツ・マルク"
+
+#~ msgctxt "Name"
+#~ msgid "Djibouti Franc"
+#~ msgstr "ジブチ・フラン"
+
+#~ msgctxt "Name"
+#~ msgid "Danish Krone"
+#~ msgstr "デンマーク・クローネ"
+
+#~ msgctxt "Name"
+#~ msgid "Dominican Peso"
+#~ msgstr "ドミニカ・ペソ"
+
+#~ msgctxt "Name"
+#~ msgid "Algerian Dinar"
+#~ msgstr "アルジェリア・ディナール"
+
+#~ msgctxt "Name"
+#~ msgid "Estonian Kroon"
+#~ msgstr "エストニア・クローン"
+
+#~ msgctxt "Name"
+#~ msgid "Egyptian Pound"
+#~ msgstr "エジプト・ポンド"
+
+#~ msgctxt "Name"
+#~ msgid "Eritrean Nakfa"
+#~ msgstr "エリトリア・ナクファ"
+
+#~ msgctxt "Name"
+#~ msgid "Spanish Peseta"
+#~ msgstr "スペイン・ペセタ"
+
+#~ msgctxt "Name"
+#~ msgid "Ethiopian Birr"
+#~ msgstr "エチオピア・ブル"
+
+#~ msgctxt "Name"
+#~ msgid "Euro"
+#~ msgstr "ユーロ"
+
+#~ msgctxt "Name"
+#~ msgid "Finnish Markka"
+#~ msgstr "フィンランド・マルッカ"
+
+#~ msgctxt "Name"
+#~ msgid "Fijian Dollar"
+#~ msgstr "フィジー・ドル"
+
+#~ msgctxt "Name"
+#~ msgid "Falkland Islands Pound"
+#~ msgstr "フォークランド諸島・ポンド"
+
+#~ msgctxt "Name"
+#~ msgid "French Franc"
+#~ msgstr "フランス・フラン"
+
+#~ msgctxt "Name"
+#~ msgid "British Pound Sterling"
+#~ msgstr "英ポンド"
+
+#~ msgctxt "Name"
+#~ msgid "Georgian Lari"
+#~ msgstr "グルジア・ラリ"
+
+#~ msgctxt "Name"
+#~ msgid "Ghanaian Cedi"
+#~ msgstr "ガーナ・セディ"
+
+#~ msgctxt "Name"
+#~ msgid "Ghana Cedi"
+#~ msgstr "ガーナ・セディ"
+
+#~ msgctxt "Name"
+#~ msgid "Gibraltar Pound"
+#~ msgstr "ジブラルタル・ポンド"
+
+#~ msgctxt "Name"
+#~ msgid "Gambian Dalasi"
+#~ msgstr "ガンビア・ダラシ"
+
+#~ msgctxt "Name"
+#~ msgid "Guinean Franc"
+#~ msgstr "ギニア・フラン"
+
+#~ msgctxt "Name"
+#~ msgid "Greek Drachma"
+#~ msgstr "ギリシャ・ドラクマ"
+
+#~ msgctxt "Name"
+#~ msgid "Guatemalan Quetzal"
+#~ msgstr "グアテマラ・ケツァル"
+
+#~ msgctxt "Name"
+#~ msgid "Guinea-Bissau Peso"
+#~ msgstr "ギニアビサウ・ペソ"
+
+#~ msgctxt "Name"
+#~ msgid "Guyanese Dollar"
+#~ msgstr "ガイアナ・ドル"
+
+#~ msgctxt "Name"
+#~ msgid "Hong Kong Dollar"
+#~ msgstr "香港ドル"
+
+#~ msgctxt "Name"
+#~ msgid "Honduran Lempira"
+#~ msgstr "ホンジュラス・レンピラ"
+
+#~ msgctxt "Name"
+#~ msgid "Croatian Kuna"
+#~ msgstr "クロアチア・クーナ"
+
+#~ msgctxt "Name"
+#~ msgid "Haitian Gourde"
+#~ msgstr "ハイチ・グールド"
+
+#~ msgctxt "Name"
+#~ msgid "Hungarian Forint"
+#~ msgstr "ハンガリー・フォリント"
+
+#~ msgctxt "Name"
+#~ msgid "Indonesian Rupiah"
+#~ msgstr "インドネシア・ルピア"
+
+#~ msgctxt "Name"
+#~ msgid "Irish Pound"
+#~ msgstr "アイルランド・ポンド"
+
+#~ msgctxt "Name"
+#~ msgid "Israeli New Sheqel"
+#~ msgstr "新イスラエル・シェケル"
+
+#~ msgctxt "Name"
+#~ msgid "Indian Rupee"
+#~ msgstr "インド・ルピー"
+
+#~ msgctxt "Name"
+#~ msgid "Iraqi Dinar"
+#~ msgstr "イラク・ディナール"
+
+#~ msgctxt "Name"
+#~ msgid "Iranian Rial"
+#~ msgstr "イラン・リアル"
+
+#~ msgctxt "Name"
+#~ msgid "Icelandic Krona"
+#~ msgstr "アイスランド・クローナ"
+
+#~ msgctxt "Name"
+#~ msgid "Italian Lira"
+#~ msgstr "イタリア・リラ"
+
+#~ msgctxt "Name"
+#~ msgid "Jamaican Dollar"
+#~ msgstr "ジャマイカ・ドル"
+
+#~ msgctxt "Name"
+#~ msgid "Jordanian Dinar"
+#~ msgstr "ヨルダン・ディナール"
+
+#~ msgctxt "Name"
+#~ msgid "Japanese Yen"
+#~ msgstr "日本円"
+
+#~ msgctxt "Name"
+#~ msgid "Kenyan Shilling"
+#~ msgstr "ケニヤ・シリング"
+
+#~ msgctxt "Name"
+#~ msgid "Kyrgyzstani Som"
+#~ msgstr "キルギス・ソム"
+
+#~ msgctxt "Name"
+#~ msgid "Cambodian Riel"
+#~ msgstr "カンボジア・リエル"
+
+#~ msgctxt "Name"
+#~ msgid "Comorian Franc"
+#~ msgstr "コモロ・フラン"
+
+#~ msgctxt "Name"
+#~ msgid "North Korean Won"
+#~ msgstr "北朝鮮ウォン"
+
+#~ msgctxt "Name"
+#~ msgid "South Korean Won"
+#~ msgstr "韓国ウォン"
+
+#~ msgctxt "Name"
+#~ msgid "Kuwaiti Dinar"
+#~ msgstr "クウェート・ディナール"
+
+#~ msgctxt "Name"
+#~ msgid "Cayman Islands Dollar"
+#~ msgstr "ケイマン諸島ドル"
+
+#~ msgctxt "Name"
+#~ msgid "Kazakhstani Tenge"
+#~ msgstr "カザフスタン・テンゲ"
+
+#~ msgctxt "Name"
+#~ msgid "Lao Kip"
+#~ msgstr "ラオス・キップ"
+
+#~ msgctxt "Name"
+#~ msgid "Lebanese Pound"
+#~ msgstr "レバノン・ポンド"
+
+#~ msgctxt "Name"
+#~ msgid "Sri Lankan Rupee"
+#~ msgstr "スリランカ・ルピー"
+
+#~ msgctxt "Name"
+#~ msgid "Liberian Dollar"
+#~ msgstr "リベリア・ドル"
+
+#~ msgctxt "Name"
+#~ msgid "Lesotho Loti"
+#~ msgstr "レソト・ロチ"
+
+#~ msgctxt "Name"
+#~ msgid "Lithuanian Litas"
+#~ msgstr "リトアニア・リタス"
+
+#~ msgctxt "Name"
+#~ msgid "Luxembourgish Franc"
+#~ msgstr "ルクセンブルク・フラン"
+
+#~ msgctxt "Name"
+#~ msgid "Latvian Lats"
+#~ msgstr "ラトビア・ラッツ"
+
+#~ msgctxt "Name"
+#~ msgid "Libyan Dinar"
+#~ msgstr "リビア・ディナール"
+
+#~ msgctxt "Name"
+#~ msgid "Moroccan Dirham"
+#~ msgstr "モロッコ・ディルハム"
+
+#~ msgctxt "Name"
+#~ msgid "Moldovan Leu"
+#~ msgstr "モルドバ・レウ"
+
+#~ msgctxt "Name"
+#~ msgid "Malagasy Ariary"
+#~ msgstr "マダガスカル・アリアリ"
+
+#~ msgctxt "Name"
+#~ msgid "Malagasy Franc"
+#~ msgstr "マダガスカル・フラン"
+
+#~ msgctxt "Name"
+#~ msgid "Macedonian Denar"
+#~ msgstr "マケドニア・ディナール"
+
+#~ msgctxt "Name"
+#~ msgid "Mali Franc"
+#~ msgstr "マリ・フラン"
+
+#~ msgctxt "Name"
+#~ msgid "Myanma Kyat"
+#~ msgstr "ミャンマー・チャット"
+
+#~ msgctxt "Name"
+#~ msgid "Mongolian Tugrik"
+#~ msgstr "モンゴル・トゥグルグ"
+
+#~ msgctxt "Name"
+#~ msgid "Macanese Pataca"
+#~ msgstr "マカオ・パタカ"
+
+#~ msgctxt "Name"
+#~ msgid "Mauritanian Ouguiya"
+#~ msgstr "モーリタニア・ウギア"
+
+#~ msgctxt "Name"
+#~ msgid "Maltese Lira"
+#~ msgstr "マルタ・リラ"
+
+#~ msgctxt "Name"
+#~ msgid "Mauritius Rupee"
+#~ msgstr "モーリシャス・ルピー"
+
+#~ msgctxt "Name"
+#~ msgid "Maldivian Rufiyaa"
+#~ msgstr "モルディブ・ルフィヤ"
+
+#~ msgctxt "Name"
+#~ msgid "Malawian Kwacha"
+#~ msgstr "マラウイ・クワチャ"
+
+#~ msgctxt "Name"
+#~ msgid "Mexican Peso"
+#~ msgstr "メキシコ・ペソ"
+
+#~ msgctxt "Name"
+#~ msgid "Mexican Unidad de Inversion"
+#~ msgstr "メキシコ・Unidad de Inversion"
+
+#~ msgctxt "Name"
+#~ msgid "Malaysian Ringgit"
+#~ msgstr "マレーシア・リンギット"
+
+#~ msgctxt "Name"
+#~ msgid "Mozambican Metical"
+#~ msgstr "モザンビーク・メティカル"
+
+#~ msgctxt "Name"
+#~ msgid "Namibian Dollar"
+#~ msgstr "ナミビア・ドル"
+
+#~ msgctxt "Name"
+#~ msgid "Nigerian Naira"
+#~ msgstr "ナイジェリア・ナイラ"
+
+#~ msgctxt "Name"
+#~ msgid "Nicaraguan Cordoba Oro"
+#~ msgstr "コルドバ・オロ"
+
+#~ msgctxt "Name"
+#~ msgid "Netherlands Guilder"
+#~ msgstr "オランダ・ギルダー"
+
+#~ msgctxt "Name"
+#~ msgid "Norwegian Krone"
+#~ msgstr "ノルウェー・クローネ"
+
+#~ msgctxt "Name"
+#~ msgid "Nepalese Rupee"
+#~ msgstr "ネパール・ルピー"
+
+#~ msgctxt "Name"
+#~ msgid "New Zealand Dollar"
+#~ msgstr "ニュージーランド・ドル"
+
+#~ msgctxt "Name"
+#~ msgid "Omani Rial"
+#~ msgstr "オーマン・リヤル"
+
+#~ msgctxt "Name"
+#~ msgid "Panamanian Balboa"
+#~ msgstr "パナマ・ボルボア"
+
+#~ msgctxt "Name"
+#~ msgid "Peruvian Nuevo Sol"
+#~ msgstr "ペルー・ヌエボ・ソル"
+
+#~ msgctxt "Name"
+#~ msgid "Papua New Guinean Kina"
+#~ msgstr "パプアニューギニア・キナ"
+
+#~ msgctxt "Name"
+#~ msgid "Philippine Peso"
+#~ msgstr "フィリピン・ペソ"
+
+#~ msgctxt "Name"
+#~ msgid "Pakistan Rupee"
+#~ msgstr "パキスタン・ルピー"
+
+#~ msgctxt "Name"
+#~ msgid "Polish Zloty"
+#~ msgstr "ポーランド・ズロチ"
+
+#~ msgctxt "Name"
+#~ msgid "Portuguese Escudo"
+#~ msgstr "ポルトガル・エスクード"
+
+#~ msgctxt "Name"
+#~ msgid "Paraguayan Guarani"
+#~ msgstr "パラグアイ・グアラニー"
+
+#~ msgctxt "Name"
+#~ msgid "Qatari Riyal"
+#~ msgstr "カタール・リヤル"
+
+#~ msgctxt "Name"
+#~ msgid "Romanian Leu A/05"
+#~ msgstr "旧ルーマニア・レウ"
+
+#~ msgctxt "Name"
+#~ msgid "Romanian Leu"
+#~ msgstr "新ルーマニア・レウ"
+
+#~ msgctxt "Name"
+#~ msgid "Serbian Dinar"
+#~ msgstr "セルビア・ディナール"
+
+#~ msgctxt "Name"
+#~ msgid "Russian Ruble"
+#~ msgstr "ロシア・ルーブル"
+
+#~ msgctxt "Name"
+#~ msgid "Russian Ruble A/97"
+#~ msgstr "ロシア・ルーブル A/97"
+
+#~ msgctxt "Name"
+#~ msgid "Rwandan Franc"
+#~ msgstr "ルワンダ・フラン"
+
+#~ msgctxt "Name"
+#~ msgid "Saudi Riyal"
+#~ msgstr "サウジ・リヤル"
+
+#~ msgctxt "Name"
+#~ msgid "Solomon Islands Dollar"
+#~ msgstr "ソロモン諸島・ドル"
+
+#~ msgctxt "Name"
+#~ msgid "Seychellois Rupee"
+#~ msgstr "セーシェル・ルピー"
+
+#~ msgctxt "Name"
+#~ msgid "Sudanese Dinar"
+#~ msgstr "スーダン・ディナール"
+
+#~ msgctxt "Name"
+#~ msgid "Sudanese Pound"
+#~ msgstr "スーダン・ポンド"
+
+#~ msgctxt "Name"
+#~ msgid "Swedish Krona"
+#~ msgstr "スウェーデン・クローナ"
+
+#~ msgctxt "Name"
+#~ msgid "Singapore Dollar"
+#~ msgstr "シンガポール・ドル"
+
+#~ msgctxt "Name"
+#~ msgid "Saint Helena Pound"
+#~ msgstr "セントヘレナ・ポンド"
+
+#~ msgctxt "Name"
+#~ msgid "Slovenian Tolar"
+#~ msgstr "スロベニア・トラール"
+
+#~ msgctxt "Name"
+#~ msgid "Slovak Koruna"
+#~ msgstr "スロバキア・コルナ"
+
+#~ msgctxt "Name"
+#~ msgid "Sierra Leonean Leone"
+#~ msgstr "シエラレオネ・レオン"
+
+#~ msgctxt "Name"
+#~ msgid "Somali Shilling"
+#~ msgstr "ソマリア・シリング"
+
+#~ msgctxt "Name"
+#~ msgid "Surinamese Dollar"
+#~ msgstr "スリナム・ドル"
+
+#~ msgctxt "Name"
+#~ msgid "Surinamese Guilder"
+#~ msgstr "スリナム・ギルダー"
+
+#~ msgctxt "Name"
+#~ msgid "South Sudanese Pound"
+#~ msgstr "南スーダン・ポンド"
+
+#~ msgctxt "Name"
+#~ msgid "São Tomé and Príncipe Dobra"
+#~ msgstr "サントメ・プリンシペ・ドブラ"
+
+#~ msgctxt "Name"
+#~ msgid "Salvadoran Colon"
+#~ msgstr "エルサルバドル・コロン"
+
+#~ msgctxt "Name"
+#~ msgid "Syrian Pound"
+#~ msgstr "シリア・ポンド"
+
+#~ msgctxt "Name"
+#~ msgid "Swazi Lilangeni"
+#~ msgstr "スワジランド・リランゲニ"
+
+#~ msgctxt "Name"
+#~ msgid "Thai Baht"
+#~ msgstr "タイ・バーツ"
+
+#~ msgctxt "Name"
+#~ msgid "Tajikistani Somoni"
+#~ msgstr "タジキスタン・ソモニ"
+
+#~ msgctxt "Name"
+#~ msgid "Turkmenistani Old Manat"
+#~ msgstr "旧トルクメニスタン・マナト"
+
+#~ msgctxt "Name"
+#~ msgid "Turkmenistani Manat"
+#~ msgstr "トルクメニスタン・マナト"
+
+#~ msgctxt "Name"
+#~ msgid "Tunisian Dinar"
+#~ msgstr "チュニジア・ディナール"
+
+#~ msgctxt "Name"
+#~ msgid "Tongan Pa'anga"
+#~ msgstr "トンガ・パ・アンガ"
+
+#~ msgctxt "Name"
+#~ msgid "Portuguese Timorese Escudo"
+#~ msgstr "ポルトガル領ティモール・エスクード"
+
+#~ msgctxt "Name"
+#~ msgid "Turkish Lira A/05"
+#~ msgstr "旧トルコ・リラ"
+
+#~ msgctxt "Name"
+#~ msgid "Turkish Lira"
+#~ msgstr "新トルコ・リラ"
+
+#~ msgctxt "Name"
+#~ msgid "Trinidad and Tobago Dollar"
+#~ msgstr "トリニダード・トバゴ・ドル"
+
+#~ msgctxt "Name"
+#~ msgid "New Taiwan Dollar"
+#~ msgstr "新台湾ドル"
+
+#~ msgctxt "Name"
+#~ msgid "Tanzanian Shilling"
+#~ msgstr "タンザニア・シリング"
+
+#~ msgctxt "Name"
+#~ msgid "Ukrainian Hryvnia"
+#~ msgstr "ウクライナ・フリヴニャ"
+
+#~ msgctxt "Name"
+#~ msgid "Ugandan Shilling"
+#~ msgstr "ウガンダ・シリング"
+
+#~ msgctxt "Name"
+#~ msgid "United States Dollar"
+#~ msgstr "米ドル"
+
+#~ msgctxt "Name"
+#~ msgid "United States Dollar (Next Day)"
+#~ msgstr "米ドル (翌日)"
+
+#~ msgctxt "Name"
+#~ msgid "United States Dollar (Same Day)"
+#~ msgstr "米ドル (当日)"
+
+#~ msgctxt "Name"
+#~ msgid "Uruguayan Peso"
+#~ msgstr "ウルグアイ・ペソ"
+
+#~ msgctxt "Name"
+#~ msgid "Uzbekistan Som"
+#~ msgstr "ウズベキスタン・スム"
+
+#~ msgctxt "Name"
+#~ msgid "Venezuelan Bolívar Fuerte"
+#~ msgstr "ベネズエラ・ボリバル"
+
+#~ msgctxt "Name"
+#~ msgid "Vietnamese Dong"
+#~ msgstr "ベトナム・ドン"
+
+#~ msgctxt "Name"
+#~ msgid "Vanuatu Vatu"
+#~ msgstr "バヌアツ・バツ"
+
+#~ msgctxt "Name"
+#~ msgid "Samoan Tala"
+#~ msgstr "サモア・タラ"
+
+#~ msgctxt "Name"
+#~ msgid "Central African CFA Franc"
+#~ msgstr "中部アフリカ CFA フラン"
+
+#~ msgctxt "Name"
+#~ msgid "Silver"
+#~ msgstr "銀"
+
+#~ msgctxt "Name"
+#~ msgid "Gold"
+#~ msgstr "金"
+
+#~ msgctxt "Name"
+#~ msgid "East Caribbean Dollar"
+#~ msgstr "東カリブ・ドル"
+
+#~ msgctxt "Name"
+#~ msgid "West African CFA Franc"
+#~ msgstr "西部アフリカ CFA フラン"
+
+#~ msgctxt "Name"
+#~ msgid "Palladium"
+#~ msgstr "パラジウム"
+
+#~ msgctxt "Name"
+#~ msgid "CFP Franc"
+#~ msgstr "CFP フラン"
+
+#~ msgctxt "Name"
+#~ msgid "Platinum"
+#~ msgstr "プラチナ"
+
+#~ msgctxt "Name"
+#~ msgid "Yemeni Rial"
+#~ msgstr "イエメン・リアル"
+
+#~ msgctxt "Name"
+#~ msgid "Yugoslav Dinar"
+#~ msgstr "ユーゴスラビア・ディナール"
+
+#~ msgctxt "Name"
+#~ msgid "South African Rand"
+#~ msgstr "南アフリカ・ランド"
+
+#~ msgctxt "Name"
+#~ msgid "Zambian Kwacha"
+#~ msgstr "ザンビア・クワチャ"
+
+#~ msgctxt "Name"
+#~ msgid "Zimbabwean Dollar A/06"
+#~ msgstr "ジンバブエ・ドル A/06"
+
+#~ msgctxt "Name"
+#~ msgid "Zimbabwean Dollar"
+#~ msgstr "ジンバブエ・ドル"
+
+#~ msgctxt "Name"
+#~ msgid "Internal Services"
+#~ msgstr "内部サービス"
+
+#~ msgctxt "Name"
+#~ msgid "Translation"
+#~ msgstr "翻訳"
+
+#~ msgctxt "Name"
+#~ msgid "Web Development"
+#~ msgstr "ウェブ開発"
+
+#~ msgctxt "Name"
+#~ msgid "Development"
+#~ msgstr "開発"
+
+#~ msgctxt "Name"
+#~ msgid "Editors"
+#~ msgstr "エディタ"
+
+#~ msgctxt "Name"
+#~ msgid "Languages"
+#~ msgstr "言語"
+
+#~ msgctxt "Name"
+#~ msgid "Mathematics"
+#~ msgstr "数学"
+
+#~ msgctxt "Name"
+#~ msgid "Miscellaneous"
+#~ msgstr "その他"
+
+#~ msgctxt "Name"
+#~ msgid "Science"
+#~ msgstr "サイエンス"
+
+#~ msgctxt "Name"
+#~ msgid "Teaching Tools"
+#~ msgstr "先生のためのツール"
+
+#~ msgctxt "Name"
+#~ msgid "Education"
+#~ msgstr "教育"
+
+#~ msgctxt "Name"
+#~ msgid "Arcade"
+#~ msgstr "アーケード"
+
+#~ msgctxt "Name"
+#~ msgid "Board Games"
+#~ msgstr "ボードゲーム"
+
+#~ msgctxt "Name"
+#~ msgid "Card Games"
+#~ msgstr "カードゲーム"
+
+#~ msgctxt "Name"
+#~ msgid "Games for Kids"
+#~ msgstr "子供向けゲーム"
+
+#~ msgctxt "Name"
+#~ msgid "Logic Games"
+#~ msgstr "論理ゲーム"
+
+#~ msgctxt "Name"
+#~ msgid "Rogue-like Games"
+#~ msgstr "Rogue 風のゲーム"
+
+#~ msgctxt "Name"
+#~ msgid "Tactics & Strategy"
+#~ msgstr "戦略 & 戦術"
+
+#~ msgctxt "Name"
+#~ msgid "Games"
+#~ msgstr "ゲーム"
+
+#~ msgctxt "Name"
+#~ msgid "Graphics"
+#~ msgstr "グラフィックス"
+
+#~ msgctxt "Name"
+#~ msgid "Terminal Applications"
+#~ msgstr "ターミナルアプリケーション"
+
+#~ msgctxt "Name"
+#~ msgid "Internet"
+#~ msgstr "インターネット"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Menu"
+#~ msgstr "KDE メニュー"
+
+#~ msgctxt "Name"
+#~ msgid "More Applications"
+#~ msgstr "その他のアプリケーション"
+
+#~ msgctxt "Name"
+#~ msgid "Multimedia"
+#~ msgstr "マルチメディア"
+
+#~ msgctxt "Name"
+#~ msgid "Office"
+#~ msgstr "オフィス"
+
+#~ msgctxt "Name"
+#~ msgid "Science & Math"
+#~ msgstr "サイエンス & 数学"
+
+#~ msgctxt "Name"
+#~ msgid "Settings"
+#~ msgstr "設定"
+
+#~ msgctxt "Name"
+#~ msgid "System"
+#~ msgstr "システム"
+
+#~ msgctxt "Name"
+#~ msgid "Toys"
+#~ msgstr "アクセサリ"
+
+#~ msgctxt "Name"
+#~ msgid "Lost & Found"
+#~ msgstr "Lost & Found"
+
+#~ msgctxt "Name"
+#~ msgid "Accessibility"
+#~ msgstr "アクセシビリティ"
+
+#~ msgctxt "Comment"
+#~ msgid "Accessibility"
+#~ msgstr "アクセシビリティ"
+
+#~ msgctxt "Name"
+#~ msgid "Desktop"
+#~ msgstr "デスクトップ"
+
+#~ msgctxt "Comment"
+#~ msgid "Desktop"
+#~ msgstr "デスクトップ"
+
+#~ msgctxt "Name"
+#~ msgid "File"
+#~ msgstr "ファイル"
+
+#~ msgctxt "Comment"
+#~ msgid "File"
+#~ msgstr "ファイル"
+
+#~ msgctxt "Name"
+#~ msgid "Peripherals"
+#~ msgstr "周辺機器"
+
+#~ msgctxt "Comment"
+#~ msgid "Peripherals"
+#~ msgstr "周辺機器"
+
+#~ msgctxt "Name"
+#~ msgid "PIM"
+#~ msgstr "PIM"
+
+#~ msgctxt "Comment"
+#~ msgid "PIM"
+#~ msgstr "PIM"
+
+#~ msgctxt "Name"
+#~ msgid "X-Utilities"
+#~ msgstr "X-ユーティリティ"
+
+#~ msgctxt "Comment"
+#~ msgid "X Window Utilities"
+#~ msgstr "X ウィンドウユーティリティ"
+
+#~ msgctxt "Name"
+#~ msgid "Utilities"
+#~ msgstr "ユーティリティ"
+
+#~ msgctxt "Comment"
+#~ msgid "Utilities"
+#~ msgstr "ユーティリティ"
+
+#~ msgctxt "Name"
+#~ msgid "Nepomuk"
+#~ msgstr "Nepomuk"
+
+#~ msgctxt "Comment"
+#~ msgid "Nepomuk Server Configuration"
+#~ msgstr "Nepomuk サーバの設定"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "Nepomuk,Metadata"
+#~ msgstr "Nepomuk,Metadata"
+
+#~ msgctxt "Name"
+#~ msgid "Nepomuk Search Module"
+#~ msgstr "Nepomuk 検索モジュール"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Helper module for KIO to ensure automatic updates of nepomuksearch "
+#~ "listings."
+#~ msgstr "Nepomuk 検索一覧を自動的に更新するための KIO ヘルパーモジュール"
+
+#~ msgctxt "Name"
+#~ msgid "Audio and Video Settings"
+#~ msgstr "音と映像の設定"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "Sound,Phonon,Audio,Video,Output,Device,Notification,Music,Communication,Media,NMM,GStreamer,Xine"
+#~ msgstr "Sound,Phonon,Audio,Video,Output,Device,Notification,Music,Communication,Media,NMM,GStreamer,Xine"
+
+#~ msgctxt "Name"
+#~ msgid "Sound Policy"
+#~ msgstr "サウンドポリシー"
+
+#~ msgctxt "Comment"
+#~ msgid "Provides sound system policy to applications"
+#~ msgstr "アプリケーションにサウンドシステムポリシーを提供します"
+
+#~ msgctxt "Comment"
+#~ msgid "Multimedia System"
+#~ msgstr "メディアシステム"
+
+#~ msgctxt "Name"
+#~ msgid "Audio Output Device Changed"
+#~ msgstr "オーディオ出力デバイスが変更されました"
+
+#~ msgctxt "Comment"
+#~ msgid "Notification when audio output device has automatically changed"
+#~ msgstr "オーディオ出力デバイスが自動的に変更された時の通知"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Multimedia Backend"
+#~ msgstr "KDE マルチメディアバックエンド"
+
+#~ msgctxt "Name"
+#~ msgid "KDE-HiColor"
+#~ msgstr "KDE ハイカラー"
+
+#~ msgctxt "Comment"
+#~ msgid "Fallback icon theme"
+#~ msgstr "フォールバック用のアイコンテーマ"
+
+#~ msgctxt "Name"
+#~ msgid "Newspaper Layout"
+#~ msgstr "新聞のレイアウト"
+
+#~ msgctxt "Comment"
+#~ msgid "A layout that puts widgets into columns"
+#~ msgstr "ウィジェットを列配置するレイアウト"
+
+#~ msgctxt "Name"
+#~ msgid "plasma-kpart"
+#~ msgstr "plasma-kpart"
+
+#~ msgctxt "Name"
+#~ msgid "Save remote widgets' policies"
+#~ msgstr "リモートウィジェットポリシーを保存"
+
+#~ msgctxt "Description"
+#~ msgid "Prevents the system from saving remote plasma widgets' policies"
+#~ msgstr "システムがリモート Plasma ウィジェットポリシー保存するのを防ぎます"
+
+#~ msgctxt "Name"
+#~ msgid "Plasma JavaScript Addon"
+#~ msgstr "Plasma JavaScript アドオン"
+
+#~ msgctxt "Name"
+#~ msgid "Javascript Addon"
+#~ msgstr "JavaScript アドオン"
+
+#~ msgctxt "Comment"
+#~ msgid "Addons for Javascript Plasma plugins"
+#~ msgstr "JavaScript Plasma プラグイン用のアドオン"
+
+#~ msgctxt "Comment"
+#~ msgid "Native Plasma widget written in QML and JavaScript"
+#~ msgstr "QML と JavaScript で書かれた Plasma のネイティブウィジェット"
+
+#~ msgctxt "Name"
+#~ msgid "JavaScript Widget"
+#~ msgstr "JavaScript ウィジェット"
+
+#~ msgctxt "Comment"
+#~ msgid "Native Plasma widget written in JavaScript"
+#~ msgstr "JavaScript で書かれた Plasma のネイティブウィジェット"
+
+#~ msgctxt "Name"
+#~ msgid "JavaScript DataEngine"
+#~ msgstr "JavaScript データエンジン"
+
+#~ msgctxt "Name"
+#~ msgid "JavaScript Runner"
+#~ msgstr "JavaScript Runner"
+
+#~ msgctxt "Comment"
+#~ msgid "JavaScript Runner"
+#~ msgstr "JavaScript Runner"
+
+#~ msgctxt "Name"
+#~ msgid "Audio Preview"
+#~ msgstr "オーディオプレビュー"
+
+#~ msgctxt "Name"
+#~ msgid "Image Displayer"
+#~ msgstr "イメージ表示ツール"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "Mount,Removable,Devices,Automatic"
+#~ msgstr "Mount,Removable,Devices,Automatic"
+
+#~ msgctxt "Name"
+#~ msgid "Removable Devices"
+#~ msgstr "リムーバブルデバイス"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure automatic handling of removable storage media"
+#~ msgstr "リムーバブルストレージメディアの自動処理を設定"
+
+#~ msgctxt "Name"
+#~ msgid "Removable Device Automounter"
+#~ msgstr "リムーバブルデバイスの自動マウント"
+
+#~ msgctxt "Comment"
+#~ msgid "Automatically mounts devices as needed"
+#~ msgstr "必要に応じて自動的にデバイスをマウントします"
+
+#~ msgctxt "Name"
+#~ msgid "Network Status"
+#~ msgstr "ネットワークステータス"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Tracks status of network interfaces and provides notification to "
+#~ "applications using the network."
+#~ msgstr ""
+#~ "ネットワークインターフェースの状態を追跡し、ネットワークを使うアプリケー"
+#~ "ションに情報を提供します。"
+
+#~ msgctxt "Name"
+#~ msgid "Drive Ejector"
+#~ msgstr "ドライブイジェクタ"
+
+#~ msgctxt "Comment"
+#~ msgid "Automatically releases drives when their eject button is pushed"
+#~ msgstr "イジェクトボタンが押されたときに、自動的にドライブを開放します"
+
+#~ msgctxt "Name"
+#~ msgid "Hardware Detection"
+#~ msgstr "ハードウェア検出"
+
+#~ msgctxt "Comment"
+#~ msgid "Provides a user interface for hardware events"
+#~ msgstr "ハードウェアイベントのためのユーザインターフェースを提供します"
+
+#~ msgctxt "Name"
+#~ msgid "Czech Republic"
+#~ msgstr "チェコ"

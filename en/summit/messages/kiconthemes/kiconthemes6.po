@@ -1,0 +1,185 @@
+# Translation of kio4 into Japanese.
+# This file is distributed under the same license as the kdelibs package.
+#
+# Taiki Komoda <kom@kde.gr.jp>, 2002, 2010.
+# Noriko Mizumoto <noriko@redhat.com>, 2004.
+# AWASHIRO Ikuya <ikuya@oooug.jp>, 2004.
+# Kurose Shushi <md81@bird.email.ne.jp>, 2004.
+# Shinichi Tsunoda <tsuno@ngy.1st.ne.jp>, 2005.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2006, 2007, 2008, 2009, 2010.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2006, 2010, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: kio4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-10-21 09:28+0200\n"
+"PO-Revision-Date: 2019-05-25 16:26+0900\n"
+"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+"X-Generator: Lokalize 19.04.1\n"
+
+#. +> trunk6 trunk5
+#: widgets/kiconbutton.cpp:83
+#, fuzzy, kde-format
+#| msgid "Select Icon"
+msgctxt "@info:tooltip"
+msgid "Select Icon…"
+msgstr "アイコンの選択"
+
+#. +> trunk6
+#: widgets/kicondialog.cpp:343
+#, fuzzy, kde-format
+#| msgid "All"
+msgctxt "@item:inmenu All icons"
+msgid "All"
+msgstr "すべて"
+
+#. +> trunk6
+#: widgets/kicondialog.cpp:348
+#, kde-format
+msgctxt "@item:inmenu Show only symbolic icons"
+msgid "Only Symbolic"
+msgstr ""
+
+#. +> trunk6
+#: widgets/kicondialog.cpp:352
+#, kde-format
+msgctxt "@item:inmenu Hide symbolic icons"
+msgid "No Symbolic"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: widgets/kicondialog.cpp:373
+msgid "All"
+msgstr "すべて"
+
+#. +> trunk6 trunk5
+#: widgets/kicondialog.cpp:374
+msgid "Actions"
+msgstr "アクション"
+
+#. +> trunk6 trunk5
+#: widgets/kicondialog.cpp:375
+msgid "Applications"
+msgstr "アプリケーション"
+
+#. +> trunk6 trunk5
+#: widgets/kicondialog.cpp:376
+msgid "Categories"
+msgstr "カテゴリ"
+
+#. +> trunk6 trunk5
+#: widgets/kicondialog.cpp:377
+msgid "Devices"
+msgstr "デバイス"
+
+#. +> trunk6 trunk5
+#: widgets/kicondialog.cpp:378
+msgid "Emblems"
+msgstr "エンブレム"
+
+#. +> trunk6 trunk5
+#: widgets/kicondialog.cpp:379
+msgid "Emotes"
+msgstr "感情アイコン"
+
+#. +> trunk6 trunk5
+#: widgets/kicondialog.cpp:380
+msgid "Mimetypes"
+msgstr "MIME タイプ"
+
+#. +> trunk6 trunk5
+#: widgets/kicondialog.cpp:381
+msgid "Places"
+msgstr "場所"
+
+#. +> trunk6 trunk5
+#: widgets/kicondialog.cpp:382
+msgid "Status"
+msgstr "状態"
+
+#. +> trunk6 trunk5
+#: widgets/kicondialog.cpp:406
+#, kde-format
+msgctxt "Other icons"
+msgid "Other"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: widgets/kicondialog.cpp:453
+#, fuzzy, kde-format
+#| msgid "&Browse..."
+msgid "Browse…"
+msgstr "ブラウズ(&B)..."
+
+#. +> trunk6 trunk5
+#: widgets/kicondialog.cpp:655
+#, kde-format
+msgid "No icons matching the search"
+msgstr ""
+
+#. +> trunk6 trunk5
+#: widgets/kicondialog.cpp:657
+#, kde-format
+msgid "No icons in this category"
+msgstr ""
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, IconDialog)
+#. +> trunk6 trunk5
+#: widgets/kicondialog.cpp:744 widgets/kicondialog.ui:14
+#, kde-format
+msgid "Select Icon"
+msgstr "アイコンの選択"
+
+#. +> trunk6 trunk5
+#: widgets/kicondialog.cpp:744
+#, fuzzy, kde-format
+msgid ""
+"*.ico *.png *.xpm *.svg *.svgz|Icon Files (*.ico *.png *.xpm *.svg *.svgz)"
+msgstr "*.png *.xpm *.svg *.svgz|アイコンファイル (*.png *.xpm *.svg *.svgz)"
+
+#. i18n: ectx: property (accessibleName), widget (QComboBox, contextCombo)
+#. +> trunk6 trunk5
+#: widgets/kicondialog.ui:24
+#, kde-format
+msgid "Icon category"
+msgstr ""
+
+#. i18n: ectx: property (placeholderText), widget (QLineEdit, searchLine)
+#. +> trunk6 trunk5
+#: widgets/kicondialog.ui:44
+#, fuzzy, kde-format
+#| msgid "Select Icon"
+msgid "Search Icons..."
+msgstr "アイコンの選択"
+
+#~ msgid "Icon Source"
+#~ msgstr "アイコンソース"
+
+#~ msgid "S&ystem icons:"
+#~ msgstr "システムアイコン(&Y):"
+
+#~ msgid "O&ther icons:"
+#~ msgstr "その他のアイコン(&T):"
+
+#~ msgid "&Search:"
+#~ msgstr "検索(&S):"
+
+#~ msgid "Search interactively for icon names (e.g. folder)."
+#~ msgstr "アイコン名 (例: フォルダ) を対話的に検索"
+
+#~ msgid "Animations"
+#~ msgstr "アニメーション"
+
+#~ msgid "Filesystems"
+#~ msgstr "ファイルシステム"
+
+#~ msgid "International"
+#~ msgstr "国際的"

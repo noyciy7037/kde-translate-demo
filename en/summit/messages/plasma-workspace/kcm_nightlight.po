@@ -1,0 +1,458 @@
+# Tomohiro Hyakutake <tomhioo@outlook.jp>, 2020.
+# SPDX-FileCopyrightText: 2023, 2024 Ryuichi Yamada <ryuichi_ya220@outlook.jp>
+msgid ""
+msgstr ""
+"Project-Id-Version: kcm_nightcolor\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2026-02-18 10:20+0100\n"
+"PO-Revision-Date: 2024-01-06 01:24+0900\n"
+"Last-Translator: Ryuichi Yamada <ryuichi_ya220@outlook.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+"X-Generator: Lokalize 23.08.4\n"
+
+#. +> trunk6 stable6 stable5
+#: ui/DayNightView.qml:154
+#, kde-format
+msgid ""
+"Color temperature begins changing to night time at %1 and is fully changed "
+"by %2"
+msgstr "色温度は %1 に夜モードに変化しはじめ、%2 までに完全に変わります。"
+
+#. +> trunk6 stable6 stable5
+#: ui/DayNightView.qml:157
+#, kde-format
+msgid ""
+"Color temperature begins changing to day time at %1 and is fully changed by "
+"%2"
+msgstr "色温度は %1 に昼モードに変化しはじめ、%2 までに完全に変わります。"
+
+#. +> trunk6 stable6
+#: ui/main.qml:39
+#, fuzzy, kde-format
+#| msgid "The blue light filter makes the colors on the screen warmer."
+msgctxt "@info"
+msgid "The blue light filter makes the colors on the screen warmer."
+msgstr "ブルーライト軽減フィルタがスクリーンの色調を暖かくします。"
+
+#. +> trunk6 stable6
+#: ui/main.qml:49
+#, fuzzy, kde-format
+#| msgid "Switching times:"
+msgctxt "@label:listbox Night Light modes"
+msgid "Switching times:"
+msgstr "切り替える時間:"
+
+#. +> trunk6 stable6
+#: ui/main.qml:58
+#, fuzzy, kde-format
+#| msgid "Always off"
+msgctxt "@item:inlistbox switching times"
+msgid "Always off"
+msgstr "常にオフ"
+
+#. +> trunk6 stable6
+#: ui/main.qml:59
+#, fuzzy, kde-format
+#| msgid "Always on night light"
+msgctxt "@item:inlistbox switching times"
+msgid "Always on night light"
+msgstr "常にオン"
+
+#. +> trunk6 stable6
+#: ui/main.qml:60
+#, kde-format
+msgctxt "@item:inlistbox switching times"
+msgid "Sunrise and sunset"
+msgstr ""
+
+#. +> trunk6 stable6
+#: ui/main.qml:72
+#, kde-format
+msgctxt "@action:button Configure day-night cycle times"
+msgid "Configure…"
+msgstr ""
+
+#. +> trunk6
+#: ui/main.qml:115 ui/main.qml:166 ui/main.qml:230
+#, kde-format
+msgctxt "Color temperature in Kelvin"
+msgid "%1 K"
+msgstr ""
+
+#. +> stable6 stable5
+#: ui/main.qml:115 ui/main.qml:166 ui/main.qml:230
+#, kde-format
+msgctxt "Color temperature in Kelvin"
+msgid "%1K"
+msgstr "%1K"
+
+#. +> trunk6 stable6
+#: ui/main.qml:123
+#, fuzzy, kde-format
+#| msgid "Day light temperature:"
+msgctxt "@label:slider"
+msgid "Day light temperature:"
+msgstr "昼モードの色温度:"
+
+#. +> trunk6 stable6
+#: ui/main.qml:173 ui/main.qml:237
+#, kde-format
+msgctxt "Night colour blue-ish; no blue light filter activated"
+msgid "Cool (no filter)"
+msgstr "冷たい (フィルタなし)"
+
+#. +> trunk6 stable6 stable5
+#: ui/main.qml:180 ui/main.qml:244
+#, kde-format
+msgctxt "Night colour red-ish"
+msgid "Warm"
+msgstr "暖かい"
+
+#. +> trunk6 stable6
+#: ui/main.qml:187
+#, fuzzy, kde-format
+#| msgid "Night light temperature:"
+msgctxt "@label:slider"
+msgid "Night light temperature:"
+msgstr "夜モードの色温度:"
+
+#. +> stable5
+#: package/contents/ui/LocationsFixedView.qml:39
+#, kde-format
+msgctxt ""
+"@label:chooser Tap should be translated to mean touching using a touchscreen"
+msgid "Tap to choose your location on the map."
+msgstr "地図をタップしてあなたの位置を選択してください。"
+
+#. +> stable5
+#: package/contents/ui/LocationsFixedView.qml:40
+#, kde-format
+msgctxt ""
+"@label:chooser Click should be translated to mean clicking using a mouse"
+msgid "Click to choose your location on the map."
+msgstr "地図をクリックしてあなたの位置を選択してください。"
+
+#. +> stable5
+#: package/contents/ui/LocationsFixedView.qml:78
+#: package/contents/ui/LocationsFixedView.qml:103
+#, kde-format
+msgid "Zoom in"
+msgstr "拡大"
+
+#. +> stable5
+#: package/contents/ui/LocationsFixedView.qml:222
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"Modified from <link url='https://commons.wikimedia.org/wiki/"
+"File:World_location_map_(equirectangular_180).svg'>World location map</link> "
+"by TUBS / Wikimedia Commons / <link url='https://creativecommons.org/"
+"licenses/by-sa/3.0'>CC BY-SA 3.0</link>"
+msgstr ""
+"変更元の画像: <link url='https://commons.wikimedia.org/wiki/"
+"File:World_location_map_(equirectangular_180).svg'>World location map</link> "
+"by TUBS / Wikimedia Commons / <link url='https://creativecommons.org/"
+"licenses/by-sa/3.0'>CC BY-SA 3.0</link>"
+
+#. +> stable5
+#: package/contents/ui/LocationsFixedView.qml:235
+#, kde-format
+msgctxt "@label: textbox"
+msgid "Latitude:"
+msgstr "緯度:"
+
+#. +> stable5
+#: package/contents/ui/LocationsFixedView.qml:261
+#, kde-format
+msgctxt "@label: textbox"
+msgid "Longitude:"
+msgstr "経度:"
+
+#. +> stable5
+#: package/contents/ui/main.qml:98
+#, kde-format
+msgid "The blue light filter makes the colors on the screen warmer."
+msgstr "ブルーライト軽減フィルタがスクリーンの色調を暖かくします。"
+
+#. +> stable5
+#: package/contents/ui/main.qml:109
+#, kde-format
+msgid "Switching times:"
+msgstr "切り替える時間:"
+
+#. +> stable5
+#: package/contents/ui/main.qml:111
+#, kde-format
+msgid "Always off"
+msgstr "常にオフ"
+
+#. +> stable5
+#: package/contents/ui/main.qml:112
+#, kde-format
+msgid "Sunset and sunrise at current location"
+msgstr "現在地の日の入りと日の出"
+
+#. +> stable5
+#: package/contents/ui/main.qml:113
+#, kde-format
+msgid "Sunset and sunrise at manual location"
+msgstr "手動で指定した地点の日の入りと日の出"
+
+#. +> stable5
+#: package/contents/ui/main.qml:114
+#, kde-format
+msgid "Custom times"
+msgstr "指定した時間"
+
+#. +> stable5
+#: package/contents/ui/main.qml:115
+#, kde-format
+msgid "Always on night color"
+msgstr "常にオン"
+
+#. +> stable5
+#: package/contents/ui/main.qml:167
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"The device's location will be periodically updated using GPS (if available), "
+"or by sending network information to <link url='https://"
+"location.services.mozilla.com'>Mozilla Location Service</link>."
+msgstr ""
+"デバイスの位置情報は、利用可能な場合は GPS を用いて、もしくは <link "
+"url='https://location.services.mozilla.com'>Mozilla Location Service</link> "
+"にネットワーク情報を送信して定期的に更新されます。"
+
+#. +> stable5
+#: package/contents/ui/main.qml:186
+#, kde-format
+msgid "Day color temperature:"
+msgstr "昼モードの色温度:"
+
+#. +> stable5
+#: package/contents/ui/main.qml:239 package/contents/ui/main.qml:298
+#, kde-format
+msgctxt "No blue light filter activated"
+msgid "Cool (no filter)"
+msgstr "冷たい (フィルタなし)"
+
+#. +> stable5
+#: package/contents/ui/main.qml:239 package/contents/ui/main.qml:298
+#, kde-format
+msgctxt "Night colour blue-ish"
+msgid "Cool"
+msgstr "冷たい"
+
+#. +> stable5
+#: package/contents/ui/main.qml:245
+#, kde-format
+msgid "Night color temperature:"
+msgstr "夜モードの色温度:"
+
+#. +> stable5
+#: package/contents/ui/main.qml:309
+#, kde-format
+msgid "Latitude: %1°   Longitude: %2°"
+msgstr "緯度: %1°   経度: %2°"
+
+#. +> stable5
+#: package/contents/ui/main.qml:319
+#, kde-format
+msgid "Begin night color at:"
+msgstr "夜モードを開始する時刻:"
+
+#. +> stable5
+#: package/contents/ui/main.qml:332 package/contents/ui/main.qml:355
+#, kde-format
+msgid "Input format: HH:MM"
+msgstr "入力フォーマット: HH:MM"
+
+#. +> stable5
+#: package/contents/ui/main.qml:342
+#, kde-format
+msgid "Begin day color at:"
+msgstr "昼モードを開始する時刻:"
+
+#. +> stable5
+#: package/contents/ui/main.qml:364
+#, kde-format
+msgid "Transition duration:"
+msgstr "切り替えにかける時間:"
+
+#. +> stable5
+#: package/contents/ui/main.qml:373
+#, kde-format
+msgid "%1 minute"
+msgid_plural "%1 minutes"
+msgstr[0] "%1 分"
+
+#. +> stable5
+#: package/contents/ui/main.qml:386
+#, kde-format
+msgid "Input minutes - min. 1, max. 600"
+msgstr "分を入力 - 1-600"
+
+#. +> stable5
+#: package/contents/ui/main.qml:404
+#, kde-format
+msgid "Error: Transition time overlaps."
+msgstr "エラー: 切り替わる時間が重複しています。"
+
+#. +> stable5
+#: package/contents/ui/main.qml:426
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Locating…"
+msgstr "位置を特定しています..."
+
+#, kde-format
+#~ msgid "Always on night light"
+#~ msgstr "常にオン"
+
+#, kde-format
+#~ msgid "Day light temperature:"
+#~ msgstr "昼モードの色温度:"
+
+#, kde-format
+#~ msgid "Night light temperature:"
+#~ msgstr "夜モードの色温度:"
+
+#, kde-format
+#~ msgctxt "@label The coordinates for the current location"
+#~ msgid "Current location:"
+#~ msgstr "現在の場所:"
+
+#, kde-format
+#~ msgid "Begin night light at:"
+#~ msgstr "夜モードを開始する時刻:"
+
+#, kde-format
+#~ msgid "Begin day light at:"
+#~ msgstr "昼モードを開始する時刻:"
+
+#, fuzzy, kde-format
+#~| msgid "Zoom in"
+#~ msgid "Zoom out"
+#~ msgstr "拡大"
+
+#, fuzzy, kde-format
+#~| msgid "%1 minute"
+#~| msgid_plural "%1 minutes"
+#~ msgctxt "@info:tooltip Part of a control for setting a time"
+#~ msgid "minute"
+#~ msgstr "%1 分"
+
+#, kde-format
+#~ msgid "Detect Location"
+#~ msgstr "場所を検出"
+
+#, kde-format
+#~ msgid "Latitude:"
+#~ msgstr "緯度:"
+
+#, kde-format
+#~ msgid "Longitude:"
+#~ msgstr "経度:"
+
+#, kde-format
+#~ msgid ""
+#~ "Night Color makes the colors on the screen warmer to reduce eye strain at "
+#~ "the time of your choosing."
+#~ msgstr ""
+#~ "Night Color は指定された時間にディスプレイの色温度を下げることで目の負荷を"
+#~ "軽減します。"
+
+#, kde-format
+#~ msgid "Activation time:"
+#~ msgstr "アクティブ化する時間:"
+
+#, kde-format
+#~ msgid "Always on"
+#~ msgstr "常にオン"
+
+#, kde-format
+#~ msgid "Sunset to sunrise at current location"
+#~ msgstr "現在地の日の入りから日の出まで"
+
+#, kde-format
+#~ msgid "Sunset to sunrise at manual location"
+#~ msgstr "手動で指定した地点の日の入りから日の出まで"
+
+#, kde-format
+#~ msgid "Custom time"
+#~ msgstr "指定した時間"
+
+#, kde-format
+#~ msgid "Activate Night Color"
+#~ msgstr "Night Color を有効化"
+
+#, kde-format
+#~ msgid "Night Color Temperature:"
+#~ msgstr "Night Color の色温度:"
+
+#, kde-format
+#~ msgid "Turn off at:"
+#~ msgstr "オフにする時間:"
+
+#, kde-format
+#~ msgid "Turn on at:"
+#~ msgstr "オンにする時間:"
+
+#, kde-format
+#~ msgid "Night Color begins at %1"
+#~ msgstr "%1 に Night Color が始まります"
+
+#, kde-format
+#~ msgid "Color fully changed at %1"
+#~ msgstr "%1 に完全に色が変わります"
+
+#, kde-format
+#~ msgid "Night Color begins changing back at %1"
+#~ msgstr "%1 に Night Color が終了しはじめます"
+
+#, kde-format
+#~ msgid "Normal coloration restored by %1"
+#~ msgstr "%1 に通常の色表示に戻ります"
+
+#, fuzzy, kde-format
+#~| msgid "Night Color begins changing back at %1"
+#~ msgid "Night Color begins changing at %1 and is fully changed by %2"
+#~ msgstr "%1 に Night Color が終了しはじめます"
+
+#, fuzzy, kde-format
+#~| msgid "Night Color begins changing back at %1"
+#~ msgid "Night Color begins changing back at %1 and ends at %2"
+#~ msgstr "%1 に Night Color が終了しはじめます"
+
+#, fuzzy, kde-format
+#~| msgid "Activate Night Color"
+#~ msgid "Activate blue light filter"
+#~ msgstr "Night Color を有効化"
+
+#, kde-format
+#~ msgid " K"
+#~ msgstr " K"
+
+#, kde-format
+#~ msgid "Latitude: %1   Longitude: %2"
+#~ msgstr "緯度: %1   経度: %2"
+
+#, kde-format
+#~ msgid "Night Color"
+#~ msgstr "Night Color"
+
+#~ msgid "Night Color Temperature: "
+#~ msgstr "Night Color の色温度: "
+
+#~ msgid "(In minutes - min. 1, max. 600)"
+#~ msgstr "(分単位で - 最小値1, 最大値 600)"
+
+#~ msgid "(Input format: HH:MM)"
+#~ msgstr "(入力フォーマット: HH:MM)"

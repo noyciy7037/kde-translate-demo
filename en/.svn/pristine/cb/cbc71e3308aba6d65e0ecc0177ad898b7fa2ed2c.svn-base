@@ -1,0 +1,288 @@
+# Translation of libkonq into Japanese.
+# This file is distributed under the same license as the kdebase package.
+# Noboru Sinohara <shinobo@leo.bekkoame.ne.jp>, 2002.
+# Toyohiro Asukai <toyohiro@ksmplus.com>, 2004.
+# Taiki Komoda <kom@kde.gr.jp>, 2004.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2005, 2010.
+# AWASHIRO Ikuya <ikuya@good-day.co.jp>, 2005.
+# Shinichi Tsunoda <tsuno@ngy.1st.ne.jp>, 2005.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2007, 2008, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: libkonq\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-05-17 10:32+0200\n"
+"PO-Revision-Date: 2010-05-08 16:24-0700\n"
+"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.10.2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. +> trunk6 stable6
+#: src/htmlsettingsinterface.cpp:19
+msgid "Accept"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/htmlsettingsinterface.cpp:21
+msgid "Reject"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/konq_popupmenu.cpp:223
+#, kde-format
+msgid "&Open"
+msgstr "開く(&O)"
+
+#. +> trunk6 stable6
+#: src/konq_popupmenu.cpp:246
+#, kde-format
+msgid "Create &Folder..."
+msgstr "フォルダを作成(&F)..."
+
+#. +> trunk6 stable6
+#: src/konq_popupmenu.cpp:257
+#, kde-format
+msgid "&Restore"
+msgstr "復元(&R)"
+
+#. +> trunk6 stable6
+#: src/konq_popupmenu.cpp:269
+#, kde-format
+msgid "Show Original Directory"
+msgstr "元のフォルダを表示"
+
+#. +> trunk6 stable6
+#: src/konq_popupmenu.cpp:269
+#, kde-format
+msgid "Show Original File"
+msgstr "元のファイルを表示"
+
+#. +> trunk6 stable6
+#: src/konq_popupmenu.cpp:304
+#, kde-format
+msgid "&Empty Trash Bin"
+msgstr "ごみ箱を空にする(&E)"
+
+#. +> trunk6 stable6
+#: src/konq_popupmenu.cpp:316
+#, kde-format
+msgid "&Configure Trash Bin"
+msgstr "ごみ箱を設定(&C)"
+
+# ACCELERATOR changed by translator
+#. +> trunk6 stable6
+#: src/konq_popupmenu.cpp:340
+#, kde-format
+msgid "&Bookmark This Page"
+msgstr "このページをブックマーク(&K)"
+
+# ACCELERATOR changed by translator
+#. +> trunk6 stable6
+#: src/konq_popupmenu.cpp:342
+#, kde-format
+msgid "&Bookmark This Location"
+msgstr "この場所をブックマーク(&K)"
+
+# ACCELERATOR changed by translator
+#. +> trunk6 stable6
+#: src/konq_popupmenu.cpp:345
+#, kde-format
+msgid "&Bookmark This Folder"
+msgstr "このフォルダをブックマーク(&K)"
+
+# ACCELERATOR changed by translator
+#. +> trunk6 stable6
+#: src/konq_popupmenu.cpp:347
+#, kde-format
+msgid "&Bookmark This Link"
+msgstr "このリンクをブックマーク(&K)"
+
+# ACCELERATOR changed by translator
+#. +> trunk6 stable6
+#: src/konq_popupmenu.cpp:349
+#, kde-format
+msgid "&Bookmark This File"
+msgstr "このファイルをブックマーク(&K)"
+
+# ACCELERATOR added by translator
+#. +> trunk6 stable6
+#: src/konq_popupmenu.cpp:388
+#, kde-format
+msgid "Preview In"
+msgstr "コンポーネントでプレビュー(&I)"
+
+#. +> trunk6 stable6
+#: src/konq_popupmenu.cpp:399
+#, kde-format
+msgid "Open Terminal Here"
+msgstr ""
+
+#, fuzzy, kde-format
+#~| msgid "&Open"
+#~ msgctxt "@label:button"
+#~ msgid "&Open with"
+#~ msgstr "開く(&O)"
+
+#, fuzzy, kde-format
+#~| msgid "&Open"
+#~ msgctxt "@label:button"
+#~ msgid "&Open"
+#~ msgstr "開く(&O)"
+
+#, kde-format
+#~ msgid "&Properties"
+#~ msgstr "プロパティ(&P)"
+
+#~ msgid ""
+#~ "Restores this file or directory, back to the location where it was "
+#~ "deleted from initially"
+#~ msgstr "このファイルまたはフォルダを削除された元の場所へ戻します"
+
+#~ msgid ""
+#~ "Opens a new file manager window showing the target of this link, in its "
+#~ "parent directory."
+#~ msgstr ""
+#~ "このリンクのリンク先を含むフォルダをファイルマネージャの新しいウィンドウに"
+#~ "表示します。"
+
+#~ msgid "Share"
+#~ msgstr "共有"
+
+#~ msgctxt "@title:menu"
+#~ msgid "Copy To"
+#~ msgstr "コピー先(&Y)"
+
+#~ msgctxt "@title:menu"
+#~ msgid "Move To"
+#~ msgstr "移動先(&V)"
+
+#~ msgctxt "@title:menu"
+#~ msgid "Home Folder"
+#~ msgstr "ホームフォルダ"
+
+#~ msgctxt "@title:menu"
+#~ msgid "Root Folder"
+#~ msgstr "ルートフォルダ"
+
+#~ msgctxt "@title:menu in Copy To or Move To submenu"
+#~ msgid "Browse..."
+#~ msgstr "ブラウズ..."
+
+#~ msgctxt "@title:menu"
+#~ msgid "Copy Here"
+#~ msgstr "ここにコピー"
+
+#~ msgctxt "@title:menu"
+#~ msgid "Move Here"
+#~ msgstr "ここに移動"
+
+#~ msgid "You cannot drop a folder on to itself"
+#~ msgstr "フォルダをそれ自身にドロップすることはできません"
+
+#~ msgid "File name for dropped contents:"
+#~ msgstr "ドロップされた中身のファイル名:"
+
+#~ msgid "&Move Here"
+#~ msgstr "ここに移動(&M)"
+
+#~ msgid "&Copy Here"
+#~ msgstr "ここにコピー(&C)"
+
+#~ msgid "&Link Here"
+#~ msgstr "ここにリンク(&L)"
+
+#~ msgid "Set as &Wallpaper"
+#~ msgstr "壁紙にする(&W)"
+
+#~ msgid "C&ancel"
+#~ msgstr "キャンセル(&A)"
+
+#~ msgctxt "@action:button"
+#~ msgid "Create directory"
+#~ msgstr "フォルダを作成"
+
+#~ msgctxt "@action:button"
+#~ msgid "Enter a different name"
+#~ msgstr "他の名前を入力"
+
+#~ msgid ""
+#~ "The name \"%1\" starts with a dot, so the directory will be hidden by "
+#~ "default."
+#~ msgstr ""
+#~ "フォルダ名 ‘%1’ はドット (.) で始まっているため、標準設定では表示されませ"
+#~ "ん。"
+
+#, fuzzy
+#~| msgid "Create hidden directory?"
+#~ msgctxt "@title:window"
+#~ msgid "Create hidden directory?"
+#~ msgstr "隠しフォルダを作成しますか？"
+
+#~ msgctxt "@label Default name when creating a folder"
+#~ msgid "New Folder"
+#~ msgstr "新しいフォルダ"
+
+#~ msgctxt "@title:window"
+#~ msgid "New Folder"
+#~ msgstr "新しいフォルダ"
+
+#~ msgctxt "@label:textbox"
+#~ msgid "Enter folder name:"
+#~ msgstr "フォルダ名を入力:"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "Paste One Folder"
+#~ msgstr "フォルダを貼り付け"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "Paste One File"
+#~ msgstr "ファイルを貼り付け"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "Paste One Item"
+#~ msgid_plural "Paste %1 Items"
+#~ msgstr[0] "%1 アイテムを貼り付け"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "Paste Clipboard Contents..."
+#~ msgstr "クリップボードの内容を貼り付け..."
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "Paste"
+#~ msgstr "貼り付け"
+
+#~ msgid "Create hidden directory?"
+#~ msgstr "隠しフォルダを作成しますか？"
+
+#~ msgid "New Folder"
+#~ msgstr "新しいフォルダ"
+
+#~ msgid "Enter folder name:"
+#~ msgstr "フォルダ名を入力:"
+
+#~ msgid "Create New"
+#~ msgstr "新規作成"
+
+#~ msgid "Link to Device"
+#~ msgstr "デバイスへのリンク"
+
+#~ msgid "<qt>The template file <b>%1</b> does not exist.</qt>"
+#~ msgstr "<qt>テンプレートファイル ‘%1’ は存在しません。</qt>"
+
+#~ msgid "File name:"
+#~ msgstr "ファイル名:"
+
+#~ msgid ""
+#~ "Basic links can only point to local files or directories.\n"
+#~ "Please use \"Link to Location\" for remote URLs."
+#~ msgstr ""
+#~ "基本的なリンクのリンク先はローカルのファイルやフォルダに限られます。\n"
+#~ "リモートの URL には「場所へのリンク」を使ってください。"

@@ -1,0 +1,227 @@
+# 百武 朋大 <tomhioo@outlook.jp>, 2019.
+# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2014, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-09-09 08:55+0200\n"
+"PO-Revision-Date: 2019-03-16 14:45-0700\n"
+"Last-Translator: Fumiaki Okushi <fumiaki.okushi@gmail.com>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: \n"
+"X-Text-Markup: \n"
+"X-Generator: Lokalize 18.12.3\n"
+
+#. +> trunk6 stable6 stable5
+#: src/bluedevil.notifyrc:3 src/kio/bluetooth/bluetooth-network.desktop:3
+msgctxt "Name"
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+#. +> trunk6 stable6 stable5
+#: src/bluedevil.notifyrc:59
+msgctxt "Comment"
+msgid "Bluetooth system"
+msgstr "Bluetooth システム"
+
+#. +> trunk6 stable6 stable5
+#: src/bluedevil.notifyrc:117
+msgctxt "Name"
+msgid "Authorization Requested"
+msgstr "認証が要求されました"
+
+#. +> trunk6 stable6 stable5
+#: src/bluedevil.notifyrc:172
+msgctxt "Comment"
+msgid "A device wants to connect"
+msgstr "デバイスが接続を求めています"
+
+#. +> trunk6 stable6 stable5
+#: src/bluedevil.notifyrc:233
+msgctxt "Name"
+msgid "Confirm PIN"
+msgstr "PIN の確認"
+
+#. +> trunk6 stable6 stable5
+#: src/bluedevil.notifyrc:289
+msgctxt "Comment"
+msgid "Confirm a device request using matching PINs"
+msgstr "デバイスが同じ PIN を利用していることを確認"
+
+#. +> trunk6 stable6 stable5
+#: src/bluedevil.notifyrc:349
+msgctxt "Name"
+msgid "Request PIN"
+msgstr "PIN を要求"
+
+#. +> trunk6 stable6 stable5
+#: src/bluedevil.notifyrc:404
+msgctxt "Comment"
+msgid "A PIN is needed"
+msgstr "PIN が必要です"
+
+#. +> trunk6 stable6 stable5
+#: src/bluedevil.notifyrc:465
+msgctxt "Name"
+msgid "Incoming File"
+msgstr "到着したファイル"
+
+#. +> trunk6 stable6 stable5
+#: src/bluedevil.notifyrc:522
+msgctxt "Comment"
+msgid "Incoming file transfer"
+msgstr "到着したファイル転送"
+
+#. +> trunk6 stable6 stable5
+#: src/bluedevil.notifyrc:582
+msgctxt "Name"
+msgid "Connection Failed"
+msgstr "接続に失敗"
+
+#. +> trunk6 stable6 stable5
+#: src/bluedevil.notifyrc:637
+msgctxt "Comment"
+msgid "Connection to device failed"
+msgstr "デバイスへの接続に失敗"
+
+#. +> trunk6 stable6 stable5
+#: src/bluedevil.notifyrc:697
+msgctxt "Name"
+msgid "Device Setup Finished"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: src/bluedevil.notifyrc:745
+msgctxt "Comment"
+msgid "Setting up a Bluetooth device finished successfully"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: src/sendfile/org.kde.bluedevilsendfile.desktop:2
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Bluetooth Devices"
+msgctxt "Name"
+msgid "Bluetooth File Transfer"
+msgstr "Bluetooth デバイス"
+
+#. +> trunk6 stable6 stable5
+#: src/sendfile/org.kde.bluedevilsendfile.desktop:49
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Bluetooth Devices"
+msgctxt "GenericName"
+msgid "Bluetooth File Transfer"
+msgstr "Bluetooth デバイス"
+
+#. +> trunk6 stable6 stable5
+#: src/sendfile/org.kde.bluedevilsendfile.desktop:95
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Send file via Bluetooth"
+msgctxt "Comment"
+msgid "Send files via Bluetooth"
+msgstr "Bluetooth を通してファイルを送信"
+
+#. +> trunk6 stable6 stable5
+#: src/wizard/org.kde.bluedevilwizard.desktop:2
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Bluetooth Devices"
+msgctxt "Name"
+msgid "Add Bluetooth Device"
+msgstr "Bluetooth デバイス"
+
+#. +> trunk6 stable6 stable5
+#: src/wizard/org.kde.bluedevilwizard.desktop:48
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Bluetooth Devices"
+msgctxt "GenericName"
+msgid "Add Bluetooth Device"
+msgstr "Bluetooth デバイス"
+
+#. +> trunk6 stable6 stable5
+#: src/wizard/org.kde.bluedevilwizard.desktop:94
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Bluetooth Devices"
+msgctxt "Comment"
+msgid "Add Bluetooth Device"
+msgstr "Bluetooth デバイス"
+
+#. +> stable5
+#: src/applet/package/metadata.desktop:54
+msgctxt "Comment"
+msgid "Bluetooth status and control"
+msgstr "Bluetooth の状態と制御"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "Manage Bluetooth devices"
+#~ msgstr "Bluetooth デバイス"
+
+#~ msgctxt "Name"
+#~ msgid "BlueDevil Wizard"
+#~ msgstr "BlueDevil ウィザード"
+
+#~ msgctxt "GenericName"
+#~ msgid "BlueDevil Wizard"
+#~ msgstr "BlueDevil ウィザード"
+
+#~ msgctxt "Comment"
+#~ msgid "BlueDevil Wizard"
+#~ msgstr "BlueDevil ウィザード"
+
+#~ msgctxt "Name"
+#~ msgid "Adapters"
+#~ msgstr "アダプタ"
+
+#~ msgctxt "Comment"
+#~ msgid "Bluetooth Adapters"
+#~ msgstr "Bluetooth アダプタ"
+
+#~ msgctxt "Name"
+#~ msgid "Devices"
+#~ msgstr "デバイス"
+
+#~ msgctxt "Comment"
+#~ msgid "Bluetooth Devices"
+#~ msgstr "Bluetooth デバイス"
+
+#~ msgctxt "Name"
+#~ msgid "Advanced Settings"
+#~ msgstr "詳細設定"
+
+#~ msgctxt "Comment"
+#~ msgid "Advanced Bluetooth Settings"
+#~ msgstr "Bluetooth の詳細設定"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "Manage bluetooth devices"
+#~ msgstr "Bluetooth デバイス"
+
+#~ msgctxt "X-KDE-Submenu"
+#~ msgid "Bluetooth"
+#~ msgstr "Bluetooth"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "BlueDevil"
+#~ msgstr "BlueDevil ウィザード"
+
+#, fuzzy
+#~ msgctxt "GenericName"
+#~ msgid "BlueDevil"
+#~ msgstr "BlueDevil ウィザード"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "KDE Bluetooth support"
+#~ msgstr "Bluetooth システム"

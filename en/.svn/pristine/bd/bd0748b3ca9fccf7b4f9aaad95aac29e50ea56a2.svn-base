@@ -1,0 +1,305 @@
+# Translation of desktop_kdepim into Japanese.
+# Taiki Komoda <kom@kde.gr.jp>, 2002,2003.
+# Shinichi Tsunoda <tsuno@ngy.1st.ne.jp>, 2004, 2005.
+# Toyohiro Asukai <toyohiro@ksmplus.com>, 2004.
+# AWASHIRO Ikuya <ikuya@oooug.jp>, 2004.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2006, 2007, 2008, 2009, 2010.
+# Daniel E. Moctezuma <democtezuma@gmail.com>, 2010.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2006, 2010, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdepim\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2026-02-25 09:28+0100\n"
+"PO-Revision-Date: 2024-12-25 13:50+0900\n"
+"Last-Translator: NIIBE Yutaka <gniibe@fsij.org>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: \n"
+"X-Text-Markup: \n"
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:5 src/libkleopatrarc.desktop:5
+msgctxt "Name"
+msgid "TAR (PGP®-compatible)"
+msgstr "TAR (PGP® 互換)"
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:58 src/libkleopatrarc.desktop:148
+msgctxt "Name"
+msgid "sha256sum"
+msgstr "sha256sum"
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:110 src/libkleopatrarc.desktop:199
+msgctxt "Name"
+msgid "sha1sum"
+msgstr "sha1sum"
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:161 src/libkleopatrarc.desktop:299
+msgctxt "Name"
+msgid "md5sum"
+msgstr "md5sum"
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:214 src/libkleopatrarc.desktop:352
+msgctxt "Name"
+msgid "Expired"
+msgstr "期限切れ"
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:247 src/libkleopatrarc.desktop:385
+msgctxt "Description"
+msgid ""
+"Certificates that are invalid because they have expired (except disabled "
+"ones)"
+msgstr "失効したために無効な証明書 (使用禁止のものを除く)"
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:283 src/libkleopatrarc.desktop:421
+msgctxt "Name"
+msgid "Revoked"
+msgstr "取り消し済"
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:316 src/libkleopatrarc.desktop:454
+msgctxt "Description"
+msgid ""
+"Certificates that are invalid because they have been revoked (except "
+"disabled ones)"
+msgstr "取り消しされたたために無効な証明書 (使用禁止のものを除く)"
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:352 src/libkleopatrarc.desktop:490
+msgctxt "Name"
+msgid "Trusted Root Certificates"
+msgstr "信頼されたルート証明書"
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:385 src/libkleopatrarc.desktop:523
+msgctxt "Description"
+msgid "S/MIME root certificates that are trusted"
+msgstr "信頼された S/MIME のルート証明書"
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:425 src/libkleopatrarc.desktop:563
+msgctxt "Name"
+msgid "Not Trusted Root Certificates"
+msgstr "信頼されてないルート証明書"
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:458 src/libkleopatrarc.desktop:596
+msgctxt "Description"
+msgid "S/MIME root certificates that are not trusted"
+msgstr "信頼されてない S/MIME のルート証明書"
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:494 src/libkleopatrarc.desktop:632
+msgctxt "Name"
+msgid "For Qualified Signatures"
+msgstr "適格電子署名用"
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:527 src/libkleopatrarc.desktop:665
+msgctxt "Description"
+msgid "Certificates usable for qualified signatures"
+msgstr "適格電子署名用に使える証明書"
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:564 src/libkleopatrarc.desktop:702
+msgctxt "Name"
+msgid "On Smart Card"
+msgstr "スマートカード上"
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:597 src/libkleopatrarc.desktop:735
+msgctxt "Description"
+msgid "Certificates stored on smart cards (except disabled ones)"
+msgstr "スマートカードに保存された証明書 (使用禁止を除く)"
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:633 src/libkleopatrarc.desktop:771
+msgctxt "Name"
+msgid "OpenPGP"
+msgstr "OpenPGP"
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:666 src/libkleopatrarc.desktop:804
+msgctxt "Description"
+msgid "OpenPGP certificates (except disabled ones)"
+msgstr "OpenPGP 証明書 (使用禁止を除く)"
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:701 src/libkleopatrarc.desktop:839
+msgctxt "Name"
+msgid "S/MIME"
+msgstr "S/MIME"
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:734 src/libkleopatrarc.desktop:872
+msgctxt "Description"
+msgid "S/MIME certificates"
+msgstr "S/MIME 証明書"
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:776 src/libkleopatrarc.desktop:914
+msgctxt "Name"
+msgid "VS-NfD Compliant"
+msgstr "VS-NfD 準拠"
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:813 src/libkleopatrarc.desktop:951
+msgctxt "Description"
+msgid "Certificates that are VS-NfD compliant (except disabled ones)"
+msgstr "VS-NfD 準拠の証明書 (使用禁止を除く)"
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:852 src/libkleopatrarc.desktop:990
+msgctxt "Name"
+msgid "Not VS-NfD Compliant"
+msgstr "VS-NfD 準拠ではない"
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:889 src/libkleopatrarc.desktop:1027
+msgctxt "Description"
+msgid "Certificates that are not VS-NfD compliant (except disabled ones)"
+msgstr "VS-NfD 準拠ではない証明書 (使用禁止を除く)"
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:930 src/libkleopatrarc.desktop:1068
+msgctxt "Name"
+msgid "Not VS-NfD Compliant (Expired)"
+msgstr "VS-NfD 準拠ではない (失効)"
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:965 src/libkleopatrarc.desktop:1103
+msgctxt "Description"
+msgid ""
+"Expired certificates (if VS-NfD compliance mode is active, except disabled "
+"ones)"
+msgstr "失効した証明書 (VS-NfD 準拠モードが有効の場合。使用禁止を除く)"
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:1005 src/libkleopatrarc.desktop:1143
+msgctxt "Name"
+msgid "Not VS-NfD Compliant (Revoked)"
+msgstr "VS-NfD 準拠ではない (取り消し済)"
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:1040 src/libkleopatrarc.desktop:1178
+msgctxt "Description"
+msgid ""
+"Revoked certificates (if VS-NfD compliance mode is active, except disabled "
+"ones)"
+msgstr "取り消しされた証明書 (VS-NfD 準拠モードが有効の場合。使用禁止を除く)"
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:1076 src/libkleopatrarc.desktop:1214
+msgctxt "Name"
+msgid "Disabled"
+msgstr "使用禁止"
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:1106 src/libkleopatrarc.desktop:1244
+msgctxt "Description"
+msgid "Certificates that are disabled"
+msgstr "使用禁止とされた証明書"
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:1144 src/libkleopatrarc.desktop:1282
+msgctxt "Name"
+msgid "My Own"
+msgstr "自分自身"
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:1176 src/libkleopatrarc.desktop:1314
+msgctxt "Description"
+msgid "My own certificates"
+msgstr "自分自身の証明書"
+
+#. +> trunk6
+#: src/libkleopatrarc-win32.desktop:1222 src/libkleopatrarc.desktop:1360
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Validated"
+msgctxt "Name"
+msgid "Valid"
+msgstr "検証済"
+
+#. +> trunk6
+#: src/libkleopatrarc-win32.desktop:1239 src/libkleopatrarc.desktop:1377
+#, fuzzy
+#| msgctxt "Description"
+#| msgid ""
+#| "Certificates that are invalid because they have been revoked (except "
+#| "disabled ones)"
+msgctxt "Description"
+msgid ""
+"Certificates that are neither expired nor revoked (except disabled ones)"
+msgstr "取り消しされたたために無効な証明書 (使用禁止のものを除く)"
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc.desktop:97
+msgctxt "Name"
+msgid "TAR (with bzip2 compression)"
+msgstr "TAR (bzip2 圧縮)"
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc.desktop:250
+msgctxt "Name"
+msgid "sha512sum"
+msgstr "sha512sum"
+
+#~ msgctxt "Name"
+#~ msgid "Disabled Certificates"
+#~ msgstr "使用禁止とされた証明書"
+
+#~ msgctxt "Description"
+#~ msgid "Certificates that were validated (except disabled ones)"
+#~ msgstr "検証済みの証明書(使用禁止を除く)"
+
+#~ msgctxt "Description"
+#~ msgid "Certificates that were not validated (except disabled ones)"
+#~ msgstr "検証されていない証明書(使用禁止を除く)"
+
+#~ msgctxt "Name"
+#~ msgid "Not Validated"
+#~ msgstr "未検証"
+
+#~ msgctxt "Name"
+#~ msgid "Not Validated Key"
+#~ msgstr "検証されていない鍵"
+
+#~ msgctxt "Name"
+#~ msgid "Expired Key"
+#~ msgstr "期限切れの鍵"
+
+#~ msgctxt "Name"
+#~ msgid "Revoked Key"
+#~ msgstr "破棄された鍵"
+
+#~ msgctxt "Name"
+#~ msgid "Trusted Root Certificate"
+#~ msgstr "信頼されたルート証明書"
+
+#~ msgctxt "Name"
+#~ msgid "Not Trusted Root Certificate"
+#~ msgstr "信頼されてないルート証明書"
+
+#~ msgctxt "Name"
+#~ msgid "Keys for Qualified Signatures"
+#~ msgstr "適格電子署名用の鍵"
+
+#~ msgctxt "Name"
+#~ msgid "Smartcard Key"
+#~ msgstr "スマートカードの鍵"
+
+#~ msgctxt "Name"
+#~ msgid "Other Keys"
+#~ msgstr "その他の鍵"

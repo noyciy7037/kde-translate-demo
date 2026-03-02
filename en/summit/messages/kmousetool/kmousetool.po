@@ -1,0 +1,312 @@
+# Translation of kmousetool into Japanese.
+# This file is distributed under the same license as the kdeaccessibility package.
+# Kenshi Muto <kmuto@debian.org>, 2004.
+# Toyohiro Asukai <toyohiro@ksmplus.com>, 2004.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kmousetool\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-07-16 10:45+0200\n"
+"PO-Revision-Date: 2007-08-11 21:00+0900\n"
+"Last-Translator: Yukiko Bando <ybando@k6.dion.ne.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.3.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Kenshi Muto, Toyohiro Asukai"
+
+#. +> trunk6 stable6
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "kmuto@debian.org, toyohiro@ksmplus.com"
+
+#. +> trunk6 stable6
+#: kmousetool.cpp:394
+#, kde-format
+msgid "The drag time must be less than or equal to the dwell time."
+msgstr "ドラッグ時間はドエル時間以下でなければなりません。"
+
+#. +> trunk6 stable6
+#: kmousetool.cpp:394
+#, kde-format
+msgid "Invalid Value"
+msgstr "無効な値です"
+
+#. +> trunk6 stable6
+#: kmousetool.cpp:463 kmousetool.cpp:604
+#, kde-format
+msgid "&Stop"
+msgstr "停止(&S)"
+
+#. +> trunk6 stable6
+#: kmousetool.cpp:465 kmousetool.cpp:584 kmousetool.cpp:607
+#, kde-format
+msgctxt "Start tracking the mouse"
+msgid "&Start"
+msgstr "開始(&S)"
+
+#. +> trunk6 stable6
+#: kmousetool.cpp:526
+#, kde-format
+msgid ""
+"There are unsaved changes in the active module.\n"
+"Do you want to apply the changes before closing the configuration window or "
+"discard the changes?"
+msgstr ""
+"アクティブなモジュールに未保存の変更があります。\n"
+"設定ウィンドウを閉じる前に変更を適用しますか？または変更を破棄しますか？"
+
+#. +> trunk6 stable6
+#: kmousetool.cpp:528
+#, kde-format
+msgid "Closing Configuration Window"
+msgstr "設定ウィンドウを閉じています"
+
+#. +> trunk6 stable6
+#: kmousetool.cpp:549
+#, kde-format
+msgid ""
+"There are unsaved changes in the active module.\n"
+"Do you want to apply the changes before quitting KMousetool or discard the "
+"changes?"
+msgstr ""
+"アクティブなモジュールに未保存の変更があります。\n"
+"KMousetool を閉じる前に変更を適用しますか？または変更を破棄しますか？"
+
+#. +> trunk6 stable6
+#: kmousetool.cpp:550
+#, kde-format
+msgid "Quitting KMousetool"
+msgstr "KMousetool を終了中"
+
+#. +> trunk6 stable6
+#: kmousetool.cpp:586
+#, kde-format
+msgid "&Configure KMouseTool..."
+msgstr "KMouseTool を設定(&C)..."
+
+#. +> trunk6 stable6
+#: kmousetool.cpp:589
+#, kde-format
+msgid "KMousetool &Handbook"
+msgstr "KMousetool ハンドブック(&H)"
+
+#. +> trunk6 stable6
+#: kmousetool.cpp:591
+#, kde-format
+msgid "&About KMouseTool"
+msgstr "KMouseTool について(&A)"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, KMouseToolUI)
+#. +> trunk6 stable6
+#: kmousetoolui.ui:14 main.cpp:23 main.cpp:25
+#, kde-format
+msgid "KMouseTool"
+msgstr "KMouseTool"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox1)
+#. +> trunk6 stable6
+#: kmousetoolui.ui:20
+#, kde-format
+msgid "Settings"
+msgstr "設定"
+
+#. i18n: ectx: property (text), widget (QLabel, dragTimeLabel)
+#. +> trunk6 stable6
+#: kmousetoolui.ui:62
+#, fuzzy, kde-format
+#| msgid "Drag t&ime (1/10 sec):"
+msgid "&Drag time (1/10 sec):"
+msgstr "ドラッグ時間 (1/10秒) (&I):"
+
+#. i18n: ectx: property (text), widget (QLabel, movementLabel)
+#. +> trunk6 stable6
+#: kmousetoolui.ui:97
+#, kde-format
+msgid "&Minimum movement:"
+msgstr "最小動作 (ピクセル) (&M):"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbStart)
+#. +> trunk6 stable6
+#: kmousetoolui.ui:107
+#, kde-format
+msgid "Start with &desktop session"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbDrag)
+#. +> trunk6 stable6
+#: kmousetoolui.ui:114
+#, kde-format
+msgid "Smar&t drag"
+msgstr "スマートドラッグ(&T)"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbStroke)
+#. +> trunk6 stable6
+#: kmousetoolui.ui:124
+#, kde-format
+msgid "&Enable strokes"
+msgstr "ストロークを有効にする(&E)"
+
+#. i18n: ectx: property (text), widget (QLabel, dwellTimeLabel)
+#. +> trunk6 stable6
+#: kmousetoolui.ui:131
+#, fuzzy, kde-format
+#| msgid "D&well time (1/10 sec):"
+msgid "Dwell &time (1/10 sec):"
+msgstr "ドエル時間 (1/10秒) (&W):"
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbClick)
+#. +> trunk6 stable6
+#: kmousetoolui.ui:154
+#, kde-format
+msgid "A&udible click"
+msgstr "クリックで音を鳴らす(&U)"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#. +> trunk6 stable6
+#: kmousetoolui.ui:191
+#, fuzzy, kde-format
+#| msgid ""
+#| "KMouseTool will run as a background application after you close this "
+#| "dialog. To change the settings again, restart KMouseTool or use the KDE "
+#| "system tray."
+msgid ""
+"KMouseTool will run as a background application after you close this dialog. "
+"To change the settings again, restart KMouseTool or use the system tray."
+msgstr ""
+"このダイアログを閉じた後、KMouseTool はバックグラウンドアプリケーションとして"
+"動作します。設定を再び変更するには、KMouseTool を再起動するか、KDE システムト"
+"レイを使います。"
+
+#. i18n: ectx: property (text), widget (QPushButton, buttonStartStop)
+#. +> trunk6 stable6
+#: kmousetoolui.ui:223
+#, kde-format
+msgid "&Start"
+msgstr "開始(&S)"
+
+#. +> trunk6 stable6
+#: main.cpp:27
+#, fuzzy, kde-format
+#| msgid ""
+#| "(c) 2002-2003, Jeff Roush\n"
+#| "(c) 2003, Gunnar Schmi Dt"
+msgid ""
+"(c) 2002-2003, Jeff Roush\n"
+"(c) 2003 Gunnar Schmidt "
+msgstr ""
+"(c) 2002-2003, Jeff Roush\n"
+"(c) 2003, Gunnar Schmi Dt"
+
+#. +> trunk6 stable6
+#: main.cpp:32
+#, fuzzy, kde-format
+#| msgid "Gunnar Schmi Dt"
+msgid "Gunnar Schmidt"
+msgstr "Gunnar Schmi Dt"
+
+#. +> trunk6 stable6
+#: main.cpp:32
+#, kde-format
+msgid "Current maintainer"
+msgstr "現在のメンテナ"
+
+#. +> trunk6 stable6
+#: main.cpp:33
+#, kde-format
+msgid "Olaf Schmidt"
+msgstr "Olaf Schmidt"
+
+#. +> trunk6 stable6
+#: main.cpp:33
+#, kde-format
+msgid "Usability improvements"
+msgstr "ユーザビリティの改良"
+
+#. +> trunk6 stable6
+#: main.cpp:34
+#, kde-format
+msgid "Jeff Roush"
+msgstr "Jeff Roush"
+
+#. +> trunk6 stable6
+#: main.cpp:34
+#, kde-format
+msgid "Original author"
+msgstr "オリジナルの作者"
+
+#. +> trunk6 stable6
+#: main.cpp:36
+#, kde-format
+msgid "Joe Betts"
+msgstr "Joe Betts"
+
+#, fuzzy, kde-format
+#~| msgid ""
+#~| "(c) 2002-2003, Jeff Roush\n"
+#~| "(c) 2003, Gunnar Schmi Dt"
+#~ msgid ""
+#~ "(c) 2002-2003, Jeff Roush\n"
+#~ "(c) 2003, Gunnar Schmidt"
+#~ msgstr ""
+#~ "(c) 2002-2003, Jeff Roush\n"
+#~ "(c) 2003, Gunnar Schmi Dt"
+
+#~ msgid "Drag t&ime (1/10 sec):"
+#~ msgstr "ドラッグ時間 (1/10秒) (&I):"
+
+#~ msgid "Start with &KDE"
+#~ msgstr "KDE の起動時に開始する(&K)"
+
+#~ msgid "D&well time (1/10 sec):"
+#~ msgstr "ドエル時間 (1/10秒) (&W):"
+
+#~ msgid "&Defaults"
+#~ msgstr "標準設定(&D)"
+
+#~ msgid "&Reset"
+#~ msgstr "リセット(&R)"
+
+#~ msgid ""
+#~ "KMouseTool will run as a background application after you close this "
+#~ "dialog. To change the settings again, restart KMouseTool or use the KDE "
+#~ "system tray."
+#~ msgstr ""
+#~ "このダイアログを閉じた後、KMouseTool はバックグラウンドアプリケーションと"
+#~ "して動作します。設定を再び変更するには、KMouseTool を再起動するか、KDE シ"
+#~ "ステムトレイを使います。"
+
+#~ msgid "&Apply"
+#~ msgstr "適用(&A)"
+
+#~ msgid "&Help"
+#~ msgstr "ヘルプ(&H)"
+
+#~ msgid "&Close"
+#~ msgstr "閉じる(&C)"
+
+#~ msgid "&Quit"
+#~ msgstr "終了(&Q)"
+
+#~ msgid ""
+#~ "(c) 2002-2003, Jeff Roush\n"
+#~ "(c) 2003, Gunnar Schmi Dt"
+#~ msgstr ""
+#~ "(c) 2002-2003, Jeff Roush\n"
+#~ "(c) 2003, Gunnar Schmi Dt"
+
+#~ msgid "Gunnar Schmi Dt"
+#~ msgstr "Gunnar Schmi Dt"

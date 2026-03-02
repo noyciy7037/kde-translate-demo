@@ -1,0 +1,6398 @@
+# Translation of okteta into Japanese.
+# This file is distributed under the same license as the kdeutils package.
+# Noboru Sinohara <shinobo@leo.bekkoame.ne.jp>, 2002.
+# SATOH Satoru <ss@kde.gr.jp>, 2004.
+# Kenshi Muto <kmuto@debian.org>, 2005.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2007, 2008, 2009.
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2004, 2005, 2007, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: okteta\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2026-02-21 07:45+0100\n"
+"PO-Revision-Date: 2011-04-08 21:21-0700\n"
+"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. +> trunk5
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Yukiko Bando"
+
+#. +> trunk5
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "ybando@k6.dion.ne.jp"
+
+#. +> trunk5 stable5
+#: controllers/document/info/documentinfotool.cpp:47
+#: controllers/document/info/documentinfotoolviewfactory.cpp:22
+#, kde-format
+msgctxt "@title:window"
+msgid "File Info"
+msgstr "ファイル情報"
+
+#. +> trunk5
+#: controllers/document/info/documentinfoview.cpp:65
+#, fuzzy, kde-format
+#| msgid "Type:"
+msgctxt "@label"
+msgid "Type:"
+msgstr "タイプ:"
+
+#. +> trunk5
+#: controllers/document/info/documentinfoview.cpp:79
+#, fuzzy, kde-format
+#| msgid "Location:"
+msgctxt "@label"
+msgid "Location:"
+msgstr "場所:"
+
+#. +> stable5
+#: controllers/document/info/documentinfoview.cpp:78
+#, kde-format
+msgid "Location:"
+msgstr "場所:"
+
+#. +> trunk5
+#: controllers/document/info/documentinfoview.cpp:84
+#, fuzzy, kde-format
+#| msgid "Size:"
+msgctxt "@label"
+msgid "Size:"
+msgstr "サイズ:"
+
+#. +> trunk5
+#: controllers/document/info/documentinfoview.cpp:87
+#, fuzzy, kde-format
+#| msgid "Created/Loaded:"
+msgctxt "@label"
+msgid "Created/Loaded:"
+msgstr "作成/読み込み:"
+
+#. +> stable5
+#: controllers/document/info/documentinfoview.cpp:86
+#, kde-format
+msgid "Created/Loaded:"
+msgstr "作成/読み込み:"
+
+#. +> trunk5
+#: controllers/document/info/documentinfoview.cpp:91
+#, fuzzy, kde-format
+#| msgid "Last modified:"
+msgctxt "@label"
+msgid "Last modified:"
+msgstr "最終更新:"
+
+#. +> stable5
+#: controllers/document/info/documentinfoview.cpp:90
+#, kde-format
+msgid "Last modified:"
+msgstr "最終更新:"
+
+#. +> trunk5
+#: controllers/document/info/documentinfoview.cpp:95
+#, fuzzy, kde-format
+#| msgid "Last synchronized:"
+msgctxt "@label"
+msgid "Last synchronized:"
+msgstr "最終同期:"
+
+#. +> stable5
+#: controllers/document/info/documentinfoview.cpp:94
+#, kde-format
+msgid "Last synchronized:"
+msgstr "最終同期:"
+
+#. +> trunk5
+#: controllers/document/info/documentinfoview.cpp:102
+#, fuzzy, kde-format
+#| msgid "Created:"
+msgctxt "@label"
+msgid "Created:"
+msgstr "作成:"
+
+#. +> stable5
+#: controllers/document/info/documentinfoview.cpp:101
+#, kde-format
+msgid "Created:"
+msgstr "作成:"
+
+#. +> trunk5 stable5
+#: controllers/document/info/documentinfoview.cpp:154
+#, kde-format
+msgctxt "There is no storage location assigned to yet."
+msgid "[None]"
+msgstr "[なし]"
+
+#. +> trunk5 stable5
+#: controllers/document/overwriteonly/overwriteonlycontroller.cpp:21
+#, fuzzy, kde-format
+#| msgctxt "@action:inmenu"
+#| msgid "Overwrite only"
+msgctxt "@option:check"
+msgid "Overwrite only"
+msgstr "上書きのみ"
+
+#. +> trunk5 stable5
+#: controllers/view/bookmarks/bookmarklistmodel.cpp:144
+#, kde-format
+msgctxt "@title:column offset of the bookmark"
+msgid "Offset"
+msgstr "オフセット"
+
+#. +> trunk5 stable5
+#: controllers/view/bookmarks/bookmarklistmodel.cpp:145
+#, kde-format
+msgctxt "@title:column title of the bookmark"
+msgid "Title"
+msgstr "タイトル"
+
+# ACCELERATOR added by translator
+#. +> trunk5 stable5
+#: controllers/view/bookmarks/bookmarkscontroller.cpp:50
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Remove Bookmark"
+msgstr "ブックマークを削除(&R)"
+
+# ACCELERATOR added by translator
+#. +> trunk5 stable5
+#: controllers/view/bookmarks/bookmarkscontroller.cpp:57
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Remove All Bookmarks"
+msgstr "すべてのブックマークを削除(&B)"
+
+# ACCELERATOR added by translator
+#. +> trunk5 stable5
+#: controllers/view/bookmarks/bookmarkscontroller.cpp:64
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Go to Next Bookmark"
+msgstr "次のブックマークに移動(&N)"
+
+# ACCELERATOR added by translator
+#. +> trunk5 stable5
+#: controllers/view/bookmarks/bookmarkscontroller.cpp:71
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Go to Previous Bookmark"
+msgstr "前のブックマークに移動(&P)"
+
+#. +> trunk5 stable5
+#: controllers/view/bookmarks/bookmarkscontroller.cpp:169
+#, kde-format
+msgctxt "@item description of bookmark"
+msgid "%1: %2"
+msgstr "%1: %2"
+
+# ACCELERATOR added by translator
+#. +> trunk5 stable5
+#: controllers/view/bookmarks/bookmarkscontroller.cpp:254
+#: controllers/view/bookmarks/bookmarkstool.cpp:129
+#, kde-format
+msgctxt "default name of a bookmark"
+msgid "Bookmark"
+msgstr "ブックマーク"
+
+#. +> trunk5 stable5
+#: controllers/view/bookmarks/bookmarkstool.cpp:36
+#: controllers/view/bookmarks/bookmarkstoolviewfactory.cpp:22
+#, kde-format
+msgctxt "@title:window"
+msgid "Bookmarks"
+msgstr "ブックマーク"
+
+#. +> trunk5
+#: controllers/view/bookmarks/bookmarksview.cpp:65
+#, fuzzy, kde-format
+#| msgctxt "@title:window"
+#| msgid "Bookmarks"
+msgctxt "@info"
+msgid "No bookmarks"
+msgstr "ブックマーク"
+
+#. +> trunk5
+#: controllers/view/bookmarks/bookmarksview.cpp:88
+#, fuzzy, kde-format
+#| msgctxt "@label:textbox"
+#| msgid "Pattern:"
+msgctxt "@action"
+msgid "Create New"
+msgstr "パターン:"
+
+#. +> trunk5 stable5
+#: controllers/view/bookmarks/bookmarksview.cpp:90
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Creates a new bookmark for the current cursor position."
+msgstr "現在のカーソル位置に新しいブックマークを作成します"
+
+#. +> trunk5 stable5
+#: controllers/view/bookmarks/bookmarksview.cpp:92
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"If you press this button, a new bookmark will be created for the current "
+"cursor position."
+msgstr ""
+"このボタンを押すと現在のカーソル位置に新しいブックマークが作成されます。"
+
+#. +> trunk5
+#: controllers/view/bookmarks/bookmarksview.cpp:102
+#, fuzzy, kde-format
+#| msgctxt "@action:button"
+#| msgid "&Delete"
+msgctxt "@action"
+msgid "Delete"
+msgstr "削除(&D)"
+
+#. +> trunk5 stable5
+#: controllers/view/bookmarks/bookmarksview.cpp:104
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Deletes all the selected bookmarks."
+msgstr "選択したすべてのブックマークを削除します"
+
+#. +> trunk5 stable5
+#: controllers/view/bookmarks/bookmarksview.cpp:106
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"If you press this button, all bookmarks which are selected will be deleted."
+msgstr "このボタンを押すと選択されているすべてのブックマークが削除されます。"
+
+#. +> trunk5
+#: controllers/view/bookmarks/bookmarksview.cpp:117
+#, fuzzy, kde-format
+#| msgctxt "@title:window"
+#| msgid "Go to Offset"
+msgctxt "@action"
+msgid "Go to Offset"
+msgstr "オフセットへ移動"
+
+#. +> trunk5 stable5
+#: controllers/view/bookmarks/bookmarksview.cpp:119
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Moves the cursor to the selected bookmark."
+msgstr "選択したブックマークにカーソルを移動します"
+
+#. +> trunk5 stable5
+#: controllers/view/bookmarks/bookmarksview.cpp:121
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"If you press this button, the cursor is moved to the position of the "
+"bookmark which has been last selected."
+msgstr ""
+"このボタンを押すと最後に選択されたブックマークの位置にカーソルが移動します。"
+
+#. +> trunk5
+#: controllers/view/bookmarks/bookmarksview.cpp:129
+#, kde-format
+msgctxt "@action"
+msgid "Rename"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/bookmarks/bookmarksview.cpp:131
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Enables renaming of the selected bookmark."
+msgstr "選択したブックマークの名前を変更します"
+
+#. +> trunk5 stable5
+#: controllers/view/bookmarks/bookmarksview.cpp:133
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"If you press this button, the name of the bookmark which was last selected "
+"can be edited."
+msgstr ""
+"このボタンを押すと最後に選択したブックマークの名前を変更することができます。"
+
+#. +> trunk5
+#: controllers/view/bookmarks/bookmarksview.cpp:142
+#: controllers/view/stringsextract/stringsextractview.cpp:191
+#: controllers/view/structures/structureview.cpp:381
+#, fuzzy, kde-format
+#| msgctxt "@title:column offset of the bookmark"
+#| msgid "Offset"
+msgctxt "@action"
+msgid "Copy Offset"
+msgstr "オフセット"
+
+#. +> trunk5
+#: controllers/view/bookmarks/bookmarksview.cpp:144
+#: controllers/view/stringsextract/stringsextractview.cpp:193
+#: controllers/view/structures/structureview.cpp:383
+#, fuzzy, kde-format
+#| msgctxt "@info:tooltip"
+#| msgid "Copies the selected strings to the clipboard."
+msgctxt "@info:tooltip"
+msgid "Copies the offset to the clipboard."
+msgstr "選択した文字列をクリップボードにコピーします"
+
+#. +> trunk5
+#: controllers/view/bytetable/bytetablemodel.cpp:137
+#: controllers/view/info/statistictablemodel.cpp:160
+#, fuzzy, kde-format
+#| msgctxt "@label:textbox encoding of one byte as character"
+#| msgid "Character 8 bit:"
+msgctxt "@info:tooltip"
+msgid "Character not defined."
+msgstr "8 ビットの文字:"
+
+#. +> stable5
+#: controllers/view/bytetable/bytetablemodel.cpp:148
+#: controllers/view/info/statistictablemodel.cpp:178
+#, kde-format
+msgctxt "@item:intable character is not defined"
+msgid "undef."
+msgstr "未定義"
+
+#. +> trunk5 stable5
+#: controllers/view/bytetable/bytetablemodel.cpp:155
+#: controllers/view/info/statistictablemodel.cpp:206
+#, kde-format
+msgctxt "@title:column short for Decimal"
+msgid "Dec"
+msgstr "十進"
+
+#. +> trunk5 stable5
+#: controllers/view/bytetable/bytetablemodel.cpp:156
+#: controllers/view/info/statistictablemodel.cpp:205
+#, kde-format
+msgctxt "@title:column short for Hexadecimal"
+msgid "Hex"
+msgstr "十六進"
+
+#. +> trunk5 stable5
+#: controllers/view/bytetable/bytetablemodel.cpp:157
+#: controllers/view/info/statistictablemodel.cpp:207
+#, kde-format
+msgctxt "@title:column short for Octal"
+msgid "Oct"
+msgstr "八進"
+
+#. +> trunk5 stable5
+#: controllers/view/bytetable/bytetablemodel.cpp:158
+#: controllers/view/info/statistictablemodel.cpp:208
+#, kde-format
+msgctxt "@title:column short for Binary"
+msgid "Bin"
+msgstr "二進"
+
+#. +> trunk5 stable5
+#: controllers/view/bytetable/bytetablemodel.cpp:159
+#: controllers/view/info/statistictablemodel.cpp:210
+#, kde-format
+msgctxt "@title:column short for Character"
+msgid "Char"
+msgstr "文字"
+
+#. +> trunk5 stable5
+#: controllers/view/bytetable/bytetablemodel.cpp:165
+#: controllers/view/info/statistictablemodel.cpp:221
+#, kde-format
+msgctxt "@info:tooltip column contains the value in decimal format"
+msgid "Decimal"
+msgstr "十進"
+
+#. +> trunk5 stable5
+#: controllers/view/bytetable/bytetablemodel.cpp:167
+#: controllers/view/info/statistictablemodel.cpp:219
+#, kde-format
+msgctxt "@info:tooltip column contains the value in hexadecimal format"
+msgid "Hexadecimal"
+msgstr "十六進"
+
+#. +> trunk5 stable5
+#: controllers/view/bytetable/bytetablemodel.cpp:169
+#: controllers/view/info/statistictablemodel.cpp:223
+#, kde-format
+msgctxt "@info:tooltip column contains the value in octal format"
+msgid "Octal"
+msgstr "八進"
+
+# skip-rule: binary3
+#. +> trunk5 stable5
+#: controllers/view/bytetable/bytetablemodel.cpp:171
+#: controllers/view/info/statistictablemodel.cpp:225
+#, kde-format
+msgctxt "@info:tooltip column contains the value in binary format"
+msgid "Binary"
+msgstr "二進"
+
+#. +> trunk5 stable5
+#: controllers/view/bytetable/bytetablemodel.cpp:173
+#: controllers/view/info/statistictablemodel.cpp:229
+#, kde-format
+msgctxt "@info:tooltip column contains the character with the value"
+msgid "Character"
+msgstr "文字"
+
+#. +> trunk5 stable5
+#: controllers/view/bytetable/bytetabletool.cpp:37
+#: controllers/view/bytetable/bytetabletoolviewfactory.cpp:22
+#, kde-format
+msgctxt "@title:window"
+msgid "Value/Char Table"
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/bytetable/bytetabletool.cpp:96
+#, fuzzy, kde-format
+#| msgid "Inserted 1 Byte"
+#| msgid_plural "Inserted %1 Bytes"
+msgctxt "@item"
+msgid "Inserted 1 Byte"
+msgid_plural "Inserted %1 Bytes"
+msgstr[0] "%1 バイトを挿入"
+
+#. +> stable5
+#: controllers/view/bytetable/bytetabletool.cpp:92
+#, kde-format
+msgid "Inserted 1 Byte"
+msgid_plural "Inserted %1 Bytes"
+msgstr[0] "%1 バイトを挿入"
+
+#. +> trunk5
+#: controllers/view/bytetable/bytetabletool.cpp:114
+#, fuzzy, kde-format
+#| msgid "Pattern inserted."
+msgctxt "@info"
+msgid "1 byte inserted."
+msgid_plural "%1 bytes inserted."
+msgstr[0] "パターンが挿入されました。"
+
+#. +> trunk5 stable5
+#: controllers/view/bytetable/bytetableview.cpp:73
+#, fuzzy, kde-format
+#| msgctxt "@label:spinbox"
+#| msgid "Number of bytes:"
+msgctxt "@label:spinbox number of bytes to insert"
+msgid "Number (bytes):"
+msgstr "バイト数:"
+
+#. +> trunk5 stable5
+#: controllers/view/bytetable/bytetableview.cpp:81
+#, kde-format
+msgctxt "@info:tooltip"
+msgid ""
+"Number of repeats of the currently selected byte in the table to be inserted."
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/bytetable/bytetableview.cpp:97
+#, kde-format
+msgctxt "@info:tooltip"
+msgid ""
+"Insert the currently selected byte in the table repeated the given number of "
+"times."
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/charsetconversion/charsetconversiontool.cpp:125
+#, kde-format
+msgctxt "@title:window of the tool to convert between charsets"
+msgid "Charset Conversion"
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/charsetconversion/charsetconversiontool.cpp:302
+#, fuzzy, kde-format
+#| msgctxt "Converted from charset 1 to charset 2"
+#| msgid "%1 to %2"
+msgctxt "@item Converted from charset 1 to charset 2"
+msgid "%1 to %2"
+msgstr "%1 から %2 へ"
+
+#. +> stable5
+#: controllers/view/charsetconversion/charsetconversiontool.cpp:313
+#, kde-format
+msgctxt "Converted from charset 1 to charset 2"
+msgid "%1 to %2"
+msgstr "%1 から %2 へ"
+
+#. +> trunk5 stable5
+#: controllers/view/charsetconversion/charsetconversiontoolviewfactory.cpp:25
+#, kde-format
+msgctxt "@title:window"
+msgid "Charset Conversion"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/charsetconversion/charsetconversionview.cpp:52
+#, kde-format
+msgctxt ""
+"@item:inmenu Is converted _from_ charset (selected in combobox next to this)"
+msgid "From"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/charsetconversion/charsetconversionview.cpp:54
+#, kde-format
+msgctxt ""
+"@item:inmenu Is converted _to_ charset (selected in combobox next to this)"
+msgid "To"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/charsetconversion/charsetconversionview.cpp:61
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "The direction the bytes are converted, to or from the selected charset."
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/charsetconversion/charsetconversionview.cpp:65
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Select the direction the bytes are converted, to or from the selected "
+"charset."
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/charsetconversion/charsetconversionview.cpp:81
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "The charset the bytes are converted to."
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/charsetconversion/charsetconversionview.cpp:85
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Select the charset the bytes are converted to."
+msgstr ""
+
+#. +> stable5
+#: controllers/view/charsetconversion/charsetconversionview.cpp:94
+#: controllers/view/checksum/checksumview.cpp:62
+#: controllers/view/filter/filterview.cpp:64
+#, kde-format
+msgctxt "@title:group"
+msgid "Parameters"
+msgstr "パラメータ"
+
+#. +> trunk5 stable5
+#: controllers/view/charsetconversion/charsetconversionview.cpp:101
+#, kde-format
+msgctxt ""
+"@option:check substitute bytes whose char is not part of the target charset"
+msgid "Substitute missing:"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/charsetconversion/charsetconversionview.cpp:106
+#, kde-format
+msgctxt "@info:tooltip"
+msgid ""
+"Selects if bytes should be substituted with a default byte if its char in "
+"the source charset is not part of the target charset."
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/charsetconversion/charsetconversionview.cpp:110
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Set to true if bytes should be substituted with a default byte if its char "
+"in the source charset is not part of the target charset."
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/charsetconversion/charsetconversionview.cpp:126
+#, kde-format
+msgctxt ""
+"@label:textbox byte to use for chars which are not part of the target charset"
+msgid "Substitute byte:"
+msgstr "差し替えバイト:"
+
+#. +> trunk5 stable5
+#: controllers/view/charsetconversion/charsetconversionview.cpp:133
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "The byte to use for chars which are not part of the target charset."
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/charsetconversion/charsetconversionview.cpp:136
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Define the byte to use for chars which are not part of the target charset."
+msgstr ""
+
+#. +> stable5
+#: controllers/view/charsetconversion/charsetconversionview.cpp:169
+#, kde-format
+msgid "Con&vert"
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/charsetconversion/charsetconversionview.cpp:170
+#, kde-format
+msgctxt "@action:button"
+msgid "Convert"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/charsetconversion/charsetconversionview.cpp:173
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Converts the bytes in the selected range."
+msgstr "選択範囲に含まれるバイトを変換。"
+
+#. +> trunk5 stable5
+#: controllers/view/charsetconversion/charsetconversionview.cpp:175
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info:whatsthis"
+#| msgid ""
+#| "If you press the <interface>Filter</interface> button, the operation you "
+#| "selected above is executed on the document with the given options."
+msgctxt "@info:whatsthis"
+msgid ""
+"If you press the <interface>Convert</interface> button, all bytes in the "
+"selected range will be replaced by bytes which represent the same character "
+"in the selected target charset."
+msgstr ""
+"<interface>フィルタ</interface>ボタンを押すと、上で選択した演算が指定されたオ"
+"プションで文書に対して実行されます。"
+
+#. +> trunk5 stable5
+#: controllers/view/charsetconversion/charsetconversionview.cpp:223
+#, kde-format
+msgctxt "@info"
+msgid "No bytes converted."
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/charsetconversion/charsetconversionview.cpp:224
+#, kde-format
+msgctxt "@info"
+msgid "1 byte converted."
+msgid_plural "%1 bytes converted."
+msgstr[0] ""
+
+#. +> trunk5 stable5
+#: controllers/view/charsetconversion/charsetconversionview.cpp:234
+#, kde-format
+msgctxt "@info"
+msgid "No bytes substituted."
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/charsetconversion/charsetconversionview.cpp:235
+#, kde-format
+msgctxt "@info"
+msgid "1 byte substituted."
+msgid_plural "%1 bytes substituted."
+msgstr[0] ""
+
+#. +> trunk5 stable5
+#: controllers/view/charsetconversion/charsetconversionview.cpp:243
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Conversion cancelled because of chars which are not in the target charset."
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/checksum/checksumtool.cpp:69
+#: controllers/view/checksum/checksumtoolviewfactory.cpp:22
+#, kde-format
+msgctxt "@title:window of the tool to calculate checksums"
+msgid "Checksum"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/checksum/checksumview.cpp:44
+#, kde-format
+msgctxt "@label:listbox algorithm to use for the checksum"
+msgid "Algorithm:"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/checksum/checksumview.cpp:51
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Select the algorithm to use for the checksum."
+msgstr "チェックサムを計算するのに使うアルゴリズムを選択します。"
+
+#. +> trunk5 stable5
+#: controllers/view/checksum/checksumview.cpp:78
+#, kde-format
+msgctxt "@action:button calculate the checksum"
+msgid "&Calculate"
+msgstr "計算(&C)"
+
+#. +> trunk5 stable5
+#: controllers/view/checksum/checksumview.cpp:81
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Calculate the checksum for the bytes in the selected range."
+msgstr "選択範囲に含まれるバイトのチェックサムを計算する。"
+
+#. +> trunk5 stable5
+#: controllers/view/checksum/checksumview.cpp:83
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info:whatsthis"
+#| msgid ""
+#| "If you press the <interface>Update</interface> button, the list will be "
+#| "updated to all strings which are contained in the selected range and have "
+#| "the set minimum length."
+msgctxt "@info:whatsthis"
+msgid ""
+"If you press the <interface>Calculate</interface> button, the list will be "
+"updated to all strings which are contained in the selected range and have "
+"the set minimum length."
+msgstr ""
+"<interface>更新</interface>ボタンを押すと、選択範囲に含まれる最低文字数以上の"
+"文字列がリストに表示されます。"
+
+#. +> trunk5
+#: controllers/view/checksum/checksumview.cpp:92
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "No checksum calculated yet."
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/crop/cropcontroller.cpp:31
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Crop"
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/crop/cropcontroller.cpp:94
+#, kde-format
+msgctxt "@item name of the change"
+msgid "Crop"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/filter/filtertool.cpp:62
+#: controllers/view/filter/filtertoolviewfactory.cpp:22
+#, kde-format
+msgctxt "@title:window"
+msgid "Binary Filter"
+msgstr "バイナリフィルタ"
+
+#. +> trunk5
+#: controllers/view/filter/filtertool.cpp:172
+#, kde-format
+msgctxt "@info"
+msgid "1 byte filtered with %2."
+msgid_plural "%1 bytes filtered with %2."
+msgstr[0] ""
+
+#. +> trunk5 stable5
+#: controllers/view/filter/filterview.cpp:43
+#, kde-format
+msgctxt "@label:listbox operation to use by the filter"
+msgid "Operation:"
+msgstr "演算:"
+
+#. +> trunk5 stable5
+#: controllers/view/filter/filterview.cpp:50
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "The operation to use for the filter."
+msgstr "フィルタに使用する演算。"
+
+#. +> trunk5 stable5
+#: controllers/view/filter/filterview.cpp:54
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Select the operation to use for the filter."
+msgstr "フィルタに使用する演算を選択します。"
+
+#. +> trunk5 stable5
+#: controllers/view/filter/filterview.cpp:83
+#, kde-format
+msgctxt "@action:button"
+msgid "&Filter"
+msgstr "フィルタ(&F)"
+
+#. +> trunk5 stable5
+#: controllers/view/filter/filterview.cpp:86
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Executes the filter for the bytes in the selected range."
+msgstr "選択範囲に含まれるバイトに対してフィルタを実行します。"
+
+#. +> trunk5 stable5
+#: controllers/view/filter/filterview.cpp:88
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info:whatsthis"
+#| msgid ""
+#| "If you press the <interface>Filter</interface> button, the operation you "
+#| "selected above is executed on the document with the given options."
+msgctxt "@info:whatsthis"
+msgid ""
+"If you press the <interface>Filter</interface> button, the operation you "
+"selected above is executed for the bytes in the selected range with the "
+"given options."
+msgstr ""
+"<interface>フィルタ</interface>ボタンを押すと、上で選択した演算が指定されたオ"
+"プションで文書に対して実行されます。"
+
+#. +> trunk5
+#: controllers/view/gotooffset/gotooffsetcontroller.cpp:30
+#, fuzzy, kde-format
+#| msgctxt "@title:window"
+#| msgid "Go to Offset"
+msgctxt "@action:inmenu"
+msgid "&Go to Offset…"
+msgstr "オフセットへ移動"
+
+#. +> stable5
+#: controllers/view/gotooffset/gotooffsetcontroller.cpp:32
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "&Go to Offset..."
+msgstr "オフセットへ移動(&G)..."
+
+#. +> trunk5 stable5
+#: controllers/view/gotooffset/gotooffsettool.cpp:48
+#, kde-format
+msgctxt "@title:window of the tool to set a new offset for the cursor"
+msgid "Goto"
+msgstr "移動"
+
+#. +> trunk5 stable5
+#: controllers/view/gotooffset/gotooffsetview.cpp:54
+#, kde-format
+msgctxt "@label:listbox"
+msgid "O&ffset:"
+msgstr "オフセット(&F):"
+
+#. +> trunk5 stable5
+#: controllers/view/gotooffset/gotooffsetview.cpp:64
+#: controllers/view/selectrange/selectrangeview.cpp:65
+#: controllers/view/selectrange/selectrangeview.cpp:85
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Enter an offset to go to, or select a previous offset from the list."
+msgstr ""
+"移動先のオフセットを入力するか、以前に使ったものをリストから選択します。"
+
+#. +> trunk5 stable5
+#: controllers/view/gotooffset/gotooffsetview.cpp:80
+#: controllers/view/libfinddialog/abstractfinddialog.cpp:109
+#, kde-format
+msgctxt "@option:check"
+msgid "From c&ursor"
+msgstr "カーソル位置から(&U)"
+
+#. +> trunk5 stable5
+#: controllers/view/gotooffset/gotooffsetview.cpp:82
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Go relative from the current cursor location and not absolute."
+msgstr "絶対位置ではなく、現在のカーソル位置からの相対位置に移動します。"
+
+#. +> trunk5 stable5
+#: controllers/view/gotooffset/gotooffsetview.cpp:85
+#, kde-format
+msgctxt "@option:check"
+msgid "&Extend selection"
+msgstr "選択範囲を拡張する(&E)"
+
+#. +> trunk5 stable5
+#: controllers/view/gotooffset/gotooffsetview.cpp:87
+#: controllers/view/selectrange/selectrangeview.cpp:107
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Extend the selection by the cursor move."
+msgstr "カーソルの移動で選択範囲を拡張します。"
+
+#. +> trunk5 stable5
+#: controllers/view/gotooffset/gotooffsetview.cpp:90
+#: controllers/view/libfinddialog/abstractfinddialog.cpp:112
+#: controllers/view/selectrange/selectrangeview.cpp:99
+#, kde-format
+msgctxt "@option:check"
+msgid "&Backwards"
+msgstr "後ろ向き(&B)"
+
+#. +> trunk5 stable5
+#: controllers/view/gotooffset/gotooffsetview.cpp:92
+#: controllers/view/selectrange/selectrangeview.cpp:101
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Go backwards from the end or the current cursor location."
+msgstr "末尾または現在のカーソル位置から後ろ向きに移動します。"
+
+#. +> trunk5 stable5
+#: controllers/view/gotooffset/gotooffsetview.cpp:107
+#, kde-format
+msgctxt "@action:button"
+msgid "&Go"
+msgstr "移動(&G)"
+
+#. +> trunk5 stable5
+#: controllers/view/gotooffset/gotooffsetview.cpp:110
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Go to the Offset"
+msgstr "オフセットへ移動します"
+
+#. +> trunk5 stable5
+#: controllers/view/gotooffset/gotooffsetview.cpp:112
+#, kde-kuit-format
+msgctxt "@info:whatsthis"
+msgid ""
+"If you press the <interface>Go</interface> button, the cursor will be moved "
+"in the document to or, on your option, by the offset you entered above."
+msgstr ""
+"<interface>移動</interface>ボタンを押すと、上で入力したオフセットへカーソルが"
+"移動します。オプションの<interface>カーソル位置から</interface>を選択した場合"
+"は、指定したオフセットだけ移動します。"
+
+#. +> trunk5 stable5
+#: controllers/view/info/infotool.cpp:34
+#: controllers/view/info/infotoolviewfactory.cpp:22
+#, kde-format
+msgctxt "@title:window"
+msgid "Statistics"
+msgstr "統計"
+
+#. +> trunk5 stable5
+#: controllers/view/info/infoview.cpp:45
+#, kde-format
+msgctxt "@label size of selected bytes"
+msgid "Size:"
+msgstr "サイズ:"
+
+#. +> trunk5 stable5
+#: controllers/view/info/infoview.cpp:50
+#, fuzzy, kde-format
+#| msgctxt "@info:tooltip for column Value"
+#| msgid "The value of the bytes for the datatype"
+msgctxt "@info:tooltip"
+msgid "The number of the bytes the statistic was built for."
+msgstr "それぞれのデータタイプでのバイトの値"
+
+#. +> trunk5 stable5
+#: controllers/view/info/infoview.cpp:65
+#, kde-format
+msgctxt "@action:button build the statistic of the byte frequency"
+msgid "&Build"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/info/infoview.cpp:68
+#, fuzzy, kde-format
+#| msgctxt "@info:tooltip"
+#| msgid "Update the list of strings contained in the selected range."
+msgctxt "@info:tooltip"
+msgid ""
+"Builds the byte frequency statistic for the bytes in the selected range."
+msgstr "選択範囲に含まれる文字列のリストを更新します"
+
+#. +> trunk5 stable5
+#: controllers/view/info/infoview.cpp:70
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info:whatsthis"
+#| msgid ""
+#| "If you press the <interface>Update</interface> button, the byte frequency "
+#| "statistics are updated."
+msgctxt "@info:whatsthis"
+msgid ""
+"If you press the <interface>Build</interface> button, the byte frequency "
+"statistic is built for the bytes in the selected range."
+msgstr ""
+"<interface>更新</interface>ボタンを押すと、バイトの出現頻度の情報が更新されま"
+"す。"
+
+# ACCELERATOR added by translator
+#. +> trunk5
+#: controllers/view/info/infoview.cpp:120
+#: controllers/view/stringsextract/stringsextractview.cpp:163
+#, fuzzy, kde-format
+#| msgctxt "@title:menu"
+#| msgid "Copy As"
+msgctxt "@action:button"
+msgid "Copy"
+msgstr "形式を選択してコピー(&Y)"
+
+#. +> trunk5
+#: controllers/view/info/infoview.cpp:122
+#, fuzzy, kde-format
+#| msgctxt "@info:tooltip"
+#| msgid "Copies the selected strings to the clipboard."
+msgctxt "@info:tooltip"
+msgid "Copies the selected statistic lines to the clipboard."
+msgstr "選択した文字列をクリップボードにコピーします"
+
+#. +> trunk5
+#: controllers/view/info/infoview.cpp:124
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info:whatsthis"
+#| msgid ""
+#| "If you press the <interface>Copy</interface> button, all strings you "
+#| "selected in the list are copied to the clipboard."
+msgctxt "@info:whatsthis"
+msgid ""
+"If you press the <interface>Copy</interface> button, all statistic lines you "
+"selected in the list are copied to the clipboard."
+msgstr ""
+"<interface>コピー</interface>ボタンを押すと、リストで選択したすべての文字列が"
+"クリップボードにコピーされます。"
+
+#. +> trunk5 stable5
+#: controllers/view/info/infoview.cpp:192
+#: controllers/view/structures/datatypes/datainformation.cpp:58
+#: controllers/view/structures/datatypes/datainformation.cpp:61
+#: controllers/view/viewstatus/viewstatuscontroller.cpp:241
+#, kde-format
+msgid "1 byte"
+msgid_plural "%1 bytes"
+msgstr[0] ""
+
+#. +> trunk5 stable5
+#: controllers/view/info/statistictablemodel.cpp:211
+#, kde-format
+msgctxt "@title:column count of characters"
+msgid "Count"
+msgstr "文字数"
+
+#. +> trunk5 stable5
+#: controllers/view/info/statistictablemodel.cpp:212
+#, kde-format
+msgctxt "@title:column Percent of byte in total"
+msgid "Percent"
+msgstr "パーセント"
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearraychecksum/algorithm/adler32bytearraychecksumalgorithm.cpp:18
+#, kde-format
+msgctxt "name of the checksum algorithm"
+msgid "Adler-32"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearraychecksum/algorithm/crc32bytearraychecksumalgorithm.cpp:67
+#, kde-format
+msgctxt "name of the checksum algorithm, Cyclic Redundancy Check 32"
+msgid "CRC-32"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearraychecksum/algorithm/crc64bytearraychecksumalgorithm.cpp:73
+#, kde-format
+msgctxt "name of the checksum algorithm, Cyclic Redundancy Check 64"
+msgid "CRC-64"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearraychecksum/algorithm/crc64bytearraychecksumparametersetedit.cpp:24
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "ECMA-182"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearraychecksum/algorithm/crc64bytearraychecksumparametersetedit.cpp:25
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "ISO 3309"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearraychecksum/algorithm/crc64bytearraychecksumparametersetedit.cpp:31
+#, kde-format
+msgctxt "@label:listbox variant used to select the CRC-64 variant"
+msgid "CRC-64 variant:"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearraychecksum/algorithm/crc64bytearraychecksumparametersetedit.cpp:34
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "CRC-64 variant used by calculation."
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearraychecksum/algorithm/modsum16bytearraychecksumalgorithm.cpp:21
+#, kde-format
+msgctxt "name of the checksum algorithm"
+msgid "Modular sum 16-bit"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearraychecksum/algorithm/modsum32bytearraychecksumalgorithm.cpp:21
+#, kde-format
+msgctxt "name of the checksum algorithm"
+msgid "Modular sum 32-bit"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearraychecksum/algorithm/modsum64bytearraychecksumalgorithm.cpp:21
+#, kde-format
+msgctxt "name of the checksum algorithm"
+msgid "Modular sum 64-bit"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearraychecksum/algorithm/modsum8bytearraychecksumalgorithm.cpp:18
+#, kde-format
+msgctxt "name of the checksum algorithm"
+msgid "Modular sum 8-bit"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearraychecksum/algorithm/modsumbytearraychecksumparametersetedit.cpp:24
+#: controllers/view/poddecoder/podtableview.cpp:87
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Big-endian"
+msgstr "ビッグエンディアン"
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearraychecksum/algorithm/modsumbytearraychecksumparametersetedit.cpp:25
+#: controllers/view/poddecoder/podtableview.cpp:88
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Little-endian"
+msgstr "リトルエンディアン"
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearraychecksum/algorithm/modsumbytearraychecksumparametersetedit.cpp:31
+#, kde-format
+msgctxt ""
+"@label:listbox byte order to use for decoding the bytes into integer values"
+msgid "Byte Order:"
+msgstr "バイトオーダー:"
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearraychecksum/algorithm/modsumbytearraychecksumparametersetedit.cpp:34
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "The byte order to use for decoding the bytes into integer values."
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/libbytearraychecksum/algorithm/nobytearraychecksumparametersetedit.cpp:21
+#: controllers/view/libbytearrayfilter/filter/nobytearrayfilterparametersetedit.cpp:21
+#, fuzzy, kde-format
+#| msgctxt "@title:group"
+#| msgid "Parameters"
+msgctxt "@info"
+msgid "No parameters"
+msgstr "パラメータ"
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearraychecksum/bytearraychecksumalgorithmfactory.cpp:46
+#, kde-format
+msgctxt "name of the hash algorithm"
+msgid "MD4"
+msgstr "MD4"
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearraychecksum/bytearraychecksumalgorithmfactory.cpp:48
+#, kde-format
+msgctxt "name of the hash algorithm"
+msgid "MD5"
+msgstr "MD5"
+
+#. +> stable5
+#: controllers/view/libbytearraychecksum/bytearraychecksumalgorithmfactory.cpp:74
+#, kde-format
+msgctxt "name of the hash algorithm"
+msgid "MD2"
+msgstr "MD2"
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearraychecksum/bytearraychecksumalgorithmfactory.cpp:51
+#, kde-format
+msgctxt "name of the hash algorithm"
+msgid "SHA-1"
+msgstr "SHA-1"
+
+#. +> stable5
+#: controllers/view/libbytearraychecksum/bytearraychecksumalgorithmfactory.cpp:70
+#, kde-format
+msgctxt "name of the hash algorithm"
+msgid "SHA-0"
+msgstr "SHA-0"
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearraychecksum/bytearraychecksumalgorithmfactory.cpp:54
+#, kde-format
+msgctxt "name of the hash algorithm"
+msgid "SHA-224"
+msgstr "SHA-224"
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearraychecksum/bytearraychecksumalgorithmfactory.cpp:56
+#, kde-format
+msgctxt "name of the hash algorithm"
+msgid "SHA-256"
+msgstr "SHA-256"
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearraychecksum/bytearraychecksumalgorithmfactory.cpp:58
+#, kde-format
+msgctxt "name of the hash algorithm"
+msgid "SHA-384"
+msgstr "SHA-384"
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearraychecksum/bytearraychecksumalgorithmfactory.cpp:60
+#, kde-format
+msgctxt "name of the hash algorithm"
+msgid "SHA-512"
+msgstr "SHA-512"
+
+#. +> trunk5
+#: controllers/view/libbytearraychecksum/bytearraychecksumalgorithmfactory.cpp:62
+#, fuzzy, kde-format
+#| msgctxt "name of the hash algorithm"
+#| msgid "SHA-224"
+msgctxt "name of the hash algorithm"
+msgid "SHA3-224"
+msgstr "SHA-224"
+
+#. +> trunk5
+#: controllers/view/libbytearraychecksum/bytearraychecksumalgorithmfactory.cpp:64
+#, fuzzy, kde-format
+#| msgctxt "name of the hash algorithm"
+#| msgid "SHA-256"
+msgctxt "name of the hash algorithm"
+msgid "SHA3-256"
+msgstr "SHA-256"
+
+#. +> trunk5
+#: controllers/view/libbytearraychecksum/bytearraychecksumalgorithmfactory.cpp:66
+#, fuzzy, kde-format
+#| msgctxt "name of the hash algorithm"
+#| msgid "SHA-384"
+msgctxt "name of the hash algorithm"
+msgid "SHA3-384"
+msgstr "SHA-384"
+
+#. +> trunk5
+#: controllers/view/libbytearraychecksum/bytearraychecksumalgorithmfactory.cpp:68
+#, fuzzy, kde-format
+#| msgctxt "name of the hash algorithm"
+#| msgid "SHA-512"
+msgctxt "name of the hash algorithm"
+msgid "SHA3-512"
+msgstr "SHA-512"
+
+#. +> trunk5
+#: controllers/view/libbytearraychecksum/bytearraychecksumalgorithmfactory.cpp:70
+#, kde-format
+msgctxt "name of the hash algorithm"
+msgid "Keccak-224"
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/libbytearraychecksum/bytearraychecksumalgorithmfactory.cpp:72
+#, kde-format
+msgctxt "name of the hash algorithm"
+msgid "Keccak-256"
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/libbytearraychecksum/bytearraychecksumalgorithmfactory.cpp:74
+#, kde-format
+msgctxt "name of the hash algorithm"
+msgid "Keccak-384"
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/libbytearraychecksum/bytearraychecksumalgorithmfactory.cpp:76
+#, kde-format
+msgctxt "name of the hash algorithm"
+msgid "Keccak-512"
+msgstr ""
+
+#. +> stable5
+#: controllers/view/libbytearraychecksum/bytearraychecksumalgorithmfactory.cpp:80
+#, kde-format
+msgctxt "name of the hash algorithm"
+msgid "RIPEMD160"
+msgstr "RIPEMD160"
+
+#. +> stable5
+#: controllers/view/libbytearraychecksum/bytearraychecksumalgorithmfactory.cpp:90
+#, kde-format
+msgctxt "name of the hash algorithm"
+msgid "Whirlpool"
+msgstr "Whirlpool"
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearrayfilter/filter/andbytearrayfilter.cpp:20
+#, kde-format
+msgctxt "name of the filter; it does a logic AND operation"
+msgid "operand AND data"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearrayfilter/filter/invertbytearrayfilter.cpp:17
+#, kde-format
+msgctxt ""
+"name of the filter; it switches all bits from 0 to 1 and 1 to 0 "
+"respectively, so 01111110 becomes 10000001"
+msgid "INVERT data"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearrayfilter/filter/operandbytearrayfilterparametersetedit.cpp:27
+#, kde-format
+msgctxt "@label:textbox operand to the arithmetic filter function"
+msgid "Operand:"
+msgstr "オペランド:"
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearrayfilter/filter/operandbytearrayfilterparametersetedit.cpp:37
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "The operand to do the operation with."
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearrayfilter/filter/operandbytearrayfilterparametersetedit.cpp:40
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Enter an operand, or select a previous operand from the list."
+msgstr "オペランドを入力するか、以前に使ったものをリストから選択します。"
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearrayfilter/filter/operandbytearrayfilterparametersetedit.cpp:48
+#, kde-format
+msgctxt "@option:check"
+msgid "Align at end:"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearrayfilter/filter/operandbytearrayfilterparametersetedit.cpp:55
+#, kde-format
+msgctxt "@info:tooltip"
+msgid ""
+"Sets if the operation will be aligned to the end of the data instead of to "
+"the begin."
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearrayfilter/filter/operandbytearrayfilterparametersetedit.cpp:58
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "If set, the operation will be aligned to the end of the data."
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearrayfilter/filter/orbytearrayfilter.cpp:20
+#, kde-format
+msgctxt "name of the filter; it does a logic OR operation"
+msgid "operand OR data"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearrayfilter/filter/reversebytearrayfilter.cpp:20
+#, kde-format
+msgctxt ""
+"name of the filter; it changes the order of the bytes/bits to backwards, so "
+"ABCD becomes DCBA"
+msgid "REVERSE data"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearrayfilter/filter/reversebytearrayfilterparametersetedit.cpp:25
+#, kde-format
+msgctxt "@option:check"
+msgid "Reverse also bits:"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearrayfilter/filter/reversebytearrayfilterparametersetedit.cpp:32
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "If set, the bits are arranged in reverse order as well."
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearrayfilter/filter/rotatebytearrayfilter.cpp:24
+#, kde-format
+msgctxt ""
+"name of the filter; it moves the bits and pushes the ones over the end to "
+"the begin again"
+msgid "ROTATE data"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearrayfilter/filter/rotatebytearrayfilterparametersetedit.cpp:32
+#, fuzzy, kde-format
+#| msgctxt "@label:spinbox number of bytes the movement is done within"
+#| msgid "&Group size:"
+msgctxt "@label:spinbox number of bytes the movement is done within"
+msgid "&Group size (bytes):"
+msgstr "グループサイズ(&G):"
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearrayfilter/filter/rotatebytearrayfilterparametersetedit.cpp:35
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "The number of bytes within which each movement is made."
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearrayfilter/filter/rotatebytearrayfilterparametersetedit.cpp:39
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Control the number of bytes within which each movement is made."
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearrayfilter/filter/rotatebytearrayfilterparametersetedit.cpp:53
+#, fuzzy, kde-format
+#| msgctxt "@label:spinbox width (in number of bits) the bits are moved"
+#| msgid "S&hift width:"
+msgctxt "@label:spinbox width (in number of bits) the bits are moved"
+msgid "S&hift width (bits):"
+msgstr "シフト幅(&H):"
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearrayfilter/filter/rotatebytearrayfilterparametersetedit.cpp:56
+#, fuzzy, kde-format
+#| msgctxt "@info:whatsthis"
+#| msgid ""
+#| "Control the width of the shift. Positive numbers move the bits to the "
+#| "right, negative to the left."
+msgctxt "@info:tooltip"
+msgid ""
+"The width of the shift. Positive numbers move the bits to the right, "
+"negative to the left."
+msgstr "シフト幅を指定します。正の値はビットを右へ、負の値は左へシフトします。"
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearrayfilter/filter/rotatebytearrayfilterparametersetedit.cpp:60
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Control the width of the shift. Positive numbers move the bits to the right, "
+"negative to the left."
+msgstr "シフト幅を指定します。正の値はビットを右へ、負の値は左へシフトします。"
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearrayfilter/filter/shiftbytearrayfilter.cpp:25
+#, kde-format
+msgctxt "name of the filter; it moves the bits, setting freed ones to zero"
+msgid "SHIFT data"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/libbytearrayfilter/filter/xorbytearrayfilter.cpp:20
+#, kde-format
+msgctxt "name of the filter; it does a logic XOR operation"
+msgid "operand XOR data"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/libdatatypecodecs/binary8codec.cpp:19
+#, kde-format
+msgctxt "@label:textbox encoding of one byte as value in the binary format"
+msgid "Binary 8-bit"
+msgstr "8 ビットの二進数"
+
+#. +> trunk5 stable5
+#: controllers/view/libdatatypecodecs/char8codec.cpp:22
+#, kde-format
+msgctxt "@label:textbox encoding of one byte as character"
+msgid "Character 8-bit"
+msgstr "8 ビットの文字"
+
+#. +> trunk5 stable5
+#: controllers/view/libdatatypecodecs/float32codec.cpp:19
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Float 32-bit"
+msgstr "32 ビットの浮動小数点数"
+
+#. +> trunk5 stable5
+#: controllers/view/libdatatypecodecs/float64codec.cpp:19
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Float 64-bit"
+msgstr "64 ビットの浮動小数点数"
+
+#. +> trunk5 stable5
+#: controllers/view/libdatatypecodecs/hexadecimal8codec.cpp:19
+#, kde-format
+msgctxt ""
+"@label:textbox encoding of one byte as value in the hexadecimal format"
+msgid "Hexadecimal 8-bit"
+msgstr "8 ビットの十六進数"
+
+#. +> trunk5 stable5
+#: controllers/view/libdatatypecodecs/octal8codec.cpp:19
+#, kde-format
+msgctxt "@label:textbox encoding of one byte as value in the octal format"
+msgid "Octal 8-bit"
+msgstr "8 ビットの八進数"
+
+#. +> trunk5 stable5
+#: controllers/view/libdatatypecodecs/sint16codec.cpp:19
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Signed 16-bit"
+msgstr "符号付き 16 ビット値"
+
+#. +> trunk5 stable5
+#: controllers/view/libdatatypecodecs/sint32codec.cpp:19
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Signed 32-bit"
+msgstr "符号付き 32 ビット値"
+
+#. +> trunk5 stable5
+#: controllers/view/libdatatypecodecs/sint64codec.cpp:19
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Signed 64-bit"
+msgstr "符号付き 64 ビット値"
+
+#. +> trunk5 stable5
+#: controllers/view/libdatatypecodecs/sint8codec.cpp:19
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Signed 8-bit"
+msgstr "符号付き 8 ビット値"
+
+#. +> trunk5 stable5
+#: controllers/view/libdatatypecodecs/uint16codec.cpp:19
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Unsigned 16-bit"
+msgstr "符号なし 16 ビット値"
+
+#. +> trunk5 stable5
+#: controllers/view/libdatatypecodecs/uint32codec.cpp:19
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Unsigned 32-bit"
+msgstr "符号なし 32 ビット値"
+
+#. +> trunk5 stable5
+#: controllers/view/libdatatypecodecs/uint64codec.cpp:19
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Unsigned 64-bit"
+msgstr "符号なし 64 ビット値"
+
+#. +> trunk5 stable5
+#: controllers/view/libdatatypecodecs/uint8codec.cpp:19
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Unsigned 8-bit"
+msgstr "符号なし 8 ビット値"
+
+#. +> trunk5
+#: controllers/view/libdatatypecodecs/utf16codec.cpp:23
+#, fuzzy, kde-format
+#| msgctxt "@label:textbox"
+#| msgid "UTF-16:"
+msgctxt "@label:textbox"
+msgid "UTF-16"
+msgstr "UTF-16:"
+
+#. +> trunk5 stable5
+#: controllers/view/libdatatypecodecs/utf8codec.cpp:21
+#, kde-format
+msgctxt "@label:textbox"
+msgid "UTF-8"
+msgstr "UTF-8"
+
+#. +> trunk5 stable5
+#: controllers/view/libfinddialog/abstractfinddialog.cpp:69
+#: controllers/view/search/searchcontroller.cpp:114
+#: controllers/view/search/searchcontroller.cpp:122
+#, kde-format
+msgctxt "@title:window"
+msgid "Find"
+msgstr "検索"
+
+#. +> trunk5 stable5
+#: controllers/view/libfinddialog/abstractfinddialog.cpp:81
+#, kde-format
+msgctxt "@info:tooltip"
+msgid ""
+"Enter the bytes to search for, or select bytes previously searched for from "
+"the list."
+msgstr ""
+"検索するバイトパターンを入力するか、以前に使ったものをリストから選択します。"
+
+#. +> trunk5 stable5
+#: controllers/view/libfinddialog/abstractfinddialog.cpp:99
+#, kde-format
+msgctxt "@title:group"
+msgid "Options"
+msgstr "オプション"
+
+#. +> trunk5 stable5
+#: controllers/view/libfinddialog/abstractfinddialog.cpp:104
+#, kde-format
+msgctxt "@option:check"
+msgid "C&ase sensitive"
+msgstr "大文字と小文字を区別する(&A)"
+
+#. +> trunk5 stable5
+#: controllers/view/libfinddialog/abstractfinddialog.cpp:105
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Perform a case sensitive search: entering the pattern 'Joe' will not match "
+"'joe' or 'JOE', only 'Joe'."
+msgstr ""
+"大文字と小文字を区別して検索します。これを有効にすると、“Joe” は “joe” や "
+"“JOE” にはマッチしません。"
+
+#. +> trunk5 stable5
+#: controllers/view/libfinddialog/abstractfinddialog.cpp:107
+#, kde-format
+msgctxt "@option:check"
+msgid "&Whole words only"
+msgstr "単語単位(&W)"
+
+#. +> trunk5 stable5
+#: controllers/view/libfinddialog/abstractfinddialog.cpp:108
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Require word boundaries in both ends of a match to succeed."
+msgstr "文字列の両端に単語境界がある場合にのみマッチします。"
+
+#. +> trunk5 stable5
+#: controllers/view/libfinddialog/abstractfinddialog.cpp:110
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Start searching at the current cursor location rather than at the top."
+msgstr "先頭からではなく現在のカーソル位置から検索を開始します。"
+
+#. +> trunk5 stable5
+#: controllers/view/libfinddialog/abstractfinddialog.cpp:113
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Replace backwards."
+msgstr "後ろ向きに置換します。"
+
+#. +> trunk5 stable5
+#: controllers/view/libfinddialog/abstractfinddialog.cpp:114
+#, kde-format
+msgctxt "@option:check"
+msgid "&Selected bytes"
+msgstr "選択したバイトのみ(&S)"
+
+#. +> trunk5 stable5
+#: controllers/view/libfinddialog/abstractfinddialog.cpp:115
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Only search within the current selection."
+msgstr "現在の選択範囲のみを検索します。"
+
+# ACCELERATOR added by translator
+#. +> trunk5 stable5
+#: controllers/view/overwritemode/overwritemodecontroller.cpp:24
+#, fuzzy, kde-format
+#| msgctxt "@option:check"
+#| msgid "Overwrite Mode"
+msgctxt "@option:check set the view into overwrite mode"
+msgid "Overwr&ite Mode"
+msgstr "上書きモード(&M)"
+
+#. +> trunk5 stable5
+#: controllers/view/overwritemode/overwritemodecontroller.cpp:27
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Choose whether you want the input to be inserted or to overwrite existing "
+"data."
+msgstr "入力を挿入するか、既存のデータを上書きするかを選択します。"
+
+#. +> trunk5 stable5
+#: controllers/view/poddecoder/poddecodertool.cpp:93
+#: controllers/view/poddecoder/poddecodertoolviewfactory.cpp:25
+#, kde-format
+msgctxt "@title:window"
+msgid "Decoding Table"
+msgstr "デコードテーブル"
+
+#. +> stable5
+#: controllers/view/poddecoder/poddecodertool.cpp:171
+#, kde-format
+msgctxt "@label:textbox"
+msgid "UTF-16:"
+msgstr "UTF-16:"
+
+#. +> trunk5
+#: controllers/view/poddecoder/poddecodertool.cpp:308
+#, kde-format
+msgctxt "@item Edited as datatype"
+msgid "Edited as %1"
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/poddecoder/poddecodertool.cpp:317
+#, kde-format
+msgctxt "@info Edited as datatype"
+msgid "Edited as %1"
+msgstr ""
+
+#. +> stable5
+#: controllers/view/poddecoder/poddecodertool.cpp:316
+#, kde-format
+msgctxt "Edited as %datatype"
+msgid "Edited as %1"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/poddecoder/podtablemodel.cpp:148
+#, kde-format
+msgctxt "@title:column name of the datatype"
+msgid "Type"
+msgstr "タイプ"
+
+#. +> trunk5 stable5
+#: controllers/view/poddecoder/podtablemodel.cpp:149
+#, kde-format
+msgctxt "@title:column value of the bytes for the datatype"
+msgid "Value"
+msgstr "値"
+
+#. +> trunk5 stable5
+#: controllers/view/poddecoder/podtablemodel.cpp:155
+#, kde-format
+msgctxt "@info:tooltip for column Type"
+msgid "The type of data"
+msgstr "データのタイプ"
+
+#. +> trunk5 stable5
+#: controllers/view/poddecoder/podtablemodel.cpp:157
+#, kde-format
+msgctxt "@info:tooltip for column Value"
+msgid "The value of the bytes for the datatype"
+msgstr "それぞれのデータタイプでのバイトの値"
+
+#. +> trunk5 stable5
+#: controllers/view/poddecoder/podtableview.cpp:94
+#, fuzzy, kde-format
+#| msgctxt "@info:whatsthis"
+#| msgid "Select the operation to use for the filter."
+msgctxt "@info:tooltip"
+msgid "The byte order to use for decoding the bytes."
+msgstr "フィルタに使用する演算を選択します。"
+
+#. +> trunk5 stable5
+#: controllers/view/poddecoder/podtableview.cpp:98
+#, kde-format
+msgctxt "@option:check"
+msgid "Unsigned as hexadecimal:"
+msgstr "符号なしの値は十六進で表す:"
+
+#. +> trunk5 stable5
+#: controllers/view/poddecoder/podtableview.cpp:107
+#, kde-format
+msgctxt "@info:tooltip"
+msgid ""
+"Sets whether the values of the unsigned integer types are shown as "
+"hexadecimal instead of as decimal."
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/poddecoder/podtableview.cpp:137
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"The new value needs <emphasis>fewer</emphasis> bytes (%1 instead of %2).<nl/"
+">Keep the unused bytes or remove them?"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/poddecoder/podtableview.cpp:142
+#, kde-format
+msgctxt "@action:button keep the unused bytes"
+msgid "&Keep"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/poddecoder/podtableview.cpp:145
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Keep the unused bytes with their old values."
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/poddecoder/podtableview.cpp:162
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"The new value needs <emphasis>more</emphasis> bytes (%1 instead of %2).<nl/"
+">Overwrite the following bytes or insert new ones as needed?"
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/poddecoder/podtableview.cpp:257
+#: controllers/view/structures/structureview.cpp:367
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Edit"
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/poddecoder/podtableview.cpp:270
+#: controllers/view/structures/structureview.cpp:390
+#, fuzzy, kde-format
+#| msgctxt "@title:window of the tool to select a range"
+#| msgid "Select"
+msgctxt "@action:inmenu"
+msgid "Select"
+msgstr "選択"
+
+#. +> trunk5 stable5
+#: controllers/view/print/printtool.cpp:282
+#: controllers/view/print/printtool.cpp:312
+#, kde-format
+msgctxt "@title:window"
+msgid "Print Byte Array %1"
+msgstr "バイト配列 %1 を印刷"
+
+#. +> trunk5 stable5
+#: controllers/view/print/printtool.cpp:307
+#, kde-format
+msgctxt "@info"
+msgid "Could not print."
+msgstr "印刷できませんでした。"
+
+#. +> trunk5 stable5
+#: controllers/view/print/printtool.cpp:343
+#, kde-format
+msgctxt "in the header of the printed page, e.g. Page 2 of 20"
+msgid "Page %p of %P"
+msgstr "ページ %p / %P"
+
+#. +> trunk5 stable5
+#: controllers/view/print/printtool.cpp:349
+#, kde-format
+msgctxt "in the footer of the printed page, e.g. Printed by: Joe User"
+msgid "Printed by: %U"
+msgstr "印刷者: %U"
+
+#. +> trunk5 stable5
+#: controllers/view/replace/replacecontroller.cpp:74
+#: controllers/view/replace/replacecontroller.cpp:90
+#, kde-format
+msgctxt "@title:window"
+msgid "Replace"
+msgstr "置換"
+
+#. +> trunk5 stable5
+#: controllers/view/replace/replacecontroller.cpp:78
+#, kde-format
+msgctxt "@info"
+msgid "Replace pattern not found in byte array."
+msgstr "置換パターンがバイト配列に見つかりませんでした。"
+
+#. +> trunk5 stable5
+#: controllers/view/replace/replacecontroller.cpp:81
+#: controllers/view/replace/replacecontroller.cpp:92
+#, kde-format
+msgctxt "@info"
+msgid "No replacements made."
+msgstr "置換したバイトはありません。"
+
+#. +> trunk5 stable5
+#: controllers/view/replace/replacecontroller.cpp:82
+#: controllers/view/replace/replacecontroller.cpp:93
+#, kde-format
+msgctxt "@info"
+msgid "1 replacement made."
+msgid_plural "%1 replacements made."
+msgstr[0] "%1 件置換しました。"
+
+#. +> trunk5 stable5
+#: controllers/view/replace/replacecontroller.cpp:95
+#: controllers/view/search/searchcontroller.cpp:124
+#, kde-kuit-format
+msgctxt "@info"
+msgid "End of byte array reached.<nl/>Continue from the beginning?"
+msgstr "バイト配列の末尾です。<nl/>先頭から続けますか？"
+
+#. +> trunk5 stable5
+#: controllers/view/replace/replacecontroller.cpp:96
+#: controllers/view/search/searchcontroller.cpp:125
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Beginning of byte array reached.<nl/>Continue from the end?"
+msgstr "バイト配列の先頭です。<nl/>末尾から続けますか？"
+
+#. +> trunk5 stable5
+#: controllers/view/replace/replacedialog.cpp:30
+#, kde-format
+msgctxt "@title:window"
+msgid "Replace Bytes"
+msgstr "バイトを置換"
+
+#. +> trunk5 stable5
+#: controllers/view/replace/replacedialog.cpp:32
+#, kde-format
+msgctxt "@action;button"
+msgid "&Replace"
+msgstr "置換(&R)"
+
+#. +> trunk5 stable5
+#: controllers/view/replace/replacedialog.cpp:34
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Start replace"
+msgstr "置換を開始します"
+
+#. +> trunk5 stable5
+#: controllers/view/replace/replacedialog.cpp:36
+#, kde-kuit-format
+msgctxt "@info:whatsthis"
+msgid ""
+"If you press the <interface>Replace</interface> button, the bytes you "
+"entered above are searched for within the byte array and any occurrence is "
+"replaced with the replacement bytes."
+msgstr ""
+"<interface>置換</interface>ボタンを押すと、上で入力したバイトをバイト配列の中"
+"で検索し、マッチしたバイトを置換バイトで置き換えます。"
+
+#. +> trunk5 stable5
+#: controllers/view/replace/replacedialog.cpp:44
+#, kde-format
+msgctxt "@title:group"
+msgid "Replace With"
+msgstr "置換語"
+
+#. +> trunk5 stable5
+#: controllers/view/replace/replacedialog.cpp:51
+#, fuzzy, kde-format
+#| msgctxt "@info:whatsthis"
+#| msgid ""
+#| "Enter a pattern to replace with, or select a previous pattern from the "
+#| "list."
+msgctxt "@info:tooltip"
+msgid ""
+"Enter the bytes to replace with, or select bytes previously replaced with "
+"from the list."
+msgstr "置換するパターンを入力するか、以前に使ったものをリストから選択します。"
+
+#. +> trunk5 stable5
+#: controllers/view/replace/replacedialog.cpp:60
+#, kde-format
+msgctxt "@option:check"
+msgid "&Prompt on replace"
+msgstr "置換時に確認する(&P)"
+
+#. +> trunk5 stable5
+#: controllers/view/replace/replacedialog.cpp:61
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Ask before replacing each match found."
+msgstr "置換する前に毎回確認を求めます。"
+
+#. +> trunk5 stable5
+#: controllers/view/replace/replaceprompt.cpp:22
+#, kde-format
+msgctxt "@title:window prompt for iterative replacement"
+msgid "Replace"
+msgstr "置換"
+
+#. +> trunk5 stable5
+#: controllers/view/replace/replaceprompt.cpp:26
+#, kde-format
+msgctxt "@action:button"
+msgid "Replace &All"
+msgstr "すべて置換(&A)"
+
+#. +> trunk5 stable5
+#: controllers/view/replace/replaceprompt.cpp:30
+#, kde-format
+msgctxt "@action:button"
+msgid "&Skip"
+msgstr "スキップ(&S)"
+
+#. +> trunk5 stable5
+#: controllers/view/replace/replaceprompt.cpp:34
+#, kde-format
+msgctxt "@action:button"
+msgid "Replace"
+msgstr "置換"
+
+#. +> trunk5 stable5
+#: controllers/view/replace/replacetool.cpp:49
+#, kde-format
+msgctxt "@title"
+msgid "Replace"
+msgstr "置換"
+
+#. +> trunk5 stable5
+#: controllers/view/search/searchcontroller.cpp:115
+#, kde-format
+msgctxt "@info"
+msgid "Search key not found in byte array."
+msgstr "検索キーがバイト配列の中に見つかりませんでした。"
+
+#. +> trunk5 stable5
+#: controllers/view/search/searchdialog.cpp:26
+#, kde-format
+msgctxt "@title:window"
+msgid "Find Bytes"
+msgstr "バイトを検索"
+
+#. +> trunk5 stable5
+#: controllers/view/search/searchdialog.cpp:28
+#, kde-format
+msgctxt "@action:button"
+msgid "&Find"
+msgstr "検索(&F)"
+
+#. +> trunk5 stable5
+#: controllers/view/search/searchdialog.cpp:30
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Start searching"
+msgstr "検索を開始します"
+
+#. +> trunk5 stable5
+#: controllers/view/search/searchdialog.cpp:32
+#, kde-kuit-format
+msgctxt "@info:whatsthis"
+msgid ""
+"If you press the <interface>Find</interface> button, the bytes you entered "
+"above are searched for within the byte array."
+msgstr ""
+"<interface>検索</interface>ボタンを押すと、上で入力したバイトをバイト配列の中"
+"で検索します。"
+
+#. +> trunk5 stable5
+#: controllers/view/search/searchtool.cpp:51
+#, kde-format
+msgctxt "@title"
+msgid "Search"
+msgstr "検索"
+
+#. +> trunk5
+#: controllers/view/selectrange/selectrangecontroller.cpp:31
+#, fuzzy, kde-format
+#| msgctxt "@action:inmenu"
+#| msgid "&Select range..."
+msgctxt "@action:inmenu"
+msgid "&Select Range…"
+msgstr "検索範囲(&S)..."
+
+#. +> stable5
+#: controllers/view/selectrange/selectrangecontroller.cpp:33
+#, fuzzy, kde-format
+#| msgctxt "@action:inmenu"
+#| msgid "&Select range..."
+msgctxt "@action:inmenu"
+msgid "&Select Range..."
+msgstr "検索範囲(&S)..."
+
+#. +> trunk5 stable5
+#: controllers/view/selectrange/selectrangetool.cpp:59
+#, kde-format
+msgctxt "@title:window of the tool to select a range"
+msgid "Select"
+msgstr "選択"
+
+#. +> trunk5 stable5
+#: controllers/view/selectrange/selectrangeview.cpp:59
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Start offset:"
+msgstr "開始オフセット:"
+
+#. +> trunk5 stable5
+#: controllers/view/selectrange/selectrangeview.cpp:79
+#, kde-format
+msgctxt "@label:listbox"
+msgid "End offset:"
+msgstr "終了オフセット:"
+
+#. +> trunk5 stable5
+#: controllers/view/selectrange/selectrangeview.cpp:105
+#, kde-format
+msgctxt "@option:check"
+msgid "End relative"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/selectrange/selectrangeview.cpp:123
+#, kde-format
+msgctxt "@action:button"
+msgid "&Select"
+msgstr "選択(&S)"
+
+#. +> trunk5 stable5
+#: controllers/view/selectrange/selectrangeview.cpp:126
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Select the range."
+msgstr "範囲を選択。"
+
+#. +> trunk5 stable5
+#: controllers/view/selectrange/selectrangeview.cpp:128
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info:whatsthis"
+#| msgid ""
+#| "If you press the <interface>Go</interface> button, the cursor will be "
+#| "moved in the document to or, on your option, by the offset you entered "
+#| "above."
+msgctxt "@info:whatsthis"
+msgid ""
+"If you press the <interface>Select</interface> button, the cursor will be "
+"moved in the document to or, on your option, by the offset you entered above."
+msgstr ""
+"<interface>移動</interface>ボタンを押すと、上で入力したオフセットへカーソルが"
+"移動します。オプションの<interface>カーソル位置から</interface>を選択した場合"
+"は、指定したオフセットだけ移動します。"
+
+#. +> trunk5 stable5
+#: controllers/view/stringsextract/containedstringtablemodel.cpp:116
+#, kde-format
+msgctxt "@title:column offset of the extracted string"
+msgid "Offset"
+msgstr "オフセット"
+
+#. +> trunk5 stable5
+#: controllers/view/stringsextract/containedstringtablemodel.cpp:117
+#, kde-format
+msgctxt "@title:column string extracted from the byte array"
+msgid "String"
+msgstr "文字列"
+
+#. +> trunk5 stable5
+#: controllers/view/stringsextract/stringsextracttool.cpp:52
+#, kde-format
+msgctxt "@title:window of the tool to extract strings"
+msgid "Strings"
+msgstr "文字列"
+
+#. +> trunk5 stable5
+#: controllers/view/stringsextract/stringsextracttoolviewfactory.cpp:25
+#, kde-format
+msgctxt "@title:window"
+msgid "Strings"
+msgstr "文字列"
+
+#. +> trunk5 stable5
+#: controllers/view/stringsextract/stringsextractview.cpp:62
+#, kde-format
+msgctxt ""
+"@label:spinbox minimum length for consecutive chars to be seen as a string"
+msgid "Minimum length:"
+msgstr "最低文字数:"
+
+#. +> trunk5 stable5
+#: controllers/view/stringsextract/stringsextractview.cpp:74
+#, kde-format
+msgctxt "@action:button extract the strings from the byte array"
+msgid "&Extract"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/stringsextract/stringsextractview.cpp:77
+#, fuzzy, kde-format
+#| msgctxt "@info:tooltip"
+#| msgid "Update the list of strings contained in the selected range."
+msgctxt "@info:tooltip"
+msgid ""
+"Finds the strings contained in the selected range and lists them in the view "
+"below."
+msgstr "選択範囲に含まれる文字列のリストを更新します"
+
+#. +> trunk5 stable5
+#: controllers/view/stringsextract/stringsextractview.cpp:79
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info:whatsthis"
+#| msgid ""
+#| "If you press the <interface>Export to file</interface> button, the "
+#| "selected data will be copied to a file with the settings you entered "
+#| "above."
+msgctxt "@info:whatsthis"
+msgid ""
+"If you press the <interface>Extract</interface> button, the selected range "
+"is searched for all strings which have the set minimum length. This strings "
+"found will be listed in the view below."
+msgstr ""
+"<interface>ファイルにエクスポート</interface>ボタンを押すと、選択したデータが"
+"上の設定に従ってファイルにコピーされます。"
+
+#. +> trunk5 stable5
+#: controllers/view/stringsextract/stringsextractview.cpp:90
+#, kde-format
+msgctxt "@label:lineedit filter term for displayed strings"
+msgid "Filter:"
+msgstr "フィルタ:"
+
+#. +> trunk5
+#: controllers/view/stringsextract/stringsextractview.cpp:94
+#, fuzzy, kde-format
+#| msgid "Enter a filter term here."
+msgctxt "@info:placeholder"
+msgid "Enter a term to limit the list."
+msgstr "ここに検索語を入力します。"
+
+#. +> stable5
+#: controllers/view/stringsextract/stringsextractview.cpp:85
+#, fuzzy, kde-format
+#| msgid "Enter a filter term here."
+msgid "Enter a term to limit the list."
+msgstr "ここに検索語を入力します。"
+
+#. +> stable5
+#: controllers/view/stringsextract/stringsextractview.cpp:138
+#, kde-format
+msgid "C&opy"
+msgstr "コピー(&O)"
+
+#. +> trunk5
+#: controllers/view/stringsextract/stringsextractview.cpp:145
+#, fuzzy, kde-format
+#| msgctxt "@title:window of the tool to extract strings"
+#| msgid "Strings"
+msgctxt "@info"
+msgid "No strings"
+msgstr "文字列"
+
+#. +> stable5
+#: controllers/view/stringsextract/stringsextractview.cpp:152
+#, kde-format
+msgid "&Show"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/stringsextract/stringsextractview.cpp:165
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Copies the selected strings to the clipboard."
+msgstr "選択した文字列をクリップボードにコピーします"
+
+#. +> trunk5 stable5
+#: controllers/view/stringsextract/stringsextractview.cpp:167
+#, kde-kuit-format
+msgctxt "@info:whatsthis"
+msgid ""
+"If you press the <interface>Copy</interface> button, all strings you "
+"selected in the list are copied to the clipboard."
+msgstr ""
+"<interface>コピー</interface>ボタンを押すと、リストで選択したすべての文字列が"
+"クリップボードにコピーされます。"
+
+#. +> trunk5
+#: controllers/view/stringsextract/stringsextractview.cpp:178
+#, kde-format
+msgctxt "@action:button"
+msgid "Show"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/stringsextract/stringsextractview.cpp:180
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Shows the selected string in the view."
+msgstr "選択した文字列をビューに表示します"
+
+#. +> trunk5 stable5
+#: controllers/view/stringsextract/stringsextractview.cpp:182
+#, kde-kuit-format
+msgctxt "@info:whatsthis"
+msgid ""
+"If you press the <interface>Go to</interface> button, the string which was "
+"last selected is marked and shown in the view."
+msgstr ""
+"<interface>移動</interface>ボタンを押すと、最後に選択した文字列がビューに表示"
+"されます。"
+
+#. +> trunk5
+#: controllers/view/stringsextract/stringsextractview.cpp:198
+#, fuzzy, kde-format
+#| msgctxt "@title:window of the tool to select a range"
+#| msgid "Select"
+msgctxt "@action"
+msgid "Select"
+msgstr "選択"
+
+#. +> trunk5
+#: controllers/view/stringsextract/stringsextractview.cpp:200
+#, fuzzy, kde-format
+#| msgctxt "@info:tooltip"
+#| msgid "Shows the selected string in the view."
+msgctxt "@info:tooltip"
+msgid "Selects the selected string in the view."
+msgstr "選択した文字列をビューに表示します"
+
+#. +> trunk5
+#: controllers/view/stringsextract/stringsextractview.cpp:344
+#, kde-format
+msgctxt "@info"
+msgid "No strings extracted."
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/stringsextract/stringsextractview.cpp:345
+#, kde-format
+msgctxt "@info"
+msgid "1 string extracted."
+msgid_plural "%1 strings extracted."
+msgstr[0] ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/array/complexarraydata.cpp:104
+#, fuzzy, kde-format
+#| msgctxt "array type then length"
+#| msgid "%1[%2]"
+msgctxt "type name, then array length"
+msgid "%1[%2]"
+msgstr "%1[%2]"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/datainformation.cpp:62
+#, kde-format
+msgid "1 bit"
+msgid_plural "%1 bits"
+msgstr[0] "%1 ビット"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/datainformation.cpp:63
+#, kde-format
+msgctxt "number of bytes, then number of bits"
+msgid "%1 %2"
+msgstr "%1 %2"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/datainformation.cpp:201
+#, kde-format
+msgctxt "invalid value (End of file reached)"
+msgid "<EOF reached>"
+msgstr ""
+
+#. +> stable5
+#: controllers/view/structures/datatypes/datainformation.cpp:212
+#, kde-format
+msgid ""
+"Name: %1\n"
+"Value: %2\n"
+"\n"
+"Type: %3\n"
+"Size: %4"
+msgstr ""
+
+#. +> stable5
+#: controllers/view/structures/datatypes/datainformation.cpp:215
+#, kde-format
+msgid ""
+"Name: %1\n"
+"Value: %2\n"
+"\n"
+"Type: %3\n"
+"Size: %4\n"
+"\n"
+"%5"
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/structures/datatypes/datainformation.cpp:230
+#, fuzzy, kde-format
+#| msgctxt "name of a data structure"
+#| msgid "Name"
+msgid "Name:"
+msgstr "名前"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/datainformation.cpp:231
+#, kde-format
+msgid "Type:"
+msgstr "タイプ:"
+
+#. +> trunk5
+#: controllers/view/structures/datatypes/datainformation.cpp:232
+#, fuzzy, kde-format
+#| msgctxt "@title:column value of the bytes for the datatype"
+#| msgid "Value"
+msgid "Value:"
+msgstr "値"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/datainformation.cpp:233
+#, kde-format
+msgid "Size:"
+msgstr "サイズ:"
+
+#. +> trunk5
+#: controllers/view/structures/datatypes/datainformation.cpp:239
+#, kde-format
+msgctxt "size (elements)"
+msgid "%2 (%1 child)"
+msgid_plural "%2 (%1 children)"
+msgstr[0] ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/datainformation.cpp:264
+#: controllers/view/structures/datatypes/datainformationwithchildren.cpp:207
+#, kde-format
+msgctxt "not all values in this structure are as they should be"
+msgid "Validation failed."
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/datainformation.cpp:267
+#: controllers/view/structures/datatypes/datainformationwithchildren.cpp:210
+#, kde-format
+msgctxt "not all values in this structure are as they should be"
+msgid "Validation failed: \"%1\""
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/primitive/bitfield/abstractbitfielddatainformation.cpp:32
+#, kde-format
+msgid "%1 bit"
+msgid_plural "%1 bits"
+msgstr[0] "%1 ビット"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/primitive/bitfield/boolbitfielddatainformation.cpp:47
+#: controllers/view/structures/datatypes/primitive/booldatainformation.cpp:16
+#, kde-format
+msgctxt "boolean value"
+msgid "false"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/primitive/bitfield/boolbitfielddatainformation.cpp:48
+#: controllers/view/structures/datatypes/primitive/booldatainformation.cpp:19
+#, kde-format
+msgctxt "boolean value"
+msgid "true"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/primitive/bitfield/boolbitfielddatainformation.cpp:91
+#, kde-format
+msgctxt "Data type"
+msgid "boolean bitfield (%1 bit wide)"
+msgid_plural "boolean bitfield (%1 bits wide)"
+msgstr[0] ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/primitive/bitfield/signedbitfielddatainformation.cpp:95
+#, fuzzy, kde-format
+#| msgctxt "@label:textbox"
+#| msgid "Unsigned 8-bit:"
+msgctxt "Data type"
+msgid "signed bitfield (%1 bit wide)"
+msgid_plural "signed bitfield (%1 bits wide)"
+msgstr[0] "符号なし 8 ビット値:"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/primitive/bitfield/unsignedbitfielddatainformation.cpp:76
+#, fuzzy, kde-format
+#| msgctxt "@label:textbox"
+#| msgid "Unsigned 8-bit:"
+msgctxt "Data type"
+msgid "unsigned bitfield (%1 bit wide)"
+msgid_plural "unsigned bitfield (%1 bits wide)"
+msgstr[0] "符号なし 8 ビット値:"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/primitive/booldatainformation.cpp:23
+#, kde-format
+msgctxt "boolean value with actual value"
+msgid "true (%1)"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/primitive/enumdatainformation.cpp:42
+#: controllers/view/structures/datatypes/primitive/enumdatainformation.cpp:77
+#, kde-format
+msgid "%1 (value not in enum)"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/primitive/enumdatainformation.cpp:48
+#: controllers/view/structures/datatypes/primitive/enumdatainformation.cpp:74
+#, fuzzy, kde-format
+#| msgctxt "@item description of bookmark"
+#| msgid "%1: %2"
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/primitive/enumdatainformation.cpp:84
+#, fuzzy, kde-format
+#| msgctxt "@item description of bookmark"
+#| msgid "%1: %2"
+msgctxt ""
+"Displayed in the type column. first comes the name of the enum, then the "
+"underlying type (e.g. uint32)"
+msgid "enum %1 (%2)"
+msgstr "%1 (%2)"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/primitive/flagdatainformation.cpp:82
+#, kde-format
+msgid "0x%1 (no matching flags)"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/primitive/flagdatainformation.cpp:112
+#, fuzzy, kde-format
+#| msgctxt "@item description of bookmark"
+#| msgid "%1: %2"
+msgctxt ""
+"Displayed in the type column. first comes the name of the enum, then the "
+"underlying type (e.g. uint32)"
+msgid "flag %1 (%2)"
+msgstr "%1 (%2)"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/primitive/pointerdatainformation.cpp:117
+#, kde-format
+msgctxt "memory pointer with underlying type"
+msgid "%1 pointer"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/primitivedatatype.cpp:22
+msgctxt "data type"
+msgid "bool (1 byte)"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/primitivedatatype.cpp:23
+#, fuzzy
+#| msgctxt "Data type"
+#| msgid "unsigned byte"
+msgctxt "data type"
+msgid "signed byte"
+msgstr "符号なし byte"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/primitivedatatype.cpp:24
+#, fuzzy
+#| msgctxt "Data type"
+#| msgid "unsigned byte"
+msgctxt "data type"
+msgid "unsigned byte"
+msgstr "符号なし byte"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/primitivedatatype.cpp:25
+#, fuzzy
+#| msgctxt "Data type"
+#| msgid "char"
+msgctxt "data type"
+msgid "char"
+msgstr "char"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/primitivedatatype.cpp:26
+msgctxt "data type"
+msgid "bool (2 bytes)"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/primitivedatatype.cpp:27
+#, fuzzy
+#| msgctxt "Data type"
+#| msgid "unsigned short"
+msgctxt "data type"
+msgid "signed short"
+msgstr "符号なし short"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/primitivedatatype.cpp:28
+#, fuzzy
+#| msgctxt "Data type"
+#| msgid "unsigned short"
+msgctxt "data type"
+msgid "unsigned short"
+msgstr "符号なし short"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/primitivedatatype.cpp:29
+msgctxt "data type"
+msgid "bool (4 bytes)"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/primitivedatatype.cpp:30
+#, fuzzy
+#| msgctxt "Data type"
+#| msgid "unsigned int"
+msgctxt "data type"
+msgid "signed int"
+msgstr "符号なし int"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/primitivedatatype.cpp:31
+#, fuzzy
+#| msgctxt "Data type"
+#| msgid "unsigned int"
+msgctxt "data type"
+msgid "unsigned int"
+msgstr "符号なし int"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/primitivedatatype.cpp:32
+msgctxt "data type"
+msgid "bool (8 bytes)"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/primitivedatatype.cpp:33
+#, fuzzy
+#| msgctxt "Data type"
+#| msgid "unsigned long"
+msgctxt "data type"
+msgid "signed long"
+msgstr "符号なし long"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/primitivedatatype.cpp:34
+#, fuzzy
+#| msgctxt "Data type"
+#| msgid "unsigned long"
+msgctxt "data type"
+msgid "unsigned long"
+msgstr "符号なし long"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/primitivedatatype.cpp:35
+#, fuzzy
+#| msgctxt "Data type"
+#| msgid "float"
+msgctxt "data type"
+msgid "float"
+msgstr "float"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/primitivedatatype.cpp:36
+#, fuzzy
+#| msgctxt "Data type"
+#| msgid "double"
+msgctxt "data type"
+msgid "double"
+msgstr "double"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/primitivedatatype.cpp:37
+#, fuzzy
+#| msgctxt "@label:textbox"
+#| msgid "Unsigned 8-bit:"
+msgctxt "data type"
+msgid "bitfield"
+msgstr "符号なし 8 ビット値:"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/primitivedatatype.cpp:85
+#, fuzzy, kde-format
+#| msgid "<invalid name>"
+msgid "invalid type"
+msgstr "<不正な名前>"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/strings/asciistringdata.cpp:130
+#, kde-format
+msgid "Non-ASCII char: 0x%1"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/strings/asciistringdata.cpp:138
+#, kde-format
+msgid "ASCII char"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/strings/asciistringdata.cpp:148
+#, fuzzy, kde-format
+#| msgctxt "@title:column string extracted from the byte array"
+#| msgid "String"
+msgid "ASCII string"
+msgstr "文字列"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/strings/ebcdicstringdata.cpp:136
+#, kde-format
+msgid "EBCDIC char"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/strings/ebcdicstringdata.cpp:146
+#, fuzzy, kde-format
+#| msgctxt "@title:column string extracted from the byte array"
+#| msgid "String"
+msgid "EBCDIC string"
+msgstr "文字列"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/strings/latin1stringdata.cpp:130
+#, kde-format
+msgid "Latin1 char"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/strings/latin1stringdata.cpp:140
+#, kde-format
+msgid "Latin1 string"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/strings/stringdatainformation.cpp:317
+#, kde-format
+msgid "End of file reached prematurely"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/strings/utf16stringdata.cpp:30
+#, kde-format
+msgid "UTF16-LE char"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/strings/utf16stringdata.cpp:30
+#, kde-format
+msgid "UTF16-BE char"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/strings/utf16stringdata.cpp:35
+#, kde-format
+msgid "UTF16-LE string"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/strings/utf16stringdata.cpp:35
+#, kde-format
+msgid "UTF16-BE string"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/strings/utf16stringdata.cpp:54
+#: controllers/view/structures/datatypes/strings/utf32stringdata.cpp:54
+#: controllers/view/structures/datatypes/strings/utf8stringdata.cpp:53
+#, fuzzy, kde-format
+#| msgid "Value coding:"
+msgid "Value too big: 0x%1"
+msgstr "基数:"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/strings/utf16stringdata.cpp:60
+#: controllers/view/structures/datatypes/strings/utf16stringdata.cpp:63
+#: controllers/view/structures/datatypes/strings/utf32stringdata.cpp:60
+#: controllers/view/structures/datatypes/strings/utf32stringdata.cpp:63
+#: controllers/view/structures/datatypes/strings/utf8stringdata.cpp:59
+#: controllers/view/structures/datatypes/strings/utf8stringdata.cpp:62
+#, fuzzy, kde-format
+#| msgctxt "@item description of bookmark"
+#| msgid "%1: %2"
+msgid "%1 (U+%2)"
+msgstr "%1 (%2)"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/strings/utf32stringdata.cpp:30
+#, kde-format
+msgid "UTF32-LE char"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/strings/utf32stringdata.cpp:30
+#, kde-format
+msgid "UTF32-BE char"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/strings/utf32stringdata.cpp:35
+#, kde-format
+msgid "UTF32-LE string"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/strings/utf32stringdata.cpp:35
+#, kde-format
+msgid "UTF32-BE string"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/strings/utf8stringdata.cpp:30
+#, fuzzy, kde-format
+#| msgctxt "Data type"
+#| msgid "char"
+msgid "UTF8 char"
+msgstr "char"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/strings/utf8stringdata.cpp:35
+#, fuzzy, kde-format
+#| msgctxt "@title:column string extracted from the byte array"
+#| msgid "String"
+msgid "UTF8 string"
+msgstr "文字列"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/structuredatainformation.cpp:28
+#: controllers/view/structures/datatypes/taggeduniondatainformation.cpp:40
+#, fuzzy, kde-format
+#| msgctxt "data type in C/C++"
+#| msgid "struct"
+msgctxt "data type in C/C++, then name"
+msgid "struct %1"
+msgstr "struct"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/taggeduniondatainformation.cpp:43
+#, fuzzy, kde-format
+#| msgctxt "data type in C/C++"
+#| msgid "union"
+msgctxt "data type, then name"
+msgid "tagged union %1"
+msgstr "union"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/datatypes/uniondatainformation.cpp:28
+#, fuzzy, kde-format
+#| msgctxt "data type in C/C++"
+#| msgid "union"
+msgctxt "data type in C/C++, then name"
+msgid "union %1"
+msgstr "union"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/parsers/osdparser.cpp:117
+#: controllers/view/structures/parsers/osdparser.cpp:199
+#, kde-format
+msgid "<invalid name>"
+msgstr "<不正な名前>"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/script/scriptlogger.cpp:87
+#, kde-format
+msgctxt "@title:column"
+msgid "Time"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/script/scriptlogger.cpp:89
+#, kde-format
+msgctxt "@title:column"
+msgid "Origin"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/script/scriptlogger.cpp:91
+#, kde-format
+msgctxt "@title:column"
+msgid "Message"
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/structures/settings/aboutstructuredialog.cpp:35
+#, kde-format
+msgctxt "@title:window"
+msgid "About %1"
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/structures/settings/aboutstructuredialog.cpp:43
+#, fuzzy, kde-format
+#| msgctxt "@title:window"
+#| msgid "Versions"
+msgctxt "Version version-number"
+msgid "Version %1"
+msgstr "バージョン履歴"
+
+#. +> trunk5
+#: controllers/view/structures/settings/aboutstructuredialog.cpp:80
+#: controllers/view/structures/settings/aboutstructuredialog.cpp:85
+#, kde-format
+msgid "License: %1"
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/structures/settings/aboutstructuredialog.cpp:91
+#, kde-format
+msgctxt "@title:tab"
+msgid "About"
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/structures/settings/aboutstructuredialog.cpp:106
+#, kde-format
+msgctxt "@info:tooltip Send an email to the author"
+msgid ""
+"Email author\n"
+"%1"
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/structures/settings/aboutstructuredialog.cpp:115
+#, fuzzy, kde-format
+#| msgid "Author"
+msgctxt "@title:tab"
+msgid "Author"
+msgstr "作者"
+
+#. +> trunk5
+#: controllers/view/structures/settings/licensedialog.cpp:28
+#, kde-format
+msgctxt "@title:window"
+msgid "License Agreement"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/settings/structureaddremovewidget.cpp:48
+#, kde-format
+msgctxt "@info:label"
+msgid "Installed structures:"
+msgstr "インストールした構造体:"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/settings/structureaddremovewidget.cpp:58
+#, kde-format
+msgctxt "@info:label"
+msgid "Used structures:"
+msgstr "使用した構造体:"
+
+#. +> trunk5
+#: controllers/view/structures/settings/structureitemdelegate.cpp:117
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "About"
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/structures/settings/structureitemdelegate.cpp:124
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Uninstall"
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/structures/settings/structureitemdelegate.cpp:124
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Can not be uninstalled."
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/structures/settings/structuresmanagerview.cpp:61
+#, kde-format
+msgctxt "@action:button"
+msgid "Advanced Selection…"
+msgstr ""
+
+#. +> stable5
+#: controllers/view/structures/settings/structuresmanagerview.cpp:49
+#, kde-format
+msgid "Advanced Selection..."
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/structures/settings/structuresmanagerview.cpp:65
+#, kde-format
+msgctxt "@action:button"
+msgid "Install from File(s)…"
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/structures/settings/structuresmanagerview.cpp:69
+#, fuzzy, kde-format
+#| msgctxt "@option:check"
+#| msgid "&Selected bytes"
+msgctxt "@action:button"
+msgid "Get New Structures…"
+msgstr "選択したバイトのみ(&S)"
+
+#. +> stable5
+#: controllers/view/structures/settings/structuresmanagerview.cpp:58
+#, fuzzy, kde-format
+#| msgctxt "@option:check"
+#| msgid "&Selected bytes"
+msgid "Get New Structures..."
+msgstr "選択したバイトのみ(&S)"
+
+#. +> trunk5
+#: controllers/view/structures/settings/structuresmanagerview.cpp:129
+#, kde-kuit-format
+msgid ""
+"Installing from <filename>%1</filename> failed:\n"
+"\n"
+"%2"
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/structures/settings/structuresmanagerview.cpp:130
+#, fuzzy, kde-format
+#| msgid "Structures"
+msgctxt "@title:window"
+msgid "Structure Installation"
+msgstr "構造体"
+
+#. +> trunk5
+#: controllers/view/structures/settings/structuresmanagerview.cpp:153
+#, kde-format
+msgctxt "@action:button"
+msgid "Uninstall"
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/structures/settings/structuresmanagerview.cpp:156
+#, kde-format
+msgid "Do you want to uninstall \"%1\"?"
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/structures/settings/structuresmanagerview.cpp:157
+#: controllers/view/structures/settings/structuresmanagerview.cpp:176
+#, kde-format
+msgctxt "@title:window"
+msgid "Structure Uninstallation"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/settings/structuresselectiondialog.cpp:28
+#, kde-format
+msgctxt "@title:window"
+msgid "Advanced Structures Selection"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/settings/structuresselectionmodel.cpp:124
+#, kde-format
+msgid "Dynamic Structure Definitions"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/settings/structuresselectionmodel.cpp:126
+#, kde-format
+msgid "Structure Definitions"
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/structures/settings/structuresselector.cpp:44
+#, fuzzy, kde-format
+#| msgctxt "@title"
+#| msgid "Search"
+msgctxt "@info:placeholder"
+msgid "Search…"
+msgstr "検索"
+
+#. i18n: ectx: tooltip, entry (UnsignedDisplayBase), group (ValueDisplay)
+#. +> trunk5 stable5
+#: controllers/view/structures/settings/structureviewpreferences.kcfg:9
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "The base to use when converting unsigned numbers to a string."
+msgstr ""
+
+#. i18n: ectx: tooltip, entry (SignedDisplayBase), group (ValueDisplay)
+#. +> trunk5 stable5
+#: controllers/view/structures/settings/structureviewpreferences.kcfg:13
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "The base to use when converting signed numbers to a string."
+msgstr ""
+
+#. i18n: ectx: tooltip, entry (CharDisplayBase), group (ValueDisplay)
+#. +> trunk5 stable5
+#: controllers/view/structures/settings/structureviewpreferences.kcfg:17
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "The base to use when converting characters to a value string."
+msgstr ""
+
+#. i18n: ectx: tooltip, entry (ShowCharNumericalValue), group (ValueDisplay)
+#. +> trunk5 stable5
+#: controllers/view/structures/settings/structureviewpreferences.kcfg:21
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Whether to show the numerical value of chars"
+msgstr ""
+
+#. i18n: ectx: tooltip, entry (LocaleAwareFloatFormatting), group (ValueDisplay)
+#. +> trunk5 stable5
+#: controllers/view/structures/settings/structureviewpreferences.kcfg:25
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Whether to format floating point values according to the current locale"
+msgstr ""
+
+#. i18n: ectx: tooltip, entry (ShortTypeNames), group (ValueDisplay)
+#. +> trunk5 stable5
+#: controllers/view/structures/settings/structureviewpreferences.kcfg:29
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Whether to use short type names (i.e. uint32 instead of unsigned int)"
+msgstr ""
+
+#. i18n: ectx: tooltip, entry (LocaleAwareDecimalFormatting), group (ValueDisplay)
+#. +> trunk5 stable5
+#: controllers/view/structures/settings/structureviewpreferences.kcfg:33
+#, kde-format
+msgctxt "@info:tooltip"
+msgid ""
+"If true, integers being displayed in decimal format will be formatted "
+"according to the current locale settings"
+msgstr ""
+
+#. i18n: ectx: whatsthis, entry (LocaleAwareDecimalFormatting), group (ValueDisplay)
+#. +> trunk5 stable5
+#: controllers/view/structures/settings/structureviewpreferences.kcfg:34
+#, kde-format
+msgid "Whether to format integer values according to the current locale"
+msgstr ""
+
+#. i18n: ectx: tooltip, entry (FloatPrecision), group (ValueDisplay)
+#. +> trunk5 stable5
+#: controllers/view/structures/settings/structureviewpreferences.kcfg:38
+#, kde-format
+msgctxt "@info:tooltip"
+msgid ""
+"The precision used for converting floating-point numbers to strings (number "
+"of decimal digits)"
+msgstr ""
+
+#. i18n: ectx: label, entry (ByteOrder), group (StructureSettings)
+#. +> trunk5 stable5
+#: controllers/view/structures/settings/structureviewpreferences.kcfg:47
+#, fuzzy, kde-format
+#| msgctxt ""
+#| "@label:listbox byte order to use for decoding the bytes into integer "
+#| "values"
+#| msgid "Byte Order:"
+msgctxt "@label:listbox"
+msgid "Byte order"
+msgstr "バイトオーダー:"
+
+#. i18n: ectx: label, entry (ByteOrder), group (StructureSettings)
+#. +> trunk5 stable5
+#: controllers/view/structures/settings/structureviewpreferences.kcfg:49
+#, fuzzy, kde-format
+#| msgctxt "@item:inlistbox"
+#| msgid "Big-endian"
+msgctxt "@item:inlistbox"
+msgid "Big endian"
+msgstr "ビッグエンディアン"
+
+#. i18n: ectx: label, entry (ByteOrder), group (StructureSettings)
+#. +> trunk5 stable5
+#: controllers/view/structures/settings/structureviewpreferences.kcfg:50
+#, fuzzy, kde-format
+#| msgctxt "@item:inlistbox"
+#| msgid "Little-endian"
+msgctxt "@item:inlistbox"
+msgid "Little endian"
+msgstr "リトルエンディアン"
+
+# skip-rule: binary3
+#. +> trunk5 stable5
+#: controllers/view/structures/settings/structureviewsettingswidget.cpp:50
+#, fuzzy, kde-format
+#| msgid "Binary"
+msgctxt "@item:inlistbox"
+msgid "Binary"
+msgstr "二進"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/settings/structureviewsettingswidget.cpp:51
+#, fuzzy, kde-format
+#| msgctxt "@info:tooltip column contains the value in octal format"
+#| msgid "Octal"
+msgctxt "@item:inlistbox"
+msgid "Octal"
+msgstr "八進"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/settings/structureviewsettingswidget.cpp:52
+#, fuzzy, kde-format
+#| msgid "Decimal"
+msgctxt "@item:inlistbox"
+msgid "Decimal"
+msgstr "十進"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/settings/structureviewsettingswidget.cpp:53
+#, fuzzy, kde-format
+#| msgid "Hexadecimal"
+msgctxt "@item:inlistbox"
+msgid "Hexadecimal"
+msgstr "十六進"
+
+#. i18n: ectx: property (text), widget (QLabel, byteOrderLabel)
+#. +> trunk5 stable5
+#: controllers/view/structures/settings/structureviewsettingswidget.ui:32
+#, fuzzy, kde-format
+#| msgctxt ""
+#| "@label:listbox byte order to use for decoding the bytes into integer "
+#| "values"
+#| msgid "Byte Order:"
+msgid "Byte order:"
+msgstr "バイトオーダー:"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_ByteOrder)
+#. +> trunk5 stable5
+#: controllers/view/structures/settings/structureviewsettingswidget.ui:46
+#, fuzzy, kde-format
+#| msgctxt "@item:inlistbox"
+#| msgid "Big endian"
+msgid "Big endian"
+msgstr "ビッグエンディアン"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_ByteOrder)
+#. +> trunk5 stable5
+#: controllers/view/structures/settings/structureviewsettingswidget.ui:51
+#, fuzzy, kde-format
+#| msgctxt "@item:inlistbox"
+#| msgid "Little endian"
+msgid "Little endian"
+msgstr "リトルエンディアン"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_ShortTypeNames)
+#. +> trunk5 stable5
+#: controllers/view/structures/settings/structureviewsettingswidget.ui:59
+#, kde-format
+msgid "Use short type names"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_LocaleAwareDecimalFormatting)
+#. +> trunk5 stable5
+#: controllers/view/structures/settings/structureviewsettingswidget.ui:66
+#, kde-format
+msgid "Use locale-aware integer formatting"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, unsigned_label)
+#. +> trunk5 stable5
+#: controllers/view/structures/settings/structureviewsettingswidget.ui:73
+#, fuzzy, kde-format
+#| msgctxt "@label:textbox"
+#| msgid "Unsigned 8 bit:"
+msgid "Unsigned values:"
+msgstr "符号なし 8 ビット値:"
+
+#. i18n: ectx: property (text), widget (QLabel, signed_label)
+#. +> trunk5 stable5
+#: controllers/view/structures/settings/structureviewsettingswidget.ui:86
+#, kde-format
+msgid "Signed values:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_LocaleAwareFloatFormatting)
+#. +> trunk5 stable5
+#: controllers/view/structures/settings/structureviewsettingswidget.ui:99
+#, kde-format
+msgid "Use locale-aware floating-point formatting"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk5 stable5
+#: controllers/view/structures/settings/structureviewsettingswidget.ui:106
+#, kde-format
+msgid "Floating-point precision:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_ShowCharNumericalValue)
+#. +> trunk5 stable5
+#: controllers/view/structures/settings/structureviewsettingswidget.ui:119
+#, fuzzy, kde-format
+#| msgctxt "@title:menu"
+#| msgid "&Show Values or Chars"
+msgid "Show numerical value of chars"
+msgstr "値と文字の表示(&S)"
+
+#. i18n: ectx: property (text), widget (QLabel, char_label)
+#. +> trunk5 stable5
+#: controllers/view/structures/settings/structureviewsettingswidget.ui:126
+#, fuzzy, kde-format
+#| msgctxt "@label:textbox encoding of the bytes as character"
+#| msgid "Character:"
+msgid "Character value:"
+msgstr "文字:"
+
+#. +> trunk5
+#: controllers/view/structures/structureinstalljob.cpp:61
+#, kde-format
+msgid "Unknown error (0)"
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/structures/structureinstalljob.cpp:63
+#, kde-format
+msgid "Downloading failed: %1"
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/structures/structureinstalljob.cpp:101
+#: controllers/view/structures/structureinstalljob.cpp:132
+#, kde-format
+msgid "The structure archive is invalid."
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/structurestool.cpp:72
+#: controllers/view/structures/structurestoolviewfactory.cpp:27
+#, kde-format
+msgctxt "@title:window"
+msgid "Structures"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/structurestool.cpp:200
+#, kde-format
+msgctxt "name of a data structure"
+msgid "Name"
+msgstr "名前"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/structurestool.cpp:202
+#, kde-format
+msgctxt "type of a data structure"
+msgid "Type"
+msgstr "型"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/structurestool.cpp:204
+#, kde-format
+msgctxt "value of a data structure (primitive type)"
+msgid "Value"
+msgstr "値"
+
+#. +> trunk5
+#: controllers/view/structures/structurestool.cpp:206
+#, fuzzy, kde-format
+#| msgid "Size:"
+msgctxt "size of a data structure"
+msgid "Size"
+msgstr "サイズ:"
+
+#. +> trunk5
+#: controllers/view/structures/structureview.cpp:86
+#, kde-format
+msgctxt "@info"
+msgid "No structure definitions"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/structureview.cpp:106
+#, fuzzy, kde-format
+#| msgid "Validate"
+msgctxt "@action:button"
+msgid "Validate"
+msgstr "検証"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/structureview.cpp:108
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Validate all structures."
+msgstr "すべての構造体を検証"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/structureview.cpp:130
+#, kde-format
+msgctxt "@action:button"
+msgid "Script console"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/structureview.cpp:132
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Open script console."
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/structureview.cpp:136
+#, fuzzy, kde-format
+#| msgid "Settings"
+msgctxt "@action:button"
+msgid "Settings"
+msgstr "設定"
+
+#. +> trunk5 stable5
+#: controllers/view/structures/structureview.cpp:138
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Open settings."
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/structures/structureview.cpp:169
+#, fuzzy, kde-format
+#| msgctxt "@item name of the encoding result"
+#| msgid "Values"
+msgctxt "@title:tab"
+msgid "Value Display"
+msgstr "値"
+
+#. +> stable5
+#: controllers/view/structures/structureview.cpp:159
+#, fuzzy, kde-format
+#| msgctxt "@item name of the encoding result"
+#| msgid "Values"
+msgid "Value Display"
+msgstr "値"
+
+#. +> trunk5
+#: controllers/view/structures/structureview.cpp:181
+#, fuzzy, kde-format
+#| msgid "Structures"
+msgctxt "@title:tab"
+msgid "Structures management"
+msgstr "構造体"
+
+#. +> stable5
+#: controllers/view/structures/structureview.cpp:171
+#, kde-format
+msgid "Structures management"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/structureview.cpp:268
+#, kde-format
+msgctxt "@action:button unlock the starting offset of the current structure"
+msgid "Unlock"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/structureview.cpp:270
+#, kde-format
+msgctxt "@info:tooltip"
+msgid ""
+"Unlock selected structure, i.e. the starting offset is always set to the "
+"current cursor position."
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/structureview.cpp:275
+#, kde-format
+msgctxt "@action:button unlock the starting offset of the current structure"
+msgid "Lock"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/structureview.cpp:277
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Lock selected structure to current offset."
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/structures/structureview.cpp:324
+#, kde-format
+msgctxt "@title:window"
+msgid "Structures Script Console"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/viewconfig/bytespergroupdialog.cpp:31
+#, kde-format
+msgctxt "@label"
+msgid "No grouping."
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/viewconfig/bytespergroupdialog.cpp:35
+#, fuzzy, kde-format
+#| msgctxt "@label:textbox to define after how many items the list is wrapped"
+#| msgid "Items per line:"
+msgctxt "@label:spinbox number of bytes which are grouped"
+msgid "Bytes per Group:"
+msgstr "1 行あたりのアイテム数:"
+
+#. +> trunk5 stable5
+#: controllers/view/viewconfig/bytespergroupdialog.cpp:50
+#, kde-format
+msgctxt "@title:window"
+msgid "Bytes per Group"
+msgstr "グループあたりのバイト数"
+
+#. +> trunk5 stable5
+#: controllers/view/viewconfig/bytesperlinedialog.cpp:32
+#, kde-format
+msgctxt "@label:spinbox number of bytes which are shown per line"
+msgid "Bytes per Line:"
+msgstr "1 行あたりのバイト数:"
+
+#. +> trunk5 stable5
+#: controllers/view/viewconfig/bytesperlinedialog.cpp:47
+#, fuzzy, kde-format
+#| msgctxt "@label:textbox to define after how many items the list is wrapped"
+#| msgid "Items per line:"
+msgctxt "@title:window"
+msgid "Bytes per Line"
+msgstr "1 行あたりのアイテム数:"
+
+#. +> trunk5 stable5
+#: controllers/view/viewconfig/viewconfigcontroller.cpp:32
+#, fuzzy, kde-format
+#| msgctxt "@title:menu"
+#| msgid "&Value Coding"
+msgctxt "@title:menu"
+msgid "&Offset Coding"
+msgstr "基数(&V)"
+
+#. +> trunk5 stable5
+#: controllers/view/viewconfig/viewconfigcontroller.cpp:36
+#, fuzzy, kde-format
+#| msgctxt ""
+#| "@item:inmenu encoding of the bytes as values in the hexadecimal format"
+#| msgid "&Hexadecimal"
+msgctxt "@item:inmenu offset in the hexadecimal format"
+msgid "&Hexadecimal"
+msgstr "十六進(&H)"
+
+#. +> trunk5 stable5
+#: controllers/view/viewconfig/viewconfigcontroller.cpp:38
+#, fuzzy, kde-format
+#| msgctxt "@item:inmenu encoding of the bytes as values in the decimal format"
+#| msgid "&Decimal"
+msgctxt "@item:inmenu offset in the decimal format"
+msgid "&Decimal"
+msgstr "十進(&D)"
+
+#. +> trunk5
+#: controllers/view/viewconfig/viewconfigcontroller.cpp:40
+#, fuzzy, kde-format
+#| msgctxt "@item:inmenu encoding of the bytes as values in the octal format"
+#| msgid "&Octal"
+msgctxt "@item:inmenu offset in the octal format"
+msgid "&Octal"
+msgstr "八進(&O)"
+
+#. +> trunk5 stable5
+#: controllers/view/viewconfig/viewconfigcontroller.cpp:47
+#, kde-format
+msgctxt "@title:menu"
+msgid "&Value Coding"
+msgstr "基数(&V)"
+
+#. +> trunk5 stable5
+#: controllers/view/viewconfig/viewconfigcontroller.cpp:51
+#, kde-format
+msgctxt ""
+"@item:inmenu encoding of the bytes as values in the hexadecimal format"
+msgid "&Hexadecimal"
+msgstr "十六進(&H)"
+
+#. +> trunk5 stable5
+#: controllers/view/viewconfig/viewconfigcontroller.cpp:53
+#, kde-format
+msgctxt "@item:inmenu encoding of the bytes as values in the decimal format"
+msgid "&Decimal"
+msgstr "十進(&D)"
+
+#. +> trunk5 stable5
+#: controllers/view/viewconfig/viewconfigcontroller.cpp:55
+#, kde-format
+msgctxt "@item:inmenu encoding of the bytes as values in the octal format"
+msgid "&Octal"
+msgstr "八進(&O)"
+
+#. +> trunk5 stable5
+#: controllers/view/viewconfig/viewconfigcontroller.cpp:57
+#, kde-format
+msgctxt "@item:inmenu encoding of the bytes as values in the binary format"
+msgid "&Binary"
+msgstr "二進(&B)"
+
+# ACCELERATOR changed by translator
+#. +> trunk5 stable5
+#: controllers/view/viewconfig/viewconfigcontroller.cpp:64
+#, kde-format
+msgctxt "@title:menu"
+msgid "&Char Coding"
+msgstr "文字コード(&E)"
+
+#. +> trunk5 stable5
+#: controllers/view/viewconfig/viewconfigcontroller.cpp:71
+#, kde-format
+msgctxt "@option:check"
+msgid "Show &Non-printing Chars"
+msgstr "印字不可能な文字を表示する(&N)"
+
+#. +> trunk5
+#: controllers/view/viewconfig/viewconfigcontroller.cpp:78
+#, fuzzy, kde-format
+#| msgctxt "@action:inmenu"
+#| msgid "Set Bytes per Line..."
+msgctxt "@action:inmenu"
+msgid "Set Bytes per Line…"
+msgstr "1 行あたりのバイト数を設定..."
+
+#. +> stable5
+#: controllers/view/viewconfig/viewconfigcontroller.cpp:91
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Set Bytes per Line..."
+msgstr "1 行あたりのバイト数を設定..."
+
+#. +> trunk5
+#: controllers/view/viewconfig/viewconfigcontroller.cpp:85
+#, fuzzy, kde-format
+#| msgctxt "@label:textbox to define after how many items the list is wrapped"
+#| msgid "Items per line:"
+msgctxt "@action:inmenu"
+msgid "Set Bytes per Group…"
+msgstr "1 行あたりのアイテム数:"
+
+#. +> stable5
+#: controllers/view/viewconfig/viewconfigcontroller.cpp:98
+#, fuzzy, kde-format
+#| msgctxt "@label:textbox to define after how many items the list is wrapped"
+#| msgid "Items per line:"
+msgctxt "@action:inmenu"
+msgid "Set Bytes per Group..."
+msgstr "1 行あたりのアイテム数:"
+
+#. +> trunk5 stable5
+#: controllers/view/viewconfig/viewconfigcontroller.cpp:92
+#, kde-format
+msgctxt "@title:menu"
+msgid "&Dynamic Layout"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/viewconfig/viewconfigcontroller.cpp:96
+#, kde-format
+msgctxt "@item:inmenu  The layout will not change on size changes."
+msgid "&Off"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/viewconfig/viewconfigcontroller.cpp:98
+#, kde-format
+msgctxt ""
+"@item:inmenu  The layout will adapt to the size, but only with complete "
+"groups of bytes."
+msgid "&Wrap Only Complete Byte Groups"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/viewconfig/viewconfigcontroller.cpp:100
+#, kde-format
+msgctxt ""
+"@item:inmenu  The layout will adapt to the size and fit in as much bytes per "
+"line as possible."
+msgid "&On"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/viewconfig/viewconfigcontroller.cpp:106
+#, kde-format
+msgctxt "@option:check"
+msgid "Show &Line Offset"
+msgstr "行オフセットを表示(&L)"
+
+#. +> trunk5 stable5
+#: controllers/view/viewconfig/viewconfigcontroller.cpp:114
+#, kde-format
+msgctxt "@title:menu"
+msgid "&Show Values or Chars"
+msgstr "値と文字の表示(&S)"
+
+#. +> trunk5 stable5
+#: controllers/view/viewconfig/viewconfigcontroller.cpp:117
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "&Values"
+msgstr "値(&V)"
+
+#. +> trunk5 stable5
+#: controllers/view/viewconfig/viewconfigcontroller.cpp:118
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "&Chars"
+msgstr "文字(&C)"
+
+#. +> trunk5 stable5
+#: controllers/view/viewconfig/viewconfigcontroller.cpp:119
+#, fuzzy, kde-format
+#| msgctxt "@item:inmenu"
+#| msgid "Values &and Chars"
+msgctxt "@item:inmenu"
+msgid "Values && Chars"
+msgstr "値と文字(&A)"
+
+#. +> trunk5 stable5
+#: controllers/view/viewmode/viewmodecontroller.cpp:22
+#, kde-format
+msgctxt "@title:menu"
+msgid "&View Mode"
+msgstr "表示モード(&V)"
+
+#. +> trunk5 stable5
+#: controllers/view/viewmode/viewmodecontroller.cpp:24
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "&Columns"
+msgstr "値と文字を別のカラムに表示(&C)"
+
+#. +> trunk5 stable5
+#: controllers/view/viewmode/viewmodecontroller.cpp:25
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "&Rows"
+msgstr "値と文字を別の行に表示(&R)"
+
+#. +> trunk5 stable5
+#: controllers/view/viewprofiles/viewprofilecontroller.cpp:34
+#, fuzzy, kde-format
+#| msgctxt "@title:menu"
+#| msgid "&View Mode"
+msgctxt "@title:menu submenu to select the view profile or change it"
+msgid "View Profile"
+msgstr "表示モード(&V)"
+
+#. +> trunk5
+#: controllers/view/viewprofiles/viewprofilecontroller.cpp:42
+#, fuzzy, kde-format
+#| msgctxt "@label:textbox"
+#| msgid "Pattern:"
+msgctxt "@action:inmenu create a new view profile"
+msgid "Create New…"
+msgstr "パターン:"
+
+#. +> stable5
+#: controllers/view/viewprofiles/viewprofilecontroller.cpp:48
+#, fuzzy, kde-format
+#| msgctxt "@label:textbox"
+#| msgid "Pattern:"
+msgctxt "@action:inmenu create a new view profile"
+msgid "Create New..."
+msgstr "パターン:"
+
+#. +> trunk5 stable5
+#: controllers/view/viewprofiles/viewprofilecontroller.cpp:50
+#, fuzzy, kde-format
+#| msgctxt "@title:menu "
+#| msgid "Save changes"
+msgctxt "@action:inmenu save changed to the view profile to the base profile"
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#. +> trunk5 stable5
+#: controllers/view/viewprofiles/viewprofilecontroller.cpp:58
+#, fuzzy, kde-format
+#| msgctxt "@title:menu "
+#| msgid "Save changes"
+msgctxt "@action:inmenu reset settings back to those of the saved base profile"
+msgid "Reset Changes"
+msgstr "変更を保存"
+
+#. +> trunk5
+#: controllers/view/viewprofiles/viewprofilecontroller.cpp:182
+#: controllers/view/viewprofiles/viewprofilesmanagedialog.cpp:178
+#, fuzzy, kde-format
+#| msgctxt "@title:menu"
+#| msgid "&View Mode"
+msgctxt "@title:window"
+msgid "New View Profile"
+msgstr "表示モード(&V)"
+
+#. +> stable5
+#: controllers/view/viewprofiles/viewprofilecontroller.cpp:188
+#: controllers/view/viewprofiles/viewprofilesmanagedialog.cpp:180
+#, fuzzy, kde-format
+#| msgctxt "@title:menu"
+#| msgid "&View Mode"
+msgctxt "@window:title"
+msgid "New View Profile"
+msgstr "表示モード(&V)"
+
+#. +> trunk5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:53
+#, fuzzy, kde-format
+#| msgid "Title:"
+msgctxt "@label:textbox"
+msgid "Title:"
+msgstr "タイトル:"
+
+#. +> stable5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:55
+#, kde-format
+msgid "Title:"
+msgstr "タイトル:"
+
+#. +> trunk5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:57
+#, fuzzy, kde-format
+#| msgid "Display"
+msgctxt "@title:group"
+msgid "Display"
+msgstr "表示"
+
+#. +> stable5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:59
+#, kde-format
+msgid "Display"
+msgstr "表示"
+
+#. +> trunk5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:61
+#, fuzzy, kde-format
+#| msgid "Show Line Offset:"
+msgctxt "@option:check"
+msgid "Show line offset:"
+msgstr "行オフセットを表示:"
+
+#. +> stable5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:63
+#, kde-format
+msgid "Show Line Offset:"
+msgstr "行オフセットを表示:"
+
+#. +> trunk5 stable5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:65
+#, fuzzy, kde-format
+#| msgid "Hexadecimal"
+msgctxt "@item:inmenu offset in the hexadecimal format"
+msgid "Hexadecimal"
+msgstr "十六進"
+
+#. +> trunk5 stable5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:66
+#, fuzzy, kde-format
+#| msgid "Decimal"
+msgctxt "@item:inmenu offset in the decimal format"
+msgid "Decimal"
+msgstr "十進"
+
+#. +> trunk5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:67
+#, fuzzy, kde-format
+#| msgctxt "@info:tooltip column contains the value in octal format"
+#| msgid "Octal"
+msgctxt "@item:inmenu offset in the octal format"
+msgid "Octal"
+msgstr "八進"
+
+# ACCELERATOR changed by translator
+#. +> trunk5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:70
+#, fuzzy, kde-format
+#| msgctxt "@title:menu"
+#| msgid "&Char Encoding"
+msgctxt "@label:listbox"
+msgid "Offset coding:"
+msgstr "文字コード(&E)"
+
+# ACCELERATOR changed by translator
+#. +> stable5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:71
+#, fuzzy, kde-format
+#| msgctxt "@title:menu"
+#| msgid "&Char Encoding"
+msgid "Offset Coding:"
+msgstr "文字コード(&E)"
+
+#. +> trunk5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:74
+#, fuzzy, kde-format
+#| msgid "Values"
+msgctxt "@item:inmenu"
+msgid "Values"
+msgstr "値"
+
+#. +> stable5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:75
+#, kde-format
+msgctxt "@item:"
+msgid "Values"
+msgstr "値"
+
+#. +> trunk5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:75
+#, fuzzy, kde-format
+#| msgid "Chars"
+msgctxt "@item:inmenu"
+msgid "Chars"
+msgstr "文字(&C)"
+
+#. +> stable5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:76
+#, kde-format
+msgctxt "@item:"
+msgid "Chars"
+msgstr "文字"
+
+#. +> trunk5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:76
+#, fuzzy, kde-format
+#| msgctxt "@item:"
+#| msgid "Values & Chars"
+msgctxt "@item:inmenu"
+msgid "Values & Chars"
+msgstr "値と文字"
+
+#. +> stable5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:77
+#, kde-format
+msgctxt "@item:"
+msgid "Values & Chars"
+msgstr "値と文字"
+
+#. +> trunk5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:79
+#, fuzzy, kde-format
+#| msgctxt "@title:menu"
+#| msgid "&Show Values or Chars"
+msgctxt "@option:check"
+msgid "Show values or chars:"
+msgstr "値と文字の表示(&S)"
+
+#. +> stable5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:80
+#, fuzzy, kde-format
+#| msgctxt "@title:menu"
+#| msgid "&Show Values or Chars"
+msgid "Show Values or Chars:"
+msgstr "値と文字の表示(&S)"
+
+#. +> trunk5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:83
+#, kde-format
+msgctxt "@label:listbox "
+msgid "Show with rows or columns:"
+msgstr ""
+
+#. +> stable5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:84
+#, kde-format
+msgctxt "@label:listbox "
+msgid "Show with Rows or Columns:"
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:86
+#, fuzzy, kde-format
+#| msgctxt "@item:"
+#| msgid "Columns"
+msgctxt "@item:inmenu"
+msgid "Columns"
+msgstr "列"
+
+#. +> stable5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:87
+#, kde-format
+msgctxt "@item:"
+msgid "Columns"
+msgstr "列"
+
+#. +> trunk5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:87
+#, fuzzy, kde-format
+#| msgctxt "@item:"
+#| msgid "Rows"
+msgctxt "@item:inmenu"
+msgid "Rows"
+msgstr "行"
+
+#. +> stable5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:88
+#, kde-format
+msgctxt "@item:"
+msgid "Rows"
+msgstr "行"
+
+#. +> trunk5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:94
+#, fuzzy, kde-format
+#| msgid "Layout"
+msgctxt "@title:group"
+msgid "Layout"
+msgstr "配置"
+
+#. +> stable5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:95
+#, kde-format
+msgid "Layout"
+msgstr "配置"
+
+#. +> trunk5 stable5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:100
+#, kde-format
+msgctxt "@item:inmenu  The layout will not change on size changes."
+msgid "Off"
+msgstr "いいえ"
+
+#. +> trunk5 stable5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:102
+#, kde-format
+msgctxt ""
+"@item:inmenu  The layout will adapt to the size, but only with complete "
+"groups of bytes."
+msgid "Wrap Only Complete Byte Groups"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:104
+#, kde-format
+msgctxt ""
+"@item:inmenu  The layout will adapt to the size and fit in as much bytes per "
+"line as possible."
+msgid "On"
+msgstr "はい"
+
+#. +> trunk5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:109
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Break lines:"
+msgstr ""
+
+#. +> stable5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:110
+#, kde-format
+msgid "Break lines:"
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:113
+#, fuzzy, kde-format
+#| msgctxt "@item:inmenu"
+#| msgid "&Lock Groups"
+msgctxt "@item"
+msgid "No Grouping"
+msgstr "グループをロック(&L)"
+
+#. +> trunk5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:117
+#, fuzzy, kde-format
+#| msgctxt "@label:textbox to define after how many items the list is wrapped"
+#| msgid "Items per line:"
+msgctxt "@label:spinbox number of bytes which are grouped"
+msgid "Bytes per group:"
+msgstr "1 行あたりのアイテム数:"
+
+#. +> trunk5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:124
+#, fuzzy, kde-format
+#| msgctxt "@label:spinbox number of bytes which are shown per line"
+#| msgid "Bytes per Line:"
+msgctxt "@label:spinbox number of bytes which are shown per line"
+msgid "Bytes per line:"
+msgstr "1 行あたりのバイト数:"
+
+#. +> trunk5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:129
+#, fuzzy, kde-format
+#| msgid "Values"
+msgctxt "@title:group"
+msgid "Values"
+msgstr "値"
+
+#. +> stable5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:131
+#, kde-format
+msgid "Values"
+msgstr "値"
+
+#. +> trunk5 stable5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:135
+#: controllers/view/viewstatus/viewstatuscontroller.cpp:53
+#: gui/io/streamencoder/values/bytearrayvaluesstreamencoderconfigeditor.cpp:36
+#, kde-format
+msgctxt ""
+"@item:inmenu encoding of the bytes as values in the hexadecimal format"
+msgid "Hexadecimal"
+msgstr "十六進"
+
+#. +> trunk5 stable5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:137
+#: controllers/view/viewstatus/viewstatuscontroller.cpp:54
+#: gui/io/streamencoder/values/bytearrayvaluesstreamencoderconfigeditor.cpp:37
+#, kde-format
+msgctxt "@item:inmenu encoding of the bytes as values in the decimal format"
+msgid "Decimal"
+msgstr "十進"
+
+#. +> trunk5 stable5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:139
+#: controllers/view/viewstatus/viewstatuscontroller.cpp:55
+#: gui/io/streamencoder/values/bytearrayvaluesstreamencoderconfigeditor.cpp:38
+#, kde-format
+msgctxt "@item:inmenu encoding of the bytes as values in the octal format"
+msgid "Octal"
+msgstr "八進"
+
+# skip-rule: binary3
+#. +> trunk5 stable5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:141
+#: controllers/view/viewstatus/viewstatuscontroller.cpp:56
+#: gui/io/streamencoder/values/bytearrayvaluesstreamencoderconfigeditor.cpp:39
+#, kde-format
+msgctxt "@item:inmenu encoding of the bytes as values in the binary format"
+msgid "Binary"
+msgstr "二進"
+
+# ACCELERATOR changed by translator
+#. +> trunk5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:144
+#: controllers/view/viewprofiles/viewprofileedit.cpp:153
+#, fuzzy, kde-format
+#| msgctxt "@title:menu"
+#| msgid "&Char Encoding"
+msgctxt "@label:listbox"
+msgid "Coding:"
+msgstr "文字コード(&E)"
+
+# ACCELERATOR changed by translator
+#. +> stable5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:146
+#: controllers/view/viewprofiles/viewprofileedit.cpp:155
+#, fuzzy, kde-format
+#| msgctxt "@title:menu"
+#| msgid "&Char Encoding"
+msgid "Coding:"
+msgstr "文字コード(&E)"
+
+#. +> trunk5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:148
+#, fuzzy, kde-format
+#| msgid "Chars"
+msgctxt "@title:group"
+msgid "Chars"
+msgstr "文字(&C)"
+
+#. +> stable5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:150
+#, kde-format
+msgid "Chars"
+msgstr "文字(&C)"
+
+#. +> trunk5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:163
+#, fuzzy, kde-format
+#| msgid "Show Non-printable:"
+msgctxt "@label:chooser"
+msgid "Char for non-printable bytes:"
+msgstr "印字不可能な文字を表示:"
+
+#. +> stable5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:165
+#, kde-format
+msgid "Char for non-printable bytes:"
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:168
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Char for undefined bytes:"
+msgstr ""
+
+#. +> stable5
+#: controllers/view/viewprofiles/viewprofileedit.cpp:170
+#, kde-format
+msgid "Char for undefined bytes:"
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/viewprofiles/viewprofilesmanagecontroller.cpp:29
+#, fuzzy, kde-format
+#| msgctxt "@title:menu"
+#| msgid "&View Mode"
+msgctxt "@action:inmenu"
+msgid "Manage View Profiles…"
+msgstr "表示モード(&V)"
+
+#. +> stable5
+#: controllers/view/viewprofiles/viewprofilesmanagecontroller.cpp:31
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Manage View Profiles..."
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/viewprofiles/viewprofilesmanagedialog.cpp:34
+#, fuzzy, kde-format
+#| msgctxt "@title:menu"
+#| msgid "&View Mode"
+msgctxt "@title:window"
+msgid "View Profiles"
+msgstr "表示モード(&V)"
+
+#. +> trunk5
+#: controllers/view/viewprofiles/viewprofilesmanagedialog.cpp:61
+#, fuzzy, kde-format
+#| msgctxt "@label:textbox"
+#| msgid "Pattern:"
+msgctxt "@action:button"
+msgid "&Create New…"
+msgstr "パターン:"
+
+#. +> stable5
+#: controllers/view/viewprofiles/viewprofilesmanagedialog.cpp:63
+#, kde-format
+msgctxt "@action:button"
+msgid "&Create new..."
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/viewprofiles/viewprofilesmanagedialog.cpp:64
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Opens an editor for a new view profile."
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/viewprofiles/viewprofilesmanagedialog.cpp:66
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info:whatsthis"
+#| msgid ""
+#| "If you press the <interface>Copy</interface> button, all strings you "
+#| "selected in the list are copied to the clipboard."
+msgctxt "@info:whatsthis"
+msgid ""
+"If you press the <interface>Create New…</interface> button, an editor is "
+"opened where you can create and edit a new view profile. The values will be "
+"based on the ones of the view profile you selected in the list."
+msgstr ""
+"<interface>コピー</interface>ボタンを押すと、リストで選択したすべての文字列が"
+"クリップボードにコピーされます。"
+
+#. +> stable5
+#: controllers/view/viewprofiles/viewprofilesmanagedialog.cpp:68
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info:whatsthis"
+#| msgid ""
+#| "If you press the <interface>Copy</interface> button, all strings you "
+#| "selected in the list are copied to the clipboard."
+msgctxt "@info:whatsthis"
+msgid ""
+"If you press the <interface>Create new...</interface> button, an editor is "
+"opened where you can create and edit a new view profile. The values will be "
+"based on the ones of the view profile you selected in the list."
+msgstr ""
+"<interface>コピー</interface>ボタンを押すと、リストで選択したすべての文字列が"
+"クリップボードにコピーされます。"
+
+#. +> trunk5
+#: controllers/view/viewprofiles/viewprofilesmanagedialog.cpp:75
+#, kde-format
+msgctxt "@action:button"
+msgid "&Edit…"
+msgstr ""
+
+#. +> stable5
+#: controllers/view/viewprofiles/viewprofilesmanagedialog.cpp:77
+#, kde-format
+msgctxt "@action:button"
+msgid "&Edit..."
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/viewprofiles/viewprofilesmanagedialog.cpp:78
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Opens an editor for the view profile."
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/viewprofiles/viewprofilesmanagedialog.cpp:80
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info:whatsthis"
+#| msgid ""
+#| "If you press the <interface>Copy</interface> button, all strings you "
+#| "selected in the list are copied to the clipboard."
+msgctxt "@info:whatsthis"
+msgid ""
+"If you press the <interface>Edit…</interface> button, an editor will be "
+"opened for the view profile you selected in the list."
+msgstr ""
+"<interface>コピー</interface>ボタンを押すと、リストで選択したすべての文字列が"
+"クリップボードにコピーされます。"
+
+#. +> stable5
+#: controllers/view/viewprofiles/viewprofilesmanagedialog.cpp:82
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info:whatsthis"
+#| msgid ""
+#| "If you press the <interface>Copy</interface> button, all strings you "
+#| "selected in the list are copied to the clipboard."
+msgctxt "@info:whatsthis"
+msgid ""
+"If you press the <interface>Edit...</interface> button, an editor will be "
+"opened for the view profile you selected in the list."
+msgstr ""
+"<interface>コピー</interface>ボタンを押すと、リストで選択したすべての文字列が"
+"クリップボードにコピーされます。"
+
+#. +> trunk5 stable5
+#: controllers/view/viewprofiles/viewprofilesmanagedialog.cpp:88
+#, kde-format
+msgctxt "@action:button"
+msgid "&Set as Default"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/viewprofiles/viewprofilesmanagedialog.cpp:91
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Sets the selected view profile as default for all views."
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/viewprofiles/viewprofilesmanagedialog.cpp:93
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info:whatsthis"
+#| msgid ""
+#| "If you press the <interface>Copy</interface> button, all strings you "
+#| "selected in the list are copied to the clipboard."
+msgctxt "@info:whatsthis"
+msgid ""
+"If you press the <interface>Set as Default</interface> button, the view "
+"profile you selected in the list is set as default for all views."
+msgstr ""
+"<interface>コピー</interface>ボタンを押すと、リストで選択したすべての文字列が"
+"クリップボードにコピーされます。"
+
+#. +> trunk5 stable5
+#: controllers/view/viewprofiles/viewprofilesmanagedialog.cpp:100
+#, kde-format
+msgctxt "@action:button"
+msgid "&Delete"
+msgstr "削除(&D)"
+
+#. +> trunk5 stable5
+#: controllers/view/viewprofiles/viewprofilesmanagedialog.cpp:103
+#, fuzzy, kde-format
+#| msgctxt "@info:tooltip"
+#| msgid "Deletes all the selected bookmarks."
+msgctxt "@info:tooltip"
+msgid "Deletes the selected view profile."
+msgstr "選択したすべてのブックマークを削除します"
+
+#. +> trunk5 stable5
+#: controllers/view/viewprofiles/viewprofilesmanagedialog.cpp:105
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info:whatsthis"
+#| msgid ""
+#| "If you press the <interface>Copy</interface> button, all strings you "
+#| "selected in the list are copied to the clipboard."
+msgctxt "@info:whatsthis"
+msgid ""
+"If you press the <interface>Delete</interface> button, the view profile you "
+"selected in the list is deleted."
+msgstr ""
+"<interface>コピー</interface>ボタンを押すと、リストで選択したすべての文字列が"
+"クリップボードにコピーされます。"
+
+#. +> trunk5 stable5
+#: controllers/view/viewprofiles/viewprofilesmanagedialog.cpp:172
+#, kde-format
+msgid "Modification of %1"
+msgstr ""
+
+#. +> trunk5
+#: controllers/view/viewprofiles/viewprofilesmanagedialog.cpp:209
+#, fuzzy, kde-format
+#| msgctxt "@title:menu"
+#| msgid "&View Mode"
+msgctxt "@title:window"
+msgid "\"%1\" View Profile"
+msgstr "表示モード(&V)"
+
+#. +> stable5
+#: controllers/view/viewprofiles/viewprofilesmanagedialog.cpp:211
+#, fuzzy, kde-format
+#| msgctxt "@title:menu"
+#| msgid "&View Mode"
+msgctxt "@window:title"
+msgid "\"%1\" View Profile"
+msgstr "表示モード(&V)"
+
+#. +> trunk5 stable5
+#: controllers/view/viewstatus/viewstatuscontroller.cpp:41
+#, kde-format
+msgctxt "@info:status short for: Insert mode"
+msgid "INS"
+msgstr "挿入"
+
+#. +> trunk5 stable5
+#: controllers/view/viewstatus/viewstatuscontroller.cpp:42
+#, kde-format
+msgctxt "@info:status short for: Overwrite mode"
+msgid "OVR"
+msgstr "上書き"
+
+#. +> trunk5 stable5
+#: controllers/view/viewstatus/viewstatuscontroller.cpp:43
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Insert mode"
+msgstr "挿入モード"
+
+#. +> trunk5 stable5
+#: controllers/view/viewstatus/viewstatuscontroller.cpp:44
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Overwrite mode"
+msgstr "上書きモード"
+
+#. +> trunk5 stable5
+#: controllers/view/viewstatus/viewstatuscontroller.cpp:60
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Coding of the value interpretation in the current view."
+msgstr "現在のビューの値の基数"
+
+#. +> trunk5 stable5
+#: controllers/view/viewstatus/viewstatuscontroller.cpp:69
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Encoding in the character column of the current view."
+msgstr "現在のビューの文字カラムのエンコーディング"
+
+#. +> trunk5 stable5
+#: controllers/view/viewstatus/viewstatuscontroller.cpp:117
+#: controllers/view/viewstatus/viewstatuscontroller.cpp:224
+#, kde-format
+msgid "Offset: %1"
+msgstr "オフセット: %1"
+
+#. +> trunk5 stable5
+#: controllers/view/viewstatus/viewstatuscontroller.cpp:126
+#, fuzzy, kde-format
+#| msgid " byte"
+#| msgid_plural " bytes"
+msgid "%1 bytes"
+msgstr " バイト"
+
+#. +> trunk5 stable5
+#: controllers/view/viewstatus/viewstatuscontroller.cpp:128
+#, kde-format
+msgctxt "@info:status selection: start offset - end offset ()"
+msgid "Selection: %1 - %2 (%3)"
+msgstr ""
+
+#. +> trunk5 stable5
+#: controllers/view/viewstatus/viewstatuscontroller.cpp:211
+#, kde-format
+msgctxt "@info:status offset value not available"
+msgid "Offset: -"
+msgstr "オフセット: -"
+
+#. +> trunk5 stable5
+#: controllers/view/viewstatus/viewstatuscontroller.cpp:212
+#: controllers/view/viewstatus/viewstatuscontroller.cpp:245
+#, kde-format
+msgctxt "@info:status offset value not available"
+msgid "Selection: -"
+msgstr "選択: -"
+
+#. +> trunk5 stable5
+#: controllers/view/viewstatus/viewstatuscontroller.cpp:243
+#, kde-format
+msgctxt "@info:status selection: start offset - end offset (number of bytes)"
+msgid "Selection: %1 - %2 (%3)"
+msgstr "選択: %1 - %2 (%3)"
+
+#. +> trunk5 stable5
+#: core/document/bytearraydocument.cpp:50
+#, kde-format
+msgctxt "name of the data type"
+msgid "Byte Array"
+msgstr "バイト配列"
+
+#. +> trunk5 stable5
+#: core/document/bytearraydocumentfactory.cpp:40
+#, kde-format
+msgctxt "The byte array was new created."
+msgid "New created."
+msgstr "新しく作成されました。"
+
+#. +> trunk5 stable5
+#: core/document/bytearraydocumentfactory.cpp:47
+#: core/document/bytearraydocumentfactory.cpp:121
+#, kde-format
+msgctxt "numbered title for a created document without a filename"
+msgid "[New Byte Array]"
+msgid_plural "[New Byte Array %1]"
+msgstr[0] "[新しいバイト配列 %1]"
+
+#. +> trunk5 stable5
+#: core/document/bytearraydocumentfactory.cpp:114
+#, kde-format
+msgctxt "origin of the byte array"
+msgid "Created from data."
+msgstr ""
+
+#. +> trunk5 stable5
+#: core/io/filesystem/bytearrayrawfileloadthread.cpp:55
+#, kde-format
+msgctxt "destination of the byte array"
+msgid "Loaded from file."
+msgstr "ファイルから読み込みました。"
+
+#. +> trunk5 stable5
+#: core/io/filesystem/bytearrayrawfileloadthread.cpp:62
+#: core/io/filesystem/bytearrayrawfilereloadthread.cpp:53
+#, kde-format
+msgid "There is not enough free working memory to load this file."
+msgstr ""
+
+#. +> trunk5 stable5
+#: core/io/filesystem/bytearrayrawfileloadthread.cpp:65
+#: core/io/filesystem/bytearrayrawfilereloadthread.cpp:56
+#, kde-format
+msgid "Support to load files larger than 2 GiB has not yet been implemented."
+msgstr ""
+
+#. +> trunk5
+#: gui/io/generator/pattern/bytearraypatterngenerator.cpp:97
+#, fuzzy, kde-format
+#| msgctxt "@item name of the generated data"
+#| msgid "Pattern"
+msgctxt "name of the generated data"
+msgid "Pattern…"
+msgstr "パターン"
+
+#. +> stable5
+#: gui/io/generator/pattern/bytearraypatterngenerator.cpp:108
+#, kde-format
+msgctxt "name of the generated data"
+msgid "Pattern..."
+msgstr "パターン..."
+
+#. +> trunk5
+#: gui/io/generator/pattern/bytearraypatterngenerator.cpp:146
+#, fuzzy, kde-format
+#| msgid "Pattern inserted."
+msgctxt "@item"
+msgid "Pattern Inserted"
+msgstr "パターンが挿入されました。"
+
+#. +> stable5
+#: gui/io/generator/pattern/bytearraypatterngenerator.cpp:157
+#, kde-format
+msgid "Pattern inserted."
+msgstr "パターンが挿入されました。"
+
+#. +> trunk5 stable5
+#: gui/io/generator/pattern/bytearraypatterngeneratorconfigeditor.cpp:33
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Pattern:"
+msgstr "パターン:"
+
+#. +> trunk5 stable5
+#: gui/io/generator/pattern/bytearraypatterngeneratorconfigeditor.cpp:42
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Enter a pattern to search for, or select a previous pattern from the list."
+msgstr "検索するパターンを入力するか、以前に使ったものをリストから選択します。"
+
+#. +> trunk5 stable5
+#: gui/io/generator/pattern/bytearraypatterngeneratorconfigeditor.cpp:50
+#, kde-format
+msgctxt "@label:spinbox number of times to insert the pattern"
+msgid "&Number:"
+msgstr "回数(&N):"
+
+#. +> trunk5 stable5
+#: gui/io/generator/pattern/bytearraypatterngeneratorconfigeditor.cpp:58
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Enter the number of times the pattern should be inserted."
+msgstr "パターンを挿入する回数を指定します。"
+
+#. +> trunk5 stable5
+#: gui/io/generator/pattern/bytearraypatterngeneratorconfigeditor.cpp:70
+#, kde-format
+msgctxt "@item name of the generated data"
+msgid "Pattern"
+msgstr "パターン"
+
+#. +> trunk5
+#: gui/io/generator/randomdata/bytearrayrandomdatagenerator.cpp:43
+#, fuzzy, kde-format
+#| msgctxt "@item name of the generated data"
+#| msgid "Random Data"
+msgctxt "name of the generated data"
+msgid "Random Data…"
+msgstr "ランダムデータ"
+
+#. +> stable5
+#: gui/io/generator/randomdata/bytearrayrandomdatagenerator.cpp:58
+#, kde-format
+msgctxt "name of the generated data"
+msgid "Random Data..."
+msgstr ""
+
+#. +> trunk5
+#: gui/io/generator/randomdata/bytearrayrandomdatagenerator.cpp:86
+#, fuzzy, kde-format
+#| msgid "RandomData inserted."
+msgctxt "@item"
+msgid "RandomData Inserted"
+msgstr "ランダムなパターンが挿入されました。"
+
+#. +> stable5
+#: gui/io/generator/randomdata/bytearrayrandomdatagenerator.cpp:111
+#, kde-format
+msgid "RandomData inserted."
+msgstr "ランダムなパターンが挿入されました。"
+
+#. +> trunk5 stable5
+#: gui/io/generator/randomdata/bytearrayrandomdatageneratorconfigeditor.cpp:31
+#, fuzzy, kde-format
+#| msgctxt "@label"
+#| msgid "Size [bytes]: "
+msgctxt "@label:spinbox size of the bytearray to generate"
+msgid "&Size (bytes):"
+msgstr "サイズ (バイト):"
+
+#. +> trunk5 stable5
+#: gui/io/generator/randomdata/bytearrayrandomdatageneratorconfigeditor.cpp:39
+#, fuzzy, kde-format
+#| msgctxt "@info:whatsthis"
+#| msgid "Enter the size of the byte to generate."
+msgctxt "@info:whatsthis"
+msgid "Enter the size of the bytearray to generate."
+msgstr "生成するバイト数を指定します。"
+
+#. +> trunk5 stable5
+#: gui/io/generator/randomdata/bytearrayrandomdatageneratorconfigeditor.cpp:49
+#, kde-format
+msgctxt "@item name of the generated data"
+msgid "Random Data"
+msgstr "ランダムデータ"
+
+#. +> trunk5 stable5
+#: gui/io/generator/sequence/bytearraysequencegenerator.cpp:26
+#, kde-format
+msgctxt "name of the generated data"
+msgid "Sequence"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/generator/sequence/bytearraysequencegenerator.cpp:56
+#, fuzzy, kde-format
+#| msgid "Byte inserted."
+msgctxt "@item"
+msgid "Sequence Inserted"
+msgstr "バイトが挿入されました。"
+
+#. +> stable5
+#: gui/io/generator/sequence/bytearraysequencegenerator.cpp:58
+#, fuzzy, kde-format
+#| msgid "Byte inserted."
+msgid "Sequence inserted."
+msgstr "バイトが挿入されました。"
+
+#. +> trunk5
+#: gui/io/streamcompressor/bzip2/bytearraybzip2streamcompressor.cpp:40
+#, kde-format
+msgctxt "name of the encoding target"
+msgid "bzip2"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamcompressor/bzip2/bytearraybzip2streamcompressorconfigeditor.cpp:29
+#, fuzzy, kde-format
+#| msgctxt "@label:spinbox number of bytes the movement is done within"
+#| msgid "&Group size:"
+msgctxt "@label:spinbox bzip2 "
+msgid "Block size:"
+msgstr "グループサイズ(&G):"
+
+#. +> trunk5
+#: gui/io/streamcompressor/bzip2/bytearraybzip2streamcompressorconfigeditor.cpp:47
+#, kde-format
+msgid "%1 kB"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamcompressor/bzip2/bzip2compressionstream.cpp:33
+#, kde-format
+msgid "Internal bzip2 error: %1"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamcompressor/bzip2/bzip2compressionstream.cpp:47
+#, kde-format
+msgid "Error code %1"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamcompressor/bzip2/bzip2compressionstream.cpp:66
+#: gui/io/streamcompressor/deflate/deflatecompressionstream.cpp:69
+#: gui/io/streamcompressor/gzip/gzipcompressionstream.cpp:71
+#, kde-format
+msgid "Internal zlib error when compressing: %1"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamcompressor/bzip2/bzip2compressionstream.cpp:75
+#: gui/io/streamcompressor/deflate/deflatecompressionstream.cpp:79
+#: gui/io/streamcompressor/gzip/gzipcompressionstream.cpp:81
+#: gui/io/streamcompressor/xz/xzcompressionstream.cpp:75
+#: gui/io/streamcompressor/zstd/zstdcompressionstream.cpp:91
+#, kde-format
+msgid "Error writing to output: %1"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamcompressor/deflate/bytearraydeflatestreamcompressor.cpp:117
+#, fuzzy, kde-format
+#| msgctxt "@title:window prompt for iterative replacement"
+#| msgid "Replace"
+msgctxt "name of the encoding target"
+msgid "deflate"
+msgstr "置換"
+
+#. +> trunk5
+#: gui/io/streamcompressor/deflate/bytearraydeflatestreamcompressorconfigeditor.cpp:29
+#: gui/io/streamcompressor/gzip/bytearraygzipstreamcompressorconfigeditor.cpp:31
+#: gui/io/streamcompressor/zstd/bytearrayzstdstreamcompressorconfigeditor.cpp:28
+#, kde-format
+msgctxt "@label:spinbox"
+msgid "Compression level:"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamcompressor/deflate/bytearraydeflatestreamcompressorconfigeditor.cpp:33
+#: gui/io/streamcompressor/gzip/bytearraygzipstreamcompressorconfigeditor.cpp:35
+#: gui/io/streamcompressor/zstd/bytearrayzstdstreamcompressorconfigeditor.cpp:32
+#, kde-format
+msgctxt "@item:inmenu compression level"
+msgid "Default"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamcompressor/deflate/bytearraydeflatestreamcompressorconfigeditor.cpp:41
+#: gui/io/streamcompressor/gzip/bytearraygzipstreamcompressorconfigeditor.cpp:43
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Compression strategy:"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamcompressor/deflate/bytearraydeflatestreamcompressorconfigeditor.cpp:46
+#: gui/io/streamcompressor/gzip/bytearraygzipstreamcompressorconfigeditor.cpp:48
+#, kde-format
+msgctxt "@item:inmenu compression strategy"
+msgid "Default"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamcompressor/deflate/bytearraydeflatestreamcompressorconfigeditor.cpp:48
+#: gui/io/streamcompressor/gzip/bytearraygzipstreamcompressorconfigeditor.cpp:50
+#, fuzzy, kde-format
+#| msgctxt "@action:button"
+#| msgid "&Filter"
+msgctxt "@item:inmenu compression strategy"
+msgid "Filter"
+msgstr "フィルタ(&F)"
+
+#. +> trunk5
+#: gui/io/streamcompressor/deflate/bytearraydeflatestreamcompressorconfigeditor.cpp:50
+#: gui/io/streamcompressor/gzip/bytearraygzipstreamcompressorconfigeditor.cpp:52
+#, kde-format
+msgctxt "@item:inmenu compression strategy"
+msgid "Huffman Encoding Only"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamcompressor/deflate/bytearraydeflatestreamcompressorconfigeditor.cpp:52
+#: gui/io/streamcompressor/gzip/bytearraygzipstreamcompressorconfigeditor.cpp:54
+#, fuzzy, kde-format
+#| msgctxt "name of the encoding target"
+#| msgid "Uuencoding"
+msgctxt "@item:inmenu compression strategy"
+msgid "Run-Length Encoding"
+msgstr "uuencode"
+
+#. +> trunk5
+#: gui/io/streamcompressor/deflate/bytearraydeflatestreamcompressorconfigeditor.cpp:54
+#: gui/io/streamcompressor/gzip/bytearraygzipstreamcompressorconfigeditor.cpp:56
+#, kde-format
+msgctxt "@item:inmenu compression strategy"
+msgid "Fixed Huffman Encoding"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamcompressor/deflate/bytearraydeflatestreamcompressorconfigeditor.cpp:65
+#, kde-format
+msgctxt "@option:check Create deflate stream without headers or footers"
+msgid "Create raw variant:"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamcompressor/deflate/deflatecompressionstream.cpp:32
+#: gui/io/streamcompressor/gzip/gzipcompressionstream.cpp:34
+#: gui/io/streamcompressor/gzip/gzipcompressionstream.cpp:112
+#, kde-format
+msgid "Internal zlib error: %1"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamcompressor/deflate/deflatecompressionstream.cpp:50
+#: gui/io/streamcompressor/gzip/gzipcompressionstream.cpp:52
+#, kde-format
+msgid "Unknown zlib error, code %1"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamcompressor/gzip/bytearraygzipstreamcompressor.cpp:90
+#, kde-format
+msgctxt "name of the encoding target"
+msgid "gzip"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamcompressor/gzip/bytearraygzipstreamcompressorconfigeditor.cpp:65
+#, fuzzy, kde-format
+#| msgctxt "@title:window"
+#| msgid "File Info"
+msgctxt "@label:textbox"
+msgid "File name:"
+msgstr "ファイル情報"
+
+#. +> trunk5
+#: gui/io/streamcompressor/gzip/bytearraygzipstreamcompressorconfigeditor.cpp:77
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Comment:"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamcompressor/iodevicebytearrayoutput.cpp:19
+#, kde-format
+msgid "Error writing to underlying device: %1"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamcompressor/xz/bytearrayxzstreamcompressor.cpp:116
+#, kde-format
+msgctxt "name of the encoding target"
+msgid "xz"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamcompressor/xz/bytearrayxzstreamcompressorconfigeditor.cpp:29
+#, kde-format
+msgctxt "@label:spinbox"
+msgid "Compression preset level:"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamcompressor/xz/bytearrayxzstreamcompressorconfigeditor.cpp:33
+#, kde-format
+msgctxt "@item:inmenu compression preset level"
+msgid "Default"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamcompressor/xz/bytearrayxzstreamcompressorconfigeditor.cpp:42
+#, kde-format
+msgctxt "@option:check Use extreme variant of compression preset level"
+msgid "Use extreme variant:"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamcompressor/xz/bytearrayxzstreamcompressorconfigeditor.cpp:52
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Integrity check:"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamcompressor/xz/bytearrayxzstreamcompressorconfigeditor.cpp:57
+#, fuzzy, kde-format
+#| msgctxt "@item There are no windows."
+#| msgid "None."
+msgctxt "@item:inmenu integrity check"
+msgid "None"
+msgstr "ありません。"
+
+#. +> trunk5
+#: gui/io/streamcompressor/xz/bytearrayxzstreamcompressorconfigeditor.cpp:59
+#, kde-format
+msgctxt "@item:inmenu integrity check"
+msgid "CRC32"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamcompressor/xz/bytearrayxzstreamcompressorconfigeditor.cpp:61
+#, kde-format
+msgctxt "@item:inmenu integrity check"
+msgid "CRC64"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamcompressor/xz/bytearrayxzstreamcompressorconfigeditor.cpp:63
+#, fuzzy, kde-format
+#| msgctxt "name of the hash algorithm"
+#| msgid "SHA-256"
+msgctxt "@item:inmenu integrity check"
+msgid "SHA-256"
+msgstr "SHA-256"
+
+#. +> trunk5
+#: gui/io/streamcompressor/xz/xzcompressionstream.cpp:28
+#, kde-format
+msgid "Could not initialize lzma stream."
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamcompressor/xz/xzcompressionstream.cpp:46
+#, kde-format
+msgid "Unknown lzma error, code %1"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamcompressor/xz/xzcompressionstream.cpp:65
+#, kde-format
+msgid "Internal lzma error when compressing: %1"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamcompressor/zstd/bytearrayzstdstreamcompressor.cpp:46
+#, kde-format
+msgctxt "name of the encoding target"
+msgid "ZStandard"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamcompressor/zstd/bytearrayzstdstreamcompressorconfigeditor.cpp:39
+#, kde-format
+msgctxt "@option:check"
+msgid "Content size in frame header:"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamcompressor/zstd/bytearrayzstdstreamcompressorconfigeditor.cpp:47
+#, kde-format
+msgctxt "@option:check"
+msgid "Content checksum at frame end:"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamcompressor/zstd/zstdcompressionstream.cpp:24
+#, kde-format
+msgid "Could not create zstd stream context."
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamcompressor/zstd/zstdcompressionstream.cpp:29
+#: gui/io/streamcompressor/zstd/zstdcompressionstream.cpp:35
+#: gui/io/streamcompressor/zstd/zstdcompressionstream.cpp:43
+#, kde-format
+msgid "Internal zstd error on setup: %1"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamcompressor/zstd/zstdcompressionstream.cpp:65
+#, kde-format
+msgid "Unknown zstd error, code %1"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamcompressor/zstd/zstdcompressionstream.cpp:84
+#, kde-format
+msgid "Internal zstd error when compressing: %1"
+msgstr ""
+
+#. +> trunk5 stable5
+#: gui/io/streamencoder/base32/bytearraybase32streamencoder.cpp:132
+#, kde-format
+msgctxt "name of the encoding target"
+msgid "Base32"
+msgstr "Base32"
+
+# ACCELERATOR changed by translator
+#. +> trunk5 stable5
+#: gui/io/streamencoder/base32/bytearraybase32streamencoderconfigeditor.cpp:31
+#, fuzzy, kde-format
+#| msgctxt "@title:menu"
+#| msgid "&Char Encoding"
+msgctxt ""
+"@label:listbox the type of the used encoding: Classic, Base32hex or z-"
+"base-32."
+msgid "Encoding:"
+msgstr "文字コード(&E)"
+
+#. +> trunk5 stable5
+#: gui/io/streamencoder/base32/bytearraybase32streamencoderconfigeditor.cpp:36
+#, kde-format
+msgctxt "@item:inmenu Doing the base32 using the classical encoding"
+msgid "Classic"
+msgstr ""
+
+#. +> trunk5 stable5
+#: gui/io/streamencoder/base32/bytearraybase32streamencoderconfigeditor.cpp:38
+#, kde-format
+msgctxt "@item:inmenu Doing the base32 using the Base32hex encoding"
+msgid "Base32hex"
+msgstr "Base32hex"
+
+#. +> trunk5 stable5
+#: gui/io/streamencoder/base32/bytearraybase32streamencoderconfigeditor.cpp:40
+#, kde-format
+msgctxt "@item:inmenu Doing the base32 using the z-base-32 encoding"
+msgid "z-base-32"
+msgstr "z-base-32"
+
+#. +> trunk5 stable5
+#: gui/io/streamencoder/base64/bytearraybase64streamencoder.cpp:41
+#, kde-format
+msgctxt "name of the encoding target"
+msgid "Base64"
+msgstr "Base64"
+
+#. +> trunk5 stable5
+#: gui/io/streamencoder/base85/bytearraybase85streamencoder.cpp:44
+#, kde-format
+msgctxt "name of the encoding target"
+msgid "Ascii85"
+msgstr "Ascii85"
+
+#. +> trunk5
+#: gui/io/streamencoder/bytearraytextstreamencoderpreview.cpp:25
+#, fuzzy, kde-format
+#| msgctxt "@title:group"
+#| msgid "Preview (max. first 100 bytes)"
+msgctxt "@info:tooltip"
+msgid "The preview uses maximally the first 100 bytes."
+msgstr "プレビュー (最大で最初の 100 バイト)"
+
+#. +> stable5
+#: gui/io/streamencoder/bytearraytextstreamencoderpreview.cpp:27
+#, fuzzy, kde-format
+#| msgctxt "@title:group"
+#| msgid "Preview (max. first 100 bytes)"
+msgid "The preview uses maximal the first 100 bytes."
+msgstr "プレビュー (最大で最初の 100 バイト)"
+
+#. +> trunk5 stable5
+#: gui/io/streamencoder/chars/bytearraycharsstreamencoder.cpp:116
+#, fuzzy, kde-format
+#| msgctxt "@info:tooltip column contains the character with the value"
+#| msgid "Character"
+msgctxt "name of the encoding target"
+msgid "Characters"
+msgstr "文字"
+
+#. +> trunk5
+#: gui/io/streamencoder/chars/bytearraycharsstreamencoderconfigeditor.cpp:32
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Non-printable encode mode:"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamencoder/chars/bytearraycharsstreamencoderconfigeditor.cpp:36
+#, fuzzy, kde-format
+#| msgctxt ""
+#| "@label:textbox byte to use for chars which are not part of the target "
+#| "charset"
+#| msgid "Substitute byte:"
+msgctxt "@item:inmenu encode mode"
+msgid "Substitute"
+msgstr "差し替えバイト:"
+
+#. +> trunk5
+#: gui/io/streamencoder/chars/bytearraycharsstreamencoderconfigeditor.cpp:38
+#, kde-format
+msgctxt "@item:inmenu encode mode"
+msgid "Escape C-Style"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamencoder/chars/bytearraycharsstreamencoderconfigeditor.cpp:51
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Encoding for escaped chars:"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamencoder/chars/bytearraycharsstreamencoderconfigeditor.cpp:55
+#, fuzzy, kde-format
+#| msgid "Hexadecimal"
+msgctxt "@item:inmenu escape value encoding"
+msgid "Hexadecimal"
+msgstr "十六進"
+
+#. +> trunk5
+#: gui/io/streamencoder/chars/bytearraycharsstreamencoderconfigeditor.cpp:57
+#, fuzzy, kde-format
+#| msgctxt "@info:tooltip column contains the value in octal format"
+#| msgid "Octal"
+msgctxt "@item:inmenu escape value encoding"
+msgid "Octal"
+msgstr "八進"
+
+#. +> trunk5 stable5
+#: gui/io/streamencoder/ihex/bytearrayihexstreamencoder.cpp:149
+#, kde-format
+msgctxt "name of the encoding target"
+msgid "Intel Hex"
+msgstr ""
+
+#. +> trunk5 stable5
+#: gui/io/streamencoder/ihex/bytearrayihexstreamencoderconfigeditor.cpp:31
+#: gui/io/streamencoder/srec/bytearraysrecstreamencoderconfigeditor.cpp:31
+#, kde-format
+msgctxt "@label:listbox the size in bits of the addresses."
+msgid "Address size:"
+msgstr ""
+
+#. +> trunk5 stable5
+#: gui/io/streamencoder/ihex/bytearrayihexstreamencoderconfigeditor.cpp:37
+#: gui/io/streamencoder/srec/bytearraysrecstreamencoderconfigeditor.cpp:36
+#, kde-format
+msgctxt "@item:inmenu address size"
+msgid "32-bit"
+msgstr "32 ビット"
+
+#. +> trunk5 stable5
+#: gui/io/streamencoder/ihex/bytearrayihexstreamencoderconfigeditor.cpp:39
+#: gui/io/streamencoder/srec/bytearraysrecstreamencoderconfigeditor.cpp:40
+#, kde-format
+msgctxt "@item:inmenu address size"
+msgid "16-bit"
+msgstr "16 ビット"
+
+#. +> trunk5 stable5
+#: gui/io/streamencoder/ihex/bytearrayihexstreamencoderconfigeditor.cpp:41
+#, kde-format
+msgctxt "@item:inmenu address size"
+msgid "8-bit"
+msgstr "8 ビット"
+
+#. +> trunk5 stable5
+#: gui/io/streamencoder/sourcecode/bytearraysourcecodestreamencoder.cpp:124
+#, kde-format
+msgctxt "name of the encoding target"
+msgid "C Array"
+msgstr "C 配列"
+
+#. +> trunk5 stable5
+#: gui/io/streamencoder/sourcecode/bytearraysourcecodestreamencoderconfigeditor.cpp:34
+#, kde-format
+msgctxt "@label:textbox name of the created variable"
+msgid "Name of variable:"
+msgstr "変数の名前:"
+
+#. +> trunk5 stable5
+#: gui/io/streamencoder/sourcecode/bytearraysourcecodestreamencoderconfigeditor.cpp:45
+#, kde-format
+msgctxt "@label:textbox to define after how many items the list is wrapped"
+msgid "Items per line:"
+msgstr "1 行あたりのアイテム数:"
+
+#. +> trunk5 stable5
+#: gui/io/streamencoder/sourcecode/bytearraysourcecodestreamencoderconfigeditor.cpp:57
+#, kde-format
+msgctxt "@label:listbox the type of the data: char, integer, etc."
+msgid "Data type:"
+msgstr "データのタイプ:"
+
+#. +> trunk5 stable5
+#: gui/io/streamencoder/sourcecode/bytearraysourcecodestreamencoderconfigeditor.cpp:78
+#, kde-format
+msgctxt ""
+"@option:check Encode the values in hexadecimal instead of decimal, if the "
+"datatype has the property Unsigned"
+msgid "Unsigned as hexadecimal:"
+msgstr "符号なしの値は十六進で表す:"
+
+#. +> trunk5 stable5
+#: gui/io/streamencoder/srec/bytearraysrecstreamencoder.cpp:169
+#, kde-format
+msgctxt "name of the encoding target"
+msgid "S-Record"
+msgstr ""
+
+#. +> trunk5 stable5
+#: gui/io/streamencoder/srec/bytearraysrecstreamencoderconfigeditor.cpp:38
+#, kde-format
+msgctxt "@item:inmenu address size"
+msgid "24-bit"
+msgstr ""
+
+#. +> trunk5 stable5
+#: gui/io/streamencoder/uuencoding/bytearrayuuencodingstreamencoder.cpp:116
+#, kde-format
+msgctxt "name of the encoding target"
+msgid "Uuencoding"
+msgstr "uuencode"
+
+#. +> trunk5 stable5
+#: gui/io/streamencoder/uuencoding/bytearrayuuencodingstreamencoderconfigeditor.cpp:32
+#: gui/io/streamencoder/xxencoding/bytearrayxxencodingstreamencoderconfigeditor.cpp:31
+#, kde-format
+msgctxt "@label:textbox file name internally given to the encoded data"
+msgid "Internal name of file:"
+msgstr ""
+
+# ACCELERATOR changed by translator
+#. +> trunk5 stable5
+#: gui/io/streamencoder/uuencoding/bytearrayuuencodingstreamencoderconfigeditor.cpp:43
+#, fuzzy, kde-format
+#| msgctxt "@title:menu"
+#| msgid "&Char Encoding"
+msgctxt "@label:listbox the type of the used encoding: historical or Base64."
+msgid "Encoding:"
+msgstr "文字コード(&E)"
+
+#. +> trunk5 stable5
+#: gui/io/streamencoder/uuencoding/bytearrayuuencodingstreamencoderconfigeditor.cpp:48
+#, kde-format
+msgctxt "@item:inmenu Doing the uuencoding using the historical encoding"
+msgid "Historical"
+msgstr ""
+
+#. +> trunk5 stable5
+#: gui/io/streamencoder/uuencoding/bytearrayuuencodingstreamencoderconfigeditor.cpp:50
+#, kde-format
+msgctxt "@item:inmenu Doing the uuencoding using the base64 encoding"
+msgid "Base64"
+msgstr ""
+
+#. +> trunk5 stable5
+#: gui/io/streamencoder/values/bytearrayvaluesstreamencoder.cpp:54
+#, kde-format
+msgctxt "name of the encoding target"
+msgid "Values"
+msgstr "値"
+
+#. +> trunk5 stable5
+#: gui/io/streamencoder/values/bytearrayvaluesstreamencoderconfigeditor.cpp:31
+#, kde-format
+msgid "Value coding:"
+msgstr "基数:"
+
+#. +> trunk5 stable5
+#: gui/io/streamencoder/values/bytearrayvaluesstreamencoderconfigeditor.cpp:47
+#, kde-format
+msgctxt "@label:textbox substring which separates the values"
+msgid "Separation:"
+msgstr "区切り:"
+
+#. +> trunk5
+#: gui/io/streamencoder/values/bytearrayvaluesstreamencoderconfigeditor.cpp:57
+#, kde-format
+msgctxt "@label:textbox substring which prefixes each value"
+msgid "Prefix:"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamencoder/values/bytearrayvaluesstreamencoderconfigeditor.cpp:68
+#, kde-format
+msgctxt "@label:textbox substring which postfixes each value"
+msgid "Postfix:"
+msgstr ""
+
+#. +> trunk5
+#: gui/io/streamencoder/viewhtml/bytearrayviewhtmlstreamencoder.cpp:34
+#, fuzzy, kde-format
+#| msgctxt "name of the encoding target"
+#| msgid "View in Plain Text"
+msgctxt "name of the encoding target"
+msgid "View in HTML"
+msgstr "表示どおりのプレーンテキスト"
+
+#. +> trunk5 stable5
+#: gui/io/streamencoder/viewtext/bytearrayviewtextstreamencoder.cpp:39
+#, kde-format
+msgctxt "name of the encoding target"
+msgid "View in Plain Text"
+msgstr "表示どおりのプレーンテキスト"
+
+#. +> trunk5 stable5
+#: gui/io/streamencoder/xxencoding/bytearrayxxencodingstreamencoder.cpp:71
+#, fuzzy, kde-format
+#| msgid "Value coding:"
+msgctxt "name of the encoding target"
+msgid "Xxencoding"
+msgstr "基数:"
+
+#. i18nc("@item:inlistbox guessing the format of the address by the input",      "Auto"),
+#. +> trunk5 stable5
+#: gui/liboktetawidgets/addresscombobox_p.cpp:28
+#, kde-format
+msgctxt "@item:inlistbox coding of offset in the hexadecimal format"
+msgid "Hex"
+msgstr "十六進"
+
+#. +> trunk5 stable5
+#: gui/liboktetawidgets/addresscombobox_p.cpp:29
+#, kde-format
+msgctxt "@item:inlistbox coding of offset in the decimal format"
+msgid "Dec"
+msgstr "十進"
+
+#. +> trunk5
+#: gui/liboktetawidgets/addresscombobox_p.cpp:30
+#, fuzzy, kde-format
+#| msgctxt "@title:column short for Octal"
+#| msgid "Oct"
+msgctxt "@item:inlistbox coding of offset in the octal format"
+msgid "Oct"
+msgstr "八進"
+
+# ACCELERATOR added by translator
+#. +> trunk5 stable5
+#: gui/liboktetawidgets/addresscombobox_p.cpp:31
+#, fuzzy, kde-format
+#| msgctxt "@title:menu"
+#| msgid "Export"
+msgctxt "@item:inlistbox coding of offset in the expression format"
+msgid "Expr"
+msgstr "エクスポート(&E)"
+
+#. i18nc("@item:inlistbox guessing the coding of the bytes by the input",       "Auto"),
+#. +> trunk5 stable5
+#: gui/liboktetawidgets/bytearraycombobox_p.cpp:23
+#, kde-format
+msgctxt ""
+"@item:inlistbox coding of the bytes as values in the hexadecimal format"
+msgid "Hex"
+msgstr "十六進"
+
+#. +> trunk5 stable5
+#: gui/liboktetawidgets/bytearraycombobox_p.cpp:24
+#, kde-format
+msgctxt "@item:inlistbox coding of the bytes as values in the decimal format"
+msgid "Dec"
+msgstr "十進"
+
+#. +> trunk5 stable5
+#: gui/liboktetawidgets/bytearraycombobox_p.cpp:25
+#, kde-format
+msgctxt "@item:inlistbox coding of the bytes as values in the octal format"
+msgid "Oct"
+msgstr "八進"
+
+#. +> trunk5 stable5
+#: gui/liboktetawidgets/bytearraycombobox_p.cpp:26
+#, kde-format
+msgctxt "@item:inlistbox coding of the bytes as values in the binary format"
+msgid "Bin"
+msgstr "二進"
+
+#. +> trunk5 stable5
+#: gui/liboktetawidgets/bytearraycombobox_p.cpp:27
+#, fuzzy, kde-format
+#| msgctxt "@title:column short for Character"
+#| msgid "Char"
+msgctxt "@item:inlistbox coding of the bytes as characters with the values"
+msgid "Char"
+msgstr "文字"
+
+#. +> trunk5 stable5
+#: gui/liboktetawidgets/bytearraycombobox_p.cpp:28
+#, kde-format
+msgctxt ""
+"@item:inlistbox coding of the bytes as UTF-8 characters with the values"
+msgid "UTF-8"
+msgstr "UTF-8"
+
+#. +> stable5
+#: controllers/view/structures/datatypes/datainformationwithchildren.cpp:215
+#, kde-format
+msgid ""
+"Name: %2\n"
+"Value: %3\n"
+"\n"
+"Type: %4\n"
+"Size: %5 (%1 child)\n"
+"\n"
+" %6"
+msgid_plural ""
+"Name: %2\n"
+"Value: %3\n"
+"\n"
+"Type: %4\n"
+"Size: %5 (%1 children)\n"
+"\n"
+" %6"
+msgstr[0] ""
+
+#. +> stable5
+#: controllers/view/structures/datatypes/datainformationwithchildren.cpp:220
+#, kde-format
+msgid ""
+"Name: %2\n"
+"Value: %3\n"
+"\n"
+"Type: %4\n"
+"Size: %5 (%1 child)"
+msgid_plural ""
+"Name: %2\n"
+"Value: %3\n"
+"\n"
+"Type: %4\n"
+"Size: %5 (%1 children)"
+msgstr[0] ""
+
+#, fuzzy, kde-format
+#~| msgctxt "@title"
+#~| msgid "Search"
+#~ msgctxt "@info:placeholder"
+#~ msgid "Search..."
+#~ msgstr "検索"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "Overwrite only"
+#~ msgstr "上書きのみ"
+
+#~ msgctxt "@label:spinbox number of bytes to insert"
+#~ msgid "Number:"
+#~ msgstr "数:"
+
+#~ msgid " byte"
+#~ msgid_plural " bytes"
+#~ msgstr[0] " バイト"
+
+#~ msgid " bit"
+#~ msgid_plural " bits"
+#~ msgstr[0] " ビット"
+
+#~ msgctxt "@label:spinbox width (in number of bits) the bits are moved"
+#~ msgid "S&hift width:"
+#~ msgstr "シフト幅(&H):"
+
+#~ msgctxt "advertizer in the footer of the printed page"
+#~ msgid "Okteta, built on KDE4"
+#~ msgstr "Okteta (KDE4 でビルド)"
+
+#, fuzzy
+#~| msgid "<invalid name>"
+#~ msgid "&lt;invalid name&gt;"
+#~ msgstr "<不正な名前>"
+
+#~ msgctxt "@label:spinbox size of the bytes to generate"
+#~ msgid "&Size:"
+#~ msgstr "サイズ(&S):"
+
+#~ msgctxt "@info:whatsthis"
+#~ msgid "Enter the size of the byte to generate."
+#~ msgstr "生成するバイト数を指定します。"
+
+#, fuzzy
+#~| msgctxt ""
+#~| "@label:listbox byte order to use for decoding the bytes into integer "
+#~| "values"
+#~| msgid "Byte Order:"
+#~ msgid "Byte Order:"
+#~ msgstr "バイトオーダー:"
+
+#, fuzzy
+#~| msgctxt "@item:inlistbox"
+#~| msgid "Big endian"
+#~ msgid "Big Endian"
+#~ msgstr "ビッグエンディアン"
+
+#, fuzzy
+#~| msgctxt "@item:inlistbox"
+#~| msgid "Little endian"
+#~ msgid "Little Endian"
+#~ msgstr "リトルエンディアン"
+
+# skip-rule: binary3
+#~ msgid "Binary"
+#~ msgstr "二進"
+
+#~ msgid "Decimal"
+#~ msgstr "十進"
+
+#, fuzzy
+#~| msgctxt "@option:check"
+#~| msgid "Unsigned as hexadecimal"
+#~ msgid "Unsigned values display"
+#~ msgstr "符号なしの値は十六進で表す"
+
+#, fuzzy
+#~| msgctxt "@label:textbox"
+#~| msgid "Unsigned 8-bit:"
+#~ msgctxt "Data type"
+#~ msgid "signed bitfield"
+#~ msgstr "符号なし 8 ビット値:"
+
+#, fuzzy
+#~| msgctxt "@label:textbox"
+#~| msgid "Unsigned 8-bit:"
+#~ msgctxt "Data type"
+#~ msgid "unsigned bitfield"
+#~ msgstr "符号なし 8 ビット値:"
+
+#~ msgid "Validate"
+#~ msgstr "検証"
+
+#~ msgid "Settings"
+#~ msgstr "設定"
+
+#, fuzzy
+#~| msgctxt "@info:whatsthis"
+#~| msgid "Select the operation to use for the filter."
+#~ msgctxt "@info:tooltip"
+#~ msgid "The byte order used to decode the values."
+#~ msgstr "フィルタに使用する演算を選択します。"
+
+#~ msgctxt "@title:menu "
+#~ msgid "Save changes"
+#~ msgstr "変更を保存"
+
+#~ msgctxt "Data type"
+#~ msgid "char"
+#~ msgstr "char"
+
+#~ msgctxt "Data type"
+#~ msgid "double"
+#~ msgstr "double"
+
+#~ msgctxt "Data type"
+#~ msgid "float"
+#~ msgstr "float"
+
+#~ msgctxt "@option:check set the view into overwrite mode"
+#~ msgid "Set Overwrite Mode"
+#~ msgstr "上書きモード"
+
+#~ msgctxt "@option:check set the view into insert mode"
+#~ msgid "Set Insert Mode"
+#~ msgstr "挿入モード"
+
+#~ msgctxt "data type in C/C++"
+#~ msgid "struct"
+#~ msgstr "struct"
+
+#~ msgctxt "data type in C/C++"
+#~ msgid "union"
+#~ msgstr "union"
+
+#~ msgid "Empty array"
+#~ msgstr "空の配列"
+
+#~ msgctxt "array type then length"
+#~ msgid "%1[%2]"
+#~ msgstr "%1[%2]"
+
+#~ msgctxt "subelem type then array name and length"
+#~ msgid "%1[%2] (%3)"
+#~ msgstr "%1[%2] (%3)"
+
+#~ msgctxt "Data type"
+#~ msgid "short"
+#~ msgstr "short"
+
+#~ msgctxt "Data type"
+#~ msgid "int"
+#~ msgstr "int"
+
+#~ msgctxt "Data type"
+#~ msgid "long"
+#~ msgstr "long"
+
+#~ msgctxt "Data type"
+#~ msgid "byte"
+#~ msgstr "byte"
+
+#~ msgctxt "Data type"
+#~ msgid "unsigned short"
+#~ msgstr "符号なし short"
+
+#~ msgctxt "Data type"
+#~ msgid "unsigned int"
+#~ msgstr "符号なし int"
+
+#~ msgctxt "Data type"
+#~ msgid "unsigned long"
+#~ msgstr "符号なし long"
+
+#~ msgctxt "Data type"
+#~ msgid "unsigned byte"
+#~ msgstr "符号なし byte"
+
+#, fuzzy
+#~| msgctxt "@item description of bookmark"
+#~| msgid "%1: %2"
+#~ msgid "%1 (U+%1)"
+#~ msgstr "%1 (%2)"
+
+#~ msgctxt "@info:tooltip"
+#~ msgid "Warning: Byte Array has been modified since last update."
+#~ msgstr "注意: バイト配列は前回更新してから変更されています。"
+
+#~ msgctxt "@title:window"
+#~ msgid "Byte Table"
+#~ msgstr "バイトテーブル"
+
+#, fuzzy
+#~| msgctxt "@title:column title of the bookmark"
+#~| msgid "Title"
+#~ msgid "Titel:"
+#~ msgstr "タイトル"
+
+#, fuzzy
+#~| msgctxt "@title:column description of the change"
+#~| msgid "Changes"
+#~ msgid "Apply Changes"
+#~ msgstr "変更点"
+
+#~ msgctxt "@item name of the encoding result"
+#~ msgid "C Array"
+#~ msgstr "C 配列"
+
+#~ msgctxt "@item name of the encoding result"
+#~ msgid "Values"
+#~ msgstr "値"
+
+#~ msgctxt "name of the encoding target"
+#~ msgid "C Array..."
+#~ msgstr "C 配列..."
+
+#~ msgctxt "name of the encoding target"
+#~ msgid "Plain Text"
+#~ msgstr "プレーンテキスト"
+
+#~ msgctxt "name of the encoding target"
+#~ msgid "Values..."
+#~ msgstr "値..."
+
+#, fuzzy
+#~| msgctxt "@option:check"
+#~| msgid "&Selected bytes"
+#~ msgctxt "@action:pushbutton"
+#~ msgid "Lock structure"
+#~ msgstr "選択したバイトのみ(&S)"
+
+#, fuzzy
+#~| msgctxt "@option:check"
+#~| msgid "&Selected bytes"
+#~ msgctxt "@action:pushbutton"
+#~ msgid "Unlock structure"
+#~ msgstr "選択したバイトのみ(&S)"
+
+# ACCELERATOR changed by translator
+#, fuzzy
+#~| msgctxt "@title:menu"
+#~| msgid "&Char Encoding"
+#~ msgctxt ""
+#~ "@label:listbox the type of the used encoding: historical, xxencoding or "
+#~ "Base64."
+#~ msgid "Encoding:"
+#~ msgstr "文字コード(&E)"
+
+#, fuzzy
+#~| msgctxt "@label:listbox"
+#~| msgid "Fo&rmat:"
+#~ msgid "Form"
+#~ msgstr "フォーマット(&R):"
+
+#, fuzzy
+#~| msgctxt "@label:textbox"
+#~| msgid "Byte String to F&ind:"
+#~ msgctxt "@label:textbox"
+#~ msgid "Byte string to f&ind:"
+#~ msgstr "検索するバイト列(&I):"
+
+#, fuzzy
+#~| msgctxt "@title:group"
+#~| msgid "Replace by"
+#~ msgctxt "@title:group"
+#~ msgid "Replace By"
+#~ msgstr "次で置換"
+
+#~ msgctxt "@label:textbox"
+#~ msgid "Replacing bytes:"
+#~ msgstr "置換バイト:"
+
+#, fuzzy
+#~| msgid "Paste As"
+#~ msgid "Paths"
+#~ msgstr "貼り付け"
+
+#~ msgid "&Go to"
+#~ msgstr "移動(&G)"
+
+#~ msgctxt "@info:tooltip"
+#~ msgid "Executes the filter."
+#~ msgstr "フィルタを実行します"
+
+#~ msgctxt "@item:inlistbox coding of offset in the hexadecimal format"
+#~ msgid "Hexadecimal"
+#~ msgstr "十六進"
+
+#~ msgctxt "@item:inlistbox coding of offset in the decimal format"
+#~ msgid "Decimal"
+#~ msgstr "十進"
+
+#~ msgctxt "@label:listbox"
+#~ msgid "Fo&rmat:"
+#~ msgstr "フォーマット(&R):"
+
+#~ msgctxt "@action:button update the statistic of the byte frequency"
+#~ msgid "&Update"
+#~ msgstr "更新(&U)"
+
+#~ msgctxt "@info:tooltip"
+#~ msgid "Updates the byte frequency statistics."
+#~ msgstr "バイトの出現頻度の情報を更新します"
+
+#, fuzzy
+#~| msgctxt "@action:inmenu"
+#~| msgid "&Insert pattern..."
+#~ msgctxt "@action:inmenu"
+#~ msgid "&Insert Pattern..."
+#~ msgstr "パターンを挿入(&I)..."
+
+#~ msgctxt "@action:button"
+#~ msgid "&Insert"
+#~ msgstr "挿入(&I)"
+
+#~ msgctxt "@info:tooltip"
+#~ msgid "Insert the pattern"
+#~ msgstr "パターンを挿入します"
+
+#~ msgctxt "@info:whatsthis"
+#~ msgid ""
+#~ "If you press the <interface>Insert</interface> button, the pattern you "
+#~ "entered above is inserted in the byte array at the cursor position."
+#~ msgstr ""
+#~ "<interface>挿入</interface>ボタンを押すと、上で入力したパターンがバイト配"
+#~ "列のカーソル位置に挿入されます。"
+
+#~ msgctxt "@title:group"
+#~ msgid "Insert"
+#~ msgstr "挿入"
+
+#~ msgctxt ""
+#~ "@item:inlistbox coding of the bytes as values in the hexadecimal format"
+#~ msgid "Hexadecimal"
+#~ msgstr "十六進"
+
+#~ msgctxt ""
+#~ "@item:inlistbox coding of the bytes as values in the decimal format"
+#~ msgid "Decimal"
+#~ msgstr "十進"
+
+#, fuzzy
+#~| msgctxt "@info:tooltip column contains the value in octal format"
+#~| msgid "Octal"
+#~ msgctxt "@item:inlistbox coding of the bytes as values in the octal format"
+#~ msgid "Octal"
+#~ msgstr "八進"
+
+#~ msgctxt "@item:inlistbox coding of the bytes as values in the binary format"
+#~ msgid "Binary"
+#~ msgstr "二進"
+
+#~ msgctxt "@item:inlistbox coding of the bytes as characters with the values"
+#~ msgid "Character(s)"
+#~ msgstr "文字"
+
+#~ msgctxt "@action:button update the list of strings extracted"
+#~ msgid "&Update"
+#~ msgstr "更新(&U)"
+
+#~ msgctxt "@info:whatsthis"
+#~ msgid ""
+#~ "If you press the <interface>Update</interface> button, the list will be "
+#~ "updated to all strings which are contained in the selected range and have "
+#~ "the set minimum length."
+#~ msgstr ""
+#~ "<interface>更新</interface>ボタンを押すと、選択範囲に含まれる最低文字数以"
+#~ "上の文字列がリストに表示されます。"
+
+#~ msgid "Okteta"
+#~ msgstr "Okteta"
+
+#~ msgid "KDE byte editor"
+#~ msgstr "KDE バイナリエディタ"
+
+#~ msgid "Copyright 2006-2009 Friedrich W. H. Kossebau"
+#~ msgstr "Copyright 2006-2009 Friedrich W. H. Kossebau"
+
+#, fuzzy
+#~| msgctxt "@info:tooltip"
+#~| msgid "Export the selected data to a file."
+#~ msgid "Edit the raw data of files"
+#~ msgstr "選択したデータをファイルにエクスポートします"
+
+#~ msgid "Friedrich W. H. Kossebau"
+#~ msgstr "Friedrich W. H. Kossebau"
+
+#, fuzzy
+#~| msgctxt "@title:group"
+#~| msgid "Go to"
+#~ msgctxt "@title:group"
+#~ msgid "Go To"
+#~ msgstr "移動"
+
+#~ msgctxt "@title:window"
+#~ msgid "Info"
+#~ msgstr "情報"
+
+# ACCELERATOR added by translator
+#~ msgctxt "@title:menu"
+#~ msgid "Permissions"
+#~ msgstr "パーミッション(&M)"
+
+# ACCELERATOR added by translator
+#~ msgctxt "@title:menu"
+#~ msgid "Insert"
+#~ msgstr "挿入(&I)"
+
+# ACCELERATOR added by translator
+#~ msgctxt "@title:menu"
+#~ msgid "Import"
+#~ msgstr "インポート(&I)"
+
+#~ msgid "&Windows"
+#~ msgstr "ウィンドウ(&W)"
+
+#~ msgid "Main Toolbar"
+#~ msgstr "メインツールバー"
+
+#~ msgid "Conversion &Field"
+#~ msgstr "変換フィールド(&F)"
+
+#~ msgid "Searc&h Bar"
+#~ msgstr "検索バー(&H)"
+
+#~ msgid "File(s) to load"
+#~ msgstr "読み込むファイル"
+
+#~ msgctxt "@option:check the document is read-write"
+#~ msgid "Read-write"
+#~ msgstr "読み書き可能"
+
+#~ msgctxt "@option:check the document is read-only"
+#~ msgid "Read-only"
+#~ msgstr "読み取り専用"
+
+#~ msgctxt "@option:check set the document to read-only"
+#~ msgid "Set Read-only"
+#~ msgstr "読み取り専用"
+
+#~ msgctxt "@option:check set the document to read-write"
+#~ msgid "Set Read-write"
+#~ msgstr "読み書き可能"
+
+#~ msgctxt "@title:column Id of the version"
+#~ msgid "Id"
+#~ msgstr "ID"
+
+#~ msgctxt "@info:tooltip"
+#~ msgid "Id of the version"
+#~ msgstr "バージョンの ID"
+
+#~ msgctxt "@info:tooltip"
+#~ msgid "Description of what changed"
+#~ msgstr "変更点の説明"
+
+#~ msgctxt "@title:column description of the change"
+#~ msgid "Title"
+#~ msgstr "タイトル"
+
+#~ msgctxt "@info:tooltip"
+#~ msgid "Title of the document"
+#~ msgstr "文書のタイトル"
+
+#~ msgctxt "@title:window"
+#~ msgid "Documents"
+#~ msgstr "文書"
+
+#~ msgctxt "@title:window"
+#~ msgid "Filesystem"
+#~ msgstr "ファイルシステム"
+
+#, fuzzy
+#~| msgctxt "@info:tooltip"
+#~| msgid "Title of the document"
+#~ msgctxt "@action:intoolbar"
+#~ msgid "Folder of Current Document"
+#~ msgstr "文書のタイトル"
+
+#~ msgctxt "@item There are no encoders."
+#~ msgid "Not available."
+#~ msgstr "利用できません"
+
+#~ msgctxt "@title:window"
+#~ msgid "Copy As"
+#~ msgstr "形式を選択してコピー"
+
+#~ msgctxt "@action:button"
+#~ msgid "&Copy to clipboard"
+#~ msgstr "クリップボードにコピー(&C)"
+
+#~ msgctxt "@info:tooltip"
+#~ msgid "Copy the selected data to the clipboard."
+#~ msgstr "選択したデータをクリップボードにコピーします"
+
+#~ msgctxt "@info:whatsthis"
+#~ msgid ""
+#~ "If you press the <interface>Copy to clipboard</interface> button, the "
+#~ "selected data will be copied to the clipboard with the settings you "
+#~ "entered above."
+#~ msgstr ""
+#~ "<interface>クリップボードにコピー</interface>ボタンを押すと、選択したデー"
+#~ "タが上の設定に従ってクリップボードにコピーされます。"
+
+#~ msgctxt "@item There are no exporters."
+#~ msgid "Not available."
+#~ msgstr "利用できません"
+
+#~ msgctxt "@title:window"
+#~ msgid "Export"
+#~ msgstr "エクスポート"
+
+#, fuzzy
+#~| msgctxt "@action:button"
+#~| msgid "&Export to file"
+#~ msgctxt "@action:button"
+#~ msgid "&Export to File..."
+#~ msgstr "ファイルにエクスポート(&E)"
+
+#~ msgctxt "@info:tooltip"
+#~ msgid "Export the selected data to a file."
+#~ msgstr "選択したデータをファイルにエクスポートします"
+
+# ACCELERATOR added by translator
+#~ msgctxt "@action:inmenu"
+#~ msgid "Undo"
+#~ msgstr "元に戻す(&U)"
+
+# ACCELERATOR added by translator
+#~ msgctxt "@action:inmenu"
+#~ msgid "Redo"
+#~ msgstr "やり直す(&D)"
+
+#~ msgctxt "@action Undo: [change]"
+#~ msgid "Undo: %1"
+#~ msgstr "元に戻す: %1"
+
+#~ msgctxt "@action Redo: [change]"
+#~ msgid "Redo: %1"
+#~ msgstr "やり直す: %1"
+
+#~ msgid "Zoom"
+#~ msgstr "ズーム"
+
+#~ msgctxt "zoom-factor (percentage)"
+#~ msgid "%1%"
+#~ msgstr "%1%"
+
+#~ msgid "&Fit to Width"
+#~ msgstr "幅に合わせる(&F)"
+
+#~ msgid "&Fit to Height"
+#~ msgstr "高さに合わせる(&F)"
+
+#~ msgid "&Fit to Size"
+#~ msgstr "ページに合わせる(&F)"
+
+#~ msgctxt "@info:tooltip"
+#~ msgid "Zoom: %1%"
+#~ msgstr "ズーム率: %1%"
+
+#~ msgctxt "@info"
+#~ msgid "Problem while synching with local filesystem."
+#~ msgstr "ローカルファイルシステムとの同期中に問題が発生しました。"
+
+#~ msgctxt "@info"
+#~ msgid "Problem while saving to local filesystem."
+#~ msgstr "ローカルファイルシステムへの保存中に問題が発生しました。"
+
+#~ msgctxt "@info"
+#~ msgid "Problem while loading from local filesystem."
+#~ msgstr "ローカルファイルシステムからの読み込み中に問題が発生しました。"
+
+#~ msgctxt "@info"
+#~ msgid ""
+#~ "There is already a file at<nl/><filename>%1</filename>.<nl/>Overwrite?"
+#~ msgstr ""
+#~ "ファイル <filename>%1</filename> は既に存在します。<nl/>上書きしますか？"
+
+#~ msgctxt "@title:window"
+#~ msgid "Close"
+#~ msgstr "閉じる"
+
+#~ msgctxt "@info \"%title\" has been modified."
+#~ msgid ""
+#~ "<filename>%1</filename> has been modified.<nl/>Do you want to save your "
+#~ "changes or discard them?"
+#~ msgstr ""
+#~ "<filename>%1</filename> は変更されています。<nl/>変更を保存しますか？それ"
+#~ "とも破棄しますか？"
+
+#~ msgctxt "@info \"%title\" has been modified."
+#~ msgid ""
+#~ "<filename>%1</filename> has been modified.<nl/>Do you want to discard "
+#~ "your changes?"
+#~ msgstr ""
+#~ "<filename>%1</filename> は変更されています。<nl/>変更を破棄しますか？"
+
+#~ msgid "KDE bytes editor"
+#~ msgstr "KDE バイナリエディタ"
+
+#~ msgid "Copyright 2006-2008 Friedrich W. H. Kossebau"
+#~ msgstr "Copyright 2006-2008 Friedrich W. H. Kossebau"
+
+#~ msgid "Edit files as an array of bytes"
+#~ msgstr "ファイルをバイト配列として編集します"
+
+#~ msgctxt "@option:check the document is read-only"
+#~ msgid "Read only"
+#~ msgstr "読み取り専用"
+
+# ACCELERATOR added by translator
+#~ msgctxt "@title:menu"
+#~ msgid "Copy as"
+#~ msgstr "形式を選択してコピー(&Y)"
+
+#~ msgctxt "@action:button"
+#~ msgid "&Export to file"
+#~ msgstr "ファイルにエクスポート(&E)"
+
+#~ msgctxt "@info"
+#~ msgid "Problem when synching with local filesystem."
+#~ msgstr "ローカルファイルシステムとの同期で問題が発生しました。"
+
+#~ msgctxt "@info"
+#~ msgid "Problem when saving to local filesystem."
+#~ msgstr "ローカルファイルシステムへの保存で問題が発生しました。"
+
+#~ msgctxt "@info"
+#~ msgid "Problem when loading from local filesystem."
+#~ msgstr "ローカルファイルシステムからの読み込みで問題が発生しました。"
+
+# ACCELERATOR added by translator
+#~ msgctxt "@action:inmenu"
+#~ msgid "Goto Next Bookmark"
+#~ msgstr "次のブックマークに移動(&N)"
+
+# ACCELERATOR added by translator
+#~ msgctxt "@action:inmenu"
+#~ msgid "Goto Previous Bookmark"
+#~ msgstr "前のブックマークに移動(&P)"
+
+#~ msgctxt "@item description of bookmark"
+#~ msgid "Offset: %1"
+#~ msgstr "オフセット: %1"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "&Goto Offset..."
+#~ msgstr "オフセットへ移動(&G)..."
+
+#~ msgctxt "@title:group"
+#~ msgid "Go to"
+#~ msgstr "移動"
+
+#~ msgctxt "@title:window"
+#~ msgid "Statistic"
+#~ msgstr "統計"
+
+#~ msgctxt "@info:tooltip"
+#~ msgid "Updates the statistic of the byte frequency."
+#~ msgstr "バイトの出現頻度の情報を更新します"
+
+#~ msgctxt "@info:whatsthis"
+#~ msgid ""
+#~ "If you press the <interface>Update</interface> button, the statistic of "
+#~ "the byte frequency is updated."
+#~ msgstr ""
+#~ "<interface>更新</interface>ボタンを押すと、バイトの出現頻度の情報が更新さ"
+#~ "れます。"
+
+#~ msgctxt "@info:status the statistic is not uptodate"
+#~ msgid "Warning: not uptodate"
+#~ msgstr "注意: 最新の情報ではありません"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "&Insert pattern..."
+#~ msgstr "パターンを挿入(&I)..."
+
+#~ msgctxt "@info:whatsthis"
+#~ msgid ""
+#~ "If you press the <interface>Insert</interface> button, the pattern you "
+#~ "entered above are inserted in the byte array at the cursor position."
+#~ msgstr ""
+#~ "<interface>挿入</interface>ボタンを押すと、上で入力したパターンがバイト配"
+#~ "列のカーソル位置に挿入されます。"
+
+#~ msgctxt "@info:whatsthis"
+#~ msgid "Enter the number for how often the pattern should be inserted."
+#~ msgstr "パターンを挿入する回数を指定します。"
+
+#~ msgctxt "@item:inlistbox cding of the bytes as values in the octal format"
+#~ msgid "Octal"
+#~ msgstr "八進"
+
+#~ msgctxt "@label:textbox"
+#~ msgid "Byte String to F&ind:"
+#~ msgstr "検索するバイト列(&I):"
+
+#~ msgctxt "@label:textbox encoding of one byte as value in the binary format"
+#~ msgid "Binary 8 bit:"
+#~ msgstr "8 ビットの二進数:"
+
+#~ msgctxt "@label:textbox encoding of one byte as value in the octal format"
+#~ msgid "Octal 8 bit:"
+#~ msgstr "8 ビットの八進数:"
+
+#~ msgctxt ""
+#~ "@label:textbox encoding of one byte as value in the hexadecimal format"
+#~ msgid "Hexadecimal 8 bit:"
+#~ msgstr "8 ビットの十六進数:"
+
+#~ msgctxt "@label:textbox"
+#~ msgid "Signed 8 bit:"
+#~ msgstr "符号付き 8 ビット値:"
+
+#~ msgctxt "@label:textbox"
+#~ msgid "Signed 16 bit:"
+#~ msgstr "符号付き 16 ビット値:"
+
+#~ msgctxt "@label:textbox"
+#~ msgid "Unsigned 16 bit:"
+#~ msgstr "符号なし 16 ビット値:"
+
+#~ msgctxt "@label:textbox"
+#~ msgid "Signed 32 bit:"
+#~ msgstr "符号付き 32 ビット値:"
+
+#~ msgctxt "@label:textbox"
+#~ msgid "Unsigned 32 bit:"
+#~ msgstr "符号なし 32 ビット値:"
+
+#~ msgctxt "@label:textbox"
+#~ msgid "Signed 64 bit:"
+#~ msgstr "符号付き 64 ビット値:"
+
+#~ msgctxt "@label:textbox"
+#~ msgid "Unsigned 64 bit:"
+#~ msgstr "符号なし 64 ビット値:"
+
+#~ msgctxt "@label:textbox"
+#~ msgid "Float 32 bit:"
+#~ msgstr "32 ビットの浮動小数点数:"
+
+#~ msgctxt "@label:textbox"
+#~ msgid "Float 64 bit:"
+#~ msgstr "64 ビットの浮動小数点数:"
+
+#~ msgctxt "@info:tooltip for column Type"
+#~ msgid "type of the data "
+#~ msgstr "データのタイプ"
+
+#~ msgctxt "@info:tooltip for column Value"
+#~ msgid "value of the bytes for the datatype"
+#~ msgstr "それぞれのデータタイプでのバイトの値"
+
+#~ msgctxt "@title:group"
+#~ msgid "Replace by"
+#~ msgstr "次で置換"
+
+#~ msgctxt "@info"
+#~ msgid "No replacements done."
+#~ msgstr "置換したバイトはありません。"
+
+#~ msgctxt "@info"
+#~ msgid "1 replacement done."
+#~ msgid_plural "%1 replacements done."
+#~ msgstr[0] "%1 件置換しました。"
+
+#~ msgctxt "@info"
+#~ msgid "<nl/>End of byte array reached.<nl/>Continue from the beginning?"
+#~ msgstr "<nl/>バイト配列の末尾です。<nl/>先頭から続けますか？"
+
+#~ msgctxt "@info"
+#~ msgid "<nl/>Beginning of byte array reached.<nl/>Continue from the end?"
+#~ msgstr "<nl/>バイト配列の先頭です。<nl/>末尾から続けますか？"
+
+#~ msgctxt "@title:menu"
+#~ msgid "&Resize Style"
+#~ msgstr "リサイズスタイル(&R)"
+
+#~ msgctxt "@item:inmenu"
+#~ msgid "&No Resize"
+#~ msgstr "リサイズなし(&N)"
+
+#~ msgctxt "@item:inmenu"
+#~ msgid "&Full Size Usage"
+#~ msgstr "フルサイズで使う(&F)"
+
+#~ msgctxt "@item:inmenu"
+#~ msgid "Values &and Chars"
+#~ msgstr "値と文字(&A)"
+
+#~ msgctxt "@info:status short for: Readonly mode"
+#~ msgid "RO"
+#~ msgstr "RO"
+
+#~ msgctxt "@info:status short for: Readwrite mode"
+#~ msgid "RW"
+#~ msgstr "RW"
+
+#~ msgctxt "@info:tooltip"
+#~ msgid "Readonly mode"
+#~ msgstr "読み取り専用モード"
+
+#~ msgctxt "@info:tooltip"
+#~ msgid "Readwrite mode"
+#~ msgstr "読み書きモード"
+
+#~ msgctxt ""
+#~ "@info:status encoding of the bytes as values in the hexadecimal format"
+#~ msgid "Hexadecimal"
+#~ msgstr "十六進"
+
+#~ msgctxt "@info:status encoding of the bytes as values in the decimal format"
+#~ msgid "Decimal"
+#~ msgstr "十進"
+
+#~ msgctxt "@info:status encoding of the bytes as values in the octal format"
+#~ msgid "Octal"
+#~ msgstr "八進"
+
+#~ msgctxt "@info:status encoding of the bytes as values in the binary format"
+#~ msgid "Binary"
+#~ msgstr "二進"
+
+#~ msgctxt "@info:tooltip"
+#~ msgid "Coding in the value column of the current view."
+#~ msgstr "現在のビューの値カラムの基数"
+
+#~ msgctxt "name of the encoding target"
+#~ msgid "C array..."
+#~ msgstr "C 配列..."
+
+#~ msgid "Paste as"
+#~ msgstr "貼り付け"
+
+#~ msgid "Searc&hbar"
+#~ msgstr "検索バー(&H)"
+
+#~ msgctxt "@info"
+#~ msgid ""
+#~ "There is already a file at <nl/><filename>%1</filename>.<nl/>Overwrite?"
+#~ msgstr ""
+#~ "ファイル <filename>%1</filename> は既に存在します。<nl/>上書きしますか？"
+
+#~ msgctxt "@info:status the statistic is not uptodate"
+#~ msgid "Warning: not up-to-date"
+#~ msgstr "注意: 最新の情報ではありません"
+
+#~ msgctxt "@info:tooltip"
+#~ msgid "Warning: byte array has been modified since last update."
+#~ msgstr "注意: バイト配列は前回更新してから変更されています。"
+
+#~ msgctxt "@title:window Save %typename As..."
+#~ msgid "Save %1 As..."
+#~ msgstr "名前を付けて %1 を保存..."
+
+#~ msgctxt "@title:window Close %typename"
+#~ msgid "Close %1"
+#~ msgstr "%1 を閉じる"
+
+#~ msgctxt "@info The %typename \"%title\" has been modified."
+#~ msgid ""
+#~ "The %1 <emphasis>%2</emphasis> has been modified.<nl/>Do you want to save "
+#~ "your changes or discard them?"
+#~ msgstr ""
+#~ "%1 “%2” は変更されています。<nl/>変更を保存しますか？それとも破棄します"
+#~ "か？"
+
+#~ msgctxt "@info The %typename \"%title\" has been modified."
+#~ msgid ""
+#~ "The %1 <emphasis>%2</emphasis> has been modified.<nl/>Do you want to "
+#~ "discard your changes?"
+#~ msgstr "%1 “%2” は変更されています。<nl/>変更を破棄しますか？"
+
+#~ msgctxt "@title:window Export %typename As %exportedtypename..."
+#~ msgid "Export %1 As %2..."
+#~ msgstr "%1を%2としてエクスポート..."
+
+#~ msgctxt ""
+#~ "@item:inlistbox encoding of the bytes as values in the hexadecimal format"
+#~ msgid "Hexadecimal"
+#~ msgstr "十六進"
+
+#~ msgctxt ""
+#~ "@item:inlistbox encoding of the bytes as values in the decimal format"
+#~ msgid "Decimal"
+#~ msgstr "十進"
+
+#~ msgctxt ""
+#~ "@item:inlistbox encoding of the bytes as values in the octal format"
+#~ msgid "Octal"
+#~ msgstr "八進"
+
+#~ msgctxt ""
+#~ "@item:inlistbox encoding of the bytes as values in the binary format"
+#~ msgid "Binary"
+#~ msgstr "二進"
+
+#~ msgctxt ""
+#~ "@item:inlistbox encoding of the bytes as characters with the values"
+#~ msgid "Character(s)"
+#~ msgstr "文字"
+
+#~ msgctxt "@title:menu"
+#~ msgid "&Columns"
+#~ msgstr "カラム(&C)"
+
+#~ msgctxt "@item:inmenu"
+#~ msgid "&Values Column"
+#~ msgstr "値カラム(&V)"
+
+#~ msgctxt "@item:inmenu"
+#~ msgid "&Chars Column"
+#~ msgstr "文字カラム(&C)"
+
+#~ msgctxt "@item:inmenu"
+#~ msgid "&Both Columns"
+#~ msgstr "両方のカラム(&B)"
+
+#~ msgctxt "@label:textbox"
+#~ msgid "32 bit float:"
+#~ msgstr "32 ビット浮動小数点数:"
+
+#~ msgctxt "@label:textbox"
+#~ msgid "64 bit float:"
+#~ msgstr "64 ビット浮動小数点数:"
+
+#~ msgctxt ""
+#~ "@label:textbox encoding of the bytes as value in the hexadecimal format"
+#~ msgid "Hexadecimal:"
+#~ msgstr "十六進:"
+
+#~ msgctxt "@label:textbox encoding of the bytes as value in the octal format"
+#~ msgid "Octal:"
+#~ msgstr "八進:"
+
+#~ msgctxt "@label:textbox encoding of the bytes as value in the binary format"
+#~ msgid "Binary:"
+#~ msgstr "二進:"
+
+#~ msgctxt "@option:check"
+#~ msgid "Show unsigned as hexadecimal"
+#~ msgstr "符号なしの値を十六進として表示する"

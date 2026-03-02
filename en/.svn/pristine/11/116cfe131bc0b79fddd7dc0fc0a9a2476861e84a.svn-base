@@ -1,0 +1,913 @@
+# Translation of kwin_clients into Japanese.
+# This file is distributed under the same license as the kdebase package.
+#
+# Fumiaki Okushi <okushi@kde.gr.jp>, 2004, 2005, 2010.
+# Shinichi Tsunoda <tsuno@ngy.1st.ne.jp>, 2005.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2006, 2007, 2008, 2009, 2010.
+# Taiki Komoda <kom@kde.gr.jp>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: kwin_clients\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-04-24 11:26+0200\n"
+"PO-Revision-Date: 2010-06-12 23:54+0900\n"
+"Last-Translator: Taiki Komoda <kom@kde.gr.jp>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. +> stable5
+#: aurorae/src/aurorae.cpp:737
+#, fuzzy, kde-format
+#| msgid "Tiny"
+msgctxt "@item:inlistbox Button size:"
+msgid "Tiny"
+msgstr "小"
+
+#. +> stable5
+#: aurorae/src/aurorae.cpp:738
+#, kde-format
+msgctxt "@item:inlistbox Button size:"
+msgid "Normal"
+msgstr "普通"
+
+#. +> stable5
+#: aurorae/src/aurorae.cpp:739
+#, kde-format
+msgctxt "@item:inlistbox Button size:"
+msgid "Large"
+msgstr "大"
+
+#. +> stable5
+#: aurorae/src/aurorae.cpp:740
+#, kde-format
+msgctxt "@item:inlistbox Button size:"
+msgid "Very Large"
+msgstr "より大"
+
+#. +> stable5
+#: aurorae/src/aurorae.cpp:741
+#, kde-format
+msgctxt "@item:inlistbox Button size:"
+msgid "Huge"
+msgstr "とても大"
+
+#. +> stable5
+#: aurorae/src/aurorae.cpp:742
+#, fuzzy, kde-format
+#| msgid "Very Huge"
+msgctxt "@item:inlistbox Button size:"
+msgid "Very Huge"
+msgstr "さらに大"
+
+#. +> stable5
+#: aurorae/src/aurorae.cpp:743
+#, fuzzy, kde-format
+#| msgid "Oversized"
+msgctxt "@item:inlistbox Button size:"
+msgid "Oversized"
+msgstr "特大"
+
+#. +> stable5
+#: aurorae/src/aurorae.cpp:746
+#, kde-format
+msgid "Button size:"
+msgstr "ボタンのサイズ:"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, PlastikConfigDialog)
+#. +> stable5
+#: aurorae/themes/plastik/package/contents/ui/config.ui:14
+#, kde-format
+msgid "Config Dialog"
+msgstr "設定ダイアログ"
+
+#. i18n: ectx: property (title), widget (KButtonGroup, titleAlign)
+#. +> stable5
+#: aurorae/themes/plastik/package/contents/ui/config.ui:23
+#, kde-format
+msgid "Title &Alignment"
+msgstr "タイトルの配置(&A)"
+
+#. i18n: ectx: property (text), widget (QRadioButton, kcfg_titleAlignLeft)
+#. +> stable5
+#: aurorae/themes/plastik/package/contents/ui/config.ui:29
+#, kde-format
+msgid "Left"
+msgstr "左"
+
+#. i18n: ectx: property (text), widget (QRadioButton, kcfg_titleAlignCenter)
+#. +> stable5
+#: aurorae/themes/plastik/package/contents/ui/config.ui:36
+#, kde-format
+msgid "Center"
+msgstr "中央"
+
+#. i18n: ectx: property (text), widget (QRadioButton, kcfg_titleAlignRight)
+#. +> stable5
+#: aurorae/themes/plastik/package/contents/ui/config.ui:43
+#, kde-format
+msgid "Right"
+msgstr "右"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_coloredBorder)
+#. +> stable5
+#: aurorae/themes/plastik/package/contents/ui/config.ui:53
+#, kde-format
+msgid ""
+"Check this option if the window border should be painted in the titlebar "
+"color. Otherwise it will be painted in the background color."
+msgstr ""
+"ウィンドウの枠をタイトルバーの色で描画させるには、このオプションをチェックし"
+"てください。選択されていない場合、背景色で描画します。"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_coloredBorder)
+#. +> stable5
+#: aurorae/themes/plastik/package/contents/ui/config.ui:56
+#, kde-format
+msgid "Colored window border"
+msgstr "色付きのウィンドウ枠"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_animateButtons)
+#. +> stable5
+#: aurorae/themes/plastik/package/contents/ui/config.ui:66
+#, kde-format
+msgid ""
+"Check this option if you want the buttons to fade in when the mouse pointer "
+"hovers over them and fade out again when it moves away."
+msgstr ""
+"マウスがボタン上に来たらフェードイン、外れたらフェードアウトさせるには、この"
+"オプションをチェックしてください。"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_animateButtons)
+#. +> stable5
+#: aurorae/themes/plastik/package/contents/ui/config.ui:69
+#, kde-format
+msgid "Animate buttons"
+msgstr "ボタンのアニメーション表示"
+
+#~ msgid ""
+#~ "Check this option if you want the titlebar text to have a 3D look with a "
+#~ "shadow behind it."
+#~ msgstr ""
+#~ "タイトルバーのテキストを 3D 効果付きで表示させるには、このオプションを"
+#~ "チェックしてください。"
+
+#~ msgid "Use shadowed &text"
+#~ msgstr "影付きテキストを使う(&T)"
+
+#~ msgctxt "NAME OF TRANSLATORS"
+#~ msgid "Your names"
+#~ msgstr "Shinichi Tsunoda,Fumiaki Okushi,Yukiko Bando"
+
+#~ msgctxt "EMAIL OF TRANSLATORS"
+#~ msgid "Your emails"
+#~ msgstr "tsuno@ngy.1st.ne.jp,okushi@kde.gr.jp,ybando@k6.dion.ne.jp"
+
+#~ msgid "Menu"
+#~ msgstr "メニュー"
+
+#~ msgid "Not on all desktops"
+#~ msgstr "現在のデスクトップのみに表示"
+
+#~ msgid "On all desktops"
+#~ msgstr "すべてのデスクトップに表示"
+
+#~ msgid "Minimize"
+#~ msgstr "最小化"
+
+#~ msgid "Maximize"
+#~ msgstr "最大化"
+
+#~ msgid "Close"
+#~ msgstr "閉じる"
+
+#~ msgid "Help"
+#~ msgstr "ヘルプ"
+
+#~ msgid "Unshade"
+#~ msgstr "シェード解除"
+
+#~ msgid "Shade"
+#~ msgstr "シェード"
+
+#~ msgid "Resize"
+#~ msgstr "リサイズ"
+
+#~ msgid "<b><center>B II preview</center></b>"
+#~ msgstr "<b><center>B II プレビュー</center></b>"
+
+#~ msgid "Restore"
+#~ msgstr "復元"
+
+#~ msgctxt "Help button label, one character"
+#~ msgid "?"
+#~ msgstr "?"
+
+#~ msgid "Draw window frames using &titlebar colors"
+#~ msgstr "ウィンドウの枠をタイトルバーの色で描画する(&T)"
+
+#~ msgid ""
+#~ "When selected, the window borders are drawn using the titlebar colors; "
+#~ "otherwise, they are drawn using normal border colors."
+#~ msgstr ""
+#~ "選択された場合、ウィンドウの枠をタイトルバーの色で描画します。そうでなけれ"
+#~ "ば、普通の枠の色で描画します。"
+
+#~ msgid "Draw &resize handle"
+#~ msgstr "リサイズ用のハンドルを描画する(&R)"
+
+#~ msgid ""
+#~ "When selected, decorations are drawn with a \"grab handle\" in the bottom "
+#~ "right corner of the windows; otherwise, no grab handle is drawn."
+#~ msgstr ""
+#~ "選択された場合、ウィンドウの右下に「取っ手」を描画します。そうでなければ、"
+#~ "取っ手は描画しません。"
+
+#~ msgid "Auto-move titlebar"
+#~ msgstr "タイトルバーを自動移動"
+
+#~ msgid ""
+#~ "When selected, titlebars are automatically relocated to visible "
+#~ "positions; otherwise, they are only moved manually using shift+drag."
+#~ msgstr ""
+#~ "選択された場合、タイトルバーを見える位置へ自動的に移動します。選択されない"
+#~ "場合、シフトとドラッグで移動します。"
+
+#~ msgid "Actions Settings"
+#~ msgstr "アクション設定"
+
+#~ msgid "Double click on menu button:"
+#~ msgstr "メニューボタンをダブルクリック:"
+
+#~ msgid "Do Nothing"
+#~ msgstr "何もしない"
+
+#~ msgid "Minimize Window"
+#~ msgstr "ウィンドウを最小化"
+
+#~ msgid "Shade Window"
+#~ msgstr "ウィンドウをシェード"
+
+#~ msgid "Close Window"
+#~ msgstr "ウィンドウを閉じる"
+
+#~ msgid ""
+#~ "An action can be associated to a double click of the menu button. Leave "
+#~ "it to none if in doubt."
+#~ msgstr ""
+#~ "メニューボタンのダブルクリックにアクションを関連付けることができます。通常"
+#~ "は何も指定しないのがいいでしょう。"
+
+#~ msgid "Laptop"
+#~ msgstr "ラップトップ"
+
+#, fuzzy
+#~| msgid "Enable animations"
+#~ msgid "Title transitions"
+#~ msgstr "アニメーションを有効にする"
+
+#, fuzzy
+#~| msgid "Decoration Options"
+#~ msgid "Hide Advanced Configuration Options"
+#~ msgstr "装飾のオプション"
+
+#, fuzzy
+#~| msgid "Decoration Options"
+#~ msgid "Show Advanced Configuration Options"
+#~ msgstr "装飾のオプション"
+
+#~ msgid "Title alignment:"
+#~ msgstr "タイトルの位置:"
+
+#~ msgid "Fine Tuning"
+#~ msgstr "詳細"
+
+#~ msgid "Outline active window title"
+#~ msgstr "アクティブなウィンドウのタイトルを縁取る"
+
+#~ msgid "Use narrow space between decoration buttons"
+#~ msgstr "装飾ボタン間に狭いスペースを使用する"
+
+#~ msgid "Close windows by double clicking the menu button"
+#~ msgstr "メニューボタンをダブルクリックしてウィンドウを閉じる"
+
+#~ msgid "Window Drop-Down Shadow"
+#~ msgstr "ウィンドウの影付け"
+
+#~ msgid "Active Window Glow"
+#~ msgstr "アクティブなウィンドウは輝かせる"
+
+#~ msgid "Matching window property: "
+#~ msgstr "識別に用いるウィンドウのプロパティ: "
+
+#~ msgid "Regular expression to match: "
+#~ msgstr "マッチさせる正規表現: "
+
+#~ msgid "Outline active window title:"
+#~ msgstr "アクティブなウィンドウのタイトルを縁取る:"
+
+#, fuzzy
+#~| msgid "Disabled"
+#~ msgctxt "Add handle to resize windows with no border"
+#~ msgid "Disabled"
+#~ msgstr "無効"
+
+#, fuzzy
+#~| msgctxt "outline window title"
+#~| msgid "Enabled"
+#~ msgctxt "Add handle to resize windows with no border"
+#~ msgid "Enabled"
+#~ msgstr "有効"
+
+#~ msgctxt "outline window title"
+#~ msgid "Disabled"
+#~ msgstr "無効"
+
+#~ msgctxt "outline window title"
+#~ msgid "Enabled"
+#~ msgstr "有効"
+
+#, fuzzy
+#~| msgid "Use Oxygen Shadows"
+#~ msgid "Oxygen Shadow Demo"
+#~ msgstr "Oxygen 影を使用"
+
+#, fuzzy
+#~| msgid "Enable window grouping"
+#~ msgid "Draw window background"
+#~ msgstr "ウィンドウのグループ化を有効にする"
+
+#, fuzzy
+#~| msgid "Inactive Window"
+#~ msgid "Inactive Windows"
+#~ msgstr "非アクティブなウィンドウ"
+
+#, fuzzy
+#~| msgid "Active Window"
+#~ msgid "Active Windows"
+#~ msgstr "アクティブなウィンドウ"
+
+#~ msgid "Oxygen"
+#~ msgstr "Oxygen"
+
+#, fuzzy
+#~| msgid "Window Identification"
+#~ msgid "Window Actions Menu"
+#~ msgstr "ウィンドウの識別"
+
+#, fuzzy
+#~| msgid "Window Identification"
+#~ msgid "Application Menu"
+#~ msgstr "ウィンドウの識別"
+
+#~ msgid "Keep Above Others"
+#~ msgstr "常に最前面に表示"
+
+#~ msgid "Keep Below Others"
+#~ msgstr "常に最背面に表示"
+
+#~ msgid "On All Desktops"
+#~ msgstr "すべてのデスクトップに"
+
+#~ msgid "Shade Button"
+#~ msgstr "シェードボタン"
+
+#, fuzzy
+#~| msgid "Animate buttons"
+#~ msgid "Animations"
+#~ msgstr "ボタンのアニメーション表示"
+
+#, fuzzy
+#~| msgid "Actions Settings"
+#~ msgid "New Exception - Oxygen Settings"
+#~ msgstr "アクション設定"
+
+#, fuzzy
+#~| msgid "Actions Settings"
+#~ msgid "New Exception - Breeze Settings"
+#~ msgstr "アクション設定"
+
+#, fuzzy
+#~| msgid "Actions Settings"
+#~ msgid "Edit Exception - Oxygen Settings"
+#~ msgstr "アクション設定"
+
+#, fuzzy
+#~| msgid "Actions Settings"
+#~ msgid "Edit Exception - Breeze Settings"
+#~ msgstr "アクション設定"
+
+#, fuzzy
+#~| msgid "Actions Settings"
+#~ msgid "Question - Oxygen Settings"
+#~ msgstr "アクション設定"
+
+#, fuzzy
+#~| msgid "Actions Settings"
+#~ msgid "Question - Breeze Settings"
+#~ msgstr "アクション設定"
+
+#~ msgid "Remove selected exception?"
+#~ msgstr "選択した例外を削除しますか？"
+
+#~ msgid "Remove"
+#~ msgstr "削除"
+
+#, fuzzy
+#~| msgid "Actions Settings"
+#~ msgid "Warning - Oxygen Settings"
+#~ msgstr "アクション設定"
+
+#, fuzzy
+#~| msgid "Actions Settings"
+#~ msgid "Warning - Breeze Settings"
+#~ msgstr "アクション設定"
+
+#~ msgid "Regular Expression syntax is incorrect"
+#~ msgstr "正規表現に構文エラーがあります"
+
+#~ msgid "Exception Type"
+#~ msgstr "例外のタイプ"
+
+#~ msgid "Regular Expression"
+#~ msgstr "正規表現"
+
+#~ msgid "Window Title"
+#~ msgstr "ウィンドウのタイトル"
+
+#~ msgid "Window Class Name"
+#~ msgstr "ウィンドウのクラス名"
+
+#~ msgid "Enable/disable this exception"
+#~ msgstr "この例外を有効/無効にします"
+
+#~ msgid "General"
+#~ msgstr "全般"
+
+#, fuzzy
+#~| msgid "Border size:"
+#~ msgid "Border si&ze:"
+#~ msgstr "枠のサイズ:"
+
+#~ msgctxt "@item:inlistbox Border size:"
+#~ msgid "No Border"
+#~ msgstr "枠なし"
+
+#, fuzzy
+#~| msgctxt "@item:inlistbox Border size:"
+#~| msgid "No Side Border"
+#~ msgctxt "@item:inlistbox Border size:"
+#~ msgid "No Side Borders"
+#~ msgstr "横の枠なし"
+
+#~ msgctxt "@item:inlistbox Border size:"
+#~ msgid "Tiny"
+#~ msgstr "小"
+
+#~ msgctxt "@item:inlistbox Border size:"
+#~ msgid "Normal"
+#~ msgstr "普通"
+
+#~ msgctxt "@item:inlistbox Border size:"
+#~ msgid "Large"
+#~ msgstr "大"
+
+#~ msgctxt "@item:inlistbox Border size:"
+#~ msgid "Very Large"
+#~ msgstr "より大"
+
+#~ msgctxt "@item:inlistbox Border size:"
+#~ msgid "Huge"
+#~ msgstr "とても大"
+
+#~ msgctxt "@item:inlistbox Border size:"
+#~ msgid "Very Huge"
+#~ msgstr "さらに大"
+
+#~ msgctxt "@item:inlistbox Border size:"
+#~ msgid "Oversized"
+#~ msgstr "特大"
+
+#, fuzzy
+#~| msgid "Title alignment:"
+#~ msgid "Tit&le alignment:"
+#~ msgstr "タイトルの位置:"
+
+#, fuzzy
+#~| msgid "Animate buttons"
+#~ msgid "&Animations duration:"
+#~ msgstr "ボタンのアニメーション表示"
+
+#, fuzzy
+#~| msgid "Button size:"
+#~ msgid "B&utton size:"
+#~ msgstr "ボタンのサイズ:"
+
+#~ msgctxt "@item:inlistbox Button size:"
+#~ msgid "Small"
+#~ msgstr "小"
+
+#~ msgid "Enable animations"
+#~ msgstr "アニメーションを有効にする"
+
+#~ msgid "Shadows"
+#~ msgstr "影付け"
+
+#~ msgid "Window-Specific Overrides"
+#~ msgstr "ウィンドウ固有の設定"
+
+#, fuzzy
+#~| msgid "Config Dialog"
+#~ msgid "Dialog"
+#~ msgstr "設定ダイアログ"
+
+#~ msgid "Information about Selected Window"
+#~ msgstr "選択されたウィンドウに関する情報"
+
+#~ msgid "Class: "
+#~ msgstr "クラス: "
+
+#~ msgid "Title: "
+#~ msgstr "タイトル: "
+
+#~ msgid "Window Property Selection"
+#~ msgstr "ウィンドウのプロパティの選択"
+
+#~ msgid "Use window class (whole application)"
+#~ msgstr "ウィンドウのクラスを使う (アプリケーション全体)"
+
+#~ msgid "Use window title"
+#~ msgstr "ウィンドウのタイトルを使う"
+
+#~ msgid "Window Identification"
+#~ msgstr "ウィンドウの識別"
+
+#~ msgid "Detect Window Properties"
+#~ msgstr "ウィンドウのプロパティを検出"
+
+#~ msgid "Decoration Options"
+#~ msgstr "装飾のオプション"
+
+#~ msgid "Border size:"
+#~ msgstr "枠のサイズ:"
+
+#~ msgid "Hide window title bar"
+#~ msgstr "ウィンドウのタイトルバーを表示しない"
+
+#~ msgid "Move Up"
+#~ msgstr "上へ移動"
+
+#~ msgid "Move Down"
+#~ msgstr "下へ移動"
+
+#~ msgid "Add"
+#~ msgstr "追加"
+
+#~ msgid "Edit"
+#~ msgstr "編集"
+
+#, fuzzy
+#~| msgid "Matching window property: "
+#~ msgid "&Matching window property: "
+#~ msgstr "識別に用いるウィンドウのプロパティ: "
+
+#, fuzzy
+#~| msgid "Regular expression to match: "
+#~ msgid "Regular expression &to match: "
+#~ msgstr "マッチさせる正規表現: "
+
+#, fuzzy
+#~| msgid "Background style: "
+#~ msgid "Bac&kground style: "
+#~ msgstr "背景のスタイル: "
+
+#~ msgid "Background style: "
+#~ msgstr "背景のスタイル: "
+
+#~ msgid "Solid Color"
+#~ msgstr "べた一色"
+
+#~ msgid "Radial Gradient"
+#~ msgstr "放射状グラデーション"
+
+#~ msgid "Background style:"
+#~ msgstr "背景のスタイル:"
+
+#~ msgid "Inner Color:"
+#~ msgstr "内側の色:"
+
+#~ msgid "Outer Color:"
+#~ msgstr "外側の色:"
+
+#~ msgid "Vertical Offset:"
+#~ msgstr "縦のオフセット:"
+
+#~ msgid "Size: "
+#~ msgstr "サイズ: "
+
+#~ msgctxt "@item:inlistbox Border size:"
+#~ msgid "No Side Border"
+#~ msgstr "横の枠なし"
+
+#~ msgid ""
+#~ "Check this option if you want windows to be closed when you double click "
+#~ "the menu button, similar to Microsoft Windows."
+#~ msgstr ""
+#~ "メニューボタンのダブルクリックでウィンドウを閉じるには、このオプションを"
+#~ "チェックしてください。Microsoft Windows と同様の挙動になります。"
+
+#~ msgid "Plastik"
+#~ msgstr "Plastik"
+
+#~ msgid "Do not keep above others"
+#~ msgstr "他より前に表示しない"
+
+#~ msgid "Keep above others"
+#~ msgstr "常に最前面に表示"
+
+#~ msgid "Do not keep below others"
+#~ msgstr "他より後ろに表示しない"
+
+#~ msgid "Keep below others"
+#~ msgstr "常に最背面に表示"
+
+#~ msgid "Tabstrip"
+#~ msgstr "Tabstrip"
+
+#~ msgid "&Left"
+#~ msgstr "左(&L)"
+
+#~ msgid "&Center"
+#~ msgstr "中央(&C)"
+
+#~ msgid "&Right"
+#~ msgstr "右(&R)"
+
+#~ msgid "Display window icons"
+#~ msgstr "ウィンドウのアイコンを表示する"
+
+#, fuzzy
+#~| msgid "Outer Color:"
+#~ msgid "O&utline Color:"
+#~ msgstr "外側の色:"
+
+#~ msgid "All Desktops"
+#~ msgstr "すべてのデスクトップ"
+
+#~ msgid "Above"
+#~ msgstr "上"
+
+#~ msgid "Below"
+#~ msgstr "下"
+
+#~ msgid "Close Item"
+#~ msgstr "アイテムを閉じる"
+
+#~ msgid "Enable window grouping"
+#~ msgstr "ウィンドウのグループ化を有効にする"
+
+#~ msgid "Enable title transition animations"
+#~ msgstr "タイトルの切り替えをアニメーション表示する"
+
+#~ msgid "Variable"
+#~ msgstr "可変"
+
+#~ msgid "Maximum"
+#~ msgstr "最大"
+
+#~ msgid "Shadow style:"
+#~ msgstr "影のスタイル:"
+
+#~ msgid "TextLabel"
+#~ msgstr "テキストラベル"
+
+#~ msgid "Use Oxygen Shadows"
+#~ msgstr "Oxygen 影を使用"
+
+#~ msgid "Use Desktop Effects Shadows"
+#~ msgstr "デスクトップ効果影を使用"
+
+#~ msgid "Do Not Draw Shadows"
+#~ msgstr "影を描かない"
+
+#~ msgctxt "draw separator"
+#~ msgid "Enabled"
+#~ msgstr "有効"
+
+#~ msgctxt "draw separator"
+#~ msgid "Disabled"
+#~ msgstr "無効"
+
+#~ msgid "Draw Separator between title bar and active window contents "
+#~ msgstr ""
+#~ "アクティブなウィンドウのタイトルバーと中身の間にセパレータを表示する"
+
+#~ msgid "Draw separator between title bar and window contents: "
+#~ msgstr "タイトルバーとウィンドウの中身の間にセパレータを表示する: "
+
+#~ msgid "Draw titlebar &stipple effect"
+#~ msgstr "タイトルバーを点描する(&S)"
+
+#~ msgid ""
+#~ "When selected, active titlebars are drawn with a stipple (dotted) effect; "
+#~ "otherwise, they are drawn without the stipple."
+#~ msgstr ""
+#~ "選択された場合、アクティブなタイトルバーを点描します。そうでなければ、点描"
+#~ "しません。"
+
+#~ msgid "Draw g&rab bar below windows"
+#~ msgstr "ウィンドウの下に取っ手を描画する(&R)"
+
+#~ msgid ""
+#~ "When selected, decorations are drawn with a \"grab bar\" below windows; "
+#~ "otherwise, no grab bar is drawn."
+#~ msgstr ""
+#~ "選択された場合、ウィンドウの装飾の下に取っ手を描画します。そうでなければ、"
+#~ "取っ手は描画しません。"
+
+#~ msgid "Draw &gradients"
+#~ msgstr "グラデーションを使って描画する(&G)"
+
+#~ msgid ""
+#~ "When selected, decorations are drawn with gradients for high-color "
+#~ "displays; otherwise, no gradients are drawn."
+#~ msgstr ""
+#~ "選択された場合、高カラーディスプレイ用にグラデーションを使って装飾を描画し"
+#~ "ます。そうでなければ、グラデーションは使いません。"
+
+#~ msgid "KDE 2"
+#~ msgstr "KDE 2"
+
+#~ msgid "Keramik"
+#~ msgstr "Keramik"
+
+#~ msgid "Display the window &icon in the caption bubble"
+#~ msgstr "キャプションバブルの中にウィンドウのアイコンを表示する(&I)"
+
+#~ msgid ""
+#~ "Check this option if you want the window icon to be displayed in the "
+#~ "caption bubble next to the titlebar text."
+#~ msgstr ""
+#~ "タイトルバーの横のキャプションバブルの中にウィンドウアイコンを表示させる場"
+#~ "合、このオプションをチェックしてください。"
+
+#~ msgid "Draw &small caption bubbles on active windows"
+#~ msgstr "アクティブなウィンドウに小さなキャプションバブルを表示する(&S)"
+
+#~ msgid ""
+#~ "Check this option if you want the caption bubble to have the same size on "
+#~ "active windows that it has on inactive ones. This option is useful for "
+#~ "laptops or low resolution displays where you want maximize the amount of "
+#~ "space available to the window contents."
+#~ msgstr ""
+#~ "アクティブウィンドウのキャプションバブルの大きさを、アクティブでないウィン"
+#~ "ドウのものと同じにしたい場合、このオプションをチェックしてください。この機"
+#~ "能は、ラップトップや解像度の低いディスプレイで、ウィンドウの内容を表示する"
+#~ "面積を最大にしたいときに役立ちます。"
+
+#~ msgid "Draw g&rab bars below windows"
+#~ msgstr "ウィンドウの下に取っ手を描画する(&R)"
+
+#~ msgid ""
+#~ "Check this option if you want a grab bar to be drawn below windows. When "
+#~ "this option is not selected only a thin border will be drawn in its place."
+#~ msgstr ""
+#~ "ウィンドウの下に取っ手を表示させるには、このオプションをチェックしてくださ"
+#~ "い。このオプションが選択されていない場合、細い枠だけを描画します。"
+
+#~ msgid "<center><b>Keramik preview</b></center>"
+#~ msgstr "<center><b>Keramik プレビュー</b></center>"
+
+#~ msgid "Installs a KWM theme"
+#~ msgstr "KWM テーマをインストール"
+
+#~ msgid "Path to a theme config file"
+#~ msgstr "テーマ設定ファイルへのパス"
+
+#~ msgid "<center><b>KWMTheme</b></center>"
+#~ msgstr "<center><b>KWMTheme</b></center>"
+
+#~ msgid "Sticky"
+#~ msgstr "スティッキー"
+
+#~ msgid "Unsticky"
+#~ msgstr "スティッキー解除"
+
+#~ msgid "&Show window resize handle"
+#~ msgstr "リサイズ用のハンドルを表示する(&S)"
+
+#~ msgid ""
+#~ "When selected, all windows are drawn with a resize handle at the lower "
+#~ "right corner. This makes window resizing easier, especially for "
+#~ "trackballs and other mouse replacements on laptops."
+#~ msgstr ""
+#~ "選択された場合、すべてのウィンドウの右下隅にリサイズ用の取っ手を表示しま"
+#~ "す。トラックボールやラップトップでマウスの代替品を使用する場合、リサイズが"
+#~ "楽になります。"
+
+#~ msgid "Here you can change the size of the resize handle."
+#~ msgstr "リサイズ用のハンドルの大きさを変更することができます。"
+
+#~ msgid "Small"
+#~ msgstr "小"
+
+#~ msgid "Medium"
+#~ msgstr "普通"
+
+#~ msgid "Large"
+#~ msgstr "大"
+
+#~ msgid "Modern System"
+#~ msgstr "モダンシステム"
+
+#~ msgid ""
+#~ "When selected, the window decoration borders are drawn using the titlebar "
+#~ "colors; otherwise, they are drawn using normal border colors instead."
+#~ msgstr ""
+#~ "選択された場合、ウィンドウの飾り枠をタイトルバーの色で描画します。そうでな"
+#~ "ければ、普通の枠の色で描画します。"
+
+#~ msgid "Quartz &extra slim"
+#~ msgstr "Quartz エクストラスリム(&E)"
+
+#~ msgid "Quartz window decorations with extra-small title bar."
+#~ msgstr "特別に小さなタイトルバーの Quartz ウィンドウ装飾"
+
+#~ msgid "Quartz"
+#~ msgstr "Quartz"
+
+#~ msgid "Redmond"
+#~ msgstr "Redmond"
+
+# skip-rule: web-j
+#~ msgid "Web"
+#~ msgstr "Web"
+
+#~ msgid "Normal"
+#~ msgstr "普通"
+
+#~ msgid "Huge"
+#~ msgstr "とても大"
+
+#~ msgid "Very Large"
+#~ msgstr "特大"
+
+#~ msgid "No Border"
+#~ msgstr "枠なし"
+
+#~ msgid "No Side Border"
+#~ msgstr "横の枠なし"
+
+#~ msgid "Aurorae Theme Engine"
+#~ msgstr "Aurorae テーマエンジン"
+
+#~ msgid "Drag or Type Theme URL"
+#~ msgstr "テーマの URL をドラッグまたは入力"
+
+#~ msgid "Unable to find the theme archive %1."
+#~ msgstr "テーマアーカイブ %1 が見つかりません。"
+
+#~ msgid ""
+#~ "Unable to download theme archive;\n"
+#~ "please check that address %1 is correct."
+#~ msgstr ""
+#~ "テーマアーカイブをダウンロードできません。\n"
+#~ "アドレス %1 が間違っていないか確認してください。"
+
+#~ msgid "Theme:"
+#~ msgstr "テーマ:"
+
+#~ msgid "Get New Themes..."
+#~ msgstr "新しいテーマを取得..."
+
+#~ msgid "Install New Theme..."
+#~ msgstr "新しいテーマをインストール..."
+
+#~ msgid "Ozone"
+#~ msgstr "Ozone"
+
+#~ msgid ""
+#~ "When enabled, this option makes the window title bar use the same colors "
+#~ "as the window contents, instead of using the system title bar colors."
+#~ msgstr ""
+#~ "このオプションを有効にすると、タイトルバーにシステムのタイトルバーの色では"
+#~ "なくウィンドウの中身と同じ色を使います。"
+
+#~ msgid "Blend title bar colors with window contents"
+#~ msgstr "タイトルバーにウィンドウの中身と同じ色を使う"
+
+#~ msgid ""
+#~ "When enabled, this option increases the visibility of the window titlebar "
+#~ "by showing stripes"
+#~ msgstr ""
+#~ "このオプションは、ウィンドウのタイトルの横にストライプを表示することでタイ"
+#~ "トルバーを目立たせます。"
+
+#~ msgid "Show stripes next to the title"
+#~ msgstr "タイトルバーにストライプを表示する"
