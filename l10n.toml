@@ -1,3 +1,4 @@
+basepath = "locale"
 [[paths]]
-    reference = "locale/ja/summit/messages/dolphin/*.po"
-    l10n = "locale/{locale}/summit/messages/dolphin/*.po"
+    reference = "ja/summit/messages/dolphin/*.po"
+    l10n = "{locale}/summit/messages/dolphin/*.po"
