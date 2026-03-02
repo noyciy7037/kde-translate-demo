@@ -6,5 +6,5 @@ locales = [
 ]
 
 [[paths]]
-    reference = "ja/summit/messages/dolphin/*.po"
+    reference = "en/summit/messages/dolphin/*.po"
     l10n = "{locale}/summit/messages/dolphin/*.po"
