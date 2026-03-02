@@ -1,0 +1,334 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2026-02-13 10:00+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. +> trunk6 stable6 stable5
+#: daemon/chargethreshold_helper_actions.actions:2
+#: daemon/controllers/backlight_helper_actions.actions:2
+#: daemon/discretegpu_helper_actions.actions:2
+#: daemon/wakeupsource_helper_actions.actions:2
+msgctxt "Name"
+msgid "KDE"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: daemon/chargethreshold_helper_actions.actions:63
+msgctxt "Name"
+msgid "Get current battery charge limit"
+msgstr ""
+
+#. +> trunk6 stable6
+#: daemon/chargethreshold_helper_actions.actions:110
+msgctxt "Description"
+msgid "Authenticate to see the current battery charge limit."
+msgstr ""
+
+#. +> stable5
+#: daemon/chargethreshold_helper_actions.actions:102
+msgctxt "Description"
+msgid "System policies prevent you from getting the current battery charge limit."
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: daemon/chargethreshold_helper_actions.actions:157
+msgctxt "Name"
+msgid "Set battery charge limit"
+msgstr ""
+
+#. +> trunk6 stable6
+#: daemon/chargethreshold_helper_actions.actions:204
+msgctxt "Description"
+msgid "Authenticate to set the battery charge limit."
+msgstr ""
+
+#. +> stable5
+#: daemon/chargethreshold_helper_actions.actions:191
+msgctxt "Description"
+msgid "System policies prevent you from setting a battery charge limit."
+msgstr ""
+
+#. +> trunk6 stable6
+#: daemon/chargethreshold_helper_actions.actions:251
+msgctxt "Name"
+msgid "Check battery conservation mode"
+msgstr ""
+
+#. +> trunk6 stable6
+#: daemon/chargethreshold_helper_actions.actions:293
+msgctxt "Description"
+msgid "Authenticate to check the current state of battery conservation mode."
+msgstr ""
+
+#. +> trunk6 stable6
+#: daemon/chargethreshold_helper_actions.actions:339
+msgctxt "Name"
+msgid "Set battery conservation mode"
+msgstr ""
+
+#. +> trunk6 stable6
+#: daemon/chargethreshold_helper_actions.actions:381
+msgctxt "Description"
+msgid "Authenticate to set the battery conservation mode."
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: daemon/controllers/backlight_helper_actions.actions:63
+msgctxt "Name"
+msgid "Get maximum brightness value"
+msgstr ""
+
+#. +> trunk6 stable6
+#: daemon/controllers/backlight_helper_actions.actions:119
+msgctxt "Description"
+msgid "Authenticate to see the maximum brightness level."
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: daemon/controllers/backlight_helper_actions.actions:166
+msgctxt "Name"
+msgid "Get brightness"
+msgstr ""
+
+#. +> trunk6 stable6
+#: daemon/controllers/backlight_helper_actions.actions:222
+msgctxt "Description"
+msgid "Authenticate to see the brightness level."
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: daemon/controllers/backlight_helper_actions.actions:269
+msgctxt "Name"
+msgid "Set brightness"
+msgstr ""
+
+#. +> trunk6 stable6
+#: daemon/controllers/backlight_helper_actions.actions:325
+msgctxt "Description"
+msgid "Authenticate to set the brightness level."
+msgstr ""
+
+#. +> stable5
+#: daemon/backends/upower/backlight_helper_actions.actions:111
+#: daemon/backends/upower/backlight_helper_actions.actions:217
+msgctxt "Description"
+msgid "System policies prevent you from getting the brightness level."
+msgstr ""
+
+#. +> stable5
+#: daemon/backends/upower/backlight_helper_actions.actions:323
+msgctxt "Description"
+msgid "System policies prevent you from setting the brightness level."
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: daemon/controllers/backlight_helper_actions.actions:371
+msgctxt "Name"
+msgid "Get syspath"
+msgstr ""
+
+#. +> trunk6 stable6
+#: daemon/controllers/backlight_helper_actions.actions:425
+msgctxt "Description"
+msgid "Authenticate to see the syspath."
+msgstr ""
+
+#. +> stable5
+#: daemon/backends/upower/backlight_helper_actions.actions:426
+msgctxt "Description"
+msgid "System policies prevent you from getting the syspath"
+msgstr ""
+
+#. +> trunk6 stable6
+#: daemon/discretegpu_helper_actions.actions:63
+msgctxt "Name"
+msgid "Check for existence of discrete GPU"
+msgstr ""
+
+#. +> trunk6 stable6
+#: daemon/discretegpu_helper_actions.actions:106
+msgctxt "Description"
+msgid "Authenticate to check for the existence of a discrete GPU."
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: daemon/powerdevil.desktop.cmake:4 powerdevil.notifyrc:2
+msgctxt "Name"
+msgid "Power Management"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: daemon/powerdevil.desktop.cmake:65
+msgctxt "Comment"
+msgid "Battery, Display and CPU power management and notification"
+msgstr ""
+
+#. +> trunk6 stable6
+#: daemon/wakeupsource_helper_actions.actions:63
+msgctxt "Name"
+msgid "Set the wakeup count"
+msgstr ""
+
+#. +> trunk6 stable6
+#: daemon/wakeupsource_helper_actions.actions:95
+msgctxt "Description"
+msgid "This allows to read wakeup count on next wakeup to identify wakeup source"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: powerdevil.notifyrc:58
+msgctxt "Comment"
+msgid "Power Management System"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: powerdevil.notifyrc:116
+msgctxt "Name"
+msgid "Warning"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: powerdevil.notifyrc:171
+msgctxt "Comment"
+msgid "Used for warning notifications"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: powerdevil.notifyrc:228
+msgctxt "Name"
+msgid "Notification"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: powerdevil.notifyrc:285
+msgctxt "Comment"
+msgid "Used for standard notifications"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: powerdevil.notifyrc:342
+msgctxt "Name"
+msgid "Critical notification"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: powerdevil.notifyrc:398
+msgctxt "Comment"
+msgid "Notifies a critical event"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: powerdevil.notifyrc:455
+msgctxt "Name"
+msgid "Battery Low"
+msgstr ""
+
+#. +> trunk6 stable6
+#: powerdevil.notifyrc:511
+msgctxt "Comment"
+msgid "Battery has reached low level"
+msgstr ""
+
+#. +> stable5
+#: powerdevil.notifyrc:484
+msgctxt "Comment"
+msgid "Your battery has reached low level"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: powerdevil.notifyrc:557
+msgctxt "Name"
+msgid "Battery Critical"
+msgstr ""
+
+#. +> trunk6 stable6
+#: powerdevil.notifyrc:613
+msgctxt "Comment"
+msgid "Battery has reached critical level. This notification triggers a countdown before doing the configured action, hence it is strongly advised to leave it on."
+msgstr ""
+
+#. +> stable5
+#: powerdevil.notifyrc:596
+msgctxt "Comment"
+msgid "Your battery has reached critical level. This notification triggers a countdown before doing the configured action, hence it is strongly advised to leave that on."
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: powerdevil.notifyrc:660
+msgctxt "Name"
+msgid "Charge Complete"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: powerdevil.notifyrc:714
+msgctxt "Comment"
+msgid "The battery is fully charged"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: powerdevil.notifyrc:775
+msgctxt "Name"
+msgid "Peripheral Battery Low"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: powerdevil.notifyrc:827
+msgctxt "Comment"
+msgid "The battery in a connected device, such as mouse or keyboard, is low"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: powerdevil.notifyrc:885
+msgctxt "Name"
+msgid "Power source connected"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: powerdevil.notifyrc:932
+msgctxt "Comment"
+msgid "The power source has been connected"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: powerdevil.notifyrc:985
+msgctxt "Name"
+msgid "Power source disconnected"
+msgstr ""
+
+#. +> trunk6 stable6 stable5
+#: powerdevil.notifyrc:1032
+msgctxt "Comment"
+msgid "The power source has been disconnected"
+msgstr ""
+
+#. +> stable5
+#: daemon/backends/upower/discretegpu_helper_actions.actions:59
+msgctxt "Name"
+msgid "Check existence of discrete gpu"
+msgstr ""
+
+#. +> stable5
+#: daemon/backends/upower/discretegpu_helper_actions.actions:106
+msgctxt "Description"
+msgid "System policies prevent you from checking the existence of discrete gpu."
+msgstr ""
+
+#. +> stable5
+#: daemon/backends/upower/powerdevilupowerbackend.desktop:7
+msgctxt "Name"
+msgid "UPower PowerDevil Backend"
+msgstr ""
+
+#. +> stable5
+#: daemon/backends/upower/powerdevilupowerbackend.desktop:57
+msgctxt "Comment"
+msgid "Use KDE Power Management system through freedesktop.org upower daemon"
+msgstr ""

@@ -1,0 +1,228 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2026-02-25 09:28+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:5 src/libkleopatrarc.desktop:5
+msgctxt "Name"
+msgid "TAR (PGP®-compatible)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:58 src/libkleopatrarc.desktop:148
+msgctxt "Name"
+msgid "sha256sum"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:110 src/libkleopatrarc.desktop:199
+msgctxt "Name"
+msgid "sha1sum"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:161 src/libkleopatrarc.desktop:299
+msgctxt "Name"
+msgid "md5sum"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:214 src/libkleopatrarc.desktop:352
+msgctxt "Name"
+msgid "Expired"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:247 src/libkleopatrarc.desktop:385
+msgctxt "Description"
+msgid "Certificates that are invalid because they have expired (except disabled ones)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:283 src/libkleopatrarc.desktop:421
+msgctxt "Name"
+msgid "Revoked"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:316 src/libkleopatrarc.desktop:454
+msgctxt "Description"
+msgid "Certificates that are invalid because they have been revoked (except disabled ones)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:352 src/libkleopatrarc.desktop:490
+msgctxt "Name"
+msgid "Trusted Root Certificates"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:385 src/libkleopatrarc.desktop:523
+msgctxt "Description"
+msgid "S/MIME root certificates that are trusted"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:425 src/libkleopatrarc.desktop:563
+msgctxt "Name"
+msgid "Not Trusted Root Certificates"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:458 src/libkleopatrarc.desktop:596
+msgctxt "Description"
+msgid "S/MIME root certificates that are not trusted"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:494 src/libkleopatrarc.desktop:632
+msgctxt "Name"
+msgid "For Qualified Signatures"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:527 src/libkleopatrarc.desktop:665
+msgctxt "Description"
+msgid "Certificates usable for qualified signatures"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:564 src/libkleopatrarc.desktop:702
+msgctxt "Name"
+msgid "On Smart Card"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:597 src/libkleopatrarc.desktop:735
+msgctxt "Description"
+msgid "Certificates stored on smart cards (except disabled ones)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:633 src/libkleopatrarc.desktop:771
+msgctxt "Name"
+msgid "OpenPGP"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:666 src/libkleopatrarc.desktop:804
+msgctxt "Description"
+msgid "OpenPGP certificates (except disabled ones)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:701 src/libkleopatrarc.desktop:839
+msgctxt "Name"
+msgid "S/MIME"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:734 src/libkleopatrarc.desktop:872
+msgctxt "Description"
+msgid "S/MIME certificates"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:776 src/libkleopatrarc.desktop:914
+msgctxt "Name"
+msgid "VS-NfD Compliant"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:813 src/libkleopatrarc.desktop:951
+msgctxt "Description"
+msgid "Certificates that are VS-NfD compliant (except disabled ones)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:852 src/libkleopatrarc.desktop:990
+msgctxt "Name"
+msgid "Not VS-NfD Compliant"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:889 src/libkleopatrarc.desktop:1027
+msgctxt "Description"
+msgid "Certificates that are not VS-NfD compliant (except disabled ones)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:930 src/libkleopatrarc.desktop:1068
+msgctxt "Name"
+msgid "Not VS-NfD Compliant (Expired)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:965 src/libkleopatrarc.desktop:1103
+msgctxt "Description"
+msgid "Expired certificates (if VS-NfD compliance mode is active, except disabled ones)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:1005 src/libkleopatrarc.desktop:1143
+msgctxt "Name"
+msgid "Not VS-NfD Compliant (Revoked)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:1040 src/libkleopatrarc.desktop:1178
+msgctxt "Description"
+msgid "Revoked certificates (if VS-NfD compliance mode is active, except disabled ones)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:1076 src/libkleopatrarc.desktop:1214
+msgctxt "Name"
+msgid "Disabled"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:1106 src/libkleopatrarc.desktop:1244
+msgctxt "Description"
+msgid "Certificates that are disabled"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:1144 src/libkleopatrarc.desktop:1282
+msgctxt "Name"
+msgid "My Own"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc-win32.desktop:1176 src/libkleopatrarc.desktop:1314
+msgctxt "Description"
+msgid "My own certificates"
+msgstr ""
+
+#. +> trunk6
+#: src/libkleopatrarc-win32.desktop:1222 src/libkleopatrarc.desktop:1360
+msgctxt "Name"
+msgid "Valid"
+msgstr ""
+
+#. +> trunk6
+#: src/libkleopatrarc-win32.desktop:1239 src/libkleopatrarc.desktop:1377
+msgctxt "Description"
+msgid "Certificates that are neither expired nor revoked (except disabled ones)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc.desktop:97
+msgctxt "Name"
+msgid "TAR (with bzip2 compression)"
+msgstr ""
+
+#. +> trunk6 stable6
+#: src/libkleopatrarc.desktop:250
+msgctxt "Name"
+msgid "sha512sum"
+msgstr ""

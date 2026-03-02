@@ -1,0 +1,190 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the  <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License SA 4.0</a> unless stated otherwise
+# This file is distributed under the same license as the Kdenlive Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Kdenlive Manual 25.12\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-13 09:59+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. +> trunk5
+#: ../../<rst_epilog>:310
+msgid "kdenlive-show-video"
+msgstr ""
+
+#. +> trunk5
+#: ../../<rst_epilog>:632
+msgid "linux"
+msgstr ""
+
+#. +> trunk5
+#: ../../<rst_epilog>:636
+msgid "appimage"
+msgstr ""
+
+#. +> trunk5
+#: ../../<rst_epilog>:640
+msgid "windows"
+msgstr ""
+
+#. +> trunk5
+#: ../../<rst_epilog>:644
+msgid "apple"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/image_adjustment/epx_scaler.rst:14
+msgid "EPX Scaler"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/image_adjustment/epx_scaler.rst:24
+msgid "Maintained"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/image_adjustment/epx_scaler.rst:26
+#: ../../effects_and_filters/video_effects/image_adjustment/epx_scaler.rst:34
+#: ../../effects_and_filters/video_effects/image_adjustment/epx_scaler.rst:36
+msgid "No"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/image_adjustment/epx_scaler.rst:28
+msgid "avfilter"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/image_adjustment/epx_scaler.rst:30
+msgid "epx"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/image_adjustment/epx_scaler.rst:32
+msgid "|linux| |appimage| |windows| |apple|"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/image_adjustment/epx_scaler.rst:42
+#: ../../effects_and_filters/video_effects/image_adjustment/epx_scaler.rst:56
+msgid "Description"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/image_adjustment/epx_scaler.rst:43
+msgid "This effect/filter applies the EPX\\ [1]_ magnification filter which is designed for pixel art."
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/image_adjustment/epx_scaler.rst:47
+msgid "Parameters"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/image_adjustment/epx_scaler.rst:54
+msgid "Parameter"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/image_adjustment/epx_scaler.rst:55
+msgid "Value"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/image_adjustment/epx_scaler.rst:57
+msgid "Scale factor"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/image_adjustment/epx_scaler.rst:58
+msgid "Selection"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/image_adjustment/epx_scaler.rst:59
+msgid "Sets the scaling dimension"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/image_adjustment/epx_scaler.rst:61
+msgid "The following selection items are available:"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/image_adjustment/epx_scaler.rst:63
+msgid ":guilabel:`Scale factor`"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/image_adjustment/epx_scaler.rst:70
+msgid "2x"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/image_adjustment/epx_scaler.rst:72
+msgid "3x"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/image_adjustment/epx_scaler.rst:73
+msgid "Default"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/image_adjustment/epx_scaler.rst:81
+msgid "See the article in Wikipedia about |epx| algorithm."
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/image_adjustment/epx_scaler.rst:-1
+msgid "Kdenlive Video Effects - EPX Scaler"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/image_adjustment/epx_scaler.rst:-1
+msgid "KDE, Kdenlive, video editor, help, learn, easy, effects, filter, video effects, image adjustment, epx scaler"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/image_adjustment/epx_scaler.rst:0
+msgid "**Status**"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/image_adjustment/epx_scaler.rst:0
+msgid "**Keyframes**"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/image_adjustment/epx_scaler.rst:0
+msgid "**Source library**"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/image_adjustment/epx_scaler.rst:0
+msgid "**Source filter**"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/image_adjustment/epx_scaler.rst:0
+msgid "**Available**"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/image_adjustment/epx_scaler.rst:0
+msgid "**On Master only**"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/image_adjustment/epx_scaler.rst:0
+msgid "**Known bugs**"
+msgstr ""

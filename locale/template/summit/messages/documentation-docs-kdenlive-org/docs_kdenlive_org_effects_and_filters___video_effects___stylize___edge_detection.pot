@@ -1,0 +1,277 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the  <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License SA 4.0</a> unless stated otherwise
+# This file is distributed under the same license as the Kdenlive Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Kdenlive Manual 25.12\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-13 09:59+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. +> trunk5
+#: ../../<rst_epilog>:50
+msgid "color-management"
+msgstr ""
+
+#. +> trunk5
+#: ../../<rst_epilog>:310
+msgid "kdenlive-show-video"
+msgstr ""
+
+#. +> trunk5
+#: ../../<rst_epilog>:632
+msgid "linux"
+msgstr ""
+
+#. +> trunk5
+#: ../../<rst_epilog>:636
+msgid "appimage"
+msgstr ""
+
+#. +> trunk5
+#: ../../<rst_epilog>:640
+msgid "windows"
+msgstr ""
+
+#. +> trunk5
+#: ../../<rst_epilog>:644
+msgid "apple"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:19
+msgid "Edge Detection"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:29
+msgid "Maintained"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:31
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:39
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:41
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:45
+msgid "No"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:33
+msgid "avfilter"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:35
+msgid "edgedetect"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:37
+msgid "|linux| |appimage| |windows| |apple|"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:43
+msgid "10bit |color-management|"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:51
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:65
+msgid "Description"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:52
+msgid "This effect/filter detects and draws edges using the Canny edge detection algorithm\\ [1]_."
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:56
+msgid "Parameters"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:63
+msgid "Parameter"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:64
+msgid "Value"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:66
+msgid "Low / High threshold"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:67
+msgid "Float"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:68
+msgid "Set low and high threshold values used by the algorithm. The :guilabel:`High threshold` selects the \"strong\" edge pixels, which are then connected through 8-connectivity with the \"weak\" edge pixels selected by the :guilabel:`Low threshold`. Range is from 0.000 to 1.000 with :guilabel:`Low threshold` being lower or equal to :guilabel:`High threshold`."
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:69
+msgid "Modes"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:70
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:73
+msgid "Selection"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:71
+msgid "Define the drawing mode"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:72
+msgid "Planes"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:74
+msgid "Select the :term:`planes<plane>` for filtering"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:76
+msgid "The following selection items are available:"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:78
+msgid ":guilabel:`Modes`"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:85
+msgid "Wires"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:86
+msgid "Draw white/gray wires on black background (default)"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:87
+msgid "Colormix"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:88
+msgid "Mix the colors to create a paint/cartoon effect"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:89
+msgid "Canny"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:90
+msgid "Applies Canny edge detector on all selected :term:`planes<plane>`"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:92
+msgid ":guilabel:`Planes`"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:99
+msgid "None"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:101
+msgid "Y/U/V"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:102
+msgid "Also combinations of the planes are possible. Default is **YUV**."
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:103
+msgid "Alpha"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:109
+msgid "For more details refer to the |canny_edge_detector| article in Wikipedia."
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:-1
+msgid "Kdenlive Video Effects - Edge Detection"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:-1
+msgid "KDE, Kdenlive, video editor, help, learn, easy, effects, filter, video effects, stylize, edge, detection, 10bit"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:0
+msgid "**Status**"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:0
+msgid "**Keyframes**"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:0
+msgid "**Source library**"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:0
+msgid "**Source filter**"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:0
+msgid "**Available**"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:0
+msgid "**On Master only**"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:0
+msgid "**Known bugs**"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:0
+msgid "**Color depth**"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/stylize/edge_detection.rst:0
+msgid "**Tutorial**"
+msgstr ""

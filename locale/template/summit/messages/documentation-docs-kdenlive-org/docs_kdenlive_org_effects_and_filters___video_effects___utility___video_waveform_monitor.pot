@@ -1,0 +1,704 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the  <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License SA 4.0</a> unless stated otherwise
+# This file is distributed under the same license as the Kdenlive Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Kdenlive Manual 25.12\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-13 09:59+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. +> trunk5
+#: ../../<rst_epilog>:50
+msgid "color-management"
+msgstr ""
+
+#. +> trunk5
+#: ../../<rst_epilog>:310
+msgid "kdenlive-show-video"
+msgstr ""
+
+#. +> trunk5
+#: ../../<rst_epilog>:558
+msgid "view-presentation"
+msgstr ""
+
+#. +> trunk5
+#: ../../<rst_epilog>:632
+msgid "linux"
+msgstr ""
+
+#. +> trunk5
+#: ../../<rst_epilog>:636
+msgid "appimage"
+msgstr ""
+
+#. +> trunk5
+#: ../../<rst_epilog>:640
+msgid "windows"
+msgstr ""
+
+#. +> trunk5
+#: ../../<rst_epilog>:644
+msgid "apple"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:14
+msgid "Video Waveform Monitor"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:24
+msgid "Maintained"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:26
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:34
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:36
+msgid "No"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:28
+msgid "avfilter"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:30
+msgid "waveform"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:32
+msgid "|linux| |appimage| |windows| |apple|"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:38
+msgid "10bit |color-management|"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:40
+msgid ":ref:`Yes <tutorials-waveform>` |view-presentation|"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:46
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:61
+msgid "Description"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:47
+msgid "This effect/filter plots color component intensity. By default luminance only. Each column of the waveform corresponds to a column of pixels in the source video."
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:49
+msgid ":doc:`/tips_and_tricks/scopes/waveform_and_rgb_parade`"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:52
+msgid "Parameters"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:59
+msgid "Parameter"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:60
+msgid "Value"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:62
+msgid "Mode"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:63
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:72
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:78
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:81
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:84
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:90
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:93
+msgid "Selection"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:64
+msgid "Select the orientation of the waveform: rows or columns"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:65
+msgid "Intensity"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:66
+msgid "Float"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:67
+msgid "Set intensity. Smaller values are useful to find out how many values of the same luminance are distributed across input rows/columns. Default value is 0.04. Allowed range is [0, 1]."
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:68
+msgid "Mirror"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:69
+msgid "Switch"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:70
+msgid "Set mirroring mode. In mirrored mode, higher values will be represented on the left side for row mode and at the top for column mode. Default is **Off**."
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:71
+msgid "Display"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:73
+msgid "Set display mode. See below for options and explanation."
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:74
+msgid "Components"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:75
+msgid "Integer"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:76
+msgid "Set which color components to display. Values represent different :term:`planes <plane>` (see below)."
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:77
+msgid "Envelope"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:79
+msgid "Set envelope. See below for options and explanation."
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:80
+msgid "Filter"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:82
+msgid "Set the filter to apply. See below for options and explanation."
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:83
+msgid "Graticule"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:85
+msgid "Select which graticule to display. See below for options."
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:86
+msgid "Graticule Opacity"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:87
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:96
+msgid "Percentage"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:88
+msgid "Set graticule opacity"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:89
+msgid "Flags"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:91
+msgid "Set graticule flags. See below for options."
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:92
+msgid "Scale"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:94
+msgid "Set scale used for displaying graticule. See below for options."
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:95
+msgid "Background Opacity"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:97
+msgid "Set background opacity"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:100
+msgid "The following selections are available:"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:102
+msgid ":guilabel:`Mode`"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:110
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:126
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:144
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:170
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:190
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:218
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:238
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:254
+msgid "**Value**"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:111
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:127
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:145
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:171
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:191
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:219
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:239
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:255
+msgid "**Description**"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:112
+msgid "Row"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:113
+msgid "Graph on the left side represents color component value 0 and the right side represents value = 255"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:114
+msgid "Column"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:115
+msgid "Top side represents color component value = 0 and bottom side represents value = 255."
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:118
+msgid ":guilabel:`Display`"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:128
+msgid "Overlay"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:129
+msgid "Presents information identical to **Parade**, except that the graphs representing color components are superimposed directly over one another. This display mode makes it easier to spot relative differences or similarities in overlapping areas of the color components that are supposed to be identical, such as neutral whites, grays, or blacks."
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:130
+msgid "Stack (default)"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:131
+msgid "Display separate graph for the color components side by side in row mode or one below the other in column mode."
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:132
+msgid "Parade"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:133
+msgid "Display separate graph for the color components side by side in column mode or one below the other in row mode. Using this display mode makes it easy to spot color casts in the highlights and shadows of an image, by comparing the contours of the top and the bottom graphs of each waveform. Since whites, grays, and blacks are characterized by exactly equal amounts of red, green, and blue, neutral areas of the picture should display three waveforms of roughly equal width/height. If not, the correction is easy to perform by making level adjustments to the three waveforms."
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:136
+msgid ":guilabel:`Components`"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:146
+msgid "Y"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:147
+msgid "Y (:term:`luma` or luminance)"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:148
+msgid "U"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:149
+msgid "U (blue minus luma)"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:150
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:151
+msgid "YU"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:152
+msgid "V"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:153
+msgid "V (red minus luma)"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:154
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:155
+msgid "YV"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:156
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:157
+msgid "UV"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:158
+msgid "All"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:159
+msgid "YUV (default)"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:162
+msgid ":guilabel:`Envelope`"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:172
+msgid "None (default)"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:173
+msgid "No envelope"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:174
+msgid "Instant"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:175
+msgid "Instant envelope, minimum and maximum values presented in graph will be easily visible even with small step value."
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:176
+msgid "Peak"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:177
+msgid "Hold minimum and maximum values presented in graph across time. This way you can still spot out of range values without constantly looking at waveforms."
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:178
+msgid "Peak+Instant"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:179
+msgid "Peak and instant envelope combined together"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:182
+msgid ":guilabel:`Filter`"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:192
+msgid "Lowpass (default)"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:193
+msgid "No filtering"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:194
+msgid "Flat"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:195
+msgid ":term:`Luma` and :term:`chroma` combined together"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:196
+msgid "Aflat"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:197
+msgid "Similar as above, but shows difference between blue and red chroma."
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:198
+msgid "Xflat"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:199
+msgid "Similar as above, but use different colors."
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:200
+msgid "Yflat"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:201
+msgid "Similar as above, but again with different colors."
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:202
+msgid "Chroma"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:203
+msgid "Displays only chroma"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:204
+msgid "Color"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:205
+msgid "Displays actual color value on waveform"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:206
+msgid "Acolor"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:207
+msgid "Similar as above, but with luma showing frequency of chroma values."
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:210
+msgid ":guilabel:`Graticule`"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:220
+msgid "None"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:221
+msgid "Do not display graticule"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:222
+msgid "Green (default)"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:223
+msgid "Display green graticule showing legal broadcast ranges"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:224
+msgid "Orange"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:225
+msgid "Display orange graticule showing legal broadcast ranges"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:226
+msgid "Invert"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:227
+msgid "Display invert graticule showing legal broadcast ranges"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:230
+msgid ":guilabel:`Flags`"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:240
+msgid "Show numbers (default)"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:241
+msgid "Draw numbers above lines"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:242
+msgid "Draw dots"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:243
+msgid "Draw dots instead of lines"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:246
+msgid ":guilabel:`Scale`"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:256
+msgid "Digital (default)"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:258
+msgid "Millivolts"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:260
+msgid "IRE"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:-1
+msgid "Kdenlive Video Effects - Video Waveform Monitor"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:-1
+msgid "KDE, Kdenlive, video editor, help, learn, easy, effects, filter, video effects, utility, video waveform monitor"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:0
+msgid "**Status**"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:0
+msgid "**Keyframes**"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:0
+msgid "**Source library**"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:0
+msgid "**Source filter**"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:0
+msgid "**Available**"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:0
+msgid "**On Master only**"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:0
+msgid "**Known bugs**"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:0
+msgid "**Color depth**"
+msgstr ""
+
+#. +> trunk5
+#: ../../effects_and_filters/video_effects/utility/video_waveform_monitor.rst:0
+msgid "**Tutorial**"
+msgstr ""

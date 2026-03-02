@@ -1,0 +1,399 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: websites-plasma-bigscreen-org 1.0\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2026-03-02 10:27+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. +> trunk5
+#: config.yaml:0
+msgid "A privacy-respecting, open source and secure TV ecosystem"
+msgstr ""
+
+#. +> trunk5
+#: config.yaml:0
+msgid "Project"
+msgstr ""
+
+#. +> trunk5
+#: config.yaml:0
+msgid "Documentation"
+msgstr ""
+
+#. +> trunk5
+#: config.yaml:0
+msgid "Community"
+msgstr ""
+
+#. plasma-on-your-tv
+#. +> trunk5
+#: content/_index.md:0 i18n/en.yaml:2
+msgid "Plasma Bigscreen"
+msgstr ""
+
+#. +> trunk5
+#: content/get.md:12
+msgid "Plasma Bigscreen is not yet widely available."
+msgstr ""
+
+#. +> trunk5
+#: content/get.md:14
+msgid "We are planning to join the Plasma release schedule starting with **Plasma 6.7** (in June), which will make it possible for distributions to ship it in their repositories."
+msgstr ""
+
+#. +> trunk5
+#: content/get.md:16
+msgid "In the meantime, there are some ways to test and try out Bigscreen, described below. Note that this is still in development, **proceed at your own risk!**"
+msgstr ""
+
+#. +> trunk5
+#: content/get.md:18
+msgid "You can check the status of Plasma Bigscreen on the [Matrix channel](https://matrix.to/#/#plasma-bigscreen:kde.org) or the [KDE Invent repository](https://invent.kde.org/plasma/plasma-bigscreen)."
+msgstr ""
+
+#. +> trunk5
+#: content/get.md:20
+msgid ""
+"<br />"
+"\n"
+msgstr ""
+
+#. +> trunk5
+#: content/get.md:23
+msgid "<div class=\"projects-container\">\n"
+msgstr ""
+
+#. +> trunk5
+#: content/get.md:25
+msgid ""
+"  <div class=\"project\">\n"
+"    <img src=\"/img/neon.svg\" class=\"project-logo\"/>\n"
+"    "
+"<h2 class=\"project-name\"><a href=\"https://neon.kde.org/\">KDE Neon</a></h2>"
+"\n"
+"    <div class=\"project-description\">\n"
+"      "
+"<p>\n"
+"        KDE Neon has a development version of Plasma Bigscreen in its repositories. This image, based on KDE neon, can be tested on x86-64 based computers.\n"
+"      </p>"
+"\n"
+"    </div>\n"
+"    "
+"<p class=\"project-buttons-row\">\n"
+"      <a href=\"https://files.kde.org/neon/images/bigscreen/\" class=\"mobile-main-button\">Downloads</a>\n"
+"    </p>"
+"\n"
+"  </div>\n"
+msgstr ""
+
+#. +> trunk5
+#: content/get.md:38
+msgid ""
+"  <div class=\"project\">\n"
+"    <img src=\"/img/pmOS.svg\" class=\"project-logo\"/>\n"
+"    "
+"<h2 class=\"project-name\"><a href=\"https://postmarketos.org/\">postmarketOS</a></h2>"
+"\n"
+"    <div class=\"project-description\">\n"
+"      "
+"<p>\n"
+"        PostmarketOS (pmOS) is a pre-configured Alpine Linux that can be installed on smartphones, SBC's and other mobile devices. View the <a href=\"https://wiki.postmarketos.org/wiki/Devices\">device list</a> to see the progress for supporting your device.\n"
+"      </p>"
+"\n"
+"      "
+"<p>\n"
+"        Plasma Bigscreen is currently only available in the <a href=\"https://wiki.postmarketos.org/wiki/Plasma_Mobile#Nightly_repository\">nightly repository</a> that tracks Plasma development. Follow the <a href=\"https://wiki.postmarketos.org/wiki/Plasma_Mobile#Nightly_repository\">setup guide</a> after installing pmOS regularly (ex. with Plasma Desktop).\n"
+"      </p>"
+"\n"
+"    </div>\n"
+"    "
+"<p class=\"project-buttons-row\">\n"
+"      <a href=\"https://postmarketos.org/\" class=\"mobile-main-button\" >Learn More</a>\n"
+"      <a href=\"https://postmarketos.org/download/\" class=\"mobile-secondary-button\">Downloads</a>\n"
+"      <a href=\"https://wiki.postmarketos.org/wiki/Devices\" class=\"mobile-secondary-button\">All Devices</a>\n"
+"    </p>"
+"\n"
+"  </div>\n"
+msgstr ""
+
+#. +> trunk5
+#: content/get.md:56
+msgid ""
+"  <div class=\"project\">\n"
+"    <img src=\"/img/triangles.png\" class=\"project-logo\"/>\n"
+"    "
+"<h2 class=\"project-name\">Building it yourself</h2>"
+"\n"
+"    <div class=\"project-description\">\n"
+"      "
+"<p>\n"
+"        Developers use the <a href=\"https://kde-builder.kde.org/en/\">kde-builder</a> utility to build and develop Plasma Bigscreen on most distros (with reasonably new dependencies, like Arch and Fedora). See the wiki page on how to set this up.\n"
+"      </p>"
+"\n"
+"    </div>\n"
+"    "
+"<p class=\"project-buttons-row\">\n"
+"      <a href=\"https://invent.kde.org/plasma/plasma-bigscreen/-/wikis/Building-and-Testing-Locally\" class=\"mobile-main-button\">Wiki</a>\n"
+"    </p>"
+"\n"
+"  </div>\n"
+"</div>\n"
+msgstr ""
+
+#. install
+#. +> trunk5
+#: content/get.md:0 i18n/en.yaml:4
+msgid "Install"
+msgstr ""
+
+#. +> trunk5
+#: content/get.md:0
+msgid "Get Plasma Bigscreen"
+msgstr ""
+
+#. +> trunk5
+#: content/get.md:0
+msgid "/reusable-assets/konqi-dev.png"
+msgstr ""
+
+#. +> trunk5
+#: content/join.md:12
+msgid "If you'd like to contribute to the amazing free software for TV's and setup-boxes, [join us - we always have a task for you](/contributing/)!"
+msgstr ""
+
+#. +> trunk5
+#: content/join.md:14
+msgid "[![](/img/matrix.svg)Matrix (most active)](https://matrix.to/#/#plasma-bigscreen:kde.org)"
+msgstr ""
+
+#. +> trunk5
+#: content/join.md:16
+msgid "[![](/img/telegram.svg)Telegram](https://t.me/plasma_bigscreen)"
+msgstr ""
+
+#. +> trunk5
+#: content/join.md:0
+msgid "Join Plasma Bigscreen"
+msgstr ""
+
+#. +> trunk5
+#: content/screenshots.md:0
+msgid "Screenshots"
+msgstr ""
+
+#. +> trunk5
+#: content/vision.md:12
+msgid ""
+"Plasma Bigscreen aims to become a complete and open software system for TV's and setup-boxes.<br />"
+" It is designed to give privacy-aware users back control over their information, communication and media."
+msgstr ""
+
+#. +> trunk5
+#: content/vision.md:15
+msgid ""
+"Plasma Bigscreen takes a pragmatic approach and is inclusive to 3rd party software, allowing the user to choose which applications and services to use, while providing a seamless experience across multiple devices.<br />"
+" Plasma Bigscreen implements open standards and is developed in a transparent process that is open for anyone to participate in."
+msgstr ""
+
+#. +> trunk5
+#: content/vision.md:0
+msgid "Our Vision"
+msgstr ""
+
+#. +> trunk5
+#: content/vision.md:0
+msgid "Vision"
+msgstr ""
+
+#. contribute
+#. +> trunk5
+#: i18n/en.yaml:6
+msgid "Contribute"
+msgstr ""
+
+#. community-title
+#. +> trunk5
+#: i18n/en.yaml:8
+msgid "Built by the Community"
+msgstr ""
+
+#. community-desc
+#. +> trunk5
+#: i18n/en.yaml:10
+msgid "Plasma Bigscreen is developed by open-source volunteers from the <a href=\"https://kde.org/\">KDE</a> community. Anyone can contribute, whether it's code, design, translations, or testing. It's built by people who care about software freedom and a better TV experience for everyone. The next contributor could be you! <a href=\"/contributing/\">Get involved</a>."
+msgstr ""
+
+#. home.whatis
+#. +> trunk5
+#: i18n/en.yaml:12
+msgid "What is Plasma Bigscreen?"
+msgstr ""
+
+#. home.whatis.description
+#. +> trunk5
+#: i18n/en.yaml:14
+msgid "Plasma Bigscreen is a free, open-source interface (i.e. desktop environment) for Linux designed for TVs, HTPCs, and set-top boxes. It can be shipped by any Linux operating system and run on the devices supported by that OS."
+msgstr ""
+
+#. home.why
+#. +> trunk5
+#: i18n/en.yaml:16
+msgid "Why?"
+msgstr ""
+
+#. home.why.description
+#. +> trunk5
+#: i18n/en.yaml:18
+msgid "The most common offerings on TVs and set-top boxes lack openness and trust. In a world of walled gardens, we want to create a platform that respects and protects the user's privacy to the fullest. We want to provide a fully open base which others can help develop and use for themselves, or in their products."
+msgstr ""
+
+#. home.settings
+#. +> trunk5
+#: i18n/en.yaml:20
+msgid "TV-Friendly Settings"
+msgstr ""
+
+#. home.settings.description
+#. +> trunk5
+#: i18n/en.yaml:22
+msgid "Manage your system right from the couch. Plasma Bigscreen includes a full settings app built for the big screen, letting you configure display, network, appearance, and more, all navigable with a TV remote or game controller."
+msgstr ""
+
+#. home.overlay
+#. +> trunk5
+#: i18n/en.yaml:24
+msgid "Always Within Reach"
+msgstr ""
+
+#. home.overlay.description
+#. +> trunk5
+#: i18n/en.yaml:26
+msgid "Press the home button from anywhere to bring up the home overlay, a convenient sidebar that lets you search for apps, open settings, jump back to the homescreen, or switch between running apps. Everything you need is just one button press away."
+msgstr ""
+
+#. home.customizable
+#. +> trunk5
+#: i18n/en.yaml:28
+msgid "Make It Yours"
+msgstr ""
+
+#. home.customizable.description
+#. +> trunk5
+#: i18n/en.yaml:30
+msgid "Personalize your homescreen to match your style. Rearrange apps, choose your favorite wallpaper, tweak color schemes, and adjust the layout. Plasma Bigscreen puts you in control of how your TV looks and feels."
+msgstr ""
+
+#. home.apps
+#. +> trunk5
+#: i18n/en.yaml:32
+msgid "Your Favorite Linux Apps"
+msgstr ""
+
+#. home.apps.description
+#. +> trunk5
+#: i18n/en.yaml:34
+msgid "Enjoy apps like Steam, <a href=\"https://kodi.tv/\">Kodi</a>, <a href=\"https://jellyfin.org/\">Jellyfin</a>, YouTube (via <a href=\"https://flathub.org/en/apps/rocks.shy.VacuumTube\">VacuumTube</a>) and thousands more on your TV. Install them through your Linux distribution's package manager or browse the vast catalog on <a href=\"https://flathub.org\">Flathub</a>."
+msgstr ""
+
+#. hero-tagline
+#. +> trunk5
+#: i18n/en.yaml:36
+msgid "An open-source TV interface for Linux. Your TV, your way."
+msgstr ""
+
+#. hero-cta-learn
+#. +> trunk5
+#: i18n/en.yaml:38
+msgid "Learn More"
+msgstr ""
+
+#. hero-cta-get
+#. +> trunk5
+#: i18n/en.yaml:40
+msgid "Get Started"
+msgstr ""
+
+#. features-title
+#. +> trunk5
+#: i18n/en.yaml:42
+msgid "Features"
+msgstr ""
+
+#. feature-privacy-title
+#. +> trunk5
+#: i18n/en.yaml:44
+msgid "TV-Friendly Interface"
+msgstr ""
+
+#. feature-privacy-desc
+#. +> trunk5
+#: i18n/en.yaml:46
+msgid "Control your computer from the couch. Launch apps, change settings, and switch between running applications, all through an interface designed for the big screen."
+msgstr ""
+
+#. feature-open-title
+#. +> trunk5
+#: i18n/en.yaml:48
+msgid "Fully Open Source"
+msgstr ""
+
+#. feature-open-desc
+#. +> trunk5
+#: i18n/en.yaml:50
+msgid "Built on proven open-source technologies like <a href=\"https://kde.org/plasma-desktop\">KDE Plasma</a>, <a href=\"https://invent.kde.org/plasma/kwin\">KWin</a>, <a href=\"https://kde.org/products/frameworks/\">KDE Frameworks</a>, <a href=\"https://www.qt.io/\">Qt</a>, and <a href=\"https://kde.org/products/kirigami/\">Kirigami</a>. Browse our source code on <a href=\"https://invent.kde.org/plasma/plasma-bigscreen\">KDE Invent</a>."
+msgstr ""
+
+#. feature-flexible-title
+#. +> trunk5
+#: i18n/en.yaml:52
+msgid "Flexible And Customizable"
+msgstr ""
+
+#. feature-flexible-desc
+#. +> trunk5
+#: i18n/en.yaml:54
+msgid "Based on the most flexible desktop in the world, your TV truly becomes your own. Install apps, tweak and customize the entire system to your liking, free of restrictions."
+msgstr ""
+
+#. feature-control-title
+#. +> trunk5
+#: i18n/en.yaml:56
+msgid "Multiple Input Methods"
+msgstr ""
+
+#. feature-control-desc
+#. +> trunk5
+#: i18n/en.yaml:58
+msgid "Navigate with your TV remote via CEC, a game controller, a keyboard and mouse, or even your phone via <a href=\"https://kdeconnect.kde.org/\">KDE Connect</a>. Plasma Bigscreen supports the input methods that make sense for you."
+msgstr ""
+
+#. tech-title
+#. +> trunk5
+#: i18n/en.yaml:60
+msgid "Built on Modern Linux Technologies"
+msgstr ""
+
+#. tech-description
+#. +> trunk5
+#: i18n/en.yaml:62
+msgid "Plasma Bigscreen leverages the modern Linux desktop stack and can be installed as a regular desktop environment on Linux distributions."
+msgstr ""
+
+#. cta-title
+#. +> trunk5
+#: i18n/en.yaml:64
+msgid "Ready to try Plasma Bigscreen?"
+msgstr ""
+
+#. cta-description
+#. +> trunk5
+#: i18n/en.yaml:66
+msgid "Get started with your own open-source TV experience today, or help make it even better."
+msgstr ""
