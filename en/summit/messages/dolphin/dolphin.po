@@ -32,7 +32,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "Your names"
 "Yukiko Bando,Fumiaki Okushi,Jumpei Ogawa,Ryuichi Yamada,Yuma Kakei,Zachary "
 "Winnerman"
 
@@ -40,56 +40,56 @@ msgstr ""
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "ybando@k6.dion.ne.jp,okushi@kde.gr.jp,phanective@gmail.com,ryuichi_ya220@outlook.jp,yumasansansan@gmail.com,zacharyw09264@gmail.com"
+msgstr "Your emails"
 
 #. +> trunk6 stable6
 #: admin/bar.cpp:45
 #, kde-format
 msgctxt "@info label above the view explaining the state"
 msgid "Acting as an Administrator — Be careful!"
-msgstr "管理者として行動します — 注意してください！"
+msgstr "Acting as an Administrator — Be careful!"
 
 #. +> trunk6 stable6
 #: admin/bar.cpp:46
 #, kde-format
 msgctxt "@info label above the view explaining the state, keep short"
 msgid "Acting as Admin"
-msgstr "管理者として行動"
+msgstr "Acting as Admin"
 
 #. +> trunk6 stable6
 #: admin/bar.cpp:55
 #, kde-format
 msgctxt "@action:button Finish/Stop/Done acting as an admin"
 msgid "Finish"
-msgstr "終了"
+msgstr "Finish"
 
 #. +> trunk6 stable6
 #: admin/bar.cpp:57
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Finish acting as an administrator"
-msgstr "管理者としての行動を終了する"
+msgstr "Finish acting as an administrator"
 
 #. +> trunk6 stable6
 #: admin/bar.cpp:140
 #, kde-format
 msgctxt "@action:button shown after acting as admin ended"
 msgid "Act as Administrator Again"
-msgstr "再び管理者として行動する"
+msgstr "Act as Administrator Again"
 
 #. +> trunk6 stable6
 #: admin/bar.cpp:148
 #, kde-format
 msgctxt "@info"
 msgid "Administrator authorization has expired."
-msgstr "管理者権限の有効期限が切れています。"
+msgstr "Administrator authorization has expired."
 
 #. +> trunk6 stable6
 #: admin/workerintegration.cpp:33
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Act as Administrator"
-msgstr "管理者として行動する"
+msgstr "Act as Administrator"
 
 #. +> trunk6 stable6
 #: admin/workerintegration.cpp:54
@@ -145,7 +145,7 @@ msgstr ""
 #, kde-format
 msgctxt "@title:window"
 msgid "How to Administrate"
-msgstr "管理方法"
+msgstr "How to Administrate"
 
 #. +> trunk6 stable6
 #: admin/workerintegration.cpp:98
@@ -179,35 +179,35 @@ msgstr ""
 #, kde-format
 msgctxt "@title:window"
 msgid "Risks of Acting as an Administrator"
-msgstr "管理者として行動するリスク"
+msgstr "Risks of Acting as an Administrator"
 
 #. +> trunk6 stable6
 #: admin/workerintegration.cpp:163
 #, kde-format
 msgctxt "@action:button"
 msgid "I Understand and Accept These Risks"
-msgstr "リスクを理解し、受け入れる"
+msgstr "I Understand and Accept These Risks"
 
 #. +> trunk6 stable6
 #: admin/workerintegration.cpp:165
 #, kde-format
 msgctxt "@option:check"
 msgid "Do not warn me about these risks again"
-msgstr "再度警告しない"
+msgstr "Do not warn me about these risks again"
 
 #. +> trunk6 stable6
 #: dolphincontextmenu.cpp:126
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Empty Trash"
-msgstr "ごみ箱を空にする"
+msgstr "Empty Trash"
 
 #. +> trunk6 stable6
 #: dolphincontextmenu.cpp:148 panels/places/placespanel.cpp:53
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Configure Trash…"
-msgstr "ごみ箱の設定..."
+msgstr "Configure Trash…"
 
 #. +> trunk6 stable6
 #: dolphincontextmenu.cpp:169
@@ -225,28 +225,28 @@ msgstr[0] "元の場所に復元"
 #, kde-format
 msgctxt "@title:menu Create new folder, file, link, etc."
 msgid "Create New"
-msgstr "新規作成(&C)"
+msgstr "Create New"
 
 #. +> trunk6 stable6
 #: dolphincontextmenu.cpp:244
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Open Path"
-msgstr "パスを開く"
+msgstr "Open Path"
 
 #. +> trunk6 stable6
 #: dolphincontextmenu.cpp:252
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Open Path in New Tab"
-msgstr "パスを新しいタブで開く"
+msgstr "Open Path in New Tab"
 
 #. +> trunk6 stable6
 #: dolphincontextmenu.cpp:260
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Open Path in New Window"
-msgstr "パスを新しいウィンドウで開く"
+msgstr "Open Path in New Window"
 
 #. +> trunk6 stable6
 #: dolphincontextmenu.cpp:509
@@ -254,7 +254,7 @@ msgstr "パスを新しいウィンドウで開く"
 msgctxt ""
 "@action:inmenu Shortcut, middle click to trigger menu item, keep short"
 msgid "Middle Click"
-msgstr "中クリック"
+msgstr "Middle Click"
 
 #. +> trunk6
 #: dolphincontextmenu.cpp:520
@@ -266,97 +266,97 @@ msgctxt ""
 "@action:inmenu Shortcut, shift + middle click to trigger menu item, keep "
 "short"
 msgid "Shift+Middle Click"
-msgstr "中クリック"
+msgstr "Shift+Middle Click"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:367
 #, kde-format
 msgctxt "@info:status"
 msgid "Successfully copied."
-msgstr "コピーしました。"
+msgstr "Successfully copied."
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:370
 #, kde-format
 msgctxt "@info:status"
 msgid "Successfully moved."
-msgstr "移動しました。"
+msgstr "Successfully moved."
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:373
 #, kde-format
 msgctxt "@info:status"
 msgid "Successfully linked."
-msgstr "リンクを作成しました。"
+msgstr "Successfully linked."
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:376
 #, kde-format
 msgctxt "@info:status"
 msgid "Successfully moved to trash."
-msgstr "ごみ箱に移動しました。"
+msgstr "Successfully moved to trash."
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:379
 #, kde-format
 msgctxt "@info:status"
 msgid "Successfully renamed."
-msgstr "名前を変更しました。"
+msgstr "Successfully renamed."
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:383
 #, kde-format
 msgctxt "@info:status"
 msgid "Created folder."
-msgstr "フォルダを作成しました。"
+msgstr "Created folder."
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:463
 #, kde-format
 msgctxt "@info"
 msgid "Go back"
-msgstr "戻る"
+msgstr "Go back"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:464
 #, kde-format
 msgctxt "@info:whatsthis go back"
 msgid "Return to the previously viewed folder."
-msgstr "以前に表示したフォルダーに戻ります。"
+msgstr "Return to the previously viewed folder."
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:470
 #, kde-format
 msgctxt "@info"
 msgid "Go forward"
-msgstr "進む"
+msgstr "Go forward"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:471
 #, kde-kuit-format
 msgctxt "@info:whatsthis go forward"
 msgid "This undoes a <interface>Go|Back</interface> action."
-msgstr "これは<interface>Go|Back</interface>アクションを元に戻します。"
+msgstr "This undoes a <interface>Go|Back</interface> action."
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:667 dolphinmainwindow.cpp:713
 #, kde-format
 msgctxt "@title:window"
 msgid "Confirmation"
-msgstr "確認"
+msgstr "Confirmation"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:671
 #, kde-format
 msgctxt "@action:button 'Quit Dolphin' button"
 msgid "&Quit %1"
-msgstr "%1 を終了(&Q)"
+msgstr "&Quit %1"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:673
 #, kde-format
 msgid "C&lose Current Tab"
-msgstr "現在のタブを閉じる(&L)"
+msgstr "C&lose Current Tab"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:682
@@ -370,13 +370,13 @@ msgstr "このウィンドウで複数のタブを開いています。本当に
 #: views/dolphinview.cpp:2250
 #, kde-format
 msgid "Do not ask again"
-msgstr "次回から確認しない"
+msgstr "Do not ask again"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:722
 #, kde-format
 msgid "Show &Terminal Panel"
-msgstr "ターミナルパネルを表示(&T)"
+msgstr "Show &Terminal Panel"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:732
@@ -391,28 +391,28 @@ msgstr "プログラム'%1'が現在ターミナルパネルで実行中です�
 #, kde-format
 msgctxt "@info"
 msgid "Cannot paste: The clipboard is empty."
-msgstr "貼り付けできません。クリップボードが空です。"
+msgstr "Cannot paste: The clipboard is empty."
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:982
 #, kde-format
 msgctxt "@info"
 msgid "Cannot paste: You do not have permission to write into this folder."
-msgstr "貼り付けできません。このフォルダに書き込む権限がありません。"
+msgstr "Cannot paste: You do not have permission to write into this folder."
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:1399
 #, kde-format
 msgctxt "@action:inmenu Tools"
 msgid "Open %1"
-msgstr "%1 を開く"
+msgstr "Open %1"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:1408 dolphinmainwindow.cpp:2219
 #, kde-format
 msgctxt "@action:inmenu Tools"
 msgid "Open Preferred Search Tool"
-msgstr "優先される検索ツールを開く"
+msgstr "Open Preferred Search Tool"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:1448
@@ -456,21 +456,21 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu menu for configure actions"
 msgid "Configure"
-msgstr "設定"
+msgstr "Configure"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:1843
 #, kde-format
 msgctxt "@action:inmenu File"
 msgid "New &Window"
-msgstr "新しいウィンドウ(&W)"
+msgstr "New &Window"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:1844
 #, kde-format
 msgctxt "@info"
 msgid "Open a new Dolphin window"
-msgstr "新しい Dolphin のウィンドウを開く"
+msgstr "Open a new Dolphin window"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:1846
@@ -488,7 +488,7 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu File"
 msgid "New Tab"
-msgstr "新しいタブ(&N)"
+msgstr "New Tab"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:1855
@@ -508,28 +508,28 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu Add current folder to places"
 msgid "Add to Places"
-msgstr "場所に追加"
+msgstr "Add to Places"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:1866
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
 msgid "This adds the selected folder to the Places panel."
-msgstr "これにより選択したフォルダが場所パネルに追加されます。"
+msgstr "This adds the selected folder to the Places panel."
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:1871
 #, kde-format
 msgctxt "@action:inmenu File"
 msgid "Close Tab"
-msgstr "タブを閉じる(&T)"
+msgstr "Close Tab"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:1872
 #, kde-format
 msgctxt "@info"
 msgid "Close Tab"
-msgstr "タブを閉じる"
+msgstr "Close Tab"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:1874
@@ -547,7 +547,7 @@ msgstr ""
 #, kde-format
 msgctxt "@info:whatsthis quit"
 msgid "This closes this window."
-msgstr "このウィンドウを閉じます。"
+msgstr "This closes this window."
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:1890
@@ -571,7 +571,7 @@ msgstr ""
 #, kde-format
 msgctxt "@action"
 msgid "Cut…"
-msgstr "切り取り..."
+msgstr "Cut…"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:1899
@@ -592,7 +592,7 @@ msgstr ""
 #, kde-format
 msgctxt "@action"
 msgid "Copy…"
-msgstr "コピー..."
+msgstr "Copy…"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:1908
@@ -612,7 +612,7 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu Edit"
 msgid "Paste"
-msgstr "貼り付け(&P)"
+msgstr "Paste"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:1919
@@ -632,14 +632,14 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Copy to Other View"
-msgstr "他のビューにコピー"
+msgstr "Copy to Other View"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:1927
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Copy to Other View…"
-msgstr "他のビューにコピー…"
+msgstr "Copy to Other View…"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:1929
@@ -657,21 +657,21 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu Edit"
 msgid "Copy to Other View"
-msgstr "他のビューにコピー"
+msgstr "Copy to Other View"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:1938
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Move to Other View"
-msgstr "他のビューに移動"
+msgstr "Move to Other View"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:1939
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Move to Other View…"
-msgstr "他のビューに移動…"
+msgstr "Move to Other View…"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:1941
@@ -689,21 +689,21 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu Edit"
 msgid "Move to Other View"
-msgstr "他のビューに移動"
+msgstr "Move to Other View"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:1950
 #, kde-format
 msgctxt "@action:inmenu Tools"
 msgid "Filter…"
-msgstr "フィルタ..."
+msgstr "Filter…"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:1951
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Show Filter Bar"
-msgstr "フィルタバーを表示"
+msgstr "Show Filter Bar"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:1953
@@ -724,27 +724,27 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Toggle Filter Bar"
-msgstr "フィルタバーをトグル"
+msgstr "Toggle Filter Bar"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:1966
 #, kde-format
 msgctxt "@action:intoolbar"
 msgid "Filter"
-msgstr "フィルタ"
+msgstr "Filter"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:1974 search/bar.cpp:214
 #, kde-format
 msgid "Search…"
-msgstr "検索..."
+msgstr "Search…"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:1975
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Search for files and folders"
-msgstr "ファイルとフォルダの検索"
+msgstr "Search for files and folders"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:1977
@@ -764,14 +764,14 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Toggle Search Bar"
-msgstr "検索バーをトグル"
+msgstr "Toggle Search Bar"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:1987
 #, kde-format
 msgctxt "@action:intoolbar"
 msgid "Search"
-msgstr "検索"
+msgstr "Search"
 
 #. i18n: This action toggles a selection mode.
 #. +> trunk6 stable6
@@ -779,7 +779,7 @@ msgstr "検索"
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Select Files and Folders"
-msgstr "ファイルとフォルダを選択"
+msgstr "Select Files and Folders"
 
 #. i18n: Opens a selection mode for selecting files/folders.
 #. The text is kept so unspecific because it will be shown on the toolbar where space is at a premium.
@@ -788,7 +788,7 @@ msgstr "ファイルとフォルダを選択"
 #, kde-format
 msgctxt "@action:intoolbar"
 msgid "Select"
-msgstr "選択"
+msgstr "Select"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2008
@@ -814,14 +814,14 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
 msgid "This selects all files and folders in the current location."
-msgstr "現在の場所にあるすべてのファイルとフォルダを選択します。"
+msgstr "This selects all files and folders in the current location."
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2035 dolphinpart.cpp:166
 #, kde-format
 msgctxt "@action:inmenu Edit"
 msgid "Invert Selection"
-msgstr "選択を反転(&I)"
+msgstr "Invert Selection"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2037
@@ -865,21 +865,21 @@ msgstr ""
 #, kde-format
 msgctxt "@action:intoolbar Stash"
 msgid "Stash"
-msgstr "隠し場所"
+msgstr "Stash"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2081
 #, kde-format
 msgctxt "@info"
 msgid "Opens the stash virtual directory in a split window"
-msgstr "隠し仮想ディレクトリを分割ビューで開く"
+msgstr "Opens the stash virtual directory in a split window"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2089
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Refresh view"
-msgstr "ビューを更新"
+msgstr "Refresh view"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2091
@@ -901,28 +901,28 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu View"
 msgid "Stop"
-msgstr "停止(&T)"
+msgstr "Stop"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2099
 #, kde-format
 msgctxt "@info"
 msgid "Stop loading"
-msgstr "読み込みを停止"
+msgstr "Stop loading"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2100
 #, kde-format
 msgctxt "@info"
 msgid "This stops the loading of the contents of the current folder."
-msgstr "現在のフォルダ読み込みを停止します。"
+msgstr "This stops the loading of the contents of the current folder."
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2105
 #, kde-format
 msgctxt "@action:inmenu Navigation Bar"
 msgid "Editable Location"
-msgstr "場所を編集"
+msgstr "Editable Location"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2107
@@ -943,7 +943,7 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu Navigation Bar"
 msgid "Replace Location"
-msgstr "場所を置換"
+msgstr "Replace Location"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2120
@@ -961,14 +961,14 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu File"
 msgid "Undo close tab"
-msgstr "閉じたタブを戻す"
+msgstr "Undo close tab"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2151
 #, kde-format
 msgctxt "@info:whatsthis undo close tab"
 msgid "This returns you to the previously closed tab."
-msgstr "これによって前に閉じたタブに戻ります。"
+msgstr "This returns you to the previously closed tab."
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2159
@@ -1025,14 +1025,14 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu Tools"
 msgid "Compare Files"
-msgstr "ファイルを比較(&C)"
+msgstr "Compare Files"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2213
 #, kde-format
 msgctxt "@action:inmenu Tools"
 msgid "Manage Disk Space Usage"
-msgstr "ディスク使用量を管理"
+msgstr "Manage Disk Space Usage"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2221
@@ -1052,7 +1052,7 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu Tools"
 msgid "Open Terminal"
-msgstr "ターミナルを開く(&T)"
+msgstr "Open Terminal"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2237
@@ -1073,7 +1073,7 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu Tools"
 msgid "Open Terminal Here"
-msgstr "ここでターミナルを開く"
+msgstr "Open Terminal Here"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2247
@@ -1093,7 +1093,7 @@ msgstr ""
 #, kde-format
 msgctxt "@title:menu"
 msgid "&Bookmarks"
-msgstr "ブックマーク(&B)"
+msgstr "&Bookmarks"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2265
@@ -1119,104 +1119,104 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Go to Tab %1"
-msgstr "%1 つ目のタブに行く"
+msgstr "Go to Tab %1"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2303
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Last Tab"
-msgstr "最後のタブ"
+msgstr "Last Tab"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2304
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Go to Last Tab"
-msgstr "最後のタブに行く"
+msgstr "Go to Last Tab"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2310
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Next Tab"
-msgstr "次のタブ"
+msgstr "Next Tab"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2311
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Go to Next Tab"
-msgstr "次のタブに行く"
+msgstr "Go to Next Tab"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2317
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Previous Tab"
-msgstr "前のタブ"
+msgstr "Previous Tab"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2318
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Go to Previous Tab"
-msgstr "前のタブに行く"
+msgstr "Go to Previous Tab"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2325
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Show Target"
-msgstr "ターゲットを表示"
+msgstr "Show Target"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2331
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Open in New Tab"
-msgstr "新しいタブで開く"
+msgstr "Open in New Tab"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2336
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Open in New Tabs"
-msgstr "新しいタブで開く"
+msgstr "Open in New Tabs"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2341
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Open in New Window"
-msgstr "新しいウィンドウで開く"
+msgstr "Open in New Window"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2346 panels/places/placespanel.cpp:45
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Open in Split View"
-msgstr "分割ビューで開く"
+msgstr "Open in Split View"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2358
 #, kde-format
 msgid "&Window Color Scheme"
-msgstr ""
+msgstr "&Window Color Scheme"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2371
 #, kde-format
 msgctxt "@action:inmenu Panels"
 msgid "Unlock Panels"
-msgstr "パネルのロックを解除"
+msgstr "Unlock Panels"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2373
 #, kde-format
 msgctxt "@action:inmenu Panels"
 msgid "Lock Panels"
-msgstr "パネルをロック"
+msgstr "Lock Panels"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2376
@@ -1238,7 +1238,7 @@ msgstr ""
 #, kde-format
 msgctxt "@title:window"
 msgid "Information"
-msgstr "情報|/|$[~setProps ~full '情報パネルを表示']"
+msgstr "Information"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2408
@@ -1291,7 +1291,7 @@ msgstr ""
 #, kde-format
 msgctxt "@title:window"
 msgid "Folders"
-msgstr "フォルダ|/|$[~setProps ~full 'フォルダパネルを表示']"
+msgstr "Folders"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2452
@@ -1327,7 +1327,7 @@ msgstr ""
 #, kde-format
 msgctxt "@title:window Shell terminal"
 msgid "Terminal"
-msgstr "ターミナル|/|$[~setProps ~full 'ターミナルを表示']"
+msgstr "Terminal"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2492
@@ -1371,21 +1371,21 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu Tools"
 msgid "Focus Terminal Panel"
-msgstr "ターミナルパネルをフォーカスする"
+msgstr "Focus Terminal Panel"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2511
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Move keyboard focus to and from the Terminal panel."
-msgstr ""
+msgstr "Move keyboard focus to and from the Terminal panel."
 
 #. +> trunk6
 #: dolphinmainwindow.cpp:2517
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Follow Directory Switch"
-msgstr ""
+msgstr "Follow Directory Switch"
 
 #. +> trunk6
 #: dolphinmainwindow.cpp:2519
@@ -1401,14 +1401,14 @@ msgstr ""
 #, kde-format
 msgctxt "@title:window"
 msgid "Places"
-msgstr "場所|/|$[~setProps ~full '場所パネルを表示']"
+msgstr "Places"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2563
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Show Hidden Places"
-msgstr "隠し場所を表示"
+msgstr "Show Hidden Places"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2567
@@ -1468,21 +1468,21 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu View"
 msgid "Focus Places Panel"
-msgstr "場所パネルをフォーカスする"
+msgstr "Focus Places Panel"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2601
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Move keyboard focus to and from the Places panel."
-msgstr "場所パネルへのキーボードフォーカスを移動します。"
+msgstr "Move keyboard focus to and from the Places panel."
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2607
 #, kde-format
 msgctxt "@action:inmenu View"
 msgid "Show Panels"
-msgstr "パネルを表示"
+msgstr "Show Panels"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2693
@@ -1506,7 +1506,7 @@ msgstr "削除できません。このフォルダ内の項目を削除する権
 #, kde-format
 msgctxt "@info"
 msgid "Cannot cut: You do not have permission to move items from this folder."
-msgstr "切り取りできません。このフォルダから項目を移動する権限がありません。"
+msgstr "Cannot cut: You do not have permission to move items from this folder."
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2703
@@ -1524,21 +1524,21 @@ msgstr ""
 #, kde-format
 msgctxt "@info"
 msgid "Cannot copy to other view: No files selected."
-msgstr "他のビューにコピーできません。ファイルが選択されていません。"
+msgstr "Cannot copy to other view: No files selected."
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2727
 #, kde-format
 msgctxt "@info"
 msgid "Cannot move to other view: No files selected."
-msgstr "他のビューに移動できません。ファイルが選択されていません。"
+msgstr "Cannot move to other view: No files selected."
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2746
 #, kde-format
 msgctxt "@info"
 msgid "Cannot copy to other view: The other view already contains these items."
-msgstr ""
+msgstr "Cannot copy to other view: The other view already contains these items."
 "他のビューにコピーできません。他のビューには既にこの項目が含まれています。"
 
 #. +> trunk6 stable6
@@ -1546,7 +1546,7 @@ msgstr ""
 #, kde-format
 msgctxt "@info"
 msgid "Cannot move to other view: The other view already contains these items."
-msgstr ""
+msgstr "Cannot move to other view: The other view already contains these items."
 "他のビューに移動できません。他のビューには既にこの項目が含まれています。"
 
 #. +> trunk6 stable6
@@ -1599,7 +1599,7 @@ msgstr ""
 #, kde-format
 msgctxt "@action:intoolbar Close left view"
 msgid "Close"
-msgstr "閉じる(&C)"
+msgstr "Close"
 
 #. +> trunk6
 #: dolphinmainwindow.cpp:2881 dolphinmainwindow.cpp:2900
@@ -1608,7 +1608,7 @@ msgstr "閉じる(&C)"
 #| msgid "Close Left View"
 msgctxt "@info View refer here to split view"
 msgid "Close Left View"
-msgstr "左のビューを閉じる"
+msgstr "Close Left View"
 
 #. +> trunk6
 #: dolphinmainwindow.cpp:2883 dolphinmainwindow.cpp:2902
@@ -1617,14 +1617,14 @@ msgstr "左のビューを閉じる"
 #| msgid "Close Left View"
 msgctxt "@action:inmenu View refer here to split view"
 msgid "Close Left View"
-msgstr "左のビューを閉じる"
+msgstr "Close Left View"
 
 #. +> stable6
 #: dolphinmainwindow.cpp:2827
 #, kde-format
 msgctxt "@action:inmenu Close left view"
 msgid "Close Left View"
-msgstr "左のビューを閉じる"
+msgstr "Close Left View"
 
 #. +> trunk6
 #: dolphinmainwindow.cpp:2885 dolphinmainwindow.cpp:2904
@@ -1633,14 +1633,14 @@ msgstr "左のビューを閉じる"
 #| msgid "Pop out Left View"
 msgctxt "@action:intoolbar Move left split view to a new window"
 msgid "Pop out Left View"
-msgstr "左のビューをポップアップする"
+msgstr "Pop out Left View"
 
 #. +> stable6
 #: dolphinmainwindow.cpp:2829
 #, kde-format
 msgctxt "@action:intoolbar Move left view to a new window"
 msgid "Pop out Left View"
-msgstr "左のビューをポップアップする"
+msgstr "Pop out Left View"
 
 #. +> trunk6
 #: dolphinmainwindow.cpp:2886 dolphinmainwindow.cpp:2905
@@ -1649,7 +1649,7 @@ msgstr "左のビューをポップアップする"
 #| msgid "Move left view to a new window"
 msgctxt "@info View refer here to split view"
 msgid "Move left split view to a new window"
-msgstr "左のビューを新しいウィンドウに移動する"
+msgstr "Move left split view to a new window"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2888 dolphinmainwindow.cpp:2907
@@ -1657,7 +1657,7 @@ msgstr "左のビューを新しいウィンドウに移動する"
 #, kde-format
 msgctxt "@action:intoolbar Close right view"
 msgid "Close"
-msgstr "閉じる(&C)"
+msgstr "Close"
 
 #. +> trunk6
 #: dolphinmainwindow.cpp:2889 dolphinmainwindow.cpp:2908
@@ -1667,7 +1667,7 @@ msgstr "閉じる(&C)"
 #| msgid "Close Right View"
 msgctxt "@info View refer here to split view"
 msgid "Close Right View"
-msgstr "右のビューを閉じる"
+msgstr "Close Right View"
 
 #. +> trunk6
 #: dolphinmainwindow.cpp:2891 dolphinmainwindow.cpp:2910
@@ -1677,14 +1677,14 @@ msgstr "右のビューを閉じる"
 #| msgid "Close Right View"
 msgctxt "@action:inmenu View refer here to split view"
 msgid "Close Right View"
-msgstr "右のビューを閉じる"
+msgstr "Close Right View"
 
 #. +> stable6
 #: dolphinmainwindow.cpp:2835
 #, kde-format
 msgctxt "@action:inmenu Close left view"
 msgid "Close Right View"
-msgstr "右のビューを閉じる"
+msgstr "Close Right View"
 
 #. +> trunk6
 #: dolphinmainwindow.cpp:2893 dolphinmainwindow.cpp:2912
@@ -1694,14 +1694,14 @@ msgstr "右のビューを閉じる"
 #| msgid "Pop out Right View"
 msgctxt "@action:intoolbar Move right split view to a new window"
 msgid "Pop out Right View"
-msgstr "右のビューをポップアップする"
+msgstr "Pop out Right View"
 
 #. +> stable6
 #: dolphinmainwindow.cpp:2837
 #, kde-format
 msgctxt "@action:intoolbar Move right view to a new window"
 msgid "Pop out Right View"
-msgstr "右のビューをポップアップする"
+msgstr "Pop out Right View"
 
 #. +> trunk6
 #: dolphinmainwindow.cpp:2894 dolphinmainwindow.cpp:2913
@@ -1711,56 +1711,56 @@ msgstr "右のビューをポップアップする"
 #| msgid "Move right view to a new window"
 msgctxt "@info View refer here to split view"
 msgid "Move right split view to a new window"
-msgstr "右のビューを新しいウィンドウに移動する"
+msgstr "Move right split view to a new window"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2935
 #, kde-format
 msgctxt "@action:intoolbar Split view"
 msgid "Split"
-msgstr "分割"
+msgstr "Split"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2937
 #, kde-format
 msgctxt "@info"
 msgid "Split view"
-msgstr "ビューを分割"
+msgstr "Split view"
 
 #. +> stable6
 #: dolphinmainwindow.cpp:2825
 #, kde-format
 msgctxt "@info"
 msgid "Close left view"
-msgstr "左のビューを閉じる"
+msgstr "Close left view"
 
 #. +> stable6
 #: dolphinmainwindow.cpp:2830
 #, kde-format
 msgctxt "@info"
 msgid "Move left view to a new window"
-msgstr "左のビューを新しいウィンドウに移動する"
+msgstr "Move left view to a new window"
 
 #. +> stable6
 #: dolphinmainwindow.cpp:2833
 #, kde-format
 msgctxt "@info"
 msgid "Close right view"
-msgstr "右のビューを閉じる"
+msgstr "Close right view"
 
 #. +> stable6
 #: dolphinmainwindow.cpp:2838
 #, kde-format
 msgctxt "@info"
 msgid "Move right view to a new window"
-msgstr "右のビューを新しいウィンドウに移動する"
+msgstr "Move right view to a new window"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2939
 #, kde-format
 msgctxt "@action:intoolbar Move view in focus to a new window"
 msgid "Pop out"
-msgstr "ポップアップする"
+msgstr "Pop out"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:2999
@@ -2004,47 +2004,47 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu Tools"
 msgid "Defocus Terminal Panel"
-msgstr "ターミナルパネルのフォーカスをやめる"
+msgstr "Defocus Terminal Panel"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:3185
 #, kde-format
 msgctxt "@action:inmenu View"
 msgid "Defocus Terminal Panel"
-msgstr "ターミナルパネルのフォーカスを解除"
+msgstr "Defocus Terminal Panel"
 
 #. +> trunk6 stable6
 #: dolphinmainwindow.cpp:3196
 #, kde-format
 msgctxt "@action:inmenu View"
 msgid "Defocus Places Panel"
-msgstr "場所パネルのフォーカスを解除"
+msgstr "Defocus Places Panel"
 
 #. +> trunk6 stable6
 #: dolphinnavigatorswidgetaction.cpp:229
 #, kde-format
 msgid "Enter server URL (e.g. smb://[ip address])"
-msgstr "サーバの URL を入力 (例: smb://[ip address])"
+msgstr "Enter server URL (e.g. smb://[ip address])"
 
 #. +> trunk6 stable6
 #: dolphinnavigatorswidgetaction.cpp:256
 #, kde-format
 msgctxt "@action:button"
 msgid "Empty Trash"
-msgstr "ごみ箱を空にする"
+msgstr "Empty Trash"
 
 #. +> trunk6 stable6
 #: dolphinnavigatorswidgetaction.cpp:257
 #, kde-format
 msgid "Empties Trash to create free space"
-msgstr "ごみ箱を空にして空き領域を確保する"
+msgstr "Empties Trash to create free space"
 
 #. +> trunk6 stable6
 #: dolphinnavigatorswidgetaction.cpp:283
 #, kde-format
 msgctxt "@action:button"
 msgid "Add Network Folder"
-msgstr "ネットワークフォルダを追加"
+msgstr "Add Network Folder"
 
 #. +> trunk6 stable6
 #: dolphinnavigatorswidgetaction.cpp:322
@@ -2059,14 +2059,14 @@ msgstr[0] "場所バー"
 #, kde-format
 msgctxt "@info:shell about system packages"
 msgid "Could not find package %1."
-msgstr "パッケージ %1 が見つかりません。"
+msgstr "Could not find package %1."
 
 #. +> trunk6 stable6
 #: dolphinpackageinstaller.cpp:89
 #, kde-format
 msgctxt "@info %1 is error code"
 msgid "Installation exited without reporting success. (%1)"
-msgstr "インストールが正常に終了しませんでした。(%1)"
+msgstr "Installation exited without reporting success. (%1)"
 
 #. +> trunk6 stable6
 #: dolphinpackageinstaller.cpp:108
@@ -2086,103 +2086,103 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu Edit"
 msgid "&Edit File Type…"
-msgstr "ファイルタイプを編集(&E)..."
+msgstr "&Edit File Type…"
 
 #. +> trunk6 stable6
 #: dolphinpart.cpp:151
 #, kde-format
 msgctxt "@action:inmenu Edit"
 msgid "Select Items Matching…"
-msgstr "マッチするアイテムを選択..."
+msgstr "Select Items Matching…"
 
 #. +> trunk6 stable6
 #: dolphinpart.cpp:156
 #, kde-format
 msgctxt "@action:inmenu Edit"
 msgid "Unselect Items Matching…"
-msgstr "マッチするアイテムの選択を解除..."
+msgstr "Unselect Items Matching…"
 
 #. +> trunk6 stable6
 #: dolphinpart.cpp:162
 #, kde-format
 msgctxt "@action:inmenu Edit"
 msgid "Unselect All"
-msgstr "すべて選択解除"
+msgstr "Unselect All"
 
 #. +> trunk6 stable6
 #: dolphinpart.cpp:177
 #, kde-format
 msgctxt "@action:inmenu Go"
 msgid "App&lications"
-msgstr "アプリケーション(&L)|/|$[~setProps ~full '移動: アプリケーション']"
+msgstr "App&lications"
 
 #. +> trunk6 stable6
 #: dolphinpart.cpp:178
 #, kde-format
 msgctxt "@action:inmenu Go"
 msgid "&Network Folders"
-msgstr "ネットワークフォルダ(&N)"
+msgstr "&Network Folders"
 
 #. +> trunk6 stable6
 #: dolphinpart.cpp:179
 #, kde-format
 msgctxt "@action:inmenu Go"
 msgid "Trash"
-msgstr "ごみ箱"
+msgstr "Trash"
 
 #. +> trunk6 stable6
 #: dolphinpart.cpp:182
 #, kde-format
 msgctxt "@action:inmenu Go"
 msgid "Autostart"
-msgstr "自動起動|/|$[~setProps ~full '移動: 自動起動']"
+msgstr "Autostart"
 
 #. +> trunk6 stable6
 #: dolphinpart.cpp:188
 #, kde-format
 msgctxt "@action:inmenu Tools"
 msgid "Find File…"
-msgstr "ファイルを検索..."
+msgstr "Find File…"
 
 #. +> trunk6 stable6
 #: dolphinpart.cpp:194
 #, kde-format
 msgctxt "@action:inmenu Tools"
 msgid "Open &Terminal"
-msgstr "ターミナルを開く(&T)"
+msgstr "Open &Terminal"
 
 #. +> trunk6 stable6
 #: dolphinpart.cpp:446
 #, kde-format
 msgctxt "@title:window"
 msgid "Select"
-msgstr "選択"
+msgstr "Select"
 
 #. +> trunk6 stable6
 #: dolphinpart.cpp:446
 #, kde-format
 msgid "Select all items matching this pattern:"
-msgstr "このパターンにマッチするすべてのアイテムを選択:"
+msgstr "Select all items matching this pattern:"
 
 #. +> trunk6 stable6
 #: dolphinpart.cpp:451
 #, kde-format
 msgctxt "@title:window"
 msgid "Unselect"
-msgstr "選択解除"
+msgstr "Unselect"
 
 #. +> trunk6 stable6
 #: dolphinpart.cpp:451
 #, kde-format
 msgid "Unselect all items matching this pattern:"
-msgstr "このパターンにマッチするすべてのアイテムの選択を解除:"
+msgstr "Unselect all items matching this pattern:"
 
 #. i18n: ectx: Menu (edit)
 #. +> trunk6 stable6
 #: dolphinpart.rc:5
 #, kde-format
 msgid "&Edit"
-msgstr "編集(&E)"
+msgstr "&Edit"
 
 #. i18n: ectx: Menu (selection)
 #. +> trunk6 stable6
@@ -2190,21 +2190,21 @@ msgstr "編集(&E)"
 #, kde-format
 msgctxt "@title:menu"
 msgid "Selection"
-msgstr "選択"
+msgstr "Selection"
 
 #. i18n: ectx: Menu (view)
 #. +> trunk6 stable6
 #: dolphinpart.rc:24
 #, kde-format
 msgid "&View"
-msgstr "表示(&V)"
+msgstr "&View"
 
 #. i18n: ectx: Menu (go)
 #. +> trunk6 stable6
 #: dolphinpart.rc:33
 #, kde-format
 msgid "&Go"
-msgstr "移動(&G)"
+msgstr "&Go"
 
 #. i18n: ectx: Menu (tools)
 #. +> trunk6 stable6
@@ -2212,7 +2212,7 @@ msgstr "移動(&G)"
 #, kde-format
 msgctxt "@title:menu"
 msgid "Tools"
-msgstr "ツール(&T)"
+msgstr "Tools"
 
 #. i18n: ectx: ToolBar (mainToolBar)
 #. +> trunk6 stable6
@@ -2220,47 +2220,47 @@ msgstr "ツール(&T)"
 #, kde-format
 msgctxt "@title:menu"
 msgid "Dolphin Toolbar"
-msgstr "Dolphin ツールバー"
+msgstr "Dolphin Toolbar"
 
 #. +> trunk6 stable6
 #: dolphinrecenttabsmenu.cpp:18
 #, kde-format
 msgid "Recently Closed Tabs"
-msgstr "最近閉じたタブ"
+msgstr "Recently Closed Tabs"
 
 #. +> trunk6 stable6
 #: dolphinrecenttabsmenu.cpp:23
 #, kde-format
 msgid "Empty Recently Closed Tabs"
-msgstr "最近閉じたタブを空にする"
+msgstr "Empty Recently Closed Tabs"
 
 #. +> trunk6 stable6
 #: dolphintabbar.cpp:184
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "New Tab"
-msgstr "新しいタブ(&N)"
+msgstr "New Tab"
 
 #. +> trunk6 stable6
 #: dolphintabbar.cpp:185
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Detach Tab"
-msgstr "タブを分離"
+msgstr "Detach Tab"
 
 #. +> trunk6 stable6
 #: dolphintabbar.cpp:186
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Close Other Tabs"
-msgstr "他のタブを閉じる(&C)"
+msgstr "Close Other Tabs"
 
 #. +> trunk6 stable6
 #: dolphintabbar.cpp:187
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Close Tab"
-msgstr "タブを閉じる(&T)"
+msgstr "Close Tab"
 
 #. +> trunk6 stable6
 #: dolphintabbar.cpp:189
@@ -2270,7 +2270,7 @@ msgstr "タブを閉じる(&T)"
 #| msgid_plural "Rename %2"
 msgctxt "@action:inmenu"
 msgid "Rename Tab"
-msgstr "%2 の名前を変更"
+msgstr "Rename Tab"
 
 #. +> trunk6 stable6
 #: dolphintabbar.cpp:208
@@ -2280,7 +2280,7 @@ msgstr "%2 の名前を変更"
 #| msgid_plural "Rename %2"
 msgctxt "@title:window for text input"
 msgid "Rename Tab"
-msgstr "%2 の名前を変更"
+msgstr "Rename Tab"
 
 #. +> trunk6 stable6
 #: dolphintabbar.cpp:208
@@ -2288,7 +2288,7 @@ msgstr "%2 の名前を変更"
 #| msgctxt "@info:status"
 #| msgid "New name #"
 msgid "New tab name:"
-msgstr "新しい名前 #"
+msgstr "New tab name:"
 
 #. i18n: This accessible name will be announced any time the user moves keyboard focus e.g. from the toolbar or the places panel towards the main working
 #. area of Dolphin. It gives structure. This container does not only contain the main view but also the status bar, the search panel, filter, and selection
@@ -2299,7 +2299,7 @@ msgstr "新しい名前 #"
 #| msgid "Location"
 msgctxt "accessible name of Dolphin's view container"
 msgid "Location View"
-msgstr "場所"
+msgstr "Location View"
 
 #. i18n: %1 is the primary view and %2 the secondary view. For left to right languages the primary view is on the left so we also want it to be on the
 #. left in the tab name. In right to left languages the primary view would be on the right so the tab name should match.
@@ -2325,7 +2325,7 @@ msgstr "(%1) | %2"
 #, kde-format
 msgctxt "@title:menu"
 msgid "Location Bar"
-msgstr "場所バー"
+msgstr "Location Bar"
 
 #. i18n: ectx: ToolBar (mainToolBar)
 #. +> trunk6 stable6
@@ -2333,7 +2333,7 @@ msgstr "場所バー"
 #, kde-format
 msgctxt "@title:menu"
 msgid "Main Toolbar"
-msgstr "メインツールバー"
+msgstr "Main Toolbar"
 
 #. +> trunk6 stable6
 #: dolphinurlnavigator.cpp:39
@@ -2364,48 +2364,48 @@ msgstr ""
 #, kde-format
 msgctxt "@info:tooltip of a 'locked' symbol in url navigator"
 msgid "This folder is not writable for you."
-msgstr "このフォルダに書き込む権限がありません。"
+msgstr "This folder is not writable for you."
 
 #. +> trunk6 stable6
 #: dolphinviewcontainer.cpp:104
 #, kde-format
 msgid "Running Dolphin as root can be dangerous. Please be careful."
-msgstr "Dolphin を root で実行することは危険です。お気を付けください。"
+msgstr "Running Dolphin as root can be dangerous. Please be careful."
 
 #. +> trunk6 stable6
 #: dolphinviewcontainer.cpp:155
 #, kde-format
 msgctxt "@info:progress"
 msgid "Loading folder…"
-msgstr "フォルダを読み込んでいます..."
+msgstr "Loading folder…"
 
 #. +> trunk6 stable6
 #: dolphinviewcontainer.cpp:158
 #, kde-format
 msgctxt "@info:progress"
 msgid "Sorting…"
-msgstr "ソート中..."
+msgstr "Sorting…"
 
 #. +> trunk6 stable6
 #: dolphinviewcontainer.cpp:682
 #, kde-format
 msgctxt "@info"
 msgid "Searching…"
-msgstr "検索中..."
+msgstr "Searching…"
 
 #. +> trunk6 stable6
 #: dolphinviewcontainer.cpp:702
 #, kde-format
 msgctxt "@info:status"
 msgid "No items found."
-msgstr "アイテムは見つかりませんでした。"
+msgstr "No items found."
 
 #. +> trunk6 stable6
 #: dolphinviewcontainer.cpp:893
 #, kde-format
 msgctxt "@info:status"
 msgid "Dolphin does not support web pages, the web browser has been launched"
-msgstr "Dolphin はウェブページを表示できません。ウェブブラウザを起動しました"
+msgstr "Dolphin does not support web pages, the web browser has been launched"
 
 #. +> trunk6 stable6
 #: dolphinviewcontainer.cpp:896
@@ -2422,21 +2422,21 @@ msgstr ""
 #, kde-format
 msgctxt "@info:status"
 msgid "Invalid protocol '%1'"
-msgstr "無効なプロトコル '%1'"
+msgstr "Invalid protocol '%1'"
 
 #. +> trunk6 stable6
 #: dolphinviewcontainer.cpp:905
 #, kde-format
 msgctxt "@info:status"
 msgid "Invalid protocol"
-msgstr "無効なプロトコル"
+msgstr "Invalid protocol"
 
 #. +> trunk6 stable6
 #: dolphinviewcontainer.cpp:1006
 #, kde-format
 msgctxt "@info"
 msgid "Authorization required to enter this folder."
-msgstr "このフォルダに入るには認証が必要です。"
+msgstr "Authorization required to enter this folder."
 
 #. +> trunk6 stable6
 #: dolphinviewcontainer.cpp:1011
@@ -2445,21 +2445,21 @@ msgstr "このフォルダに入るには認証が必要です。"
 #| msgid "Created folder."
 msgctxt "@action"
 msgid "Create missing folder"
-msgstr "フォルダを作成しました。"
+msgstr "Create missing folder"
 
 #. +> trunk6 stable6
 #: dolphinviewcontainer.cpp:1028
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Create the folder at this path and open it"
-msgstr ""
+msgstr "Create the folder at this path and open it"
 
 #. +> trunk6 stable6
 #: dolphinviewcontainer.cpp:1031
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "You do not have permission to create the folder"
-msgstr "フォルダを作成する権限がありません。"
+msgstr "You do not have permission to create the folder"
 
 #. +> trunk6 stable6
 #: dolphinviewcontainer.cpp:1075 dolphinviewcontainer.cpp:1078
@@ -2474,20 +2474,20 @@ msgstr ""
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Keep Filter When Changing Folders"
-msgstr "フォルダを変更したときにフィルタを維持する"
+msgstr "Keep Filter When Changing Folders"
 
 #. +> trunk6 stable6
 #: filterbar/filterbar.cpp:36
 #, kde-format
 msgid "Filter…"
-msgstr "フィルタ..."
+msgstr "Filter…"
 
 #. +> trunk6 stable6
 #: filterbar/filterbar.cpp:44
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Hide Filter Bar"
-msgstr "フィルタバーを隠す"
+msgstr "Hide Filter Bar"
 
 #. +> trunk6 stable6
 #: itemactions/hidefileitemaction.cpp:113
@@ -2496,28 +2496,28 @@ msgstr "フィルタバーを隠す"
 #| msgid "Hide"
 msgctxt "@action:inmenu"
 msgid "Hide"
-msgstr "隠す"
+msgstr "Hide"
 
 #. +> trunk6 stable6
 #: itemactions/hidefileitemaction.cpp:132
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Unhide"
-msgstr ""
+msgstr "Unhide"
 
 #. +> trunk6 stable6
 #: itemactions/movetonewfolderitemaction.cpp:37
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Move to New Folder…"
-msgstr "新しいフォルダに移動..."
+msgstr "Move to New Folder…"
 
 #. +> trunk6 stable6
 #: itemactions/setfoldericonitemaction.cpp:155
 #, kde-format
 msgctxt "@action open a submenu with additional entries"
 msgid "Other"
-msgstr "その他"
+msgstr "Other"
 
 #. +> trunk6 stable6
 #: itemactions/setfoldericonitemaction.cpp:156
@@ -2526,154 +2526,154 @@ msgstr "その他"
 #| msgid "Open folders during drag operations"
 msgctxt "@label"
 msgid "Other folder icon options"
-msgstr "ドラッグ操作中にフォルダを開く"
+msgstr "Other folder icon options"
 
 #. +> trunk6 stable6
 #: itemactions/setfoldericonitemaction.cpp:190
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Red"
-msgstr "赤色"
+msgstr "Red"
 
 #. +> trunk6 stable6
 #: itemactions/setfoldericonitemaction.cpp:191
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Yellow"
-msgstr "黄色"
+msgstr "Yellow"
 
 #. +> trunk6 stable6
 #: itemactions/setfoldericonitemaction.cpp:192
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Orange"
-msgstr "オレンジ色"
+msgstr "Orange"
 
 #. +> trunk6 stable6
 #: itemactions/setfoldericonitemaction.cpp:193
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Green"
-msgstr "緑色"
+msgstr "Green"
 
 #. +> trunk6 stable6
 #: itemactions/setfoldericonitemaction.cpp:194
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Cyan"
-msgstr "シアン"
+msgstr "Cyan"
 
 #. +> trunk6 stable6
 #: itemactions/setfoldericonitemaction.cpp:196
 #, kde-format
 msgctxt "@label: as in default folder icon"
 msgid "Default"
-msgstr "デフォルト"
+msgstr "Default"
 
 #. +> trunk6 stable6
 #: itemactions/setfoldericonitemaction.cpp:198
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Blue"
-msgstr "青色"
+msgstr "Blue"
 
 #. +> trunk6 stable6
 #: itemactions/setfoldericonitemaction.cpp:199
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Violet"
-msgstr "紫色"
+msgstr "Violet"
 
 #. +> trunk6 stable6
 #: itemactions/setfoldericonitemaction.cpp:200
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Brown"
-msgstr "茶色"
+msgstr "Brown"
 
 #. +> trunk6 stable6
 #: itemactions/setfoldericonitemaction.cpp:201
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Grey"
-msgstr "グレー"
+msgstr "Grey"
 
 #. +> trunk6 stable6
 #: itemactions/setfoldericonitemaction.cpp:204
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Bookmark"
-msgstr "ブックマーク"
+msgstr "Bookmark"
 
 #. +> trunk6 stable6
 #: itemactions/setfoldericonitemaction.cpp:205
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Cloud"
-msgstr "クラウド"
+msgstr "Cloud"
 
 #. +> trunk6 stable6
 #: itemactions/setfoldericonitemaction.cpp:206
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Development"
-msgstr "開発"
+msgstr "Development"
 
 #. +> trunk6 stable6
 #: itemactions/setfoldericonitemaction.cpp:207
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Games"
-msgstr "ゲーム"
+msgstr "Games"
 
 #. +> trunk6 stable6
 #: itemactions/setfoldericonitemaction.cpp:208
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Mail"
-msgstr "メール"
+msgstr "Mail"
 
 #. +> trunk6 stable6
 #: itemactions/setfoldericonitemaction.cpp:209
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Music"
-msgstr "音楽"
+msgstr "Music"
 
 #. +> trunk6 stable6
 #: itemactions/setfoldericonitemaction.cpp:210
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Print"
-msgstr "印刷"
+msgstr "Print"
 
 #. +> trunk6 stable6
 #: itemactions/setfoldericonitemaction.cpp:211
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Compressed"
-msgstr "圧縮"
+msgstr "Compressed"
 
 #. +> trunk6 stable6
 #: itemactions/setfoldericonitemaction.cpp:212
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Temporary"
-msgstr "一時フォルダ"
+msgstr "Temporary"
 
 #. +> trunk6 stable6
 #: itemactions/setfoldericonitemaction.cpp:213
 #, kde-format
 msgctxt "@label as in default folder color"
 msgid "Important"
-msgstr "重要"
+msgstr "Important"
 
 #. +> trunk6 stable6
 #: itemactions/setfoldericonitemaction.cpp:235
 #, kde-format
 msgctxt "@label %1 is a folder icon name (Red, Music...) etc"
 msgid "Set folder icon to %1"
-msgstr "フォルダアイコンを %1 に設定する"
+msgstr "Set folder icon to %1"
 
 #. +> trunk6 stable6
 #: kitemviews/accessibility/kitemlistdelegateaccessible.cpp:142
@@ -2682,21 +2682,21 @@ msgstr "フォルダアイコンを %1 に設定する"
 #| msgid "Forbidden"
 msgctxt "@info"
 msgid "hidden"
-msgstr "禁止"
+msgstr "hidden"
 
 #. +> trunk6 stable6
 #: kitemviews/accessibility/kitemlistdelegateaccessible.cpp:164
 #, kde-format
 msgctxt "@info enumeration saying this is a link to $1, %1 is mimeType"
 msgid ", link to %1 at %2"
-msgstr ""
+msgstr ", link to %1 at %2"
 
 #. +> trunk6 stable6
 #: kitemviews/accessibility/kitemlistdelegateaccessible.cpp:166
 #, kde-format
 msgctxt "@info enumeration, %1 is mimeType"
 msgid ", %1"
-msgstr ""
+msgstr ", %1"
 
 #. i18n: The text starts with a comma because multiple occurrences of this text can follow after each others as an enumeration.
 #. Normally it would make sense to have a colon between property and value to make the relation between the property and its property value
@@ -2709,7 +2709,7 @@ msgstr ""
 #, kde-format
 msgctxt "@info accessibility enumeration, %1 is property, %2 is value"
 msgid ", %1 %2"
-msgstr ""
+msgstr ", %1 %2"
 
 #. +> trunk6 stable6
 #: kitemviews/accessibility/kitemlistviewaccessible.cpp:268
@@ -2718,21 +2718,21 @@ msgctxt ""
 "@info 1 states that the folder is empty and sometimes why, 2 is the full "
 "filesystem path"
 msgid "%1 at location %2"
-msgstr ""
+msgstr "%1 at location %2"
 
 #. +> trunk6 stable6
 #: kitemviews/accessibility/kitemlistviewaccessible.cpp:284
 #, kde-format
 msgctxt "@info accessibility, 1 is path"
 msgid "in a grid layout in selection mode in location %1"
-msgstr ""
+msgstr "in a grid layout in selection mode in location %1"
 
 #. +> trunk6 stable6
 #: kitemviews/accessibility/kitemlistviewaccessible.cpp:286
 #, kde-format
 msgctxt "@info accessibility, 1 is path"
 msgid "in a grid layout in location %1"
-msgstr ""
+msgstr "in a grid layout in location %1"
 
 #. +> trunk6 stable6
 #: kitemviews/accessibility/kitemlistviewaccessible.cpp:290
@@ -2762,14 +2762,14 @@ msgstr[0] ""
 #| msgid_plural "Rename the %1 selected items to:"
 msgctxt "@info accessibility, 1 is path"
 msgid "in selection mode in location %1"
-msgstr "選択した %1 アイテムの新しい名前:"
+msgstr "in selection mode in location %1"
 
 #. +> trunk6 stable6
 #: kitemviews/accessibility/kitemlistviewaccessible.cpp:309
 #, fuzzy, kde-format
 msgctxt "@info accessibility, 1 is path"
 msgid "in location %1"
-msgstr "場所"
+msgstr "in location %1"
 
 #. +> trunk6 stable6
 #: kitemviews/accessibility/kitemlistviewaccessible.cpp:313
@@ -2800,7 +2800,7 @@ msgstr[0] "選択した %1 アイテムの新しい名前:"
 #| msgid "Selection Mode"
 msgctxt "accessibility announcement"
 msgid "Selection mode enabled"
-msgstr "選択モード"
+msgstr "Selection mode enabled"
 
 #. +> trunk6 stable6
 #: kitemviews/accessibility/kitemlistviewaccessible.cpp:520
@@ -2809,7 +2809,7 @@ msgstr "選択モード"
 #| msgid "Selection Mode"
 msgctxt "accessibility announcement"
 msgid "Selection mode disabled"
-msgstr "選択モード"
+msgstr "Selection mode disabled"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemlisttostring.cpp:22
@@ -2824,7 +2824,7 @@ msgstr "\"%1\""
 msgctxt ""
 "Textual representation of two files. %1 and %2 are names of files/folders."
 msgid "\"%1\" and \"%2\""
-msgstr "\"%1\" と \"%2\""
+msgstr "\"%1\" and \"%2\""
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemlisttostring.cpp:30
@@ -2833,7 +2833,7 @@ msgctxt ""
 "Textual representation of three files. %1, %2 and %3 are names of files/"
 "folders."
 msgid "\"%1\", \"%2\" and \"%3\""
-msgstr "\"%1\"、\"%2\" と \"%3\""
+msgstr "\"%1\", \"%2\" and \"%3\""
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemlisttostring.cpp:37
@@ -2842,7 +2842,7 @@ msgctxt ""
 "Textual representation of four files. %1, %2, %3 and %4 are names of files/"
 "folders."
 msgid "\"%1\", \"%2\", \"%3\" and \"%4\""
-msgstr "\"%1\"、\"%2\"、\"%3\" と \"%4\""
+msgstr "\"%1\", \"%2\", \"%3\" and \"%4\""
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemlisttostring.cpp:45
@@ -2851,7 +2851,7 @@ msgctxt ""
 "Textual representation of five files. %1, %2, %3, %4 and %5 are names of "
 "files/folders."
 msgid "\"%1\", \"%2\", \"%3\", \"%4\" and \"%5\""
-msgstr "\"%1\"、\"%2\"、\"%3\"、\"%4\" と \"%5\""
+msgstr "\"%1\", \"%2\", \"%3\", \"%4\" and \"%5\""
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemlisttostring.cpp:65
@@ -2932,49 +2932,49 @@ msgstr "0 - 9"
 #, kde-format
 msgctxt "@title:group"
 msgid "Others"
-msgstr "その他"
+msgstr "Others"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2426
 #, kde-format
 msgctxt "@title:group Size"
 msgid "Folders"
-msgstr "フォルダ"
+msgstr "Folders"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2434
 #, kde-format
 msgctxt "@title:group Size"
 msgid "Small"
-msgstr "小"
+msgstr "Small"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2436
 #, kde-format
 msgctxt "@title:group Size"
 msgid "Medium"
-msgstr "中"
+msgstr "Medium"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2438
 #, kde-format
 msgctxt "@title:group Size"
 msgid "Big"
-msgstr "大"
+msgstr "Big"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2484
 #, kde-format
 msgctxt "@title:group Date"
 msgid "Today"
-msgstr "今日"
+msgstr "Today"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2487
 #, kde-format
 msgctxt "@title:group Date"
 msgid "Yesterday"
-msgstr "昨日"
+msgstr "Yesterday"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2490
@@ -2996,28 +2996,28 @@ msgstr "%1"
 #, kde-format
 msgctxt "@title:group Date"
 msgid "One Week Ago"
-msgstr "1 週間前"
+msgstr "One Week Ago"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2502
 #, kde-format
 msgctxt "@title:group Date"
 msgid "Two Weeks Ago"
-msgstr "2 週間前"
+msgstr "Two Weeks Ago"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2505
 #, kde-format
 msgctxt "@title:group Date"
 msgid "Three Weeks Ago"
-msgstr "3 週間前"
+msgstr "Three Weeks Ago"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2509
 #, kde-format
 msgctxt "@title:group Date"
 msgid "Earlier this Month"
-msgstr "今月"
+msgstr "Earlier this Month"
 
 # |,no-bad-patterns
 # skip-rule: style-space3
@@ -3030,7 +3030,7 @@ msgctxt ""
 "similar. The ' is not shown to the user, it's there to mark a part of the "
 "text that should not be formatted as a date"
 msgid "'Yesterday' (MMMM, yyyy)"
-msgstr "'昨日' (MMMM, yyyy)"
+msgstr "'Yesterday' (MMMM, yyyy)"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2530
@@ -3072,7 +3072,7 @@ msgctxt ""
 "similar. The ' is not shown to the user, it's there to mark a part of the "
 "text that should not be formatted as a date"
 msgid "'One Week Ago' (MMMM, yyyy)"
-msgstr "'1 週間前' (MMMM, yyyy)"
+msgstr "'One Week Ago' (MMMM, yyyy)"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2562
@@ -3094,7 +3094,7 @@ msgctxt ""
 "similar. The ' is not shown to the user, it's there to mark a part of the "
 "text that should not be formatted as a date"
 msgid "'Two Weeks Ago' (MMMM, yyyy)"
-msgstr "'2 週間前' (MMMM, yyyy)"
+msgstr "'Two Weeks Ago' (MMMM, yyyy)"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2583
@@ -3116,7 +3116,7 @@ msgctxt ""
 "similar. The ' is not shown to the user, it's there to mark a part of the "
 "text that should not be formatted as a date"
 msgid "'Three Weeks Ago' (MMMM, yyyy)"
-msgstr "'3 週間前' (MMMM, yyyy)"
+msgstr "'Three Weeks Ago' (MMMM, yyyy)"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2604
@@ -3138,7 +3138,7 @@ msgctxt ""
 "similar. The ' is not shown to the user, it's there to mark a part of the "
 "text that should not be formatted as a date"
 msgid "'Earlier on' MMMM, yyyy"
-msgstr "'つい先ほど' MMMM, yyyy"
+msgstr "'Earlier on' MMMM, yyyy"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2625
@@ -3156,7 +3156,7 @@ msgctxt ""
 "@title:group The month and year: MMMM is full month name in current locale, "
 "and yyyy is full year number"
 msgid "MMMM, yyyy"
-msgstr "MMMM、yyyy年"
+msgstr "MMMM, yyyy"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2643
@@ -3173,7 +3173,7 @@ msgstr "%1"
 #, kde-format
 msgctxt "@item:intext Access permission, concatenated"
 msgid "Read, "
-msgstr "読み取り、"
+msgstr "Read, "
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2686 kitemviews/kfileitemmodel.cpp:2699
@@ -3181,7 +3181,7 @@ msgstr "読み取り、"
 #, kde-format
 msgctxt "@item:intext Access permission, concatenated"
 msgid "Write, "
-msgstr "書き込み、"
+msgstr "Write, "
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2689 kitemviews/kfileitemmodel.cpp:2702
@@ -3189,7 +3189,7 @@ msgstr "書き込み、"
 #, kde-format
 msgctxt "@item:intext Access permission, concatenated"
 msgid "Execute, "
-msgstr "実行、"
+msgstr "Execute, "
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2691 kitemviews/kfileitemmodel.cpp:2704
@@ -3197,81 +3197,81 @@ msgstr "実行、"
 #, kde-format
 msgctxt "@item:intext Access permission, concatenated"
 msgid "Forbidden"
-msgstr "禁止"
+msgstr "Forbidden"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2719
 #, kde-format
 msgctxt "@title:group Files and folders by permissions"
 msgid "User: %1 | Group: %2 | Others: %3"
-msgstr "ユーザ: %1 | グループ: %2 | その他: %3"
+msgstr "User: %1 | Group: %2 | Others: %3"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2809
 msgctxt "@label"
 msgid "Name"
-msgstr "名前"
+msgstr "Name"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2810
 msgctxt "@label"
 msgid "Size"
-msgstr "サイズ"
+msgstr "Size"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2811
 msgctxt "@label"
 msgid "Modified"
-msgstr "更新日"
+msgstr "Modified"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2811 kitemviews/kfileitemmodel.cpp:2812
 #: kitemviews/kfileitemmodel.cpp:2813
 msgctxt "@tooltip"
 msgid "The date format can be selected in settings."
-msgstr "日付の表示形式は設定で選択できます。"
+msgstr "The date format can be selected in settings."
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2812
 msgctxt "@label"
 msgid "Created"
-msgstr "作成日"
+msgstr "Created"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2813
 msgctxt "@label"
 msgid "Accessed"
-msgstr "アクセス日"
+msgstr "Accessed"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2814
 msgctxt "@label"
 msgid "Type"
-msgstr "タイプ"
+msgstr "Type"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2815
 msgctxt "@label"
 msgid "Rating"
-msgstr "評価"
+msgstr "Rating"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2816
 msgctxt "@label"
 msgid "Tags"
-msgstr "タグ"
+msgstr "Tags"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2817
 msgctxt "@label"
 msgid "Comment"
-msgstr "コメント"
+msgstr "Comment"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2818
 msgctxt "@label"
 msgid "Title"
-msgstr "タイトル"
+msgstr "Title"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2818 kitemviews/kfileitemmodel.cpp:2819
@@ -3279,43 +3279,43 @@ msgstr "タイトル"
 #: kitemviews/kfileitemmodel.cpp:2822 kitemviews/kfileitemmodel.cpp:2823
 msgctxt "@label"
 msgid "Document"
-msgstr "文書"
+msgstr "Document"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2819
 msgctxt "@label"
 msgid "Author"
-msgstr "作者"
+msgstr "Author"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2820
 msgctxt "@label"
 msgid "Publisher"
-msgstr "出版者"
+msgstr "Publisher"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2821
 msgctxt "@label"
 msgid "Page Count"
-msgstr "ページ数"
+msgstr "Page Count"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2822
 msgctxt "@label"
 msgid "Word Count"
-msgstr "単語数"
+msgstr "Word Count"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2823
 msgctxt "@label"
 msgid "Line Count"
-msgstr "行数"
+msgstr "Line Count"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2824
 msgctxt "@label"
 msgid "Date Photographed"
-msgstr "撮影日"
+msgstr "Date Photographed"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2824 kitemviews/kfileitemmodel.cpp:2825
@@ -3323,37 +3323,37 @@ msgstr "撮影日"
 #: kitemviews/kfileitemmodel.cpp:2828
 msgctxt "@label"
 msgid "Image"
-msgstr "画像"
+msgstr "Image"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2825 kitemviews/kfileitemmodel.cpp:2841
 msgctxt "@label width x height"
 msgid "Dimensions"
-msgstr "面積"
+msgstr "Dimensions"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2826 kitemviews/kfileitemmodel.cpp:2844
 msgctxt "@label"
 msgid "Height"
-msgstr "高さ"
+msgstr "Height"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2827
 msgctxt "@label"
 msgid "Orientation"
-msgstr "方向"
+msgstr "Orientation"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2828 kitemviews/kfileitemmodel.cpp:2847
 msgctxt "@label"
 msgid "Width"
-msgstr "幅"
+msgstr "Width"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2829
 msgctxt "@label"
 msgid "Album"
-msgstr "アルバム"
+msgstr "Album"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2829 kitemviews/kfileitemmodel.cpp:2830
@@ -3362,13 +3362,13 @@ msgstr "アルバム"
 #: kitemviews/kfileitemmodel.cpp:2835 kitemviews/kfileitemmodel.cpp:2836
 msgctxt "@label"
 msgid "Audio"
-msgstr "音声"
+msgstr "Audio"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2830
 msgctxt "@label"
 msgid "Artist"
-msgstr "アーティスト"
+msgstr "Artist"
 
 #. +> trunk6
 #: kitemviews/kfileitemmodel.cpp:2831 kitemviews/kfileitemmodel.cpp:2838
@@ -3377,43 +3377,43 @@ msgstr "アーティスト"
 #| msgid "Audio Files"
 msgctxt "@label"
 msgid "Audio Codec"
-msgstr "音声ファイル"
+msgstr "Audio Codec"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2832 kitemviews/kfileitemmodel.cpp:2839
 msgctxt "@label"
 msgid "Bitrate"
-msgstr "ビットレート"
+msgstr "Bitrate"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2833 kitemviews/kfileitemmodel.cpp:2842
 msgctxt "@label"
 msgid "Duration"
-msgstr "長さ"
+msgstr "Duration"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2834
 msgctxt "@label"
 msgid "Genre"
-msgstr "ジャンル"
+msgstr "Genre"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2835
 msgctxt "@label"
 msgid "Release Year"
-msgstr "リリース年"
+msgstr "Release Year"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2836
 msgctxt "@label"
 msgid "Track"
-msgstr "トラック"
+msgstr "Track"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2837
 msgctxt "@label"
 msgid "Aspect Ratio"
-msgstr "アスペクト比"
+msgstr "Aspect Ratio"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2837 kitemviews/kfileitemmodel.cpp:2838
@@ -3424,25 +3424,25 @@ msgstr "アスペクト比"
 #: kitemviews/kfileitemmodel.cpp:2847
 msgctxt "@label"
 msgid "Video"
-msgstr "動画"
+msgstr "Video"
 
 #. +> trunk6
 #: kitemviews/kfileitemmodel.cpp:2840
 msgctxt "@label"
 msgid "Color Space"
-msgstr ""
+msgstr "Color Space"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2843
 msgctxt "@label"
 msgid "Frame Rate"
-msgstr "フレームレート"
+msgstr "Frame Rate"
 
 #. +> trunk6
 #: kitemviews/kfileitemmodel.cpp:2845
 msgctxt "@label"
 msgid "Pixel Format"
-msgstr ""
+msgstr "Pixel Format"
 
 #. +> trunk6
 #: kitemviews/kfileitemmodel.cpp:2846
@@ -3451,13 +3451,13 @@ msgstr ""
 #| msgid "Video"
 msgctxt "@label"
 msgid "Video Codec"
-msgstr "動画"
+msgstr "Video Codec"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2848
 msgctxt "@label"
 msgid "Path"
-msgstr "パス"
+msgstr "Path"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2848 kitemviews/kfileitemmodel.cpp:2849
@@ -3466,37 +3466,37 @@ msgstr "パス"
 #: kitemviews/kfileitemmodel.cpp:2854 kitemviews/kfileitemmodel.cpp:2855
 msgctxt "@label"
 msgid "Other"
-msgstr "その他"
+msgstr "Other"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2849
 msgctxt "@label"
 msgid "File Extension"
-msgstr "ファイル拡張子"
+msgstr "File Extension"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2850
 msgctxt "@label"
 msgid "Deletion Time"
-msgstr "削除日時"
+msgstr "Deletion Time"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2851
 msgctxt "@label"
 msgid "Link Destination"
-msgstr "リンク先"
+msgstr "Link Destination"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2852
 msgctxt "@label"
 msgid "Downloaded From"
-msgstr "ダウンロード元"
+msgstr "Downloaded From"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2853
 msgctxt "@label"
 msgid "Permissions"
-msgstr "パーミッション"
+msgstr "Permissions"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2853
@@ -3510,20 +3510,20 @@ msgstr ""
 #: kitemviews/kfileitemmodel.cpp:2854
 msgctxt "@label"
 msgid "Owner"
-msgstr "所有者"
+msgstr "Owner"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2855
 msgctxt "@label"
 msgid "User Group"
-msgstr "ユーザグループ"
+msgstr "User Group"
 
 #. +> trunk6 stable6
 #: kitemviews/kfileitemmodel.cpp:2956
 #, kde-format
 msgctxt "@info:status"
 msgid "Unknown error."
-msgstr "未知のエラー。"
+msgstr "Unknown error."
 
 #. +> trunk6 stable6
 #: kitemviews/kstandarditemlistwidget.cpp:121
@@ -3561,14 +3561,14 @@ msgstr "Dolphin"
 #, kde-format
 msgctxt "@title"
 msgid "File Manager"
-msgstr "ファイルマネージャ"
+msgstr "File Manager"
 
 #. +> trunk6 stable6
 #: main.cpp:99
 #, kde-format
 msgctxt "@info:credit"
 msgid "© 2006–2025 The Dolphin Developers"
-msgstr "(C) 2006-2025 The Dolphin Developers"
+msgstr "© 2006–2025 The Dolphin Developers"
 
 #. +> trunk6 stable6
 #: main.cpp:101
@@ -3582,7 +3582,7 @@ msgstr "Felix Ernst"
 #, kde-format
 msgctxt "@info:credit"
 msgid "Maintainer (since 2021) and developer"
-msgstr "メンテナ (2021-) および開発者"
+msgstr "Maintainer (since 2021) and developer"
 
 #. +> trunk6 stable6
 #: main.cpp:104
@@ -3596,7 +3596,7 @@ msgstr "Méven Car"
 #, kde-format
 msgctxt "@info:credit"
 msgid "Maintainer (since 2021) and developer (since 2019)"
-msgstr "メンテナ (2021-) および開発者 (2019-)"
+msgstr "Maintainer (since 2021) and developer (since 2019)"
 
 #. +> trunk6 stable6
 #: main.cpp:107
@@ -3610,7 +3610,7 @@ msgstr "Elvis Angelaccio"
 #, kde-format
 msgctxt "@info:credit"
 msgid "Maintainer (2018–2021) and developer"
-msgstr "メンテナ (2018-2021) および開発者"
+msgstr "Maintainer (2018–2021) and developer"
 
 #. +> trunk6 stable6
 #: main.cpp:110
@@ -3624,7 +3624,7 @@ msgstr "Emmanuel Pescosta"
 #, kde-format
 msgctxt "@info:credit"
 msgid "Maintainer (2014–2018) and developer"
-msgstr "メンテナ (2014-2018) および開発者"
+msgstr "Maintainer (2014–2018) and developer"
 
 #. +> trunk6 stable6
 #: main.cpp:113
@@ -3638,7 +3638,7 @@ msgstr "Frank Reininghaus"
 #, kde-format
 msgctxt "@info:credit"
 msgid "Maintainer (2012–2014) and developer"
-msgstr "メンテナ (2012-2014) および開発者"
+msgstr "Maintainer (2012–2014) and developer"
 
 #. +> trunk6 stable6
 #: main.cpp:116
@@ -3652,7 +3652,7 @@ msgstr "Peter Penz"
 #, kde-format
 msgctxt "@info:credit"
 msgid "Maintainer and developer (2006–2012)"
-msgstr "メンテナおよび開発者 (2006-2012)"
+msgstr "Maintainer and developer (2006–2012)"
 
 #. +> trunk6 stable6
 #: main.cpp:119
@@ -3667,7 +3667,7 @@ msgstr "Sebastian Trüg"
 #, kde-format
 msgctxt "@info:credit"
 msgid "Developer"
-msgstr "開発者"
+msgstr "Developer"
 
 #. +> trunk6 stable6
 #: main.cpp:120
@@ -3723,63 +3723,63 @@ msgstr "Michael Austin"
 #, kde-format
 msgctxt "@info:credit"
 msgid "Documentation"
-msgstr "ドキュメンテーション"
+msgstr "Documentation"
 
 #. +> trunk6 stable6
 #: main.cpp:137
 #, kde-format
 msgctxt "@info:shell"
 msgid "The files and folders passed as arguments will be selected."
-msgstr "引数として指定されたファイルとディレクトリが選択されています。"
+msgstr "The files and folders passed as arguments will be selected."
 
 #. +> trunk6 stable6
 #: main.cpp:139
 #, kde-format
 msgctxt "@info:shell"
 msgid "Dolphin will get started with a split view."
-msgstr "Dolphin は分割ビューが有効な状態で起動します。"
+msgstr "Dolphin will get started with a split view."
 
 #. +> trunk6 stable6
 #: main.cpp:140
 #, kde-format
 msgctxt "@info:shell"
 msgid "Dolphin will explicitly open in a new window."
-msgstr "Dolphin は新しいウィンドウで明示的に開きます。"
+msgstr "Dolphin will explicitly open in a new window."
 
 #. +> trunk6 stable6
 #: main.cpp:142
 #, kde-format
 msgctxt "@info:shell"
 msgid "Set up Dolphin for administrative tasks."
-msgstr ""
+msgstr "Set up Dolphin for administrative tasks."
 
 #. +> trunk6 stable6
 #: main.cpp:144
 #, kde-format
 msgctxt "@info:shell"
 msgid "Start Dolphin Daemon (only required for DBus Interface)."
-msgstr "Dolphin Daemon の起動 (D-Bus インターフェースの場合のみ必要です。)"
+msgstr "Start Dolphin Daemon (only required for DBus Interface)."
 
 #. +> trunk6 stable6
 #: main.cpp:145
 #, kde-format
 msgctxt "@info:shell"
 msgid "Document to open"
-msgstr "開く文書"
+msgstr "Document to open"
 
 #. i18n: ectx: label, entry (HiddenFilesShown), group (FoldersPanel)
 #. +> trunk6 stable6
 #: panels/folders/dolphin_folderspanelsettings.kcfg:10
 #, kde-format
 msgid "Hidden files shown"
-msgstr "隠しファイルを表示"
+msgstr "Hidden files shown"
 
 #. i18n: ectx: label, entry (LimitFoldersPanelToHome), group (FoldersPanel)
 #. +> trunk6 stable6
 #: panels/folders/dolphin_folderspanelsettings.kcfg:14
 #, kde-format
 msgid "Limit folders panel to home directory if inside home"
-msgstr ""
+msgstr "Limit folders panel to home directory if inside home"
 "ホームディレクトリの内側にある場合、フォルダパネルをホームディレクトリに限定"
 
 #. i18n: ectx: label, entry (AutoScrolling), group (FoldersPanel)
@@ -3787,140 +3787,140 @@ msgstr ""
 #: panels/folders/dolphin_folderspanelsettings.kcfg:18
 #, kde-format
 msgid "Automatic scrolling"
-msgstr "自動スクロール"
+msgstr "Automatic scrolling"
 
 #. +> trunk6 stable6
 #: panels/folders/treeviewcontextmenu.cpp:48
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Cut"
-msgstr "切り取り(&T)"
+msgstr "Cut"
 
 #. +> trunk6 stable6
 #: panels/folders/treeviewcontextmenu.cpp:52
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Copy"
-msgstr "コピー(&C)"
+msgstr "Copy"
 
 #. +> trunk6 stable6
 #: panels/folders/treeviewcontextmenu.cpp:68
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Rename…"
-msgstr "名前を変更..."
+msgstr "Rename…"
 
 #. +> trunk6 stable6
 #: panels/folders/treeviewcontextmenu.cpp:81
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Move to Trash"
-msgstr "ごみ箱に移動"
+msgstr "Move to Trash"
 
 #. +> trunk6 stable6
 #: panels/folders/treeviewcontextmenu.cpp:91
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Delete"
-msgstr "削除"
+msgstr "Delete"
 
 #. +> trunk6 stable6
 #: panels/folders/treeviewcontextmenu.cpp:101
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Show Hidden Files"
-msgstr "隠しファイルを表示(&H)"
+msgstr "Show Hidden Files"
 
 #. +> trunk6 stable6
 #: panels/folders/treeviewcontextmenu.cpp:111
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Limit to Home Directory"
-msgstr "ホームディレクトリへの制限"
+msgstr "Limit to Home Directory"
 
 #. +> trunk6 stable6
 #: panels/folders/treeviewcontextmenu.cpp:120
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Automatic Scrolling"
-msgstr "自動スクロール"
+msgstr "Automatic Scrolling"
 
 #. +> trunk6 stable6
 #: panels/folders/treeviewcontextmenu.cpp:130
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Properties"
-msgstr "プロパティ(&E)"
+msgstr "Properties"
 
 #. i18n: ectx: label, entry (previewsShown), group (InformationPanel)
 #. +> trunk6 stable6
 #: panels/information/dolphin_informationpanelsettings.kcfg:10
 #, kde-format
 msgid "Previews shown"
-msgstr "プレビューを表示"
+msgstr "Previews shown"
 
 #. i18n: ectx: label, entry (previewsAutoPlay), group (InformationPanel)
 #. +> trunk6 stable6
 #: panels/information/dolphin_informationpanelsettings.kcfg:14
 #, kde-format
 msgid "Auto-Play media files"
-msgstr "メディアファイルを自動再生"
+msgstr "Auto-Play media files"
 
 #. i18n: ectx: label, entry (showHovered), group (InformationPanel)
 #. +> trunk6 stable6
 #: panels/information/dolphin_informationpanelsettings.kcfg:18
 #, kde-format
 msgid "Show item on hover"
-msgstr "マウスホバーでアイテムを表示"
+msgstr "Show item on hover"
 
 #. i18n: ectx: label, entry (dateFormat), group (InformationPanel)
 #. +> trunk6 stable6
 #: panels/information/dolphin_informationpanelsettings.kcfg:22
 #, kde-format
 msgid "Date display format"
-msgstr "日付表示形式"
+msgstr "Date display format"
 
 #. +> trunk6 stable6
 #: panels/information/informationpanel.cpp:160
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Preview"
-msgstr "プレビュー"
+msgstr "Preview"
 
 #. +> trunk6 stable6
 #: panels/information/informationpanel.cpp:165
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Auto-Play media files"
-msgstr "メディアファイルを自動再生"
+msgstr "Auto-Play media files"
 
 #. +> trunk6 stable6
 #: panels/information/informationpanel.cpp:170
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Show item on hover"
-msgstr "マウスホバーでアイテムを表示"
+msgstr "Show item on hover"
 
 #. +> trunk6 stable6
 #: panels/information/informationpanel.cpp:175
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Configure…"
-msgstr "設定..."
+msgstr "Configure…"
 
 #. +> trunk6 stable6
 #: panels/information/informationpanel.cpp:181
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Condensed Date"
-msgstr "短縮された日付"
+msgstr "Condensed Date"
 
 #. +> trunk6 stable6
 #: panels/information/informationpanelcontent.cpp:111
 #, kde-format
 msgctxt "@label::textbox"
 msgid "Select which data should be shown:"
-msgstr "表示するデータを選択します:"
+msgstr "Select which data should be shown:"
 
 #. +> trunk6 stable6
 #: panels/information/informationpanelcontent.cpp:295
@@ -3934,20 +3934,20 @@ msgstr[0] "%1 アイテム選択済み"
 #: panels/information/mediawidget.cpp:252
 #, kde-format
 msgid "play"
-msgstr "再生"
+msgstr "play"
 
 #. +> trunk6 stable6
 #: panels/information/mediawidget.cpp:258
 #, kde-format
 msgid "pause"
-msgstr "一時停止"
+msgstr "pause"
 
 #. i18n: ectx: label, entry (IconSize), group (PlacesPanel)
 #. +> trunk6 stable6
 #: panels/places/dolphin_placespanelsettings.kcfg:11
 #, kde-format
 msgid "Size of icons in the Places Panel (-1 means \"automatic\")"
-msgstr "場所パネルのアイコンサイズ (-1 の場合は自動)"
+msgstr "Size of icons in the Places Panel (-1 means \"automatic\")"
 
 #. +> trunk6 stable6
 #: panels/terminal/terminalpanel.cpp:201
@@ -3963,42 +3963,42 @@ msgstr ""
 #: panels/terminal/terminalpanel.cpp:208
 #, kde-format
 msgid "Install Konsole"
-msgstr "Konsole をインストールする"
+msgstr "Install Konsole"
 
 #. +> trunk6 stable6
 #: search/bar.cpp:63
 #, kde-format
 msgctxt "action:button"
 msgid "Save this search to quickly access it again in the future"
-msgstr "検索結果を保存しておくことで、次回からすぐにアクセスできます"
+msgstr "Save this search to quickly access it again in the future"
 
 #. +> trunk6 stable6
 #: search/bar.cpp:70
 #, kde-format
 msgctxt "@action:button for changing search options"
 msgid "Filter"
-msgstr "フィルタ"
+msgstr "Filter"
 
 #. +> trunk6 stable6
 #: search/bar.cpp:88
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Quit searching"
-msgstr "検索を停止"
+msgstr "Quit searching"
 
 #. +> trunk6 stable6
 #: search/bar.cpp:102
 #, kde-format
 msgctxt "action:button search from here"
 msgid "Here"
-msgstr "現在の場所"
+msgstr "Here"
 
 #. +> trunk6 stable6
 #: search/bar.cpp:117
 #, kde-format
 msgctxt "action:button search everywhere"
 msgid "Everywhere"
-msgstr "すべての場所"
+msgstr "Everywhere"
 
 #. +> trunk6 stable6
 #: search/bar.cpp:152
@@ -4027,14 +4027,14 @@ msgstr ""
 #, kde-format
 msgctxt "@info:placeholder"
 msgid "Search in file contents…"
-msgstr "ファイルの内容を検索..."
+msgstr "Search in file contents…"
 
 #. +> trunk6 stable6
 #: search/bar.cpp:227
 #, kde-kuit-format
 msgctxt "@info:tooltip"
 msgid "Limit the search to <filename>%1</filename> and its subfolders."
-msgstr "検索対象を <filename>%1</filename> とそのサブフォルダに限定します。"
+msgstr "Limit the search to <filename>%1</filename> and its subfolders."
 
 #. i18n call is in a single row or the i18n comment above will not be extracted.
 #. See https://commits.kde.org/kxmlgui/a31135046e1b3335b5d7bbbe6aa9a883ce3284c1
@@ -4046,7 +4046,7 @@ msgstr "検索対象を <filename>%1</filename> とそのサブフォルダに�
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Search all directories from the root up."
-msgstr "ルートディレクトリから順に、すべてのディレクトリを検索します。"
+msgstr "Search all directories from the root up."
 
 #. i18n: Tooltip for "Everywhere" button as opposed to searching for files in specific folders. The search tool uses
 #. file indexing and will therefore only be able to search through directories which have been put into a data base.
@@ -4067,28 +4067,28 @@ msgstr ""
 #, kde-format
 msgctxt "@action:button"
 msgid "Remove Filter"
-msgstr "フィルタを解除"
+msgstr "Remove Filter"
 
 #. i18n: ectx: label, entry (Location), group (Search)
 #. +> trunk6 stable6
 #: search/dolphin_searchsettings.kcfg:10
 #, kde-format
 msgid "Location"
-msgstr "場所"
+msgstr "Location"
 
 #. i18n: ectx: label, entry (What), group (Search)
 #. +> trunk6 stable6
 #: search/dolphin_searchsettings.kcfg:14
 #, kde-format
 msgid "What"
-msgstr "対象"
+msgstr "What"
 
 #. i18n: ectx: label, entry (SearchTool), group (Search)
 #. +> trunk6 stable6
 #: search/dolphin_searchsettings.kcfg:18
 #, kde-format
 msgid "SearchTool"
-msgstr "検索ツール"
+msgstr "SearchTool"
 
 #. +> trunk6 stable6
 #: search/dolphinquery.cpp:382
@@ -4097,7 +4097,7 @@ msgctxt ""
 "@title of a search results page. %1 is the search term a user entered, %2 is "
 "a folder name"
 msgid "Search results for “%1” in %2"
-msgstr "%2 における「%1」の検索結果"
+msgstr "Search results for “%1” in %2"
 
 #. +> trunk6 stable6
 #: search/dolphinquery.cpp:388
@@ -4106,7 +4106,7 @@ msgctxt ""
 "@title of a search results page. %1 is the search term a user entered, %2 is "
 "a folder name"
 msgid "Files containing “%1” in %2"
-msgstr "%2 内にある「%1」を含むファイルの検索結果"
+msgstr "Files containing “%1” in %2"
 
 #. +> trunk6 stable6
 #: search/dolphinquery.cpp:395
@@ -4115,7 +4115,7 @@ msgctxt ""
 "@title of a search results page. %1 is a tag e.g. 'important'. %2 is a "
 "folder name"
 msgid "Search items tagged “%1” in %2"
-msgstr "%2 で「%1」タグが付いた項目を検索"
+msgstr "Search items tagged “%1” in %2"
 
 #. +> trunk6 stable6
 #: search/dolphinquery.cpp:400
@@ -4124,7 +4124,7 @@ msgctxt ""
 "@title of a search results page. %1 and %2 are tags e.g. 'important'. %3 is "
 "a folder name"
 msgid "Search items tagged “%1” and “%2” in %3"
-msgstr ""
+msgstr "Search items tagged “%1” and “%2” in %3"
 
 #. +> trunk6 stable6
 #: search/dolphinquery.cpp:407
@@ -4134,7 +4134,7 @@ msgctxt ""
 "@title of a search results page for items of a specified type. %1 is a file "
 "type e.g. 'Document', 'Folder'. %2 is a folder name"
 msgid "%1 search results in %2"
-msgstr "%2 で %1 を検索"
+msgstr "%1 search results in %2"
 
 #. +> trunk6 stable6
 #: search/dolphinquery.cpp:413
@@ -4143,35 +4143,35 @@ msgctxt ""
 "@title of a search results page with items matching pre-defined conditions. "
 "%1 is a folder name"
 msgid "Search results in %1"
-msgstr "%1 における検索結果"
+msgstr "Search results in %1"
 
 #. +> trunk6 stable6
 #: search/dolphinquery.cpp:423
 #, kde-format
 msgctxt "@title of a search results page. %1 is the search term a user entered"
 msgid "Search results for “%1”"
-msgstr "「%1」の検索結果"
+msgstr "Search results for “%1”"
 
 #. +> trunk6 stable6
 #: search/dolphinquery.cpp:426
 #, kde-format
 msgctxt "@title of a search results page. %1 is the search term a user entered"
 msgid "Files containing “%1”"
-msgstr "「%1」を含むファイルの検索結果"
+msgstr "Files containing “%1”"
 
 #. +> trunk6 stable6
 #: search/dolphinquery.cpp:430
 #, kde-format
 msgctxt "@title of a search results page. %1 is a tag e.g. 'important'"
 msgid "Search items tagged “%1”"
-msgstr ""
+msgstr "Search items tagged “%1”"
 
 #. +> trunk6 stable6
 #: search/dolphinquery.cpp:433
 #, kde-format
 msgctxt "@title of a search results page. %1 and %2 are tags e.g. 'important'"
 msgid "Search items tagged “%1” and “%2”"
-msgstr ""
+msgstr "Search items tagged “%1” and “%2”"
 
 #. i18n: Results page for items of a specified type. %1 is a file type e.g. 'Audio', 'Document', 'Folder', 'Archive'. 'Presentation'.
 #. If putting such a file type at the start does not work in your language in this context, you might want to translate this liberally with
@@ -4181,7 +4181,7 @@ msgstr ""
 #, kde-format
 msgctxt "@title of a search. %1 is file type"
 msgid "%1 search results"
-msgstr ""
+msgstr "%1 search results"
 
 #. +> trunk6 stable6
 #: search/dolphinquery.cpp:444
@@ -4189,42 +4189,42 @@ msgstr ""
 msgctxt ""
 "@title of a search results page with items matching pre-defined conditions"
 msgid "Search results"
-msgstr "検索結果"
+msgstr "Search results"
 
 #. i18n: Localized name for the Filenamesearch search tool for use in user interfaces.
 #. +> trunk6 stable6
 #: search/popup.cpp:47
 #, kde-format
 msgid "Simple search"
-msgstr "簡易検索"
+msgstr "Simple search"
 
 #. i18n: Localized name for the Baloo search tool for use in user interfaces.
 #. +> trunk6 stable6
 #: search/popup.cpp:53
 #, kde-format
 msgid "File Indexing"
-msgstr "ファイルインデックス"
+msgstr "File Indexing"
 
 #. +> trunk6 stable6
 #: search/popup.cpp:73
 #, kde-format
 msgctxt "@title:group"
 msgid "Search in:"
-msgstr "検索対象:"
+msgstr "Search in:"
 
 #. +> trunk6 stable6
 #: search/popup.cpp:77
 #, kde-format
 msgctxt "@option:radio Search in:"
 msgid "File names"
-msgstr "ファイル名"
+msgstr "File names"
 
 #. +> trunk6 stable6
 #: search/popup.cpp:112
 #, kde-format
 msgctxt "@title:group"
 msgid "Search using:"
-msgstr "検索方法:"
+msgstr "Search using:"
 
 #. +> trunk6 stable6
 #: search/popup.cpp:131
@@ -4249,42 +4249,42 @@ msgstr ""
 #, kde-format
 msgctxt "@action:button %1 is software name"
 msgid "Configure %1…"
-msgstr "%1 を設定..."
+msgstr "Configure %1…"
 
 #. +> trunk6 stable6
 #: search/popup.cpp:208
 #, kde-format
 msgctxt "@title:group for filtering files based on their type"
 msgid "File Type:"
-msgstr "ファイルの種類:"
+msgstr "File Type:"
 
 #. +> trunk6 stable6
 #: search/popup.cpp:216
 #, kde-format
 msgctxt "@title:group for filtering files by modified date"
 msgid "Modified since:"
-msgstr "更新日:"
+msgstr "Modified since:"
 
 #. +> trunk6 stable6
 #: search/popup.cpp:225
 #, kde-format
 msgctxt "@title:group for selecting a minimum rating of search results"
 msgid "Rating:"
-msgstr "評価:"
+msgstr "Rating:"
 
 #. +> trunk6 stable6
 #: search/popup.cpp:233
 #, kde-format
 msgctxt "@title:group for selecting required tags for search results"
 msgid "Tags:"
-msgstr "タグ:"
+msgstr "Tags:"
 
 #. +> trunk6 stable6
 #: search/popup.cpp:251
 #, kde-format
 msgctxt "@label above 'Install KFind'/'Open KFind' button"
 msgid "For more advanced searches:"
-msgstr "より高度な検索を行うには:"
+msgstr "For more advanced searches:"
 
 #. +> trunk6 stable6
 #: search/popup.cpp:276
@@ -4336,91 +4336,91 @@ msgstr ""
 #, kde-format
 msgctxt "@option:radio Search in:"
 msgid "File names and contents"
-msgstr "ファイルの名前と内容"
+msgstr "File names and contents"
 
 #. +> trunk6 stable6
 #: search/popup.cpp:314
 #, kde-format
 msgctxt "@option:radio Search in:"
 msgid "File contents"
-msgstr "ファイルの内容"
+msgstr "File contents"
 
 #. +> trunk6 stable6
 #: search/popup.cpp:329
 #, kde-format
 msgctxt "@action:button 1 is KFind app name"
 msgid "Open %1"
-msgstr "%1 を開く"
+msgstr "Open %1"
 
 #. +> trunk6 stable6
 #: search/popup.cpp:332
 #, kde-format
 msgctxt "@action:button"
 msgid "Install KFind…"
-msgstr "KFind をインストール..."
+msgstr "Install KFind…"
 
 #. +> trunk6 stable6
 #: search/popup.cpp:364
 #, kde-kuit-format
 msgctxt "@info"
 msgid "<application>KFind</application> installed successfully."
-msgstr "<application>KFind</application> が正常にインストールされました。"
+msgstr "<application>KFind</application> installed successfully."
 
 #. +> trunk6 stable6
 #: search/popup.cpp:368
 #, kde-format
 msgctxt "@info:status"
 msgid "Installing KFind"
-msgstr "KFind をインストールしています"
+msgstr "Installing KFind"
 
 #. +> trunk6 stable6
 #: search/selectors/dateselector.cpp:54
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "Any Date"
-msgstr "すべての日付"
+msgstr "Any Date"
 
 #. +> trunk6 stable6
 #: search/selectors/filetypeselector.cpp:23
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "Any Type"
-msgstr "すべての種類"
+msgstr "Any Type"
 
 #. +> trunk6 stable6
 #: search/selectors/minimumratingselector.cpp:20
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "Any Rating"
-msgstr "すべての評価"
+msgstr "Any Rating"
 
 #. +> trunk6 stable6
 #: search/selectors/minimumratingselector.cpp:21
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "1 or more"
-msgstr "1 以上"
+msgstr "1 or more"
 
 #. +> trunk6 stable6
 #: search/selectors/minimumratingselector.cpp:22
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "2 or more"
-msgstr "2 以上"
+msgstr "2 or more"
 
 #. +> trunk6 stable6
 #: search/selectors/minimumratingselector.cpp:23
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "3 or more"
-msgstr "3 以上"
+msgstr "3 or more"
 
 #. +> trunk6 stable6
 #: search/selectors/minimumratingselector.cpp:24
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "4 or more"
-msgstr "4 以上"
+msgstr "4 or more"
 
 #. +> trunk6 stable6
 #: search/selectors/minimumratingselector.cpp:25
@@ -4435,21 +4435,21 @@ msgstr "5"
 msgctxt ""
 "list separator for file tags e.g. all images tagged 'family & party & 2025'"
 msgid " && "
-msgstr ""
+msgstr " && "
 
 #. +> trunk6 stable6
 #: search/selectors/tagsselector.cpp:182
 #, kde-format
 msgctxt "@action:button Required tags for search results: None"
 msgid "None"
-msgstr "なし"
+msgstr "None"
 
 #. +> trunk6 stable6
 #: selectionmode/bottombarcontentscontainer.cpp:167
 #, kde-format
 msgctxt "@info explaining the next step in a process"
 msgid "Select the files and folders that should be copied."
-msgstr "コピーするファイルかフォルダを選択してください。"
+msgstr "Select the files and folders that should be copied."
 
 #. i18n: Aborts the current step-by-step process to copy files by leaving the selection mode.
 #. i18n: Aborts the current step-by-step process to copy the location of files by leaving the selection mode.
@@ -4460,14 +4460,14 @@ msgstr "コピーするファイルかフォルダを選択してください。
 #, kde-format
 msgctxt "@action:button"
 msgid "Cancel Copying"
-msgstr "コピーをキャンセル"
+msgstr "Cancel Copying"
 
 #. +> trunk6 stable6
 #: selectionmode/bottombarcontentscontainer.cpp:202
 #, kde-format
 msgctxt "@info explaining the next step in a process"
 msgid "Select one file or folder whose location should be copied."
-msgstr "位置をコピーするファイルかフォルダを選択してください。"
+msgstr "Select one file or folder whose location should be copied."
 
 #. i18n: "Copy over" refers to copying to the other split view area that is currently visible to the user.
 #. +> trunk6 stable6
@@ -4475,14 +4475,14 @@ msgstr "位置をコピーするファイルかフォルダを選択してくだ
 #, kde-format
 msgctxt "@info explaining the next step in a process"
 msgid "Select the files and folders that should be copied over."
-msgstr "コピーするファイルとフォルダを選択してください。"
+msgstr "Select the files and folders that should be copied over."
 
 #. +> trunk6 stable6
 #: selectionmode/bottombarcontentscontainer.cpp:245
 #, kde-format
 msgctxt "@info explaining the next step in a process"
 msgid "Select the files and folders that should be cut."
-msgstr "切り取るファイルとフォルダを選択してください。"
+msgstr "Select the files and folders that should be cut."
 
 #. i18n: Aborts the current step-by-step process to cut files by leaving the selection mode.
 #. +> trunk6 stable6
@@ -4490,14 +4490,14 @@ msgstr "切り取るファイルとフォルダを選択してください。"
 #, kde-format
 msgctxt "@action:button"
 msgid "Cancel Cutting"
-msgstr "切り取りをキャンセル"
+msgstr "Cancel Cutting"
 
 #. +> trunk6 stable6
 #: selectionmode/bottombarcontentscontainer.cpp:281
 #, kde-format
 msgctxt "@info explaining the next step in a process"
 msgid "Select the files and folders that should be permanently deleted."
-msgstr "永久的に削除するファイルとフォルダを選択してください。"
+msgstr "Select the files and folders that should be permanently deleted."
 
 #. i18n: Aborts the current step-by-step process to delete files by leaving the selection mode.
 #. i18n: Aborts the current step-by-step process of moving files to the trash by leaving the selection mode.
@@ -4507,14 +4507,14 @@ msgstr "永久的に削除するファイルとフォルダを選択してくだ
 #, kde-format
 msgctxt "@action:button"
 msgid "Cancel"
-msgstr "キャンセル"
+msgstr "Cancel"
 
 #. +> trunk6 stable6
 #: selectionmode/bottombarcontentscontainer.cpp:301
 #, kde-format
 msgctxt "@info explaining the next step in a process"
 msgid "Select the files and folders that should be duplicated here."
-msgstr "複製するファイルとフォルダを選択してください。"
+msgstr "Select the files and folders that should be duplicated here."
 
 #. i18n: Aborts the current step-by-step process to duplicate files by leaving the selection mode.
 #. +> trunk6 stable6
@@ -4522,7 +4522,7 @@ msgstr "複製するファイルとフォルダを選択してください。"
 #, kde-format
 msgctxt "@action:button"
 msgid "Cancel Duplicating"
-msgstr "複製をキャンセル"
+msgstr "Cancel Duplicating"
 
 #. i18n: This button appears in a bar if there isn't enough horizontal space to fit all the other buttons so please keep it short.
 #. The small button opens a menu that contains the actions that didn't fit on the bar.
@@ -4531,7 +4531,7 @@ msgstr "複製をキャンセル"
 #, kde-format
 msgctxt "@action keep short"
 msgid "More"
-msgstr "その他"
+msgstr "More"
 
 #. i18n: "Move over" refers to moving to the other split view area that is currently visible to the user.
 #. +> trunk6 stable6
@@ -4539,7 +4539,7 @@ msgstr "その他"
 #, kde-format
 msgctxt "@info explaining the next step in a process"
 msgid "Select the files and folders that should be moved over."
-msgstr "移動するファイルとフォルダを選択してください。"
+msgstr "Select the files and folders that should be moved over."
 
 #. i18n: Aborts the current step-by-step process to copy the location of files by leaving the selection mode.
 #. +> trunk6 stable6
@@ -4547,14 +4547,14 @@ msgstr "移動するファイルとフォルダを選択してください。"
 #, kde-format
 msgctxt "@action:button"
 msgid "Cancel Moving"
-msgstr "移動をキャンセル"
+msgstr "Cancel Moving"
 
 #. +> trunk6 stable6
 #: selectionmode/bottombarcontentscontainer.cpp:393
 #, kde-format
 msgctxt "@info explaining the next step in a process"
 msgid "Select the files and folders that should be moved to the Trash."
-msgstr "ごみ箱に移動するファイルとフォルダを選択してください。"
+msgstr "Select the files and folders that should be moved to the Trash."
 
 #. +> trunk6 stable6
 #: selectionmode/bottombarcontentscontainer.cpp:413
@@ -4577,21 +4577,21 @@ msgstr ""
 msgctxt ""
 "@action A more elaborate and clearly worded version of the Paste action"
 msgid "Paste from Clipboard"
-msgstr "クリップボードから貼り付け"
+msgstr "Paste from Clipboard"
 
 #. +> trunk6 stable6
 #: selectionmode/bottombarcontentscontainer.cpp:439
 #, kde-format
 msgctxt "@action Dismisses a bar explaining how to use the Paste action"
 msgid "Dismiss This Reminder"
-msgstr "このリマインダーを無視"
+msgstr "Dismiss This Reminder"
 
 #. +> trunk6 stable6
 #: selectionmode/bottombarcontentscontainer.cpp:441
 #, kde-format
 msgctxt "@action Dismisses an explanatory area and never shows it again"
 msgid "Don't Remind Me Again"
-msgstr "再度表示しない"
+msgstr "Don't Remind Me Again"
 
 #. +> trunk6 stable6
 #: selectionmode/bottombarcontentscontainer.cpp:458
@@ -4610,7 +4610,7 @@ msgstr ""
 #, kde-format
 msgctxt "@action:button"
 msgid "Cancel Renaming"
-msgstr "名前の変更をキャンセル"
+msgstr "Cancel Renaming"
 
 #. i18n: A more elaborate and clearly worded version of the Copy action
 #. %2 is a textual representation of the currently selected files or folders. This can be the name of
@@ -4708,7 +4708,7 @@ msgstr[0] "%2 の名前を変更"
 #, kde-format
 msgctxt "@info label above the view explaining the state"
 msgid "Selection Mode: Click on files or folders to select or deselect them."
-msgstr ""
+msgstr "Selection Mode: Click on files or folders to select or deselect them."
 "選択モード: ファイル・フォルダをクリックして選択、または選択を解除します。"
 
 #. +> trunk6 stable6
@@ -4716,7 +4716,7 @@ msgstr ""
 #, kde-format
 msgctxt "@info label above the view explaining the state"
 msgid "Selection Mode"
-msgstr "選択モード"
+msgstr "Selection Mode"
 
 #. +> trunk6 stable6
 #: selectionmode/topbar.cpp:39
@@ -4751,7 +4751,7 @@ msgstr ""
 #, kde-format
 msgctxt "@action:button"
 msgid "Exit Selection Mode"
-msgstr "選択モードを出る"
+msgstr "Exit Selection Mode"
 
 #. +> trunk6
 #: servicemenushortcutmanager.cpp:26
@@ -4760,35 +4760,35 @@ msgstr "選択モードを出る"
 #| msgid "Context Menu"
 msgctxt "@title:group"
 msgid "Context Menu Actions"
-msgstr "コンテキストメニュー"
+msgstr "Context Menu Actions"
 
 #. +> trunk6 stable6
 #: settings/contextmenu/contextmenusettingspage.cpp:57
 #, kde-format
 msgctxt "@label:textbox"
 msgid "Select which services should be shown in the context menu:"
-msgstr "コンテキストメニューに表示するサービスを選択します:"
+msgstr "Select which services should be shown in the context menu:"
 
 #. +> trunk6 stable6
 #: settings/contextmenu/contextmenusettingspage.cpp:62
 #, kde-format
 msgctxt "@label:textbox"
 msgid "Search…"
-msgstr "検索..."
+msgstr "Search…"
 
 #. +> trunk6 stable6
 #: settings/contextmenu/contextmenusettingspage.cpp:87
 #, kde-format
 msgctxt "@action:button"
 msgid "Download New Services…"
-msgstr "新しいサービスをダウンロード..."
+msgstr "Download New Services…"
 
 #. +> trunk6 stable6
 #: settings/contextmenu/contextmenusettingspage.cpp:226
 #, kde-format
 msgctxt "@option:check"
 msgid "Delete"
-msgstr "削除"
+msgstr "Delete"
 
 #. +> trunk6 stable6
 #: settings/contextmenu/contextmenusettingspage.cpp:229
@@ -4797,14 +4797,14 @@ msgstr "削除"
 #, kde-format
 msgctxt "@item:tooltip"
 msgid "Built-in dolphin"
-msgstr ""
+msgstr "Built-in dolphin"
 
 #. +> trunk6 stable6
 #: settings/contextmenu/contextmenusettingspage.cpp:233
 #, kde-format
 msgctxt "@option:check"
 msgid "'Copy To' and 'Move To' commands"
-msgstr "「コピー先」と「移動先」を表示する"
+msgstr "'Copy To' and 'Move To' commands"
 
 #. +> trunk6 stable6
 #: settings/contextmenu/contextmenusettingspage.cpp:279
@@ -4822,7 +4822,7 @@ msgstr "%1: %2"
 #: settings/dolphin_iconsmodesettings.kcfg:12
 #, kde-format
 msgid "Use system font"
-msgstr "システムフォントを使う"
+msgstr "Use system font"
 
 #. i18n: ectx: label, entry (IconSize), group (IconsMode)
 #. i18n: ectx: label, entry (IconSize), group (DetailsMode)
@@ -4833,7 +4833,7 @@ msgstr "システムフォントを使う"
 #: settings/dolphin_iconsmodesettings.kcfg:19
 #, kde-format
 msgid "Icon size"
-msgstr "アイコンサイズ"
+msgstr "Icon size"
 
 #. i18n: ectx: label, entry (PreviewSize), group (IconsMode)
 #. i18n: ectx: label, entry (PreviewSize), group (DetailsMode)
@@ -4844,189 +4844,189 @@ msgstr "アイコンサイズ"
 #: settings/dolphin_iconsmodesettings.kcfg:23
 #, kde-format
 msgid "Preview size"
-msgstr "プレビューのサイズ"
+msgstr "Preview size"
 
 #. i18n: ectx: label, entry (MaximumTextWidthIndex), group (CompactMode)
 #. +> trunk6 stable6
 #: settings/dolphin_compactmodesettings.kcfg:27
 #, kde-format
 msgid "Maximum text width index (0 means unlimited)"
-msgstr "最大テキスト幅のインデックス (0: 無制限)"
+msgstr "Maximum text width index (0 means unlimited)"
 
 #. i18n: ectx: label, entry (DirectorySizeMode), group (ContentDisplay)
 #. +> trunk6 stable6
 #: settings/dolphin_contentdisplaysettings.kcfg:10
 #, kde-format
 msgid "How we display the size of directories"
-msgstr ""
+msgstr "How we display the size of directories"
 
 #. i18n: ectx: label, entry (DirectorySizeMode), group (ContentDisplay)
 #. +> trunk6 stable6
 #: settings/dolphin_contentdisplaysettings.kcfg:13
 #, kde-format
 msgid "Show the content count"
-msgstr "コンテンツ数を表示"
+msgstr "Show the content count"
 
 #. i18n: ectx: label, entry (DirectorySizeMode), group (ContentDisplay)
 #. +> trunk6 stable6
 #: settings/dolphin_contentdisplaysettings.kcfg:16
 #, kde-format
 msgid "Show the content size"
-msgstr "コンテンツのサイズを表示"
+msgstr "Show the content size"
 
 #. i18n: ectx: label, entry (DirectorySizeMode), group (ContentDisplay)
 #. +> trunk6 stable6
 #: settings/dolphin_contentdisplaysettings.kcfg:19
 #, kde-format
 msgid "Do not show any directory size"
-msgstr ""
+msgstr "Do not show any directory size"
 
 #. i18n: ectx: label, entry (RecursiveDirectorySizeLimit), group (ContentDisplay)
 #. +> trunk6 stable6
 #: settings/dolphin_contentdisplaysettings.kcfg:25
 #, kde-format
 msgid "Recursive directory size limit"
-msgstr "再帰的なディレクトリサイズ制限"
+msgstr "Recursive directory size limit"
 
 #. i18n: ectx: label, entry (UseShortRelativeDates), group (ContentDisplay)
 #. +> trunk6 stable6
 #: settings/dolphin_contentdisplaysettings.kcfg:29
 #, kde-format
 msgid "if true we use short relative dates, if not short dates"
-msgstr "真の場合は短い相対日付を使用し、そうでない場合は短い日付を使用します"
+msgstr "if true we use short relative dates, if not short dates"
 
 #. i18n: ectx: label, entry (UsePermissionsFormat), group (ContentDisplay)
 #. +> trunk6 stable6
 #: settings/dolphin_contentdisplaysettings.kcfg:33
 #, kde-format
 msgid "Permissions style format"
-msgstr "パーミッションのフォーマット"
+msgstr "Permissions style format"
 
 #. i18n: ectx: label, entry (ElidingMode), group (ContentDisplay)
 #. +> trunk6 stable6
 #: settings/dolphin_contentdisplaysettings.kcfg:42
 #, fuzzy, kde-format
 msgid "Eliding Mode"
-msgstr "ソートモード:"
+msgstr "Eliding Mode"
 
 #. i18n: ectx: label, entry (ShowCopyMoveMenu), group (ContextMenu)
 #. +> trunk6 stable6
 #: settings/dolphin_contextmenusettings.kcfg:10
 #, kde-format
 msgid "Show 'Copy To' and 'Move To' commands in context menu"
-msgstr "コンテキストメニューに「コピー先」と「移動先」を表示する"
+msgstr "Show 'Copy To' and 'Move To' commands in context menu"
 
 #. i18n: ectx: label, entry (ShowAddToPlaces), group (ContextMenu)
 #. +> trunk6 stable6
 #: settings/dolphin_contextmenusettings.kcfg:14
 #, kde-format
 msgid "Show 'Add to Places' in context menu."
-msgstr "コンテキストメニューに「場所に追加」を表示します。"
+msgstr "Show 'Add to Places' in context menu."
 
 #. i18n: ectx: label, entry (ShowSortBy), group (ContextMenu)
 #. +> trunk6 stable6
 #: settings/dolphin_contextmenusettings.kcfg:18
 #, kde-format
 msgid "Show 'Sort By' in context menu."
-msgstr "コンテキストメニューに「次でソート」を表示します。"
+msgstr "Show 'Sort By' in context menu."
 
 #. i18n: ectx: label, entry (ShowViewMode), group (ContextMenu)
 #. +> trunk6 stable6
 #: settings/dolphin_contextmenusettings.kcfg:22
 #, kde-format
 msgid "Show 'View Mode' in context menu."
-msgstr "コンテキストメニューに「表示モード」を表示します。"
+msgstr "Show 'View Mode' in context menu."
 
 #. i18n: ectx: label, entry (ShowOpenInNewTab), group (ContextMenu)
 #. +> trunk6 stable6
 #: settings/dolphin_contextmenusettings.kcfg:26
 #, kde-format
 msgid "Show 'Open in New Tab' and 'Open in New Tabs' in context menu."
-msgstr "コンテキストメニューに「新しいタブで開く」を表示します。"
+msgstr "Show 'Open in New Tab' and 'Open in New Tabs' in context menu."
 
 #. i18n: ectx: label, entry (ShowOpenInNewWindow), group (ContextMenu)
 #. +> trunk6 stable6
 #: settings/dolphin_contextmenusettings.kcfg:30
 #, kde-format
 msgid "Show 'Open in New Window' in context menu."
-msgstr "コンテキストメニューに「新しいウィンドウで開く」を表示します。"
+msgstr "Show 'Open in New Window' in context menu."
 
 #. i18n: ectx: label, entry (ShowOpenInSplitView), group (ContextMenu)
 #. +> trunk6 stable6
 #: settings/dolphin_contextmenusettings.kcfg:34
 #, kde-format
 msgid "Show 'Open In Split View' in context menu."
-msgstr "コンテキストメニューに「分割ビューで開く」を表示します。"
+msgstr "Show 'Open In Split View' in context menu."
 
 #. i18n: ectx: label, entry (ShowCopyLocation), group (ContextMenu)
 #. +> trunk6 stable6
 #: settings/dolphin_contextmenusettings.kcfg:38
 #, kde-format
 msgid "Show 'Copy Location' in context menu."
-msgstr "コンテキストメニューに「場所をコピー」を表示します。"
+msgstr "Show 'Copy Location' in context menu."
 
 #. i18n: ectx: label, entry (ShowDuplicateHere), group (ContextMenu)
 #. +> trunk6 stable6
 #: settings/dolphin_contextmenusettings.kcfg:42
 #, kde-format
 msgid "Show 'Duplicate Here' in context menu."
-msgstr "コンテキストメニューに「ここに複製」を表示します。"
+msgstr "Show 'Duplicate Here' in context menu."
 
 #. i18n: ectx: label, entry (ShowOpenTerminal), group (ContextMenu)
 #. +> trunk6 stable6
 #: settings/dolphin_contextmenusettings.kcfg:46
 #, kde-format
 msgid "Show 'Open Terminal' in context menu."
-msgstr "コンテキストメニューに「ターミナルを開く」を表示します。"
+msgstr "Show 'Open Terminal' in context menu."
 
 #. i18n: ectx: label, entry (ShowCopyToOtherSplitView), group (ContextMenu)
 #. +> trunk6 stable6
 #: settings/dolphin_contextmenusettings.kcfg:50
 #, kde-format
 msgid "Show 'Copy to other split view' in context menu."
-msgstr "コンテキストメニューに「他の分割ビューにコピー」を表示します。"
+msgstr "Show 'Copy to other split view' in context menu."
 
 #. i18n: ectx: label, entry (ShowMoveToOtherSplitView), group (ContextMenu)
 #. +> trunk6 stable6
 #: settings/dolphin_contextmenusettings.kcfg:54
 #, kde-format
 msgid "Show 'Move to other split view' in context menu."
-msgstr "コンテキストメニューに「他の分割ビューに移動」を表示します。"
+msgstr "Show 'Move to other split view' in context menu."
 
 #. i18n: ectx: label, entry (ColumnPositions), group (DetailsMode)
 #. +> trunk6 stable6
 #: settings/dolphin_detailsmodesettings.kcfg:27
 #, kde-format
 msgid "Position of columns"
-msgstr "カラムの位置"
+msgstr "Position of columns"
 
 #. i18n: ectx: label, entry (LeftPadding), group (DetailsMode)
 #. +> trunk6 stable6
 #: settings/dolphin_detailsmodesettings.kcfg:31
 #, kde-format
 msgid "Left side padding"
-msgstr "左側の余白"
+msgstr "Left side padding"
 
 #. i18n: ectx: label, entry (RightPadding), group (DetailsMode)
 #. +> trunk6 stable6
 #: settings/dolphin_detailsmodesettings.kcfg:35
 #, kde-format
 msgid "Right side padding"
-msgstr "右側の余白"
+msgstr "Right side padding"
 
 #. i18n: ectx: label, entry (HighlightEntireRow), group (DetailsMode)
 #. +> trunk6 stable6
 #: settings/dolphin_detailsmodesettings.kcfg:39
 #, kde-format
 msgid "Highlight entire row"
-msgstr "列全体を強調表示"
+msgstr "Highlight entire row"
 
 #. i18n: ectx: label, entry (ExpandableFolders), group (DetailsMode)
 #. +> trunk6 stable6
 #: settings/dolphin_detailsmodesettings.kcfg:43
 #, kde-format
 msgid "Expandable folders"
-msgstr "フォルダをツリー状に展開できるようにする"
+msgstr "Expandable folders"
 
 #. i18n: ectx: label, entry (HiddenFilesShown), group (Settings)
 #. +> trunk6 stable6
@@ -5034,7 +5034,7 @@ msgstr "フォルダをツリー状に展開できるようにする"
 #, kde-format
 msgctxt "@label"
 msgid "Hidden files shown"
-msgstr "隠しファイルを表示"
+msgstr "Hidden files shown"
 
 #. i18n: ectx: whatsthis, entry (HiddenFilesShown), group (Settings)
 #. +> trunk6 stable6
@@ -5054,7 +5054,7 @@ msgstr ""
 #, kde-format
 msgctxt "@label"
 msgid "Version"
-msgstr "バージョン"
+msgstr "Version"
 
 #. i18n: ectx: whatsthis, entry (Version), group (Dolphin)
 #. +> trunk6 stable6
@@ -5062,7 +5062,7 @@ msgstr "バージョン"
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid "This option defines the used version of the view properties."
-msgstr "このオプションは、ビューのプロパティの使用バージョンを定義します。"
+msgstr "This option defines the used version of the view properties."
 
 #. i18n: ectx: label, entry (ViewMode), group (Dolphin)
 #. +> trunk6 stable6
@@ -5070,7 +5070,7 @@ msgstr "このオプションは、ビューのプロパティの使用バージ
 #, kde-format
 msgctxt "@label"
 msgid "View Mode"
-msgstr "表示モード"
+msgstr "View Mode"
 
 #. i18n: ectx: whatsthis, entry (ViewMode), group (Dolphin)
 #. +> trunk6 stable6
@@ -5090,7 +5090,7 @@ msgstr ""
 #, kde-format
 msgctxt "@label"
 msgid "Previews shown"
-msgstr "プレビューを表示"
+msgstr "Previews shown"
 
 #. i18n: ectx: whatsthis, entry (PreviewsShown), group (Dolphin)
 #. +> trunk6 stable6
@@ -5109,7 +5109,7 @@ msgstr ""
 #, kde-format
 msgctxt "@label"
 msgid "Grouped Sorting"
-msgstr "グループごとのソート"
+msgstr "Grouped Sorting"
 
 #. i18n: ectx: whatsthis, entry (GroupedSorting), group (Dolphin)
 #. +> trunk6 stable6
@@ -5127,7 +5127,7 @@ msgstr ""
 #, kde-format
 msgctxt "@label"
 msgid "Sort files by"
-msgstr "ファイルを次でソート"
+msgstr "Sort files by"
 
 #. i18n: ectx: whatsthis, entry (SortRole), group (Dolphin)
 #. +> trunk6 stable6
@@ -5147,7 +5147,7 @@ msgstr ""
 #, kde-format
 msgctxt "@label"
 msgid "Order in which to sort files"
-msgstr "ファイルをソートする順序"
+msgstr "Order in which to sort files"
 
 #. i18n: ectx: label, entry (SortFoldersFirst), group (Dolphin)
 #. +> trunk6 stable6
@@ -5155,7 +5155,7 @@ msgstr "ファイルをソートする順序"
 #, kde-format
 msgctxt "@label"
 msgid "Show folders first when sorting files and folders"
-msgstr "ファイルとフォルダをソートする際にフォルダを先に表示する"
+msgstr "Show folders first when sorting files and folders"
 
 #. i18n: ectx: label, entry (SortHiddenLast), group (Dolphin)
 #. +> trunk6 stable6
@@ -5163,7 +5163,7 @@ msgstr "ファイルとフォルダをソートする際にフォルダを先に
 #, kde-format
 msgctxt "@label"
 msgid "Show hidden files and folders last"
-msgstr "隠しファイルと隠しフォルダを後に表示"
+msgstr "Show hidden files and folders last"
 
 #. i18n: ectx: label, entry (VisibleRoles), group (Dolphin)
 #. +> trunk6 stable6
@@ -5171,7 +5171,7 @@ msgstr "隠しファイルと隠しフォルダを後に表示"
 #, kde-format
 msgctxt "@label"
 msgid "Visible roles"
-msgstr "役割を表示"
+msgstr "Visible roles"
 
 #. i18n: ectx: label, entry (HeaderColumnWidths), group (Dolphin)
 #. +> trunk6 stable6
@@ -5179,7 +5179,7 @@ msgstr "役割を表示"
 #, kde-format
 msgctxt "@label"
 msgid "Header column widths"
-msgstr "ヘッダのカラムの幅"
+msgstr "Header column widths"
 
 #. i18n: ectx: label, entry (Timestamp), group (Dolphin)
 #. +> trunk6 stable6
@@ -5187,7 +5187,7 @@ msgstr "ヘッダのカラムの幅"
 #, kde-format
 msgctxt "@label"
 msgid "Properties last changed"
-msgstr "プロパティの最終変更日時"
+msgstr "Properties last changed"
 
 #. i18n: ectx: whatsthis, entry (Timestamp), group (Dolphin)
 #. +> trunk6 stable6
@@ -5195,7 +5195,7 @@ msgstr "プロパティの最終変更日時"
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid "The last time these properties were changed by the user."
-msgstr "これらのプロパティがユーザによって最後に変更された日時です。"
+msgstr "The last time these properties were changed by the user."
 
 #. i18n: ectx: label, entry (DynamicViewPassed), group (Dolphin)
 #. +> trunk6 stable6
@@ -5203,7 +5203,7 @@ msgstr "これらのプロパティがユーザによって最後に変更され
 #, kde-format
 msgctxt "@label"
 msgid "View mode changed once by dynamic view"
-msgstr ""
+msgstr "View mode changed once by dynamic view"
 
 #. i18n: ectx: label, entry (AdditionalInfo), group (Dolphin)
 #. +> trunk6 stable6
@@ -5211,49 +5211,49 @@ msgstr ""
 #, kde-format
 msgctxt "@label"
 msgid "Additional Information"
-msgstr "追加情報"
+msgstr "Additional Information"
 
 #. i18n: ectx: label, entry (DoubleClickViewAction), group (General)
 #. +> trunk6 stable6
 #: settings/dolphin_generalsettings.kcfg:19
 #, kde-format
 msgid "Select Action"
-msgstr "アクションを選択"
+msgstr "Select Action"
 
 #. i18n: ectx: label, entry (DoubleClickViewCustomAction), group (General)
 #. +> trunk6 stable6
 #: settings/dolphin_generalsettings.kcfg:23
 #, kde-format
 msgid "Custom Action"
-msgstr "カスタムアクション"
+msgstr "Custom Action"
 
 #. i18n: ectx: label, entry (EditableUrl), group (General)
 #. +> trunk6 stable6
 #: settings/dolphin_generalsettings.kcfg:26
 #, kde-format
 msgid "Should the URL be editable for the user"
-msgstr "URL はユーザが編集可能"
+msgstr "Should the URL be editable for the user"
 
 #. i18n: ectx: label, entry (UrlCompletionMode), group (General)
 #. +> trunk6 stable6
 #: settings/dolphin_generalsettings.kcfg:30
 #, kde-format
 msgid "Text completion mode of the URL Navigator"
-msgstr "URL ナビゲータのテキスト補完モード"
+msgstr "Text completion mode of the URL Navigator"
 
 #. i18n: ectx: label, entry (ShowFullPath), group (General)
 #. +> trunk6 stable6
 #: settings/dolphin_generalsettings.kcfg:34
 #, kde-format
 msgid "Should the full path be shown inside the location bar"
-msgstr "場所バーにフルパスを表示する"
+msgstr "Should the full path be shown inside the location bar"
 
 #. i18n: ectx: label, entry (ShowFullPathInTitlebar), group (General)
 #. +> trunk6 stable6
 #: settings/dolphin_generalsettings.kcfg:38
 #, kde-format
 msgid "Should the full path be shown in the title bar"
-msgstr "タイトルバーにフルパスを表示する"
+msgstr "Should the full path be shown in the title bar"
 
 #. i18n: ectx: label, entry (OpenExternallyCalledFolderInNewTab), group (General)
 #. +> trunk6 stable6
@@ -5271,14 +5271,14 @@ msgstr ""
 #, fuzzy, kde-format
 #| msgid "Should the full path be shown in the title bar"
 msgid "Should the tab bar always be shown, even when there is only one tab"
-msgstr "タイトルバーにフルパスを表示する"
+msgstr "Should the tab bar always be shown, even when there is only one tab"
 
 #. i18n: ectx: label, entry (ShowCloseButtonOnTabs), group (General)
 #. +> trunk6
 #: settings/dolphin_generalsettings.kcfg:51
 #, kde-format
 msgid "Should tabs have close buttons"
-msgstr ""
+msgstr "Should tabs have close buttons"
 
 #. i18n: ectx: label, entry (TabStyle), group (General)
 #. +> trunk6
@@ -5287,7 +5287,7 @@ msgstr ""
 #| msgctxt "@title:group"
 #| msgid "Date style:"
 msgid "Tab style"
-msgstr "日付形式:"
+msgstr "Tab style"
 
 #. i18n: ectx: label, entry (Version), group (General)
 #. +> trunk6 stable6
@@ -5313,56 +5313,56 @@ msgstr "起動時の設定が変更されていないか (UI に表示されな�
 #: settings/dolphin_generalsettings.kcfg:74
 #, kde-format
 msgid "Home URL"
-msgstr "ホーム URL"
+msgstr "Home URL"
 
 #. i18n: ectx: label, entry (RememberOpenedTabs), group (General)
 #. +> trunk6 stable6
 #: settings/dolphin_generalsettings.kcfg:78
 #, kde-format
 msgid "Remember open folders and tabs"
-msgstr "開かれたフォルダとタブを記憶する"
+msgstr "Remember open folders and tabs"
 
 #. i18n: ectx: label, entry (SplitView), group (General)
 #. +> trunk6 stable6
 #: settings/dolphin_generalsettings.kcfg:82
 #, kde-format
 msgid "Place two views side by side"
-msgstr ""
+msgstr "Place two views side by side"
 
 #. i18n: ectx: label, entry (FilterBar), group (General)
 #. +> trunk6 stable6
 #: settings/dolphin_generalsettings.kcfg:87
 #, kde-format
 msgid "Should the filter bar be shown"
-msgstr "フィルタバーを表示する"
+msgstr "Should the filter bar be shown"
 
 #. i18n: ectx: label, entry (GlobalViewProps), group (General)
 #. +> trunk6 stable6
 #: settings/dolphin_generalsettings.kcfg:91
 #, kde-format
 msgid "Should the view properties be used for all folders"
-msgstr "ビューのプロパティをすべてのフォルダに使う"
+msgstr "Should the view properties be used for all folders"
 
 #. i18n: ectx: label, entry (BrowseThroughArchives), group (General)
 #. +> trunk6 stable6
 #: settings/dolphin_generalsettings.kcfg:95
 #, kde-format
 msgid "Browse through archives"
-msgstr "アーカイブの中をブラウズする"
+msgstr "Browse through archives"
 
 #. i18n: ectx: label, entry (ConfirmClosingMultipleTabs), group (General)
 #. +> trunk6 stable6
 #: settings/dolphin_generalsettings.kcfg:99
 #, kde-format
 msgid "Ask for confirmation when closing windows with multiple tabs."
-msgstr "複数のタブを含むウィンドウを閉じるときに確認を求める。"
+msgstr "Ask for confirmation when closing windows with multiple tabs."
 
 #. i18n: ectx: label, entry (CloseActiveSplitView), group (General)
 #. +> stable6
 #: settings/dolphin_generalsettings.kcfg:102
 #, kde-format
 msgid "Close the view in focus when turning off split view"
-msgstr "分割ビューをオフにしたらフォーカスされているビューを閉じる"
+msgstr "Close the view in focus when turning off split view"
 
 #. i18n: ectx: label, entry (ConfirmClosingTerminalRunningProgram), group (General)
 #. +> trunk6 stable6
@@ -5380,14 +5380,14 @@ msgstr ""
 #: settings/dolphin_generalsettings.kcfg:107
 #, kde-format
 msgid "Rename single items inline"
-msgstr "シングルアイテムの名前をインラインで変更する"
+msgstr "Rename single items inline"
 
 #. i18n: ectx: label, entry (ShowSelectionToggle), group (General)
 #. +> trunk6 stable6
 #: settings/dolphin_generalsettings.kcfg:111
 #, kde-format
 msgid "Show selection toggle"
-msgstr "選択/選択解除アイコンを表示する"
+msgstr "Show selection toggle"
 
 #. i18n: ectx: label, entry (ShowPasteBarAfterCopying), group (General)
 #. +> trunk6 stable6
@@ -5403,7 +5403,7 @@ msgstr ""
 #: settings/dolphin_generalsettings.kcfg:119
 #, kde-format
 msgid "Use tab for switching between right and left view"
-msgstr "左右のビューを切り替えるのにタブを使用する"
+msgstr "Use tab for switching between right and left view"
 
 #. i18n: ectx: label, entry (CloseSplitViewChoice), group (General)
 #. +> trunk6
@@ -5412,63 +5412,63 @@ msgstr "左右のビューを切り替えるのにタブを使用する"
 #| msgctxt "@info"
 #| msgid "Close left view"
 msgid "Close split view"
-msgstr "左のビューを閉じる"
+msgstr "Close split view"
 
 #. i18n: ectx: label, entry (OpenNewTabAfterLastTab), group (General)
 #. +> trunk6 stable6
 #: settings/dolphin_generalsettings.kcfg:132
 #, kde-format
 msgid "New tab will be open after last one"
-msgstr "最後のタブの後に新しいタブを開く"
+msgstr "New tab will be open after last one"
 
 #. i18n: ectx: label, entry (ShowToolTips), group (General)
 #. +> trunk6 stable6
 #: settings/dolphin_generalsettings.kcfg:136
 #, kde-format
 msgid "Show item information on hover"
-msgstr "マウスホバーでアイテム情報を表示する"
+msgstr "Show item information on hover"
 
 #. i18n: ectx: label, entry (ViewPropsTimestamp), group (General)
 #. +> trunk6 stable6
 #: settings/dolphin_generalsettings.kcfg:140
 #, kde-format
 msgid "Timestamp since when the view properties are valid"
-msgstr "ビューのプロパティがいつから有効かを表すタイムスタンプ"
+msgstr "Timestamp since when the view properties are valid"
 
 #. i18n: ectx: label, entry (AutoExpandFolders), group (General)
 #. +> trunk6 stable6
 #: settings/dolphin_generalsettings.kcfg:143
 #, kde-format
 msgid "Use auto-expanding folders for all view types"
-msgstr "すべての表示モードでフォルダを自動的に展開する"
+msgstr "Use auto-expanding folders for all view types"
 
 #. i18n: ectx: label, entry (ShowStatusBar), group (General)
 #. +> trunk6 stable6
 #: settings/dolphin_generalsettings.kcfg:152
 #, kde-format
 msgid "Statusbar"
-msgstr "ステータスバー"
+msgstr "Statusbar"
 
 #. i18n: ectx: label, entry (ShowZoomSlider), group (General)
 #. +> trunk6 stable6
 #: settings/dolphin_generalsettings.kcfg:157
 #, kde-format
 msgid "Show zoom slider in the statusbar"
-msgstr "ステータスバーにズームスライダーを表示する"
+msgstr "Show zoom slider in the statusbar"
 
 #. i18n: ectx: label, entry (LockPanels), group (General)
 #. +> trunk6 stable6
 #: settings/dolphin_generalsettings.kcfg:161
 #, kde-format
 msgid "Lock the layout of the panels"
-msgstr "パネルの配置をロック"
+msgstr "Lock the layout of the panels"
 
 #. i18n: ectx: label, entry (EnlargeSmallPreviews), group (General)
 #. +> trunk6 stable6
 #: settings/dolphin_generalsettings.kcfg:165
 #, kde-format
 msgid "Enlarge Small Previews"
-msgstr "小さなプレビューを拡大する"
+msgstr "Enlarge Small Previews"
 
 #. i18n: ectx: label, entry (SortingChoice), group (General)
 #. +> trunk6 stable6
@@ -5486,28 +5486,28 @@ msgstr ""
 #: settings/dolphin_generalsettings.kcfg:179
 #, kde-format
 msgid "Also hide files with application/x-trash mimetype"
-msgstr "application/x-trash MIME タイプのファイルも隠す"
+msgstr "Also hide files with application/x-trash mimetype"
 
 #. i18n: ectx: label, entry (DynamicView), group (General)
 #. +> trunk6 stable6
 #: settings/dolphin_generalsettings.kcfg:183
 #, kde-format
 msgid "Enable dynamic view"
-msgstr ""
+msgstr "Enable dynamic view"
 
 #. i18n: ectx: label, entry (ConfirmOpenManyFolders), group (Notification Messages)
 #. +> trunk6 stable6
 #: settings/dolphin_generalsettings.kcfg:189
 #, kde-format
 msgid "Ask for confirmation when opening many folders at once."
-msgstr "一度に複数のフォルダを開くときに確認を求める。"
+msgstr "Ask for confirmation when opening many folders at once."
 
 #. i18n: ectx: label, entry (ConfirmOpenManyTerminals), group (Notification Messages)
 #. +> trunk6 stable6
 #: settings/dolphin_generalsettings.kcfg:193
 #, kde-format
 msgid "Ask for confirmation when opening many terminals at once."
-msgstr "一度に複数のターミナルを開くときに確認を求める。"
+msgstr "Ask for confirmation when opening many terminals at once."
 
 #. i18n: ectx: label, entry (ConfirmRenameFileType), group (Notification Messages)
 #. +> trunk6 stable6
@@ -5515,70 +5515,70 @@ msgstr "一度に複数のターミナルを開くときに確認を求める。
 #, fuzzy, kde-format
 #| msgid "Ask for confirmation when opening many folders at once."
 msgid "Ask for confirmation when renaming file changes its type."
-msgstr "一度に複数のフォルダを開くときに確認を求める。"
+msgstr "Ask for confirmation when renaming file changes its type."
 
 #. i18n: ectx: label, entry (TextWidthIndex), group (IconsMode)
 #. +> trunk6 stable6
 #: settings/dolphin_iconsmodesettings.kcfg:27
 #, kde-format
 msgid "Text width index"
-msgstr "テキスト幅のインデックス"
+msgstr "Text width index"
 
 #. i18n: ectx: label, entry (MaximumTextLines), group (IconsMode)
 #. +> trunk6 stable6
 #: settings/dolphin_iconsmodesettings.kcfg:31
 #, kde-format
 msgid "Maximum textlines (0 means unlimited)"
-msgstr "最大テキストライン数 (0: 無制限)"
+msgstr "Maximum textlines (0 means unlimited)"
 
 #. i18n: ectx: label, entry (enabledPlugins), group (VersionControl)
 #. +> trunk6 stable6
 #: settings/dolphin_versioncontrolsettings.kcfg:10
 #, kde-format
 msgid "Enabled plugins"
-msgstr "有効なプラグイン"
+msgstr "Enabled plugins"
 
 #. +> trunk6 stable6
 #: settings/dolphinsettingsdialog.cpp:42
 #, kde-format
 msgctxt "@title:window"
 msgid "Configure"
-msgstr "設定"
+msgstr "Configure"
 
 #. +> trunk6 stable6
 #: settings/dolphinsettingsdialog.cpp:46
 #, kde-format
 msgctxt "@title:group Interface settings"
 msgid "Interface"
-msgstr "インターフェース"
+msgstr "Interface"
 
 #. +> trunk6 stable6
 #: settings/dolphinsettingsdialog.cpp:52
 #, kde-format
 msgctxt "@title:group"
 msgid "View"
-msgstr "表示"
+msgstr "View"
 
 #. +> trunk6 stable6
 #: settings/dolphinsettingsdialog.cpp:70
 #, kde-format
 msgctxt "@title:group"
 msgid "Context Menu"
-msgstr "コンテキストメニュー"
+msgstr "Context Menu"
 
 #. +> trunk6 stable6
 #: settings/dolphinsettingsdialog.cpp:80
 #, kde-format
 msgctxt "@title:group"
 msgid "Trash"
-msgstr "ごみ箱"
+msgstr "Trash"
 
 #. +> trunk6 stable6
 #: settings/dolphinsettingsdialog.cpp:90
 #, kde-format
 msgctxt "@title:group"
 msgid "User Feedback"
-msgstr "ユーザフィードバック"
+msgstr "User Feedback"
 
 #. +> trunk6 stable6
 #: settings/dolphinsettingsdialog.cpp:168
@@ -5592,123 +5592,123 @@ msgstr ""
 #: settings/dolphinsettingsdialog.cpp:169
 #, kde-format
 msgid "Warning"
-msgstr "警告"
+msgstr "Warning"
 
 #. +> trunk6 stable6
 #: settings/interface/confirmationssettingspage.cpp:49
 #, kde-format
 msgctxt "@title:group"
 msgid "Ask for confirmation in all KDE applications when:"
-msgstr "すべての KDE アプリケーションで確認を求める動作:"
+msgstr "Ask for confirmation in all KDE applications when:"
 
 #. +> trunk6 stable6
 #: settings/interface/confirmationssettingspage.cpp:52
 #, kde-format
 msgctxt "@option:check Ask for confirmation when"
 msgid "Moving files or folders to trash"
-msgstr "ファイル/フォルダをごみ箱に移動"
+msgstr "Moving files or folders to trash"
 
 #. +> trunk6 stable6
 #: settings/interface/confirmationssettingspage.cpp:53
 #, kde-format
 msgctxt "@option:check Ask for confirmation when"
 msgid "Emptying trash"
-msgstr "ごみ箱を空にする"
+msgstr "Emptying trash"
 
 #. +> trunk6 stable6
 #: settings/interface/confirmationssettingspage.cpp:54
 #, kde-format
 msgctxt "@option:check Ask for confirmation when"
 msgid "Deleting files or folders"
-msgstr "ファイル/フォルダを削除"
+msgstr "Deleting files or folders"
 
 #. +> trunk6 stable6
 #: settings/interface/confirmationssettingspage.cpp:56
 #, kde-format
 msgctxt "@title:group"
 msgid "Ask for confirmation in Dolphin when:"
-msgstr "Dolphin で確認を求める動作:"
+msgstr "Ask for confirmation in Dolphin when:"
 
 #. +> trunk6 stable6
 #: settings/interface/confirmationssettingspage.cpp:59
 #, kde-format
 msgctxt "@option:check Ask for confirmation in Dolphin when"
 msgid "Closing windows with multiple tabs"
-msgstr "複数のタブを含むウィンドウを閉じる"
+msgstr "Closing windows with multiple tabs"
 
 #. +> trunk6 stable6
 #: settings/interface/confirmationssettingspage.cpp:63
 #, kde-format
 msgctxt "@option:check Ask for confirmation when"
 msgid "Closing windows with a program running in the Terminal panel"
-msgstr "ターミナルパネルでプログラムを実行中にウィンドウを閉じる"
+msgstr "Closing windows with a program running in the Terminal panel"
 
 #. +> trunk6 stable6
 #: settings/interface/confirmationssettingspage.cpp:66
 #, kde-format
 msgctxt "@option:check Ask for confirmation in Dolphin when"
 msgid "Opening many folders at once"
-msgstr "多数のフォルダを開く"
+msgstr "Opening many folders at once"
 
 #. +> trunk6 stable6
 #: settings/interface/confirmationssettingspage.cpp:67
 #, kde-format
 msgctxt "@option:check Ask for confirmation in Dolphin when"
 msgid "Opening many terminals at once"
-msgstr "多数のターミナルを開く"
+msgstr "Opening many terminals at once"
 
 #. +> trunk6 stable6
 #: settings/interface/confirmationssettingspage.cpp:68
 #, kde-format
 msgctxt "@option:check Ask for confirmation in Dolphin when"
 msgid "Switching to act as an administrator"
-msgstr "管理者としての行動に切り替える"
+msgstr "Switching to act as an administrator"
 
 #. +> trunk6 stable6
 #: settings/interface/confirmationssettingspage.cpp:69
 #, kde-format
 msgctxt "@option:check Ask for confirmation in Dolphin when"
 msgid "Renaming a file will change its type"
-msgstr ""
+msgstr "Renaming a file will change its type"
 
 #. +> trunk6 stable6
 #: settings/interface/confirmationssettingspage.cpp:71
 #, kde-format
 msgctxt "@title:group"
 msgid "When opening an executable file:"
-msgstr "実行ファイルを開く場合の動作:"
+msgstr "When opening an executable file:"
 
 #. +> trunk6 stable6
 #: settings/interface/confirmationssettingspage.cpp:75
 #, kde-format
 msgid "Always ask"
-msgstr "常に確認する"
+msgstr "Always ask"
 
 #. +> trunk6 stable6
 #: settings/interface/confirmationssettingspage.cpp:75
 #, kde-format
 msgid "Open in application"
-msgstr "アプリケーションで開く"
+msgstr "Open in application"
 
 #. +> trunk6 stable6
 #: settings/interface/confirmationssettingspage.cpp:75
 #, kde-format
 msgid "Run script"
-msgstr "スクリプトを実行"
+msgstr "Run script"
 
 #. +> trunk6 stable6
 #: settings/interface/folderstabssettingspage.cpp:53
 #, kde-format
 msgctxt "@option:radio Show on startup"
 msgid "Folders, tabs, and window state from last time"
-msgstr "前回のフォルダ、タブ、ウィンドウの状態"
+msgstr "Folders, tabs, and window state from last time"
 
 #. +> trunk6 stable6
 #: settings/interface/folderstabssettingspage.cpp:58
 #, kde-format
 msgctxt "@option:radio"
 msgid "Show home location on startup"
-msgstr "起動時にホームの場所を表示する"
+msgstr "Show home location on startup"
 
 #. i18n: For entering the absolute path to a user-specified home folder. Default: /home/userName/
 #. +> trunk6 stable6
@@ -5716,70 +5716,70 @@ msgstr "起動時にホームの場所を表示する"
 #, kde-format
 msgctxt "@info:placeholder"
 msgid "Enter home location path"
-msgstr "ホームのパスを入力"
+msgstr "Enter home location path"
 
 #. +> trunk6 stable6
 #: settings/interface/folderstabssettingspage.cpp:72
 #, kde-format
 msgctxt "@action:button"
 msgid "Select Home Location"
-msgstr "ホームの場所を選択"
+msgstr "Select Home Location"
 
 #. +> trunk6 stable6
 #: settings/interface/folderstabssettingspage.cpp:82
 #, kde-format
 msgctxt "@action:button"
 msgid "Use Current Location"
-msgstr "現在の場所を使う"
+msgstr "Use Current Location"
 
 #. +> trunk6 stable6
 #: settings/interface/folderstabssettingspage.cpp:86
 #, kde-format
 msgctxt "@action:button"
 msgid "Use Default Location"
-msgstr "標準設定の場所を使う"
+msgstr "Use Default Location"
 
 #. +> trunk6 stable6
 #: settings/interface/folderstabssettingspage.cpp:94
 #, kde-format
 msgctxt "@label:textbox"
 msgid "Show on startup:"
-msgstr "起動時の表示:"
+msgstr "Show on startup:"
 
 #. +> trunk6 stable6
 #: settings/interface/folderstabssettingspage.cpp:107
 #, kde-format
 msgctxt "@label:checkbox"
 msgid "Opening Folders:"
-msgstr "フォルダを開く:"
+msgstr "Opening Folders:"
 
 #. +> trunk6 stable6
 #: settings/interface/folderstabssettingspage.cpp:108
 #, kde-format
 msgctxt "@option:check Opening Folders"
 msgid "Keep a single Dolphin window, opening new folders in tabs"
-msgstr "新しいフォルダをタブで開き、ウィンドウを1つに保つ"
+msgstr "Keep a single Dolphin window, opening new folders in tabs"
 
 #. +> trunk6 stable6
 #: settings/interface/folderstabssettingspage.cpp:112
 #, kde-format
 msgctxt "@label:checkbox"
 msgid "Window:"
-msgstr "ウィンドウ:"
+msgstr "Window:"
 
 #. +> trunk6 stable6
 #: settings/interface/folderstabssettingspage.cpp:113
 #, kde-format
 msgctxt "@option:check Startup Settings"
 msgid "Show full path in title bar"
-msgstr "タイトルバーにフルパスを表示する"
+msgstr "Show full path in title bar"
 
 #. +> trunk6 stable6
 #: settings/interface/folderstabssettingspage.cpp:116
 #, kde-format
 msgctxt "@option:check Window Startup Settings"
 msgid "Show filter bar"
-msgstr "フィルタバーを表示"
+msgstr "Show filter bar"
 
 #. +> trunk6
 #: settings/interface/folderstabssettingspage.cpp:122
@@ -5788,7 +5788,7 @@ msgstr "フィルタバーを表示"
 #| msgid "At end of tab bar"
 msgctxt "@option:check"
 msgid "Always show tab bar"
-msgstr "タブバーの最後"
+msgstr "Always show tab bar"
 
 #. +> trunk6
 #: settings/interface/folderstabssettingspage.cpp:123
@@ -5797,7 +5797,7 @@ msgstr "タブバーの最後"
 #| msgid "Label width:"
 msgctxt "@label:checkbox"
 msgid "Tab width:"
-msgstr "ラベルの幅:"
+msgstr "Tab width:"
 
 #. +> trunk6
 #: settings/interface/folderstabssettingspage.cpp:124
@@ -5806,28 +5806,28 @@ msgstr "ラベルの幅:"
 #| msgid "Show home location on startup"
 msgctxt "@option:check"
 msgid "Show close button on tabs"
-msgstr "起動時にホームの場所を表示する"
+msgstr "Show close button on tabs"
 
 #. +> trunk6
 #: settings/interface/folderstabssettingspage.cpp:127
 #, kde-format
 msgctxt "@option:radio size as in tab width"
 msgid "Tab width adapts to folder name"
-msgstr ""
+msgstr "Tab width adapts to folder name"
 
 #. +> trunk6
 #: settings/interface/folderstabssettingspage.cpp:128
 #, kde-format
 msgctxt "@option:radio size as in tab width"
 msgid "Tabs all have the same fixed width"
-msgstr ""
+msgstr "Tabs all have the same fixed width"
 
 #. +> trunk6
 #: settings/interface/folderstabssettingspage.cpp:129
 #, kde-format
 msgctxt "@option:radio width as in tab width"
 msgid "Tabs span the available width"
-msgstr ""
+msgstr "Tabs span the available width"
 
 #. +> trunk6
 #: settings/interface/folderstabssettingspage.cpp:134
@@ -5836,21 +5836,21 @@ msgstr ""
 #| msgid "Date style:"
 msgctxt "@title:group"
 msgid "Tab style: "
-msgstr "日付形式:"
+msgstr "Tab style: "
 
 #. +> trunk6 stable6
 #: settings/interface/folderstabssettingspage.cpp:138
 #, kde-format
 msgctxt "option:radio"
 msgid "After current tab"
-msgstr "現在のタブの後"
+msgstr "After current tab"
 
 #. +> trunk6 stable6
 #: settings/interface/folderstabssettingspage.cpp:139
 #, kde-format
 msgctxt "option:radio"
 msgid "At end of tab bar"
-msgstr "タブバーの最後"
+msgstr "At end of tab bar"
 
 #. +> stable6
 #: settings/interface/folderstabssettingspage.cpp:139
@@ -5864,14 +5864,14 @@ msgstr ""
 #: settings/interface/folderstabssettingspage.cpp:142
 #, kde-format
 msgid "New windows:"
-msgstr "新しいウィンドウ:"
+msgstr "New windows:"
 
 #. +> trunk6 stable6
 #: settings/interface/folderstabssettingspage.cpp:143
 #, kde-format
 msgctxt "@title:group"
 msgid "Open new tabs: "
-msgstr "新しいタブで開く: "
+msgstr "Open new tabs: "
 
 #. +> trunk6
 #: settings/interface/folderstabssettingspage.cpp:149
@@ -5880,19 +5880,19 @@ msgstr "新しいタブで開く: "
 #| msgid "Begin in split view mode"
 msgctxt "@info"
 msgid "When closing a split view"
-msgstr "分割ビューモードで開始"
+msgstr "When closing a split view"
 
 #. +> trunk6
 #: settings/interface/folderstabssettingspage.cpp:151
 #, kde-format
 msgid "Close the active pane"
-msgstr ""
+msgstr "Close the active pane"
 
 #. +> trunk6
 #: settings/interface/folderstabssettingspage.cpp:151
 #, kde-format
 msgid "Close the inactive pane"
-msgstr ""
+msgstr "Close the inactive pane"
 
 #. +> trunk6
 #: settings/interface/folderstabssettingspage.cpp:151
@@ -5900,28 +5900,28 @@ msgstr ""
 #| msgctxt "@info"
 #| msgid "Close right view"
 msgid "Close the right pane"
-msgstr "右のビューを閉じる"
+msgstr "Close the right pane"
 
 #. +> trunk6 stable6
 #: settings/interface/folderstabssettingspage.cpp:158
 #, kde-format
 msgctxt "@title:group"
 msgid "Split view: "
-msgstr "ビューを分割:"
+msgstr "Split view: "
 
 #. +> trunk6 stable6
 #: settings/interface/folderstabssettingspage.cpp:161
 #, kde-format
 msgctxt "option:check split view panes"
 msgid "Switch between views with Tab key"
-msgstr "Tab キーでビューを切り替える"
+msgstr "Switch between views with Tab key"
 
 #. +> stable6
 #: settings/interface/folderstabssettingspage.cpp:136
 #, kde-format
 msgctxt "option:check"
 msgid "Turning off split view closes the view in focus"
-msgstr "分割ビューをオフにしたらフォーカスしているビューを閉じる"
+msgstr "Turning off split view closes the view in focus"
 
 #. +> trunk6
 #: settings/interface/folderstabssettingspage.cpp:165
@@ -5930,14 +5930,14 @@ msgstr "分割ビューをオフにしたらフォーカスしているビュー
 #| msgid "Begin in split view mode"
 msgctxt "@option:check Startup Settings"
 msgid "Open new windows in split view mode"
-msgstr "分割ビューモードで開始"
+msgstr "Open new windows in split view mode"
 
 #. +> stable6
 #: settings/interface/folderstabssettingspage.cpp:143
 #, kde-format
 msgctxt "@option:check Startup Settings"
 msgid "Begin in split view mode"
-msgstr "分割ビューモードで開始"
+msgstr "Begin in split view mode"
 
 #. +> trunk6 stable6
 #: settings/interface/folderstabssettingspage.cpp:339
@@ -5953,7 +5953,7 @@ msgstr "ホームフォルダの場所が無効か存在しないため、変更
 #, kde-format
 msgctxt "@title:tab Folders & Tabs settings"
 msgid "Folders && Tabs"
-msgstr "フォルダとタブ"
+msgstr "Folders && Tabs"
 
 #. +> trunk6 stable6
 #: settings/interface/interfacesettingspage.cpp:42
@@ -5961,7 +5961,7 @@ msgstr "フォルダとタブ"
 #, kde-format
 msgctxt "@title:tab Previews settings"
 msgid "Previews"
-msgstr "プレビュー"
+msgstr "Previews"
 
 #. +> trunk6 stable6
 #: settings/interface/interfacesettingspage.cpp:47
@@ -5969,63 +5969,63 @@ msgstr "プレビュー"
 #, kde-format
 msgctxt "@title:tab Confirmations settings"
 msgid "Confirmations"
-msgstr "確認"
+msgstr "Confirmations"
 
 #. +> trunk6 stable6
 #: settings/interface/interfacesettingspage.cpp:53
 #, kde-format
 msgctxt "@title:tab Panels settings"
 msgid "Panels"
-msgstr "パネル"
+msgstr "Panels"
 
 #. +> trunk6 stable6
 #: settings/interface/interfacesettingspage.cpp:59
 #, kde-format
 msgctxt "@title:tab Status & Location bars settings"
 msgid "Status && Location bars"
-msgstr "ステータスバーと場所バー"
+msgstr "Status && Location bars"
 
 #. +> trunk6 stable6
 #: settings/interface/panelsettingspage.cpp:35
 #, kde-format
 msgctxt "@option:check"
 msgid "Show previews"
-msgstr "プレビューを表示"
+msgstr "Show previews"
 
 #. +> trunk6 stable6
 #: settings/interface/panelsettingspage.cpp:36
 #, kde-format
 msgctxt "@option:check"
 msgid "Auto-play media files"
-msgstr "メディアファイルを自動再生"
+msgstr "Auto-play media files"
 
 #. +> trunk6 stable6
 #: settings/interface/panelsettingspage.cpp:37
 #, kde-format
 msgctxt "@option:check"
 msgid "Show item on hover"
-msgstr "マウスホバーでアイテムを表示"
+msgstr "Show item on hover"
 
 #. +> trunk6 stable6
 #: settings/interface/panelsettingspage.cpp:38
 #, kde-format
 msgctxt "@option:check"
 msgid "Use &long date, for example '%1'"
-msgstr "長い日付形式を使用する (例: '%1')"
+msgstr "Use &long date, for example '%1'"
 
 #. +> trunk6 stable6
 #: settings/interface/panelsettingspage.cpp:39
 #, kde-format
 msgctxt "@option:check"
 msgid "Use &condensed date, for example '%1'"
-msgstr "短い日付形式を使用する (例: '%1')"
+msgstr "Use &condensed date, for example '%1'"
 
 #. +> trunk6 stable6
 #: settings/interface/panelsettingspage.cpp:45
 #, kde-format
 msgctxt "@label:checkbox"
 msgid "Information Panel:"
-msgstr "情報パネル:"
+msgstr "Information Panel:"
 
 #. +> trunk6 stable6
 #: settings/interface/panelsettingspage.cpp:53
@@ -6043,7 +6043,7 @@ msgstr ""
 #, kde-format
 msgctxt "@title:group"
 msgid "Show previews in the view for:"
-msgstr "ビューにプレビューを表示するファイル:"
+msgstr "Show previews in the view for:"
 
 #. i18n: This label forms a full sentence together with the spinbox content.
 #. Depending on the option chosen in the spinbox, it reads "Show previews for [files below n MiB]"
@@ -6054,7 +6054,7 @@ msgstr "ビューにプレビューを表示するファイル:"
 #, kde-format
 msgctxt "@label:spinbox"
 msgid "Show previews for"
-msgstr "次のプレビューを表示"
+msgstr "Show previews for"
 
 #. +> trunk6 stable6
 #: settings/interface/previewssettingspage.cpp:68
@@ -6064,7 +6064,7 @@ msgctxt ""
 "used as a prefix in a spinbox showing e.g. 'Show previews for [files below 3 "
 "MiB]'"
 msgid "files below "
-msgstr "次のサイズ以下のファイル "
+msgstr "files below "
 
 #. +> trunk6 stable6
 #: settings/interface/previewssettingspage.cpp:69
@@ -6079,21 +6079,21 @@ msgstr " MiB"
 #, kde-format
 msgctxt "e.g. 'Show previews for [files of any size]'"
 msgid "files of any size"
-msgstr "すべてのサイズのファイル"
+msgstr "files of any size"
 
 #. +> trunk6 stable6
 #: settings/interface/previewssettingspage.cpp:84
 #, kde-format
 msgctxt "e.g. 'Show previews for [no file]'"
 msgid "no file"
-msgstr "ファイルなし"
+msgstr "no file"
 
 #. +> trunk6 stable6
 #: settings/interface/previewssettingspage.cpp:91
 #, kde-format
 msgctxt "@option:check"
 msgid "Show previews for folders"
-msgstr "フォルダのプレビューを表示"
+msgstr "Show previews for folders"
 
 #. +> trunk6 stable6
 #: settings/interface/previewssettingspage.cpp:100
@@ -6111,76 +6111,76 @@ msgstr ""
 #, kde-format
 msgctxt "@title:group"
 msgid "Local storage:"
-msgstr "ローカルストレージ:"
+msgstr "Local storage:"
 
 #. +> trunk6 stable6
 #: settings/interface/previewssettingspage.cpp:117
 #, kde-format
 msgctxt "@title:group"
 msgid "Remote storage:"
-msgstr "リモートストレージ:"
+msgstr "Remote storage:"
 
 #. +> trunk6 stable6
 #: settings/interface/statusandlocationbarssettingspage.cpp:42
 #, kde-format
 msgctxt "@option:radio"
 msgid "Small"
-msgstr "小"
+msgstr "Small"
 
 #. +> trunk6 stable6
 #: settings/interface/statusandlocationbarssettingspage.cpp:43
 #, kde-format
 msgctxt "@option:radio"
 msgid "Full width"
-msgstr "フルサイズ"
+msgstr "Full width"
 
 #. +> trunk6 stable6
 #: settings/interface/statusandlocationbarssettingspage.cpp:44
 #, kde-format
 msgctxt "@option:check"
 msgid "Show zoom slider"
-msgstr "ズームスライダーを表示する"
+msgstr "Show zoom slider"
 
 #. +> trunk6 stable6
 #: settings/interface/statusandlocationbarssettingspage.cpp:45
 #, kde-format
 msgctxt "@option:check"
 msgid "Disabled"
-msgstr "無効にする"
+msgstr "Disabled"
 
 #. +> trunk6 stable6
 #: settings/interface/statusandlocationbarssettingspage.cpp:51
 #, kde-format
 msgctxt "@title:group"
 msgid "Status Bar:"
-msgstr "ステータスバー:"
+msgstr "Status Bar:"
 
 #. +> trunk6 stable6
 #: settings/interface/statusandlocationbarssettingspage.cpp:68
 #, kde-format
 msgctxt "@option:check Startup Settings"
 msgid "Make location bar editable"
-msgstr "編集可能な場所バーを表示する"
+msgstr "Make location bar editable"
 
 #. +> trunk6 stable6
 #: settings/interface/statusandlocationbarssettingspage.cpp:69
 #, kde-format
 msgid "Location bar:"
-msgstr "場所バー:"
+msgstr "Location bar:"
 
 #. +> trunk6 stable6
 #: settings/interface/statusandlocationbarssettingspage.cpp:71
 #, kde-format
 msgctxt "@option:check Startup Settings"
 msgid "Show full path inside location bar"
-msgstr "場所バーにフルパスを表示する"
+msgstr "Show full path inside location bar"
 
 #. +> trunk6 stable6
 #: settings/kcm/kcmdolphingeneral.cpp:39
 #, kde-format
 msgctxt "@title:tab Behavior settings"
 msgid "Behavior"
-msgstr "動作"
+msgstr "Behavior"
 
 #. +> trunk6 stable6
 #: settings/kcm/kcmdolphinviewmodes.cpp:38
@@ -6188,7 +6188,7 @@ msgstr "動作"
 #, kde-format
 msgctxt "@title:tab"
 msgid "Icons"
-msgstr "アイコン"
+msgstr "Icons"
 
 #. +> trunk6 stable6
 #: settings/kcm/kcmdolphinviewmodes.cpp:43
@@ -6196,7 +6196,7 @@ msgstr "アイコン"
 #, kde-format
 msgctxt "@title:tab"
 msgid "Compact"
-msgstr "コンパクト"
+msgstr "Compact"
 
 #. +> trunk6 stable6
 #: settings/kcm/kcmdolphinviewmodes.cpp:48
@@ -6204,56 +6204,56 @@ msgstr "コンパクト"
 #, kde-format
 msgctxt "@title:tab"
 msgid "Details"
-msgstr "詳細"
+msgstr "Details"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/contentdisplaytab.cpp:38
 #, kde-format
 msgctxt "option:radio"
 msgid "Natural"
-msgstr "自然"
+msgstr "Natural"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/contentdisplaytab.cpp:39
 #, kde-format
 msgctxt "option:radio"
 msgid "Alphabetical, case insensitive"
-msgstr "アルファベット順,大文字と小文字を区別しない"
+msgstr "Alphabetical, case insensitive"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/contentdisplaytab.cpp:40
 #, kde-format
 msgctxt "option:radio"
 msgid "Alphabetical, case sensitive"
-msgstr "アルファベット順,大文字と小文字を区別する"
+msgstr "Alphabetical, case sensitive"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/contentdisplaytab.cpp:46
 #, kde-format
 msgctxt "@title:group"
 msgid "Sorting mode: "
-msgstr "ソートモード:"
+msgstr "Sorting mode: "
 
 #. +> trunk6 stable6
 #: settings/viewmodes/contentdisplaytab.cpp:52
 #, kde-format
 msgctxt "option:radio"
 msgid "Show number of items"
-msgstr "アイテム数を表示する"
+msgstr "Show number of items"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/contentdisplaytab.cpp:53
 #, kde-format
 msgctxt "option:radio"
 msgid "Show size of contents, up to "
-msgstr "コンテンツのサイズを表示する: 最大"
+msgstr "Show size of contents, up to "
 
 #. +> trunk6 stable6
 #: settings/viewmodes/contentdisplaytab.cpp:54
 #, kde-format
 msgctxt "option:radio"
 msgid "Show no size"
-msgstr "サイズを表示しない"
+msgstr "Show no size"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/contentdisplaytab.cpp:63
@@ -6267,105 +6267,105 @@ msgstr[0] " 深い準位"
 #, kde-format
 msgctxt "@title:group"
 msgid "Folder size:"
-msgstr "フォルダサイズ:"
+msgstr "Folder size:"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/contentdisplaytab.cpp:82
 #, kde-format
 msgctxt "option:radio as in relative date"
 msgid "Relative (e.g. '%1')"
-msgstr "相対値 (例: '%1')"
+msgstr "Relative (e.g. '%1')"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/contentdisplaytab.cpp:84
 #, kde-format
 msgctxt "option:radio as in absolute date"
 msgid "Absolute (e.g. '%1')"
-msgstr "絶対値 (例: '%1')"
+msgstr "Absolute (e.g. '%1')"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/contentdisplaytab.cpp:90
 #, kde-format
 msgctxt "@title:group"
 msgid "Date style:"
-msgstr "日付形式:"
+msgstr "Date style:"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/contentdisplaytab.cpp:93
 #, kde-format
 msgctxt "option:radio as symbolic style "
 msgid "Symbolic (e.g. 'drwxr-xr-x')"
-msgstr "シンボリック (例: 'drwxr-xr-x')"
+msgstr "Symbolic (e.g. 'drwxr-xr-x')"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/contentdisplaytab.cpp:94
 #, kde-format
 msgctxt "option:radio as numeric style"
 msgid "Numeric (Octal) (e.g. '755')"
-msgstr "オクタル (例: '755')"
+msgstr "Numeric (Octal) (e.g. '755')"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/contentdisplaytab.cpp:95
 #, kde-format
 msgctxt "option:radio as combined style"
 msgid "Combined (e.g. 'drwxr-xr-x (755)')"
-msgstr "複合 (例: 'drwxr-xr-x (755)')"
+msgstr "Combined (e.g. 'drwxr-xr-x (755)')"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/contentdisplaytab.cpp:97
 #, kde-format
 msgctxt "@title:group"
 msgid "Permissions style:"
-msgstr "パーミッションの表示形式:"
+msgstr "Permissions style:"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/contentdisplaytab.cpp:106
 #, kde-format
 msgctxt "@option:radio Long file names"
 msgid "Elide in the middle (e.g. ’Some very… name.txt')"
-msgstr "中間を省略する (例: ’Some very… name.txt')"
+msgstr "Elide in the middle (e.g. ’Some very… name.txt')"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/contentdisplaytab.cpp:107
 #, kde-format
 msgctxt "@option:radio Long file names"
 msgid "Elide at the end (e.g. ’Some very long….txt')"
-msgstr "末尾を省略する (例: ’Some very long….txt')"
+msgstr "Elide at the end (e.g. ’Some very long….txt')"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/contentdisplaytab.cpp:109
 #, kde-format
 msgctxt "@title:group"
 msgid "Long file names:"
-msgstr "長いファイル名:"
+msgstr "Long file names:"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/dolphinfontrequester.cpp:28
 #, kde-format
 msgctxt "@item:inlistbox Font"
 msgid "System Font"
-msgstr "システムフォント"
+msgstr "System Font"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/dolphinfontrequester.cpp:29
 #, kde-format
 msgctxt "@item:inlistbox Font"
 msgid "Custom Font"
-msgstr "カスタムフォント"
+msgstr "Custom Font"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/dolphinfontrequester.cpp:32
 #, kde-format
 msgctxt "@action:button Choose font"
 msgid "Choose…"
-msgstr "選択..."
+msgstr "Choose…"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/generalviewsettingspage.cpp:34
 #, kde-format
 msgctxt "@option:radio"
 msgid "Use common display style for all folders"
-msgstr "すべてのフォルダに共通の表示スタイルを使う"
+msgstr "Use common display style for all folders"
 
 #. i18n: The information in this sentence contradicts the preceding sentence. That's what the word "still" is communicating.
 #. The previous sentence is "Use common display style for all folders".
@@ -6385,7 +6385,7 @@ msgstr ""
 #, kde-format
 msgctxt "@option:radio"
 msgid "Remember display style for each folder"
-msgstr "フォルダごとにビューの表示スタイルを保存する"
+msgstr "Remember display style for each folder"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/generalviewsettingspage.cpp:44
@@ -6403,14 +6403,14 @@ msgstr ""
 #, kde-format
 msgctxt "option:check"
 msgid "Use icons view mode for locations which mostly contain media files"
-msgstr "主にメディアファイルがある場所においては、アイコン表示モードを使用する"
+msgstr "Use icons view mode for locations which mostly contain media files"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/generalviewsettingspage.cpp:55
 #, kde-format
 msgctxt "@title:group"
 msgid "Display style: "
-msgstr "表示スタイル:"
+msgstr "Display style: "
 
 #. +> trunk6 stable6
 #: settings/viewmodes/generalviewsettingspage.cpp:64
@@ -6419,28 +6419,28 @@ msgstr "表示スタイル:"
 #| msgid "Show preview of files and folders"
 msgctxt "@option:check"
 msgid "Browse compressed files as folders"
-msgstr "ファイルとフォルダのプレビューを表示"
+msgstr "Browse compressed files as folders"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/generalviewsettingspage.cpp:65
 #, kde-format
 msgctxt "option:check"
 msgid "Open folders during drag operations"
-msgstr "ドラッグ操作中にフォルダを開く"
+msgstr "Open folders during drag operations"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/generalviewsettingspage.cpp:66
 #, kde-format
 msgctxt "@title:group"
 msgid "Browsing: "
-msgstr "ブラウズ:"
+msgstr "Browsing: "
 
 #. +> trunk6 stable6
 #: settings/viewmodes/generalviewsettingspage.cpp:73
 #, kde-format
 msgctxt "@option:check"
 msgid "Show item information on hover"
-msgstr "マウスホバーでアイテムを表示"
+msgstr "Show item information on hover"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/generalviewsettingspage.cpp:74
@@ -6448,27 +6448,27 @@ msgstr "マウスホバーでアイテムを表示"
 #, kde-format
 msgctxt "@title:group"
 msgid "Miscellaneous: "
-msgstr "その他: "
+msgstr "Miscellaneous: "
 
 #. +> trunk6 stable6
 #: settings/viewmodes/generalviewsettingspage.cpp:78
 #, kde-format
 msgctxt "@option:check"
 msgid "Show selection marker"
-msgstr "選択マーカーを表示"
+msgstr "Show selection marker"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/generalviewsettingspage.cpp:86
 #, kde-format
 msgctxt "option:check"
 msgid "Rename single items inline"
-msgstr "シングルアイテムの名前をインラインで変更"
+msgstr "Rename single items inline"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/generalviewsettingspage.cpp:87
 #, kde-format
 msgid "Renaming multiple items is always done with a dialog window."
-msgstr ""
+msgstr "Renaming multiple items is always done with a dialog window."
 "複数のアイテムの名前を変更する場合は、常にダイアログウィンドウで行います。"
 
 #. +> trunk6 stable6
@@ -6476,7 +6476,7 @@ msgstr ""
 #, kde-format
 msgctxt "option:check"
 msgid "Also hide backup files while hiding hidden files"
-msgstr "隠しファイルを非表示にしている間はバックアップファイルも非表示"
+msgstr "Also hide backup files while hiding hidden files"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/generalviewsettingspage.cpp:94
@@ -6497,7 +6497,7 @@ msgctxt ""
 "Accessible description for combobox with actions of double click view "
 "background setting"
 msgid "Action to trigger when double clicking view background"
-msgstr "ビューの背景をダブルクリックしたときに実行されるアクション"
+msgstr "Action to trigger when double clicking view background"
 
 #. i18n: Completes the sentence "Double-click triggers [Nothing]".
 #. +> trunk6 stable6
@@ -6505,14 +6505,14 @@ msgstr "ビューの背景をダブルクリックしたときに実行される
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "Nothing"
-msgstr "なし"
+msgstr "Nothing"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/generalviewsettingspage.cpp:130
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "Custom Command"
-msgstr "カスタムコマンド"
+msgstr "Custom Command"
 
 #. i18n: This sentence is incomplete because the user can choose an action that is triggered in a combobox that will appear directly after "triggers".
 #. (While using a left-to-right language it will be to the right of "triggers", in a right-to-left layout it will be to the left.)
@@ -6523,14 +6523,14 @@ msgstr "カスタムコマンド"
 #, kde-format
 msgctxt "@info"
 msgid "Double-click triggers"
-msgstr "ダブルクリック時の動作"
+msgstr "Double-click triggers"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/generalviewsettingspage.cpp:162
 #, kde-format
 msgctxt "@title:group"
 msgid "Background: "
-msgstr "バックグラウンド: "
+msgstr "Background: "
 
 #. +> trunk6 stable6
 #: settings/viewmodes/generalviewsettingspage.cpp:167
@@ -6539,14 +6539,14 @@ msgctxt ""
 "Accessible description for custom command text field of double click view "
 "background setting"
 msgid "Enter custom command to trigger when double clicking view background"
-msgstr "ビューの背景をダブルクリックしたときに実行するカスタムコマンドを入力"
+msgstr "Enter custom command to trigger when double clicking view background"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/generalviewsettingspage.cpp:168
 #, kde-format
 msgctxt "@info:placeholder for terminal command"
 msgid "Command…"
-msgstr "コマンド..."
+msgstr "Command…"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/generalviewsettingspage.cpp:172
@@ -6561,84 +6561,84 @@ msgstr ""
 #, kde-format
 msgctxt "@title:tab General View settings"
 msgid "General"
-msgstr "全般"
+msgstr "General"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/viewsettingspage.cpp:38
 #, kde-format
 msgctxt "@title:tab how file items columns are displayed"
 msgid "Content Display"
-msgstr "表示"
+msgstr "Content Display"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/viewsettingstab.cpp:52
 #, kde-format
 msgctxt "@label:listbox"
 msgid "Default icon size:"
-msgstr "標準のアイコンサイズ:"
+msgstr "Default icon size:"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/viewsettingstab.cpp:59
 #, kde-format
 msgctxt "@label:listbox"
 msgid "Preview icon size:"
-msgstr "プレビューのアイコンサイズ:"
+msgstr "Preview icon size:"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/viewsettingstab.cpp:65
 #, kde-format
 msgctxt "@label:listbox"
 msgid "Label font:"
-msgstr "ラベルフォント:"
+msgstr "Label font:"
 
 #. +> trunk6
 #: settings/viewmodes/viewsettingstab.cpp:71
 #, kde-format
 msgctxt "@info"
 msgid "Some font styles are reserved by Dolphin and may be overridden."
-msgstr ""
+msgstr "Some font styles are reserved by Dolphin and may be overridden."
 
 #. +> trunk6 stable6
 #: settings/viewmodes/viewsettingstab.cpp:81
 #, kde-format
 msgctxt "@item:inlistbox Label width"
 msgid "Small"
-msgstr "小"
+msgstr "Small"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/viewsettingstab.cpp:82
 #, kde-format
 msgctxt "@item:inlistbox Label width"
 msgid "Medium"
-msgstr "中"
+msgstr "Medium"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/viewsettingstab.cpp:83
 #, kde-format
 msgctxt "@item:inlistbox Label width"
 msgid "Large"
-msgstr "大"
+msgstr "Large"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/viewsettingstab.cpp:84
 #, kde-format
 msgctxt "@item:inlistbox Label width"
 msgid "Huge"
-msgstr "最大"
+msgstr "Huge"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/viewsettingstab.cpp:85
 #, kde-format
 msgctxt "@label:listbox"
 msgid "Label width:"
-msgstr "ラベルの幅:"
+msgstr "Label width:"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/viewsettingstab.cpp:88
 #, kde-format
 msgctxt "@item:inlistbox Maximum lines"
 msgid "Unlimited"
-msgstr "無制限"
+msgstr "Unlimited"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/viewsettingstab.cpp:89
@@ -6680,70 +6680,70 @@ msgstr "5"
 #, kde-format
 msgctxt "@label:listbox"
 msgid "Maximum lines:"
-msgstr "最大表示行数:"
+msgstr "Maximum lines:"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/viewsettingstab.cpp:99
 #, kde-format
 msgctxt "@item:inlistbox Maximum width"
 msgid "Unlimited"
-msgstr "無制限"
+msgstr "Unlimited"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/viewsettingstab.cpp:100
 #, kde-format
 msgctxt "@item:inlistbox Maximum width"
 msgid "Small"
-msgstr "短く"
+msgstr "Small"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/viewsettingstab.cpp:101
 #, kde-format
 msgctxt "@item:inlistbox Maximum width"
 msgid "Medium"
-msgstr "普通"
+msgstr "Medium"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/viewsettingstab.cpp:102
 #, kde-format
 msgctxt "@item:inlistbox Maximum width"
 msgid "Large"
-msgstr "長く"
+msgstr "Large"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/viewsettingstab.cpp:103
 #, kde-format
 msgctxt "@label:listbox"
 msgid "Maximum width:"
-msgstr "最大幅:"
+msgstr "Maximum width:"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/viewsettingstab.cpp:107
 #, kde-format
 msgctxt "@option:check"
 msgid "Expandable"
-msgstr "展開可能にする"
+msgstr "Expandable"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/viewsettingstab.cpp:108
 #, kde-format
 msgctxt "@label:checkbox"
 msgid "Folders:"
-msgstr "フォルダ:"
+msgstr "Folders:"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/viewsettingstab.cpp:111
 #, kde-format
 msgctxt "@option:radio how files/folders are opened"
 msgid "By clicking anywhere on the row"
-msgstr "列のどこかをクリック"
+msgstr "By clicking anywhere on the row"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/viewsettingstab.cpp:112
 #, kde-format
 msgctxt "@option:radio how files/folders are opened"
 msgid "By clicking on icon or name"
-msgstr "アイコンか名前をクリック"
+msgstr "By clicking on icon or name"
 
 #. i18n: Users can choose here if items are opened by clicking on their name/icon or by clicking in the row.
 #. +> trunk6 stable6
@@ -6751,7 +6751,7 @@ msgstr "アイコンか名前をクリック"
 #, kde-format
 msgctxt "@title:group"
 msgid "Open files and folders:"
-msgstr "ファイルとフォルダの開き方:"
+msgstr "Open files and folders:"
 
 #. +> trunk6 stable6
 #: settings/viewmodes/viewsettingstab.cpp:277
@@ -6767,145 +6767,145 @@ msgstr[0] "サイズ: %1 ピクセル"
 #, kde-format
 msgctxt "@title:window"
 msgid "View Display Style"
-msgstr "表示スタイル"
+msgstr "View Display Style"
 
 #. +> trunk6 stable6
 #: settings/viewpropertiesdialog.cpp:71
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "Icons"
-msgstr "アイコン"
+msgstr "Icons"
 
 #. +> trunk6 stable6
 #: settings/viewpropertiesdialog.cpp:72
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "Compact"
-msgstr "コンパクト"
+msgstr "Compact"
 
 #. +> trunk6 stable6
 #: settings/viewpropertiesdialog.cpp:73
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "Details"
-msgstr "詳細"
+msgstr "Details"
 
 #. +> trunk6 stable6
 #: settings/viewpropertiesdialog.cpp:76
 #, kde-format
 msgctxt "@item:inlistbox Sort"
 msgid "Ascending"
-msgstr "昇順"
+msgstr "Ascending"
 
 #. +> trunk6 stable6
 #: settings/viewpropertiesdialog.cpp:77
 #, kde-format
 msgctxt "@item:inlistbox Sort"
 msgid "Descending"
-msgstr "降順"
+msgstr "Descending"
 
 #. +> trunk6 stable6
 #: settings/viewpropertiesdialog.cpp:85
 #, kde-format
 msgctxt "@option:check"
 msgid "Show folders first"
-msgstr "フォルダを先に表示する"
+msgstr "Show folders first"
 
 #. +> trunk6 stable6
 #: settings/viewpropertiesdialog.cpp:86
 #, kde-format
 msgctxt "@option:check"
 msgid "Show hidden files last"
-msgstr "隠しファイルを後に表示する"
+msgstr "Show hidden files last"
 
 #. +> trunk6 stable6
 #: settings/viewpropertiesdialog.cpp:87
 #, kde-format
 msgctxt "@option:check"
 msgid "Show preview"
-msgstr "プレビューを表示する"
+msgstr "Show preview"
 
 #. +> trunk6 stable6
 #: settings/viewpropertiesdialog.cpp:88
 #, kde-format
 msgctxt "@option:check"
 msgid "Show in groups"
-msgstr "グループ化して表示する"
+msgstr "Show in groups"
 
 #. +> trunk6 stable6
 #: settings/viewpropertiesdialog.cpp:89
 #, kde-format
 msgctxt "@option:check"
 msgid "Show hidden files"
-msgstr "隠しファイルを表示する"
+msgstr "Show hidden files"
 
 #. +> trunk6 stable6
 #: settings/viewpropertiesdialog.cpp:92
 #, kde-format
 msgctxt "@title:group"
 msgid "Additional Information"
-msgstr "追加情報"
+msgstr "Additional Information"
 
 #. +> trunk6 stable6
 #: settings/viewpropertiesdialog.cpp:131
 #, kde-format
 msgid "Choose what to see on each file or folder:"
-msgstr "各ファイル/フォルダに表示する内容を選択:"
+msgstr "Choose what to see on each file or folder:"
 
 #. +> trunk6 stable6
 #: settings/viewpropertiesdialog.cpp:141
 #, kde-format
 msgctxt "@label:listbox"
 msgid "View mode:"
-msgstr "表示モード:"
+msgstr "View mode:"
 
 #. +> trunk6 stable6
 #: settings/viewpropertiesdialog.cpp:142
 #, kde-format
 msgctxt "@label:listbox"
 msgid "Sorting:"
-msgstr "ソート:"
+msgstr "Sorting:"
 
 #. +> trunk6 stable6
 #: settings/viewpropertiesdialog.cpp:146
 #, kde-format
 msgid "View options:"
-msgstr "表示オプション:"
+msgstr "View options:"
 
 #. +> trunk6 stable6
 #: settings/viewpropertiesdialog.cpp:165
 #, kde-format
 msgctxt "@option:radio Apply View Properties To"
 msgid "Current folder"
-msgstr "現在のフォルダ"
+msgstr "Current folder"
 
 #. +> trunk6 stable6
 #: settings/viewpropertiesdialog.cpp:167
 #, kde-format
 msgctxt "@option:radio Apply View Properties To"
 msgid "Current folder and sub-folders"
-msgstr "現在のフォルダとサブフォルダ"
+msgstr "Current folder and sub-folders"
 
 #. +> trunk6 stable6
 #: settings/viewpropertiesdialog.cpp:168
 #, kde-format
 msgctxt "@option:radio Apply View Properties To"
 msgid "All folders"
-msgstr "すべてのフォルダ"
+msgstr "All folders"
 
 #. +> trunk6 stable6
 #: settings/viewpropertiesdialog.cpp:177
 #, kde-format
 msgctxt "@title:group"
 msgid "Apply to:"
-msgstr "適用する:"
+msgstr "Apply to:"
 
 #. +> trunk6 stable6
 #: settings/viewpropertiesdialog.cpp:182
 #, kde-format
 msgctxt "@option:check"
 msgid "Use as default view settings"
-msgstr "デフォルトの表示設定として使用"
+msgstr "Use as default view settings"
 
 #. +> trunk6 stable6
 #: settings/viewpropertiesdialog.cpp:331
@@ -6929,53 +6929,53 @@ msgstr "すべてのフォルダのビューのプロパティが変更されま
 #, kde-format
 msgctxt "@title:window"
 msgid "Applying View Properties"
-msgstr "ビューのプロパティを適用中"
+msgstr "Applying View Properties"
 
 #. +> trunk6 stable6
 #: settings/viewpropsprogressinfo.cpp:45 settings/viewpropsprogressinfo.cpp:107
 #, kde-format
 msgctxt "@info:progress"
 msgid "Counting folders: %1"
-msgstr "フォルダの数を数えています: %1"
+msgstr "Counting folders: %1"
 
 #. +> trunk6 stable6
 #: settings/viewpropsprogressinfo.cpp:123
 #, kde-format
 msgctxt "@info:progress"
 msgid "Folders: %1"
-msgstr "フォルダ数: %1"
+msgstr "Folders: %1"
 
 #. +> trunk6 stable6
 #: statusbar/diskspaceusagemenu.cpp:47
 #, kde-kuit-format
 msgctxt "@info"
 msgid "<application>Filelight</application> installed successfully."
-msgstr "<application>Filelight</application> が正常にインストールされました。"
+msgstr "<application>Filelight</application> installed successfully."
 
 #. +> trunk6 stable6
 #: statusbar/diskspaceusagemenu.cpp:55
 #, kde-format
 msgctxt "@info:status"
 msgid "Installing Filelight…"
-msgstr "Filelight をインストールしています..."
+msgstr "Installing Filelight…"
 
 #. +> trunk6 stable6
 #: statusbar/diskspaceusagemenu.cpp:86
 #, kde-format
 msgid "Disk Usage Statistics - current folder"
-msgstr "ディスク使用率の統計 - 現在のフォルダ"
+msgstr "Disk Usage Statistics - current folder"
 
 #. +> trunk6 stable6
 #: statusbar/diskspaceusagemenu.cpp:96
 #, kde-format
 msgid "Disk Usage Statistics - current device"
-msgstr "ディスク使用率の統計 - 現在のデバイス"
+msgstr "Disk Usage Statistics - current device"
 
 #. +> trunk6 stable6
 #: statusbar/diskspaceusagemenu.cpp:109
 #, kde-format
 msgid "Disk Usage Statistics - all devices"
-msgstr "ディスク使用率の統計 - すべてのデバイス"
+msgstr "Disk Usage Statistics - all devices"
 
 #. +> trunk6 stable6
 #: statusbar/diskspaceusagemenu.cpp:122
@@ -6988,7 +6988,7 @@ msgstr "KDiskFree"
 #, kde-format
 msgctxt "@title"
 msgid "Free Up Disk Space"
-msgstr "ディスクスペースを解放"
+msgstr "Free Up Disk Space"
 
 #. i18n: The new line ("<nl/>") tag is only there to format this text visually pleasing, i.e. to avoid having one very long line.
 #. +> trunk6 stable6
@@ -7007,40 +7007,40 @@ msgstr ""
 #, kde-format
 msgctxt "@action:button"
 msgid "Install Filelight…"
-msgstr "Filelight をインストール..."
+msgstr "Install Filelight…"
 
 #. +> trunk6 stable6
 #: statusbar/dolphinstatusbar.cpp:61
 #, kde-format
 msgctxt "Used as a noun, i.e. 'Here is the zoom level:'"
 msgid "Zoom:"
-msgstr "ズーム:"
+msgstr "Zoom:"
 
 #. +> trunk6 stable6
 #: statusbar/dolphinstatusbar.cpp:65
 #, kde-format
 msgid "Zoom"
-msgstr "ズーム"
+msgstr "Zoom"
 
 #. +> trunk6 stable6
 #: statusbar/dolphinstatusbar.cpp:66
 #, kde-format
 msgctxt "Description for zoom-slider (accessibility)"
 msgid "Sets the size of the file icons."
-msgstr "ファイルアイコンの大きさを設定する。"
+msgstr "Sets the size of the file icons."
 
 #. +> trunk6 stable6
 #: statusbar/dolphinstatusbar.cpp:87
 #, kde-format
 msgid "Stop"
-msgstr "停止"
+msgstr "Stop"
 
 #. +> trunk6 stable6
 #: statusbar/dolphinstatusbar.cpp:89
 #, kde-format
 msgctxt "@tooltip"
 msgid "Stop loading"
-msgstr "読み込みを停止"
+msgstr "Stop loading"
 
 #. +> trunk6 stable6
 #: statusbar/dolphinstatusbar.cpp:143
@@ -7068,21 +7068,21 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Show Zoom Slider"
-msgstr "ズームスライダーを表示する"
+msgstr "Show Zoom Slider"
 
 #. +> trunk6 stable6
 #: statusbar/statusbarspaceinfo.cpp:129
 #, kde-format
 msgctxt "@info:status Free disk space"
 msgid "%1 free"
-msgstr "%1 空き"
+msgstr "%1 free"
 
 #. +> trunk6 stable6
 #: statusbar/statusbarspaceinfo.cpp:130
 #, kde-format
 msgctxt "tooltip:status Free disk space"
 msgid "%1 free out of %2 (%3% used)"
-msgstr "%2 中 %1 空き (%3% 使用済み)"
+msgstr "%1 free out of %2 (%3% used)"
 
 #. +> trunk6 stable6
 #: statusbar/statusbarspaceinfo.cpp:132
@@ -7099,59 +7099,59 @@ msgstr ""
 #: trash/dolphintrash.cpp:73
 #, kde-format
 msgid "Trash Emptied"
-msgstr "ごみ箱は空です"
+msgstr "Trash Emptied"
 
 #. +> trunk6 stable6
 #: trash/dolphintrash.cpp:74
 #, kde-format
 msgid "The Trash was emptied."
-msgstr "ごみ箱が空になりました。"
+msgstr "The Trash was emptied."
 
 #. +> trunk6 stable6
 #: userfeedback/placesdatasource.cpp:25
 #, kde-format
 msgctxt "name of kuserfeedback data source provided by dolphin"
 msgid "Places"
-msgstr "場所"
+msgstr "Places"
 
 #. +> trunk6 stable6
 #: userfeedback/placesdatasource.cpp:31
 #, kde-format
 msgctxt "description of kuserfeedback data source provided by dolphin"
 msgid "Count of available Network Shares"
-msgstr "利用可能な共有ネットワーク数"
+msgstr "Count of available Network Shares"
 
 #. +> trunk6 stable6
 #: userfeedback/settingsdatasource.cpp:24
 #, kde-format
 msgctxt "name of kuserfeedback data source provided by dolphin"
 msgid "Settings"
-msgstr "設定(&I)"
+msgstr "Settings"
 
 #. +> trunk6 stable6
 #: userfeedback/settingsdatasource.cpp:29
 #, kde-format
 msgctxt "description of kuserfeedback data source provided by dolphin"
 msgid "A subset of Dolphin settings."
-msgstr "Dolphin の設定のサブセット。"
+msgstr "A subset of Dolphin settings."
 
 #. +> trunk6 stable6
 #: views/dolphinremoteencoding.cpp:39
 #, kde-format
 msgid "Select Remote Charset"
-msgstr "リモートの文字セットを選択"
+msgstr "Select Remote Charset"
 
 #. +> trunk6 stable6
 #: views/dolphinremoteencoding.cpp:89
 #, kde-format
 msgid "Default"
-msgstr "デフォルト"
+msgstr "Default"
 
 #. +> trunk6 stable6
 #: views/dolphinremoteencoding.cpp:98
 #, kde-format
 msgid "Reload"
-msgstr "再読み込み"
+msgstr "Reload"
 
 #. +> trunk6 stable6
 #: views/dolphinview.cpp:685
@@ -7204,14 +7204,14 @@ msgstr "%1 (%2)"
 #, kde-format
 msgctxt "@info:status"
 msgid "0 folders, 0 files"
-msgstr "0 フォルダ、0 ファイル"
+msgstr "0 folders, 0 files"
 
 #. +> trunk6 stable6
 #: views/dolphinview.cpp:941 views/dolphinview.cpp:950
 #, kde-format
 msgctxt "<filename> copy"
 msgid "%1 copy"
-msgstr "%1 コピー"
+msgstr "%1 copy"
 
 #. +> trunk6 stable6
 #: views/dolphinview.cpp:1143
@@ -7233,42 +7233,42 @@ msgstr[0] "%1 アイテムを開く"
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Side Padding"
-msgstr "横の余白"
+msgstr "Side Padding"
 
 #. +> trunk6 stable6
 #: views/dolphinview.cpp:1285
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Automatic Column Widths"
-msgstr "列の幅を自動調整する"
+msgstr "Automatic Column Widths"
 
 #. +> trunk6 stable6
 #: views/dolphinview.cpp:1290
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Custom Column Widths"
-msgstr "列の幅をカスタムする"
+msgstr "Custom Column Widths"
 
 #. +> trunk6 stable6
 #: views/dolphinview.cpp:2020
 #, kde-format
 msgctxt "@info:status"
 msgid "Trash operation completed."
-msgstr "ごみ箱への移動が完了しました。"
+msgstr "Trash operation completed."
 
 #. +> trunk6 stable6
 #: views/dolphinview.cpp:2030
 #, kde-format
 msgctxt "@info:status"
 msgid "Delete operation completed."
-msgstr "削除が完了しました。"
+msgstr "Delete operation completed."
 
 #. +> trunk6 stable6
 #: views/dolphinview.cpp:2198
 #, kde-format
 msgctxt "@action:button"
 msgid "Rename and Hide"
-msgstr "名前を変更して隠す"
+msgstr "Rename and Hide"
 
 #. +> trunk6 stable6
 #: views/dolphinview.cpp:2202
@@ -7296,13 +7296,13 @@ msgstr ""
 #: views/dolphinview.cpp:2206
 #, kde-format
 msgid "Hide this File?"
-msgstr "このファイルを非表示にしますか？"
+msgstr "Hide this File?"
 
 #. +> trunk6 stable6
 #: views/dolphinview.cpp:2206
 #, kde-format
 msgid "Hide this Folder?"
-msgstr "このフォルダを非表示にしますか？"
+msgstr "Hide this Folder?"
 
 #. +> trunk6 stable6
 #: views/dolphinview.cpp:2227
@@ -7311,7 +7311,7 @@ msgstr "このフォルダを非表示にしますか？"
 #| msgid "Rename…"
 msgctxt "@action:button"
 msgid "Rename"
-msgstr "名前を変更..."
+msgstr "Rename"
 
 #. +> trunk6 stable6
 #: views/dolphinview.cpp:2237
@@ -7338,119 +7338,119 @@ msgstr ""
 #, fuzzy, kde-format
 msgctxt "@title:window"
 msgid "Change File Type"
-msgstr "タイプ"
+msgstr "Change File Type"
 
 #. +> trunk6 stable6
 #: views/dolphinview.cpp:2291
 #, kde-format
 msgctxt "@info:status"
 msgid "The location is empty."
-msgstr "場所が空です。"
+msgstr "The location is empty."
 
 #. +> trunk6 stable6
 #: views/dolphinview.cpp:2293
 #, kde-format
 msgctxt "@info:status"
 msgid "The location '%1' is invalid."
-msgstr "場所 ‘%1’ は無効です。"
+msgstr "The location '%1' is invalid."
 
 #. +> trunk6 stable6
 #: views/dolphinview.cpp:2643
 #, kde-format
 msgid "Loading…"
-msgstr "読み込んでいます..."
+msgstr "Loading…"
 
 #. +> trunk6 stable6
 #: views/dolphinview.cpp:2672
 #, kde-format
 msgid "Loading canceled"
-msgstr "読み込みがキャンセルされました"
+msgstr "Loading canceled"
 
 #. +> trunk6 stable6
 #: views/dolphinview.cpp:2674
 #, kde-format
 msgid "No items matching the filter"
-msgstr "フィルタにマッチするアイテムはありません"
+msgstr "No items matching the filter"
 
 #. +> trunk6 stable6
 #: views/dolphinview.cpp:2676
 #, kde-format
 msgid "No items matching the search"
-msgstr "検索にマッチするアイテムはありません"
+msgstr "No items matching the search"
 
 #. +> trunk6 stable6
 #: views/dolphinview.cpp:2678
 #, kde-format
 msgid "Trash is empty"
-msgstr "ごみ箱は空です"
+msgstr "Trash is empty"
 
 #. +> trunk6 stable6
 #: views/dolphinview.cpp:2681
 #, kde-format
 msgid "No tags"
-msgstr "タグなし"
+msgstr "No tags"
 
 #. +> trunk6 stable6
 #: views/dolphinview.cpp:2684
 #, kde-format
 msgid "No files tagged with \"%1\""
-msgstr "タグ \"%1\" がついたファイルはありません"
+msgstr "No files tagged with \"%1\""
 
 #. +> trunk6 stable6
 #: views/dolphinview.cpp:2688
 #, kde-format
 msgid "No recently used items"
-msgstr "最近使用されたアイテムはありません"
+msgstr "No recently used items"
 
 #. +> trunk6 stable6
 #: views/dolphinview.cpp:2690
 #, kde-format
 msgid "No shared folders found"
-msgstr "共有フォルダが見つかりません"
+msgstr "No shared folders found"
 
 #. +> trunk6 stable6
 #: views/dolphinview.cpp:2692
 #, kde-format
 msgid "No relevant network resources found"
-msgstr "関連するネットワークリソースが見つかりません"
+msgstr "No relevant network resources found"
 
 #. +> trunk6 stable6
 #: views/dolphinview.cpp:2694
 #, kde-format
 msgid "No MTP-compatible devices found"
-msgstr "MTP 対応デバイスが見つかりません"
+msgstr "No MTP-compatible devices found"
 
 #. +> trunk6 stable6
 #: views/dolphinview.cpp:2696
 #, kde-format
 msgid "No Apple devices found"
-msgstr "Apple デバイスが見つかりません"
+msgstr "No Apple devices found"
 
 #. +> trunk6 stable6
 #: views/dolphinview.cpp:2698
 #, kde-format
 msgid "No Bluetooth devices found"
-msgstr "Bluetooth デバイスが見つかりません"
+msgstr "No Bluetooth devices found"
 
 #. +> trunk6 stable6
 #: views/dolphinview.cpp:2700
 #, kde-format
 msgid "Folder is empty"
-msgstr "フォルダは空です"
+msgstr "Folder is empty"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:85
 #, kde-format
 msgctxt "@action"
 msgid "Create Folder…"
-msgstr "フォルダを作成..."
+msgstr "Create Folder…"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:92
 #, kde-format
 msgctxt "@action"
 msgid "Create File…"
-msgstr "ファイルを作成..."
+msgstr "Create File…"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:101
@@ -7491,21 +7491,21 @@ msgstr ""
 #, kde-format
 msgctxt "@action \"Move to Trash\" for non-local files, etc."
 msgid "Delete (using shortcut for Trash)"
-msgstr "削除 (ごみ箱に移動のショートカットを使用)"
+msgstr "Delete (using shortcut for Trash)"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:142
 #, kde-format
 msgctxt "@action:inmenu File"
 msgid "Duplicate Here"
-msgstr "ここに複製"
+msgstr "Duplicate Here"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:150
 #, kde-format
 msgctxt "@action:inmenu File"
 msgid "Properties"
-msgstr "プロパティ(&E)|/|$[~setProps ~full 'ファイルのプロパティ']"
+msgstr "Properties"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:152
@@ -7527,42 +7527,42 @@ msgstr ""
 #, kde-format
 msgctxt "@action:incontextmenu"
 msgid "Copy Location"
-msgstr "場所をコピーする"
+msgstr "Copy Location"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:163
 #, kde-format
 msgctxt "@info:whatsthis copy_location"
 msgid "This will copy the path of the first selected item into the clipboard."
-msgstr "最初に選択したアイテムのパスがクリップボードにコピーされます。"
+msgstr "This will copy the path of the first selected item into the clipboard."
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:171
 #, kde-format
 msgctxt "@action:inmenu File"
 msgid "Move to Trash…"
-msgstr "ごみ箱に移動..."
+msgstr "Move to Trash…"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:172
 #, kde-format
 msgctxt "@action:inmenu File"
 msgid "Delete…"
-msgstr "削除..."
+msgstr "Delete…"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:173
 #, kde-format
 msgctxt "@action:inmenu File"
 msgid "Duplicate Here…"
-msgstr "ここに複製..."
+msgstr "Duplicate Here…"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:174
 #, kde-format
 msgctxt "@action:incontextmenu"
 msgid "Copy Location…"
-msgstr "場所をコピー..."
+msgstr "Copy Location…"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:203
@@ -7625,62 +7625,62 @@ msgstr ""
 #, kde-format
 msgctxt "@action:intoolbar"
 msgid "Change View Mode"
-msgstr "表示モードを変更"
+msgstr "Change View Mode"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:225
 #, kde-kuit-format
 msgctxt "@info:whatsthis View Mode Toolbutton"
 msgid "This cycles through all view modes."
-msgstr "これは表示モードを切り替えます。"
+msgstr "This cycles through all view modes."
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:245
 #, kde-format
 msgctxt "@info:whatsthis zoom in"
 msgid "This increases the icon size."
-msgstr "アイコンのサイズを大きくする"
+msgstr "This increases the icon size."
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:248
 #, kde-format
 msgctxt "@action:inmenu View"
 msgid "Reset Zoom Level"
-msgstr "ズームレベルをリセットする"
+msgstr "Reset Zoom Level"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:249
 #, kde-format
 msgid "Zoom To Default"
-msgstr "デフォルトまでズーム"
+msgstr "Zoom To Default"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:250
 #, kde-format
 msgctxt "@info:whatsthis zoom reset"
 msgid "This resets the icon size to default."
-msgstr "アイコンのサイズをデフォルトに戻す"
+msgstr "This resets the icon size to default."
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:256
 #, kde-format
 msgctxt "@info:whatsthis zoom out"
 msgid "This reduces the icon size."
-msgstr "アイコンのサイズを小さくする"
+msgstr "This reduces the icon size."
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:262
 #, kde-format
 msgctxt "@action:intoolbar"
 msgid "Show Previews"
-msgstr "プレビューを表示"
+msgstr "Show Previews"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:263
 #, kde-format
 msgctxt "@info"
 msgid "Show preview of files and folders"
-msgstr "ファイルとフォルダのプレビューを表示"
+msgstr "Show preview of files and folders"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:265
@@ -7699,49 +7699,49 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu Sort"
 msgid "Folders First"
-msgstr "フォルダを先に表示"
+msgstr "Folders First"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:278
 #, kde-format
 msgctxt "@action:inmenu Sort"
 msgid "Hidden Files Last"
-msgstr "隠しファイルを後に"
+msgstr "Hidden Files Last"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:286
 #, kde-format
 msgctxt "@action:inmenu View"
 msgid "Sort By"
-msgstr "次でソート"
+msgstr "Sort By"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:321
 #, kde-format
 msgctxt "@action:inmenu View"
 msgid "Show Additional Information"
-msgstr "追加情報を表示"
+msgstr "Show Additional Information"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:332
 #, kde-format
 msgctxt "@action:inmenu View"
 msgid "Show in Groups"
-msgstr "グループ化して表示(&G)"
+msgstr "Show in Groups"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:333
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid "This groups files and folders by their first letter."
-msgstr "ファイルやフォルダーを最初の文字でグループ化します。"
+msgstr "This groups files and folders by their first letter."
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:338
 #, kde-format
 msgctxt "@action:inmenu View"
 msgid "Show Hidden Files"
-msgstr "隠しファイルを表示(&H)"
+msgstr "Show Hidden Files"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:340
@@ -7775,7 +7775,7 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu View"
 msgid "Adjust View Display Style…"
-msgstr "ビューの表示スタイルを調整..."
+msgstr "Adjust View Display Style…"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:357
@@ -7792,7 +7792,7 @@ msgstr "フォルダビューのすべてのプロパティを調整できるウ
 #| msgid "Settings"
 msgctxt "@action:intoolbar"
 msgid "View Settings"
-msgstr "設定(&I)"
+msgstr "View Settings"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:365
@@ -7812,7 +7812,7 @@ msgstr ""
 #| msgid "Sort By"
 msgctxt "@item:intable, Heading of a list of fields"
 msgid "Sort by Field"
-msgstr "次でソート"
+msgstr "Sort by Field"
 
 #. +> stable6
 #: views/dolphinviewactionhandler.cpp:394
@@ -7821,7 +7821,7 @@ msgstr "次でソート"
 #| msgid "Sort By"
 msgctxt "item:intable"
 msgid "Sort By field"
-msgstr "次でソート"
+msgstr "Sort By field"
 
 #. +> trunk6
 #: views/dolphinviewactionhandler.cpp:397
@@ -7830,7 +7830,7 @@ msgstr "次でソート"
 #| msgid "Show Filter Bar"
 msgctxt "@item:intable, Heading of a list of fields"
 msgid "Show Field"
-msgstr "フィルタバーを表示"
+msgstr "Show Field"
 
 #. +> stable6
 #: views/dolphinviewactionhandler.cpp:397
@@ -7839,49 +7839,49 @@ msgstr "フィルタバーを表示"
 #| msgid "Show Filter Bar"
 msgctxt "item:intable"
 msgid "Show Field"
-msgstr "フィルタバーを表示"
+msgstr "Show Field"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:688
 #, kde-format
 msgctxt "@action:inmenu View Mode"
 msgid "Icons"
-msgstr "アイコン"
+msgstr "Icons"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:689
 #, kde-format
 msgctxt "@info"
 msgid "Icons view mode"
-msgstr "アイコン表示モード"
+msgstr "Icons view mode"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:699
 #, kde-format
 msgctxt "@action:inmenu View Mode"
 msgid "Compact"
-msgstr "コンパクト"
+msgstr "Compact"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:700
 #, kde-format
 msgctxt "@info"
 msgid "Compact view mode"
-msgstr "コンパクト表示モード"
+msgstr "Compact view mode"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:710
 #, kde-format
 msgctxt "@action:inmenu View Mode"
 msgid "Details"
-msgstr "詳細"
+msgstr "Details"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:711
 #, kde-format
 msgctxt "@info"
 msgid "Details view mode"
-msgstr "詳細表示モード"
+msgstr "Details view mode"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:734
@@ -7902,56 +7902,56 @@ msgstr "A-Z"
 #, kde-format
 msgctxt "Sort descending"
 msgid "Largest First"
-msgstr "大きいものを先に"
+msgstr "Largest First"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:738
 #, kde-format
 msgctxt "Sort ascending"
 msgid "Smallest First"
-msgstr "小さいものを先に"
+msgstr "Smallest First"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:740
 #, kde-format
 msgctxt "Sort descending"
 msgid "Newest First"
-msgstr "新しいものを先に"
+msgstr "Newest First"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:741
 #, kde-format
 msgctxt "Sort ascending"
 msgid "Oldest First"
-msgstr "古いものを先に"
+msgstr "Oldest First"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:743
 #, kde-format
 msgctxt "Sort descending"
 msgid "Highest First"
-msgstr "高いものを先に"
+msgstr "Highest First"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:744
 #, kde-format
 msgctxt "Sort ascending"
 msgid "Lowest First"
-msgstr "低いものを先に"
+msgstr "Lowest First"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:746
 #, kde-format
 msgctxt "Sort descending"
 msgid "Descending"
-msgstr "降順"
+msgstr "Descending"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:747
 #, kde-format
 msgctxt "Sort ascending"
 msgid "Ascending"
-msgstr "昇順"
+msgstr "Ascending"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:845
@@ -7960,7 +7960,7 @@ msgctxt ""
 "@action:inmenu menu with actions like copy, paste, rename. The user's "
 "selection is empty when this text is shown."
 msgid "Actions for Current View"
-msgstr "現在のビューに対するアクション"
+msgstr "Actions for Current View"
 
 #. i18n: @action:inmenu menu with actions like copy, paste, rename.
 #. %1 is a textual representation of the currently selected files or folders. This can be the name of
@@ -7971,7 +7971,7 @@ msgstr "現在のビューに対するアクション"
 #: views/dolphinviewactionhandler.cpp:854
 #, kde-format
 msgid "Actions for %1"
-msgstr "%1 に対するアクション"
+msgstr "Actions for %1"
 
 #. +> trunk6 stable6
 #: views/dolphinviewactionhandler.cpp:861
@@ -7988,21 +7988,21 @@ msgstr[0] "選択された %1 アイテムに対するアクション"
 #, kde-format
 msgctxt "@info:status"
 msgid "Updating version information…"
-msgstr "バージョン情報を更新しています..."
+msgstr "Updating version information…"
 
 #. +> trunk6 stable6
 #: views/zoomwidgetaction.cpp:39
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Zoom"
-msgstr "ズーム"
+msgstr "Zoom"
 
 #. +> trunk6 stable6
 #: views/zoomwidgetaction.cpp:57
 #, kde-format
 msgctxt "@action:intoolbar"
 msgid "Zoom"
-msgstr "ズーム"
+msgstr "Zoom"
 
 #, kde-format
 #~ msgctxt "@info"
