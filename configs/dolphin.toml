@@ -1,4 +1,4 @@
-basepath = "."
+basepath = "../"
 
 locales = [
     "ja"
