@@ -1,9 +1,0 @@
-basepath = "locale"
-
-locales = [
-    "ja"
-]
-
-[[paths]]
-    reference = "template/summit/messages/dolphin/*.pot"
-    l10n = "{locale}/summit/messages/dolphin/*.po"
