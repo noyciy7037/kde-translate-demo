@@ -18,8 +18,8 @@ jobs:
         with:
           python-version-file: '.python-version'
       - name: Install libs
-        run: sudo apt-get update && sudo apt-get install libxml2-dev libxslt-dev -y
+        run: sudo apt-get update && sudo apt-get install libpq-dev libxml2-dev libxslt-dev -y
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install --no-cache-dir -r requirements.txt
       - name: Run Python
         run: python manage.py sync_projects
