@@ -10,6 +10,9 @@ jobs:
   sync-pontoon:
     runs-on: ubuntu-latest
     environment: Sync
+    env:
+       DATABASE_URL: {{ secrets.DATABASE_URL }}
+       SECRET_KEY: {{ secrets.SECRET_KEY }}
     steps:
       - uses: actions/checkout@v6
         with:
