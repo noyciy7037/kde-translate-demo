@@ -11,6 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
+        with:
           repository: 'mozilla/pontoon'
       - name: Setup Python
         uses: actions/setup-python@v2
