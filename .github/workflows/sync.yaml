@@ -1,0 +1,22 @@
+name: Sync Pontoon
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  numpy-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+          repository: 'mozilla/pontoon'
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version-file: '.python-version'
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Run Python
+        run: python manage.py sync_projects
