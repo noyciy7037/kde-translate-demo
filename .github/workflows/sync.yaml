@@ -9,6 +9,7 @@ on:
 jobs:
   sync-pontoon:
     runs-on: ubuntu-latest
+    environment: Sync
     steps:
       - uses: actions/checkout@v6
         with:
