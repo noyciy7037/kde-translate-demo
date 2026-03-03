@@ -25,5 +25,9 @@ jobs:
         run: sudo apt-get update && sudo apt-get install libpq-dev libxml2-dev libxslt-dev -y
       - name: Install dependencies
         run: pip install --no-cache-dir -r requirements.txt
+      - name: Setup Git Credential
+        run: |-
+          git config --global credential.helper store
+          cat "${{ secrets.GIT_CREDENTIAL }}" > ~/.git-credentials
       - name: Run Python
         run: python manage.py sync_projects
