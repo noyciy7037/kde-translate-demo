@@ -3,7 +3,7 @@ name: Sync Pontoon
 on:
   push:
     branches:
-      - main
+      - pontoon
   workflow_dispatch:
 
 jobs:
