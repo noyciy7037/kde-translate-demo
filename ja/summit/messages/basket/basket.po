@@ -1,23 +1,17 @@
-# translation of basket.pot to Japanese
-# Yukiko Bando <ybando@k6.dion.ne.jp>, 2006, 2007.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the basket package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: basket-ja\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-12-08 11:36+0100\n"
-"PO-Revision-Date: 2020-04-07 20:59-0700\n"
-"Last-Translator: Fumiaki Okushi <fumiaki.okushi@gmail.com>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: basket\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6
 #, kde-format
@@ -52,8 +46,7 @@ msgstr ""
 #. +> trunk6
 #: devtools/weaver/main.cpp:33
 #, kde-format
-msgid ""
-"Use the <image> as preview image for a .baskets file. Must be a .png file."
+msgid "Use the <image> as preview image for a .baskets file. Must be a .png file."
 msgstr ""
 
 #. +> trunk6
@@ -71,15 +64,12 @@ msgstr ""
 #. +> trunk6
 #: devtools/weaver/main.cpp:48
 #, kde-format
-msgid ""
-"This optional value will be used to label the new content within the "
-"optionally given output directory"
+msgid "This optional value will be used to label the new content within the optionally given output directory"
 msgstr ""
 
 #. +> trunk6
 #: devtools/weaver/main.cpp:52
 #, fuzzy, kde-format
-#| msgid "Override File?"
 msgid "Overwrite existing files."
 msgstr "ファイルを上書きしますか？"
 
@@ -98,9 +88,7 @@ msgstr ""
 #. +> trunk6
 #: devtools/weaver/weaver.cpp:55
 #, kde-format
-msgid ""
-"Multiple --weave/-w or --unweave/-u input options found. All but the first "
-"input are going to be ignored."
+msgid "Multiple --weave/-w or --unweave/-u input options found. All but the first input are going to be ignored."
 msgstr ""
 
 #. +> trunk6
@@ -124,14 +112,12 @@ msgstr ""
 #. +> trunk6
 #: devtools/weaver/weaver.cpp:280
 #, fuzzy, kde-format
-#| msgid "Load note from file"
 msgid "Could not open file."
 msgstr "ファイルからメモを読み込む"
 
 #. +> trunk6
 #: devtools/weaver/weaver.cpp:304 src/archive.cpp:264
 #, fuzzy, kde-format
-#| msgid "Unable to open this note."
 msgid "Failed to open a file resource."
 msgstr "このメモを開けません。"
 
@@ -162,33 +148,20 @@ msgstr ""
 #. +> trunk6
 #: devtools/weaver/weaver.cpp:319
 #, fuzzy, kde-format
-#| msgid ""
-#| "This file was created with a recent version of %1. Please upgrade to a "
-#| "newer version to be able to open that file."
-msgid ""
-"This file was created with a more recent version of BasKet Note Pads. It "
-"might not be fully supported"
-msgstr ""
-"このファイルは最近のバージョンの %1で作成されています。ファイルを開くために"
-"は、新しいバージョンにアップグレードする必要があります。"
+msgid "This file was created with a more recent version of BasKet Note Pads. It might not be fully supported"
+msgstr "このファイルは最近のバージョンの %1で作成されています。ファイルを開くためには、新しいバージョンにアップグレードする必要があります。"
 
 #. +> trunk6
 #: src/aboutdata.cpp:16
 #, kde-format
 msgid ""
-"<p><b>Taking care of your ideas.</b></p><p>A note-taking application that "
-"makes it easy to record ideas as you think, and quickly find them later. "
-"Organizing your notes has never been so easy.</p>"
-msgstr ""
-"<p>あなたのアイデアのお世話をします。</p><p>思いついたアイデアをすぐにメモし"
-"て、後で簡単に見つけることができます。メモの整理が今までになく楽になります。"
-"</p>"
+"<p><b>Taking care of your ideas.</b></p><p>A note-taking application that makes it easy to record ideas as you think, and quickly find them later. Organizing your notes has never been so easy.</p>"
+msgstr "<p>あなたのアイデアのお世話をします。</p><p>思いついたアイデアをすぐにメモして、後で簡単に見つけることができます。メモの整理が今までになく楽になります。</p>"
 
 #. +> trunk6
 #: src/aboutdata.cpp:20
 #, kde-format
-msgid ""
-"Copyright © 2003–2007, Sébastien Laoût; Copyright © 2013–2019, Gleb Baryshev"
+msgid "Copyright © 2003–2007, Sébastien Laoût; Copyright © 2013–2019, Gleb Baryshev"
 msgstr ""
 
 #. +> trunk6
@@ -266,12 +239,8 @@ msgstr ""
 #. +> trunk6
 #: src/aboutdata.cpp:34
 #, kde-format
-msgid ""
-"Baskets auto lock, save-status icon, HTML copy/paste, basket name tooltip, "
-"drop to basket name"
-msgstr ""
-"バスケットの自動ロック、状態保存アイコン、HTML コピー/貼り付け、バスケット名"
-"のツールチップ、バスケット名にドロップ"
+msgid "Baskets auto lock, save-status icon, HTML copy/paste, basket name tooltip, drop to basket name"
+msgstr "バスケットの自動ロック、状態保存アイコン、HTML コピー/貼り付け、バスケット名のツールチップ、バスケット名にドロップ"
 
 #. +> trunk6
 #: src/aboutdata.cpp:36
@@ -304,8 +273,7 @@ msgid "Saving as basket archive. Please wait..."
 msgstr "バスケットアーカイブとして保存しています。お待ちください..."
 
 #. +> trunk6
-#: src/archive.cpp:264 src/archive.cpp:267 src/archive.cpp:270
-#: src/archive.cpp:273 src/archive.cpp:280 src/archive.cpp:289
+#: src/archive.cpp:264 src/archive.cpp:267 src/archive.cpp:270 src/archive.cpp:273 src/archive.cpp:280 src/archive.cpp:289
 #, kde-format
 msgid "Basket Archive Error"
 msgstr "バスケットアーカイブのエラー"
@@ -319,31 +287,16 @@ msgstr ""
 #. +> trunk6
 #: src/archive.cpp:277
 #, fuzzy, kde-format
-#| msgid ""
-#| "This file was created with a recent version of %1. Please upgrade to a "
-#| "newer version to be able to open that file."
-msgid ""
-"This file was created with a recent version of %1.Please upgrade to a newer "
-"version to be able to open that file."
-msgstr ""
-"このファイルは最近のバージョンの %1で作成されています。ファイルを開くために"
-"は、新しいバージョンにアップグレードする必要があります。"
+msgid "This file was created with a recent version of %1.Please upgrade to a newer version to be able to open that file."
+msgstr "このファイルは最近のバージョンの %1で作成されています。ファイルを開くためには、新しいバージョンにアップグレードする必要があります。"
 
 #. +> trunk6
 #: src/archive.cpp:284
 #, kde-format
 msgid ""
-"This file was created with a recent version of %1. It can be opened but not "
-"every information will be available to you. For instance, some notes may be "
-"missing because they are of a type only available in new versions. When "
-"saving the file back, consider to save it to another file, to preserve the "
-"original one."
-msgstr ""
-"このファイルは最近のバージョンの %1で作成されています。ファイルを開くことはで"
-"きますが、すべての情報を見ることはできません。例えば、新しいバージョンでのみ"
-"利用可能なタイプであるために、一部のメモが欠けているかもしれません。このファ"
-"イルを保存するときは、元のデータを保持するために、別のファイルに保存するよう"
-"にしてください。"
+"This file was created with a recent version of %1. It can be opened but not every information will be available to you. For instance, some notes may be missing because they are of a type only "
+"available in new versions. When saving the file back, consider to save it to another file, to preserve the original one."
+msgstr "このファイルは最近のバージョンの %1で作成されています。ファイルを開くことはできますが、すべての情報を見ることはできません。例えば、新しいバージョンでのみ利用可能なタイプであるために、一部のメモが欠けているかもしれません。このファイルを保存するときは、元のデータを保持するために、別のファイルに保存するようにしてください。"
 
 #. +> trunk6
 #: src/backup.cpp:54
@@ -385,27 +338,14 @@ msgstr "何のために？"
 #: src/backup.cpp:88
 #, fuzzy, kde-format
 msgid ""
-"<p>You can move the folder where %1 store your baskets to:</p><ul><li>Store "
-"your baskets in a visible place in your home folder, like ~/Notes or ~/"
-"Baskets, so you can manually backup them when you want.</li><li>Store your "
-"baskets on a server to share them between two computers.<br>In this case, "
-"mount the shared-folder to the local file system and ask %1 to use that "
-"mount point.<br>Warning: you should not run %1 at the same time on both "
-"computers, or you risk to loss data while the two applications are desynced."
-"</li></ul><p>Please remember that you should not change the content of that "
-"folder manually (eg. adding a file in a basket folder will not add that file "
-"to the basket).</p>"
+"<p>You can move the folder where %1 store your baskets to:</p><ul><li>Store your baskets in a visible place in your home folder, like ~/Notes or ~/Baskets, so you can manually backup them when you "
+"want.</li><li>Store your baskets on a server to share them between two computers.<br>In this case, mount the shared-folder to the local file system and ask %1 to use that mount point.<br>Warning: "
+"you should not run %1 at the same time on both computers, or you risk to loss data while the two applications are desynced.</li></ul><p>Please remember that you should not change the content of that"
+" folder manually (eg. adding a file in a basket folder will not add that file to the basket).</p>"
 msgstr ""
-"<p>%1がバスケットを保存するフォルダは、以下のような目的で変更することができま"
-"す:</p><ul><li>手動でバスケットをバックアップできるように、ホームフォルダのわ"
-"かりやすい場所 (例えば ~/Notes や ~/Baskets) に保存しておく。</li><li>二つの"
-"コンピュータで共有できるようにバスケットをサーバ上に保存する。<br>この場合、"
-"共有フォルダをローカルファイルシステムにマウントし、%2がそのマウントポイント"
-"を使用するように指定してください。<br>注意: 二つのコンピュータで同時に %3を実"
-"行してはいけません。二つのアプリケーション間で同期が取れなくなった場合、デー"
-"タが消失する恐れがあります。</li></ul><p>フォルダの内容を手動で変更しないでく"
-"ださい (バスケットの保存フォルダに直接ファイルを追加しても、バスケットには追"
-"加されません)。</p>"
+"<p>%1がバスケットを保存するフォルダは、以下のような目的で変更することができます:</p><ul><li>手動でバスケットをバックアップできるように、ホームフォルダのわかりやすい場所 (例えば ~/Notes や ~/Baskets) "
+"に保存しておく。</li><li>二つのコンピュータで共有できるようにバスケットをサーバ上に保存する。<br>この場合、共有フォルダをローカルファイルシステムにマウントし、%2がそのマウントポイントを使用するように指定してください。<br>注意: 二つのコンピュータで同時に "
+"%3を実行してはいけません。二つのアプリケーション間で同期が取れなくなった場合、データが消失する恐れがあります。</li></ul><p>フォルダの内容を手動で変更しないでください (バスケットの保存フォルダに直接ファイルを追加しても、バスケットには追加されません)。</p>"
 
 #. +> trunk6
 #: src/backup.cpp:104
@@ -446,43 +386,32 @@ msgstr "バスケットを移動するフォルダを選択"
 #. +> trunk6
 #: src/backup.cpp:161
 #, fuzzy, kde-format
-#| msgid "The folder <b>%1</b> is not empty. Do you want to override it?"
 msgid "The folder <b>%1</b> is not empty. Do you want to overwrite it?"
 msgstr "フォルダ <b>%1</b> は空ではありません。上書きしますか？"
 
 #. +> trunk6
 #: src/backup.cpp:162
 #, fuzzy, kde-format
-#| msgid "Override Folder?"
 msgid "Overwrite Folder?"
 msgstr "フォルダを上書きしますか？"
 
 #. +> trunk6
 #: src/backup.cpp:163 src/bnpview.cpp:2058 src/htmlexporter.cpp:67
 #, fuzzy, kde-format
-#| msgid "&Override"
 msgid "&Overwrite"
 msgstr "上書き(&O)"
 
 #. +> trunk6
 #: src/backup.cpp:173
 #, fuzzy, kde-format
-msgid ""
-"Your baskets have been successfully moved to <b>%1</b>. %2 is going to be "
-"restarted to take this change into account."
-msgstr ""
-"バスケットを <b>%1</b> に移動しました。この変更を適用するために %2を再起動し"
-"ます。"
+msgid "Your baskets have been successfully moved to <b>%1</b>. %2 is going to be restarted to take this change into account."
+msgstr "バスケットを <b>%1</b> に移動しました。この変更を適用するために %2を再起動します。"
 
 #. +> trunk6
 #: src/backup.cpp:185
 #, fuzzy, kde-format
-msgid ""
-"Your basket save folder has been successfully changed to <b>%1</b>. %2 is "
-"going to be restarted to take this change into account."
-msgstr ""
-"バスケットの保存フォルダを <b>%1</b> に変更しました。この変更を適用するため"
-"に %2を再起動します。"
+msgid "Your basket save folder has been successfully changed to <b>%1</b>. %2 is going to be restarted to take this change into account."
+msgstr "バスケットの保存フォルダを <b>%1</b> に変更しました。この変更を適用するために %2を再起動します。"
 
 #. +> trunk6
 #: src/backup.cpp:197
@@ -498,8 +427,7 @@ msgid "Tar Archives Compressed by Gzip"
 msgstr "Gzip によって圧縮された TAR アーカイブ"
 
 #. +> trunk6
-#: src/backup.cpp:204 src/backup.cpp:253 src/bnpview.cpp:2046
-#: src/bnpview.cpp:2093 src/htmlexporter.cpp:52
+#: src/backup.cpp:204 src/backup.cpp:253 src/bnpview.cpp:2046 src/bnpview.cpp:2093 src/htmlexporter.cpp:52
 #, kde-format
 msgid "All Files"
 msgstr "すべてのファイル"
@@ -531,39 +459,26 @@ msgstr "README.txt"
 #. +> trunk6
 #: src/backup.cpp:271
 #, kde-format
-msgid ""
-"This is a safety copy of your baskets like they were before you started to "
-"restore the backup %1."
+msgid "This is a safety copy of your baskets like they were before you started to restore the backup %1."
 msgstr "これはバックアップ %1 の復元を開始する前のバスケットのコピーです。"
 
 #. +> trunk6
 #: src/backup.cpp:274
 #, kde-format
-msgid ""
-"If the restoration was a success and you restored what you wanted to "
-"restore, you can remove this folder."
-msgstr ""
-"すべてが期待どおりに復元された場合、このフォルダは削除してかまいません。"
+msgid "If the restoration was a success and you restored what you wanted to restore, you can remove this folder."
+msgstr "すべてが期待どおりに復元された場合、このフォルダは削除してかまいません。"
 
 #. +> trunk6
 #: src/backup.cpp:275
 #, kde-format
-msgid ""
-"If something went wrong during the restoration process, you can re-use this "
-"folder to store your baskets and nothing will be lost."
-msgstr ""
-"復元中に何か問題が発生した場合は、このフォルダを再利用することで、何も失わず"
-"に復元前のバスケットに戻すことができます。"
+msgid "If something went wrong during the restoration process, you can re-use this folder to store your baskets and nothing will be lost."
+msgstr "復元中に何か問題が発生した場合は、このフォルダを再利用することで、何も失わずに復元前のバスケットに戻すことができます。"
 
 #. +> trunk6
 #: src/backup.cpp:277
 #, kde-format
-msgid ""
-"Choose \"Basket\" -> \"Backup & Restore...\" -> \"Use Another Existing "
-"Folder...\" and select that folder."
-msgstr ""
-"メニューから「バスケット」->「バックアップと復元...」->「他の既存のフォルダを"
-"使う」を選択し、このフォルダを指定してください。"
+msgid "Choose \"Basket\" -> \"Backup & Restore...\" -> \"Use Another Existing Folder...\" and select that folder."
+msgstr "メニューから「バスケット」->「バックアップと復元...」->「他の既存のフォルダを使う」を選択し、このフォルダを指定してください。"
 
 #. +> trunk6
 #: src/backup.cpp:281
@@ -574,9 +489,7 @@ msgstr "<b>%1</b> を復元しています。お待ちください..."
 #. +> trunk6
 #: src/backup.cpp:282
 #, kde-format
-msgid ""
-"If something goes wrong during the restoration process, read the file <b>%1</"
-"b>."
+msgid "If something goes wrong during the restoration process, read the file <b>%1</b>."
 msgstr "復元中に何か問題が発生した場合は、<b>%1</b> ファイルをお読みください。"
 
 #. +> trunk6
@@ -588,12 +501,8 @@ msgstr "バスケットを復元"
 #. +> trunk6
 #: src/backup.cpp:318
 #, kde-format
-msgid ""
-"This archive is either not a backup of baskets or is corrupted. It cannot be "
-"imported. Your old baskets have been preserved instead."
-msgstr ""
-"このアーカイブは壊れているか、バスケットのバックアップではありません。イン"
-"ポートできません。元のバスケットを保持しました。"
+msgid "This archive is either not a backup of baskets or is corrupted. It cannot be imported. Your old baskets have been preserved instead."
+msgstr "このアーカイブは壊れているか、バスケットのバックアップではありません。インポートできません。元のバスケットを保持しました。"
 
 #. +> trunk6
 #: src/backup.cpp:319
@@ -604,12 +513,8 @@ msgstr "復元エラー"
 #. +> trunk6
 #: src/backup.cpp:328
 #, fuzzy, kde-format
-msgid ""
-"Your backup has been successfully restored to <b>%1</b>. %2 is going to be "
-"restarted to take this change into account."
-msgstr ""
-"バックアップを <b>%1</b> に復元しました。変更を適用するために %2を再起動しま"
-"す。"
+msgid "Your backup has been successfully restored to <b>%1</b>. %2 is going to be restarted to take this change into account."
+msgstr "バックアップを <b>%1</b> に復元しました。変更を適用するために %2を再起動します。"
 
 #. +> trunk6
 #: src/backup.cpp:366
@@ -672,8 +577,7 @@ msgstr "バスケットアーカイブを開く"
 #: src/basketfactory.cpp:54
 #, kde-format
 msgid "Sorry, but the folder creation for this new basket has failed."
-msgstr ""
-"ごめんなさい、この新しいバスケットのためのフォルダを作成できませんでした。"
+msgstr "ごめんなさい、この新しいバスケットのためのフォルダを作成できませんでした。"
 
 #. +> trunk6
 #: src/basketfactory.cpp:54 src/basketfactory.cpp:87 src/basketfactory.cpp:108
@@ -685,17 +589,13 @@ msgstr "バスケットの作成に失敗"
 #: src/basketfactory.cpp:87
 #, kde-format
 msgid "Sorry, but the template copying for this new basket has failed."
-msgstr ""
-"ごめんなさい、この新しいバスケットのためにテンプレートをコピーできませんでし"
-"た。"
+msgstr "ごめんなさい、この新しいバスケットのためにテンプレートをコピーできませんでした。"
 
 #. +> trunk6
 #: src/basketfactory.cpp:108
 #, kde-format
 msgid "Sorry, but the template customization for this new basket has failed."
-msgstr ""
-"ごめんなさい、この新しいバスケットのためにテンプレートをカスタマイズできませ"
-"んでした。"
+msgstr "ごめんなさい、この新しいバスケットのためにテンプレートをカスタマイズできませんでした。"
 
 #. +> trunk6
 #: src/basketlistview.cpp:631
@@ -749,31 +649,16 @@ msgstr "使用上のヒント..."
 #: src/basketproperties.cpp:135
 #, fuzzy, kde-format
 msgid ""
-"<p><strong>Easily Remember your Shortcuts</strong>:<br>With the first "
-"option, giving the basket a shortcut of the form <strong>Alt+Letter</strong> "
-"will underline that letter in the basket tree.<br>For instance, if you are "
-"assigning the shortcut <i>Alt+T</i> to a basket named <i>Tips</i>, the "
-"basket will be displayed as <i><u>T</u>ips</i> in the tree. It helps you "
-"visualize the shortcuts to remember them more quickly.</p><p><strong>Local "
-"vs Global</strong>:<br>The first option allows you to show the basket while "
-"the main window is active. Global shortcuts are valid from anywhere, even if "
-"the window is hidden.</p><p><strong>Show vs Switch</strong>:<br>The last "
-"option makes this basket the current one without opening the main window. It "
-"is useful in addition to the configurable global shortcuts, eg. to paste the "
-"clipboard or the selection into the current basket from anywhere.</p>"
+"<p><strong>Easily Remember your Shortcuts</strong>:<br>With the first option, giving the basket a shortcut of the form <strong>Alt+Letter</strong> will underline that letter in the basket "
+"tree.<br>For instance, if you are assigning the shortcut <i>Alt+T</i> to a basket named <i>Tips</i>, the basket will be displayed as <i><u>T</u>ips</i> in the tree. It helps you visualize the "
+"shortcuts to remember them more quickly.</p><p><strong>Local vs Global</strong>:<br>The first option allows you to show the basket while the main window is active. Global shortcuts are valid from "
+"anywhere, even if the window is hidden.</p><p><strong>Show vs Switch</strong>:<br>The last option makes this basket the current one without opening the main window. It is useful in addition to the "
+"configurable global shortcuts, eg. to paste the clipboard or the selection into the current basket from anywhere.</p>"
 msgstr ""
-"<p><u>ショートカットを早く覚える方法</u><br>最初のオプションを選択してバス"
-"ケットに [Alt+アルファベット] というふうにショートカットを割り当てると、バス"
-"ケットツリーでその文字に下線が付きます。<br>例えば、「Tips」という名前のバス"
-"ケットに [Alt+T] を割り当てると、そのバスケットはツリーに「<u>T</u>ips」と表"
-"示されます。このようにショートカットを視覚化することで、早くショートカットを"
-"覚えることができます。</p><p><u>ローカル vs グローバル</u><br>最初のオプショ"
-"ンは、メインウィンドウがアクティブになっているときにのみバスケットを表示しま"
-"す。これに対して、グローバルショートカットは、メインウィンドウが表示されてい"
-"ないときにも有効で、どこからでも使えます。</p><p><u>表示 vs 切り替え</u><br>"
-"最後のオプションは、メインウィンドウを開かずにバスケットをアクティブにしま"
-"す。これは、同じくメインウィンドウを開かずにクリップボードの内容や選択を現在"
-"のバスケットに貼り付けるグローバルショートカットを使うときに役立ちます。</p>"
+"<p><u>ショートカットを早く覚える方法</u><br>最初のオプションを選択してバスケットに [Alt+アルファベット] というふうにショートカットを割り当てると、バスケットツリーでその文字に下線が付きます。<br>例えば、「Tips」という名前のバスケットに [Alt+T] "
+"を割り当てると、そのバスケットはツリーに「<u>T</u>ips」と表示されます。このようにショートカットを視覚化することで、早くショートカットを覚えることができます。</p><p><u>ローカル vs "
+"グローバル</u><br>最初のオプションは、メインウィンドウがアクティブになっているときにのみバスケットを表示します。これに対して、グローバルショートカットは、メインウィンドウが表示されていないときにも有効で、どこからでも使えます。</p><p><u>表示 vs "
+"切り替え</u><br>最後のオプションは、メインウィンドウを開かずにバスケットをアクティブにします。これは、同じくメインウィンドウを開かずにクリップボードの内容や選択を現在のバスケットに貼り付けるグローバルショートカットを使うときに役立ちます。</p>"
 
 #. i18n: ectx: property (title), widget (QGroupBox, appearanceGroup)
 #. +> trunk6
@@ -900,12 +785,8 @@ msgstr ""
 #. +> trunk6
 #: src/basketscene.cpp:2316
 #, kde-format
-msgid ""
-"This message should never appear. If it does, this program is buggy! Please "
-"report the bug to the developer."
-msgstr ""
-"このメッセージは出てはならないものです。出たとしたら、このプログラムはバギー"
-"です! 開発者にバグを報告してください。"
+msgid "This message should never appear. If it does, this program is buggy! Please report the bug to the developer."
+msgstr "このメッセージは出てはならないものです。出たとしたら、このプログラムはバギーです! 開発者にバグを報告してください。"
 
 #. +> trunk6
 #: src/basketscene.cpp:2755 src/basketscene.cpp:2808 src/basketscene.cpp:2817
@@ -1055,12 +936,8 @@ msgstr "暗号化はこのバージョンの %1 では<br/>サポートしてい
 #. +> trunk6
 #: src/basketscene.cpp:3042
 #, kde-format
-msgid ""
-"To make baskets stay unlocked, change the automatic<br>locking duration in "
-"the application settings."
-msgstr ""
-"バスケットがロックされないようにするには、設定ダイアログの<br>「バスケット」"
-"のページで自動ロックの時間を変更してください。"
+msgid "To make baskets stay unlocked, change the automatic<br>locking duration in the application settings."
+msgstr "バスケットがロックされないようにするには、設定ダイアログの<br>「バスケット」のページで自動ロックの時間を変更してください。"
 
 #. +> trunk6
 #: src/basketscene.cpp:3069 src/basketstatusbar.cpp:89 src/bnpview.cpp:1608
@@ -1168,24 +1045,19 @@ msgstr "未保存の変更があれば表示します。"
 #: src/basketstatusbar.cpp:137
 #, kde-format
 msgid "Ctrl+drop: copy, Shift+drop: move, Shift+Ctrl+drop: link."
-msgstr ""
-"Ctrl+ドロップ: コピー, Shift+ドロップ: 移動, Shift+Ctrl+ドロップ: リンク"
+msgstr "Ctrl+ドロップ: コピー, Shift+ドロップ: 移動, Shift+Ctrl+ドロップ: リンク"
 
 #. +> trunk6
 #: src/basketstatusbar.cpp:160
 #, kde-format
 msgid "<p>This basket is <b>locked</b>.<br>Click to unlock it.</p>"
-msgstr ""
-"<p>このバスケットはロックされています。<br>ロックを解除するにはクリックしてく"
-"ださい。</p>"
+msgstr "<p>このバスケットはロックされています。<br>ロックを解除するにはクリックしてください。</p>"
 
 #. +> trunk6
 #: src/basketstatusbar.cpp:163
 #, kde-format
 msgid "<p>This basket is <b>unlocked</b>.<br>Click to lock it.</p>"
-msgstr ""
-"<p>このバスケットはロック解除されています。<br>ロックするにはクリックしてくだ"
-"さい。</p>"
+msgstr "<p>このバスケットはロック解除されています。<br>ロックするにはクリックしてください。</p>"
 
 #. i18n: ectx: Menu (basket)
 #. +> trunk6
@@ -1269,7 +1141,6 @@ msgstr "書式ツールバー"
 #. +> trunk6
 #: src/basketui.rc:141
 #, fuzzy, kde-format
-#| msgid "Text Formating Toolbar"
 msgid "Text Formatting Toolbar"
 msgstr "書式ツールバー"
 
@@ -1288,11 +1159,8 @@ msgstr "クリップボードの内容を現在のバスケットに貼り付け
 #. +> trunk6
 #: src/bnpview.cpp:236
 #, kde-format
-msgid ""
-"Allows you to paste clipboard contents in the current basket without having "
-"to open the main window."
-msgstr ""
-"メインウィンドウを開かずにクリップボードの内容を貼り付けることができます。"
+msgid "Allows you to paste clipboard contents in the current basket without having to open the main window."
+msgstr "メインウィンドウを開かずにクリップボードの内容を貼り付けることができます。"
 
 #. +> trunk6
 #: src/bnpview.cpp:241
@@ -1303,11 +1171,8 @@ msgstr "選択を現在のバスケットに貼り付け"
 #. +> trunk6
 #: src/bnpview.cpp:243
 #, kde-format
-msgid ""
-"Allows you to paste clipboard selection in the current basket without having "
-"to open the main window."
-msgstr ""
-"メインウィンドウを開かずにクリップボードの選択を貼り付けることができます。"
+msgid "Allows you to paste clipboard selection in the current basket without having to open the main window."
+msgstr "メインウィンドウを開かずにクリップボードの選択を貼り付けることができます。"
 
 #. +> trunk6
 #: src/bnpview.cpp:248
@@ -1318,14 +1183,8 @@ msgstr "新しいバスケットを作成"
 #. +> trunk6
 #: src/bnpview.cpp:250
 #, kde-format
-msgid ""
-"Allows you to create a new basket without having to open the main window "
-"(you then can use the other global shortcuts to add a note, paste clipboard "
-"or paste selection in this new basket)."
-msgstr ""
-"メインウィンドウを開かずに新しいバスケットを作成することができます。そして、"
-"他のグローバルショートカットを使って、そのバスケットにメモを追加したりクリッ"
-"プボードの内容や選択したものを貼り付けることができます。"
+msgid "Allows you to create a new basket without having to open the main window (you then can use the other global shortcuts to add a note, paste clipboard or paste selection in this new basket)."
+msgstr "メインウィンドウを開かずに新しいバスケットを作成することができます。そして、他のグローバルショートカットを使って、そのバスケットにメモを追加したりクリップボードの内容や選択したものを貼り付けることができます。"
 
 #. +> trunk6
 #: src/bnpview.cpp:255
@@ -1336,9 +1195,7 @@ msgstr "前のバスケットへ移動"
 #. +> trunk6
 #: src/bnpview.cpp:257
 #, kde-format
-msgid ""
-"Allows you to change current basket to the previous one without having to "
-"open the main window."
+msgid "Allows you to change current basket to the previous one without having to open the main window."
 msgstr "メインウィンドウを開かずに前のバスケットに切り替えることができます。"
 
 #. +> trunk6
@@ -1350,9 +1207,7 @@ msgstr "次のバスケットへ移動"
 #. +> trunk6
 #: src/bnpview.cpp:263
 #, kde-format
-msgid ""
-"Allows you to change current basket to the next one without having to open "
-"the main window."
+msgid "Allows you to change current basket to the next one without having to open the main window."
 msgstr "メインウィンドウを開かずに次のバスケットに切り替えることができます。"
 
 #. +> trunk6
@@ -1364,11 +1219,8 @@ msgstr "テキストメモを挿入"
 #. +> trunk6
 #: src/bnpview.cpp:269
 #, kde-format
-msgid ""
-"Add a text note to the current basket without having to open the main window."
-msgstr ""
-"メインウィンドウを開かずに現在のバスケットにテキストメモを追加することができ"
-"ます。"
+msgid "Add a text note to the current basket without having to open the main window."
+msgstr "メインウィンドウを開かずに現在のバスケットにテキストメモを追加することができます。"
 
 #. +> trunk6
 #: src/bnpview.cpp:274 src/settings.cpp:567
@@ -1379,12 +1231,8 @@ msgstr "画像メモを挿入"
 #. +> trunk6
 #: src/bnpview.cpp:276
 #, kde-format
-msgid ""
-"Add an image note to the current basket without having to open the main "
-"window."
-msgstr ""
-"メインウィンドウを開かずに現在のバスケットに画像メモを追加することができま"
-"す。"
+msgid "Add an image note to the current basket without having to open the main window."
+msgstr "メインウィンドウを開かずに現在のバスケットに画像メモを追加することができます。"
 
 #. +> trunk6
 #: src/bnpview.cpp:280 src/settings.cpp:568
@@ -1395,11 +1243,8 @@ msgstr "リンクメモを挿入"
 #. +> trunk6
 #: src/bnpview.cpp:282
 #, kde-format
-msgid ""
-"Add a link note to the current basket without having to open the main window."
-msgstr ""
-"メインウィンドウを開かずに現在のバスケットにリンクメモを追加することができま"
-"す。"
+msgid "Add a link note to the current basket without having to open the main window."
+msgstr "メインウィンドウを開かずに現在のバスケットにリンクメモを追加することができます。"
 
 #. +> trunk6
 #: src/bnpview.cpp:286 src/settings.cpp:571
@@ -1410,11 +1255,8 @@ msgstr "色メモを挿入"
 #. +> trunk6
 #: src/bnpview.cpp:288
 #, kde-format
-msgid ""
-"Add a color note to the current basket without having to open the main "
-"window."
-msgstr ""
-"メインウィンドウを開かずに現在のバスケットに色メモを追加することができます。"
+msgid "Add a color note to the current basket without having to open the main window."
+msgstr "メインウィンドウを開かずに現在のバスケットに色メモを追加することができます。"
 
 #. +> trunk6
 #: src/bnpview.cpp:292
@@ -1425,12 +1267,8 @@ msgstr "スクリーンから色を採取"
 #. +> trunk6
 #: src/bnpview.cpp:294
 #, kde-format
-msgid ""
-"Add a color note picked from one pixel on screen to the current basket "
-"without having to open the main window."
-msgstr ""
-"メインウィンドウを開かずに現在のバスケットにスクリーン上の 1 ピクセルから採取"
-"した色をメモとして追加することができます。"
+msgid "Add a color note picked from one pixel on screen to the current basket without having to open the main window."
+msgstr "メインウィンドウを開かずに現在のバスケットにスクリーン上の 1 ピクセルから採取した色をメモとして追加することができます。"
 
 #. +> trunk6
 #: src/bnpview.cpp:299 src/settings.cpp:572
@@ -1441,12 +1279,8 @@ msgstr "スクリーンの領域を取り込む"
 #. +> trunk6
 #: src/bnpview.cpp:301
 #, kde-format
-msgid ""
-"Grab a screen zone as an image in the current basket without having to open "
-"the main window."
-msgstr ""
-"メインウィンドウを開かずに現在のバスケットにスクリーンの領域を画像として取り"
-"込むことができます。"
+msgid "Grab a screen zone as an image in the current basket without having to open the main window."
+msgstr "メインウィンドウを開かずに現在のバスケットにスクリーンの領域を画像として取り込むことができます。"
 
 #. +> trunk6
 #: src/bnpview.cpp:307
@@ -1457,12 +1291,8 @@ msgstr "テキストメモを挿入"
 #. +> trunk6
 #: src/bnpview.cpp:309
 #, fuzzy, kde-format
-msgid ""
-"Add a plain text note to the current basket without having to open the main "
-"window."
-msgstr ""
-"メインウィンドウを開かずに現在のバスケットにテキストメモを追加することができ"
-"ます。"
+msgid "Add a plain text note to the current basket without having to open the main window."
+msgstr "メインウィンドウを開かずに現在のバスケットにテキストメモを追加することができます。"
 
 #. +> trunk6
 #: src/bnpview.cpp:318
@@ -1474,16 +1304,9 @@ msgstr "バスケット"
 #: src/bnpview.cpp:363
 #, kde-format
 msgid ""
-"<h2>Basket Tree</h2>Here is the list of your baskets. You can organize your "
-"data by putting them in different baskets. You can group baskets by subject "
-"by creating new baskets inside others. You can browse between them by "
-"clicking a basket to open it, or reorganize them using drag and drop."
-msgstr ""
-"<h2>バスケットツリー</h2>あなたのバスケットのリストです。別々のバスケットに入"
-"れることによってデータを整理することができます。バスケットの中に新しいバス"
-"ケットを作成すれば、バスケットをテーマごとにグループ化することができます。バ"
-"スケットを切り替えるには、バスケットの上でクリックして開きます。バスケットは"
-"「ドラッグ&ドロップ」を使って再編成することができます。"
+"<h2>Basket Tree</h2>Here is the list of your baskets. You can organize your data by putting them in different baskets. You can group baskets by subject by creating new baskets inside others. You can"
+" browse between them by clicking a basket to open it, or reorganize them using drag and drop."
+msgstr "<h2>バスケットツリー</h2>あなたのバスケットのリストです。別々のバスケットに入れることによってデータを整理することができます。バスケットの中に新しいバスケットを作成すれば、バスケットをテーマごとにグループ化することができます。バスケットを切り替えるには、バスケットの上でクリックして開きます。バスケットは「ドラッグ&ドロップ」を使って再編成することができます。"
 
 #. +> trunk6
 #: src/bnpview.cpp:378 src/bnpview.cpp:384
@@ -1554,7 +1377,6 @@ msgstr "現在のメモの選択状態を反転"
 #. +> trunk6
 #: src/bnpview.cpp:440
 #, fuzzy, kde-format
-#| msgid "Text Formating Toolbar"
 msgid "&Clear Formatting"
 msgstr "書式ツールバー"
 
@@ -1905,30 +1727,13 @@ msgstr "変換するプレーンテキストメモがありません。"
 #. +> trunk6
 #: src/bnpview.cpp:1771
 #, fuzzy, kde-format
-#| msgid ""
-#| "<p><b>The file basketui.rc seems to not exist or is too old.<br>%1 cannot "
-#| "run without it and will stop.</b></p><p>Please check your installation of "
-#| "%2.</p><p>If you do not have administrator access to install the "
-#| "application system wide, you can copy the file basketui.rc from the "
-#| "installation archive to the folder <a href='file://%3'>%4</a>.</p><p>As "
-#| "last ressort, if you are sure the application is correctly installed but "
-#| "you had a preview version of it, try to remove the file %5basketui.rc</p>"
 msgid ""
-"<p><b>The file basketui.rc seems to not exist or is too old.<br>%1 cannot "
-"run without it and will stop.</b></p><p>Please check your installation of %2."
-"</p><p>If you do not have administrator access to install the application "
-"system wide, you can copy the file basketui.rc from the installation archive "
-"to the folder <a href='file://%3'>%4</a>.</p><p>As last resort, if you are "
-"sure the application is correctly installed but you had a preview version of "
-"it, try to remove the file %5basketui.rc</p>"
+"<p><b>The file basketui.rc seems to not exist or is too old.<br>%1 cannot run without it and will stop.</b></p><p>Please check your installation of %2.</p><p>If you do not have administrator access "
+"to install the application system wide, you can copy the file basketui.rc from the installation archive to the folder <a href='file://%3'>%4</a>.</p><p>As last resort, if you are sure the "
+"application is correctly installed but you had a preview version of it, try to remove the file %5basketui.rc</p>"
 msgstr ""
-"<p>ファイル basketui.rc が存在しないか、古すぎるようです。<br>%1 はそれがない"
-"と実行できないので中止します。</p><p>%2 のインストールを確認してください。</"
-"p><p>システム全体にアプリケーションをインストールする管理者権限がない場合は、"
-"ファイル basketui.rc をインストールのアーカイブからフォルダ <a href='file://"
-"%3'>%4</a> にコピーすることができます。</p><p>アプリケーションは正しくインス"
-"トールされているけれども、以前にプレビューバージョンをインストールしていた場"
-"合は、最後の手段として、ファイル %5basketui.rc を削除してみてください。</p>"
+"<p>ファイル basketui.rc が存在しないか、古すぎるようです。<br>%1 はそれがないと実行できないので中止します。</p><p>%2 のインストールを確認してください。</p><p>システム全体にアプリケーションをインストールする管理者権限がない場合は、ファイル basketui.rc をインストールのアーカイブからフォルダ <a href='file://%3'>%4</a>"
+" にコピーすることができます。</p><p>アプリケーションは正しくインストールされているけれども、以前にプレビューバージョンをインストールしていた場合は、最後の手段として、ファイル %5basketui.rc を削除してみてください。</p>"
 
 #. +> trunk6
 #: src/bnpview.cpp:1785
@@ -1945,8 +1750,7 @@ msgstr "メモを追加できません。"
 #. +> trunk6
 #: src/bnpview.cpp:1961
 #, kde-format
-msgid ""
-"<qt>Do you really want to remove the basket <b>%1</b> and its contents?</qt>"
+msgid "<qt>Do you really want to remove the basket <b>%1</b> and its contents?</qt>"
 msgstr "<qt>本当にバスケット「%1」とその内容を削除しますか？</qt>"
 
 #. +> trunk6
@@ -1964,12 +1768,8 @@ msgstr "バスケットを削除(&R)"
 #. +> trunk6
 #: src/bnpview.cpp:1973
 #, fuzzy, kde-format
-msgid ""
-"<qt><b>%1</b> has the following children baskets.<br>Do you want to remove "
-"them too?</qt>"
-msgstr ""
-"<qt>「%1」には以下の子バスケットがあります。<br>それらも同時に削除しますか？"
-"</qt>"
+msgid "<qt><b>%1</b> has the following children baskets.<br>Do you want to remove them too?</qt>"
+msgstr "<qt>「%1」には以下の子バスケットがあります。<br>それらも同時に削除しますか？</qt>"
 
 #. +> trunk6
 #: src/bnpview.cpp:1975
@@ -1992,15 +1792,12 @@ msgstr "バスケットアーカイブ"
 #. +> trunk6
 #: src/bnpview.cpp:2056 src/htmlexporter.cpp:65
 #, fuzzy, kde-format
-#| msgid ""
-#| "The file <b>%1</b> already exists. Do you really want to override it?"
 msgid "The file <b>%1</b> already exists. Do you really want to overwrite it?"
 msgstr "ファイル <b>%1</b> は既に存在します。本当に上書きしますか？"
 
 #. +> trunk6
 #: src/bnpview.cpp:2057 src/htmlexporter.cpp:66
 #, fuzzy, kde-format
-#| msgid "Override File?"
 msgid "Overwrite File?"
 msgstr "ファイルを上書きしますか？"
 
@@ -2175,27 +1972,12 @@ msgstr "(タグあり)"
 #. +> trunk6
 #: src/formatimporter.cpp:119
 #, fuzzy, kde-format
-#| msgid ""
-#| "<p>Folder mirroring is not possible anymore (see <a href='http://basket-"
-#| "notepads.github.io'>basket-notepads.github.io</a> for more information).</"
-#| "p><p>The folder <b>%1</b> has been copied for the basket needs. You can "
-#| "either delete this folder or delete the basket, or use both. But remember "
-#| "that modifying one will not modify the other anymore as they are now "
-#| "separate entities.</p>"
 msgid ""
-"<p>Folder mirroring is not possible anymore (see <a href='https://basket-"
-"notepads.github.io'>basket-notepads.github.io</a> for more information).</"
-"p><p>The folder <b>%1</b> has been copied for the basket needs. You can "
-"either delete this folder or delete the basket, or use both. But remember "
-"that modifying one will not modify the other anymore as they are now "
-"separate entities.</p>"
+"<p>Folder mirroring is not possible anymore (see <a href='https://basket-notepads.github.io'>basket-notepads.github.io</a> for more information).</p><p>The folder <b>%1</b> has been copied for the "
+"basket needs. You can either delete this folder or delete the basket, or use both. But remember that modifying one will not modify the other anymore as they are now separate entities.</p>"
 msgstr ""
-"<p>フォルダの同期インポートはもうできません (詳細については <a href='http://"
-"basket-notepads.github.io'>basket-notepads.github.io</a> をご覧ください)。</"
-"p><p>バスケットが必要とするため、フォルダ <b>%1</b> をバスケットにコピーしま"
-"した。フォルダまたはバスケットを削除するか、あるいは両方使用することができま"
-"す。ただし、ふたつは別の実体になったので、一方を変更しても、もう一方は同時に"
-"変更されません。</p>"
+"<p>フォルダの同期インポートはもうできません (詳細については <a href='http://basket-notepads.github.io'>basket-notepads.github.io</a> をご覧ください)。</p><p>バスケットが必要とするため、フォルダ <b>%1</b> "
+"をバスケットにコピーしました。フォルダまたはバスケットを削除するか、あるいは両方使用することができます。ただし、ふたつは別の実体になったので、一方を変更しても、もう一方は同時に変更されません。</p>"
 
 #. +> trunk6
 #: src/formatimporter.cpp:125
@@ -2265,14 +2047,11 @@ msgstr ""
 #. +> trunk6
 #: src/htmlexporter.cpp:402
 #, fuzzy, kde-format
-msgid ""
-"Made with <a href=\"%1\">%2</a> %3, a tool to take notes and keep "
-"information at hand."
+msgid "Made with <a href=\"%1\">%2</a> %3, a tool to take notes and keep information at hand."
 msgstr "%1 で作成 (メモをとって情報を手元に置いておくための KDE ツール)"
 
 #. +> trunk6
-#: src/kcolorcombo2.cpp:112 src/kcolorcombo2.cpp:614 src/tagsedit.cpp:503
-#: src/variouswidgets.cpp:404
+#: src/kcolorcombo2.cpp:112 src/kcolorcombo2.cpp:614 src/tagsedit.cpp:503 src/variouswidgets.cpp:404
 #, kde-format
 msgid "(Default)"
 msgstr "(デフォルト)"
@@ -2454,29 +2233,13 @@ msgstr "プレビューを無効にしたのに画像が表示されます..."
 #: src/linklabel.cpp:658
 #, kde-format
 msgid ""
-"<p>This is normal because there are several type of notes.<br>This setting "
-"only applies to file and local link notes.<br>The images you see are image "
-"notes, not file notes.<br>File notes are generic documents, whereas image "
-"notes are pictures you can draw in.</p><p>When dropping files to baskets, %1 "
-"detects their type and shows you the content of the files.<br>For instance, "
-"when dropping image or text files, image and text notes are created for them."
-"<br>For type of files %2 does not understand, they are shown as generic file "
-"notes with just an icon or file preview and a filename.</p><p>If you do not "
-"want the application to create notes depending on the content of the files "
-"you drop, go to the \"General\" page and uncheck \"Image or animation\" in "
-"the \"View Content of Added Files for the Following Types\" group.</p>"
+"<p>This is normal because there are several type of notes.<br>This setting only applies to file and local link notes.<br>The images you see are image notes, not file notes.<br>File notes are generic"
+" documents, whereas image notes are pictures you can draw in.</p><p>When dropping files to baskets, %1 detects their type and shows you the content of the files.<br>For instance, when dropping image"
+" or text files, image and text notes are created for them.<br>For type of files %2 does not understand, they are shown as generic file notes with just an icon or file preview and a "
+"filename.</p><p>If you do not want the application to create notes depending on the content of the files you drop, go to the \"General\" page and uncheck \"Image or animation\" in the \"View Content"
+" of Added Files for the Following Types\" group.</p>"
 msgstr ""
-"<p>メモにはいくつかの種類があるので、異常ではありません。この設定はファイルと"
-"ローカルリンクのメモにのみ適用されます。画像が表示されている場合、それは画像"
-"メモでファイルメモではありません。ファイルメモが一般的なメモであるのに対し"
-"て、画像メモはその中に描画することができる画像です。</p><p>ファイルをバスケッ"
-"トにドロップすると、%1はそのタイプを検出してファイルの内容を表示します。例え"
-"ば、画像をドロップすると画像メモを、テキストファイルをドロップするとテキスト"
-"メモを作成します。%2が認識できないファイルタイプについては、一般的なファイル"
-"メモとして、アイコンのみ、またはファイルのプレビューとファイル名を表示しま"
-"す。</p><p>ドロップしたファイルのタイプに応じたメモを作成させたくない場合は、"
-"「新しいメモ」のページを開いて、「以下のファイルが追加されたらファイルの内容"
-"を表示する」で「画像とアニメーション」のチェックを外してください。</p>"
+"<p>メモにはいくつかの種類があるので、異常ではありません。この設定はファイルとローカルリンクのメモにのみ適用されます。画像が表示されている場合、それは画像メモでファイルメモではありません。ファイルメモが一般的なメモであるのに対して、画像メモはその中に描画することができる画像です。</p><p>ファイルをバスケットにドロップすると、%1はそのタイプを検出してファイルの内容を表示します。例えば、画像をドロップすると画像メモを、テキストファイルをドロップするとテキストメモを作成します。%2が認識できないファイルタイプについては、一般的なファイルメモとして、アイコンのみ、またはファイルのプレビューとファイル名を表示します。</p><p>ドロップしたファイルのタイプに応じたメモを作成させたくない場合は、「新しいメモ」のページを開いて、「以下のファイルが追加されたらファイルの内容を表示する」で「画像とアニメーション」のチェックを外してください。</p>"
 
 #. +> trunk6
 #: src/linklabel.cpp:675
@@ -2572,18 +2335,10 @@ msgstr "これは何のため？"
 #: src/newbasketdialog.cpp:210
 #, kde-format
 msgid ""
-"<p>Creating baskets inside of other baskets to form a hierarchy allows you "
-"to be more organized by eg.:</p><ul><li>Grouping baskets by themes or topics;"
-"</li><li>Grouping baskets in folders for different projects;</li><li>Making "
-"sections with sub-baskets representing chapters or pages;</li><li>Making a "
-"group of baskets to export together (to eg. email them to people).</li></ul>"
+"<p>Creating baskets inside of other baskets to form a hierarchy allows you to be more organized by eg.:</p><ul><li>Grouping baskets by themes or topics;</li><li>Grouping baskets in folders for "
+"different projects;</li><li>Making sections with sub-baskets representing chapters or pages;</li><li>Making a group of baskets to export together (to eg. email them to people).</li></ul>"
 msgstr ""
-"<p>他のバスケットの中にバスケットを作成して階層構造にすると、例えば以下のよう"
-"にデータをより系統的に管理することができます:</p><ul><li>バスケットをテーマま"
-"たはトピック別にグループ化する。</li><li>バスケットをプロジェクト別のフォルダ"
-"にグループ化する。</li><li>章やページを子バスケットとするセクションを作成す"
-"る。</li><li>他の人にメールで送る場合などに、バスケットをグループ化して一度に"
-"エクスポートする。</li></ul>"
+"<p>他のバスケットの中にバスケットを作成して階層構造にすると、例えば以下のようにデータをより系統的に管理することができます:</p><ul><li>バスケットをテーマまたはトピック別にグループ化する。</li><li>バスケットをプロジェクト別のフォルダにグループ化する。</li><li>章やページを子バスケットとするセクションを作成する。</li><li>他の人にメールで送る場合などに、バスケットをグループ化して一度にエクスポートする。</li></ul>"
 
 #. +> trunk6
 #: src/newbasketdialog.cpp:320
@@ -3149,8 +2904,7 @@ msgstr "なし"
 #: src/noteedit.cpp:541
 #, kde-format
 msgid ""
-"Images can not be edited here at the moment (the next version of BasKet Note "
-"Pads will include an image editor).\n"
+"Images can not be edited here at the moment (the next version of BasKet Note Pads will include an image editor).\n"
 "Do you want to open it with an application that understand it?"
 msgstr ""
 "今のところ画像をここで編集することはできません。\n"
@@ -3190,8 +2944,7 @@ msgstr "色メモを編集"
 #, kde-format
 msgid ""
 "The type of this note is unknown and can not be edited here.\n"
-"You however can drag or copy the note into an application that understands "
-"it."
+"You however can drag or copy the note into an application that understands it."
 msgstr ""
 "このメモはタイプが不明なため、ここで編集することはできませんが、\n"
 "メモを認識する他のアプリケーションにドラッグまたはコピーできます。"
@@ -3350,16 +3103,11 @@ msgstr ""
 #: src/notefactory.cpp:491
 #, fuzzy, kde-format
 msgid ""
-"<p>%1 doesn't support the data you've dropped.<br>It however created a "
-"generic note, allowing you to drag or copy it to an application that "
-"understand it.</p><p>If you want the support of these data, please contact "
-"developer.</p>"
+"<p>%1 doesn't support the data you've dropped.<br>It however created a generic note, allowing you to drag or copy it to an application that understand it.</p><p>If you want the support of these "
+"data, please contact developer.</p>"
 msgstr ""
-"<p>%1はあなたがドロップしたデータをサポートしていません。<br>しかしながら、一"
-"般的なメモが作成されているので、それを認識するアプリケーションにドラッグして"
-"コピーすることはできます。</p><p>これらのデータのサポートを希望される場合は、"
-"開発者に連絡するか <a href=\"http://basket-notepads.github.io/"
-"dropdb.php\">BasKet Drop Database</a> をご覧ください。</p>"
+"<p>%1はあなたがドロップしたデータをサポートしていません。<br>しかしながら、一般的なメモが作成されているので、それを認識するアプリケーションにドラッグしてコピーすることはできます。</p><p>これらのデータのサポートを希望される場合は、開発者に連絡するか <a href=\"http://basket-notepads.github.io/dropdb.php\">BasKet "
+"Drop Database</a> をご覧ください。</p>"
 
 #. +> trunk6
 #: src/notefactory.cpp:497
@@ -3446,9 +3194,7 @@ msgstr "バスケットを秘密鍵で保護する(&K):"
 #. +> trunk6
 #: src/regiongrabber.cpp:102
 #, kde-format
-msgid ""
-"Select a region using the mouse. To take the snapshot, press the Enter key. "
-"Press Esc to quit."
+msgid "Select a region using the mouse. To take the snapshot, press the Enter key. Press Esc to quit."
 msgstr ""
 
 #. +> trunk6
@@ -3544,34 +3290,21 @@ msgstr "これが適用されるのは..."
 #. +> trunk6
 #: src/settings.cpp:529
 #, kde-format
-msgid ""
-"It does apply when you copy and paste, or drag and drop notes to a text "
-"editor."
-msgstr ""
-"これはメモをテキストエディタに「コピー&&ペースト」または「ドラッグ&&ドロッ"
-"プ」したときに適用されます。"
+msgid "It does apply when you copy and paste, or drag and drop notes to a text editor."
+msgstr "これはメモをテキストエディタに「コピー&&ペースト」または「ドラッグ&&ドロップ」したときに適用されます。"
 
 #. +> trunk6
 #: src/settings.cpp:530
 #, kde-format
-msgid ""
-"If enabled, this property lets you paste the tags as textual equivalents."
-msgstr ""
-"このオプションを有効にすると、タグをテキストに置き換えて貼り付けることができ"
-"ます。"
+msgid "If enabled, this property lets you paste the tags as textual equivalents."
+msgstr "このオプションを有効にすると、タグをテキストに置き換えて貼り付けることができます。"
 
 #. i18n("If filled, this property lets you paste this tag or this state as textual equivalent.") + "<br>" +
 #. +> trunk6
 #: src/settings.cpp:531 src/tagsedit.cpp:524
 #, kde-format
-msgid ""
-"For instance, a list of notes with the <b>To Do</b> and <b>Done</b> tags are "
-"exported as lines preceded by <b>[ ]</b> or <b>[x]</b>, representing an "
-"empty checkbox and a checked box."
-msgstr ""
-"例えば、「To Do」と「完了」タグの付いたメモをエクスポートすると、行の先頭に "
-"<b>[ ]</b> または <b>[x]</b> が付きます。これはそれぞれ、チェックマークが入っ"
-"ていないボックスと入っているボックスを表します。"
+msgid "For instance, a list of notes with the <b>To Do</b> and <b>Done</b> tags are exported as lines preceded by <b>[ ]</b> or <b>[x]</b>, representing an empty checkbox and a checked box."
+msgstr "例えば、「To Do」と「完了」タグの付いたメモをエクスポートすると、行の先頭に <b>[ ]</b> または <b>[x]</b> が付きます。これはそれぞれ、チェックマークが入っていないボックスと入っているボックスを表します。"
 
 #. +> trunk6
 #: src/settings.cpp:543
@@ -3588,28 +3321,16 @@ msgstr "新しいメモをグループ化するには..."
 #. +> trunk6
 #: src/settings.cpp:546
 #, kde-format
-msgid ""
-"<p>When this option is enabled, the insertion-line not only allows you to "
-"insert notes at the cursor position, but also allows you to group a new note "
-"with the one under the cursor:</p>"
-msgstr ""
-"<p>このオプションを有効にすると、カーソル位置にメモを挿入するだけでなく、同時"
-"にカーソルの下にある既存のメモとグループ化できるようになります。</p>"
+msgid "<p>When this option is enabled, the insertion-line not only allows you to insert notes at the cursor position, but also allows you to group a new note with the one under the cursor:</p>"
+msgstr "<p>このオプションを有効にすると、カーソル位置にメモを挿入するだけでなく、同時にカーソルの下にある既存のメモとグループ化できるようになります。</p>"
 
 #. +> trunk6
 #: src/settings.cpp:549
 #, kde-format
 msgid ""
-"<p>Place your mouse between notes, where you want to add a new one.<br>Click "
-"on the <b>left</b> of the insertion-line middle-mark to <b>insert</b> a note."
-"<br>Click on the <b>right</b> to <b>group</b> a note, with the one <b>below "
-"or above</b>, depending on where your mouse is.</p>"
-msgstr ""
-"<p>新しいメモを挿入したい位置 (メモとメモの間) にカーソルを置きます。<br>メモ"
-"を普通に「挿入」するときは、挿入ラインの中央の目印の「左側」をクリックしま"
-"す。<br>既存のものと「グループ化」するときは、中央の目印の「右側」をクリック"
-"します。新しいメモは、マウスの位置によって、上または下のメモとグループ化され"
-"ます。</p>"
+"<p>Place your mouse between notes, where you want to add a new one.<br>Click on the <b>left</b> of the insertion-line middle-mark to <b>insert</b> a note.<br>Click on the <b>right</b> to "
+"<b>group</b> a note, with the one <b>below or above</b>, depending on where your mouse is.</p>"
+msgstr "<p>新しいメモを挿入したい位置 (メモとメモの間) にカーソルを置きます。<br>メモを普通に「挿入」するときは、挿入ラインの中央の目印の「左側」をクリックします。<br>既存のものと「グループ化」するときは、中央の目印の「右側」をクリックします。新しいメモは、マウスの位置によって、上または下のメモとグループ化されます。</p>"
 
 #. +> trunk6
 #: src/settings.cpp:565
@@ -3831,87 +3552,44 @@ msgstr ""
 #: src/settings.cpp:877
 #, kde-format
 msgid ""
-"<p>On modern desktop environments, launcher configurations provide "
-"information to the system about how to handle an application.These files are "
-"essential for integrating applications into the desktop environment, to "
-"list, lookup and launch apps with specific configurations</p><p>Here is how "
-"to do if you want to launch Falkon Browser with a specific profile.</"
-"p><ul><li>Open the KDE Menu Editor, and type \"Falkon\" in the search filter;"
-"</li><li>Select \"Falkon\" desktop launcher, right-click, copy and paste;</"
-"li><li>Edit the \"General\" property fields like \"Name\", \"Description\" "
-"or \"Comment\".</li><li>Edit the \"Command-line arguments\" field to "
-"something like \"--profile 'Your-Extensive-Hobby' %%u\".</li></ul><p>Now, "
-"when you choose your new launcher as basket link notes launcher, basket will "
-"open HTTP links with Falkon's \"Your-Extensive-Hobby\" profile</p><p>For "
-"more fine-grained configuration (like opening pdf documents preferably with "
-"Falkon), read the second button tooltip.</p>"
+"<p>On modern desktop environments, launcher configurations provide information to the system about how to handle an application.These files are essential for integrating applications into the "
+"desktop environment, to list, lookup and launch apps with specific configurations</p><p>Here is how to do if you want to launch Falkon Browser with a specific profile.</p><ul><li>Open the KDE Menu "
+"Editor, and type \"Falkon\" in the search filter;</li><li>Select \"Falkon\" desktop launcher, right-click, copy and paste;</li><li>Edit the \"General\" property fields like \"Name\", \"Description\""
+" or \"Comment\".</li><li>Edit the \"Command-line arguments\" field to something like \"--profile 'Your-Extensive-Hobby' %%u\".</li></ul><p>Now, when you choose your new launcher as basket link notes"
+" launcher, basket will open HTTP links with Falkon's \"Your-Extensive-Hobby\" profile</p><p>For more fine-grained configuration (like opening pdf documents preferably with Falkon), read the second "
+"button tooltip.</p>"
 msgstr ""
 
 #. +> trunk6
 #: src/settings.cpp:891
 #, fuzzy, kde-format
 msgid ""
-"<p>When opening Web links, they are opened in different applications, "
-"depending on the content of the link (a Web page, an image, a PDF "
-"document...), such as if they were files on your computer.</p><p>Here is how "
-"to do if you want every Web addresses to be opened in your Web browser. It "
-"is useful if you are not using Plasma (if you are using eg. GNOME, XFCE...)."
-"</p><ul><li>Open the KDE System Settings (if it is not available, try to "
-"type \"systemsettings\" in a command line terminal);</li><li>Go to the "
-"\"Applications\" and then \"Default Applications\" section;</li><li>Choose "
-"\"Web Browser\", check \"with the following command:\" and enter the name of "
-"your Web browser (like \"firefox\" or \"epiphany\").</li></ul><p>Now, when "
-"you click <i>any</i> link that start with \"https://...\", it will be opened "
-"in your Web browser (eg. Mozilla Firefox or Epiphany or...).</p><p>For more "
-"fine-grained configuration (like opening only Web pages in your Web "
-"browser), read the third button tooltip.</p>"
+"<p>When opening Web links, they are opened in different applications, depending on the content of the link (a Web page, an image, a PDF document...), such as if they were files on your "
+"computer.</p><p>Here is how to do if you want every Web addresses to be opened in your Web browser. It is useful if you are not using Plasma (if you are using eg. GNOME, XFCE...).</p><ul><li>Open "
+"the KDE System Settings (if it is not available, try to type \"systemsettings\" in a command line terminal);</li><li>Go to the \"Applications\" and then \"Default Applications\" "
+"section;</li><li>Choose \"Web Browser\", check \"with the following command:\" and enter the name of your Web browser (like \"firefox\" or \"epiphany\").</li></ul><p>Now, when you click <i>any</i> "
+"link that start with \"https://...\", it will be opened in your Web browser (eg. Mozilla Firefox or Epiphany or...).</p><p>For more fine-grained configuration (like opening only Web pages in your "
+"Web browser), read the third button tooltip.</p>"
 msgstr ""
-"<p>コンピュータ上のファイルと同様に、ウェブリンクはその内容 (ウェブページ、画"
-"像、PDF ドキュメント...) によって異なるアプリケーションで開かれます。</p><p>"
-"すべてのウェブアドレスをあなたのお気に入りのブラウザで開くようにしたい場合"
-"は、以下の手順に従ってください。これは、KDE 以外のデスクトップ環境 (GNOME, "
-"XFCE...) を使用している場合に役立ちます。</p><ul><li>KDE コントロールセンター"
-"を開きます。メニューにない場合は、コマンドライン端末で  \"kcontrol\" と入力し"
-"てみてください。</li><li>「KDE コンポーネント」から「コンポーネントの選択」を"
-"開きます。</li><li>「ウェブブラウザ」を選択し、「以下のブラウザで」をチェック"
-"します。そして使用するブラウザの名前 (firefox, epiphany...) を入力してくださ"
-"い。</li></ul><p>これで、\"http://...\" で始まるすべてのリンクが常にあなたの"
-"お気に入りのブラウザ (Mozilla Firefox, Epiphany...) で開くようになります。</"
-"p><p>ウェブページだけを指定したブラウザで開くようにする、といったより高度な設"
-"定については、次のリンクのヘルプをお読みください。</p>"
+"<p>コンピュータ上のファイルと同様に、ウェブリンクはその内容 (ウェブページ、画像、PDF ドキュメント...) によって異なるアプリケーションで開かれます。</p><p>すべてのウェブアドレスをあなたのお気に入りのブラウザで開くようにしたい場合は、以下の手順に従ってください。これは、KDE 以外のデスクトップ環境 (GNOME, XFCE...) "
+"を使用している場合に役立ちます。</p><ul><li>KDE コントロールセンターを開きます。メニューにない場合は、コマンドライン端末で  \"kcontrol\" と入力してみてください。</li><li>「KDE コンポーネント」から「コンポーネントの選択」を開きます。</li><li>「ウェブブラウザ」を選択し、「以下のブラウザで」をチェックします。そして使用するブラウザの名前 "
+"(firefox, epiphany...) を入力してください。</li></ul><p>これで、\"http://...\" で始まるすべてのリンクが常にあなたのお気に入りのブラウザ (Mozilla Firefox, Epiphany...) "
+"で開くようになります。</p><p>ウェブページだけを指定したブラウザで開くようにする、といったより高度な設定については、次のリンクのヘルプをお読みください。</p>"
 
 #. +> trunk6
 #: src/settings.cpp:905
 #, fuzzy, kde-format
 msgid ""
-"<p>Here is how to set the application to be used for each type of file. This "
-"also applies to Web links if you choose not to open them systematically in a "
-"Web browser (see the first help link). The default settings should be good "
-"enough for you, but this tip is useful if you are using GNOME, XFCE, or "
-"another environment than Plasma.</p><p>This is an example of how to open "
-"HTML pages in your Web browser (and keep using the other applications for "
-"other addresses or files). Repeat these steps for each type of file you want "
-"to open in a specific application.</p><ul><li>Open the KDE System Settings "
-"(if it is not available, try to type \"systemsettings\" in a command line "
-"terminal);</li><li>Go to the \"Applications\" and then \"File Associations\" "
-"section;</li><li>In the tree, expand \"text\" and click \"html\";</li><li>In "
-"the applications list, add your Web browser as the first entry;</li><li>Do "
-"the same for the type \"application -> xhtml+xml\".</li></ul>"
+"<p>Here is how to set the application to be used for each type of file. This also applies to Web links if you choose not to open them systematically in a Web browser (see the first help link). The "
+"default settings should be good enough for you, but this tip is useful if you are using GNOME, XFCE, or another environment than Plasma.</p><p>This is an example of how to open HTML pages in your "
+"Web browser (and keep using the other applications for other addresses or files). Repeat these steps for each type of file you want to open in a specific application.</p><ul><li>Open the KDE System "
+"Settings (if it is not available, try to type \"systemsettings\" in a command line terminal);</li><li>Go to the \"Applications\" and then \"File Associations\" section;</li><li>In the tree, expand "
+"\"text\" and click \"html\";</li><li>In the applications list, add your Web browser as the first entry;</li><li>Do the same for the type \"application -> xhtml+xml\".</li></ul>"
 msgstr ""
-"<p>ファイルタイプ別に使用するアプリケーションを設定する方法をご説明します。こ"
-"れは、すべてのウェブリンクを常にウェブブラウザで開くように設定していない場合 "
-"(最初のリンクのヘルプを参照)、ウェブリンクにも当てはまります。デフォルトの設"
-"定で問題ないはずですが、GNOME や XFCE その他の KDE 以外のデスクトップ環境を使"
-"用している場合に役立ちます。</p><p>HTML ページだけをあなたのお気に入りのウェ"
-"ブブラウザで開くようにするには (他のアドレスやファイルは別のアプリケーション"
-"で開く場合)、以下の手順に従ってください。開くアプリケーションを指定したい他の"
-"ファイルタイプについても、同様のステップを繰り返してください。</"
-"p><ul><li>KDE コントロールセンターを開きます。メニューにない場合は、コマンド"
-"ライン端末で \"kcontrol\" と入力してみてください。</li><li>「KDE コンポーネン"
-"ト」から「ファイルの関連付け」を開きます。</li><li>ファイルタイプのツリーで "
-"\"text\" を展開し、\"html\" をクリックします。</li><li>使用するウェブブラウザ"
-"をアプリケーションのリストの最上位に追加します。</li><li>\"application -> "
-"xhtml+xml\" についても同じように設定します。</li></ul>"
+"<p>ファイルタイプ別に使用するアプリケーションを設定する方法をご説明します。これは、すべてのウェブリンクを常にウェブブラウザで開くように設定していない場合 (最初のリンクのヘルプを参照)、ウェブリンクにも当てはまります。デフォルトの設定で問題ないはずですが、GNOME や XFCE その他の KDE 以外のデスクトップ環境を使用している場合に役立ちます。</p><p>HTML "
+"ページだけをあなたのお気に入りのウェブブラウザで開くようにするには (他のアドレスやファイルは別のアプリケーションで開く場合)、以下の手順に従ってください。開くアプリケーションを指定したい他のファイルタイプについても、同様のステップを繰り返してください。</p><ul><li>KDE コントロールセンターを開きます。メニューにない場合は、コマンドライン端末で \"kcontrol\" "
+"と入力してみてください。</li><li>「KDE コンポーネント」から「ファイルの関連付け」を開きます。</li><li>ファイルタイプのツリーで \"text\" を展開し、\"html\" をクリックします。</li><li>使用するウェブブラウザをアプリケーションのリストの最上位に追加します。</li><li>\"application -> xhtml+xml\" "
+"についても同じように設定します。</li></ul>"
 
 #. +> trunk6
 #: src/settings.cpp:953
@@ -3970,38 +3648,26 @@ msgstr "サウンドメモを開くアプリケーション:"
 #. +> trunk6
 #: src/settings.cpp:987
 #, fuzzy, kde-format
-#| msgid "Open &text notes with a custom application:"
 msgid "Open http link notes with a custom application:"
 msgstr "テキストメモを開くアプリケーションを指定する(&T):"
 
 #. +> trunk6
 #: src/settings.cpp:988
 #, fuzzy, kde-format
-#| msgid "Open text notes with:"
 msgid "Open http link notes with:"
 msgstr "テキストメモを開くアプリケーション:"
 
 #. +> trunk6
 #: src/settings.cpp:996
 #, kde-format
-msgid ""
-"<p>If checked, the application defined below will be used when opening that "
-"type of note.</p><p>Otherwise, the application you've configured in "
-"Konqueror will be used.</p>"
-msgstr ""
-"<p>これをチェックすると、下で指定されたアプリケーションでこのタイプのメモを開"
-"きます。</p><p>チェックしなかった場合は、Konqueror で設定されているアプリケー"
-"ションを使用します。</p>"
+msgid "<p>If checked, the application defined below will be used when opening that type of note.</p><p>Otherwise, the application you've configured in Konqueror will be used.</p>"
+msgstr "<p>これをチェックすると、下で指定されたアプリケーションでこのタイプのメモを開きます。</p><p>チェックしなかった場合は、Konqueror で設定されているアプリケーションを使用します。</p>"
 
 #. +> trunk6
 #: src/settings.cpp:1006
 #, kde-format
-msgid ""
-"<p>Define the application to use for opening that type of note instead of "
-"the application configured in Konqueror.</p>"
-msgstr ""
-"<p>このタイプのメモを開くときに Konquerur で設定されているアプリケーションの"
-"代わりに使用するアプリケーションを指定します。</p>"
+msgid "<p>Define the application to use for opening that type of note instead of the application configured in Konqueror.</p>"
+msgstr "<p>このタイプのメモを開くときに Konquerur で設定されているアプリケーションの代わりに使用するアプリケーションを指定します。</p>"
 
 #. +> trunk6
 #: src/settings_versionsync.cpp:77
@@ -4012,7 +3678,6 @@ msgstr ""
 #. +> trunk6
 #: src/settings_versionsync.cpp:78
 #, fuzzy, kde-format
-#| msgid "Remove Basket"
 msgid "Remove old Baskets"
 msgstr "バスケットを削除"
 
@@ -4400,9 +4065,7 @@ msgstr "ということは..."
 #. +> trunk6
 #: src/tagsedit.cpp:403
 #, kde-format
-msgid ""
-"This option will enable you to type a cross reference link directly into a "
-"text note. Cross Reference links can have the following syntax:"
+msgid "This option will enable you to type a cross reference link directly into a text note. Cross Reference links can have the following syntax:"
 msgstr ""
 
 #. +> trunk6
@@ -4523,12 +4186,8 @@ msgstr ""
 #. +> trunk6
 #: src/tagsedit.cpp:521
 #, fuzzy, kde-format
-msgid ""
-"When you copy and paste or drag and drop notes to a text editor, this text "
-"will be inserted as a textual equivalent of the tag."
-msgstr ""
-"これはメモをテキストエディタに「コピー&ペースト」または「ドラッグ&ドロップ」"
-"したときに適用されます。"
+msgid "When you copy and paste or drag and drop notes to a text editor, this text will be inserted as a textual equivalent of the tag."
+msgstr "これはメモをテキストエディタに「コピー&ペースト」または「ドラッグ&ドロップ」したときに適用されます。"
 
 #. +> trunk6
 #: src/tagsedit.cpp:532
@@ -4545,31 +4204,20 @@ msgstr "ということは..."
 #. +> trunk6
 #: src/tagsedit.cpp:537
 #, kde-format
-msgid ""
-"When a note has several lines, you can choose to export the tag or the state "
-"on the first line or on every line of the note."
-msgstr ""
-"メモが数行ある場合、タグまたは状態を最初の行だけに付けるか、メモの各行に付け"
-"るかを選択できます。"
+msgid "When a note has several lines, you can choose to export the tag or the state on the first line or on every line of the note."
+msgstr "メモが数行ある場合、タグまたは状態を最初の行だけに付けるか、メモの各行に付けるかを選択できます。"
 
 #. +> trunk6
 #: src/tagsedit.cpp:539
 #, kde-format
-msgid ""
-"In the example above, the tag of the top note is only exported on the first "
-"line, while the tag of the bottom note is exported on every line of the note."
-msgstr ""
-"この例では、上のメモのタグは最初の行だけにエクスポートされているのに対して、"
-"下のメモのタグはメモの各行にエクスポートされています。"
+msgid "In the example above, the tag of the top note is only exported on the first line, while the tag of the bottom note is exported on every line of the note."
+msgstr "この例では、上のメモのタグは最初の行だけにエクスポートされているのに対して、下のメモのタグはメモの各行にエクスポートされています。"
 
 #. +> trunk6
 #: src/tagsedit.cpp:977
 #, kde-format
-msgid ""
-"Deleting the tag will remove it from every note it is currently assigned to."
-msgstr ""
-"タグを削除すると、現在このタグが付けられているすべてのメモからも削除されま"
-"す。"
+msgid "Deleting the tag will remove it from every note it is currently assigned to."
+msgstr "タグを削除すると、現在このタグが付けられているすべてのメモからも削除されます。"
 
 #. +> trunk6
 #: src/tagsedit.cpp:978
@@ -4586,12 +4234,8 @@ msgstr "タグを削除"
 #. +> trunk6
 #: src/tagsedit.cpp:982
 #, kde-format
-msgid ""
-"Deleting the state will remove the tag from every note the state is "
-"currently assigned to."
-msgstr ""
-"状態を削除すると、現在この状態が付けられているすべてのメモからも削除されま"
-"す。"
+msgid "Deleting the state will remove the tag from every note the state is currently assigned to."
+msgstr "状態を削除すると、現在この状態が付けられているすべてのメモからも削除されます。"
 
 #. +> trunk6
 #: src/tagsedit.cpp:983
@@ -4613,14 +4257,9 @@ msgid " – "
 msgstr ""
 
 #. +> trunk6
-#: src/variouswidgets.cpp:135 src/variouswidgets.cpp:136
-#: src/variouswidgets.cpp:137 src/variouswidgets.cpp:138
-#: src/variouswidgets.cpp:139 src/variouswidgets.cpp:140
-#: src/variouswidgets.cpp:275 src/variouswidgets.cpp:276
-#: src/variouswidgets.cpp:277 src/variouswidgets.cpp:278
-#: src/variouswidgets.cpp:279 src/variouswidgets.cpp:280
+#: src/variouswidgets.cpp:135 src/variouswidgets.cpp:136 src/variouswidgets.cpp:137 src/variouswidgets.cpp:138 src/variouswidgets.cpp:139 src/variouswidgets.cpp:140 src/variouswidgets.cpp:275
+#: src/variouswidgets.cpp:276 src/variouswidgets.cpp:277 src/variouswidgets.cpp:278 src/variouswidgets.cpp:279 src/variouswidgets.cpp:280
 #, fuzzy, kde-format
-#| msgid "%1 by %2 pixels"
 msgid "%1 by %1 pixels"
 msgstr "%1 x %2 ピクセル"
 
@@ -4635,787 +4274,3 @@ msgstr ""
 "画像のサイズを選択してください。\n"
 "ウィンドウを閉じるか Escape を\n"
 "押すと、変更が適用されます。"
-
-#, fuzzy, kde-format
-#~ msgid "TextLabel"
-#~ msgstr "テキスト"
-
-#, fuzzy, kde-format
-#~ msgid "Choose action"
-#~ msgstr "実行するコマンドを選択:"
-
-#, fuzzy, kde-format
-#~ msgid "Delete (to Trash)"
-#~ msgstr "タグを削除"
-
-#, kde-format
-#~ msgid "How to change the application used to open Web links?"
-#~ msgstr "ウェブリンクを開くアプリケーションを変更するには..."
-
-#, kde-format
-#~ msgid "How to change the applications used to open files and links?"
-#~ msgstr "ファイルとリンクを開くアプリケーションを変更するには..."
-
-#, kde-format
-#~ msgid "..."
-#~ msgstr "..."
-
-#, kde-format
-#~ msgid "Choose an Existing Folder to Store Baskets"
-#~ msgstr "バスケットを保存する既存のフォルダを選択"
-
-#~ msgid "Save Error"
-#~ msgstr "保存エラー"
-
-#~ msgid "Dropped to basket <i>%1</i>"
-#~ msgstr "バスケット「%1」にドロップしました"
-
-#~ msgid "Show/hide main window"
-#~ msgstr "メインウィンドウを表示/隠す"
-
-#~ msgid ""
-#~ "Allows you to show main Window if it is hidden, and to hide it if it is "
-#~ "shown."
-#~ msgstr ""
-#~ "メインウィンドウが非表示になっている場合は表示し、表示されている場合は隠し"
-#~ "ます。"
-
-#~ msgid "Show current basket name"
-#~ msgstr "現在のバスケット名を表示"
-
-#~ msgid ""
-#~ "Allows you to know basket is current without opening the main window."
-#~ msgstr "メインウィンドウを開かずに現在のバスケットがわかります。"
-
-#~ msgid "&Hide Window"
-#~ msgstr "ウィンドウを隠す(&H)"
-
-#~ msgid "Picked color to basket <i>%1</i>"
-#~ msgstr "バスケット「%1」に色を採取しました"
-
-#~ msgid "Grabbed screen zone to basket <i>%1</i>"
-#~ msgstr "スクリーンの領域をバスケット「%1」に取り込みました"
-
-#~ msgid "Clipboard content pasted to basket <i>%1</i>"
-#~ msgstr "クリップボードの内容をバスケット「%1」に貼り付けました"
-
-#~ msgid "Selection pasted to basket <i>%1</i>"
-#~ msgstr "選択をバスケット「%1」に貼り付けました"
-
-#~ msgid "No note was added."
-#~ msgstr "追加されたメモはありません。"
-
-#~ msgid "(Locked)"
-#~ msgstr "(ロック中)"
-
-#, fuzzy
-#~ msgid ""
-#~ "<p>Notice that you do not have to quit the application before ending your "
-#~ "desktop session. If you end your session while the application is still "
-#~ "running, the application will be reloaded the next time you log in.</p>"
-#~ msgstr ""
-#~ "<p>KDE のセッションを終了する前にアプリケーションを終了する必要はありませ"
-#~ "ん。セッション終了時に実行されていたアプリケーションは次回ログイン時に再び"
-#~ "起動されます。</p>"
-
-#~ msgid "&Use balloons to report results of global actions"
-#~ msgstr "グローバルアクションの結果をバルーンを使って通知する(&U)"
-
-#~ msgid "What are global actions?"
-#~ msgstr "グローバルアクションって何？"
-
-#~ msgid ""
-#~ "You can configure global shortcuts to do some actions without having to "
-#~ "show the main window. For instance, you can paste the clipboard content, "
-#~ "take a color from a point of the screen, etc. You can also use the mouse "
-#~ "scroll wheel over the system tray icon to change the current basket. Or "
-#~ "use the middle mouse button on that icon to paste the current selection."
-#~ msgstr ""
-#~ "一部のアクションにはメインウィンドウを表示させずに実行するためのグローバル"
-#~ "ショートカットを設定することができます。例えば、クリップボードの内容を貼り"
-#~ "付けたり、スクリーンのある場所から色を採取したりできます。システムトレイア"
-#~ "イコンの上でマウスホイールを動かして他のバスケットをアクティブにすることも"
-#~ "できます。また、そのアイコンをマウスの中ボタンでクリックすることによって、"
-#~ "現在選択されているものをそのバスケットに貼り付けることもできます。"
-
-#~ msgid ""
-#~ "When doing so, %1 pops up a little balloon message to inform you the "
-#~ "action has been successfully done. You can disable that balloon."
-#~ msgstr ""
-#~ "グローバルアクションを実行すると、%1はそれが正しく実行されたことを知らせる"
-#~ "ために小さなバルーンメッセージをポップアップします。このバルーンは設定で無"
-#~ "効にすることができます。"
-
-#~ msgid ""
-#~ "Note that those messages are smart enough to not appear if the main "
-#~ "window is visible. This is because you already see the result of your "
-#~ "actions in the main window."
-#~ msgstr ""
-#~ "これらのメッセージは、メインウィンドウが表示されているときには出ないように"
-#~ "なっています。なぜなら、あなたが実行したアクションの結果が既にメインウィン"
-#~ "ドウに表示されているからです。"
-
-#~ msgid "System Tray Icon"
-#~ msgstr "システムトレイアイコン"
-
-#~ msgid "&Dock in system tray"
-#~ msgstr "システムトレイにドッキング(&D)"
-
-#~ msgid "&Show current basket icon in system tray icon"
-#~ msgstr "現在のバスケットのアイコンをシステムトレイに表示する(&S)"
-
-#~ msgid "&Hide main window when mouse leaves it for"
-#~ msgstr "マウスが離れた後、次の時間が経過したらメインウィンドウを隠す(&H)"
-
-#~ msgid " tenths of seconds"
-#~ msgstr "/10 秒"
-
-#~ msgid "Show &main window when mouse hovers over the system tray icon for"
-#~ msgstr ""
-#~ "マウスが次の時間アイコンの上にあったらメインウィンドウを表示する(&M)"
-
-#~ msgid "Ani&mate changes in baskets"
-#~ msgstr "バスケット内の変更をアニメーション表示する(&M)"
-
-#, fuzzy
-#~ msgid " (Locked)"
-#~ msgstr "(ロック中)"
-
-#~ msgid "Pasted selection to basket <i>%1</i>"
-#~ msgstr "選択をバスケット「%1」に貼り付けました"
-
-#~ msgid "&Minimize"
-#~ msgstr "最小化(&M)"
-
-#~ msgid "&Restore"
-#~ msgstr "復元(&R)"
-
-#~ msgid "%1 (Locked)"
-#~ msgstr "%1 (ロック中)"
-
-#~ msgid ""
-#~ "%1 has crashed! We're sorry about this.\n"
-#~ "\n"
-#~ "But, all is not lost! You could potentially help us fix the crash. "
-#~ "Information describing the crash is below, so just click send, or if you "
-#~ "have time, write a brief description of how the crash happened first.\n"
-#~ "\n"
-#~ "Many thanks."
-#~ msgstr ""
-#~ "%1 はクラッシュしました。本当に申し訳ありません。\n"
-#~ "\n"
-#~ "しかし解決策が全くない訳ではありません。\n"
-#~ "あなたは我々がこのバグを修正するのを手助けできます。\n"
-#~ "下にこのクラッシュを説明する情報があります。\n"
-#~ "送信をクリックするだけでも構いませんし、時間があるなら、\n"
-#~ "どのようにしてこのクラッシュが起こったのか簡潔な説明を書いて頂ければ幸いで"
-#~ "す。"
-
-#~ msgid ""
-#~ "The information below is to help the developers identify the problem, "
-#~ "please do not modify it."
-#~ msgstr ""
-#~ "下の情報は開発者が問題を突き止めるのに役立ちます。変更されないようにお願い"
-#~ "します。"
-
-#~ msgid ""
-#~ "%1 has crashed! We're sorry about this.\n"
-#~ "\n"
-#~ "But, all is not lost! Perhaps an upgrade is already available which fixes "
-#~ "the problem. Please check your distribution's software repository."
-#~ msgstr ""
-#~ "%1 はクラッシュしました。本当に申し訳ありません。\n"
-#~ "\n"
-#~ "しかし解決策が全くない訳ではありません。\n"
-#~ "アップグレードすることで問題が解決することもあります。\n"
-#~ "お使いのディストリビューションのソフトウェアリポジトリを確認してみてくださ"
-#~ "い。"
-
-#~ msgid "K&Notes"
-#~ msgstr "K&Notes"
-
-#~ msgid "K&Jots"
-#~ msgstr "K&Jots"
-
-#~ msgid "&KnowIt..."
-#~ msgstr "&KnowIt..."
-
-#~ msgid "Tux&Cards..."
-#~ msgstr "Tux&Cards..."
-
-#~ msgid "&Sticky Notes"
-#~ msgstr "&Sticky Notes"
-
-#~ msgid "&Tomboy"
-#~ msgstr "&Tomboy"
-
-#, fuzzy
-#~ msgid "J&reepad XML File..."
-#~ msgstr "ファイルに保存(&S)..."
-
-#~ msgid "Send application developers a comment about something you like"
-#~ msgstr "気に入った点について開発者にコメントを送る"
-
-#~ msgid "Send application developers a comment about something you dislike"
-#~ msgstr "気に入らない点について開発者にコメントを送る"
-
-#~ msgid ""
-#~ "Send application developers a comment about an improper behavior of the "
-#~ "application"
-#~ msgstr "アプリケーションの誤った挙動について開発者にコメントを送る"
-
-#~ msgid "Send application developers a comment about a new feature you desire"
-#~ msgstr "希望する新しい機能について開発者にコメントを送る"
-
-#~ msgid "&Send a Comment to Developers"
-#~ msgstr "開発者にコメントを送る(&S)"
-
-#~ msgid "Welcome to this testing version of %1."
-#~ msgstr "%1のテストバージョンへようこそ。"
-
-#~ msgid "Welcome to %1."
-#~ msgstr "%1へようこそ。"
-
-#~ msgid "To help us improve it, your comments are important."
-#~ msgstr "あなたのコメントはアプリケーションの改良に役立ちます。"
-
-#~ msgid ""
-#~ "Each time you have a great or frustrating experience, please click the "
-#~ "appropriate face below the window title-bar, briefly describe what you "
-#~ "like or dislike and click Send."
-#~ msgstr ""
-#~ "素晴らしいと思ったときや、逆にいらいらしたときは、ウィンドウのタイトルバー"
-#~ "の下にある感情を表す顔のアイコンをクリックし、気に入った点または気に入らな"
-#~ "い点を簡単に書いて送信ボタンを押してください。"
-
-#~ msgid ""
-#~ "Each time you have a great experience, please click the smiling face "
-#~ "below the window title-bar, briefly describe what you like and click Send."
-#~ msgstr ""
-#~ "素晴らしいと思ったときは、ウィンドウのタイトルバーの下にある笑顔のアイコン"
-#~ "をクリックし、気に入った点を簡単に書いて送信ボタンを押してください。"
-
-#~ msgid ""
-#~ "Each time you have a frustrating experience, please click the frowning "
-#~ "face below the window title-bar, briefly describe what you dislike and "
-#~ "click Send."
-#~ msgstr ""
-#~ "いらいらしたときは、ウィンドウのタイトルバーの下にあるしかめ面のアイコンを"
-#~ "クリックし、気に入らない点を簡単に書いて送信ボタンを押してください。"
-
-#~ msgid ""
-#~ "Follow the same principle to quickly report a bug: just click the broken-"
-#~ "object icon in the top-right corner of the window, describe it and click "
-#~ "Send."
-#~ msgstr ""
-#~ "バグを報告して頂く場合も同様です。ウィンドウの右上にある壊れたオブジェクト"
-#~ "のアイコンをクリックし、バグの内容を書いて送信ボタンを押してください。"
-
-#~ msgid ""
-#~ "Each time you discover a bug in the application, please click the broken-"
-#~ "object icon below the window title-bar, briefly describe the mis-"
-#~ "behaviour and click Send."
-#~ msgstr ""
-#~ "アプリケーションにバグを発見したときは、ウィンドウのタイトルバーの下にある"
-#~ "壊れたオブジェクトのアイコンをクリックし、誤った挙動の説明を簡単に書いて送"
-#~ "信ボタンを押してください。"
-
-#, fuzzy
-#~ msgid "Example:"
-#~ msgid_plural "Examples:"
-#~ msgstr[0] "例"
-
-# DO NOT TRANSLATE: This is an example of how to write reports.
-#~ msgid "<b>I like</b> the new artwork. Very refreshing."
-#~ msgstr "<b>I like</b> the new artwork. Very refreshing."
-
-# DO NOT TRANSLATE: This is an example of how to write reports.
-#~ msgid ""
-#~ "<b>I dislike</b> the welcome page of that assistant. Too time consuming."
-#~ msgstr ""
-#~ "<b>I dislike</b> the welcome page of that assistant. Too time consuming."
-
-# DO NOT TRANSLATE: This is an example of how to write reports.
-#~ msgid ""
-#~ "<b>The application has an improper behaviour</b> when clicking the Add "
-#~ "button. Nothing happens."
-#~ msgstr ""
-#~ "<b>The application has an improper behaviour</b> when clicking the Add "
-#~ "button. Nothing happens."
-
-# DO NOT TRANSLATE: This is an example of how to write reports.
-#~ msgid "<b>I desire a new feature</b> allowing me to send my work by email."
-#~ msgstr "<b>I desire a new feature</b> allowing me to send my work by email."
-
-#~ msgid "Help Improve the Application"
-#~ msgstr "アプリケーションの改良に協力"
-
-#~ msgid "Email Address"
-#~ msgstr "メールアドレス"
-
-#~ msgid "Please provide your email address."
-#~ msgstr "あなたのメールアドレスを入力してください。"
-
-#~ msgid ""
-#~ "It will only be used to contact you back if more information is needed "
-#~ "about your comments, ask you how to reproduce the bugs you report, send "
-#~ "bug corrections for you to test, etc."
-#~ msgstr ""
-#~ "これは、あなたのコメントについてさらに情報が必要なときや、報告されたバグの"
-#~ "再現方法を尋ねたり、バグの修正を送ってテストして頂くといった場合にのみ使用"
-#~ "します。"
-
-#~ msgid ""
-#~ "The email address is optional. If you do not provide any, your comments "
-#~ "will be sent anonymously."
-#~ msgstr ""
-#~ "メールアドレスは必須ではありません。入力がなければコメントは匿名で送信され"
-#~ "ます。"
-
-#~ msgid "Send a Comment to Developers"
-#~ msgstr "開発者にコメントを送る"
-
-#~ msgid "Send Application Developers a Comment About:"
-#~ msgstr "アプリケーションの開発者に送るコメントの内容:"
-
-#~ msgid "Something you &like"
-#~ msgstr "気に入った点(&L)"
-
-#~ msgid "Something you &dislike"
-#~ msgstr "気に入らない点(&D)"
-
-#~ msgid "An improper &behavior of this application"
-#~ msgstr "アプリケーションの誤った挙動(&B)"
-
-#~ msgid "A new &feature you desire"
-#~ msgstr "希望する新しい機能(&F)"
-
-#~ msgid "Show comment buttons below &window titlebars"
-#~ msgstr "ウィンドウのタイトルバーの下にコメントボタンを表示する(&W)"
-
-#~ msgid "&Send Comment"
-#~ msgstr "コメントを送信(&S)"
-
-#~ msgid "&Email Address..."
-#~ msgstr "メールアドレス(&E)..."
-
-#~ msgid "Please provide a brief description of your opinion of %1."
-#~ msgstr "%1に関するあなたの意見を簡単に書いてください。"
-
-#~ msgid "Please write in English."
-#~ msgstr "英語でお願いします。"
-
-#~ msgid ""
-#~ "You may be able to use an <a href=\"%1\">online translation tool</a>."
-#~ msgstr "<a href=\"%1\">オンライン翻訳ツール</a>が利用できるかもしれません。"
-
-#~ msgid ""
-#~ "To make the comments you send more useful in improving this application, "
-#~ "try to send the same amount of positive and negative comments."
-#~ msgstr ""
-#~ "あなたのコメントをこのアプリケーションの改良により役立たせるために、肯定的"
-#~ "な意見と否定的な意見を同じくらい送ってください。"
-
-#~ msgid "Do <b>not</b> ask for new features: your requests will be ignored."
-#~ msgstr "新しい機能は要求しないでください: あなたの要望は無視されます。"
-
-#~ msgid ""
-#~ "<p>Error while trying to send the report.</p><p>Please retry later.</p>"
-#~ msgstr ""
-#~ "<p>報告の送信中にエラーが発生しました。</p><p>後でもう一度試してください。"
-#~ "</p>"
-
-#~ msgid "Transfer Error"
-#~ msgstr "転送エラー"
-
-#~ msgid ""
-#~ "<p>Your comment has been sent successfully. It will help improve the "
-#~ "application.</p><p>Thanks for your time.</p>"
-#~ msgstr ""
-#~ "<p>あなたのコメントを送信しました。アプリケーションの改良に役立ちます。</"
-#~ "p><p>ご協力ありがとうございました。</p>"
-
-#~ msgid "Comment Sent"
-#~ msgstr "コメントを送信しました"
-
-#~ msgid "CSS Extended Color Name"
-#~ msgstr "CSS 拡張色名"
-
-#~ msgid "From KJots"
-#~ msgstr "KJots から"
-
-#~ msgid "From KNotes"
-#~ msgstr "KNotes から"
-
-#~ msgid "From Sticky Notes"
-#~ msgstr "Sticky Notes から"
-
-#~ msgid "From Tomboy"
-#~ msgstr "Tomboy から"
-
-#~ msgid ""
-#~ "Can not import that file. It is either corrupted or not a TuxCards file."
-#~ msgstr ""
-#~ "ファイルをインポートできません。壊れているか、TuxCards ファイルではありま"
-#~ "せん。"
-
-#~ msgid "Bad File Format"
-#~ msgstr "不正なファイル形式"
-
-#~ msgid ""
-#~ "A note is encrypted. The importer does not yet support encrypted notes. "
-#~ "Please remove the encryption with TuxCards and re-import the file."
-#~ msgstr ""
-#~ "メモは暗号化されています。暗号化されたメモのインポートはまだサポートしてい"
-#~ "ません。TuxCards で暗号を解除して、ファイルをインポートし直してください。"
-
-#~ msgid "Encrypted Notes not Supported Yet"
-#~ msgstr "暗号化されたメモはまだサポートしていません"
-
-#~ msgid ""
-#~ "<font color='red'><b>Encrypted note.</b><br>The importer do not support "
-#~ "encrypted notes yet. Please remove the encryption with TuxCards and re-"
-#~ "import the file.</font>"
-#~ msgstr ""
-#~ "<font color='red'><b>暗号化されたメモ。</b><br>暗号化されたメモのインポー"
-#~ "トはまだサポートしていません。TuxCards で暗号を解除して、ファイルをイン"
-#~ "ポートし直してください。</font>"
-
-#~ msgid ""
-#~ "<p>Closing the main window will keep %1 running in the system tray. Use "
-#~ "<b>Quit</b> from the <b>Basket</b> menu to quit the application.</p>"
-#~ msgstr ""
-#~ "<p>メインウィンドウを閉じても %1はシステムトレイで実行し続けます。終了する"
-#~ "には「バスケット」メニューから「終了」を選択してください。</p>"
-
-#~ msgid "Docking in System Tray"
-#~ msgstr "システムトレイにドッキング"
-
-#~ msgid "16 by 16 pixels"
-#~ msgstr "16 x 16 ピクセル"
-
-#~ msgid "22 by 22 pixels"
-#~ msgstr "22 x 22 ピクセル"
-
-#~ msgid "32 by 32 pixels"
-#~ msgstr "32 x 32 ピクセル"
-
-#~ msgid "48 by 48 pixels"
-#~ msgstr "48 x 48 ピクセル"
-
-#~ msgid "64 by 64 pixels"
-#~ msgstr "64 x 64 ピクセル"
-
-#~ msgid "128 by 128 pixels"
-#~ msgstr "128 x 128 ピクセル"
-
-#, fuzzy
-#~ msgctxt "Tag name (shortcut)"
-#~ msgid "%1 (%2)"
-#~ msgstr "%1、%2"
-
-#~ msgid "Import Launcher from &KDE Menu..."
-#~ msgstr "KDE メニューからランチャーをインポート(&K)..."
-
-#~ msgid "Basket <i>%1</i> is locked"
-#~ msgstr "バスケット「%1」はロックされています"
-
-#~ msgid "Export Basket to HTML"
-#~ msgstr "バスケットを HTML にエクスポート"
-
-#~ msgid "HTML Page Filename"
-#~ msgstr "HTML ページのファイル名"
-
-#~ msgid "&Filename:"
-#~ msgstr "ファイル名(&F):"
-
-#~ msgid "&Embed linked local files"
-#~ msgstr "リンクされたローカルファイルを埋め込む(&E)"
-
-#~ msgid "Embed &linked local folders"
-#~ msgstr "リンクされたローカルフォルダを埋め込む(&L)"
-
-#~ msgid "Erase &previous files in target folder"
-#~ msgstr "行き先フォルダの以前のファイルを消去する(&P)"
-
-#~ msgid "For&mat for impression"
-#~ msgstr "印刷用フォーマット(&M)"
-
-#, fuzzy
-#~ msgid "Backup filename (without extension), %1 is the date"
-#~ msgid_plural "Baskets_%1"
-#~ msgstr[0] "Baskets_%1"
-
-#~ msgid ""
-#~ "_: NAME OF TRANSLATORS\n"
-#~ "Your names"
-#~ msgstr "Yukiko Bando"
-
-#~ msgid ""
-#~ "_: EMAIL OF TRANSLATORS\n"
-#~ "Your emails"
-#~ msgstr "ybando@k6.dion.ne.jp"
-
-#~ msgid ""
-#~ "_: Safety folder name before restoring a basket data archive\n"
-#~ "Baskets Before Restoration"
-#~ msgstr "復元前のバスケット"
-
-#~ msgid ""
-#~ "_: Safety folder name before restoring a basket data archive\n"
-#~ "Baskets Before Restoration (%1)"
-#~ msgstr "復元前のバスケット (%1)"
-
-#~ msgid ""
-#~ "_: The verb (Group New Note)\n"
-#~ "Group"
-#~ msgstr "グループ化"
-
-#~ msgid ""
-#~ "_: The verb (Insert New Note)\n"
-#~ "Insert"
-#~ msgstr "挿入"
-
-#~ msgid ""
-#~ "_: of the form 'key: value'\n"
-#~ "<b>%1</b>: %2"
-#~ msgstr "<b>%1</b>: %2"
-
-#~ msgid ""
-#~ "_n: <qt>Do you really want to delete this note?</qt>\n"
-#~ "<qt>Do you really want to delete those <b>%n</b> notes?</qt>"
-#~ msgstr "<qt>本当にこれら <b>%n</b> 個のメモを削除しますか？</qt>"
-
-#~ msgid ""
-#~ "_n: Delete Note\n"
-#~ "Delete Notes"
-#~ msgstr "メモを削除"
-
-#~ msgid ""
-#~ "_n: Cut note to clipboard.\n"
-#~ "Cut notes to clipboard."
-#~ msgstr "メモをクリップボードに切り取りました。"
-
-#~ msgid "Insufficient Disk Space to Save Basket Data"
-#~ msgstr "バスケットのデータを保存するディスク容量が足りません"
-
-#~ msgid "Wrong Basket File Permissions"
-#~ msgstr "不正なバスケットファイルの許可属性"
-
-#~ msgid ""
-#~ "Please remove files on the disk <b>%1</b> to let the application safely "
-#~ "save your changes."
-#~ msgstr ""
-#~ "アプリケーションが安全にあなたの変更を保存できるように、ディスク <b>%1</"
-#~ "b> 上のファイルを削除してください。"
-
-#~ msgid ""
-#~ "File permissions are bad for <b>%1</b>. Please check that you have write "
-#~ "access to it and the parent folders."
-#~ msgstr ""
-#~ "ファイル <b>%1</b> の許可属性が正しくありません。そのファイルと親フォルダ"
-#~ "に対して書き込み権限があるか確認してください。"
-
-#~ msgid "Please write in English or French."
-#~ msgstr "英語またはフランス語でお願いします。"
-
-#~ msgid ""
-#~ "_: Verb; not Menu\n"
-#~ "&Edit..."
-#~ msgstr "編集(&E)..."
-
-#~ msgid ""
-#~ "_: Remove Basket\n"
-#~ "&Remove"
-#~ msgstr "削除(&R)"
-
-#~ msgid ""
-#~ "_: Password protection\n"
-#~ "Pass&word..."
-#~ msgstr "パスワード保護(&W)..."
-
-#~ msgid ""
-#~ "_: Lock Basket\n"
-#~ "&Lock"
-#~ msgstr "ロック(&L)"
-
-#~ msgid "Filter all &Baskets"
-#~ msgstr "すべてのバスケットをフィルタ(&B)"
-
-#~ msgid "Configure &Global Shortcuts..."
-#~ msgstr "グローバルショートカットを設定(&G)..."
-
-#~ msgid ""
-#~ "_n: %n note\n"
-#~ "%n notes"
-#~ msgstr "%n 件のメモ"
-
-#~ msgid ""
-#~ "_n: %n selected\n"
-#~ "%n selected"
-#~ msgstr "%n 件選択"
-
-#~ msgid ""
-#~ "_n: %n match\n"
-#~ "%n matches"
-#~ msgstr "%n 件マッチ"
-
-#~ msgid ""
-#~ "_: e.g. '18 notes, 10 matches, 5 selected'\n"
-#~ "%1, %2, %3"
-#~ msgstr "%1、%2、%3"
-
-#~ msgid "Delete Basket"
-#~ msgstr "バスケットを削除"
-
-#~ msgid "Delete Only that Basket"
-#~ msgstr "このバスケットのみ削除"
-
-#~ msgid "Delete Note & Children"
-#~ msgstr "メモとその子を削除"
-
-#~ msgid "Auto Spell Check"
-#~ msgstr "自動スペルチェク"
-
-#~ msgid "Check Spelling..."
-#~ msgstr "スペルチェック..."
-
-#~ msgid "Allow Tabulations"
-#~ msgstr "タブを許可"
-
-#~ msgid ""
-#~ "_: HTML export folder (files)\n"
-#~ "%1_files"
-#~ msgstr "%1_files"
-
-#~ msgid ""
-#~ "_: HTML export folder (icons)\n"
-#~ "icons"
-#~ msgstr "icons"
-
-#~ msgid ""
-#~ "_: HTML export folder (images)\n"
-#~ "images"
-#~ msgstr "images"
-
-#~ msgid ""
-#~ "_: HTML export folder (baskets)\n"
-#~ "baskets"
-#~ msgstr "baskets"
-
-#~ msgid ""
-#~ "_: HTML export folder (data)\n"
-#~ "data"
-#~ msgstr "data"
-
-#~ msgid "Select Icon"
-#~ msgstr "アイコンを選択"
-
-#~ msgid "&Browse..."
-#~ msgstr "ブラウズ(&B)..."
-
-#~ msgid "(All Icons)"
-#~ msgstr "(すべてのアイコン)"
-
-#~ msgid "(Recent)"
-#~ msgstr "(最近)"
-
-#~ msgid "Actions"
-#~ msgstr "アクション"
-
-#~ msgid "Applications"
-#~ msgstr "アプリケーション"
-
-#~ msgid "Devices"
-#~ msgstr "デバイス"
-
-#~ msgid "Filesystem"
-#~ msgstr "ファイルシステム"
-
-#~ msgid "File Types"
-#~ msgstr "ファイルタイプ"
-
-#~ msgid "*.png *.xpm *.svg *.svgz|Icon Files (*.png *.xpm *.svg *.svgz)"
-#~ msgstr ""
-#~ "*.png *.xpm *.svg *.svgz|アイコンファイル (*.png *.xpm *.svg *.svgz)"
-
-#~ msgid ""
-#~ "_n: Example:\n"
-#~ "Examples:"
-#~ msgstr "例:"
-
-#~ msgid "Basket"
-#~ msgstr "バスケット"
-
-#~ msgid "(Image)"
-#~ msgstr "(画像)"
-
-#~ msgid ""
-#~ "_: RGB Colorspace: Red/Green/Blue\n"
-#~ "RGB"
-#~ msgstr "RGB"
-
-#~ msgid ""
-#~ "_: HSV Colorspace: Hue/Saturation/Value\n"
-#~ "HSV"
-#~ msgstr "HSV"
-
-#~ msgid "KIconDialogUI"
-#~ msgstr "KIconDialogUI"
-
-#~ msgid "Fi&lter:"
-#~ msgstr "フィルタ(&L):"
-
-#~ msgid "Alt+O"
-#~ msgstr "Alt+O"
-
-#~ msgid "Alt+N"
-#~ msgstr "Alt+N"
-
-#~ msgid "Alt+P"
-#~ msgstr "Alt+P"
-
-#~ msgid "Alt+K"
-#~ msgstr "Alt+K"
-
-#~ msgid ""
-#~ "_: From TextFile.txt\n"
-#~ "From %1"
-#~ msgstr "%1 より"
-
-#~ msgid ""
-#~ "_: The initial of 'Idea'\n"
-#~ "I."
-#~ msgstr "I."
-
-#~ msgid ""
-#~ "_: The initial of 'Work'\n"
-#~ "W."
-#~ msgstr "W."
-
-#~ msgid ""
-#~ "_: The initial of 'Personal'\n"
-#~ "P."
-#~ msgstr "P."
-
-#~ msgid ""
-#~ "_: Tag name (shortcut)\n"
-#~ "%1 (%2)"
-#~ msgstr "%1 (%2)"
-
-#~ msgid ""
-#~ "_: Remove tag shortcut\n"
-#~ "&Remove"
-#~ msgstr "削除(&R)"
-
-#~ msgid ""
-#~ "_: Remove tag emblem\n"
-#~ "Remo&ve"
-#~ msgstr "削除(&V)"
-
-#~ msgid ""
-#~ "If filled, this property lets you paste this tag or this state as textual "
-#~ "equivalent."
-#~ msgstr ""
-#~ "これを指定しておくと、このタグまたは状態をテキストとして貼り付けることがで"
-#~ "きます。"
