@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the chessament package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: chessament\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-02-09 10:13+0100\n"
-"PO-Revision-Date: 2025-05-17 21:24+0900\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6
 #: byesmodel.cpp:68
@@ -299,9 +298,7 @@ msgid "Player ID"
 msgstr ""
 
 #. +> trunk6
-#: qml/AddPlayerDialog.qml:80 qml/AddPlayerDialog.qml:86
-#: qml/AddPlayerDialog.qml:92 qml/AddPlayerDialog.qml:98
-#: qml/AddPlayerDialog.qml:104
+#: qml/AddPlayerDialog.qml:80 qml/AddPlayerDialog.qml:86 qml/AddPlayerDialog.qml:92 qml/AddPlayerDialog.qml:98 qml/AddPlayerDialog.qml:104
 msgid "Optional"
 msgstr ""
 
@@ -360,8 +357,7 @@ msgid "Help"
 msgstr ""
 
 #. +> trunk6
-#: qml/components/TiebreakDelegate.qml:31
-#: qml/components/TiebreakDelegate.qml:36
+#: qml/components/TiebreakDelegate.qml:31 qml/components/TiebreakDelegate.qml:36
 msgctxt "@action:button"
 msgid "Configure tiebreak"
 msgstr ""
@@ -802,9 +798,7 @@ msgstr ""
 #. +> trunk6
 #: qml/SortPlayersDialog.qml:27
 msgctxt "@info"
-msgid ""
-"Changing the initial ranking after the fourth round has been paired is not "
-"allowed in official tournaments."
+msgid "Changing the initial ranking after the fourth round has been paired is not allowed in official tournaments."
 msgstr ""
 
 #. +> trunk6
@@ -1127,50 +1121,34 @@ msgid "Invalid pairing \"%1\"."
 msgstr ""
 
 #. +> trunk6
-#: tournament/pairingengine.cpp:86 tournament/pairingengine.cpp:90
-#: tournament/pairingengine.cpp:94 tournament/pairingengine.cpp:98
-#: tournament/trf/reader.cpp:240
+#: tournament/pairingengine.cpp:86 tournament/pairingengine.cpp:90 tournament/pairingengine.cpp:94 tournament/pairingengine.cpp:98 tournament/trf/reader.cpp:240
 #, kde-format
 msgid "Invalid player \"%1\" on pairing \"%2\"."
 msgstr ""
 
 #. +> trunk6
-#: tournament/ratinglist.cpp:133
+#: tournament/ratinglists/ratinglist.cpp:135
 #, kde-format
 msgctxt "@info:progress"
 msgid "Downloading file"
 msgstr ""
 
 #. +> trunk6
-#: tournament/ratinglist.cpp:143
+#: tournament/ratinglists/ratinglist.cpp:145
 #, kde-format
 msgctxt "@info:progress"
 msgid "Downloading file (%1 %)"
 msgstr ""
 
 #. +> trunk6
-#: tournament/ratinglist.cpp:149
+#: tournament/ratinglists/ratinglist.cpp:151
 #, kde-format
 msgctxt "@info"
 msgid "Couldn't download rating list: %1"
 msgstr ""
 
 #. +> trunk6
-#: tournament/ratinglist.cpp:161
-#, kde-format
-msgctxt "@info"
-msgid "Couldn't extract file."
-msgstr ""
-
-#. +> trunk6
-#: tournament/ratinglist.cpp:166
-#, kde-format
-msgctxt "@info"
-msgid "File format not supported."
-msgstr ""
-
-#. +> trunk6
-#: tournament/ratinglist.cpp:186
+#: tournament/ratinglists/ratinglist.cpp:169
 #, kde-format
 msgctxt "@info:progress"
 msgid "Imported one player."
@@ -1178,7 +1156,21 @@ msgid_plural "Imported %1 players."
 msgstr[0] ""
 
 #. +> trunk6
-#: tournament/ratinglist.cpp:360
+#: tournament/ratinglists/ratinglist.cpp:180
+#, kde-format
+msgctxt "@info"
+msgid "Couldn't extract file."
+msgstr ""
+
+#. +> trunk6
+#: tournament/ratinglists/ratinglist.cpp:185
+#, kde-format
+msgctxt "@info"
+msgid "File format not supported."
+msgstr ""
+
+#. +> trunk6
+#: tournament/ratinglists/ratinglist.cpp:332
 #, kde-format
 msgctxt "@info:progress"
 msgid "Saved 1 player."
@@ -1235,8 +1227,7 @@ msgid "Number of Games Played with Black (over the board)"
 msgstr ""
 
 #. +> trunk6
-#: tournament/tiebreaks/points.h:22 tournament/tiebreaks/points.h:27
-#: tournament/tournament.cpp:483
+#: tournament/tiebreaks/points.h:22 tournament/tiebreaks/points.h:27 tournament/tournament.cpp:483
 #, kde-format
 msgctxt "Game points"
 msgid "Points"
@@ -1245,9 +1236,7 @@ msgstr ""
 #. +> trunk6
 #: tournament/tiebreaks/won.h:23 tournament/tournament.cpp:497
 #, kde-format
-msgctxt ""
-"Number of Games Won (over the board) tiebreak. Different from the 'Number of "
-"Wins' tiebreak, which includes games won by forfeit."
+msgctxt "Number of Games Won (over the board) tiebreak. Different from the 'Number of Wins' tiebreak, which includes games won by forfeit."
 msgid "Number of Games Won (over the board)"
 msgstr ""
 
