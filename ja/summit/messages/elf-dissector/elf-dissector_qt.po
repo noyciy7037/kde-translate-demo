@@ -1,17 +1,12 @@
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: elf-dissector_qt\n"
-"POT-Creation-Date: 2025-07-15 10:29+0200\n"
-"PO-Revision-Date: 2019-07-12 22:08-0700\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: qtrich\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6
 #: 3rdparty/treemap/treemap.cpp:1342
@@ -394,9 +389,7 @@ msgstr ""
 #. +> trunk6
 #: ui/navigator/codenavigator.cpp:112
 msgctxt "QObject|"
-msgid ""
-"Specify command to use for code navigation, '%f' will be replaced by the "
-"file name, '%l' by the line number."
+msgid "Specify command to use for code navigation, '%f' will be replaced by the file name, '%l' by the line number."
 msgstr ""
 
 #. +> trunk6
@@ -418,9 +411,7 @@ msgid "Top Down"
 msgstr ""
 
 #. +> trunk6
-#: ui/views/dependencyview.ui:34 ui/views/dependencyview.ui:55
-#: ui/views/dependencyview.ui:93 ui/views/dependencyview.ui:117
-#: ui/views/dependencyview.ui:141 ui/views/dependencyview.ui:178
+#: ui/views/dependencyview.ui:34 ui/views/dependencyview.ui:55 ui/views/dependencyview.ui:93 ui/views/dependencyview.ui:117 ui/views/dependencyview.ui:141 ui/views/dependencyview.ui:178
 msgctxt "DependencyView|"
 msgid "Search"
 msgstr ""
@@ -554,8 +545,7 @@ msgstr ""
 #. +> trunk6
 #: ui/views/sizetreemapview.ui:132
 msgctxt "SizeTreeMapView|"
-msgid ""
-"Do not show content from sections that are not loaded into memory at runtime."
+msgid "Do not show content from sections that are not loaded into memory at runtime."
 msgstr ""
 
 #. +> trunk6
@@ -597,9 +587,7 @@ msgstr ""
 #. +> trunk6
 #: ui/views/typeview.cpp:51 ui/views/typeview.cpp:63
 msgctxt "TypeView|"
-msgid ""
-"An error occurred while reading DWARF data of some ELF objects, the tree "
-"will be incomplete."
+msgid "An error occurred while reading DWARF data of some ELF objects, the tree will be incomplete."
 msgstr ""
 
 #. +> trunk6
@@ -611,10 +599,7 @@ msgstr ""
 #. +> trunk6
 #: ui/views/typeview.cpp:58
 msgctxt "TypeView|"
-msgid ""
-"Computing the type tree from DWARF data can take up to several minutes in "
-"which the application will not respond, and use up to 1.5GB of memory. "
-"Proceed anyway?"
+msgid "Computing the type tree from DWARF data can take up to several minutes in which the application will not respond, and use up to 1.5GB of memory. Proceed anyway?"
 msgstr ""
 
 #. +> trunk6
