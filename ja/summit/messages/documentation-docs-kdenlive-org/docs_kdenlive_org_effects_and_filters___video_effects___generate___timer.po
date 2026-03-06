@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the  <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License SA 4.0</a> unless stated otherwise
+# This file is distributed under the same license as the Kdenlive Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Kdenlive Manual \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-13 09:59+0100\n"
-"PO-Revision-Date: 2023-07-13 18:05-0700\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Kdenlive Manual 25.12\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../<rst_epilog>:310
@@ -75,8 +74,7 @@ msgid "|linux| |appimage| |windows| |apple|"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/generate/timer.rst:34
-#: ../../effects_and_filters/video_effects/generate/timer.rst:36
+#: ../../effects_and_filters/video_effects/generate/timer.rst:34 ../../effects_and_filters/video_effects/generate/timer.rst:36
 msgid "No"
 msgstr ""
 
@@ -91,16 +89,13 @@ msgid ":ref:`Yes <tutorials-timer>` |view-presentation|"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/generate/timer.rst:46
-#: ../../effects_and_filters/video_effects/generate/timer.rst:60
+#: ../../effects_and_filters/video_effects/generate/timer.rst:46 ../../effects_and_filters/video_effects/generate/timer.rst:60
 msgid "Description"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/generate/timer.rst:47
-msgid ""
-"This effect/filter overlays a timer onto the video. The timer can count up "
-"or down."
+msgid "This effect/filter overlays a timer onto the video. The timer can count up or down."
 msgstr ""
 
 #. +> trunk5
@@ -130,9 +125,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/generate/timer.rst:63
-msgid ""
-"Select the font and its attributes for the text. **Font Weight** seems to "
-"behave differently depending on the selected font family."
+msgid "Select the font and its attributes for the text. **Font Weight** seems to behave differently depending on the selected font family."
 msgstr ""
 
 #. +> trunk5
@@ -141,8 +134,7 @@ msgid "Outline Width"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/generate/timer.rst:65
-#: ../../effects_and_filters/video_effects/generate/timer.rst:68
+#: ../../effects_and_filters/video_effects/generate/timer.rst:65 ../../effects_and_filters/video_effects/generate/timer.rst:68
 msgid "Integer"
 msgstr ""
 
@@ -158,8 +150,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/generate/timer.rst:69
-msgid ""
-"The number of pixels to pad the background rectangle beyond the edges of text"
+msgid "The number of pixels to pad the background rectangle beyond the edges of text"
 msgstr ""
 
 #. +> trunk5
@@ -168,9 +159,7 @@ msgid "Horizontal / Vertical Alignment"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/generate/timer.rst:71
-#: ../../effects_and_filters/video_effects/generate/timer.rst:74
-#: ../../effects_and_filters/video_effects/generate/timer.rst:86
+#: ../../effects_and_filters/video_effects/generate/timer.rst:71 ../../effects_and_filters/video_effects/generate/timer.rst:74 ../../effects_and_filters/video_effects/generate/timer.rst:86
 msgid "Selection"
 msgstr ""
 
@@ -195,18 +184,13 @@ msgid "Start"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/generate/timer.rst:77
-#: ../../effects_and_filters/video_effects/generate/timer.rst:80
-#: ../../effects_and_filters/video_effects/generate/timer.rst:83
+#: ../../effects_and_filters/video_effects/generate/timer.rst:77 ../../effects_and_filters/video_effects/generate/timer.rst:80 ../../effects_and_filters/video_effects/generate/timer.rst:83
 msgid "Slider"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/generate/timer.rst:78
-msgid ""
-"The time that the timer will start counting up or down. The text will be "
-"frozen at 00:00:00.000 from the start of the filter until the start time has "
-"elapsed."
+msgid "The time that the timer will start counting up or down. The text will be frozen at 00:00:00.000 from the start of the filter until the start time has elapsed."
 msgstr ""
 
 #. +> trunk5
@@ -216,9 +200,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/generate/timer.rst:81
-msgid ""
-"The maximum elapsed duration of the timer after the start time has elapsed. "
-"The text will be frozen at the duration time after the duration has elapsed."
+msgid "The maximum elapsed duration of the timer after the start time has elapsed. The text will be frozen at the duration time after the duration has elapsed."
 msgstr ""
 
 #. +> trunk5
@@ -229,9 +211,8 @@ msgstr ""
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/generate/timer.rst:84
 msgid ""
-"An offset to be added to the timer value. When the direction is \"down\", "
-"the timer will count down to \"offset\" instead of 00:00:00.000. When the "
-"direction is up, the timer will count up starting from \"offset\"."
+"An offset to be added to the timer value. When the direction is \"down\", the timer will count down to \"offset\" instead of 00:00:00.000. When the direction is up, the timer will count up starting "
+"from \"offset\"."
 msgstr ""
 
 #. +> trunk5
@@ -241,9 +222,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/generate/timer.rst:87
-msgid ""
-"Whether the counter should count **up** from 00:00:00.000 or **down** from "
-"the duration time."
+msgid "Whether the counter should count **up** from 00:00:00.000 or **down** from the duration time."
 msgstr ""
 
 #. +> trunk5
@@ -258,10 +237,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/generate/timer.rst:90
-msgid ""
-"X and Y coordinates, Width and Height, Size and Opacity of the overlay "
-"rectangle. You can use these parameters to fine tune the position, size "
-"and :term:`opacity` of the overlay."
+msgid "X and Y coordinates, Width and Height, Size and Opacity of the overlay rectangle. You can use these parameters to fine tune the position, size and :term:`opacity` of the overlay."
 msgstr ""
 
 #. +> trunk5
@@ -276,10 +252,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/generate/timer.rst:93
-msgid ""
-"Specify the colors for the text (foreground), the background rectangle "
-"defined by :guilabel:`Padding` and the outline color (if :guilabel:`Outline "
-"Width` is greater than 0)."
+msgid "Specify the colors for the text (foreground), the background rectangle defined by :guilabel:`Padding` and the outline color (if :guilabel:`Outline Width` is greater than 0)."
 msgstr ""
 
 #. +> trunk5
@@ -454,22 +427,17 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/generate/timer.rst:155
-msgid ""
-"In order to use a semi-transparent background color, click on the color "
-"panel, click on :guilabel:`+` and use the horizontal slider to change the "
-"transparency."
+msgid "In order to use a semi-transparent background color, click on the color panel, click on :guilabel:`+` and use the horizontal slider to change the transparency."
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/generate/timer.rst:-1
+#: ../../effects_and_filters/video_effects/generate/timer.rst:-1:
 msgid "Kdenlive Video Effects - Timer"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/generate/timer.rst:-1
-msgid ""
-"KDE, Kdenlive, video editor, help, learn, easy, effects, filter, video "
-"effects, generate, timer"
+#: ../../effects_and_filters/video_effects/generate/timer.rst:-1:
+msgid "KDE, Kdenlive, video editor, help, learn, easy, effects, filter, video effects, generate, timer"
 msgstr ""
 
 #. +> trunk5

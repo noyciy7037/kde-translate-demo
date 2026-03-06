@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the  <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License SA 4.0</a> unless stated otherwise
+# This file is distributed under the same license as the Kdenlive Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Kdenlive Manual \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-13 09:59+0100\n"
-"PO-Revision-Date: 2023-07-23 18:22-0700\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Kdenlive Manual 25.12\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../<rst_epilog>:310
@@ -50,8 +49,7 @@ msgid "Maintained"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/on_master/light_show.rst:26
-#: ../../effects_and_filters/video_effects/on_master/light_show.rst:34
+#: ../../effects_and_filters/video_effects/on_master/light_show.rst:26 ../../effects_and_filters/video_effects/on_master/light_show.rst:34
 msgid "Yes"
 msgstr ""
 
@@ -76,16 +74,13 @@ msgid "No"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/on_master/light_show.rst:42
-#: ../../effects_and_filters/video_effects/on_master/light_show.rst:56
+#: ../../effects_and_filters/video_effects/on_master/light_show.rst:42 ../../effects_and_filters/video_effects/on_master/light_show.rst:56
 msgid "Description"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/on_master/light_show.rst:43
-msgid ""
-"This effect/filter is an audio visualization effect that colors the image "
-"proportional to the magnitude of the audio spectrum."
+msgid "This effect/filter is an audio visualization effect that colors the image proportional to the magnitude of the audio spectrum."
 msgstr ""
 
 #. +> trunk5
@@ -109,18 +104,14 @@ msgid "Low Frequency"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/on_master/light_show.rst:58
-#: ../../effects_and_filters/video_effects/on_master/light_show.rst:61
-#: ../../effects_and_filters/video_effects/on_master/light_show.rst:64
-#: ../../effects_and_filters/video_effects/on_master/light_show.rst:67
+#: ../../effects_and_filters/video_effects/on_master/light_show.rst:58 ../../effects_and_filters/video_effects/on_master/light_show.rst:61
+#: ../../effects_and_filters/video_effects/on_master/light_show.rst:64 ../../effects_and_filters/video_effects/on_master/light_show.rst:67
 msgid "Integer"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/on_master/light_show.rst:59
-msgid ""
-"The low end of the frequency range to be used to influence the image changes "
-"(:abbr:`Hz (Hertz)`)"
+msgid "The low end of the frequency range to be used to influence the image changes (:abbr:`Hz (Hertz)`)"
 msgstr ""
 
 #. +> trunk5
@@ -130,9 +121,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/on_master/light_show.rst:62
-msgid ""
-"The high end of the frequency range to be used to influence the image "
-"changes (:abbr:`Hz (Hertz)`)"
+msgid "The high end of the frequency range to be used to influence the image changes (:abbr:`Hz (Hertz)`)"
 msgstr ""
 
 #. +> trunk5
@@ -142,9 +131,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/on_master/light_show.rst:65
-msgid ""
-"The minimum amplitude of sound that must occur within the frequency range to "
-"cause the image to be changed (:abbr:`dB (decibel)`)"
+msgid "The minimum amplitude of sound that must occur within the frequency range to cause the image to be changed (:abbr:`dB (decibel)`)"
 msgstr ""
 
 #. +> trunk5
@@ -154,9 +141,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/on_master/light_show.rst:68
-msgid ""
-"Oscillation can be useful to make the image move back and forth during long "
-"periods of sound (:abbr:`Hz (Hertz)`). A value of 0 specifies no oscillation."
+msgid "Oscillation can be useful to make the image move back and forth during long periods of sound (:abbr:`Hz (Hertz)`). A value of 0 specifies no oscillation."
 msgstr ""
 
 #. +> trunk5
@@ -175,15 +160,13 @@ msgid "The color of the gradient used for lightening or darkening the image"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/on_master/light_show.rst:-1
+#: ../../effects_and_filters/video_effects/on_master/light_show.rst:-1:
 msgid "Kdenlive Video Effects - Light Show"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/on_master/light_show.rst:-1
-msgid ""
-"KDE, Kdenlive, video editor, help, learn, easy, effects, filter, video "
-"effects, misc, miscellaneous, light show"
+#: ../../effects_and_filters/video_effects/on_master/light_show.rst:-1:
+msgid "KDE, Kdenlive, video editor, help, learn, easy, effects, filter, video effects, misc, miscellaneous, light show"
 msgstr ""
 
 #. +> trunk5

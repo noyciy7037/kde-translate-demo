@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the  <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License SA 4.0</a> unless stated otherwise
+# This file is distributed under the same license as the Kdenlive Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Kdenlive Manual \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-13 09:59+0100\n"
-"PO-Revision-Date: 2023-07-28 19:11-0700\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Kdenlive Manual 25.12\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../<rst_epilog>:50
@@ -75,9 +74,7 @@ msgid "|linux| |appimage| |windows| |apple|"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/stylize/pixelize.rst:34
-#: ../../effects_and_filters/video_effects/stylize/pixelize.rst:36
-#: ../../effects_and_filters/video_effects/stylize/pixelize.rst:40
+#: ../../effects_and_filters/video_effects/stylize/pixelize.rst:34 ../../effects_and_filters/video_effects/stylize/pixelize.rst:36 ../../effects_and_filters/video_effects/stylize/pixelize.rst:40
 msgid "No"
 msgstr ""
 
@@ -87,29 +84,23 @@ msgid "10bit |color-management|"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/stylize/pixelize.rst:46
-#: ../../effects_and_filters/video_effects/stylize/pixelize.rst:61
+#: ../../effects_and_filters/video_effects/stylize/pixelize.rst:46 ../../effects_and_filters/video_effects/stylize/pixelize.rst:61
 msgid "Description"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/stylize/pixelize.rst:47
 msgid ""
-"This effect/filter pixelizes the input image. It works similar to the :doc:`/"
-"effects_and_filters/video_effects/alpha_mask_keying/obscure` effect but "
-"allows you to control the block size individually and independently from the "
-"image size, but by contrast applies it to the entire frame. In order to "
-"apply the effect only to a certain region use it in combination with "
-"the :doc:`/effects_and_filters/video_effects/alpha_mask_keying/"
-"alpha_shapes_mask` effect."
+"This effect/filter pixelizes the input image. It works similar to the :doc:`/effects_and_filters/video_effects/alpha_mask_keying/obscure` effect but allows you to control the block size individually"
+" and independently from the image size, but by contrast applies it to the entire frame. In order to apply the effect only to a certain region use it in combination with the "
+":doc:`/effects_and_filters/video_effects/alpha_mask_keying/alpha_shapes_mask` effect."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/stylize/pixelize.rst:49
 msgid ""
-"The result is the same as using the :doc:`/effects_and_filters/video_effects/"
-"stylize/pixeliz0r` effect, but **Pixelize (advanced)** allows to choose the "
-"pixelization mode and which color channel to apply the pixelization to."
+"The result is the same as using the :doc:`/effects_and_filters/video_effects/stylize/pixeliz0r` effect, but **Pixelize (advanced)** allows to choose the pixelization mode and which color channel to "
+"apply the pixelization to."
 msgstr ""
 
 #. +> trunk5
@@ -133,8 +124,7 @@ msgid "Pixelize Mode"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/stylize/pixelize.rst:63
-#: ../../effects_and_filters/video_effects/stylize/pixelize.rst:66
+#: ../../effects_and_filters/video_effects/stylize/pixelize.rst:63 ../../effects_and_filters/video_effects/stylize/pixelize.rst:66
 msgid "Selection"
 msgstr ""
 
@@ -159,8 +149,7 @@ msgid "Block Width"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/stylize/pixelize.rst:69
-#: ../../effects_and_filters/video_effects/stylize/pixelize.rst:72
+#: ../../effects_and_filters/video_effects/stylize/pixelize.rst:69 ../../effects_and_filters/video_effects/stylize/pixelize.rst:72
 msgid "Integer"
 msgstr ""
 
@@ -180,15 +169,13 @@ msgid "Vertical size of one \"pixel\""
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/stylize/pixelize.rst:-1
+#: ../../effects_and_filters/video_effects/stylize/pixelize.rst:-1:
 msgid "Kdenlive Video Effects - Pixelize (advanced)"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/stylize/pixelize.rst:-1
-msgid ""
-"KDE, Kdenlive, video editor, help, learn, easy, effects, filter, video "
-"effects, stylize, pixelize, advanced, 10bit"
+#: ../../effects_and_filters/video_effects/stylize/pixelize.rst:-1:
+msgid "KDE, Kdenlive, video editor, help, learn, easy, effects, filter, video effects, stylize, pixelize, advanced, 10bit"
 msgstr ""
 
 #. +> trunk5

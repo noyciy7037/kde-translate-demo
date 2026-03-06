@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the  <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License SA 4.0</a> unless stated otherwise
+# This file is distributed under the same license as the Kdenlive Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Kdenlive Manual \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-13 09:59+0100\n"
-"PO-Revision-Date: 2021-11-20 18:29-0800\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Kdenlive Manual 25.12\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../<rst_epilog>:310
@@ -46,9 +45,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/deprecated/rotate_and_shear.rst:22
-msgid ""
-"Replaced by :doc:`/effects_and_filters/video_effects/"
-"transform_distort_perspective/shear`."
+msgid "Replaced by :doc:`/effects_and_filters/video_effects/transform_distort_perspective/shear`."
 msgstr ""
 
 #. +> trunk5
@@ -77,14 +74,12 @@ msgid "|linux| |appimage| |windows| |apple|"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/deprecated/rotate_and_shear.rst:43
-#: ../../effects_and_filters/video_effects/deprecated/rotate_and_shear.rst:45
+#: ../../effects_and_filters/video_effects/deprecated/rotate_and_shear.rst:43 ../../effects_and_filters/video_effects/deprecated/rotate_and_shear.rst:45
 msgid "No"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/deprecated/rotate_and_shear.rst:51
-#: ../../effects_and_filters/video_effects/deprecated/rotate_and_shear.rst:67
+#: ../../effects_and_filters/video_effects/deprecated/rotate_and_shear.rst:51 ../../effects_and_filters/video_effects/deprecated/rotate_and_shear.rst:67
 msgid "Description"
 msgstr ""
 
@@ -95,9 +90,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/deprecated/rotate_and_shear.rst:54
-msgid ""
-"The effect has keyframes but not for the rotation and the shear degrees. "
-"This is controlled by the :guilabel:`Animate` parameters."
+msgid "The effect has keyframes but not for the rotation and the shear degrees. This is controlled by the :guilabel:`Animate` parameters."
 msgstr ""
 
 #. +> trunk5
@@ -122,9 +115,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/deprecated/rotate_and_shear.rst:70
-msgid ""
-"Set the amount of rotation in ``degrees * 10``. For example: 900 = 90 "
-"degrees rotation."
+msgid "Set the amount of rotation in ``degrees * 10``. For example: 900 = 90 degrees rotation."
 msgstr ""
 
 #. +> trunk5
@@ -134,8 +125,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/deprecated/rotate_and_shear.rst:73
-msgid ""
-"Same as :guilabel:`Rotate`. The clip is rotated by that amount every frame."
+msgid "Same as :guilabel:`Rotate`. The clip is rotated by that amount every frame."
 msgstr ""
 
 #. +> trunk5
@@ -145,9 +135,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/deprecated/rotate_and_shear.rst:76
-msgid ""
-"Set the amount of shear in ``degrees * 10``. For example: 450 = 45 degrees "
-"shear (diagonal)."
+msgid "Set the amount of shear in ``degrees * 10``. For example: 450 = 45 degrees shear (diagonal)."
 msgstr ""
 
 #. +> trunk5
@@ -157,8 +145,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/deprecated/rotate_and_shear.rst:79
-msgid ""
-"Same as :guilabel:`Shear`. The clip is sheared by that amount every frame."
+msgid "Same as :guilabel:`Shear`. The clip is sheared by that amount every frame."
 msgstr ""
 
 #. +> trunk5
@@ -178,21 +165,15 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/deprecated/rotate_and_shear.rst:85
-msgid ""
-"Define the background color to be used when rotating or shearing reveals the "
-"background. Default is Alpha."
+msgid "Define the background color to be used when rotating or shearing reveals the background. Default is Alpha."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/deprecated/rotate_and_shear.rst:89
 msgid ""
-"The axes for rotation and shear are different than for moving a clip. The "
-"latter uses the monitor plane: X = width or horizontal axis, Y = height or "
-"vertical axis. For rotation and shear the plane is tilted by 90 degrees "
-"\"into the monitor\" and rotated 90 degrees clockwise around the vertical "
-"axis. This results in the X axis coming out of/going into the monitor, the Y "
-"axis being along the width of the monitor and the Z axis being along the "
-"height of the monitor. See image below."
+"The axes for rotation and shear are different than for moving a clip. The latter uses the monitor plane: X = width or horizontal axis, Y = height or vertical axis. For rotation and shear the plane "
+"is tilted by 90 degrees \"into the monitor\" and rotated 90 degrees clockwise around the vertical axis. This results in the X axis coming out of/going into the monitor, the Y axis being along the "
+"width of the monitor and the Z axis being along the height of the monitor. See image below."
 msgstr ""
 
 #. +> trunk5
@@ -201,15 +182,13 @@ msgid "Rotate and Shear effect axis visualization"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/deprecated/rotate_and_shear.rst:-1
+#: ../../effects_and_filters/video_effects/deprecated/rotate_and_shear.rst:-1:
 msgid "Kdenlive Video Effects - Rotate and Shear"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/deprecated/rotate_and_shear.rst:-1
-msgid ""
-"KDE, Kdenlive, video editor, help, learn, easy, effects, filter, video "
-"effects, transform, distort, perspective, rotate and shear"
+#: ../../effects_and_filters/video_effects/deprecated/rotate_and_shear.rst:-1:
+msgid "KDE, Kdenlive, video editor, help, learn, easy, effects, filter, video effects, transform, distort, perspective, rotate and shear"
 msgstr ""
 
 #. +> trunk5

@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the  <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License SA 4.0</a> unless stated otherwise
+# This file is distributed under the same license as the Kdenlive Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Kdenlive Manual \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-13 09:59+0100\n"
-"PO-Revision-Date: 2023-07-05 23:36-0700\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Kdenlive Manual 25.12\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../<rst_epilog>:310
@@ -70,14 +69,12 @@ msgid "|linux| |appimage| |windows| |apple|"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/blur_and_sharpen/dblur.rst:33
-#: ../../effects_and_filters/video_effects/blur_and_sharpen/dblur.rst:35
+#: ../../effects_and_filters/video_effects/blur_and_sharpen/dblur.rst:33 ../../effects_and_filters/video_effects/blur_and_sharpen/dblur.rst:35
 msgid "No"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/blur_and_sharpen/dblur.rst:41
-#: ../../effects_and_filters/video_effects/blur_and_sharpen/dblur.rst:55
+#: ../../effects_and_filters/video_effects/blur_and_sharpen/dblur.rst:41 ../../effects_and_filters/video_effects/blur_and_sharpen/dblur.rst:55
 msgid "Description"
 msgstr ""
 
@@ -128,9 +125,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/blur_and_sharpen/dblur.rst:61
-msgid ""
-"Sets the angle for the direction. Range is from 0.0 to 360.0, default is "
-"45.0."
+msgid "Sets the angle for the direction. Range is from 0.0 to 360.0, default is 45.0."
 msgstr ""
 
 #. +> trunk5
@@ -145,8 +140,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/blur_and_sharpen/dblur.rst:64
-msgid ""
-"Sets the radius for the direction. Range is from 0 to 8192, default is 5."
+msgid "Sets the radius for the direction. Range is from 0 to 8192, default is 5."
 msgstr ""
 
 #. +> trunk5
@@ -221,31 +215,26 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/blur_and_sharpen/dblur.rst:90
-msgid ""
-"Using the slider or mouse wheel for :guilabel:`av.radius` results in large "
-"fixed increments and therefore overly strong blur effects. It is recommended "
-"to use direct input for better results."
+msgid "Using the slider or mouse wheel for :guilabel:`av.radius` results in large fixed increments and therefore overly strong blur effects. It is recommended to use direct input for better results."
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/blur_and_sharpen/dblur.rst:-1
+#: ../../effects_and_filters/video_effects/blur_and_sharpen/dblur.rst:-1:
 msgid "Kdenlive Video Effects - Directional Blur (dblur)"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/blur_and_sharpen/dblur.rst:-1
-msgid ""
-"KDE, Kdenlive, video editor, help, learn, easy, effects, filter, video "
-"effects, blur and sharpen, dblur, directional blur "
+#: ../../effects_and_filters/video_effects/blur_and_sharpen/dblur.rst:-1:
+msgid "KDE, Kdenlive, video editor, help, learn, easy, effects, filter, video effects, blur and sharpen, dblur, directional blur "
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/blur_and_sharpen/dblur.rst:-1
+#: ../../effects_and_filters/video_effects/blur_and_sharpen/dblur.rst:-1:
 msgid "- Bernd Jordan (https://discuss.kde.org/u/berndmj) "
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/blur_and_sharpen/dblur.rst:-1
+#: ../../effects_and_filters/video_effects/blur_and_sharpen/dblur.rst:-1:
 msgid "Creative Commons License SA 4.0"
 msgstr ""
 

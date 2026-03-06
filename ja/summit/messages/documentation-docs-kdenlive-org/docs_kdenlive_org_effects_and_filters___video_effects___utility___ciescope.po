@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the  <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License SA 4.0</a> unless stated otherwise
+# This file is distributed under the same license as the Kdenlive Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Kdenlive Manual \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-13 09:59+0100\n"
-"PO-Revision-Date: 2023-08-05 14:38-0700\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Kdenlive Manual 25.12\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../<rst_epilog>:50
@@ -55,9 +54,7 @@ msgid "Maintained"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/utility/ciescope.rst:32
-#: ../../effects_and_filters/video_effects/utility/ciescope.rst:40
-#: ../../effects_and_filters/video_effects/utility/ciescope.rst:42
+#: ../../effects_and_filters/video_effects/utility/ciescope.rst:32 ../../effects_and_filters/video_effects/utility/ciescope.rst:40 ../../effects_and_filters/video_effects/utility/ciescope.rst:42
 #: ../../effects_and_filters/video_effects/utility/ciescope.rst:46
 msgid "No"
 msgstr ""
@@ -83,31 +80,22 @@ msgid "10bit |color-management|"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/utility/ciescope.rst:52
-#: ../../effects_and_filters/video_effects/utility/ciescope.rst:68
+#: ../../effects_and_filters/video_effects/utility/ciescope.rst:52 ../../effects_and_filters/video_effects/utility/ciescope.rst:68
 msgid "Description"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/utility/ciescope.rst:53
-msgid ""
-"This effect/filter displays a :abbr:`CIE(Commission internationale de "
-"l'éclairage, French for International Commission on Illumination)` color "
-"diagram with overlaid input pixels."
+msgid "This effect/filter displays a :abbr:`CIE(Commission internationale de l'éclairage, French for International Commission on Illumination)` color diagram with overlaid input pixels."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/utility/ciescope.rst:55
 msgid ""
-"The effect uses the pixel format of the clip it is applied on in "
-"compositing. By default, CIE Scope just displays the scope, so if you want "
-"to overlay it on the clip itself, you need to put the clip in the track "
-"below. If that clip does not have an alpha channel, the scope will not "
-"overlay but obscure the clip below. You can add an :doc:`/"
-"effects_and_filters/video_effects/alpha_mask_keying/alpha_shapes` effect to "
-"the clip, set the operations mode to :guilabel:`Min`, and adjust the size of "
-"the rectangle to the scope dimensions and thus get the CIE Scope to overlay "
-"the clip."
+"The effect uses the pixel format of the clip it is applied on in compositing. By default, CIE Scope just displays the scope, so if you want to overlay it on the clip itself, you need to put the clip"
+" in the track below. If that clip does not have an alpha channel, the scope will not overlay but obscure the clip below. You can add an "
+":doc:`/effects_and_filters/video_effects/alpha_mask_keying/alpha_shapes` effect to the clip, set the operations mode to :guilabel:`Min`, and adjust the size of the rectangle to the scope dimensions "
+"and thus get the CIE Scope to overlay the clip."
 msgstr ""
 
 #. +> trunk5
@@ -131,9 +119,7 @@ msgid "Color System"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/utility/ciescope.rst:70
-#: ../../effects_and_filters/video_effects/utility/ciescope.rst:73
-#: ../../effects_and_filters/video_effects/utility/ciescope.rst:76
+#: ../../effects_and_filters/video_effects/utility/ciescope.rst:70 ../../effects_and_filters/video_effects/utility/ciescope.rst:73 ../../effects_and_filters/video_effects/utility/ciescope.rst:76
 msgid "Selection"
 msgstr ""
 
@@ -183,9 +169,7 @@ msgid "Intensity"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/utility/ciescope.rst:82
-#: ../../effects_and_filters/video_effects/utility/ciescope.rst:85
-#: ../../effects_and_filters/video_effects/utility/ciescope.rst:94
+#: ../../effects_and_filters/video_effects/utility/ciescope.rst:82 ../../effects_and_filters/video_effects/utility/ciescope.rst:85 ../../effects_and_filters/video_effects/utility/ciescope.rst:94
 msgid "Float"
 msgstr ""
 
@@ -201,9 +185,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/utility/ciescope.rst:86
-msgid ""
-"Set contrast used to draw tongue colors that are out of active color system "
-"gamut"
+msgid "Set contrast used to draw tongue colors that are out of active color system gamut"
 msgstr ""
 
 #. +> trunk5
@@ -212,9 +194,7 @@ msgid "Display Correct Gamma"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/utility/ciescope.rst:88
-#: ../../effects_and_filters/video_effects/utility/ciescope.rst:91
-#: ../../effects_and_filters/video_effects/utility/ciescope.rst:97
+#: ../../effects_and_filters/video_effects/utility/ciescope.rst:88 ../../effects_and_filters/video_effects/utility/ciescope.rst:91 ../../effects_and_filters/video_effects/utility/ciescope.rst:97
 msgid "Switch"
 msgstr ""
 
@@ -270,9 +250,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/utility/ciescope.rst:110
-msgid ""
-"American standard for color TV. For the color space relevance, refer to |"
-"cie_ntsc| in Wikipedia."
+msgid "American standard for color TV. For the color space relevance, refer to |cie_ntsc| in Wikipedia."
 msgstr ""
 
 #. +> trunk5
@@ -307,9 +285,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/utility/ciescope.rst:118
-msgid ""
-"Color space used by the Society of Motion Picture and Television Engineers "
-"(SMPTE)"
+msgid "Color space used by the Society of Motion Picture and Television Engineers (SMPTE)"
 msgstr ""
 
 #. +> trunk5
@@ -444,9 +420,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/utility/ciescope.rst:162
-msgid ""
-"This shows the CIE Scope effect with the default settings. Depending on your "
-"source material the pixel distribution will look differently."
+msgid "This shows the CIE Scope effect with the default settings. Depending on your source material the pixel distribution will look differently."
 msgstr ""
 
 #. +> trunk5
@@ -455,8 +429,7 @@ msgid "CIE Scope Example 2"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/utility/ciescope.rst:173
-#: ../../effects_and_filters/video_effects/utility/ciescope.rst:190
+#: ../../effects_and_filters/video_effects/utility/ciescope.rst:173 ../../effects_and_filters/video_effects/utility/ciescope.rst:190
 msgid "This shows the CIE Scope effect with the following settings:"
 msgstr ""
 
@@ -467,9 +440,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/utility/ciescope.rst:232
-msgid ""
-"For more information about the color space models, refer to the |"
-"rgb_color_space_models| page on Wikipedia"
+msgid "For more information about the color space models, refer to the |rgb_color_space_models| page on Wikipedia"
 msgstr ""
 
 #. +> trunk5
@@ -503,15 +474,13 @@ msgid "|cie_luv|"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/utility/ciescope.rst:-1
+#: ../../effects_and_filters/video_effects/utility/ciescope.rst:-1:
 msgid "Kdenlive Video Effects - CIE Scope"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/utility/ciescope.rst:-1
-msgid ""
-"KDE, Kdenlive, video editor, help, learn, easy, effects, filter, video "
-"effects, utility, ciescope, scope, cie"
+#: ../../effects_and_filters/video_effects/utility/ciescope.rst:-1:
+msgid "KDE, Kdenlive, video editor, help, learn, easy, effects, filter, video effects, utility, ciescope, scope, cie"
 msgstr ""
 
 #. +> trunk5

@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the  <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License SA 4.0</a> unless stated otherwise
+# This file is distributed under the same license as the Kdenlive Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Kdenlive Manual \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-13 09:59+0100\n"
-"PO-Revision-Date: 2021-11-20 18:29-0800\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Kdenlive Manual 25.12\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../<rst_epilog>:310
@@ -50,8 +49,7 @@ msgid "Maintained"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/transform_distort_perspective/mirror.rst:26
-#: ../../effects_and_filters/video_effects/transform_distort_perspective/mirror.rst:34
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/mirror.rst:26 ../../effects_and_filters/video_effects/transform_distort_perspective/mirror.rst:34
 #: ../../effects_and_filters/video_effects/transform_distort_perspective/mirror.rst:36
 msgid "No"
 msgstr ""
@@ -72,20 +70,16 @@ msgid "|linux| |appimage| |windows| |apple|"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/transform_distort_perspective/mirror.rst:42
-#: ../../effects_and_filters/video_effects/transform_distort_perspective/mirror.rst:56
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/mirror.rst:42 ../../effects_and_filters/video_effects/transform_distort_perspective/mirror.rst:56
 msgid "Description"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/transform_distort_perspective/mirror.rst:43
 msgid ""
-"This effect/filter mirrors your image in any direction. It can also flip it "
-"horizontally and vertically.  Compare :doc:`/effects_and_filters/"
-"video_effects/transform_distort_perspective/flip_vertically`, :doc:`/"
-"effects_and_filters/video_effects/transform_distort_perspective/"
-"flip_horizontally` and :doc:`/effects_and_filters/video_effects/"
-"transform_distort_perspective/flippo` effects."
+"This effect/filter mirrors your image in any direction. It can also flip it horizontally and vertically.  Compare "
+":doc:`/effects_and_filters/video_effects/transform_distort_perspective/flip_vertically`, :doc:`/effects_and_filters/video_effects/transform_distort_perspective/flip_horizontally` and "
+":doc:`/effects_and_filters/video_effects/transform_distort_perspective/flippo` effects."
 msgstr ""
 
 #. +> trunk5
@@ -115,9 +109,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/transform_distort_perspective/mirror.rst:59
-msgid ""
-"Set the mirroring axis. By default, the right and bottom half are mirrored. "
-"Use :guilabel:`Invert` to change this."
+msgid "Set the mirroring axis. By default, the right and bottom half are mirrored. Use :guilabel:`Invert` to change this."
 msgstr ""
 
 #. +> trunk5
@@ -181,15 +173,13 @@ msgid "Flop"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/transform_distort_perspective/mirror.rst:-1
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/mirror.rst:-1:
 msgid "Kdenlive Video Effects - Mirror"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/transform_distort_perspective/mirror.rst:-1
-msgid ""
-"KDE, Kdenlive, video editor, help, learn, easy, effects, filter, video "
-"effects, transform, distort, perspective, mirror"
+#: ../../effects_and_filters/video_effects/transform_distort_perspective/mirror.rst:-1:
+msgid "KDE, Kdenlive, video editor, help, learn, easy, effects, filter, video effects, transform, distort, perspective, mirror"
 msgstr ""
 
 #. +> trunk5

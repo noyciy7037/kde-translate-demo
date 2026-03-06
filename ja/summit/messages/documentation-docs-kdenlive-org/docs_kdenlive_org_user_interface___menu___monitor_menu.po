@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the  <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License SA 4.0</a> unless stated otherwise
+# This file is distributed under the same license as the Kdenlive Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Kdenlive Manual \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-13 09:59+0100\n"
-"PO-Revision-Date: 2021-11-20 18:29-0800\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Kdenlive Manual 25.12\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../user_interface/menu/monitor_menu.rst:20
@@ -122,71 +121,50 @@ msgstr ""
 #. +> trunk5
 #: ../../user_interface/menu/monitor_menu.rst:55
 msgid ""
-"The monitor menu contains controls for viewing and navigating through the "
-"clips in your project for the purpose of making edits and seeing the effects "
-"of your changes.  Depending on which monitor window you have selected at the "
-"time, the controls will affect either the currently selected clip in the "
-"Project Bin (**Clip Monitor**) or the playhead in the Timeline (**Project "
-"Monitor**)."
+"The monitor menu contains controls for viewing and navigating through the clips in your project for the purpose of making edits and seeing the effects of your changes.  Depending on which monitor "
+"window you have selected at the time, the controls will affect either the currently selected clip in the Project Bin (**Clip Monitor**) or the playhead in the Timeline (**Project Monitor**)."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/monitor_menu.rst:58
 msgid ""
-"With the exception of the :menuselection:`Deinterlacer` "
-"and :menuselection:`Interpolation` items, it is much more practical to "
-"perform the actions on this menu using the associated keyboard shortcuts or "
-"the buttons at the bottom of the monitor windows."
+"With the exception of the :menuselection:`Deinterlacer` and :menuselection:`Interpolation` items, it is much more practical to perform the actions on this menu using the associated keyboard "
+"shortcuts or the buttons at the bottom of the monitor windows."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/monitor_menu.rst:64
-msgid ""
-"**Switch Monitor**: Toggles between clip monitor and project monitor. when "
-"the project monitor is in focus the timeline is focus as well. Keyboard "
-"Shortcut :kbd:`T`"
+msgid "**Switch Monitor**: Toggles between clip monitor and project monitor. when the project monitor is in focus the timeline is focus as well. Keyboard Shortcut :kbd:`T`"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/monitor_menu.rst:68
-msgid ""
-"**Focus Timecode**: Focus to the timecode on the active monitor so you can "
-"change the timecode to the place you want to jump to. Keyboard "
-"shortcut :kbd:`=`"
+msgid "**Focus Timecode**: Focus to the timecode on the active monitor so you can change the timecode to the place you want to jump to. Keyboard shortcut :kbd:`=`"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/monitor_menu.rst:74
-msgid ""
-"**Play**: Start playing the monitor in focus with shortcut :kbd:`space`."
+msgid "**Play**: Start playing the monitor in focus with shortcut :kbd:`space`."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/monitor_menu.rst:78
-msgid ""
-"**Play Zone**: Plays from in-point to the out-point of a zone. Keyboard "
-"Shortcut :kbd:`Ctrl + space`"
+msgid "**Play Zone**: Plays from in-point to the out-point of a zone. Keyboard Shortcut :kbd:`Ctrl + space`"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/monitor_menu.rst:82
-msgid ""
-"**Play Zone From Cursor**: Plays from the playhead to the out-point of a "
-"zone."
+msgid "**Play Zone From Cursor**: Plays from the playhead to the out-point of a zone."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/monitor_menu.rst:86
-msgid ""
-"**Loop Zone**: Plays from in-point to the out-point of a zone in a loop. "
-"Keyboard Shortcut :kbd:`Ctrl + shift + space`"
+msgid "**Loop Zone**: Plays from in-point to the out-point of a zone in a loop. Keyboard Shortcut :kbd:`Ctrl + shift + space`"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/monitor_menu.rst:90
-msgid ""
-"**Loop Selected Clip**: This works in the timeline only. Plays from the "
-"first to the last selected clip in the timeline in a loop."
+msgid "**Loop Selected Clip**: This works in the timeline only. Plays from the first to the last selected clip in the timeline in a loop."
 msgstr ""
 
 #. +> trunk5
@@ -196,9 +174,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/monitor_menu.rst:99
-msgid ""
-"This menu item opens a flyout with actions for jumping to dedicated points "
-"in the timeline:"
+msgid "This menu item opens a flyout with actions for jumping to dedicated points in the timeline:"
 msgstr ""
 
 #. +> trunk5
@@ -223,38 +199,29 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/monitor_menu.rst:128
-msgid ""
-"**Set Zone In**: This set the point where a zone starts. Shortcut :kbd:`I`"
+msgid "**Set Zone In**: This set the point where a zone starts. Shortcut :kbd:`I`"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/monitor_menu.rst:132
-msgid ""
-"**Set Zone Out**: This set the point where a zone ends. Shortcut :kbd:`O`"
+msgid "**Set Zone Out**: This set the point where a zone ends. Shortcut :kbd:`O`"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/monitor_menu.rst:136
 msgid ""
-"**Insert Zone in Project Bin**: When you have created a zone you can put the "
-"zone with this command into the project bin as a sub-clip of the original "
-"clip. This is useful when you have a long clip and you want only some parts "
-"of it. Shortcut :kbd:`Ctrl + I`. Another possibility is to "
-"use :ref:`markers_with_range`."
+"**Insert Zone in Project Bin**: When you have created a zone you can put the zone with this command into the project bin as a sub-clip of the original clip. This is useful when you have a long clip "
+"and you want only some parts of it. Shortcut :kbd:`Ctrl + I`. Another possibility is to use :ref:`markers_with_range`."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/monitor_menu.rst:142
-msgid ""
-"**Switch Monitor Fullscreen**: Switch the monitor to full screen when "
-"hit :kbd:`F11`."
+msgid "**Switch Monitor Fullscreen**: Switch the monitor to full screen when hit :kbd:`F11`."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/monitor_menu.rst:146
-msgid ""
-"**Multitrack View**: Multitrack view is described in detail :ref:`here <ui-"
-"multitrack_view>`."
+msgid "**Multitrack View**: Multitrack view is described in detail :ref:`here <ui-multitrack_view>`."
 msgstr ""
 
 #. +> trunk5
@@ -270,36 +237,28 @@ msgstr ""
 #. +> trunk5
 #: ../../user_interface/menu/monitor_menu.rst:158
 msgid ""
-"**Current Monitor Overlay**: Opens a fly-out for the various available "
-"monitor overlays. More details see in :ref:`Clip Monitor <ui-"
-"monitors_cm_rightclick>` or :ref:`Project Monitor <ui-"
+"**Current Monitor Overlay**: Opens a fly-out for the various available monitor overlays. More details see in :ref:`Clip Monitor <ui-monitors_cm_rightclick>` or :ref:`Project Monitor <ui-"
 "monitors_pm_right_click>`."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/monitor_menu.rst:162
-msgid ""
-"**Preview Resolution**: Preview resolution is described in detail :ref:`here "
-"<ui-monitors_preview_resolution>`."
+msgid "**Preview Resolution**: Preview resolution is described in detail :ref:`here <ui-monitors_preview_resolution>`."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/monitor_menu.rst:166
 msgid ""
-"**Monitor Config**: Opens a fly-out for the various available monitor "
-"configurations. More details see in :ref:`Clip Monitor <ui-"
-"monitors_cm_rightclick>` or :ref:`Project Monitor <ui-"
+"**Monitor Config**: Opens a fly-out for the various available monitor configurations. More details see in :ref:`Clip Monitor <ui-monitors_cm_rightclick>` or :ref:`Project Monitor <ui-"
 "monitors_pm_right_click>`."
 msgstr ""
 
 #. +> trunk5
-#: ../../user_interface/menu/monitor_menu.rst:-1
+#: ../../user_interface/menu/monitor_menu.rst:-1:
 msgid "Kdenlive's User Interface - Monitor Menu"
 msgstr ""
 
 #. +> trunk5
-#: ../../user_interface/menu/monitor_menu.rst:-1
-msgid ""
-"KDE, Kdenlive, clip, project, menu, monitor menu, modes, selection, "
-"documentation, user manual, video editor, open source, free, learn, easy"
+#: ../../user_interface/menu/monitor_menu.rst:-1:
+msgid "KDE, Kdenlive, clip, project, menu, monitor menu, modes, selection, documentation, user manual, video editor, open source, free, learn, easy"
 msgstr ""

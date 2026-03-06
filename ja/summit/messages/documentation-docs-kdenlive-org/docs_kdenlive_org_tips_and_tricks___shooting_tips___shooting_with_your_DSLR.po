@@ -1,25 +1,23 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the  <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License SA 4.0</a> unless stated otherwise
+# This file is distributed under the same license as the Kdenlive Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Kdenlive Manual \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-13 09:59+0100\n"
-"PO-Revision-Date: 2023-10-29 10:24-0700\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Kdenlive Manual 25.12\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../tips_and_tricks/shooting_tips/shooting_with_your_DSLR.rst:14
 msgid ""
-"This article was published on November 14\\ :sup:`th`\\ , 2010. A lot has "
-"changed since then in the digital camera field. Nevertheless, the "
-"fundamental statements about digital photography are still valid."
+"This article was published on November 14\\ :sup:`th`\\ , 2010. A lot has changed since then in the digital camera field. Nevertheless, the fundamental statements about digital photography are still"
+" valid."
 msgstr ""
 
 #. +> trunk5
@@ -29,10 +27,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../tips_and_tricks/shooting_tips/shooting_with_your_DSLR.rst:20
-msgid ""
-"This article is going to give some tips regarding shooting video with "
-"your :abbr:`DSLR (Digital Single Lens Reflex)` and editing it in Kdenlive "
-"afterwards."
+msgid "This article is going to give some tips regarding shooting video with your :abbr:`DSLR (Digital Single Lens Reflex)` and editing it in Kdenlive afterwards."
 msgstr ""
 
 #. +> trunk5
@@ -63,27 +58,19 @@ msgstr ""
 #. +> trunk5
 #: ../../tips_and_tricks/shooting_tips/shooting_with_your_DSLR.rst:37
 msgid ""
-"Generally Primes are preferred over zooms in video. (Some people, prefer it "
-"over zooms as well for photography — but this is a matter of taste and of "
-"how you work.) Why is that? A psychological reason is that eyes cannot zoom "
-"either, so zooming is hardly ever used in video. The technical reason is "
-"that Primes are cheaper to build whilst offering better quality: Better "
-"sharpness, bigger aperture (for limiting the :abbr:`DOF (Depth of Field)`). "
-"Opening the aperture gives you a very nice look."
+"Generally Primes are preferred over zooms in video. (Some people, prefer it over zooms as well for photography — but this is a matter of taste and of how you work.) Why is that? A psychological "
+"reason is that eyes cannot zoom either, so zooming is hardly ever used in video. The technical reason is that Primes are cheaper to build whilst offering better quality: Better sharpness, bigger "
+"aperture (for limiting the :abbr:`DOF (Depth of Field)`). Opening the aperture gives you a very nice look."
 msgstr ""
 
 #. +> trunk5
 #: ../../tips_and_tricks/shooting_tips/shooting_with_your_DSLR.rst:39
-msgid ""
-"Examples for very popular primes are the Nikon 50mm f/1.8D and the Canon "
-"50mm f/1.8 II."
+msgid "Examples for very popular primes are the Nikon 50mm f/1.8D and the Canon 50mm f/1.8 II."
 msgstr ""
 
 #. +> trunk5
 #: ../../tips_and_tricks/shooting_tips/shooting_with_your_DSLR.rst:41
-msgid ""
-"If you own such a lens, just do not forget that you should not always shoot "
-"at f/1.8. ;)"
+msgid "If you own such a lens, just do not forget that you should not always shoot at f/1.8. ;)"
 msgstr ""
 
 #. +> trunk5
@@ -93,34 +80,25 @@ msgstr ""
 
 #. +> trunk5
 #: ../../tips_and_tricks/shooting_tips/shooting_with_your_DSLR.rst:51
-msgid ""
-":abbr:`NDF (Neutral Density Filter)` (the piece of kneaded eraser is not "
-"part of the filter)"
+msgid ":abbr:`NDF (Neutral Density Filter)` (the piece of kneaded eraser is not part of the filter)"
 msgstr ""
 
 #. +> trunk5
 #: ../../tips_and_tricks/shooting_tips/shooting_with_your_DSLR.rst:53
 msgid ""
-"Directly related to the previous point about lenses. Shooting with an open "
-"aperture works well as long as it is dark. In bright sunlight it will fail "
-"because there is too much light falling on the sensor. Furthermore you are "
-"forced to use a high shutter speed which makes movements look jerky; Most of "
-"the time you will want to have some kind of motion blur because it looks "
-"more natural to our eyes."
+"Directly related to the previous point about lenses. Shooting with an open aperture works well as long as it is dark. In bright sunlight it will fail because there is too much light falling on the "
+"sensor. Furthermore you are forced to use a high shutter speed which makes movements look jerky; Most of the time you will want to have some kind of motion blur because it looks more natural to our "
+"eyes."
 msgstr ""
 
 #. +> trunk5
 #: ../../tips_and_tricks/shooting_tips/shooting_with_your_DSLR.rst:55
-msgid ""
-"If you ever tried to follow a bird or another animal with your eyes in dawn, "
-"you will know that our eyes do support motion blur."
+msgid "If you ever tried to follow a bird or another animal with your eyes in dawn, you will know that our eyes do support motion blur."
 msgstr ""
 
 #. +> trunk5
 #: ../../tips_and_tricks/shooting_tips/shooting_with_your_DSLR.rst:57
-msgid ""
-"So the trick is to remove some light with a filter called Neutral Density "
-"Filter."
+msgid "So the trick is to remove some light with a filter called Neutral Density Filter."
 msgstr ""
 
 #. +> trunk5
@@ -151,28 +129,21 @@ msgstr ""
 #. +> trunk5
 #: ../../tips_and_tricks/shooting_tips/shooting_with_your_DSLR.rst:74
 msgid ""
-"The same as for shooting stills. Really? Not quite. As written above you "
-"will usually want to have the shutter speed lower than for photography in "
-"order to get motion blur — around 1/50 s. (This is just a rule of thumb, as "
-"all rules in video are - made to be broken.)"
+"The same as for shooting stills. Really? Not quite. As written above you will usually want to have the shutter speed lower than for photography in order to get motion blur — around 1/50 s. (This is "
+"just a rule of thumb, as all rules in video are - made to be broken.)"
 msgstr ""
 
 #. +> trunk5
 #: ../../tips_and_tricks/shooting_tips/shooting_with_your_DSLR.rst:76
 msgid ""
-"Also, some additional problems may arise due to the sensor being read out "
-"line-wise. One I would like to mention are Rolling Shutter effects. Longer "
-"exposure can, but need not, prevent such problems. It does if you are "
-"shooting with fluorescent lamps. Shooting at high shutter speed shows wave "
-"patterns from top to bottom of the screen, lowering it hides them if you hit "
-"the correct shutter speed."
+"Also, some additional problems may arise due to the sensor being read out line-wise. One I would like to mention are Rolling Shutter effects. Longer exposure can, but need not, prevent such "
+"problems. It does if you are shooting with fluorescent lamps. Shooting at high shutter speed shows wave patterns from top to bottom of the screen, lowering it hides them if you hit the correct "
+"shutter speed."
 msgstr ""
 
 #. +> trunk5
 #: ../../tips_and_tricks/shooting_tips/shooting_with_your_DSLR.rst:78
-msgid ""
-"On the right: Two images shot with the Nikon D90 of the author, the left one "
-"at lowest ISO possible, the right one at highest possible."
+msgid "On the right: Two images shot with the Nikon D90 of the author, the left one at lowest ISO possible, the right one at highest possible."
 msgstr ""
 
 #. +> trunk5
@@ -198,10 +169,8 @@ msgstr ""
 #. +> trunk5
 #: ../../tips_and_tricks/shooting_tips/shooting_with_your_DSLR.rst:91
 msgid ""
-"The image should be exposed as bright as possible (without too much "
-"clipping!) if enough light is available. If you do not need to boost the "
-"brightness too much in post-production, you can avoid some noise in dark "
-"areas."
+"The image should be exposed as bright as possible (without too much clipping!) if enough light is available. If you do not need to boost the brightness too much in post-production, you can avoid "
+"some noise in dark areas."
 msgstr ""
 
 #. +> trunk5
@@ -227,29 +196,22 @@ msgstr ""
 #. +> trunk5
 #: ../../tips_and_tricks/shooting_tips/shooting_with_your_DSLR.rst:104
 msgid ""
-"The White Balance should be set as accurate as possible because DSLRs only "
-"support 8 bit per color channel (see also the chapter about "
-"the :doc:`Waveform Monitor </tips_and_tricks/scopes/"
-"waveform_and_rgb_parade>`). If done wrong, much of the color information is "
-"lost."
+"The White Balance should be set as accurate as possible because DSLRs only support 8 bit per color channel (see also the chapter about the :doc:`Waveform Monitor "
+"</tips_and_tricks/scopes/waveform_and_rgb_parade>`). If done wrong, much of the color information is lost."
 msgstr ""
 
 #. +> trunk5
 #: ../../tips_and_tricks/shooting_tips/shooting_with_your_DSLR.rst:106
 msgid ""
-"DSLRs also offer different camera profiles with different contrast, "
-"saturation and other settings. Usually low saturation is preferred over high "
-"saturation — especially because raising the saturation can be done in post, "
-"and because high in-camera saturation settings can lead to color clipping."
+"DSLRs also offer different camera profiles with different contrast, saturation and other settings. Usually low saturation is preferred over high saturation — especially because raising the "
+"saturation can be done in post, and because high in-camera saturation settings can lead to color clipping."
 msgstr ""
 
 #. +> trunk5
 #: ../../tips_and_tricks/shooting_tips/shooting_with_your_DSLR.rst:108
 msgid ""
-"In the example images on the right you can see the difference. The left one "
-"looked blueish due to wrong white balance and was corrected in post; much of "
-"the tonal range of the blue colors has been lost. The right one has been "
-"shot with proper white balance."
+"In the example images on the right you can see the difference. The left one looked blueish due to wrong white balance and was corrected in post; much of the tonal range of the blue colors has been "
+"lost. The right one has been shot with proper white balance."
 msgstr ""
 
 #. +> trunk5
@@ -260,9 +222,7 @@ msgstr ""
 #. +> trunk5
 #: ../../tips_and_tricks/shooting_tips/shooting_with_your_DSLR.rst:113
 msgid ""
-"The in-camera autofocus may be fast enough to focus, but it will fail in the "
-"most important moment. It is useful for getting the initial focus point, but "
-"while shooting it should stay switched off."
+"The in-camera autofocus may be fast enough to focus, but it will fail in the most important moment. It is useful for getting the initial focus point, but while shooting it should stay switched off."
 msgstr ""
 
 #. +> trunk5
@@ -277,27 +237,20 @@ msgstr ""
 
 #. +> trunk5
 #: ../../tips_and_tricks/shooting_tips/shooting_with_your_DSLR.rst:130
-msgid ""
-"The Nikon D90 was the first DSLR offering video: 720/24p (:abbr:`AVI (Audio "
-"Video Interleave)` container)."
+msgid "The Nikon D90 was the first DSLR offering video: 720/24p (:abbr:`AVI (Audio Video Interleave)` container)."
 msgstr ""
 
 #. +> trunk5
 #: ../../tips_and_tricks/shooting_tips/shooting_with_your_DSLR.rst:132
 msgid ""
-"D90 videos at 720p are scaled awfully. That is why you can see stair-"
-"stepping in sharp, skew lines. If this becomes perturbing for a clip, you "
-"can apply the :doc:`/effects_and_filters/video_effects/utility/"
-"nikon_d90_stairstepping_fix` filter. Written (but not invented) by the "
-"original author *Granjow*. See our |nikon-d90| for an example of how "
+"D90 videos at 720p are scaled awfully. That is why you can see stair-stepping in sharp, skew lines. If this becomes perturbing for a clip, you can apply the "
+":doc:`/effects_and_filters/video_effects/utility/nikon_d90_stairstepping_fix` filter. Written (but not invented) by the original author *Granjow*. See our |nikon-d90| for an example of how "
 "stairstepping looks like (before and after correction)."
 msgstr ""
 
 #. +> trunk5
 #: ../../tips_and_tricks/shooting_tips/shooting_with_your_DSLR.rst:134
-msgid ""
-"There is an extensive overview over the D90 video function at dvxuser.com: |"
-"movie_mode|."
+msgid "There is an extensive overview over the D90 video function at dvxuser.com: |movie_mode|."
 msgstr ""
 
 #. +> trunk5
@@ -308,10 +261,8 @@ msgstr ""
 #. +> trunk5
 #: ../../tips_and_tricks/shooting_tips/shooting_with_your_DSLR.rst:140
 msgid ""
-"These cameras shoot 1080p (H.264 encoded, MOV container) — but record video "
-"with a height of 1088 pixels. Prior to MLT 0.5.6 you have/had to crop the "
-"additional 8 pixels with a crop effect from the top or the bottom of the "
-"video, newer versions of MLT do this automatically."
+"These cameras shoot 1080p (H.264 encoded, MOV container) — but record video with a height of 1088 pixels. Prior to MLT 0.5.6 you have/had to crop the additional 8 pixels with a crop effect from the "
+"top or the bottom of the video, newer versions of MLT do this automatically."
 msgstr ""
 
 #. +> trunk5
@@ -321,9 +272,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../tips_and_tricks/shooting_tips/shooting_with_your_DSLR.rst:175
-msgid ""
-"One can find tons of information about shooting in the internet. Some "
-"helpful links listed below."
+msgid "One can find tons of information about shooting in the internet. Some helpful links listed below."
 msgstr ""
 
 #. +> trunk5
@@ -369,10 +318,8 @@ msgstr ""
 #. +> trunk5
 #: ../../tips_and_tricks/shooting_tips/shooting_with_your_DSLR.rst:200
 msgid ""
-"The original text was submitted by user *Granjow* to the now defunct "
-"kdenlive.org blog. For this documentation it has been lifted from "
-"kdenlive.org via |webarchive|, updated and adapted to match the overall "
-"style."
+"The original text was submitted by user *Granjow* to the now defunct kdenlive.org blog. For this documentation it has been lifted from kdenlive.org via |webarchive|, updated and adapted to match the"
+" overall style."
 msgstr ""
 
 #. +> trunk5
@@ -381,13 +328,11 @@ msgid "**Sources**"
 msgstr ""
 
 #. +> trunk5
-#: ../../tips_and_tricks/shooting_tips/shooting_with_your_DSLR.rst:-1
+#: ../../tips_and_tricks/shooting_tips/shooting_with_your_DSLR.rst:-1:
 msgid "Kdenlive Tips & Tricks - Shooting with Your DSLR"
 msgstr ""
 
 #. +> trunk5
-#: ../../tips_and_tricks/shooting_tips/shooting_with_your_DSLR.rst:-1
-msgid ""
-"KDE, Kdenlive, tips, tricks, tips & tricks, shooting tips, shooting, DSLR, "
-"documentation, user manual, video editor, open source, free, learn, easy"
+#: ../../tips_and_tricks/shooting_tips/shooting_with_your_DSLR.rst:-1:
+msgid "KDE, Kdenlive, tips, tricks, tips & tricks, shooting tips, shooting, DSLR, documentation, user manual, video editor, open source, free, learn, easy"
 msgstr ""

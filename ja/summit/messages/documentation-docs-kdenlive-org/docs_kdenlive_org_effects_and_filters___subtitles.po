@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the  <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License SA 4.0</a> unless stated otherwise
+# This file is distributed under the same license as the Kdenlive Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Kdenlive Manual \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-13 09:58+0100\n"
-"PO-Revision-Date: 2021-11-20 18:29-0800\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Kdenlive Manual 25.12\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../<rst_epilog>:34
@@ -27,28 +26,22 @@ msgstr ""
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:36
 msgid ""
-"The subtitling tool allows you to add and edit subtitles directly in the "
-"timeline on a special subtitle track or by using the :ref:`subtitle-window`. "
-"You can also import (**ASS**/**SRT**/**VTT**/**SBV**) and export (**ASS**/"
-"**SRT**) subtitles."
+"The subtitling tool allows you to add and edit subtitles directly in the timeline on a special subtitle track or by using the :ref:`subtitle-window`. You can also import "
+"(**ASS**/**SRT**/**VTT**/**SBV**) and export (**ASS**/**SRT**) subtitles."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:40
 msgid ""
-"Kdenlive allows multiple subtitle files in the subtitle track (only one "
-"subtitle file loaded at a time). You can create, duplicate, and delete "
-"subtitle files and manage its components with the :ref:`subtitle-manager`."
+"Kdenlive allows multiple subtitle files in the subtitle track (only one subtitle file loaded at a time). You can create, duplicate, and delete subtitle files and manage its components with the "
+":ref:`subtitle-manager`."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:48
 msgid ""
-"Kdenlive stores subtitles as .ass files, which means you might be interested "
-"in exploring some advanced ASS features. For more details, check out the "
-"`ASS File Format Guide <https://github.com/libass/libass/wiki/ASS-File-"
-"Format-Guide>`_ and `Aegisub's Documentation <https://aegisub.org/docs/"
-"latest/>`_."
+"Kdenlive stores subtitles as .ass files, which means you might be interested in exploring some advanced ASS features. For more details, check out the `ASS File Format Guide "
+"<https://github.com/libass/libass/wiki/ASS-File-Format-Guide>`_ and `Aegisub's Documentation <https://aegisub.org/docs/latest/>`_."
 msgstr ""
 
 #. +> trunk5
@@ -83,9 +76,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:63
-msgid ""
-"Click :guilabel:`Add Subtitle` icon in the :ref:`timeline_toolbar` to open "
-"the subtitle track in the timeline."
+msgid "Click :guilabel:`Add Subtitle` icon in the :ref:`timeline_toolbar` to open the subtitle track in the timeline."
 msgstr ""
 
 #. +> trunk5
@@ -95,9 +86,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:65
-msgid ""
-"Click :guilabel:`Add Subtitle` in the :ref:`timeline ruler <timeline_ruler>` "
-"context menu."
+msgid "Click :guilabel:`Add Subtitle` in the :ref:`timeline ruler <timeline_ruler>` context menu."
 msgstr ""
 
 #. +> trunk5
@@ -107,8 +96,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:69
-msgid ""
-"Import subtitles with the :ref:`import function <subtitle-import_export>`."
+msgid "Import subtitles with the :ref:`import function <subtitle-import_export>`."
 msgstr ""
 
 #. +> trunk5
@@ -118,9 +106,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:74
-msgid ""
-"You can add or editing text either directly into the subtitle clip or in the "
-"subtitle window."
+msgid "You can add or editing text either directly into the subtitle clip or in the subtitle window."
 msgstr ""
 
 #. +> trunk5
@@ -136,18 +122,15 @@ msgstr ""
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:89
 msgid ""
-"With this feature, you can cut the selected subtitle with the Razor Tool "
-"after the first line of the current track position. The first line becomes "
-"the left subtitle before the track position, and the rest becomes the right "
-"subtitle after the track position. It then selects the right-hand subtitle."
+"With this feature, you can cut the selected subtitle with the Razor Tool after the first line of the current track position. The first line becomes the left subtitle before the track position, and "
+"the rest becomes the right subtitle after the track position. It then selects the right-hand subtitle."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:96
 msgid ""
-"To enable this feature go to :menuselection:`Menu --> Settings --> Configure "
-"Kdenlive -->` :doc:`Tools</getting_started/configure_kdenlive/"
-"configuration_tools>` and switch to :guilabel:`Split after first line`"
+"To enable this feature go to :menuselection:`Menu --> Settings --> Configure Kdenlive -->` :doc:`Tools</getting_started/configure_kdenlive/configuration_tools>` and switch to :guilabel:`Split after "
+"first line`"
 msgstr ""
 
 #. +> trunk5
@@ -157,9 +140,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:103
-msgid ""
-"Select the subtitle in the timeline that contains two lines. Click on the "
-"subtitle with the Razor-Tool :kbd:`X`."
+msgid "Select the subtitle in the timeline that contains two lines. Click on the subtitle with the Razor-Tool :kbd:`X`."
 msgstr ""
 
 #. +> trunk5
@@ -169,9 +150,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:110
-msgid ""
-"This makes it easier to split up subtitles, where you have a transcription "
-"with one subtitle per line. This comes from a couple of situations:"
+msgid "This makes it easier to split up subtitles, where you have a transcription with one subtitle per line. This comes from a couple of situations:"
 msgstr ""
 
 #. +> trunk5
@@ -191,16 +170,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:119
-msgid ""
-"Grab the end of a subtitle with the mouse and lengthen or shorten it as "
-"needed."
+msgid "Grab the end of a subtitle with the mouse and lengthen or shorten it as needed."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:121
-msgid ""
-"Set subtitle in/out can be achieved with the same shortcut as to set clip in/"
-"out (left/right parenthesis shortcut)."
+msgid "Set subtitle in/out can be achieved with the same shortcut as to set clip in/out (left/right parenthesis shortcut)."
 msgstr ""
 
 #. +> trunk5
@@ -210,23 +185,17 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:129
-msgid ""
-"Creating, duplicating, deleting, and editing subtitle styles can be managed "
-"through the :ref:`subtitle-manager`."
+msgid "Creating, duplicating, deleting, and editing subtitle styles can be managed through the :ref:`subtitle-manager`."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:131
-msgid ""
-":menuselection:`Menu --> Sequence --> Subtitles --> Manage Subtitles --> "
-"Styles`"
+msgid ":menuselection:`Menu --> Sequence --> Subtitles --> Manage Subtitles --> Styles`"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:133
-msgid ""
-"Additionally, you can edit the assigned style directly using the edit button "
-"in the :ref:`subtitle-window`."
+msgid "Additionally, you can edit the assigned style directly using the edit button in the :ref:`subtitle-window`."
 msgstr ""
 
 #. +> trunk5
@@ -236,15 +205,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:138
-msgid ""
-"Subtitle styles can be created either within each subtitle file or globally."
+msgid "Subtitle styles can be created either within each subtitle file or globally."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:140
-msgid ""
-"Choose a subtitle file or the global space from the sidebar as the location "
-"for the new style."
+msgid "Choose a subtitle file or the global space from the sidebar as the location for the new style."
 msgstr ""
 
 #. +> trunk5
@@ -264,9 +230,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:151
-msgid ""
-"In the style section of the :ref:`subtitle-manager`, drag a style to the "
-"desired item in the sidebar to move or copy it."
+msgid "In the style section of the :ref:`subtitle-manager`, drag a style to the desired item in the sidebar to move or copy it."
 msgstr ""
 
 #. +> trunk5
@@ -281,10 +245,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:159
-msgid ""
-"You can assign a style to the subtitle you are currently editing using "
-"the :guilabel:`Style` combobox in the :ref:`subtitle-window`. This style "
-"will be applied to **the entire subtitle**."
+msgid "You can assign a style to the subtitle you are currently editing using the :guilabel:`Style` combobox in the :ref:`subtitle-window`. This style will be applied to **the entire subtitle**."
 msgstr ""
 
 #. +> trunk5
@@ -294,52 +255,37 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:164
-msgid ""
-"Kdenlive supports using ASS override tags to style **specific parts of the "
-"subtitle text**."
+msgid "Kdenlive supports using ASS override tags to style **specific parts of the subtitle text**."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:169
-msgid ""
-"A **highlighter** renders different parts of the tags in distinct styles, "
-"making them more distinguishable."
+msgid "A **highlighter** renders different parts of the tags in distinct styles, making them more distinguishable."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:171
-msgid ""
-"An **auto-completer** automatically lists all valid presets as you start "
-"typing a tag name."
+msgid "An **auto-completer** automatically lists all valid presets as you start typing a tag name."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:173
-msgid ""
-"The buttons above the text editor will automatically add or edit tags when "
-"pressed."
+msgid "The buttons above the text editor will automatically add or edit tags when pressed."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:175
-msgid ""
-"Tags like \"Set Position,\" which affect the entire subtitle text, will be "
-"added **at the beginning of the subtitle text**."
+msgid "Tags like \"Set Position,\" which affect the entire subtitle text, will be added **at the beginning of the subtitle text**."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:177
-msgid ""
-"Tags like \"Toggle Bold,\" which affect only the text following them, will "
-"either be added **at the current cursor position** or **wrap the selected "
-"text in tags** if there is a selection."
+msgid "Tags like \"Toggle Bold,\" which affect only the text following them, will either be added **at the current cursor position** or **wrap the selected text in tags** if there is a selection."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:179
-msgid ""
-"Additionally, you can use '\\\\r<style>' to reset the style of the subtitle "
-"after the tag."
+msgid "Additionally, you can use '\\\\r<style>' to reset the style of the subtitle after the tag."
 msgstr ""
 
 #. +> trunk5
@@ -349,25 +295,18 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:186
-msgid ""
-"Kdenlive supports multiple subtitle layers. You can create, duplicate, and "
-"delete subtitle layers using the :guilabel:`Layer` tab in :ref:`subtitle-"
-"manager`."
+msgid "Kdenlive supports multiple subtitle layers. You can create, duplicate, and delete subtitle layers using the :guilabel:`Layer` tab in :ref:`subtitle-manager`."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:190
 msgid ""
-"A new subtitle layer can also be created by :kbd:`Shift+drag` an existing "
-"subtitle down beyond the bottom of the subtitle track or by adjusting the "
-"layer indicator in the :ref:`subtitle-window`."
+"A new subtitle layer can also be created by :kbd:`Shift+drag` an existing subtitle down beyond the bottom of the subtitle track or by adjusting the layer indicator in the :ref:`subtitle-window`."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:194
-msgid ""
-"Subtitles with a lower Layer value are placed behind those with a higher "
-"value."
+msgid "Subtitles with a lower Layer value are placed behind those with a higher value."
 msgstr ""
 
 #. +> trunk5
@@ -377,24 +316,18 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:199
-msgid ""
-"When you create a new subtitle by double-clicking on the timeline, the "
-"subtitle will be placed on the layer under your cursor."
+msgid "When you create a new subtitle by double-clicking on the timeline, the subtitle will be placed on the layer under your cursor."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:201
 msgid ""
-"You can change a subtitle's layer value using the :guilabel:`Layer` "
-"indicator in the :ref:`subtitle-window`, or you can simply drag and drop the "
-"subtitle from one layer to another on the timeline."
+"You can change a subtitle's layer value using the :guilabel:`Layer` indicator in the :ref:`subtitle-window`, or you can simply drag and drop the subtitle from one layer to another on the timeline."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:205
-msgid ""
-"If you set the layer value higher than the current maximum, Kdenlive will "
-"automatically add a new layer."
+msgid "If you set the layer value higher than the current maximum, Kdenlive will automatically add a new layer."
 msgstr ""
 
 #. +> trunk5
@@ -404,17 +337,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:210
-msgid ""
-"You can copy and move layers between different subtitle files using "
-"the :ref:`subtitle-manager`."
+msgid "You can copy and move layers between different subtitle files using the :ref:`subtitle-manager`."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:212
-msgid ""
-"In the :guilabel:`Layer` tab, Simply drag a layer to the desired file in the "
-"sidebar. All events within the layer will be copied or moved to the new "
-"location."
+msgid "In the :guilabel:`Layer` tab, Simply drag a layer to the desired file in the sidebar. All events within the layer will be copied or moved to the new location."
 msgstr ""
 
 #. +> trunk5
@@ -424,25 +352,17 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:219
-msgid ""
-"You can assign each subtitle layer a default style. Any new subtitles "
-"created on that layer will automatically be assigned this style."
+msgid "You can assign each subtitle layer a default style. Any new subtitles created on that layer will automatically be assigned this style."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:221
-msgid ""
-"To set this, go to the :guilabel:`Layer` tab in the :ref:`subtitle-manager`. "
-"Click the :guilabel:`Style` column of a layer item and select the desired "
-"style from the pop-up menu."
+msgid "To set this, go to the :guilabel:`Layer` tab in the :ref:`subtitle-manager`. Click the :guilabel:`Style` column of a layer item and select the desired style from the pop-up menu."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:223
-msgid ""
-"This feature is particularly useful when working with multiple speakers in a "
-"subtitle file, as it allows each speaker to have a distinct style "
-"effortlessly."
+msgid "This feature is particularly useful when working with multiple speakers in a subtitle file, as it allows each speaker to have a distinct style effortlessly."
 msgstr ""
 
 #. +> trunk5
@@ -452,32 +372,24 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:234
-msgid ""
-"Importing **SRT**, **ASS**, **VTT** and **SBV** subtitle "
-"file: :menuselection:`Menu --> Sequence --> Subtitles --> Import Subtitle "
-"File`"
+msgid "Importing **SRT**, **ASS**, **VTT** and **SBV** subtitle file: :menuselection:`Menu --> Sequence --> Subtitles --> Import Subtitle File`"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:236
-msgid ""
-"Exporting **ASS** or **SRT** subtitles: :menuselection:`Menu --> Sequence --"
-"> Subtitles --> Export Subtitle File`"
+msgid "Exporting **ASS** or **SRT** subtitles: :menuselection:`Menu --> Sequence --> Subtitles --> Export Subtitle File`"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:243
-msgid ""
-":guilabel:`Encoding`: Allow overriding of detected codecs through a list of "
-"available codecs, and show a preview to make choice easier."
+msgid ":guilabel:`Encoding`: Allow overriding of detected codecs through a list of available codecs, and show a preview to make choice easier."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:247
 msgid ""
-":guilabel:`Create New Subtitle Track`: Importing an :file:`.srt` file in the "
-"project, you can create a new subtitle track (an entry in the subtitles "
-"combo list) instead of overwriting the current subtitle track."
+":guilabel:`Create New Subtitle Track`: Importing an :file:`.srt` file in the project, you can create a new subtitle track (an entry in the subtitles combo list) instead of overwriting the current "
+"subtitle track."
 msgstr ""
 
 #. +> trunk5
@@ -487,10 +399,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:254
-msgid ""
-"The subtitles window allows easier editing and also makes it possible to "
-"easily navigate between subtitles with the :guilabel:`<` and :guilabel:`>` "
-"buttons"
+msgid "The subtitles window allows easier editing and also makes it possible to easily navigate between subtitles with the :guilabel:`<` and :guilabel:`>` buttons"
 msgstr ""
 
 #. +> trunk5
@@ -511,24 +420,18 @@ msgstr ""
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:264
 msgid ""
-"Let's say your subtitle text is too long and you want to make it two "
-"different subtitles. Put the cursor in the text widget where you want to cut "
-"and click the scissors, it will split the text between two different "
-"subtitle items."
+"Let's say your subtitle text is too long and you want to make it two different subtitles. Put the cursor in the text widget where you want to cut and click the scissors, it will split the text "
+"between two different subtitle items."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:267
-msgid ""
-"The scissors only works when the playhead is positioned over the subtitle "
-"itself."
+msgid "The scissors only works when the playhead is positioned over the subtitle itself."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:269
-msgid ""
-"**Apply changes** by clicking the check-mark button, or by "
-"pressing :kbd:`Enter`"
+msgid "**Apply changes** by clicking the check-mark button, or by pressing :kbd:`Enter`"
 msgstr ""
 
 #. +> trunk5
@@ -568,24 +471,17 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:295
-msgid ""
-"A spell check for subtitle is integrated and shows incorrect words by a red "
-"wiggly line. Right-click on the word and you get a list of possible words "
-"you can then choose by clicking on it."
+msgid "A spell check for subtitle is integrated and shows incorrect words by a red wiggly line. Right-click on the word and you get a list of possible words you can then choose by clicking on it."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:297
-msgid ""
-"To enable spell check, right-click the subtitle text widget in "
-"the :ref:`subtitle-window` and check the :guilabel:`Auto Spell Check` option."
+msgid "To enable spell check, right-click the subtitle text widget in the :ref:`subtitle-window` and check the :guilabel:`Auto Spell Check` option."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:300
-msgid ""
-"Please note that this feature conflicts with the ASS tag highlighter. To re-"
-"enable the highlighter, uncheck the :guilabel:`Auto Spell Check` option."
+msgid "Please note that this feature conflicts with the ASS tag highlighter. To re-enable the highlighter, uncheck the :guilabel:`Auto Spell Check` option."
 msgstr ""
 
 #. +> trunk5
@@ -595,17 +491,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:310
-msgid ""
-"A simple text editor that syncs with the normal editor, hides ASS override "
-"tag blocks, and translates '\\N' into a new line."
+msgid "A simple text editor that syncs with the normal editor, hides ASS override tag blocks, and translates '\\N' into a new line."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:313
-msgid ""
-"Due to the complexities of ASS tag rules, style editing in the Simple Editor "
-"can sometimes behave unpredictably. So it's best suited for simpler use "
-"cases before or after editing styles."
+msgid "Due to the complexities of ASS tag rules, style editing in the Simple Editor can sometimes behave unpredictably. So it's best suited for simpler use cases before or after editing styles."
 msgstr ""
 
 #. +> trunk5
@@ -640,10 +531,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:330
-msgid ""
-"**For vertical scrolling only**, set the :guilabel:`Upper Bound` "
-"and :guilabel:`Lower Bound` values to clip the text at the top and bottom of "
-"the screen."
+msgid "**For vertical scrolling only**, set the :guilabel:`Upper Bound` and :guilabel:`Lower Bound` values to clip the text at the top and bottom of the screen."
 msgstr ""
 
 #. +> trunk5
@@ -654,10 +542,8 @@ msgstr ""
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:339
 msgid ""
-"You can create, duplicate, and delete subtitle files and manage its "
-"components with the subtitle manager: :menuselection:`Menu --> Sequence --> "
-"Subtitles --> Manage Subtitles` or on the timeline as drop-down menu in the "
-"subtitle track."
+"You can create, duplicate, and delete subtitle files and manage its components with the subtitle manager: :menuselection:`Menu --> Sequence --> Subtitles --> Manage Subtitles` or on the timeline as "
+"drop-down menu in the subtitle track."
 msgstr ""
 
 #. +> trunk5
@@ -672,17 +558,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:353
-msgid ""
-"Click on |application-menu|:guilabel:`Options` and select :guilabel:`Import "
-"Subtitle` or :guilabel:`Export Subtitle` to reach :ref:`subtitle-"
-"import_export`."
+msgid "Click on |application-menu|:guilabel:`Options` and select :guilabel:`Import Subtitle` or :guilabel:`Export Subtitle` to reach :ref:`subtitle-import_export`."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:355
-msgid ""
-"Only one subtitle file can be active. So, rendering will always render using "
-"the active subtitle only."
+msgid "Only one subtitle file can be active. So, rendering will always render using the active subtitle only."
 msgstr ""
 
 #. +> trunk5
@@ -692,18 +573,15 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/subtitles.rst:364
-msgid ""
-"An editor that allows you to adjust style properties with a live preview."
+msgid "An editor that allows you to adjust style properties with a live preview."
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/subtitles.rst:-1
+#: ../../effects_and_filters/subtitles.rst:-1:
 msgid "Add Subtitle in the timeline with Kdenlive video editor"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/subtitles.rst:-1
-msgid ""
-"KDE, Kdenlive, subtitle, styling, SRT, ASS, VTT, SBV, editing, timeline, "
-"documentation, user manual, video editor, open source, free, learn, easy"
+#: ../../effects_and_filters/subtitles.rst:-1:
+msgid "KDE, Kdenlive, subtitle, styling, SRT, ASS, VTT, SBV, editing, timeline, documentation, user manual, video editor, open source, free, learn, easy"
 msgstr ""

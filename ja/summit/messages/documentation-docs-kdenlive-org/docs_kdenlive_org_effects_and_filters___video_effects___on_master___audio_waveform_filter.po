@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the  <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License SA 4.0</a> unless stated otherwise
+# This file is distributed under the same license as the Kdenlive Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Kdenlive Manual \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-13 09:59+0100\n"
-"PO-Revision-Date: 2022-12-12 23:23-0800\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Kdenlive Manual 25.12\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../<rst_epilog>:310
@@ -50,8 +49,7 @@ msgid "Maintained"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/on_master/audio_waveform_filter.rst:30
-#: ../../effects_and_filters/video_effects/on_master/audio_waveform_filter.rst:38
+#: ../../effects_and_filters/video_effects/on_master/audio_waveform_filter.rst:30 ../../effects_and_filters/video_effects/on_master/audio_waveform_filter.rst:38
 msgid "Yes"
 msgstr ""
 
@@ -76,17 +74,13 @@ msgid "No"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/on_master/audio_waveform_filter.rst:46
-#: ../../effects_and_filters/video_effects/on_master/audio_waveform_filter.rst:60
+#: ../../effects_and_filters/video_effects/on_master/audio_waveform_filter.rst:46 ../../effects_and_filters/video_effects/on_master/audio_waveform_filter.rst:60
 msgid "Description"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/on_master/audio_waveform_filter.rst:47
-msgid ""
-"This effect/filter is an audio visualization effect that draws an audio "
-"waveform on the image. It can be :ref:`controlled directly on the monitor "
-"<ui-monitors_effect_direct_control>`."
+msgid "This effect/filter is an audio visualization effect that draws an audio waveform on the image. It can be :ref:`controlled directly on the monitor <ui-monitors_effect_direct_control>`."
 msgstr ""
 
 #. +> trunk5
@@ -116,9 +110,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/on_master/audio_waveform_filter.rst:63
-msgid ""
-"If checked the area below the line will be filled using the color specified "
-"with :guilabel:`Foreground Color`."
+msgid "If checked the area below the line will be filled using the color specified with :guilabel:`Foreground Color`."
 msgstr ""
 
 #. +> trunk5
@@ -142,8 +134,7 @@ msgid "Background Color"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/on_master/audio_waveform_filter.rst:68
-#: ../../effects_and_filters/video_effects/on_master/audio_waveform_filter.rst:71
+#: ../../effects_and_filters/video_effects/on_master/audio_waveform_filter.rst:68 ../../effects_and_filters/video_effects/on_master/audio_waveform_filter.rst:71
 msgid "Picker"
 msgstr ""
 
@@ -168,8 +159,7 @@ msgid "Line Thickness"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/on_master/audio_waveform_filter.rst:74
-#: ../../effects_and_filters/video_effects/on_master/audio_waveform_filter.rst:77
+#: ../../effects_and_filters/video_effects/on_master/audio_waveform_filter.rst:74 ../../effects_and_filters/video_effects/on_master/audio_waveform_filter.rst:77
 msgid "Integer"
 msgstr ""
 
@@ -196,9 +186,7 @@ msgstr ""
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/on_master/audio_waveform_filter.rst:81
 msgid ""
-"Defines the X and Y coordinates, Width and Height, Size and Opacity of the "
-"rectangle in which the waveform is drawn. The icons help lining up the "
-"rectangle. :guilabel:`Opacity` cannot be changed."
+"Defines the X and Y coordinates, Width and Height, Size and Opacity of the rectangle in which the waveform is drawn. The icons help lining up the rectangle. :guilabel:`Opacity` cannot be changed."
 msgstr ""
 
 #. +> trunk5
@@ -233,10 +221,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/on_master/audio_waveform_filter.rst:102
-msgid ""
-":guilabel:`Opacity` is fixed at 100%. You control the opacity/transparency "
-"of the effect by adjusting the alpha component of the :guilabel:`Foreground "
-"color`."
+msgid ":guilabel:`Opacity` is fixed at 100%. You control the opacity/transparency of the effect by adjusting the alpha component of the :guilabel:`Foreground color`."
 msgstr ""
 
 #. +> trunk5
@@ -250,15 +235,13 @@ msgid "Example of the Audio Waveform Filter effect with default settings"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/on_master/audio_waveform_filter.rst:-1
+#: ../../effects_and_filters/video_effects/on_master/audio_waveform_filter.rst:-1:
 msgid "Kdenlive Video Effects - Audio Waveform Filter"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/on_master/audio_waveform_filter.rst:-1
-msgid ""
-"KDE, Kdenlive, video editor, help, learn, easy, effects, filter, video "
-"effects, on master, audio waveform filter"
+#: ../../effects_and_filters/video_effects/on_master/audio_waveform_filter.rst:-1:
+msgid "KDE, Kdenlive, video editor, help, learn, easy, effects, filter, video effects, on master, audio waveform filter"
 msgstr ""
 
 #. +> trunk5

@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the  <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License SA 4.0</a> unless stated otherwise
+# This file is distributed under the same license as the Kdenlive Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Kdenlive Manual \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-13 09:59+0100\n"
-"PO-Revision-Date: 2024-10-01 21:30+0900\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Kdenlive Manual 25.12\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/generators.rst:24
@@ -21,10 +20,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/generators.rst:26
-msgid ""
-"As the name suggests, **Generators** generate a short video clip or still "
-"images for specific purposes. Many of you will recognize them from the good "
-"old days of bulky TV sets."
+msgid "As the name suggests, **Generators** generate a short video clip or still images for specific purposes. Many of you will recognize them from the good old days of bulky TV sets."
 msgstr ""
 
 #. +> trunk5
@@ -74,9 +70,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/generators.rst:63
-msgid ""
-"You can choose to have the clip count up by checking that option, otherwise "
-"it will count down."
+msgid "You can choose to have the clip count up by checking that option, otherwise it will count down."
 msgstr ""
 
 #. +> trunk5
@@ -86,9 +80,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/generators.rst:68
-msgid ""
-"This option will remove the black lines and the white circles from the "
-"counter leaving only the grey background."
+msgid "This option will remove the black lines and the white circles from the counter leaving only the grey background."
 msgstr ""
 
 #. +> trunk5
@@ -159,11 +151,8 @@ msgstr ""
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/generators.rst:89
 msgid ""
-"To change the size and position of the clip, you can add an effect to the "
-"clip on the timeline or in the project bin such as the :doc:`/"
-"effects_and_filters/video_effects/transform_distort_perspective/"
-"position_and_zoom` or the :doc:`/effects_and_filters/video_effects/"
-"transform_distort_perspective/transform`."
+"To change the size and position of the clip, you can add an effect to the clip on the timeline or in the project bin such as the "
+":doc:`/effects_and_filters/video_effects/transform_distort_perspective/position_and_zoom` or the :doc:`/effects_and_filters/video_effects/transform_distort_perspective/transform`."
 msgstr ""
 
 #. +> trunk5
@@ -233,20 +222,15 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/generators.rst:126
-msgid ""
-"This generates a video noise clip - like the \"snow\" on an out-of-tune "
-"analogue TV including the audio white noise"
+msgid "This generates a video noise clip - like the \"snow\" on an out-of-tune analogue TV including the audio white noise"
 msgstr ""
 
 #. +> trunk5
-#: ../../project_and_asset_management/project_bin/generators.rst:-1
+#: ../../project_and_asset_management/project_bin/generators.rst:-1:
 msgid "Kdenlive Documentation - Project Bin - Generators"
 msgstr ""
 
 #. +> trunk5
-#: ../../project_and_asset_management/project_bin/generators.rst:-1
-msgid ""
-"KDE, Kdenlive, add clips, generator, counter, color bars, white noise, "
-"editing, timeline, documentation, user manual, video editor, open source, "
-"free, learn, easy"
+#: ../../project_and_asset_management/project_bin/generators.rst:-1:
+msgid "KDE, Kdenlive, add clips, generator, counter, color bars, white noise, editing, timeline, documentation, user manual, video editor, open source, free, learn, easy"
 msgstr ""

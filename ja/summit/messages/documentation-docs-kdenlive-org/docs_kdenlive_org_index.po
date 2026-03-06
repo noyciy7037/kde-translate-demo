@@ -1,21 +1,17 @@
-# Shizuku Hagoromo <Lemonade.flash.1164@gmail.com>, 2023.
-# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2023.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the  <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License SA 4.0</a> unless stated otherwise
+# This file is distributed under the same license as the Kdenlive Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Kdenlive Manual \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-21 07:44+0100\n"
-"PO-Revision-Date: 2023-09-15 00:17+0900\n"
-"Last-Translator: Shizuku Hagoromo <Lemonade.flash.1164@gmail.com>\n"
-"Language-Team: Japanese\n"
+"Project-Id-Version: Kdenlive Manual 25.12\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
-"X-Generator: Lokalize 22.12.2\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../index.rst:15
@@ -25,39 +21,20 @@ msgstr "Kdenlive マニュアル"
 #. +> trunk5
 #: ../../index.rst:17
 #, fuzzy
-#| msgid ""
-#| "Welcome to the manual for `kdenlive <https://kdenlive.org>`_, the free "
-#| "and open source video editor."
-msgid ""
-"Welcome to the manual for `Kdenlive <https://kdenlive.org>`_, the free and "
-"open source video editor."
-msgstr ""
-"無料でオープンソースな動画編集ソフトウェア `kdenlive <https://"
-"kdenlive.org>`_ のマニュアルへようこそ。"
+msgid "Welcome to the manual for `Kdenlive <https://kdenlive.org>`_, the free and open source video editor."
+msgstr "無料でオープンソースな動画編集ソフトウェア `kdenlive <https://kdenlive.org>`_ のマニュアルへようこそ。"
 
 #. +> trunk5
 #: ../../index.rst:19
 #, fuzzy
-#| msgid ""
-#| "The current Kdenlive version you get `here <https://kdenlive.org/download/"
-#| ">`_ ."
-msgid ""
-"The current Kdenlive version you get `here <https://kdenlive.org/download/"
-">`_. Check out :doc:`what's new </more_information/whats_new>`."
-msgstr ""
-"Kdenlive の現行版は `こちら <https://kdenlive.org/download/>`_ で入手可能で"
-"す。"
+msgid "The current Kdenlive version you get `here <https://kdenlive.org/download/>`_. Check out :doc:`what's new </more_information/whats_new>`."
+msgstr "Kdenlive の現行版は `こちら <https://kdenlive.org/download/>`_ で入手可能です。"
 
 #. +> trunk5
 #: ../../index.rst:21
 #, fuzzy
-#| msgid ""
-#| "You can download this manual as an `EPUB <https://docs.kdenlive.org/en/"
-#| "epub/KdenliveManual.epub>`_."
 msgid "You can download this manual as an `EPUB <epub/KdenliveManual.epub>`_."
-msgstr ""
-"このマニュアルは、`EPUB <https://docs.kdenlive.org/en/epub/"
-"KdenliveManual.epub>`_ としてダウンロードができます。"
+msgstr "このマニュアルは、`EPUB <https://docs.kdenlive.org/en/epub/KdenliveManual.epub>`_ としてダウンロードができます。"
 
 #. +> trunk5
 #: ../../index.rst:25
@@ -107,7 +84,6 @@ msgstr "Kdenlive の Window システムとウィジェットの紹介"
 #. +> trunk5
 #: ../../index.rst:63
 #, fuzzy
-#| msgid ":ref:`importing_and_assets_management`"
 msgid ":doc:`Project Settings</project_and_asset_management/project_settings>`"
 msgstr ":ref:`importing_and_assets_management`"
 
@@ -129,7 +105,6 @@ msgstr ":ref:`Timeline`"
 #. +> trunk5
 #: ../../index.rst:73
 #, fuzzy
-#| msgid ":ref:`Monitors`"
 msgid ":ref:`Monitors <ui-monitors>`"
 msgstr ":ref:`Monitors`"
 
@@ -166,7 +141,6 @@ msgstr "Kdenlive でファイルを読み込み、準備をする"
 #. +> trunk5
 #: ../../index.rst:96
 #, fuzzy
-#| msgid ":ref:`importing_and_assets_management`"
 msgid ":doc:`project_and_asset_management`"
 msgstr ":ref:`importing_and_assets_management`"
 
@@ -193,14 +167,12 @@ msgstr "タイムラインやモニターがどのような働きをしている
 #. +> trunk5
 #: ../../index.rst:115
 #, fuzzy
-#| msgid "Add video and audio effects and compositions."
 msgid "Add video and audio effects and filters"
 msgstr "動画や音声のエフェクトやコンポジションを追加する。"
 
 #. +> trunk5
 #: ../../index.rst:117
 #, fuzzy
-#| msgid "Create Titles and Subtitles and use Speech to Text."
 msgid "Create Titles and Subtitles and use Speech to Text"
 msgstr "タイトルやサブタイトル、スピーチする際に使うテキストを作成する 。"
 
@@ -212,7 +184,6 @@ msgstr ""
 #. +> trunk5
 #: ../../index.rst:119
 #, fuzzy
-#| msgid "Make color correction."
 msgid "Make color correction"
 msgstr "カラーコレクションを作成する。"
 
@@ -229,7 +200,6 @@ msgstr ""
 #. +> trunk5
 #: ../../index.rst:129
 #, fuzzy
-#| msgid "Add video and audio effects and compositions."
 msgid "Add artistic and aesthetic compositions"
 msgstr "動画や音声のエフェクトやコンポジションを追加する。"
 
@@ -256,7 +226,6 @@ msgstr ":ref:`exporting`"
 #. +> trunk5
 #: ../../index.rst:149
 #, fuzzy
-#| msgid "Render out your final video for distributing."
 msgid "Render out your final video for distributing"
 msgstr "配布する動画の最終版をレンダリングする。"
 
@@ -268,14 +237,12 @@ msgstr "トラブルシューティング, 用語集, 参加"
 #. +> trunk5
 #: ../../index.rst:161
 #, fuzzy
-#| msgid "Solving specific :ref:`windows_issues`"
 msgid "Solving specific :ref:`troubleshooting-windows_issues`"
 msgstr "特定の問題を解決する :ref:`windows_issues`"
 
 #. +> trunk5
 #: ../../index.rst:162
 #, fuzzy
-#| msgid ":ref:`troubleshooting`"
 msgid ":doc:`Troubleshooting</troubleshooting>`"
 msgstr ":ref:`troubleshooting`"
 
@@ -287,7 +254,6 @@ msgstr "基本的な問題を解決する"
 #. +> trunk5
 #: ../../index.rst:167
 #, fuzzy
-#| msgid "`Bug Reports <https://kdenlive.org/en/bug-reports/>`__"
 msgid "`Bug Reports <https://kdenlive.org/bug-reports/>`_"
 msgstr "`バグレポート <https://kdenlive.org/en/bug-reports/>`__"
 
@@ -299,57 +265,33 @@ msgstr "バグを報告する方法。"
 #. +> trunk5
 #: ../../index.rst:172
 #, fuzzy
-#| msgid ":ref:`Glossary`"
 msgid ":doc:`/glossary`"
 msgstr ":ref:`Glossary`"
 
 #. +> trunk5
 #: ../../index.rst:173
 #, fuzzy
-#| msgid "References and further information."
 msgid "References and further information"
 msgstr "参考文献と詳細情報。"
 
 #. +> trunk5
 #: ../../index.rst:178
 #, fuzzy
-#| msgid ""
-#| "`Get Involved <https://community.kde.org/Kdenlive/Workgroup/"
-#| "Documentation>`__"
-msgid ""
-"`Get Involved <https://community.kde.org/Kdenlive/Workgroup/Documentation/>`_"
-msgstr ""
-"`参加する <https://community.kde.org/Kdenlive/Workgroup/Documentation>`__"
+msgid "`Get Involved <https://community.kde.org/Kdenlive/Workgroup/Documentation/>`_"
+msgstr "`参加する <https://community.kde.org/Kdenlive/Workgroup/Documentation>`__"
 
 #. +> trunk5
 #: ../../index.rst:179
 #, fuzzy
-#| msgid "Contribute to this Manual."
 msgid "Contribute to this Manual"
 msgstr "このマニュアルに貢献する。"
 
 #. +> trunk5
-#: ../../index.rst:-1
+#: ../../index.rst:-1:
 msgid "The Kdenlive User Manual"
 msgstr "Kdenlive ユーザマニュアル"
 
 #. +> trunk5
-#: ../../index.rst:-1
-msgid ""
-"KDE, Kdenlive, documentation, user manual, video editor, open source, free, "
-"help, learn"
-msgstr ""
-"KDE, Kdenlive, documentation, 資料, user manual, video editor, 動画編集, "
-"open source, オープンソース, free, 無料, help, learn"
-
-#~ msgid ":ref:`Tutorials`"
-#~ msgstr ":ref:`Tutorials`"
-
-#~ msgid ":ref:`Project_Settings`"
-#~ msgstr ":ref:`Project_Settings`"
-
-#~ msgid ":ref:`Project_tree`"
-#~ msgstr ":ref:`Project_tree`"
-
-#~ msgid ":ref:`effects_and_compositions`"
-#~ msgstr ":ref:`effects_and_compositions`"
+#: ../../index.rst:-1:
+msgid "KDE, Kdenlive, documentation, user manual, video editor, open source, free, help, learn"
+msgstr "KDE, Kdenlive, documentation, 資料, user manual, video editor, 動画編集, open source, オープンソース, free, 無料, help, learn"

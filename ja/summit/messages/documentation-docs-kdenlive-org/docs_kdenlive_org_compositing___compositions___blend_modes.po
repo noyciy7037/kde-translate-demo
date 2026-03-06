@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the  <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License SA 4.0</a> unless stated otherwise
+# This file is distributed under the same license as the Kdenlive Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Kdenlive Manual \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-13 09:58+0100\n"
-"PO-Revision-Date: 2024-08-22 19:52+0900\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Kdenlive Manual 25.12\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../compositing/compositions/blend_modes.rst:15
@@ -21,9 +20,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../compositing/compositions/blend_modes.rst:17
-msgid ""
-"For Kdenlive, some composition types are basically :doc:`blending modes </"
-"compositing/blending_modes>` (see there for a detailed description)."
+msgid "For Kdenlive, some composition types are basically :doc:`blending modes </compositing/blending_modes>` (see there for a detailed description)."
 msgstr ""
 
 #. +> trunk5
@@ -33,16 +30,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../compositing/compositions/blend_modes.rst:28
-msgid ""
-"You can change the **Blend Mode** by selecting from "
-"the :guilabel:`Composition Type` drop-down list."
+msgid "You can change the **Blend Mode** by selecting from the :guilabel:`Composition Type` drop-down list."
 msgstr ""
 
 #. +> trunk5
 #: ../../compositing/compositions/blend_modes.rst:32
-msgid ""
-"The following table below lists the composition types and their blending "
-"mode counterpart in :guilabel:`Composition Type` **Cairo Blend**:"
+msgid "The following table below lists the composition types and their blending mode counterpart in :guilabel:`Composition Type` **Cairo Blend**:"
 msgstr ""
 
 #. +> trunk5
@@ -71,14 +64,12 @@ msgid "Color Only"
 msgstr ""
 
 #. +> trunk5
-#: ../../compositing/compositions/blend_modes.rst:64
-#: ../../compositing/compositions/blend_modes.rst:0
+#: ../../compositing/compositions/blend_modes.rst:64 ../../compositing/compositions/blend_modes.rst:0
 msgid "Darken"
 msgstr ""
 
 #. +> trunk5
-#: ../../compositing/compositions/blend_modes.rst:70
-#: ../../compositing/compositions/blend_modes.rst:0
+#: ../../compositing/compositions/blend_modes.rst:70 ../../compositing/compositions/blend_modes.rst:0
 msgid "Difference"
 msgstr ""
 
@@ -113,20 +104,17 @@ msgid "Hue"
 msgstr ""
 
 #. +> trunk5
-#: ../../compositing/compositions/blend_modes.rst:112
-#: ../../compositing/compositions/blend_modes.rst:0
+#: ../../compositing/compositions/blend_modes.rst:112 ../../compositing/compositions/blend_modes.rst:0
 msgid "Lighten"
 msgstr ""
 
 #. +> trunk5
-#: ../../compositing/compositions/blend_modes.rst:118
-#: ../../compositing/compositions/blend_modes.rst:0
+#: ../../compositing/compositions/blend_modes.rst:118 ../../compositing/compositions/blend_modes.rst:0
 msgid "Multiply"
 msgstr ""
 
 #. +> trunk5
-#: ../../compositing/compositions/blend_modes.rst:124
-#: ../../compositing/compositions/blend_modes.rst:0
+#: ../../compositing/compositions/blend_modes.rst:124 ../../compositing/compositions/blend_modes.rst:0
 msgid "Overlay"
 msgstr ""
 
@@ -136,8 +124,7 @@ msgid "Saturation"
 msgstr ""
 
 #. +> trunk5
-#: ../../compositing/compositions/blend_modes.rst:136
-#: ../../compositing/compositions/blend_modes.rst:0
+#: ../../compositing/compositions/blend_modes.rst:136 ../../compositing/compositions/blend_modes.rst:0
 msgid "Screen"
 msgstr ""
 
@@ -153,9 +140,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../compositing/compositions/blend_modes.rst:156
-msgid ""
-"It uses the generalized algorithm: :code:`D = saturation of 255 or depletion "
-"of 0, of ((255-A)*256) / (b+1)`"
+msgid "It uses the generalized algorithm: :code:`D = saturation of 255 or depletion of 0, of ((255-A)*256) / (b+1)`"
 msgstr ""
 
 #. +> trunk5
@@ -165,35 +150,27 @@ msgstr ""
 
 #. +> trunk5
 #: ../../compositing/compositions/blend_modes.rst:160
-msgid ""
-"It uses the generalized algorithm: :code:`D = saturation of 255 or (A*256)/"
-"(256-B)`"
+msgid "It uses the generalized algorithm: :code:`D = saturation of 255 or (A*256)/(256-B)`"
 msgstr ""
 
 #. +> trunk5
 #: ../../compositing/compositions/blend_modes.rst:162
-msgid ""
-"It uses using the generalized algorithm: :code:`D = A * (B + (2 * B) * (255 "
-"- A))`"
+msgid "It uses using the generalized algorithm: :code:`D = A * (B + (2 * B) * (255 - A))`"
 msgstr ""
 
 #. +> trunk5
 #: ../../compositing/compositions/blend_modes.rst:164
-msgid ""
-"It uses using the generalized algorithm: :code:`D = 255 - (255 - A) * (255 - "
-"B)`"
+msgid "It uses using the generalized algorithm: :code:`D = 255 - (255 - A) * (255 - B)`"
 msgstr ""
 
 #. +> trunk5
-#: ../../compositing/compositions/blend_modes.rst:-1
+#: ../../compositing/compositions/blend_modes.rst:-1:
 msgid "Kdenlive Documentation - Compositing: Composition Blend Modes"
 msgstr ""
 
 #. +> trunk5
-#: ../../compositing/compositions/blend_modes.rst:-1
-msgid ""
-"KDE, Kdenlive, documentation, user manual, video editor, open source, free, "
-"learn, easy, compositing, composition, compositions, blend, modes"
+#: ../../compositing/compositions/blend_modes.rst:-1:
+msgid "KDE, Kdenlive, documentation, user manual, video editor, open source, free, learn, easy, compositing, composition, compositions, blend, modes"
 msgstr ""
 
 #. +> trunk5
@@ -213,9 +190,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../compositing/compositions/blend_modes.rst:0
-msgid ""
-"Perform an RGB[A] addition or addition_alpha operation of the pixel sources "
-"(|frei0r.addition| and |frei0r.addition_alpha|, respectively)"
+msgid "Perform an RGB[A] addition or addition_alpha operation of the pixel sources (|frei0r.addition| and |frei0r.addition_alpha|, respectively)"
 msgstr ""
 
 #. +> trunk5
@@ -225,9 +200,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../compositing/compositions/blend_modes.rst:0
-msgid ""
-"Perform an RGB[A] dodge operation between the pixel sources\\ [1]_ (|"
-"frei0r.burn|)"
+msgid "Perform an RGB[A] dodge operation between the pixel sources\\ [1]_ (|frei0r.burn|)"
 msgstr ""
 
 #. +> trunk5
@@ -237,30 +210,22 @@ msgstr ""
 
 #. +> trunk5
 #: ../../compositing/compositions/blend_modes.rst:0
-msgid ""
-"Perform a conversion to color only of the source input 1 using the hue and "
-"saturation values of input 2 (|frei0r.color_only|)"
+msgid "Perform a conversion to color only of the source input 1 using the hue and saturation values of input 2 (|frei0r.color_only|)"
 msgstr ""
 
 #. +> trunk5
 #: ../../compositing/compositions/blend_modes.rst:0
-msgid ""
-"Perform a darken operation between two sources (minimum value for both "
-"sources) (|frei0r.darken|)"
+msgid "Perform a darken operation between two sources (minimum value for both sources) (|frei0r.darken|)"
 msgstr ""
 
 #. +> trunk5
 #: ../../compositing/compositions/blend_modes.rst:0
-msgid ""
-"Perform an RGB[A] difference operation between the pixel sources. (|"
-"frei0r.difference|)"
+msgid "Perform an RGB[A] difference operation between the pixel sources. (|frei0r.difference|)"
 msgstr ""
 
 #. +> trunk5
 #: ../../compositing/compositions/blend_modes.rst:0
-msgid ""
-"Perform an RGB[A] divide operation between the pixel sources\\ [2]_ (|"
-"frei0r.divide|)"
+msgid "Perform an RGB[A] divide operation between the pixel sources\\ [2]_ (|frei0r.divide|)"
 msgstr ""
 
 #. +> trunk5
@@ -270,23 +235,17 @@ msgstr ""
 
 #. +> trunk5
 #: ../../compositing/compositions/blend_modes.rst:0
-msgid ""
-"Perform an RGB[A] dodge operation between the pixel sources\\ [3]_ (|"
-"frei0r.dodge|)"
+msgid "Perform an RGB[A] dodge operation between the pixel sources\\ [3]_ (|frei0r.dodge|)"
 msgstr ""
 
 #. +> trunk5
 #: ../../compositing/compositions/blend_modes.rst:0
-msgid ""
-"Perform an RGB[A] grain-extract operation between the pixel sources (|"
-"frei0r.grain_extract|)"
+msgid "Perform an RGB[A] grain-extract operation between the pixel sources (|frei0r.grain_extract|)"
 msgstr ""
 
 #. +> trunk5
 #: ../../compositing/compositions/blend_modes.rst:0
-msgid ""
-"Perform an RGB[A] grain-merge operation between the pixel sources (|"
-"frei0r.grain_merge|)"
+msgid "Perform an RGB[A] grain-merge operation between the pixel sources (|frei0r.grain_merge|)"
 msgstr ""
 
 #. +> trunk5
@@ -296,9 +255,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../compositing/compositions/blend_modes.rst:0
-msgid ""
-"Perform an RGB[A] hardlight operation between the pixel sources (|"
-"frei0r.hardlight|)"
+msgid "Perform an RGB[A] hardlight operation between the pixel sources (|frei0r.hardlight|)"
 msgstr ""
 
 #. +> trunk5
@@ -308,30 +265,22 @@ msgstr ""
 
 #. +> trunk5
 #: ../../compositing/compositions/blend_modes.rst:0
-msgid ""
-"Perform a conversion to hue only of the source input1 using the hue of "
-"input2 (|frei0r.hue|)"
+msgid "Perform a conversion to hue only of the source input1 using the hue of input2 (|frei0r.hue|)"
 msgstr ""
 
 #. +> trunk5
 #: ../../compositing/compositions/blend_modes.rst:0
-msgid ""
-"Perform a lighten operation between two sources (maximum value of both "
-"sources) (|frei0r.lighten|)"
+msgid "Perform a lighten operation between two sources (maximum value of both sources) (|frei0r.lighten|)"
 msgstr ""
 
 #. +> trunk5
 #: ../../compositing/compositions/blend_modes.rst:0
-msgid ""
-"Perform an RGB[A] multiply operation between the pixel sources (|"
-"frei0r.multiply|)"
+msgid "Perform an RGB[A] multiply operation between the pixel sources (|frei0r.multiply|)"
 msgstr ""
 
 #. +> trunk5
 #: ../../compositing/compositions/blend_modes.rst:0
-msgid ""
-"Perform an RGB[A] overlay operation between the pixel sources\\ [4]_ (|"
-"frei0r.overlay|)"
+msgid "Perform an RGB[A] overlay operation between the pixel sources\\ [4]_ (|frei0r.overlay|)"
 msgstr ""
 
 #. +> trunk5
@@ -341,16 +290,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../compositing/compositions/blend_modes.rst:0
-msgid ""
-"Perform a conversion to saturation only of the source input1 using the "
-"saturation level of input2 (|frei0r.saturation|)"
+msgid "Perform a conversion to saturation only of the source input1 using the saturation level of input2 (|frei0r.saturation|)"
 msgstr ""
 
 #. +> trunk5
 #: ../../compositing/compositions/blend_modes.rst:0
-msgid ""
-"Perform an RGB[A] screen operation between the pixel sources\\ [5]_ "
-"effectively using black as the alpha channel (|frei0r.screen|)"
+msgid "Perform an RGB[A] screen operation between the pixel sources\\ [5]_ effectively using black as the alpha channel (|frei0r.screen|)"
 msgstr ""
 
 #. +> trunk5
@@ -360,14 +305,10 @@ msgstr ""
 
 #. +> trunk5
 #: ../../compositing/compositions/blend_modes.rst:0
-msgid ""
-"Perform an RGB[A] softlight operation between the pixel sources (|"
-"frei0r.softlight|)"
+msgid "Perform an RGB[A] softlight operation between the pixel sources (|frei0r.softlight|)"
 msgstr ""
 
 #. +> trunk5
 #: ../../compositing/compositions/blend_modes.rst:0
-msgid ""
-"Perform an RGB[A] subtract operation of the pixel source input2 from input1 "
-"(|frei0r.subtract|)"
+msgid "Perform an RGB[A] subtract operation of the pixel source input2 from input1 (|frei0r.subtract|)"
 msgstr ""

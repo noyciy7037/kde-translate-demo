@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the  <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License SA 4.0</a> unless stated otherwise
+# This file is distributed under the same license as the Kdenlive Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Kdenlive Manual \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-13 09:58+0100\n"
-"PO-Revision-Date: 2023-11-19 07:32-0800\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Kdenlive Manual 25.12\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../<rst_epilog>:266
@@ -50,8 +49,7 @@ msgid "Maintained"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/audio_effects/volume_and_dynamics/compressor_expander.rst:27
-#: ../../effects_and_filters/audio_effects/volume_and_dynamics/compressor_expander.rst:33
+#: ../../effects_and_filters/audio_effects/volume_and_dynamics/compressor_expander.rst:27 ../../effects_and_filters/audio_effects/volume_and_dynamics/compressor_expander.rst:33
 #: ../../effects_and_filters/audio_effects/volume_and_dynamics/compressor_expander.rst:35
 msgid "No"
 msgstr ""
@@ -67,8 +65,7 @@ msgid "|linux| |appimage| |windows| |apple|"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/audio_effects/volume_and_dynamics/compressor_expander.rst:41
-#: ../../effects_and_filters/audio_effects/volume_and_dynamics/compressor_expander.rst:55
+#: ../../effects_and_filters/audio_effects/volume_and_dynamics/compressor_expander.rst:41 ../../effects_and_filters/audio_effects/volume_and_dynamics/compressor_expander.rst:55
 msgid "Description"
 msgstr ""
 
@@ -98,19 +95,15 @@ msgid "**Attacks**"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/audio_effects/volume_and_dynamics/compressor_expander.rst:58
-#: ../../effects_and_filters/audio_effects/volume_and_dynamics/compressor_expander.rst:61
-#: ../../effects_and_filters/audio_effects/volume_and_dynamics/compressor_expander.rst:64
-#: ../../effects_and_filters/audio_effects/volume_and_dynamics/compressor_expander.rst:67
+#: ../../effects_and_filters/audio_effects/volume_and_dynamics/compressor_expander.rst:58 ../../effects_and_filters/audio_effects/volume_and_dynamics/compressor_expander.rst:61
+#: ../../effects_and_filters/audio_effects/volume_and_dynamics/compressor_expander.rst:64 ../../effects_and_filters/audio_effects/volume_and_dynamics/compressor_expander.rst:67
 #: ../../effects_and_filters/audio_effects/volume_and_dynamics/compressor_expander.rst:70
 msgid "Float"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/audio_effects/volume_and_dynamics/compressor_expander.rst:59
-msgid ""
-"Sets time in fractions of a second over which increase of volume is "
-"determined"
+msgid "Sets time in fractions of a second over which increase of volume is determined"
 msgstr ""
 
 #. +> trunk5
@@ -120,9 +113,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/audio_effects/volume_and_dynamics/compressor_expander.rst:62
-msgid ""
-"Sets time in fractions of a second over which decrease of volume is "
-"determined"
+msgid "Sets time in fractions of a second over which decrease of volume is determined"
 msgstr ""
 
 #. +> trunk5
@@ -163,29 +154,21 @@ msgstr ""
 #. +> trunk5
 #: ../../effects_and_filters/audio_effects/volume_and_dynamics/compressor_expander.rst:76
 msgid ""
-"Compressor/Expander amplifies audio signals depending on their initial "
-"volume: low volume signals are left as is or are amplified, high volume "
-"signals are reduced. The objective is to level out peaks and valleys in the "
-"audio's volume range. This allows to increase the overall volume because the "
-"effect will prevent any clipping and hence distortion, which in turn "
-"elevates quiet sections. This is an important effect when dealing with voice "
-"recording where :guilabel:`Soft-Knee` and :guilabel:`Gain` play an important "
-"role. :guilabel:`Soft-Knee` reduces the peaks, and :guilabel:`Gain` raises "
-"the overall volume. In most cases the two values are the same or very close. "
-"It is not unusual to use values between 4 and up to 10 dB for voice "
-"recordings as this is depending on the dynamic range of the speaker."
+"Compressor/Expander amplifies audio signals depending on their initial volume: low volume signals are left as is or are amplified, high volume signals are reduced. The objective is to level out "
+"peaks and valleys in the audio's volume range. This allows to increase the overall volume because the effect will prevent any clipping and hence distortion, which in turn elevates quiet sections. "
+"This is an important effect when dealing with voice recording where :guilabel:`Soft-Knee` and :guilabel:`Gain` play an important role. :guilabel:`Soft-Knee` reduces the peaks, and :guilabel:`Gain` "
+"raises the overall volume. In most cases the two values are the same or very close. It is not unusual to use values between 4 and up to 10 dB for voice recordings as this is depending on the dynamic"
+" range of the speaker."
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/audio_effects/volume_and_dynamics/compressor_expander.rst:-1
+#: ../../effects_and_filters/audio_effects/volume_and_dynamics/compressor_expander.rst:-1:
 msgid "Kdenlive Audio Effects - Compressor/Expander"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/audio_effects/volume_and_dynamics/compressor_expander.rst:-1
-msgid ""
-"KDE, Kdenlive, documentation, user manual, video editor, open source, audio "
-"effects, volume, dynamics, compressor, expander"
+#: ../../effects_and_filters/audio_effects/volume_and_dynamics/compressor_expander.rst:-1:
+msgid "KDE, Kdenlive, documentation, user manual, video editor, open source, audio effects, volume, dynamics, compressor, expander"
 msgstr ""
 
 #. +> trunk5

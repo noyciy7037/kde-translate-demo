@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the  <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License SA 4.0</a> unless stated otherwise
+# This file is distributed under the same license as the Kdenlive Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Kdenlive Manual \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-13 09:59+0100\n"
-"PO-Revision-Date: 2024-09-07 19:44+0900\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Kdenlive Manual 25.12\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../<rst_epilog>:130
@@ -36,18 +35,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../titles_and_graphics/titles/title_patterns.rst:18
-msgid ""
-"Patterns are, like templates, reusable collections of objects. Any object "
-"you can add to a title and any group of objects can be saved as a pattern "
-"and added to a title clip."
+msgid "Patterns are, like templates, reusable collections of objects. Any object you can add to a title and any group of objects can be saved as a pattern and added to a title clip."
 msgstr ""
 
 #. +> trunk5
 #: ../../titles_and_graphics/titles/title_patterns.rst:20
-msgid ""
-"In contrast to title templates, adding a pattern does not overwrite the "
-"existing title clip but simply adds the pattern to whatever is already in "
-"the title clip."
+msgid "In contrast to title templates, adding a pattern does not overwrite the existing title clip but simply adds the pattern to whatever is already in the title clip."
 msgstr ""
 
 #. +> trunk5
@@ -57,23 +50,17 @@ msgstr ""
 
 #. +> trunk5
 #: ../../titles_and_graphics/titles/title_patterns.rst:29
-msgid ""
-"Select any object or a group of objects in the title editor workspace, click "
-"on the :guilabel:`Patterns` tab, and then on the |list-add|\\ :guilabel:`Add "
-"pattern` button."
+msgid "Select any object or a group of objects in the title editor workspace, click on the :guilabel:`Patterns` tab, and then on the |list-add|\\ :guilabel:`Add pattern` button."
 msgstr ""
 
 #. +> trunk5
 #: ../../titles_and_graphics/titles/title_patterns.rst:31
-msgid ""
-"To bring a pattern into a title clip, double-click on the respective pattern."
+msgid "To bring a pattern into a title clip, double-click on the respective pattern."
 msgstr ""
 
 #. +> trunk5
 #: ../../titles_and_graphics/titles/title_patterns.rst:33
-msgid ""
-"To delete a pattern, select it and click the |list-remove|"
-"\\ :guilabel:`Delete pattern` button."
+msgid "To delete a pattern, select it and click the |list-remove|\\ :guilabel:`Delete pattern` button."
 msgstr ""
 
 #. +> trunk5
@@ -88,29 +75,22 @@ msgstr ""
 
 #. +> trunk5
 #: ../../titles_and_graphics/titles/title_patterns.rst:40
-msgid ""
-"Deleting a pattern or all patterns at once takes place immediately and "
-"without warning message! And it cannot be undone! Use with caution!"
+msgid "Deleting a pattern or all patterns at once takes place immediately and without warning message! And it cannot be undone! Use with caution!"
 msgstr ""
 
 #. +> trunk5
 #: ../../titles_and_graphics/titles/title_patterns.rst:45
 msgid ""
-":guilabel:`Load template` Kdenlive opens a window with a drop-down list with "
-"all the title templates :ref:`stored in this default folder "
-"<title_file_operations-title_template>`. When you click on the template a "
-"preview is shown direct in the main workspace. Click on :guilabel:`Update "
-"Title` and the chosen template is added to the actual title."
+":guilabel:`Load template` Kdenlive opens a window with a drop-down list with all the title templates :ref:`stored in this default folder <title_file_operations-title_template>`. When you click on "
+"the template a preview is shown direct in the main workspace. Click on :guilabel:`Update Title` and the chosen template is added to the actual title."
 msgstr ""
 
 #. +> trunk5
-#: ../../titles_and_graphics/titles/title_patterns.rst:-1
+#: ../../titles_and_graphics/titles/title_patterns.rst:-1:
 msgid "Kdenlive Documentation - Title Patterns"
 msgstr ""
 
 #. +> trunk5
-#: ../../titles_and_graphics/titles/title_patterns.rst:-1
-msgid ""
-"KDE, Kdenlive, documentation, user manual, video editor, open source, free, "
-"learn, easy, titles, title clip, shapes, rectangle, ellipse, patterns"
+#: ../../titles_and_graphics/titles/title_patterns.rst:-1:
+msgid "KDE, Kdenlive, documentation, user manual, video editor, open source, free, learn, easy, titles, title clip, shapes, rectangle, ellipse, patterns"
 msgstr ""

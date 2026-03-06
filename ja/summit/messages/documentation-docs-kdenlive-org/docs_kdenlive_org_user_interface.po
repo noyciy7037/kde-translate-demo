@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the  <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License SA 4.0</a> unless stated otherwise
+# This file is distributed under the same license as the Kdenlive Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Kdenlive Manual \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-13 09:59+0100\n"
-"PO-Revision-Date: 2021-11-20 18:29-0800\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Kdenlive Manual 25.12\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../user_interface.rst:17
@@ -22,12 +21,9 @@ msgstr ""
 #. +> trunk5
 #: ../../user_interface.rst:19
 msgid ""
-"This section introduces the Kdenlive user interface (UI), explains the "
-"various :ref:`elements <ui_elements>`, :ref:`icons <ui_elements-icons>` "
-"and :ref:`buttons <ui_elements-icons>`, the :ref:`menu options <menu>`, the "
-"default :ref:`keyboard shortcuts <ui-keyboard_shortcuts>` that can speed up "
-"your editing work, and how you can :ref:`customize the layout <ui-"
-"workspace_layouts>` to fit your specific post-production workflow."
+"This section introduces the Kdenlive user interface (UI), explains the various :ref:`elements <ui_elements>`, :ref:`icons <ui_elements-icons>` and :ref:`buttons <ui_elements-icons>`, the :ref:`menu "
+"options <menu>`, the default :ref:`keyboard shortcuts <ui-keyboard_shortcuts>` that can speed up your editing work, and how you can :ref:`customize the layout <ui-workspace_layouts>` to fit your "
+"specific post-production workflow."
 msgstr ""
 
 #. +> trunk5
@@ -62,9 +58,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface.rst:40
-msgid ""
-"Opens a recent project directly. The same list as in :ref:`open recent "
-"<file_open_recent>`."
+msgid "Opens a recent project directly. The same list as in :ref:`open recent <file_open_recent>`."
 msgstr ""
 
 #. +> trunk5
@@ -85,9 +79,8 @@ msgstr ""
 #. +> trunk5
 #: ../../user_interface.rst:48
 msgid ""
-"If un-checked, Kdenlive will show the splash screen on startup instead. You "
-"can enable the :doc:`Welcome Screen in the environment settings </"
-"getting_started/configure_kdenlive/configuration_environment>`"
+"If un-checked, Kdenlive will show the splash screen on startup instead. You can enable the :doc:`Welcome Screen in the environment settings "
+"</getting_started/configure_kdenlive/configuration_environment>`"
 msgstr ""
 
 #. +> trunk5
@@ -97,16 +90,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface.rst:52
-msgid ""
-"If a project is opened from command line or file browser, instead of the "
-"welcome screen the splash screen is showing up."
+msgid "If a project is opened from command line or file browser, instead of the welcome screen the splash screen is showing up."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface.rst:57
-msgid ""
-"Kdenlive's splash screen when the welcome screen is disabled or a project is "
-"opened from command line or file browser"
+msgid "Kdenlive's splash screen when the welcome screen is disabled or a project is opened from command line or file browser"
 msgstr ""
 
 #. +> trunk5
@@ -117,10 +106,8 @@ msgstr ""
 #. +> trunk5
 #: ../../user_interface.rst:66
 msgid ""
-"After starting Kdenlive the window should look similar to the image below. "
-"Kdenlive's user interface (UI) is consistent across all platforms, so it "
-"doesn't matter whether your operating system is Linux, Windows or MacOS. Of "
-"course, icons and text look different."
+"After starting Kdenlive the window should look similar to the image below. Kdenlive's user interface (UI) is consistent across all platforms, so it doesn't matter whether your operating system is "
+"Linux, Windows or MacOS. Of course, icons and text look different."
 msgstr ""
 
 #. +> trunk5
@@ -130,23 +117,17 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface.rst:70
-msgid ""
-"[A] The Workspace with the various :term:`widgets<widget>` that can be "
-"arranged to your needs. See the :ref:`view_menu` and :ref:`ui-"
-"workspace_layouts` for more details."
+msgid "[A] The Workspace with the various :term:`widgets<widget>` that can be arranged to your needs. See the :ref:`view_menu` and :ref:`ui-workspace_layouts` for more details."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface.rst:72
-msgid ""
-"[B] The Menu Bar with the :ref:`Menu <menu>` and list of :ref:`ui-"
-"workspace_layouts`."
+msgid "[B] The Menu Bar with the :ref:`Menu <menu>` and list of :ref:`ui-workspace_layouts`."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface.rst:74
-msgid ""
-"[C] The :ref:`toolbars` below the menu bar and above the :ref:`timeline`."
+msgid "[C] The :ref:`toolbars` below the menu bar and above the :ref:`timeline`."
 msgstr ""
 
 #. +> trunk5
@@ -156,9 +137,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface.rst:81
-msgid ""
-"Kdenlive's default screen layout (example uses the Editing view): Menu Bar "
-"(blue), Toolbars (yellow), Workspace (green) and Status Bar (red)."
+msgid "Kdenlive's default screen layout (example uses the Editing view): Menu Bar (blue), Toolbars (yellow), Workspace (green) and Status Bar (red)."
 msgstr ""
 
 #. +> trunk5
@@ -169,9 +148,7 @@ msgstr ""
 #. +> trunk5
 #: ../../user_interface.rst:87
 msgid ""
-"The Workspace model follows the video editing workflow and can be adapted to "
-"your individual style and preferences. By default, Kdenlive starts with the "
-"Editing workspace model that looks like this:"
+"The Workspace model follows the video editing workflow and can be adapted to your individual style and preferences. By default, Kdenlive starts with the Editing workspace model that looks like this:"
 msgstr ""
 
 #. +> trunk5
@@ -182,89 +159,66 @@ msgstr ""
 #. +> trunk5
 #: ../../user_interface.rst:96
 msgid ""
-"This is where you keep your source files (video clips, images and image "
-"sequences, title and color clips, animations, audio files). In this "
-"screenshot the :term:`widgets<widget>` for :ref:`Undo History "
-"<undo_history>`, :doc:`Compositions </compositing/compositions>`, "
-"and :ref:`Effects <effects-effects_tab>` have been added to this section."
+"This is where you keep your source files (video clips, images and image sequences, title and color clips, animations, audio files). In this screenshot the :term:`widgets<widget>` for :ref:`Undo "
+"History <undo_history>`, :doc:`Compositions </compositing/compositions>`, and :ref:`Effects <effects-effects_tab>` have been added to this section."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface.rst:99
 msgid ""
-"This is where the clip selected in the project bin is displayed. In this "
-"screenshot the widget for :term:`Library` has been added to this section. "
-"See the chapter :ref:`ui-monitors_clip_monitor` for more details."
+"This is where the clip selected in the project bin is displayed. In this screenshot the widget for :term:`Library` has been added to this section. See the chapter :ref:`ui-monitors_clip_monitor` for"
+" more details."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface.rst:102
 msgid ""
-"This is where the content of the :term:`timeline` is being displayed with "
-"all effects and compositions applied. In this screenshot the widgets "
-"for :ref:`Speech Editor <effects-speech_to_text>` and :doc:`Project Notes </"
-"project_and_asset_management/project_notes>` have been added to this "
-"section. See the chapter :ref:`ui-monitors_project_monitor` for more details."
+"This is where the content of the :term:`timeline` is being displayed with all effects and compositions applied. In this screenshot the widgets for :ref:`Speech Editor <effects-speech_to_text>` and "
+":doc:`Project Notes </project_and_asset_management/project_notes>` have been added to this section. See the chapter :ref:`ui-monitors_project_monitor` for more details."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface.rst:105
 msgid ""
-"Most of the action is taking place in the timeline. Here you put your "
-"sources in the order in which they will appear in the final video, make "
-"your :ref:`edits <editing>` (cuts and trimmings), :ref:`apply effects "
-"<effects-apply_effects>`, add :doc:`compositions </compositing/"
-"compositions>` and :doc:`transitions </compositing/transitions>`, and add "
-"audio and sound tracks. See the chapter :ref:`timeline` for more details."
+"Most of the action is taking place in the timeline. Here you put your sources in the order in which they will appear in the final video, make your :ref:`edits <editing>` (cuts and trimmings), "
+":ref:`apply effects <effects-apply_effects>`, add :doc:`compositions </compositing/compositions>` and :doc:`transitions </compositing/transitions>`, and add audio and sound tracks. See the chapter "
+":ref:`timeline` for more details."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface.rst:108
-msgid ""
-"This is where you find all the tools you need to edit your video project. "
-"See the chapter :ref:`timeline_toolbar3` for more details."
+msgid "This is where you find all the tools you need to edit your video project. See the chapter :ref:`timeline_toolbar3` for more details."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface.rst:111
-msgid ""
-"This section holds the :ref:`audio mixing panel <effects-audio_tools>` where "
-"you control the volume and pan of the various audio tracks and the master."
+msgid "This section holds the :ref:`audio mixing panel <effects-audio_tools>` where you control the volume and pan of the various audio tracks and the master."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface.rst:114
 msgid ""
-"At the top of the screen you have access to the menu (see :ref:`menubar` "
-"and :ref:`Menu <menu>` for more details), the :ref:`ui-workspace_layouts` "
-"and the :ref:`main_toolbar`. The menu bar can be switched on and off "
-"with :kbd:`Ctrl+M`."
+"At the top of the screen you have access to the menu (see :ref:`menubar` and :ref:`Menu <menu>` for more details), the :ref:`ui-workspace_layouts` and the :ref:`main_toolbar`. The menu bar can be "
+"switched on and off with :kbd:`Ctrl+M`."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface.rst:117
 msgid ""
-"Kdenlive displays context-specific information or hints on the left-hand "
-"side of the status bar depending on where you hover the mouse pointer. In "
-"the middle you see the names of the clips you hover over in the timeline. "
-"This is also where error messages come up when working with clips in the "
-"timeline. On the right-hand side Kdenlive displays the currently selected "
-"timeline :ref:`edit tool <timeline_edit_tools>` and the icons to toggle "
-"various timeline features. See the sections about :ref:`status bar icons "
-"<ui_elements-status_bar_icons>` and the :ref:`status bar <status_toolbar>` "
-"for more details."
+"Kdenlive displays context-specific information or hints on the left-hand side of the status bar depending on where you hover the mouse pointer. In the middle you see the names of the clips you hover"
+" over in the timeline. This is also where error messages come up when working with clips in the timeline. On the right-hand side Kdenlive displays the currently selected timeline :ref:`edit tool "
+"<timeline_edit_tools>` and the icons to toggle various timeline features. See the sections about :ref:`status bar icons <ui_elements-status_bar_icons>` and the :ref:`status bar <status_toolbar>` for"
+" more details."
 msgstr ""
 
 #. +> trunk5
-#: ../../user_interface.rst:-1
+#: ../../user_interface.rst:-1:
 msgid "Introduction to Kdenlive's User Interface"
 msgstr ""
 
 #. +> trunk5
-#: ../../user_interface.rst:-1
-msgid ""
-"KDE, Kdenlive, user interface, documentation, user manual, video editor, "
-"open source, free, learn, easy, user interface, layout, widget"
+#: ../../user_interface.rst:-1:
+msgid "KDE, Kdenlive, user interface, documentation, user manual, video editor, open source, free, learn, easy, user interface, layout, widget"
 msgstr ""
 
 #. +> trunk5

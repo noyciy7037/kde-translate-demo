@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the  <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License SA 4.0</a> unless stated otherwise
+# This file is distributed under the same license as the Kdenlive Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Kdenlive Manual \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-13 09:58+0100\n"
-"PO-Revision-Date: 2023-11-19 07:32-0800\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Kdenlive Manual 25.12\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../<rst_epilog>:266
@@ -50,8 +49,7 @@ msgid "Maintained"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/audio_effects/volume_and_dynamics/limiter.rst:25
-#: ../../effects_and_filters/audio_effects/volume_and_dynamics/limiter.rst:31
+#: ../../effects_and_filters/audio_effects/volume_and_dynamics/limiter.rst:25 ../../effects_and_filters/audio_effects/volume_and_dynamics/limiter.rst:31
 #: ../../effects_and_filters/audio_effects/volume_and_dynamics/limiter.rst:33
 msgid "No"
 msgstr ""
@@ -67,19 +65,15 @@ msgid "|linux| |appimage| |windows| |apple|"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/audio_effects/volume_and_dynamics/limiter.rst:39
-#: ../../effects_and_filters/audio_effects/volume_and_dynamics/limiter.rst:52
+#: ../../effects_and_filters/audio_effects/volume_and_dynamics/limiter.rst:39 ../../effects_and_filters/audio_effects/volume_and_dynamics/limiter.rst:52
 msgid "Description"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/audio_effects/volume_and_dynamics/limiter.rst:40
 msgid ""
-"The limiter prevents an input signal from rising over a desired threshold. "
-"This limiter uses lookahead technology to prevent your signal from "
-"distorting. It means that there is a small delay after the signal is "
-"processed. Keep in mind that the delay it produces is the attack time you "
-"set."
+"The limiter prevents an input signal from rising over a desired threshold. This limiter uses lookahead technology to prevent your signal from distorting. It means that there is a small delay after "
+"the signal is processed. Keep in mind that the delay it produces is the attack time you set."
 msgstr ""
 
 #. +> trunk5
@@ -103,10 +97,8 @@ msgid "**Input gain**"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/audio_effects/volume_and_dynamics/limiter.rst:55
-#: ../../effects_and_filters/audio_effects/volume_and_dynamics/limiter.rst:58
-#: ../../effects_and_filters/audio_effects/volume_and_dynamics/limiter.rst:61
-#: ../../effects_and_filters/audio_effects/volume_and_dynamics/limiter.rst:64
+#: ../../effects_and_filters/audio_effects/volume_and_dynamics/limiter.rst:55 ../../effects_and_filters/audio_effects/volume_and_dynamics/limiter.rst:58
+#: ../../effects_and_filters/audio_effects/volume_and_dynamics/limiter.rst:61 ../../effects_and_filters/audio_effects/volume_and_dynamics/limiter.rst:64
 #: ../../effects_and_filters/audio_effects/volume_and_dynamics/limiter.rst:73
 msgid "Float"
 msgstr ""
@@ -143,9 +135,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/audio_effects/volume_and_dynamics/limiter.rst:65
-msgid ""
-"The limiter will reach its attenuation level in this amount of time in "
-"milliseconds. Default is 5 milliseconds."
+msgid "The limiter will reach its attenuation level in this amount of time in milliseconds. Default is 5 milliseconds."
 msgstr ""
 
 #. +> trunk5
@@ -160,9 +150,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/audio_effects/volume_and_dynamics/limiter.rst:68
-msgid ""
-"Come back from limiting to attenuation 1.0 in this amount of milliseconds. "
-"Default is 50 milliseconds."
+msgid "Come back from limiting to attenuation 1.0 in this amount of milliseconds. Default is 50 milliseconds."
 msgstr ""
 
 #. +> trunk5
@@ -171,17 +159,13 @@ msgid "**Enable ASC**"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/audio_effects/volume_and_dynamics/limiter.rst:70
-#: ../../effects_and_filters/audio_effects/volume_and_dynamics/limiter.rst:76
+#: ../../effects_and_filters/audio_effects/volume_and_dynamics/limiter.rst:70 ../../effects_and_filters/audio_effects/volume_and_dynamics/limiter.rst:76
 msgid "Switch"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/audio_effects/volume_and_dynamics/limiter.rst:71
-msgid ""
-"When gain reduction is always needed ASC takes care of releasing to an "
-"average reduction level rather than reaching a reduction of 0 in the release "
-"time."
+msgid "When gain reduction is always needed ASC takes care of releasing to an average reduction level rather than reaching a reduction of 0 in the release time."
 msgstr ""
 
 #. +> trunk5
@@ -191,9 +175,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/audio_effects/volume_and_dynamics/limiter.rst:74
-msgid ""
-"Select how much the release time is affected by ASC, 0 means nearly no "
-"changes in release time while 1 produces higher release times."
+msgid "Select how much the release time is affected by ASC, 0 means nearly no changes in release time while 1 produces higher release times."
 msgstr ""
 
 #. +> trunk5
@@ -203,21 +185,17 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/audio_effects/volume_and_dynamics/limiter.rst:77
-msgid ""
-"Auto level output signal. Default is enabled. This normalizes audio back to "
-"0dB if enabled."
+msgid "Auto level output signal. Default is enabled. This normalizes audio back to 0dB if enabled."
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/audio_effects/volume_and_dynamics/limiter.rst:-1
+#: ../../effects_and_filters/audio_effects/volume_and_dynamics/limiter.rst:-1:
 msgid "Kdenlive Audio Effects - Limiter"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/audio_effects/volume_and_dynamics/limiter.rst:-1
-msgid ""
-"KDE, Kdenlive, documentation, user manual, video editor, open source, audio "
-"effects, volume, dynamics, limiter"
+#: ../../effects_and_filters/audio_effects/volume_and_dynamics/limiter.rst:-1:
+msgid "KDE, Kdenlive, documentation, user manual, video editor, open source, audio effects, volume, dynamics, limiter"
 msgstr ""
 
 #. +> trunk5

@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the  <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License SA 4.0</a> unless stated otherwise
+# This file is distributed under the same license as the Kdenlive Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Kdenlive Manual \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-13 09:58+0100\n"
-"PO-Revision-Date: 2023-12-12 20:05-0800\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Kdenlive Manual 25.12\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../<rst_epilog>:632
@@ -42,11 +41,8 @@ msgstr ""
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:25
 msgid ""
-"The effects and compositions included will differ depending on the available "
-"plug-ins on the specific packaging on each operating system. Kdenlive will "
-"auto-detect and make available any supported LADSPA plug-in packages from "
-"your distribution. For the greatest compatibility, please use the AppImage "
-"version of Kdenlive."
+"The effects and compositions included will differ depending on the available plug-ins on the specific packaging on each operating system. Kdenlive will auto-detect and make available any supported "
+"LADSPA plug-in packages from your distribution. For the greatest compatibility, please use the AppImage version of Kdenlive."
 msgstr ""
 
 #. +> trunk5
@@ -71,230 +67,86 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:38
-msgid ""
-":doc:`4 x 4 pole allpass </effects_and_filters/audio_effects/swh_plugins/"
-"index>`"
+msgid ":doc:`4 x 4 pole allpass </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/lists/audio_effects_list.rst:39
-#: ../../effects_and_filters/lists/audio_effects_list.rst:87
-#: ../../effects_and_filters/lists/audio_effects_list.rst:95
-#: ../../effects_and_filters/lists/audio_effects_list.rst:99
-#: ../../effects_and_filters/lists/audio_effects_list.rst:103
-#: ../../effects_and_filters/lists/audio_effects_list.rst:107
-#: ../../effects_and_filters/lists/audio_effects_list.rst:147
-#: ../../effects_and_filters/lists/audio_effects_list.rst:159
-#: ../../effects_and_filters/lists/audio_effects_list.rst:187
-#: ../../effects_and_filters/lists/audio_effects_list.rst:207
-#: ../../effects_and_filters/lists/audio_effects_list.rst:223
-#: ../../effects_and_filters/lists/audio_effects_list.rst:231
-#: ../../effects_and_filters/lists/audio_effects_list.rst:235
-#: ../../effects_and_filters/lists/audio_effects_list.rst:243
-#: ../../effects_and_filters/lists/audio_effects_list.rst:247
-#: ../../effects_and_filters/lists/audio_effects_list.rst:251
-#: ../../effects_and_filters/lists/audio_effects_list.rst:255
-#: ../../effects_and_filters/lists/audio_effects_list.rst:259
-#: ../../effects_and_filters/lists/audio_effects_list.rst:263
-#: ../../effects_and_filters/lists/audio_effects_list.rst:275
-#: ../../effects_and_filters/lists/audio_effects_list.rst:283
-#: ../../effects_and_filters/lists/audio_effects_list.rst:287
-#: ../../effects_and_filters/lists/audio_effects_list.rst:295
-#: ../../effects_and_filters/lists/audio_effects_list.rst:307
-#: ../../effects_and_filters/lists/audio_effects_list.rst:315
-#: ../../effects_and_filters/lists/audio_effects_list.rst:319
-#: ../../effects_and_filters/lists/audio_effects_list.rst:327
-#: ../../effects_and_filters/lists/audio_effects_list.rst:335
-#: ../../effects_and_filters/lists/audio_effects_list.rst:343
-#: ../../effects_and_filters/lists/audio_effects_list.rst:347
-#: ../../effects_and_filters/lists/audio_effects_list.rst:351
-#: ../../effects_and_filters/lists/audio_effects_list.rst:359
-#: ../../effects_and_filters/lists/audio_effects_list.rst:367
-#: ../../effects_and_filters/lists/audio_effects_list.rst:383
-#: ../../effects_and_filters/lists/audio_effects_list.rst:387
-#: ../../effects_and_filters/lists/audio_effects_list.rst:399
-#: ../../effects_and_filters/lists/audio_effects_list.rst:403
-#: ../../effects_and_filters/lists/audio_effects_list.rst:411
-#: ../../effects_and_filters/lists/audio_effects_list.rst:419
-#: ../../effects_and_filters/lists/audio_effects_list.rst:423
-#: ../../effects_and_filters/lists/audio_effects_list.rst:435
-#: ../../effects_and_filters/lists/audio_effects_list.rst:443
-#: ../../effects_and_filters/lists/audio_effects_list.rst:447
-#: ../../effects_and_filters/lists/audio_effects_list.rst:451
-#: ../../effects_and_filters/lists/audio_effects_list.rst:455
-#: ../../effects_and_filters/lists/audio_effects_list.rst:459
-#: ../../effects_and_filters/lists/audio_effects_list.rst:463
-#: ../../effects_and_filters/lists/audio_effects_list.rst:467
-#: ../../effects_and_filters/lists/audio_effects_list.rst:471
-#: ../../effects_and_filters/lists/audio_effects_list.rst:475
-#: ../../effects_and_filters/lists/audio_effects_list.rst:479
-#: ../../effects_and_filters/lists/audio_effects_list.rst:483
-#: ../../effects_and_filters/lists/audio_effects_list.rst:491
-#: ../../effects_and_filters/lists/audio_effects_list.rst:495
-#: ../../effects_and_filters/lists/audio_effects_list.rst:507
-#: ../../effects_and_filters/lists/audio_effects_list.rst:511
-#: ../../effects_and_filters/lists/audio_effects_list.rst:515
-#: ../../effects_and_filters/lists/audio_effects_list.rst:531
-#: ../../effects_and_filters/lists/audio_effects_list.rst:535
-#: ../../effects_and_filters/lists/audio_effects_list.rst:543
-#: ../../effects_and_filters/lists/audio_effects_list.rst:547
-#: ../../effects_and_filters/lists/audio_effects_list.rst:551
-#: ../../effects_and_filters/lists/audio_effects_list.rst:555
-#: ../../effects_and_filters/lists/audio_effects_list.rst:559
-#: ../../effects_and_filters/lists/audio_effects_list.rst:583
-#: ../../effects_and_filters/lists/audio_effects_list.rst:587
-#: ../../effects_and_filters/lists/audio_effects_list.rst:591
-#: ../../effects_and_filters/lists/audio_effects_list.rst:595
-#: ../../effects_and_filters/lists/audio_effects_list.rst:599
-#: ../../effects_and_filters/lists/audio_effects_list.rst:611
-#: ../../effects_and_filters/lists/audio_effects_list.rst:615
-#: ../../effects_and_filters/lists/audio_effects_list.rst:619
-#: ../../effects_and_filters/lists/audio_effects_list.rst:623
-#: ../../effects_and_filters/lists/audio_effects_list.rst:651
-#: ../../effects_and_filters/lists/audio_effects_list.rst:655
-#: ../../effects_and_filters/lists/audio_effects_list.rst:659
-#: ../../effects_and_filters/lists/audio_effects_list.rst:667
-#: ../../effects_and_filters/lists/audio_effects_list.rst:671
-#: ../../effects_and_filters/lists/audio_effects_list.rst:675
-#: ../../effects_and_filters/lists/audio_effects_list.rst:679
-#: ../../effects_and_filters/lists/audio_effects_list.rst:683
-#: ../../effects_and_filters/lists/audio_effects_list.rst:695
-#: ../../effects_and_filters/lists/audio_effects_list.rst:699
-#: ../../effects_and_filters/lists/audio_effects_list.rst:703
-#: ../../effects_and_filters/lists/audio_effects_list.rst:707
-#: ../../effects_and_filters/lists/audio_effects_list.rst:711
-#: ../../effects_and_filters/lists/audio_effects_list.rst:715
-#: ../../effects_and_filters/lists/audio_effects_list.rst:719
-#: ../../effects_and_filters/lists/audio_effects_list.rst:723
-#: ../../effects_and_filters/lists/audio_effects_list.rst:735
-#: ../../effects_and_filters/lists/audio_effects_list.rst:739
-#: ../../effects_and_filters/lists/audio_effects_list.rst:743
-#: ../../effects_and_filters/lists/audio_effects_list.rst:747
-#: ../../effects_and_filters/lists/audio_effects_list.rst:779
-#: ../../effects_and_filters/lists/audio_effects_list.rst:783
-#: ../../effects_and_filters/lists/audio_effects_list.rst:787
-#: ../../effects_and_filters/lists/audio_effects_list.rst:831
-#: ../../effects_and_filters/lists/audio_effects_list.rst:835
-#: ../../effects_and_filters/lists/audio_effects_list.rst:843
-#: ../../effects_and_filters/lists/audio_effects_list.rst:847
-#: ../../effects_and_filters/lists/audio_effects_list.rst:859
-#: ../../effects_and_filters/lists/audio_effects_list.rst:943
-#: ../../effects_and_filters/lists/audio_effects_list.rst:951
-#: ../../effects_and_filters/lists/audio_effects_list.rst:959
-#: ../../effects_and_filters/lists/audio_effects_list.rst:963
-#: ../../effects_and_filters/lists/audio_effects_list.rst:967
-#: ../../effects_and_filters/lists/audio_effects_list.rst:991
-#: ../../effects_and_filters/lists/audio_effects_list.rst:995
-#: ../../effects_and_filters/lists/audio_effects_list.rst:1003
-#: ../../effects_and_filters/lists/audio_effects_list.rst:1007
+#: ../../effects_and_filters/lists/audio_effects_list.rst:39 ../../effects_and_filters/lists/audio_effects_list.rst:87 ../../effects_and_filters/lists/audio_effects_list.rst:95
+#: ../../effects_and_filters/lists/audio_effects_list.rst:99 ../../effects_and_filters/lists/audio_effects_list.rst:103 ../../effects_and_filters/lists/audio_effects_list.rst:107
+#: ../../effects_and_filters/lists/audio_effects_list.rst:147 ../../effects_and_filters/lists/audio_effects_list.rst:159 ../../effects_and_filters/lists/audio_effects_list.rst:187
+#: ../../effects_and_filters/lists/audio_effects_list.rst:207 ../../effects_and_filters/lists/audio_effects_list.rst:223 ../../effects_and_filters/lists/audio_effects_list.rst:231
+#: ../../effects_and_filters/lists/audio_effects_list.rst:235 ../../effects_and_filters/lists/audio_effects_list.rst:243 ../../effects_and_filters/lists/audio_effects_list.rst:247
+#: ../../effects_and_filters/lists/audio_effects_list.rst:251 ../../effects_and_filters/lists/audio_effects_list.rst:255 ../../effects_and_filters/lists/audio_effects_list.rst:259
+#: ../../effects_and_filters/lists/audio_effects_list.rst:263 ../../effects_and_filters/lists/audio_effects_list.rst:275 ../../effects_and_filters/lists/audio_effects_list.rst:283
+#: ../../effects_and_filters/lists/audio_effects_list.rst:287 ../../effects_and_filters/lists/audio_effects_list.rst:295 ../../effects_and_filters/lists/audio_effects_list.rst:307
+#: ../../effects_and_filters/lists/audio_effects_list.rst:315 ../../effects_and_filters/lists/audio_effects_list.rst:319 ../../effects_and_filters/lists/audio_effects_list.rst:327
+#: ../../effects_and_filters/lists/audio_effects_list.rst:335 ../../effects_and_filters/lists/audio_effects_list.rst:343 ../../effects_and_filters/lists/audio_effects_list.rst:347
+#: ../../effects_and_filters/lists/audio_effects_list.rst:351 ../../effects_and_filters/lists/audio_effects_list.rst:359 ../../effects_and_filters/lists/audio_effects_list.rst:367
+#: ../../effects_and_filters/lists/audio_effects_list.rst:383 ../../effects_and_filters/lists/audio_effects_list.rst:387 ../../effects_and_filters/lists/audio_effects_list.rst:399
+#: ../../effects_and_filters/lists/audio_effects_list.rst:403 ../../effects_and_filters/lists/audio_effects_list.rst:411 ../../effects_and_filters/lists/audio_effects_list.rst:419
+#: ../../effects_and_filters/lists/audio_effects_list.rst:423 ../../effects_and_filters/lists/audio_effects_list.rst:435 ../../effects_and_filters/lists/audio_effects_list.rst:443
+#: ../../effects_and_filters/lists/audio_effects_list.rst:447 ../../effects_and_filters/lists/audio_effects_list.rst:451 ../../effects_and_filters/lists/audio_effects_list.rst:455
+#: ../../effects_and_filters/lists/audio_effects_list.rst:459 ../../effects_and_filters/lists/audio_effects_list.rst:463 ../../effects_and_filters/lists/audio_effects_list.rst:467
+#: ../../effects_and_filters/lists/audio_effects_list.rst:471 ../../effects_and_filters/lists/audio_effects_list.rst:475 ../../effects_and_filters/lists/audio_effects_list.rst:479
+#: ../../effects_and_filters/lists/audio_effects_list.rst:483 ../../effects_and_filters/lists/audio_effects_list.rst:491 ../../effects_and_filters/lists/audio_effects_list.rst:495
+#: ../../effects_and_filters/lists/audio_effects_list.rst:507 ../../effects_and_filters/lists/audio_effects_list.rst:511 ../../effects_and_filters/lists/audio_effects_list.rst:515
+#: ../../effects_and_filters/lists/audio_effects_list.rst:531 ../../effects_and_filters/lists/audio_effects_list.rst:535 ../../effects_and_filters/lists/audio_effects_list.rst:543
+#: ../../effects_and_filters/lists/audio_effects_list.rst:547 ../../effects_and_filters/lists/audio_effects_list.rst:551 ../../effects_and_filters/lists/audio_effects_list.rst:555
+#: ../../effects_and_filters/lists/audio_effects_list.rst:559 ../../effects_and_filters/lists/audio_effects_list.rst:583 ../../effects_and_filters/lists/audio_effects_list.rst:587
+#: ../../effects_and_filters/lists/audio_effects_list.rst:591 ../../effects_and_filters/lists/audio_effects_list.rst:595 ../../effects_and_filters/lists/audio_effects_list.rst:599
+#: ../../effects_and_filters/lists/audio_effects_list.rst:611 ../../effects_and_filters/lists/audio_effects_list.rst:615 ../../effects_and_filters/lists/audio_effects_list.rst:619
+#: ../../effects_and_filters/lists/audio_effects_list.rst:623 ../../effects_and_filters/lists/audio_effects_list.rst:651 ../../effects_and_filters/lists/audio_effects_list.rst:655
+#: ../../effects_and_filters/lists/audio_effects_list.rst:659 ../../effects_and_filters/lists/audio_effects_list.rst:667 ../../effects_and_filters/lists/audio_effects_list.rst:671
+#: ../../effects_and_filters/lists/audio_effects_list.rst:675 ../../effects_and_filters/lists/audio_effects_list.rst:679 ../../effects_and_filters/lists/audio_effects_list.rst:683
+#: ../../effects_and_filters/lists/audio_effects_list.rst:695 ../../effects_and_filters/lists/audio_effects_list.rst:699 ../../effects_and_filters/lists/audio_effects_list.rst:703
+#: ../../effects_and_filters/lists/audio_effects_list.rst:707 ../../effects_and_filters/lists/audio_effects_list.rst:711 ../../effects_and_filters/lists/audio_effects_list.rst:715
+#: ../../effects_and_filters/lists/audio_effects_list.rst:719 ../../effects_and_filters/lists/audio_effects_list.rst:723 ../../effects_and_filters/lists/audio_effects_list.rst:735
+#: ../../effects_and_filters/lists/audio_effects_list.rst:739 ../../effects_and_filters/lists/audio_effects_list.rst:743 ../../effects_and_filters/lists/audio_effects_list.rst:747
+#: ../../effects_and_filters/lists/audio_effects_list.rst:779 ../../effects_and_filters/lists/audio_effects_list.rst:783 ../../effects_and_filters/lists/audio_effects_list.rst:787
+#: ../../effects_and_filters/lists/audio_effects_list.rst:831 ../../effects_and_filters/lists/audio_effects_list.rst:835 ../../effects_and_filters/lists/audio_effects_list.rst:843
+#: ../../effects_and_filters/lists/audio_effects_list.rst:847 ../../effects_and_filters/lists/audio_effects_list.rst:859 ../../effects_and_filters/lists/audio_effects_list.rst:943
+#: ../../effects_and_filters/lists/audio_effects_list.rst:951 ../../effects_and_filters/lists/audio_effects_list.rst:959 ../../effects_and_filters/lists/audio_effects_list.rst:963
+#: ../../effects_and_filters/lists/audio_effects_list.rst:967 ../../effects_and_filters/lists/audio_effects_list.rst:991 ../../effects_and_filters/lists/audio_effects_list.rst:995
+#: ../../effects_and_filters/lists/audio_effects_list.rst:1003 ../../effects_and_filters/lists/audio_effects_list.rst:1007
 msgid "|linux|"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/lists/audio_effects_list.rst:40
-#: ../../effects_and_filters/lists/audio_effects_list.rst:88
-#: ../../effects_and_filters/lists/audio_effects_list.rst:96
-#: ../../effects_and_filters/lists/audio_effects_list.rst:100
-#: ../../effects_and_filters/lists/audio_effects_list.rst:104
-#: ../../effects_and_filters/lists/audio_effects_list.rst:108
-#: ../../effects_and_filters/lists/audio_effects_list.rst:148
-#: ../../effects_and_filters/lists/audio_effects_list.rst:188
-#: ../../effects_and_filters/lists/audio_effects_list.rst:208
-#: ../../effects_and_filters/lists/audio_effects_list.rst:224
-#: ../../effects_and_filters/lists/audio_effects_list.rst:232
-#: ../../effects_and_filters/lists/audio_effects_list.rst:236
-#: ../../effects_and_filters/lists/audio_effects_list.rst:244
-#: ../../effects_and_filters/lists/audio_effects_list.rst:248
-#: ../../effects_and_filters/lists/audio_effects_list.rst:252
-#: ../../effects_and_filters/lists/audio_effects_list.rst:256
-#: ../../effects_and_filters/lists/audio_effects_list.rst:260
-#: ../../effects_and_filters/lists/audio_effects_list.rst:264
-#: ../../effects_and_filters/lists/audio_effects_list.rst:276
-#: ../../effects_and_filters/lists/audio_effects_list.rst:284
-#: ../../effects_and_filters/lists/audio_effects_list.rst:296
-#: ../../effects_and_filters/lists/audio_effects_list.rst:308
-#: ../../effects_and_filters/lists/audio_effects_list.rst:316
-#: ../../effects_and_filters/lists/audio_effects_list.rst:320
-#: ../../effects_and_filters/lists/audio_effects_list.rst:328
-#: ../../effects_and_filters/lists/audio_effects_list.rst:336
-#: ../../effects_and_filters/lists/audio_effects_list.rst:344
-#: ../../effects_and_filters/lists/audio_effects_list.rst:348
-#: ../../effects_and_filters/lists/audio_effects_list.rst:352
-#: ../../effects_and_filters/lists/audio_effects_list.rst:360
-#: ../../effects_and_filters/lists/audio_effects_list.rst:368
-#: ../../effects_and_filters/lists/audio_effects_list.rst:384
-#: ../../effects_and_filters/lists/audio_effects_list.rst:388
-#: ../../effects_and_filters/lists/audio_effects_list.rst:404
-#: ../../effects_and_filters/lists/audio_effects_list.rst:412
-#: ../../effects_and_filters/lists/audio_effects_list.rst:420
-#: ../../effects_and_filters/lists/audio_effects_list.rst:424
-#: ../../effects_and_filters/lists/audio_effects_list.rst:436
-#: ../../effects_and_filters/lists/audio_effects_list.rst:444
-#: ../../effects_and_filters/lists/audio_effects_list.rst:448
-#: ../../effects_and_filters/lists/audio_effects_list.rst:452
-#: ../../effects_and_filters/lists/audio_effects_list.rst:456
-#: ../../effects_and_filters/lists/audio_effects_list.rst:460
-#: ../../effects_and_filters/lists/audio_effects_list.rst:464
-#: ../../effects_and_filters/lists/audio_effects_list.rst:468
-#: ../../effects_and_filters/lists/audio_effects_list.rst:472
-#: ../../effects_and_filters/lists/audio_effects_list.rst:476
-#: ../../effects_and_filters/lists/audio_effects_list.rst:480
-#: ../../effects_and_filters/lists/audio_effects_list.rst:484
-#: ../../effects_and_filters/lists/audio_effects_list.rst:492
-#: ../../effects_and_filters/lists/audio_effects_list.rst:496
-#: ../../effects_and_filters/lists/audio_effects_list.rst:508
-#: ../../effects_and_filters/lists/audio_effects_list.rst:512
-#: ../../effects_and_filters/lists/audio_effects_list.rst:516
-#: ../../effects_and_filters/lists/audio_effects_list.rst:532
-#: ../../effects_and_filters/lists/audio_effects_list.rst:536
-#: ../../effects_and_filters/lists/audio_effects_list.rst:544
-#: ../../effects_and_filters/lists/audio_effects_list.rst:548
-#: ../../effects_and_filters/lists/audio_effects_list.rst:552
-#: ../../effects_and_filters/lists/audio_effects_list.rst:556
-#: ../../effects_and_filters/lists/audio_effects_list.rst:560
-#: ../../effects_and_filters/lists/audio_effects_list.rst:584
-#: ../../effects_and_filters/lists/audio_effects_list.rst:588
-#: ../../effects_and_filters/lists/audio_effects_list.rst:592
-#: ../../effects_and_filters/lists/audio_effects_list.rst:596
-#: ../../effects_and_filters/lists/audio_effects_list.rst:600
-#: ../../effects_and_filters/lists/audio_effects_list.rst:612
-#: ../../effects_and_filters/lists/audio_effects_list.rst:616
-#: ../../effects_and_filters/lists/audio_effects_list.rst:620
-#: ../../effects_and_filters/lists/audio_effects_list.rst:624
-#: ../../effects_and_filters/lists/audio_effects_list.rst:652
-#: ../../effects_and_filters/lists/audio_effects_list.rst:656
-#: ../../effects_and_filters/lists/audio_effects_list.rst:660
-#: ../../effects_and_filters/lists/audio_effects_list.rst:668
-#: ../../effects_and_filters/lists/audio_effects_list.rst:672
-#: ../../effects_and_filters/lists/audio_effects_list.rst:676
-#: ../../effects_and_filters/lists/audio_effects_list.rst:680
-#: ../../effects_and_filters/lists/audio_effects_list.rst:684
-#: ../../effects_and_filters/lists/audio_effects_list.rst:696
-#: ../../effects_and_filters/lists/audio_effects_list.rst:700
-#: ../../effects_and_filters/lists/audio_effects_list.rst:704
-#: ../../effects_and_filters/lists/audio_effects_list.rst:708
-#: ../../effects_and_filters/lists/audio_effects_list.rst:712
-#: ../../effects_and_filters/lists/audio_effects_list.rst:716
-#: ../../effects_and_filters/lists/audio_effects_list.rst:720
-#: ../../effects_and_filters/lists/audio_effects_list.rst:724
-#: ../../effects_and_filters/lists/audio_effects_list.rst:740
-#: ../../effects_and_filters/lists/audio_effects_list.rst:744
-#: ../../effects_and_filters/lists/audio_effects_list.rst:748
-#: ../../effects_and_filters/lists/audio_effects_list.rst:780
-#: ../../effects_and_filters/lists/audio_effects_list.rst:784
-#: ../../effects_and_filters/lists/audio_effects_list.rst:788
-#: ../../effects_and_filters/lists/audio_effects_list.rst:832
-#: ../../effects_and_filters/lists/audio_effects_list.rst:836
-#: ../../effects_and_filters/lists/audio_effects_list.rst:860
-#: ../../effects_and_filters/lists/audio_effects_list.rst:944
-#: ../../effects_and_filters/lists/audio_effects_list.rst:952
-#: ../../effects_and_filters/lists/audio_effects_list.rst:960
-#: ../../effects_and_filters/lists/audio_effects_list.rst:964
-#: ../../effects_and_filters/lists/audio_effects_list.rst:968
-#: ../../effects_and_filters/lists/audio_effects_list.rst:992
-#: ../../effects_and_filters/lists/audio_effects_list.rst:996
-#: ../../effects_and_filters/lists/audio_effects_list.rst:1004
-#: ../../effects_and_filters/lists/audio_effects_list.rst:1008
+#: ../../effects_and_filters/lists/audio_effects_list.rst:40 ../../effects_and_filters/lists/audio_effects_list.rst:88 ../../effects_and_filters/lists/audio_effects_list.rst:96
+#: ../../effects_and_filters/lists/audio_effects_list.rst:100 ../../effects_and_filters/lists/audio_effects_list.rst:104 ../../effects_and_filters/lists/audio_effects_list.rst:108
+#: ../../effects_and_filters/lists/audio_effects_list.rst:148 ../../effects_and_filters/lists/audio_effects_list.rst:188 ../../effects_and_filters/lists/audio_effects_list.rst:208
+#: ../../effects_and_filters/lists/audio_effects_list.rst:224 ../../effects_and_filters/lists/audio_effects_list.rst:232 ../../effects_and_filters/lists/audio_effects_list.rst:236
+#: ../../effects_and_filters/lists/audio_effects_list.rst:244 ../../effects_and_filters/lists/audio_effects_list.rst:248 ../../effects_and_filters/lists/audio_effects_list.rst:252
+#: ../../effects_and_filters/lists/audio_effects_list.rst:256 ../../effects_and_filters/lists/audio_effects_list.rst:260 ../../effects_and_filters/lists/audio_effects_list.rst:264
+#: ../../effects_and_filters/lists/audio_effects_list.rst:276 ../../effects_and_filters/lists/audio_effects_list.rst:284 ../../effects_and_filters/lists/audio_effects_list.rst:296
+#: ../../effects_and_filters/lists/audio_effects_list.rst:308 ../../effects_and_filters/lists/audio_effects_list.rst:316 ../../effects_and_filters/lists/audio_effects_list.rst:320
+#: ../../effects_and_filters/lists/audio_effects_list.rst:328 ../../effects_and_filters/lists/audio_effects_list.rst:336 ../../effects_and_filters/lists/audio_effects_list.rst:344
+#: ../../effects_and_filters/lists/audio_effects_list.rst:348 ../../effects_and_filters/lists/audio_effects_list.rst:352 ../../effects_and_filters/lists/audio_effects_list.rst:360
+#: ../../effects_and_filters/lists/audio_effects_list.rst:368 ../../effects_and_filters/lists/audio_effects_list.rst:384 ../../effects_and_filters/lists/audio_effects_list.rst:388
+#: ../../effects_and_filters/lists/audio_effects_list.rst:404 ../../effects_and_filters/lists/audio_effects_list.rst:412 ../../effects_and_filters/lists/audio_effects_list.rst:420
+#: ../../effects_and_filters/lists/audio_effects_list.rst:424 ../../effects_and_filters/lists/audio_effects_list.rst:436 ../../effects_and_filters/lists/audio_effects_list.rst:444
+#: ../../effects_and_filters/lists/audio_effects_list.rst:448 ../../effects_and_filters/lists/audio_effects_list.rst:452 ../../effects_and_filters/lists/audio_effects_list.rst:456
+#: ../../effects_and_filters/lists/audio_effects_list.rst:460 ../../effects_and_filters/lists/audio_effects_list.rst:464 ../../effects_and_filters/lists/audio_effects_list.rst:468
+#: ../../effects_and_filters/lists/audio_effects_list.rst:472 ../../effects_and_filters/lists/audio_effects_list.rst:476 ../../effects_and_filters/lists/audio_effects_list.rst:480
+#: ../../effects_and_filters/lists/audio_effects_list.rst:484 ../../effects_and_filters/lists/audio_effects_list.rst:492 ../../effects_and_filters/lists/audio_effects_list.rst:496
+#: ../../effects_and_filters/lists/audio_effects_list.rst:508 ../../effects_and_filters/lists/audio_effects_list.rst:512 ../../effects_and_filters/lists/audio_effects_list.rst:516
+#: ../../effects_and_filters/lists/audio_effects_list.rst:532 ../../effects_and_filters/lists/audio_effects_list.rst:536 ../../effects_and_filters/lists/audio_effects_list.rst:544
+#: ../../effects_and_filters/lists/audio_effects_list.rst:548 ../../effects_and_filters/lists/audio_effects_list.rst:552 ../../effects_and_filters/lists/audio_effects_list.rst:556
+#: ../../effects_and_filters/lists/audio_effects_list.rst:560 ../../effects_and_filters/lists/audio_effects_list.rst:584 ../../effects_and_filters/lists/audio_effects_list.rst:588
+#: ../../effects_and_filters/lists/audio_effects_list.rst:592 ../../effects_and_filters/lists/audio_effects_list.rst:596 ../../effects_and_filters/lists/audio_effects_list.rst:600
+#: ../../effects_and_filters/lists/audio_effects_list.rst:612 ../../effects_and_filters/lists/audio_effects_list.rst:616 ../../effects_and_filters/lists/audio_effects_list.rst:620
+#: ../../effects_and_filters/lists/audio_effects_list.rst:624 ../../effects_and_filters/lists/audio_effects_list.rst:652 ../../effects_and_filters/lists/audio_effects_list.rst:656
+#: ../../effects_and_filters/lists/audio_effects_list.rst:660 ../../effects_and_filters/lists/audio_effects_list.rst:668 ../../effects_and_filters/lists/audio_effects_list.rst:672
+#: ../../effects_and_filters/lists/audio_effects_list.rst:676 ../../effects_and_filters/lists/audio_effects_list.rst:680 ../../effects_and_filters/lists/audio_effects_list.rst:684
+#: ../../effects_and_filters/lists/audio_effects_list.rst:696 ../../effects_and_filters/lists/audio_effects_list.rst:700 ../../effects_and_filters/lists/audio_effects_list.rst:704
+#: ../../effects_and_filters/lists/audio_effects_list.rst:708 ../../effects_and_filters/lists/audio_effects_list.rst:712 ../../effects_and_filters/lists/audio_effects_list.rst:716
+#: ../../effects_and_filters/lists/audio_effects_list.rst:720 ../../effects_and_filters/lists/audio_effects_list.rst:724 ../../effects_and_filters/lists/audio_effects_list.rst:740
+#: ../../effects_and_filters/lists/audio_effects_list.rst:744 ../../effects_and_filters/lists/audio_effects_list.rst:748 ../../effects_and_filters/lists/audio_effects_list.rst:780
+#: ../../effects_and_filters/lists/audio_effects_list.rst:784 ../../effects_and_filters/lists/audio_effects_list.rst:788 ../../effects_and_filters/lists/audio_effects_list.rst:832
+#: ../../effects_and_filters/lists/audio_effects_list.rst:836 ../../effects_and_filters/lists/audio_effects_list.rst:860 ../../effects_and_filters/lists/audio_effects_list.rst:944
+#: ../../effects_and_filters/lists/audio_effects_list.rst:952 ../../effects_and_filters/lists/audio_effects_list.rst:960 ../../effects_and_filters/lists/audio_effects_list.rst:964
+#: ../../effects_and_filters/lists/audio_effects_list.rst:968 ../../effects_and_filters/lists/audio_effects_list.rst:992 ../../effects_and_filters/lists/audio_effects_list.rst:996
+#: ../../effects_and_filters/lists/audio_effects_list.rst:1004 ../../effects_and_filters/lists/audio_effects_list.rst:1008
 msgid "SWH plugins"
 msgstr ""
 
@@ -309,81 +161,34 @@ msgid ":doc:`Adecorrelate </effects_and_filters/audio_effects/audio/index>`"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/lists/audio_effects_list.rst:43
-#: ../../effects_and_filters/lists/audio_effects_list.rst:59
-#: ../../effects_and_filters/lists/audio_effects_list.rst:63
-#: ../../effects_and_filters/lists/audio_effects_list.rst:75
-#: ../../effects_and_filters/lists/audio_effects_list.rst:83
-#: ../../effects_and_filters/lists/audio_effects_list.rst:111
-#: ../../effects_and_filters/lists/audio_effects_list.rst:115
-#: ../../effects_and_filters/lists/audio_effects_list.rst:119
-#: ../../effects_and_filters/lists/audio_effects_list.rst:123
-#: ../../effects_and_filters/lists/audio_effects_list.rst:127
-#: ../../effects_and_filters/lists/audio_effects_list.rst:131
-#: ../../effects_and_filters/lists/audio_effects_list.rst:139
-#: ../../effects_and_filters/lists/audio_effects_list.rst:155
-#: ../../effects_and_filters/lists/audio_effects_list.rst:183
-#: ../../effects_and_filters/lists/audio_effects_list.rst:239
-#: ../../effects_and_filters/lists/audio_effects_list.rst:331
-#: ../../effects_and_filters/lists/audio_effects_list.rst:339
-#: ../../effects_and_filters/lists/audio_effects_list.rst:355
-#: ../../effects_and_filters/lists/audio_effects_list.rst:363
-#: ../../effects_and_filters/lists/audio_effects_list.rst:391
-#: ../../effects_and_filters/lists/audio_effects_list.rst:431
-#: ../../effects_and_filters/lists/audio_effects_list.rst:487
-#: ../../effects_and_filters/lists/audio_effects_list.rst:503
-#: ../../effects_and_filters/lists/audio_effects_list.rst:519
-#: ../../effects_and_filters/lists/audio_effects_list.rst:539
-#: ../../effects_and_filters/lists/audio_effects_list.rst:567
-#: ../../effects_and_filters/lists/audio_effects_list.rst:571
-#: ../../effects_and_filters/lists/audio_effects_list.rst:607
-#: ../../effects_and_filters/lists/audio_effects_list.rst:631
-#: ../../effects_and_filters/lists/audio_effects_list.rst:727
-#: ../../effects_and_filters/lists/audio_effects_list.rst:731
-#: ../../effects_and_filters/lists/audio_effects_list.rst:751
-#: ../../effects_and_filters/lists/audio_effects_list.rst:755
-#: ../../effects_and_filters/lists/audio_effects_list.rst:759
-#: ../../effects_and_filters/lists/audio_effects_list.rst:763
-#: ../../effects_and_filters/lists/audio_effects_list.rst:767
-#: ../../effects_and_filters/lists/audio_effects_list.rst:771
-#: ../../effects_and_filters/lists/audio_effects_list.rst:775
-#: ../../effects_and_filters/lists/audio_effects_list.rst:947
-#: ../../effects_and_filters/lists/audio_effects_list.rst:971
-#: ../../effects_and_filters/lists/audio_effects_list.rst:979
-#: ../../effects_and_filters/lists/audio_effects_list.rst:999
+#: ../../effects_and_filters/lists/audio_effects_list.rst:43 ../../effects_and_filters/lists/audio_effects_list.rst:59 ../../effects_and_filters/lists/audio_effects_list.rst:63
+#: ../../effects_and_filters/lists/audio_effects_list.rst:75 ../../effects_and_filters/lists/audio_effects_list.rst:83 ../../effects_and_filters/lists/audio_effects_list.rst:111
+#: ../../effects_and_filters/lists/audio_effects_list.rst:115 ../../effects_and_filters/lists/audio_effects_list.rst:119 ../../effects_and_filters/lists/audio_effects_list.rst:123
+#: ../../effects_and_filters/lists/audio_effects_list.rst:127 ../../effects_and_filters/lists/audio_effects_list.rst:131 ../../effects_and_filters/lists/audio_effects_list.rst:139
+#: ../../effects_and_filters/lists/audio_effects_list.rst:155 ../../effects_and_filters/lists/audio_effects_list.rst:183 ../../effects_and_filters/lists/audio_effects_list.rst:239
+#: ../../effects_and_filters/lists/audio_effects_list.rst:331 ../../effects_and_filters/lists/audio_effects_list.rst:339 ../../effects_and_filters/lists/audio_effects_list.rst:355
+#: ../../effects_and_filters/lists/audio_effects_list.rst:363 ../../effects_and_filters/lists/audio_effects_list.rst:391 ../../effects_and_filters/lists/audio_effects_list.rst:431
+#: ../../effects_and_filters/lists/audio_effects_list.rst:487 ../../effects_and_filters/lists/audio_effects_list.rst:503 ../../effects_and_filters/lists/audio_effects_list.rst:519
+#: ../../effects_and_filters/lists/audio_effects_list.rst:539 ../../effects_and_filters/lists/audio_effects_list.rst:567 ../../effects_and_filters/lists/audio_effects_list.rst:571
+#: ../../effects_and_filters/lists/audio_effects_list.rst:607 ../../effects_and_filters/lists/audio_effects_list.rst:631 ../../effects_and_filters/lists/audio_effects_list.rst:727
+#: ../../effects_and_filters/lists/audio_effects_list.rst:731 ../../effects_and_filters/lists/audio_effects_list.rst:751 ../../effects_and_filters/lists/audio_effects_list.rst:755
+#: ../../effects_and_filters/lists/audio_effects_list.rst:759 ../../effects_and_filters/lists/audio_effects_list.rst:763 ../../effects_and_filters/lists/audio_effects_list.rst:767
+#: ../../effects_and_filters/lists/audio_effects_list.rst:771 ../../effects_and_filters/lists/audio_effects_list.rst:775 ../../effects_and_filters/lists/audio_effects_list.rst:947
+#: ../../effects_and_filters/lists/audio_effects_list.rst:971 ../../effects_and_filters/lists/audio_effects_list.rst:979 ../../effects_and_filters/lists/audio_effects_list.rst:999
 msgid "|appimage|\\ |windows|\\ |apple|"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/lists/audio_effects_list.rst:44
-#: ../../effects_and_filters/lists/audio_effects_list.rst:48
-#: ../../effects_and_filters/lists/audio_effects_list.rst:56
-#: ../../effects_and_filters/lists/audio_effects_list.rst:60
-#: ../../effects_and_filters/lists/audio_effects_list.rst:64
-#: ../../effects_and_filters/lists/audio_effects_list.rst:68
-#: ../../effects_and_filters/lists/audio_effects_list.rst:72
-#: ../../effects_and_filters/lists/audio_effects_list.rst:76
-#: ../../effects_and_filters/lists/audio_effects_list.rst:84
-#: ../../effects_and_filters/lists/audio_effects_list.rst:136
-#: ../../effects_and_filters/lists/audio_effects_list.rst:140
-#: ../../effects_and_filters/lists/audio_effects_list.rst:144
-#: ../../effects_and_filters/lists/audio_effects_list.rst:156
-#: ../../effects_and_filters/lists/audio_effects_list.rst:160
-#: ../../effects_and_filters/lists/audio_effects_list.rst:164
-#: ../../effects_and_filters/lists/audio_effects_list.rst:168
-#: ../../effects_and_filters/lists/audio_effects_list.rst:172
-#: ../../effects_and_filters/lists/audio_effects_list.rst:176
-#: ../../effects_and_filters/lists/audio_effects_list.rst:180
-#: ../../effects_and_filters/lists/audio_effects_list.rst:184
-#: ../../effects_and_filters/lists/audio_effects_list.rst:196
-#: ../../effects_and_filters/lists/audio_effects_list.rst:332
-#: ../../effects_and_filters/lists/audio_effects_list.rst:396
-#: ../../effects_and_filters/lists/audio_effects_list.rst:400
-#: ../../effects_and_filters/lists/audio_effects_list.rst:736
-#: ../../effects_and_filters/lists/audio_effects_list.rst:792
-#: ../../effects_and_filters/lists/audio_effects_list.rst:828
-#: ../../effects_and_filters/lists/audio_effects_list.rst:948
-#: ../../effects_and_filters/lists/audio_effects_list.rst:980
+#: ../../effects_and_filters/lists/audio_effects_list.rst:44 ../../effects_and_filters/lists/audio_effects_list.rst:48 ../../effects_and_filters/lists/audio_effects_list.rst:56
+#: ../../effects_and_filters/lists/audio_effects_list.rst:60 ../../effects_and_filters/lists/audio_effects_list.rst:64 ../../effects_and_filters/lists/audio_effects_list.rst:68
+#: ../../effects_and_filters/lists/audio_effects_list.rst:72 ../../effects_and_filters/lists/audio_effects_list.rst:76 ../../effects_and_filters/lists/audio_effects_list.rst:84
+#: ../../effects_and_filters/lists/audio_effects_list.rst:136 ../../effects_and_filters/lists/audio_effects_list.rst:140 ../../effects_and_filters/lists/audio_effects_list.rst:144
+#: ../../effects_and_filters/lists/audio_effects_list.rst:156 ../../effects_and_filters/lists/audio_effects_list.rst:160 ../../effects_and_filters/lists/audio_effects_list.rst:164
+#: ../../effects_and_filters/lists/audio_effects_list.rst:168 ../../effects_and_filters/lists/audio_effects_list.rst:172 ../../effects_and_filters/lists/audio_effects_list.rst:176
+#: ../../effects_and_filters/lists/audio_effects_list.rst:180 ../../effects_and_filters/lists/audio_effects_list.rst:184 ../../effects_and_filters/lists/audio_effects_list.rst:196
+#: ../../effects_and_filters/lists/audio_effects_list.rst:332 ../../effects_and_filters/lists/audio_effects_list.rst:396 ../../effects_and_filters/lists/audio_effects_list.rst:400
+#: ../../effects_and_filters/lists/audio_effects_list.rst:736 ../../effects_and_filters/lists/audio_effects_list.rst:792 ../../effects_and_filters/lists/audio_effects_list.rst:828
+#: ../../effects_and_filters/lists/audio_effects_list.rst:948 ../../effects_and_filters/lists/audio_effects_list.rst:980
 msgid "Audio"
 msgstr ""
 
@@ -398,70 +203,31 @@ msgid ":doc:`Adenorm </effects_and_filters/audio_effects/audio/index>`"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/lists/audio_effects_list.rst:47
-#: ../../effects_and_filters/lists/audio_effects_list.rst:51
-#: ../../effects_and_filters/lists/audio_effects_list.rst:67
-#: ../../effects_and_filters/lists/audio_effects_list.rst:71
-#: ../../effects_and_filters/lists/audio_effects_list.rst:79
-#: ../../effects_and_filters/lists/audio_effects_list.rst:91
-#: ../../effects_and_filters/lists/audio_effects_list.rst:135
-#: ../../effects_and_filters/lists/audio_effects_list.rst:143
-#: ../../effects_and_filters/lists/audio_effects_list.rst:151
-#: ../../effects_and_filters/lists/audio_effects_list.rst:163
-#: ../../effects_and_filters/lists/audio_effects_list.rst:167
-#: ../../effects_and_filters/lists/audio_effects_list.rst:171
-#: ../../effects_and_filters/lists/audio_effects_list.rst:175
-#: ../../effects_and_filters/lists/audio_effects_list.rst:179
-#: ../../effects_and_filters/lists/audio_effects_list.rst:191
-#: ../../effects_and_filters/lists/audio_effects_list.rst:195
-#: ../../effects_and_filters/lists/audio_effects_list.rst:199
-#: ../../effects_and_filters/lists/audio_effects_list.rst:203
-#: ../../effects_and_filters/lists/audio_effects_list.rst:211
-#: ../../effects_and_filters/lists/audio_effects_list.rst:215
-#: ../../effects_and_filters/lists/audio_effects_list.rst:219
-#: ../../effects_and_filters/lists/audio_effects_list.rst:227
-#: ../../effects_and_filters/lists/audio_effects_list.rst:267
-#: ../../effects_and_filters/lists/audio_effects_list.rst:271
-#: ../../effects_and_filters/lists/audio_effects_list.rst:279
-#: ../../effects_and_filters/lists/audio_effects_list.rst:291
-#: ../../effects_and_filters/lists/audio_effects_list.rst:299
-#: ../../effects_and_filters/lists/audio_effects_list.rst:303
-#: ../../effects_and_filters/lists/audio_effects_list.rst:311
-#: ../../effects_and_filters/lists/audio_effects_list.rst:323
-#: ../../effects_and_filters/lists/audio_effects_list.rst:371
-#: ../../effects_and_filters/lists/audio_effects_list.rst:375
-#: ../../effects_and_filters/lists/audio_effects_list.rst:379
-#: ../../effects_and_filters/lists/audio_effects_list.rst:395
-#: ../../effects_and_filters/lists/audio_effects_list.rst:407
-#: ../../effects_and_filters/lists/audio_effects_list.rst:439
-#: ../../effects_and_filters/lists/audio_effects_list.rst:499
-#: ../../effects_and_filters/lists/audio_effects_list.rst:523
-#: ../../effects_and_filters/lists/audio_effects_list.rst:527
-#: ../../effects_and_filters/lists/audio_effects_list.rst:563
-#: ../../effects_and_filters/lists/audio_effects_list.rst:575
-#: ../../effects_and_filters/lists/audio_effects_list.rst:579
-#: ../../effects_and_filters/lists/audio_effects_list.rst:603
-#: ../../effects_and_filters/lists/audio_effects_list.rst:627
-#: ../../effects_and_filters/lists/audio_effects_list.rst:635
-#: ../../effects_and_filters/lists/audio_effects_list.rst:639
-#: ../../effects_and_filters/lists/audio_effects_list.rst:643
-#: ../../effects_and_filters/lists/audio_effects_list.rst:647
-#: ../../effects_and_filters/lists/audio_effects_list.rst:663
-#: ../../effects_and_filters/lists/audio_effects_list.rst:827
-#: ../../effects_and_filters/lists/audio_effects_list.rst:839
-#: ../../effects_and_filters/lists/audio_effects_list.rst:851
-#: ../../effects_and_filters/lists/audio_effects_list.rst:855
-#: ../../effects_and_filters/lists/audio_effects_list.rst:863
-#: ../../effects_and_filters/lists/audio_effects_list.rst:955
-#: ../../effects_and_filters/lists/audio_effects_list.rst:975
-#: ../../effects_and_filters/lists/audio_effects_list.rst:987
+#: ../../effects_and_filters/lists/audio_effects_list.rst:47 ../../effects_and_filters/lists/audio_effects_list.rst:51 ../../effects_and_filters/lists/audio_effects_list.rst:67
+#: ../../effects_and_filters/lists/audio_effects_list.rst:71 ../../effects_and_filters/lists/audio_effects_list.rst:79 ../../effects_and_filters/lists/audio_effects_list.rst:91
+#: ../../effects_and_filters/lists/audio_effects_list.rst:135 ../../effects_and_filters/lists/audio_effects_list.rst:143 ../../effects_and_filters/lists/audio_effects_list.rst:151
+#: ../../effects_and_filters/lists/audio_effects_list.rst:163 ../../effects_and_filters/lists/audio_effects_list.rst:167 ../../effects_and_filters/lists/audio_effects_list.rst:171
+#: ../../effects_and_filters/lists/audio_effects_list.rst:175 ../../effects_and_filters/lists/audio_effects_list.rst:179 ../../effects_and_filters/lists/audio_effects_list.rst:191
+#: ../../effects_and_filters/lists/audio_effects_list.rst:195 ../../effects_and_filters/lists/audio_effects_list.rst:199 ../../effects_and_filters/lists/audio_effects_list.rst:203
+#: ../../effects_and_filters/lists/audio_effects_list.rst:211 ../../effects_and_filters/lists/audio_effects_list.rst:215 ../../effects_and_filters/lists/audio_effects_list.rst:219
+#: ../../effects_and_filters/lists/audio_effects_list.rst:227 ../../effects_and_filters/lists/audio_effects_list.rst:267 ../../effects_and_filters/lists/audio_effects_list.rst:271
+#: ../../effects_and_filters/lists/audio_effects_list.rst:279 ../../effects_and_filters/lists/audio_effects_list.rst:291 ../../effects_and_filters/lists/audio_effects_list.rst:299
+#: ../../effects_and_filters/lists/audio_effects_list.rst:303 ../../effects_and_filters/lists/audio_effects_list.rst:311 ../../effects_and_filters/lists/audio_effects_list.rst:323
+#: ../../effects_and_filters/lists/audio_effects_list.rst:371 ../../effects_and_filters/lists/audio_effects_list.rst:375 ../../effects_and_filters/lists/audio_effects_list.rst:379
+#: ../../effects_and_filters/lists/audio_effects_list.rst:395 ../../effects_and_filters/lists/audio_effects_list.rst:407 ../../effects_and_filters/lists/audio_effects_list.rst:439
+#: ../../effects_and_filters/lists/audio_effects_list.rst:499 ../../effects_and_filters/lists/audio_effects_list.rst:523 ../../effects_and_filters/lists/audio_effects_list.rst:527
+#: ../../effects_and_filters/lists/audio_effects_list.rst:563 ../../effects_and_filters/lists/audio_effects_list.rst:575 ../../effects_and_filters/lists/audio_effects_list.rst:579
+#: ../../effects_and_filters/lists/audio_effects_list.rst:603 ../../effects_and_filters/lists/audio_effects_list.rst:627 ../../effects_and_filters/lists/audio_effects_list.rst:635
+#: ../../effects_and_filters/lists/audio_effects_list.rst:639 ../../effects_and_filters/lists/audio_effects_list.rst:643 ../../effects_and_filters/lists/audio_effects_list.rst:647
+#: ../../effects_and_filters/lists/audio_effects_list.rst:663 ../../effects_and_filters/lists/audio_effects_list.rst:827 ../../effects_and_filters/lists/audio_effects_list.rst:839
+#: ../../effects_and_filters/lists/audio_effects_list.rst:851 ../../effects_and_filters/lists/audio_effects_list.rst:855 ../../effects_and_filters/lists/audio_effects_list.rst:863
+#: ../../effects_and_filters/lists/audio_effects_list.rst:955 ../../effects_and_filters/lists/audio_effects_list.rst:975 ../../effects_and_filters/lists/audio_effects_list.rst:987
 msgid "|linux|\\ |appimage|\\ |windows|\\ |apple|"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:49
-msgid ""
-"Remedy denormals by adding extremely low-level noise. (|avfilter.adenorm|)"
+msgid "Remedy denormals by adding extremely low-level noise. (|avfilter.adenorm|)"
 msgstr ""
 
 #. +> trunk5
@@ -470,11 +236,8 @@ msgid ":doc:`Aderivative </effects_and_filters/audio_effects/tools/index>`"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/lists/audio_effects_list.rst:52
-#: ../../effects_and_filters/lists/audio_effects_list.rst:80
-#: ../../effects_and_filters/lists/audio_effects_list.rst:300
-#: ../../effects_and_filters/lists/audio_effects_list.rst:304
-#: ../../effects_and_filters/lists/audio_effects_list.rst:312
+#: ../../effects_and_filters/lists/audio_effects_list.rst:52 ../../effects_and_filters/lists/audio_effects_list.rst:80 ../../effects_and_filters/lists/audio_effects_list.rst:300
+#: ../../effects_and_filters/lists/audio_effects_list.rst:304 ../../effects_and_filters/lists/audio_effects_list.rst:312
 msgid "Tools"
 msgstr ""
 
@@ -489,9 +252,7 @@ msgid ":doc:`Adrc </effects_and_filters/audio_effects/audio/index>`"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/lists/audio_effects_list.rst:55
-#: ../../effects_and_filters/lists/audio_effects_list.rst:427
-#: ../../effects_and_filters/lists/audio_effects_list.rst:811
+#: ../../effects_and_filters/lists/audio_effects_list.rst:55 ../../effects_and_filters/lists/audio_effects_list.rst:427 ../../effects_and_filters/lists/audio_effects_list.rst:811
 msgid "|windows|\\ |apple|"
 msgstr ""
 
@@ -502,14 +263,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:58
-msgid ""
-":doc:`Adynamicequalizer </effects_and_filters/audio_effects/audio/index>`"
+msgid ":doc:`Adynamicequalizer </effects_and_filters/audio_effects/audio/index>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:61
-msgid ""
-"Apply Dynamic Equalization of input audio. (|avfilter.adynamicequalizer|)"
+msgid "Apply Dynamic Equalization of input audio. (|avfilter.adynamicequalizer|)"
 msgstr ""
 
 #. +> trunk5
@@ -584,22 +343,14 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:90
-msgid ""
-":doc:`Allpass </effects_and_filters/audio_effects/eq_and_filters/index>`"
+msgid ":doc:`Allpass </effects_and_filters/audio_effects/eq_and_filters/index>`"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/lists/audio_effects_list.rst:92
-#: ../../effects_and_filters/lists/audio_effects_list.rst:192
-#: ../../effects_and_filters/lists/audio_effects_list.rst:216
-#: ../../effects_and_filters/lists/audio_effects_list.rst:220
-#: ../../effects_and_filters/lists/audio_effects_list.rst:228
-#: ../../effects_and_filters/lists/audio_effects_list.rst:524
-#: ../../effects_and_filters/lists/audio_effects_list.rst:528
-#: ../../effects_and_filters/lists/audio_effects_list.rst:576
-#: ../../effects_and_filters/lists/audio_effects_list.rst:580
-#: ../../effects_and_filters/lists/audio_effects_list.rst:796
-#: ../../effects_and_filters/lists/audio_effects_list.rst:800
+#: ../../effects_and_filters/lists/audio_effects_list.rst:92 ../../effects_and_filters/lists/audio_effects_list.rst:192 ../../effects_and_filters/lists/audio_effects_list.rst:216
+#: ../../effects_and_filters/lists/audio_effects_list.rst:220 ../../effects_and_filters/lists/audio_effects_list.rst:228 ../../effects_and_filters/lists/audio_effects_list.rst:524
+#: ../../effects_and_filters/lists/audio_effects_list.rst:528 ../../effects_and_filters/lists/audio_effects_list.rst:576 ../../effects_and_filters/lists/audio_effects_list.rst:580
+#: ../../effects_and_filters/lists/audio_effects_list.rst:796 ../../effects_and_filters/lists/audio_effects_list.rst:800
 msgid "EQ and Filters"
 msgstr ""
 
@@ -610,9 +361,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:94
-msgid ""
-":doc:`Allpass delay line, cubic spline interpolation </effects_and_filters/"
-"audio_effects/swh_plugins/index>`"
+msgid ":doc:`Allpass delay line, cubic spline interpolation </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -622,9 +371,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:98
-msgid ""
-":doc:`Allpass delay line, linear interpolation </effects_and_filters/"
-"audio_effects/swh_plugins/index>`"
+msgid ":doc:`Allpass delay line, linear interpolation </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -634,9 +381,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:102
-msgid ""
-":doc:`Allpass delay line, noninterpolating </effects_and_filters/"
-"audio_effects/swh_plugins/index>`"
+msgid ":doc:`Allpass delay line, noninterpolating </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -646,8 +391,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:106
-msgid ""
-":doc:`AM pitchshifter </effects_and_filters/audio_effects/swh_plugins/index>`"
+msgid ":doc:`AM pitchshifter </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -657,83 +401,51 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:110
-msgid ""
-":doc:`Ambisonic Decoder </effects_and_filters/audio_effects/cmt_plugins/"
-"index>`"
+msgid ":doc:`Ambisonic Decoder </effects_and_filters/audio_effects/cmt_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/lists/audio_effects_list.rst:112
-#: ../../effects_and_filters/lists/audio_effects_list.rst:116
-#: ../../effects_and_filters/lists/audio_effects_list.rst:120
-#: ../../effects_and_filters/lists/audio_effects_list.rst:124
-#: ../../effects_and_filters/lists/audio_effects_list.rst:128
-#: ../../effects_and_filters/lists/audio_effects_list.rst:132
-#: ../../effects_and_filters/lists/audio_effects_list.rst:240
-#: ../../effects_and_filters/lists/audio_effects_list.rst:364
-#: ../../effects_and_filters/lists/audio_effects_list.rst:392
-#: ../../effects_and_filters/lists/audio_effects_list.rst:416
-#: ../../effects_and_filters/lists/audio_effects_list.rst:428
-#: ../../effects_and_filters/lists/audio_effects_list.rst:432
-#: ../../effects_and_filters/lists/audio_effects_list.rst:488
-#: ../../effects_and_filters/lists/audio_effects_list.rst:520
-#: ../../effects_and_filters/lists/audio_effects_list.rst:540
-#: ../../effects_and_filters/lists/audio_effects_list.rst:572
-#: ../../effects_and_filters/lists/audio_effects_list.rst:608
-#: ../../effects_and_filters/lists/audio_effects_list.rst:728
-#: ../../effects_and_filters/lists/audio_effects_list.rst:732
-#: ../../effects_and_filters/lists/audio_effects_list.rst:752
-#: ../../effects_and_filters/lists/audio_effects_list.rst:756
-#: ../../effects_and_filters/lists/audio_effects_list.rst:760
-#: ../../effects_and_filters/lists/audio_effects_list.rst:764
-#: ../../effects_and_filters/lists/audio_effects_list.rst:768
-#: ../../effects_and_filters/lists/audio_effects_list.rst:772
-#: ../../effects_and_filters/lists/audio_effects_list.rst:776
-#: ../../effects_and_filters/lists/audio_effects_list.rst:972
+#: ../../effects_and_filters/lists/audio_effects_list.rst:112 ../../effects_and_filters/lists/audio_effects_list.rst:116 ../../effects_and_filters/lists/audio_effects_list.rst:120
+#: ../../effects_and_filters/lists/audio_effects_list.rst:124 ../../effects_and_filters/lists/audio_effects_list.rst:128 ../../effects_and_filters/lists/audio_effects_list.rst:132
+#: ../../effects_and_filters/lists/audio_effects_list.rst:240 ../../effects_and_filters/lists/audio_effects_list.rst:364 ../../effects_and_filters/lists/audio_effects_list.rst:392
+#: ../../effects_and_filters/lists/audio_effects_list.rst:416 ../../effects_and_filters/lists/audio_effects_list.rst:428 ../../effects_and_filters/lists/audio_effects_list.rst:432
+#: ../../effects_and_filters/lists/audio_effects_list.rst:488 ../../effects_and_filters/lists/audio_effects_list.rst:520 ../../effects_and_filters/lists/audio_effects_list.rst:540
+#: ../../effects_and_filters/lists/audio_effects_list.rst:572 ../../effects_and_filters/lists/audio_effects_list.rst:608 ../../effects_and_filters/lists/audio_effects_list.rst:728
+#: ../../effects_and_filters/lists/audio_effects_list.rst:732 ../../effects_and_filters/lists/audio_effects_list.rst:752 ../../effects_and_filters/lists/audio_effects_list.rst:756
+#: ../../effects_and_filters/lists/audio_effects_list.rst:760 ../../effects_and_filters/lists/audio_effects_list.rst:764 ../../effects_and_filters/lists/audio_effects_list.rst:768
+#: ../../effects_and_filters/lists/audio_effects_list.rst:772 ../../effects_and_filters/lists/audio_effects_list.rst:776 ../../effects_and_filters/lists/audio_effects_list.rst:972
 #: ../../effects_and_filters/lists/audio_effects_list.rst:1000
 msgid "CMT Plugins"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:113
-msgid ""
-"Various applications: B-Format to Cube (|ladspa.1092|), B-Format to Quad (|"
-"ladspa.1091|), B-Format to Stereo (|ladspa.1090|), FMH-Format to Octagon (|"
-"ladspa.1093|)"
+msgid "Various applications: B-Format to Cube (|ladspa.1092|), B-Format to Quad (|ladspa.1091|), B-Format to Stereo (|ladspa.1090|), FMH-Format to Octagon (|ladspa.1093|)"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:114
-msgid ""
-":doc:`Ambisonic Encoder </effects_and_filters/audio_effects/cmt_plugins/"
-"index>`"
+msgid ":doc:`Ambisonic Encoder </effects_and_filters/audio_effects/cmt_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:117
-msgid ""
-"Various applications: B-Format (|ladspa.1087|), FMH-Format (|ladspa.1088|),"
+msgid "Various applications: B-Format (|ladspa.1087|), FMH-Format (|ladspa.1088|),"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:118
-msgid ""
-":doc:`Ambisonic Rotation </effects_and_filters/audio_effects/cmt_plugins/"
-"index>`"
+msgid ":doc:`Ambisonic Rotation </effects_and_filters/audio_effects/cmt_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:121
-msgid ""
-"Various applications: B-Format Rotation (Horizontal) (|ladspa.1094|), FMH-"
-"Format Rotation (Horizontal) (|ladspa.1095|)"
+msgid "Various applications: B-Format Rotation (Horizontal) (|ladspa.1094|), FMH-Format Rotation (Horizontal) (|ladspa.1095|)"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:122
-msgid ""
-":doc:`Amplifier (Mono) </effects_and_filters/audio_effects/cmt_plugins/"
-"index>`"
+msgid ":doc:`Amplifier (Mono) </effects_and_filters/audio_effects/cmt_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -743,9 +455,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:126
-msgid ""
-":doc:`Amplifier (Stereo) </effects_and_filters/audio_effects/cmt_plugins/"
-"index>`"
+msgid ":doc:`Amplifier (Stereo) </effects_and_filters/audio_effects/cmt_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -755,9 +465,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:130
-msgid ""
-":doc:`Amplitude Modulator </effects_and_filters/audio_effects/cmt_plugins/"
-"index>`"
+msgid ":doc:`Amplitude Modulator </effects_and_filters/audio_effects/cmt_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -792,15 +500,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:145
-msgid ""
-"Reduce noise from speech using recurrent Neural Networks (|avfilter.arnndn|)"
+msgid "Reduce noise from speech using recurrent Neural Networks (|avfilter.arnndn|)"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:146
-msgid ""
-":doc:`Artificial latency </effects_and_filters/audio_effects/swh_plugins/"
-"index>`"
+msgid ":doc:`Artificial latency </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -810,24 +515,14 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:150
-msgid ""
-":doc:`Asoftclip </effects_and_filters/audio_effects/volume_and_dynamics/"
-"index>`"
+msgid ":doc:`Asoftclip </effects_and_filters/audio_effects/volume_and_dynamics/index>`"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/lists/audio_effects_list.rst:152
-#: ../../effects_and_filters/lists/audio_effects_list.rst:272
-#: ../../effects_and_filters/lists/audio_effects_list.rst:324
-#: ../../effects_and_filters/lists/audio_effects_list.rst:376
-#: ../../effects_and_filters/lists/audio_effects_list.rst:380
-#: ../../effects_and_filters/lists/audio_effects_list.rst:440
-#: ../../effects_and_filters/lists/audio_effects_list.rst:564
-#: ../../effects_and_filters/lists/audio_effects_list.rst:628
-#: ../../effects_and_filters/lists/audio_effects_list.rst:636
-#: ../../effects_and_filters/lists/audio_effects_list.rst:640
-#: ../../effects_and_filters/lists/audio_effects_list.rst:812
-#: ../../effects_and_filters/lists/audio_effects_list.rst:816
+#: ../../effects_and_filters/lists/audio_effects_list.rst:152 ../../effects_and_filters/lists/audio_effects_list.rst:272 ../../effects_and_filters/lists/audio_effects_list.rst:324
+#: ../../effects_and_filters/lists/audio_effects_list.rst:376 ../../effects_and_filters/lists/audio_effects_list.rst:380 ../../effects_and_filters/lists/audio_effects_list.rst:440
+#: ../../effects_and_filters/lists/audio_effects_list.rst:564 ../../effects_and_filters/lists/audio_effects_list.rst:628 ../../effects_and_filters/lists/audio_effects_list.rst:636
+#: ../../effects_and_filters/lists/audio_effects_list.rst:640 ../../effects_and_filters/lists/audio_effects_list.rst:812 ../../effects_and_filters/lists/audio_effects_list.rst:816
 #: ../../effects_and_filters/lists/audio_effects_list.rst:988
 msgid "Volume and Dynamics"
 msgstr ""
@@ -844,9 +539,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:157
-msgid ""
-"Show frequency domain statistics about audio frames. (|"
-"avfilter.aspectralstats|)"
+msgid "Show frequency domain statistics about audio frames. (|avfilter.aspectralstats|)"
 msgstr ""
 
 #. +> trunk5
@@ -921,9 +614,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:186
-msgid ""
-":doc:`Audio Divider (Suboctave Generator) </effects_and_filters/"
-"audio_effects/swh_plugins/index>`"
+msgid ":doc:`Audio Divider (Suboctave Generator) </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -933,9 +624,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:190
-msgid ""
-":doc:`Audio Equalizer_(avfilter) </effects_and_filters/audio_effects/"
-"eq_and_filters/index>`"
+msgid ":doc:`Audio Equalizer_(avfilter) </effects_and_filters/audio_effects/eq_and_filters/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -959,14 +648,9 @@ msgid ":doc:`/effects_and_filters/audio_effects/channels/audio_pan`"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/lists/audio_effects_list.rst:200
-#: ../../effects_and_filters/lists/audio_effects_list.rst:204
-#: ../../effects_and_filters/lists/audio_effects_list.rst:212
-#: ../../effects_and_filters/lists/audio_effects_list.rst:280
-#: ../../effects_and_filters/lists/audio_effects_list.rst:604
-#: ../../effects_and_filters/lists/audio_effects_list.rst:644
-#: ../../effects_and_filters/lists/audio_effects_list.rst:840
-#: ../../effects_and_filters/lists/audio_effects_list.rst:864
+#: ../../effects_and_filters/lists/audio_effects_list.rst:200 ../../effects_and_filters/lists/audio_effects_list.rst:204 ../../effects_and_filters/lists/audio_effects_list.rst:212
+#: ../../effects_and_filters/lists/audio_effects_list.rst:280 ../../effects_and_filters/lists/audio_effects_list.rst:604 ../../effects_and_filters/lists/audio_effects_list.rst:644
+#: ../../effects_and_filters/lists/audio_effects_list.rst:840 ../../effects_and_filters/lists/audio_effects_list.rst:864
 msgid "Channels"
 msgstr ""
 
@@ -987,8 +671,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:206
-msgid ""
-":doc:`Auto phaser </effects_and_filters/audio_effects/swh_plugins/index>`"
+msgid ":doc:`Auto phaser </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1008,8 +691,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:214
-msgid ""
-":doc:`Band-pass </effects_and_filters/audio_effects/eq_and_filters/index>`"
+msgid ":doc:`Band-pass </effects_and_filters/audio_effects/eq_and_filters/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1019,8 +701,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:218
-msgid ""
-":doc:`Band-Reject </effects_and_filters/audio_effects/eq_and_filters/index>`"
+msgid ":doc:`Band-Reject </effects_and_filters/audio_effects/eq_and_filters/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1030,9 +711,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:222
-msgid ""
-":doc:`Barry’s Satan Maximiser </effects_and_filters/audio_effects/"
-"swh_plugins/index>`"
+msgid ":doc:`Barry’s Satan Maximiser </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1052,9 +731,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:230
-msgid ""
-":doc:`Bode frequency shifter </effects_and_filters/audio_effects/swh_plugins/"
-"index>`"
+msgid ":doc:`Bode frequency shifter </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1064,9 +741,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:234
-msgid ""
-":doc:`Bode frequency shifter (CV) </effects_and_filters/audio_effects/"
-"swh_plugins/index>`"
+msgid ":doc:`Bode frequency shifter (CV) </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1076,21 +751,17 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:238
-msgid ""
-":doc:`Canyon Delay </effects_and_filters/audio_effects/cmt_plugins/index>`"
+msgid ":doc:`Canyon Delay </effects_and_filters/audio_effects/cmt_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:241
-msgid ""
-"A deep stereo crossdelay with built-in low pass filters. (|ladspa.1225|)"
+msgid "A deep stereo crossdelay with built-in low pass filters. (|ladspa.1225|)"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:242
-msgid ""
-":doc:`Chebyshev distortion </effects_and_filters/audio_effects/swh_plugins/"
-"index>`"
+msgid ":doc:`Chebyshev distortion </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1100,9 +771,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:246
-msgid ""
-":doc:`Comb delay line cubic, spline interpolation </effects_and_filters/"
-"audio_effects/swh_plugins/index>`"
+msgid ":doc:`Comb delay line cubic, spline interpolation </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1112,9 +781,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:250
-msgid ""
-":doc:`Comb delay line, linear interpolation </effects_and_filters/"
-"audio_effects/swh_plugins/index>`"
+msgid ":doc:`Comb delay line, linear interpolation </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1124,9 +791,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:254
-msgid ""
-":doc:`Comb delay line, noninterpolating </effects_and_filters/audio_effects/"
-"swh_plugins/index>`"
+msgid ":doc:`Comb delay line, noninterpolating </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1136,8 +801,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:258
-msgid ""
-":doc:`Comb Filter </effects_and_filters/audio_effects/swh_plugins/index>`"
+msgid ":doc:`Comb Filter </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1147,8 +811,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:262
-msgid ""
-":doc:`Comb Splitter </effects_and_filters/audio_effects/swh_plugins/index>`"
+msgid ":doc:`Comb Splitter </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1158,14 +821,11 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:266
-msgid ""
-":doc:`Compensation Delay </effects_and_filters/audio_effects/"
-"reverb_echo_delays/index>`"
+msgid ":doc:`Compensation Delay </effects_and_filters/audio_effects/reverb_echo_delays/index>`"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/lists/audio_effects_list.rst:268
-#: ../../effects_and_filters/lists/audio_effects_list.rst:804
+#: ../../effects_and_filters/lists/audio_effects_list.rst:268 ../../effects_and_filters/lists/audio_effects_list.rst:804
 msgid "Reverb, Echo and Delays"
 msgstr ""
 
@@ -1175,11 +835,8 @@ msgid "Audio Compensation Delay Line (|avfilter.compensationdelay|)"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/lists/audio_effects_list.rst:270
-#: ../../effects_and_filters/lists/audio_effects_list.rst:810
-msgid ""
-":doc:`/effects_and_filters/audio_effects/volume_and_dynamics/"
-"compressor_expander`"
+#: ../../effects_and_filters/lists/audio_effects_list.rst:270 ../../effects_and_filters/lists/audio_effects_list.rst:810
+msgid ":doc:`/effects_and_filters/audio_effects/volume_and_dynamics/compressor_expander`"
 msgstr ""
 
 #. +> trunk5
@@ -1189,9 +846,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:274
-msgid ""
-":doc:`Constant Signal Generator </effects_and_filters/audio_effects/"
-"swh_plugins/index>`"
+msgid ":doc:`Constant Signal Generator </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1201,8 +856,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:278
-msgid ""
-":doc:`/effects_and_filters/audio_effects/channels/copy_channels_to_stereo`"
+msgid ":doc:`/effects_and_filters/audio_effects/channels/copy_channels_to_stereo`"
 msgstr ""
 
 #. +> trunk5
@@ -1222,18 +876,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:286
-msgid ""
-":doc:`Crossfade (4 outs) </effects_and_filters/audio_effects/ladspa_plugins/"
-"index>`"
+msgid ":doc:`Crossfade (4 outs) </effects_and_filters/audio_effects/ladspa_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/lists/audio_effects_list.rst:288
-#: ../../effects_and_filters/lists/audio_effects_list.rst:340
-#: ../../effects_and_filters/lists/audio_effects_list.rst:356
-#: ../../effects_and_filters/lists/audio_effects_list.rst:504
-#: ../../effects_and_filters/lists/audio_effects_list.rst:568
-#: ../../effects_and_filters/lists/audio_effects_list.rst:632
+#: ../../effects_and_filters/lists/audio_effects_list.rst:288 ../../effects_and_filters/lists/audio_effects_list.rst:340 ../../effects_and_filters/lists/audio_effects_list.rst:356
+#: ../../effects_and_filters/lists/audio_effects_list.rst:504 ../../effects_and_filters/lists/audio_effects_list.rst:568 ../../effects_and_filters/lists/audio_effects_list.rst:632
 #: ../../effects_and_filters/lists/audio_effects_list.rst:984
 msgid "LADSPA Plugins"
 msgstr ""
@@ -1245,18 +893,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:290
-msgid ""
-":doc:`Crossfeed </effects_and_filters/audio_effects/"
-"stereo_and_binaural_images/index>`"
+msgid ":doc:`Crossfeed </effects_and_filters/audio_effects/stereo_and_binaural_images/index>`"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/lists/audio_effects_list.rst:292
-#: ../../effects_and_filters/lists/audio_effects_list.rst:372
-#: ../../effects_and_filters/lists/audio_effects_list.rst:500
-#: ../../effects_and_filters/lists/audio_effects_list.rst:844
-#: ../../effects_and_filters/lists/audio_effects_list.rst:848
-#: ../../effects_and_filters/lists/audio_effects_list.rst:852
+#: ../../effects_and_filters/lists/audio_effects_list.rst:292 ../../effects_and_filters/lists/audio_effects_list.rst:372 ../../effects_and_filters/lists/audio_effects_list.rst:500
+#: ../../effects_and_filters/lists/audio_effects_list.rst:844 ../../effects_and_filters/lists/audio_effects_list.rst:848 ../../effects_and_filters/lists/audio_effects_list.rst:852
 #: ../../effects_and_filters/lists/audio_effects_list.rst:856
 msgid "Stereo and Binaural Images"
 msgstr ""
@@ -1268,9 +910,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:294
-msgid ""
-":doc:`Crossover distortion </effects_and_filters/audio_effects/swh_plugins/"
-"index>`"
+msgid ":doc:`Crossover distortion </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1300,9 +940,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:306
-msgid ""
-":doc:`Dc Offset Remover </effects_and_filters/audio_effects/swh_plugins/"
-"index>`"
+msgid ":doc:`Dc Offset Remover </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1318,11 +956,8 @@ msgstr ""
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:313
 msgid ""
-"Apply a DC shift to the audio. This can be useful to remove a DC offset "
-"(caused perhaps by a hardware problem in the recording chain) from the "
-"audio. The effect of a DC offset is reduced headroom and hence volume. The "
-"astats filter can be used to determine if a signal has a DC offset. (|"
-"avfilter.dcshift|)"
+"Apply a DC shift to the audio. This can be useful to remove a DC offset (caused perhaps by a hardware problem in the recording chain) from the audio. The effect of a DC offset is reduced headroom "
+"and hence volume. The astats filter can be used to determine if a signal has a DC offset. (|avfilter.dcshift|)"
 msgstr ""
 
 #. +> trunk5
@@ -1357,8 +992,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:326
-msgid ""
-":doc:`Delayorama </effects_and_filters/audio_effects/swh_plugins/index>`"
+msgid ":doc:`Delayorama </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1372,15 +1006,13 @@ msgid ":doc:`Dialoguenhance </effects_and_filters/audio_effects/audio/index>`"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/lists/audio_effects_list.rst:333
-#: ../../effects_and_filters/lists/audio_effects_list.rst:397
+#: ../../effects_and_filters/lists/audio_effects_list.rst:333 ../../effects_and_filters/lists/audio_effects_list.rst:397
 msgid "Apply a flanging effect to the audio (|avfilter.flanger|)"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:334
-msgid ""
-":doc:`Diode Processor </effects_and_filters/audio_effects/swh_plugins/index>`"
+msgid ":doc:`Diode Processor </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1390,9 +1022,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:338
-msgid ""
-":doc:`Disintegrator </effects_and_filters/audio_effects/ladspa_plugins/"
-"index>`"
+msgid ":doc:`Disintegrator </effects_and_filters/audio_effects/ladspa_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1412,8 +1042,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:346
-msgid ""
-":doc:`Dj Eq (Mono) </effects_and_filters/audio_effects/swh_plugins/index>`"
+msgid ":doc:`Dj Eq (Mono) </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1423,8 +1052,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:350
-msgid ""
-":doc:`Dj Flanger </effects_and_filters/audio_effects/swh_plugins/index>`"
+msgid ":doc:`Dj Flanger </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1434,9 +1062,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:354
-msgid ""
-":doc:`Dynamic Sledgehammer </effects_and_filters/audio_effects/"
-"ladspa_plugins/index>`"
+msgid ":doc:`Dynamic Sledgehammer </effects_and_filters/audio_effects/ladspa_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1446,9 +1072,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:358
-msgid ""
-":doc:`Dyson Compressor </effects_and_filters/audio_effects/swh_plugins/"
-"index>`"
+msgid ":doc:`Dyson Compressor </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1458,22 +1082,17 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:362
-msgid ""
-":doc:`Echo Delay Line </effects_and_filters/audio_effects/cmt_plugins/index>`"
+msgid ":doc:`Echo Delay Line </effects_and_filters/audio_effects/cmt_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:365
-msgid ""
-"Echo Delay Line with max delays of 0.01s, 0.1s, 1s, 5s, 60s. No feedback is "
-"provided."
+msgid "Echo Delay Line with max delays of 0.01s, 0.1s, 1s, 5s, 60s. No feedback is provided."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:366
-msgid ""
-":doc:`Exponential Signal Decay </effects_and_filters/audio_effects/"
-"swh_plugins/index>`"
+msgid ":doc:`Exponential Signal Decay </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1483,15 +1102,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:370
-msgid ""
-":doc:`Extrastereo </effects_and_filters/audio_effects/"
-"stereo_and_binaural_images/index>`"
+msgid ":doc:`Extrastereo </effects_and_filters/audio_effects/stereo_and_binaural_images/index>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:373
-msgid ""
-"Increase difference between stereo audio channels (|avfilter.extrastereo|)"
+msgid "Increase difference between stereo audio channels (|avfilter.extrastereo|)"
 msgstr ""
 
 #. +> trunk5
@@ -1516,9 +1132,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:382
-msgid ""
-":doc:`Fast Lookahead Imiter </effects_and_filters/audio_effects/swh_plugins/"
-"index>`"
+msgid ":doc:`Fast Lookahead Imiter </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1528,8 +1142,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:386
-msgid ""
-":doc:`Fast Overdrive </effects_and_filters/audio_effects/swh_plugins/index>`"
+msgid ":doc:`Fast Overdrive </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1539,23 +1152,17 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:390
-msgid ""
-":doc:`Feedback Delay Line </effects_and_filters/audio_effects/cmt_plugins/"
-"index>`"
+msgid ":doc:`Feedback Delay Line </effects_and_filters/audio_effects/cmt_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:393
-msgid ""
-"Feedback Delay Line with max delays of 0.01s, 0.1s, 1s, 5s, 60s. No feedback "
-"is provided."
+msgid "Feedback Delay Line with max delays of 0.01s, 0.1s, 1s, 5s, 60s. No feedback is provided."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:394
-msgid ""
-":doc:`Ffmpeg Audio Resampler </effects_and_filters/audio_effects/audio/"
-"index>`"
+msgid ":doc:`Ffmpeg Audio Resampler </effects_and_filters/audio_effects/audio/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1584,12 +1191,8 @@ msgid ":doc:`Flanger </effects_and_filters/audio_effects/modulators/index>`"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/lists/audio_effects_list.rst:408
-#: ../../effects_and_filters/lists/audio_effects_list.rst:648
-#: ../../effects_and_filters/lists/audio_effects_list.rst:664
-#: ../../effects_and_filters/lists/audio_effects_list.rst:808
-#: ../../effects_and_filters/lists/audio_effects_list.rst:820
-#: ../../effects_and_filters/lists/audio_effects_list.rst:956
+#: ../../effects_and_filters/lists/audio_effects_list.rst:408 ../../effects_and_filters/lists/audio_effects_list.rst:648 ../../effects_and_filters/lists/audio_effects_list.rst:664
+#: ../../effects_and_filters/lists/audio_effects_list.rst:808 ../../effects_and_filters/lists/audio_effects_list.rst:820 ../../effects_and_filters/lists/audio_effects_list.rst:956
 #: ../../effects_and_filters/lists/audio_effects_list.rst:976
 msgid "Modulators"
 msgstr ""
@@ -1601,8 +1204,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:410
-msgid ""
-":doc:`Fm Oscillator </effects_and_filters/audio_effects/swh_plugins/index>`"
+msgid ":doc:`Fm Oscillator </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1612,9 +1214,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:414
-msgid ""
-":doc:`FMH-Format to V-Format </effects_and_filters/audio_effects/cmt_plugins/"
-"index>`"
+msgid ":doc:`FMH-Format to V-Format </effects_and_filters/audio_effects/cmt_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1624,16 +1224,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:417
-msgid ""
-"This plugin simply discards the R, S, T, U and V channels but is included "
-"for clarity. (|ladspa.1089|)"
+msgid "This plugin simply discards the R, S, T, U and V channels but is included for clarity. (|ladspa.1089|)"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:418
-msgid ""
-":doc:`Foldover Distortion </effects_and_filters/audio_effects/swh_plugins/"
-"index>`"
+msgid ":doc:`Foldover Distortion </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1643,9 +1239,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:422
-msgid ""
-":doc:`Fractionally Addressed Delay Line </effects_and_filters/audio_effects/"
-"swh_plugins/index>`"
+msgid ":doc:`Fractionally Addressed Delay Line </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1655,9 +1249,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:426
-msgid ""
-":doc:`FMH-Format to B-Format (Discard RSTUV Channels) </effects_and_filters/"
-"audio_effects/cmt_plugins/index>`"
+msgid ":doc:`FMH-Format to B-Format (Discard RSTUV Channels) </effects_and_filters/audio_effects/cmt_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1667,23 +1259,17 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:430
-msgid ""
-":doc:`Freeverb (Version 3) </effects_and_filters/audio_effects/cmt_plugins/"
-"index>`"
+msgid ":doc:`Freeverb (Version 3) </effects_and_filters/audio_effects/cmt_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:433
-msgid ""
-"This reverb unit is a direct port of the free public domain source code "
-"available from Jezar at Dreampoint. (|ladspa.1123|)"
+msgid "This reverb unit is a direct port of the free public domain source code available from Jezar at Dreampoint. (|ladspa.1123|)"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:434
-msgid ""
-":doc:`Frequency Tracker </effects_and_filters/audio_effects/swh_plugins/"
-"index>`"
+msgid ":doc:`Frequency Tracker </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1692,8 +1278,7 @@ msgid "LADSPA plugin (|ladspa.1418|)"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/lists/audio_effects_list.rst:438
-#: ../../effects_and_filters/lists/audio_effects_list.rst:814
+#: ../../effects_and_filters/lists/audio_effects_list.rst:438 ../../effects_and_filters/lists/audio_effects_list.rst:814
 msgid ":doc:`/effects_and_filters/audio_effects/volume_and_dynamics/gain`"
 msgstr ""
 
@@ -1714,8 +1299,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:446
-msgid ""
-":doc:`Giant Flange </effects_and_filters/audio_effects/swh_plugins/index>`"
+msgid ":doc:`Giant Flange </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1725,9 +1309,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:450
-msgid ""
-":doc:`Glame Bandpass Analog Filter </effects_and_filters/audio_effects/"
-"swh_plugins/index>`"
+msgid ":doc:`Glame Bandpass Analog Filter </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1737,9 +1319,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:454
-msgid ""
-":doc:`Glame Bandpass Filter </effects_and_filters/audio_effects/swh_plugins/"
-"index>`"
+msgid ":doc:`Glame Bandpass Filter </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1749,9 +1329,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:458
-msgid ""
-":doc:`Glame Butterworth Highpass </effects_and_filters/audio_effects/"
-"swh_plugins/index>`"
+msgid ":doc:`Glame Butterworth Highpass </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1761,9 +1339,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:462
-msgid ""
-":doc:`Glame Butterworth Lowpass </effects_and_filters/audio_effects/"
-"swh_plugins/index>`"
+msgid ":doc:`Glame Butterworth Lowpass </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1773,9 +1349,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:466
-msgid ""
-":doc:`Glame Butterworth X-Over Filter </effects_and_filters/audio_effects/"
-"swh_plugins/index>`"
+msgid ":doc:`Glame Butterworth X-Over Filter </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1785,9 +1359,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:470
-msgid ""
-":doc:`Glame Highpass Filter </effects_and_filters/audio_effects/swh_plugins/"
-"index>`"
+msgid ":doc:`Glame Highpass Filter </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1797,9 +1369,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:474
-msgid ""
-":doc:`Glame Lowpass Filter </effects_and_filters/audio_effects/swh_plugins/"
-"index>`"
+msgid ":doc:`Glame Lowpass Filter </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1809,8 +1379,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:478
-msgid ""
-":doc:`Gong Beater </effects_and_filters/audio_effects/swh_plugins/index>`"
+msgid ":doc:`Gong Beater </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1820,8 +1389,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:482
-msgid ""
-":doc:`Gong Model </effects_and_filters/audio_effects/swh_plugins/index>`"
+msgid ":doc:`Gong Model </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1831,25 +1399,19 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:486
-msgid ""
-":doc:`Granular Scattering Processor </effects_and_filters/audio_effects/"
-"cmt_plugins/index>`"
+msgid ":doc:`Granular Scattering Processor </effects_and_filters/audio_effects/cmt_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:489
 msgid ""
-"This plugin generates an output audio stream by scattering short `grains` of "
-"sound from an input stream. It is possible to control the length and "
-"envelope of these grains, how far away from their source time grains may be "
-"scattered and the density (grains/sec) of the texture produced. (|"
-"ladspa.1096|)"
+"This plugin generates an output audio stream by scattering short `grains` of sound from an input stream. It is possible to control the length and envelope of these grains, how far away from their "
+"source time grains may be scattered and the density (grains/sec) of the texture produced. (|ladspa.1096|)"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:490
-msgid ""
-":doc:`GSM Simulator </effects_and_filters/audio_effects/swh_plugins/index>`"
+msgid ":doc:`GSM Simulator </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1869,9 +1431,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:498
-msgid ""
-":doc:`Haas Stereo Enhancer </effects_and_filters/audio_effects/"
-"stereo_and_binaural_images/index>`"
+msgid ":doc:`Haas Stereo Enhancer </effects_and_filters/audio_effects/stereo_and_binaural_images/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1881,8 +1441,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:502
-msgid ""
-":doc:`Hard Gate </effects_and_filters/audio_effects/ladspa_plugins/index>`"
+msgid ":doc:`Hard Gate </effects_and_filters/audio_effects/ladspa_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1892,8 +1451,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:506
-msgid ""
-":doc:`Hard Limiter </effects_and_filters/audio_effects/swh_plugins/index>`"
+msgid ":doc:`Hard Limiter </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1903,9 +1461,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:510
-msgid ""
-":doc:`Harmonic Generator </effects_and_filters/audio_effects/swh_plugins/"
-"index>`"
+msgid ":doc:`Harmonic Generator </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1915,8 +1471,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:514
-msgid ""
-":doc:`Hermes Filter </effects_and_filters/audio_effects/swh_plugins/index>`"
+msgid ":doc:`Hermes Filter </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1926,9 +1481,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:518
-msgid ""
-":doc:`High Pass Filter (One Pole) </effects_and_filters/audio_effects/"
-"cmt_plugins/index>`"
+msgid ":doc:`High Pass Filter (One Pole) </effects_and_filters/audio_effects/cmt_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1938,8 +1491,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:522
-msgid ""
-":doc:`High-Pass </effects_and_filters/audio_effects/eq_and_filters/index>`"
+msgid ":doc:`High-Pass </effects_and_filters/audio_effects/eq_and_filters/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1949,8 +1501,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:526
-msgid ""
-":doc:`High-Shelf </effects_and_filters/audio_effects/eq_and_filters/index>`"
+msgid ":doc:`High-Shelf </effects_and_filters/audio_effects/eq_and_filters/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1960,9 +1511,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:530
-msgid ""
-":doc:`Higher Quality Pitch Scaler </effects_and_filters/audio_effects/"
-"swh_plugins/index>`"
+msgid ":doc:`Higher Quality Pitch Scaler </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1972,9 +1521,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:534
-msgid ""
-":doc:`Hilbert Transformer </effects_and_filters/audio_effects/swh_plugins/"
-"index>`"
+msgid ":doc:`Hilbert Transformer </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -1994,9 +1541,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:542
-msgid ""
-":doc:`Impulse Convolver </effects_and_filters/audio_effects/swh_plugins/"
-"index>`"
+msgid ":doc:`Impulse Convolver </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2026,8 +1571,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:554
-msgid ""
-":doc:`L/C/R Delay </effects_and_filters/audio_effects/swh_plugins/index>`"
+msgid ":doc:`L/C/R Delay </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2037,8 +1581,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:558
-msgid ""
-":doc:`LFO Phaser </effects_and_filters/audio_effects/swh_plugins/index>`"
+msgid ":doc:`LFO Phaser </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2068,9 +1611,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:570
-msgid ""
-":doc:`Low Pass Filter (One Pole) </effects_and_filters/audio_effects/"
-"cmt_plugins/index>`"
+msgid ":doc:`Low Pass Filter (One Pole) </effects_and_filters/audio_effects/cmt_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2080,8 +1621,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:574
-msgid ""
-":doc:`Low-Pass </effects_and_filters/audio_effects/eq_and_filters/index>`"
+msgid ":doc:`Low-Pass </effects_and_filters/audio_effects/eq_and_filters/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2091,8 +1631,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:578
-msgid ""
-":doc:`Low-Shelf </effects_and_filters/audio_effects/eq_and_filters/index>`"
+msgid ":doc:`Low-Shelf </effects_and_filters/audio_effects/eq_and_filters/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2112,9 +1651,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:586
-msgid ""
-":doc:`Mag’s Notch Filter </effects_and_filters/audio_effects/swh_plugins/"
-"index>`"
+msgid ":doc:`Mag’s Notch Filter </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2124,9 +1661,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:590
-msgid ""
-":doc:`Matrix Spatialiser </effects_and_filters/audio_effects/swh_plugins/"
-"index>`"
+msgid ":doc:`Matrix Spatialiser </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2136,9 +1671,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:594
-msgid ""
-":doc:`Matrix: MS To Stereo </effects_and_filters/audio_effects/swh_plugins/"
-"index>`"
+msgid ":doc:`Matrix: MS To Stereo </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2148,9 +1681,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:598
-msgid ""
-":doc:`Matrix: Stereo To MS </effects_and_filters/audio_effects/swh_plugins/"
-"index>`"
+msgid ":doc:`Matrix: Stereo To MS </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2165,16 +1696,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:605
-msgid ""
-"Mix all channels of audio into a |mono| signal and output it as N channels (|"
-"mono|)"
+msgid "Mix all channels of audio into a |mono| signal and output it as N channels (|mono|)"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:606
-msgid ""
-":doc:`Mixer (Stereo to Mono) </effects_and_filters/audio_effects/cmt_plugins/"
-"index>`"
+msgid ":doc:`Mixer (Stereo to Mono) </effects_and_filters/audio_effects/cmt_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2184,9 +1711,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:610
-msgid ""
-":doc:`Modulatable delay </effects_and_filters/audio_effects/swh_plugins/"
-"index>`"
+msgid ":doc:`Modulatable delay </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2196,9 +1721,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:614
-msgid ""
-":doc:`Mono To Stereo Splitter </effects_and_filters/audio_effects/"
-"swh_plugins/index>`"
+msgid ":doc:`Mono To Stereo Splitter </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2208,8 +1731,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:618
-msgid ""
-":doc:`Multiband EQ </effects_and_filters/audio_effects/swh_plugins/index>`"
+msgid ":doc:`Multiband EQ </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2219,9 +1741,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:622
-msgid ""
-":doc:`Multivoice Chorus </effects_and_filters/audio_effects/swh_plugins/"
-"index>`"
+msgid ":doc:`Multivoice Chorus </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2241,9 +1761,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:630
-msgid ""
-":doc:`Noise Suppressor for Voice </effects_and_filters/audio_effects/"
-"ladspa_plugins/index>`"
+msgid ":doc:`Noise Suppressor for Voice </effects_and_filters/audio_effects/ladspa_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2258,15 +1776,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:637
-msgid ""
-"Dynamically correct audio loudness as recommended by EBU R128 (|"
-"dynamic_loudness|)"
+msgid "Dynamically correct audio loudness as recommended by EBU R128 (|dynamic_loudness|)"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:638
-msgid ""
-":doc:`/effects_and_filters/audio_effects/volume_and_dynamics/normalize_2pass`"
+msgid ":doc:`/effects_and_filters/audio_effects/volume_and_dynamics/normalize_2pass`"
 msgstr ""
 
 #. +> trunk5
@@ -2296,8 +1811,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:650
-msgid ""
-":doc:`Pitch Scaler </effects_and_filters/audio_effects/swh_plugins/index>`"
+msgid ":doc:`Pitch Scaler </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2307,8 +1821,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:654
-msgid ""
-":doc:`Plate reverb </effects_and_filters/audio_effects/swh_plugins/index>`"
+msgid ":doc:`Plate reverb </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2318,9 +1831,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:658
-msgid ""
-":doc:`Pointer cast distortion </effects_and_filters/audio_effects/"
-"swh_plugins/index>`"
+msgid ":doc:`Pointer cast distortion </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2340,8 +1851,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:666
-msgid ""
-":doc:`Rate Shifter </effects_and_filters/audio_effects/swh_plugins/index>`"
+msgid ":doc:`Rate Shifter </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2351,8 +1861,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:670
-msgid ""
-":doc:`Retro Flanger </effects_and_filters/audio_effects/swh_plugins/index>`"
+msgid ":doc:`Retro Flanger </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2362,9 +1871,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:674
-msgid ""
-":doc:`Reverse Delay (5s Max) </effects_and_filters/audio_effects/swh_plugins/"
-"index>`"
+msgid ":doc:`Reverse Delay (5s Max) </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2374,9 +1881,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:678
-msgid ""
-":doc:`Ringmod with LFO </effects_and_filters/audio_effects/swh_plugins/"
-"index>`"
+msgid ":doc:`Ringmod with LFO </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2386,9 +1891,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:682
-msgid ""
-":doc:`Ringmod with two inputs </effects_and_filters/audio_effects/"
-"swh_plugins/index>`"
+msgid ":doc:`Ringmod with two inputs </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2398,29 +1901,19 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:686
-msgid ""
-":doc:`Rubberband Octave Shift </effects_and_filters/audio_effects/"
-"pitch_and_time/index>`"
+msgid ":doc:`Rubberband Octave Shift </effects_and_filters/audio_effects/pitch_and_time/index>`"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/lists/audio_effects_list.rst:687
-#: ../../effects_and_filters/lists/audio_effects_list.rst:691
-#: ../../effects_and_filters/lists/audio_effects_list.rst:791
-#: ../../effects_and_filters/lists/audio_effects_list.rst:795
-#: ../../effects_and_filters/lists/audio_effects_list.rst:799
-#: ../../effects_and_filters/lists/audio_effects_list.rst:803
-#: ../../effects_and_filters/lists/audio_effects_list.rst:807
-#: ../../effects_and_filters/lists/audio_effects_list.rst:815
-#: ../../effects_and_filters/lists/audio_effects_list.rst:819
+#: ../../effects_and_filters/lists/audio_effects_list.rst:687 ../../effects_and_filters/lists/audio_effects_list.rst:691 ../../effects_and_filters/lists/audio_effects_list.rst:791
+#: ../../effects_and_filters/lists/audio_effects_list.rst:795 ../../effects_and_filters/lists/audio_effects_list.rst:799 ../../effects_and_filters/lists/audio_effects_list.rst:803
+#: ../../effects_and_filters/lists/audio_effects_list.rst:807 ../../effects_and_filters/lists/audio_effects_list.rst:815 ../../effects_and_filters/lists/audio_effects_list.rst:819
 #: ../../effects_and_filters/lists/audio_effects_list.rst:823
 msgid "|linux|\\ |appimage|\\ |windows|"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/lists/audio_effects_list.rst:688
-#: ../../effects_and_filters/lists/audio_effects_list.rst:692
-#: ../../effects_and_filters/lists/audio_effects_list.rst:824
+#: ../../effects_and_filters/lists/audio_effects_list.rst:688 ../../effects_and_filters/lists/audio_effects_list.rst:692 ../../effects_and_filters/lists/audio_effects_list.rst:824
 msgid "Pitch and Time"
 msgstr ""
 
@@ -2431,9 +1924,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:690
-msgid ""
-":doc:`Rubberband Pitch Scale </effects_and_filters/audio_effects/"
-"pitch_and_time/index>`"
+msgid ":doc:`Rubberband Pitch Scale </effects_and_filters/audio_effects/pitch_and_time/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2503,8 +1994,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:718
-msgid ""
-":doc:`Signal sifter </effects_and_filters/audio_effects/swh_plugins/index>`"
+msgid ":doc:`Signal sifter </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2514,9 +2004,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:722
-msgid ""
-":doc:`Simple amplifier </effects_and_filters/audio_effects/swh_plugins/"
-"index>`"
+msgid ":doc:`Simple amplifier </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2526,9 +2014,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:726
-msgid ""
-":doc:`Simple compressor (peak envelope tracking) </effects_and_filters/"
-"audio_effects/cmt_plugins/index>`"
+msgid ":doc:`Simple compressor (peak envelope tracking) </effects_and_filters/audio_effects/cmt_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2538,9 +2024,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:730
-msgid ""
-":doc:`Simple compressor (rms envelope tracking) </effects_and_filters/"
-"audio_effects/cmt_plugins/index>`"
+msgid ":doc:`Simple compressor (rms envelope tracking) </effects_and_filters/audio_effects/cmt_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2550,23 +2034,17 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:734
-msgid ""
-":doc:`Simple compressor/expander </effects_and_filters/audio_effects/audio/"
-"index>`"
+msgid ":doc:`Simple compressor/expander </effects_and_filters/audio_effects/audio/index>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:737
-msgid ""
-"Simple audio dynamic range compression/expansion filter. (|"
-"avfiler.acontrast|)"
+msgid "Simple audio dynamic range compression/expansion filter. (|avfiler.acontrast|)"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:738
-msgid ""
-":doc:`Simple delay line, cubic spline interpolation </effects_and_filters/"
-"audio_effects/swh_plugins/index>`"
+msgid ":doc:`Simple delay line, cubic spline interpolation </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2576,9 +2054,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:742
-msgid ""
-":doc:`Simple delay line, linear interpolation </effects_and_filters/"
-"audio_effects/swh_plugins/index>`"
+msgid ":doc:`Simple delay line, linear interpolation </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2588,9 +2064,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:746
-msgid ""
-":doc:`Simple delay line, noninterpolating </effects_and_filters/"
-"audio_effects/swh_plugins/index>`"
+msgid ":doc:`Simple delay line, noninterpolating </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2600,9 +2074,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:750
-msgid ""
-":doc:`Simple expander (peak  envelope tracking) </effects_and_filters/"
-"audio_effects/cmt_plugins/index>`"
+msgid ":doc:`Simple expander (peak  envelope tracking) </effects_and_filters/audio_effects/cmt_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2612,9 +2084,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:754
-msgid ""
-":doc:`Simple expander (rms envelope tracking) </effects_and_filters/"
-"audio_effects/cmt_plugins/index>`"
+msgid ":doc:`Simple expander (rms envelope tracking) </effects_and_filters/audio_effects/cmt_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2624,9 +2094,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:758
-msgid ""
-":doc:`Simple limiter (peak envelope tracking) </effects_and_filters/"
-"audio_effects/cmt_plugins/index>`"
+msgid ":doc:`Simple limiter (peak envelope tracking) </effects_and_filters/audio_effects/cmt_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2636,9 +2104,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:762
-msgid ""
-":doc:`Simple limiter (rms  envelope tracking) </effects_and_filters/"
-"audio_effects/cmt_plugins/index>`"
+msgid ":doc:`Simple limiter (rms  envelope tracking) </effects_and_filters/audio_effects/cmt_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2648,51 +2114,37 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:766
-msgid ""
-":doc:`Sine oscillator (freq:audio, amp:audio) </effects_and_filters/"
-"audio_effects/cmt_plugins/index>`"
+msgid ":doc:`Sine oscillator (freq:audio, amp:audio) </effects_and_filters/audio_effects/cmt_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:769
-msgid ""
-"Sine Oscillator. Frequency input is audio, Amplitude input is audio. (|"
-"ladspa.1063|)"
+msgid "Sine Oscillator. Frequency input is audio, Amplitude input is audio. (|ladspa.1063|)"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:770
-msgid ""
-":doc:`Sine oscillator (freq:audio, amp:control) </effects_and_filters/"
-"audio_effects/cmt_plugins/index>`"
+msgid ":doc:`Sine oscillator (freq:audio, amp:control) </effects_and_filters/audio_effects/cmt_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:773
-msgid ""
-"Sine Oscillator. Frequency input is audio, Amplitude input is control. (|"
-"ladspa.1064|)"
+msgid "Sine Oscillator. Frequency input is audio, Amplitude input is control. (|ladspa.1064|)"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:774
-msgid ""
-":doc:`Sine oscillator (freq:control, amp:audio) </effects_and_filters/"
-"audio_effects/cmt_plugins/index>`"
+msgid ":doc:`Sine oscillator (freq:control, amp:audio) </effects_and_filters/audio_effects/cmt_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:777
-msgid ""
-"Sine Oscillator. Frequency input is control, Amplitude input is audio. (|"
-"ladspa.1065|)"
+msgid "Sine Oscillator. Frequency input is control, Amplitude input is audio. (|ladspa.1065|)"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:778
-msgid ""
-":doc:`Single band parametric </effects_and_filters/audio_effects/swh_plugins/"
-"index>`"
+msgid ":doc:`Single band parametric </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2702,9 +2154,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:782
-msgid ""
-":doc:`Sinus wavewrapper </effects_and_filters/audio_effects/swh_plugins/"
-"index>`"
+msgid ":doc:`Sinus wavewrapper </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2714,9 +2164,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:786
-msgid ""
-":doc:`Smooth Decimator </effects_and_filters/audio_effects/swh_plugins/"
-"index>`"
+msgid ":doc:`Smooth Decimator </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2736,8 +2184,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:794
-msgid ""
-":doc:`Sox Band </effects_and_filters/audio_effects/eq_and_filters/index>`"
+msgid ":doc:`Sox Band </effects_and_filters/audio_effects/eq_and_filters/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2747,8 +2194,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:798
-msgid ""
-":doc:`Sox Bass </effects_and_filters/audio_effects/eq_and_filters/index>`"
+msgid ":doc:`Sox Bass </effects_and_filters/audio_effects/eq_and_filters/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2758,8 +2204,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:802
-msgid ""
-":doc:`Sox Echo </effects_and_filters/audio_effects/reverb_echo_delays/index>`"
+msgid ":doc:`Sox Echo </effects_and_filters/audio_effects/reverb_echo_delays/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2769,8 +2214,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:806
-msgid ""
-":doc:`Sox Flanger </effects_and_filters/audio_effects/modulators/index>`"
+msgid ":doc:`Sox Flanger </effects_and_filters/audio_effects/modulators/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2780,9 +2224,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:813
-msgid ""
-"Simple audio dynamic range compression/expansion filter. (|"
-"avfilter.acontrast|)"
+msgid "Simple audio dynamic range compression/expansion filter. (|avfilter.acontrast|)"
 msgstr ""
 
 #. +> trunk5
@@ -2802,8 +2244,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:822
-msgid ""
-":doc:`Sox Stretch </effects_and_filters/audio_effects/pitch_and_time/index>`"
+msgid ":doc:`Sox Stretch </effects_and_filters/audio_effects/pitch_and_time/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2823,9 +2264,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:830
-msgid ""
-":doc:`State Variable Filter </effects_and_filters/audio_effects/swh_plugins/"
-"index>`"
+msgid ":doc:`State Variable Filter </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2835,8 +2274,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:834
-msgid ""
-":doc:`Step Demuxer </effects_and_filters/audio_effects/swh_plugins/index>`"
+msgid ":doc:`Step Demuxer </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2856,27 +2294,19 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:842
-msgid ""
-":doc:`SOFAlizer </effects_and_filters/audio_effects/"
-"stereo_and_binaural_images/index>`"
+msgid ":doc:`SOFAlizer </effects_and_filters/audio_effects/stereo_and_binaural_images/index>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:845
 msgid ""
-"SOFAlizer uses head-related transfer functions (HRTFs) to create virtual "
-"loudspeakers around the user for binaural listening via headphones (audio "
-"formats up to 9 channels supported). The HRTFs are stored in SOFA files (see "
-"http://www.sofacoustics.org/ for a database). SOFAlizer is developed at the "
-"Acoustics Research Institute (ARI) of the Austrian Academy of Sciences.  (|"
-"avfilter.sofalizer|)"
+"SOFAlizer uses head-related transfer functions (HRTFs) to create virtual loudspeakers around the user for binaural listening via headphones (audio formats up to 9 channels supported). The HRTFs are "
+"stored in SOFA files (see http://www.sofacoustics.org/ for a database). SOFAlizer is developed at the Acoustics Research Institute (ARI) of the Austrian Academy of Sciences.  (|avfilter.sofalizer|)"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:846
-msgid ""
-":doc:`Stereo to binaural </effects_and_filters/audio_effects/"
-"stereo_and_binaural_images/index>`"
+msgid ":doc:`Stereo to binaural </effects_and_filters/audio_effects/stereo_and_binaural_images/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2886,40 +2316,31 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:850
-msgid ""
-":doc:`Stereo Tools </effects_and_filters/audio_effects/"
-"stereo_and_binaural_images/index>`"
+msgid ":doc:`Stereo Tools </effects_and_filters/audio_effects/stereo_and_binaural_images/index>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:853
 msgid ""
-"This filter has some handy utilities to manage stereo signals, for "
-"converting M/S stereo recordings to L/R signal while having control over the "
-"parameters or spreading the stereo image of master track.  (|"
-"avfilter.stereotools|)"
+"This filter has some handy utilities to manage stereo signals, for converting M/S stereo recordings to L/R signal while having control over the parameters or spreading the stereo image of master "
+"track.  (|avfilter.stereotools|)"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:854
-msgid ""
-":doc:`Stereo Widener </effects_and_filters/audio_effects/"
-"stereo_and_binaural_images/index>`"
+msgid ":doc:`Stereo Widener </effects_and_filters/audio_effects/stereo_and_binaural_images/index>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:857
 msgid ""
-"This filter enhance the stereo effect by suppressing signal common to both "
-"channels and by delaying the signal of left into right and vice versa, "
-"thereby widening the stereo effect. (|avfilter.stereowiden|)"
+"This filter enhance the stereo effect by suppressing signal common to both channels and by delaying the signal of left into right and vice versa, thereby widening the stereo effect. "
+"(|avfilter.stereowiden|)"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:858
-msgid ""
-":doc:`Surround matrix encoder </effects_and_filters/audio_effects/"
-"swh_plugins/index>`"
+msgid ":doc:`Surround matrix encoder </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -2934,58 +2355,32 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:865
-msgid ""
-"Move the left channel to the right and the right-to-left (|channelswap|)"
+msgid "Move the left channel to the right and the right-to-left (|channelswap|)"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:866
-msgid ""
-":doc:`Tap Autopanner </effects_and_filters/audio_effects/tap_plugins/index>`"
+msgid ":doc:`Tap Autopanner </effects_and_filters/audio_effects/tap_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/lists/audio_effects_list.rst:867
-#: ../../effects_and_filters/lists/audio_effects_list.rst:871
-#: ../../effects_and_filters/lists/audio_effects_list.rst:875
-#: ../../effects_and_filters/lists/audio_effects_list.rst:879
-#: ../../effects_and_filters/lists/audio_effects_list.rst:883
-#: ../../effects_and_filters/lists/audio_effects_list.rst:887
-#: ../../effects_and_filters/lists/audio_effects_list.rst:891
-#: ../../effects_and_filters/lists/audio_effects_list.rst:895
-#: ../../effects_and_filters/lists/audio_effects_list.rst:899
-#: ../../effects_and_filters/lists/audio_effects_list.rst:903
-#: ../../effects_and_filters/lists/audio_effects_list.rst:907
-#: ../../effects_and_filters/lists/audio_effects_list.rst:911
-#: ../../effects_and_filters/lists/audio_effects_list.rst:915
-#: ../../effects_and_filters/lists/audio_effects_list.rst:919
-#: ../../effects_and_filters/lists/audio_effects_list.rst:923
-#: ../../effects_and_filters/lists/audio_effects_list.rst:927
-#: ../../effects_and_filters/lists/audio_effects_list.rst:931
-#: ../../effects_and_filters/lists/audio_effects_list.rst:935
+#: ../../effects_and_filters/lists/audio_effects_list.rst:867 ../../effects_and_filters/lists/audio_effects_list.rst:871 ../../effects_and_filters/lists/audio_effects_list.rst:875
+#: ../../effects_and_filters/lists/audio_effects_list.rst:879 ../../effects_and_filters/lists/audio_effects_list.rst:883 ../../effects_and_filters/lists/audio_effects_list.rst:887
+#: ../../effects_and_filters/lists/audio_effects_list.rst:891 ../../effects_and_filters/lists/audio_effects_list.rst:895 ../../effects_and_filters/lists/audio_effects_list.rst:899
+#: ../../effects_and_filters/lists/audio_effects_list.rst:903 ../../effects_and_filters/lists/audio_effects_list.rst:907 ../../effects_and_filters/lists/audio_effects_list.rst:911
+#: ../../effects_and_filters/lists/audio_effects_list.rst:915 ../../effects_and_filters/lists/audio_effects_list.rst:919 ../../effects_and_filters/lists/audio_effects_list.rst:923
+#: ../../effects_and_filters/lists/audio_effects_list.rst:927 ../../effects_and_filters/lists/audio_effects_list.rst:931 ../../effects_and_filters/lists/audio_effects_list.rst:935
 #: ../../effects_and_filters/lists/audio_effects_list.rst:939
 msgid "|appimage|\\ |windows|"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/lists/audio_effects_list.rst:868
-#: ../../effects_and_filters/lists/audio_effects_list.rst:872
-#: ../../effects_and_filters/lists/audio_effects_list.rst:876
-#: ../../effects_and_filters/lists/audio_effects_list.rst:880
-#: ../../effects_and_filters/lists/audio_effects_list.rst:884
-#: ../../effects_and_filters/lists/audio_effects_list.rst:888
-#: ../../effects_and_filters/lists/audio_effects_list.rst:892
-#: ../../effects_and_filters/lists/audio_effects_list.rst:896
-#: ../../effects_and_filters/lists/audio_effects_list.rst:900
-#: ../../effects_and_filters/lists/audio_effects_list.rst:904
-#: ../../effects_and_filters/lists/audio_effects_list.rst:908
-#: ../../effects_and_filters/lists/audio_effects_list.rst:912
-#: ../../effects_and_filters/lists/audio_effects_list.rst:916
-#: ../../effects_and_filters/lists/audio_effects_list.rst:920
-#: ../../effects_and_filters/lists/audio_effects_list.rst:924
-#: ../../effects_and_filters/lists/audio_effects_list.rst:928
-#: ../../effects_and_filters/lists/audio_effects_list.rst:932
-#: ../../effects_and_filters/lists/audio_effects_list.rst:936
+#: ../../effects_and_filters/lists/audio_effects_list.rst:868 ../../effects_and_filters/lists/audio_effects_list.rst:872 ../../effects_and_filters/lists/audio_effects_list.rst:876
+#: ../../effects_and_filters/lists/audio_effects_list.rst:880 ../../effects_and_filters/lists/audio_effects_list.rst:884 ../../effects_and_filters/lists/audio_effects_list.rst:888
+#: ../../effects_and_filters/lists/audio_effects_list.rst:892 ../../effects_and_filters/lists/audio_effects_list.rst:896 ../../effects_and_filters/lists/audio_effects_list.rst:900
+#: ../../effects_and_filters/lists/audio_effects_list.rst:904 ../../effects_and_filters/lists/audio_effects_list.rst:908 ../../effects_and_filters/lists/audio_effects_list.rst:912
+#: ../../effects_and_filters/lists/audio_effects_list.rst:916 ../../effects_and_filters/lists/audio_effects_list.rst:920 ../../effects_and_filters/lists/audio_effects_list.rst:924
+#: ../../effects_and_filters/lists/audio_effects_list.rst:928 ../../effects_and_filters/lists/audio_effects_list.rst:932 ../../effects_and_filters/lists/audio_effects_list.rst:936
 #: ../../effects_and_filters/lists/audio_effects_list.rst:940
 msgid "TAP Plugins"
 msgstr ""
@@ -2997,9 +2392,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:870
-msgid ""
-":doc:`Tap Chrous/Flanger </effects_and_filters/audio_effects/tap_plugins/"
-"index>`"
+msgid ":doc:`Tap Chrous/Flanger </effects_and_filters/audio_effects/tap_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -3009,8 +2402,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:874
-msgid ""
-":doc:`Tap Deesser </effects_and_filters/audio_effects/tap_plugins/index>`"
+msgid ":doc:`Tap Deesser </effects_and_filters/audio_effects/tap_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -3020,9 +2412,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:878
-msgid ""
-":doc:`Tap Dynamics (M) </effects_and_filters/audio_effects/tap_plugins/"
-"index>`"
+msgid ":doc:`Tap Dynamics (M) </effects_and_filters/audio_effects/tap_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -3032,9 +2422,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:882
-msgid ""
-":doc:`Tap Dynamics (St) </effects_and_filters/audio_effects/tap_plugins/"
-"index>`"
+msgid ":doc:`Tap Dynamics (St) </effects_and_filters/audio_effects/tap_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -3044,8 +2432,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:886
-msgid ""
-":doc:`Tap Equalizer </effects_and_filters/audio_effects/tap_plugins/index>`"
+msgid ":doc:`Tap Equalizer </effects_and_filters/audio_effects/tap_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -3055,9 +2442,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:890
-msgid ""
-":doc:`Tap Equalizer/Bw </effects_and_filters/audio_effects/tap_plugins/"
-"index>`"
+msgid ":doc:`Tap Equalizer/Bw </effects_and_filters/audio_effects/tap_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -3067,9 +2452,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:894
-msgid ""
-":doc:`Tap Fractal Doubler </effects_and_filters/audio_effects/tap_plugins/"
-"index>`"
+msgid ":doc:`Tap Fractal Doubler </effects_and_filters/audio_effects/tap_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -3079,9 +2462,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:898
-msgid ""
-":doc:`Tap Pink/Fractal Noise </effects_and_filters/audio_effects/tap_plugins/"
-"index>`"
+msgid ":doc:`Tap Pink/Fractal Noise </effects_and_filters/audio_effects/tap_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -3091,9 +2472,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:902
-msgid ""
-":doc:`Tap Pitch Shifter </effects_and_filters/audio_effects/tap_plugins/"
-"index>`"
+msgid ":doc:`Tap Pitch Shifter </effects_and_filters/audio_effects/tap_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -3103,8 +2482,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:906
-msgid ""
-":doc:`Tap Reflector </effects_and_filters/audio_effects/tap_plugins/index>`"
+msgid ":doc:`Tap Reflector </effects_and_filters/audio_effects/tap_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -3114,9 +2492,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:910
-msgid ""
-":doc:`Tap Reverberator </effects_and_filters/audio_effects/tap_plugins/"
-"index>`"
+msgid ":doc:`Tap Reverberator </effects_and_filters/audio_effects/tap_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -3126,9 +2502,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:914
-msgid ""
-":doc:`Tap Rotary Speaker </effects_and_filters/audio_effects/tap_plugins/"
-"index>`"
+msgid ":doc:`Tap Rotary Speaker </effects_and_filters/audio_effects/tap_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -3138,9 +2512,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:918
-msgid ""
-":doc:`Tap Scaling Limiter </effects_and_filters/audio_effects/tap_plugins/"
-"index>`"
+msgid ":doc:`Tap Scaling Limiter </effects_and_filters/audio_effects/tap_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -3150,9 +2522,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:922
-msgid ""
-":doc:`Tap Sigmoid Booster </effects_and_filters/audio_effects/tap_plugins/"
-"index>`"
+msgid ":doc:`Tap Sigmoid Booster </effects_and_filters/audio_effects/tap_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -3162,8 +2532,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:926
-msgid ""
-":doc:`Tap Stereo Echo </effects_and_filters/audio_effects/tap_plugins/index>`"
+msgid ":doc:`Tap Stereo Echo </effects_and_filters/audio_effects/tap_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -3173,8 +2542,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:930
-msgid ""
-":doc:`Tap Tremolo </effects_and_filters/audio_effects/tap_plugins/index>`"
+msgid ":doc:`Tap Tremolo </effects_and_filters/audio_effects/tap_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -3184,8 +2552,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:934
-msgid ""
-":doc:`Tap Tubewarmth </effects_and_filters/audio_effects/tap_plugins/index>`"
+msgid ":doc:`Tap Tubewarmth </effects_and_filters/audio_effects/tap_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -3195,8 +2562,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:938
-msgid ""
-":doc:`Tap Vibrato </effects_and_filters/audio_effects/tap_plugins/index>`"
+msgid ":doc:`Tap Vibrato </effects_and_filters/audio_effects/tap_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -3206,9 +2572,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:942
-msgid ""
-":doc:`Tape Delay Simulation </effects_and_filters/audio_effects/swh_plugins/"
-"index>`"
+msgid ":doc:`Tape Delay Simulation </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -3228,9 +2592,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:950
-msgid ""
-":doc:`Transient mangler </effects_and_filters/audio_effects/swh_plugins/"
-"index>`"
+msgid ":doc:`Transient mangler </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -3250,9 +2612,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:958
-msgid ""
-":doc:`Triple band parametric with shelves </effects_and_filters/"
-"audio_effects/swh_plugins/index>`"
+msgid ":doc:`Triple band parametric with shelves </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -3262,8 +2622,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:962
-msgid ""
-":doc:`Valve rectifier </effects_and_filters/audio_effects/swh_plugins/index>`"
+msgid ":doc:`Valve rectifier </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -3273,9 +2632,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:966
-msgid ""
-":doc:`Valve saturation </effects_and_filters/audio_effects/swh_plugins/"
-"index>`"
+msgid ":doc:`Valve saturation </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -3315,8 +2672,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:982
-msgid ""
-":doc:`Vocoder </effects_and_filters/audio_effects/ladspa_plugins/index>`"
+msgid ":doc:`Vocoder </effects_and_filters/audio_effects/ladspa_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -3331,9 +2687,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:986
-msgid ""
-":doc:`/effects_and_filters/audio_effects/volume_and_dynamics/"
-"volume_keyframable`"
+msgid ":doc:`/effects_and_filters/audio_effects/volume_and_dynamics/volume_keyframable`"
 msgstr ""
 
 #. +> trunk5
@@ -3343,9 +2697,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:990
-msgid ""
-":doc:`VyNil (Vinyl Effect) </effects_and_filters/audio_effects/swh_plugins/"
-"index>`"
+msgid ":doc:`VyNil (Vinyl Effect) </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -3355,8 +2707,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:994
-msgid ""
-":doc:`Wave shaper </effects_and_filters/audio_effects/swh_plugins/index>`"
+msgid ":doc:`Wave shaper </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -3366,9 +2717,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:998
-msgid ""
-":doc:`Wave Shaper (Sine-Based) </effects_and_filters/audio_effects/"
-"cmt_plugins/index>`"
+msgid ":doc:`Wave Shaper (Sine-Based) </effects_and_filters/audio_effects/cmt_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -3378,9 +2727,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:1002
-msgid ""
-":doc:`Wave Terrain Oscillator </effects_and_filters/audio_effects/"
-"swh_plugins/index>`"
+msgid ":doc:`Wave Terrain Oscillator </effects_and_filters/audio_effects/swh_plugins/index>`"
 msgstr ""
 
 #. +> trunk5
@@ -3400,18 +2747,15 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/lists/audio_effects_list.rst:1014
-msgid ""
-"|linux|: available in the installed version; |appimage|: available in the "
-"appimage; |windows|: available in the Windows version; |apple|: available in "
-"the MacOS (Intel only) version"
+msgid "|linux|: available in the installed version; |appimage|: available in the appimage; |windows|: available in the Windows version; |apple|: available in the MacOS (Intel only) version"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/lists/audio_effects_list.rst:-1
+#: ../../effects_and_filters/lists/audio_effects_list.rst:-1:
 msgid "Alphabetical list of all audio effects in Kdenlive"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/lists/audio_effects_list.rst:-1
+#: ../../effects_and_filters/lists/audio_effects_list.rst:-1:
 msgid "KDE, Kdenlive, audio effects, plugins, composition, transition"
 msgstr ""

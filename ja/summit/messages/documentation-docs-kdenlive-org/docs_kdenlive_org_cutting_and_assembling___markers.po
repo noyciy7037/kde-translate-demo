@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the  <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License SA 4.0</a> unless stated otherwise
+# This file is distributed under the same license as the Kdenlive Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Kdenlive Manual \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-13 09:58+0100\n"
-"PO-Revision-Date: 2022-12-12 23:23-0800\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Kdenlive Manual 25.12\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../cutting_and_assembling/markers.rst:18
@@ -22,24 +21,18 @@ msgstr ""
 #. +> trunk5
 #: ../../cutting_and_assembling/markers.rst:21
 msgid ""
-"Markers in the picture below are the yellow flags inside the clip. Not to be "
-"confused with :ref:`timeline markers <guides>` (red flags in the picture "
-"below). Markers are inside the clips and move with the clips."
+"Markers in the picture below are the yellow flags inside the clip. Not to be confused with :ref:`timeline markers <guides>` (red flags in the picture below). Markers are inside the clips and move "
+"with the clips."
 msgstr ""
 
 #. +> trunk5
 #: ../../cutting_and_assembling/markers.rst:25
-msgid ""
-"Markers can be used for certain points (Marker2) or ranges (Marker1) in a "
-"clip that are important."
+msgid "Markers can be used for certain points (Marker2) or ranges (Marker1) in a clip that are important."
 msgstr ""
 
 #. +> trunk5
 #: ../../cutting_and_assembling/markers.rst:27
-msgid ""
-"Markers are clip related and \"fix\" to this clip. When you put the same "
-"clip again in the timeline and you change a marker, this marker is changed "
-"on both clips simultaneously."
+msgid "Markers are clip related and \"fix\" to this clip. When you put the same clip again in the timeline and you change a marker, this marker is changed on both clips simultaneously."
 msgstr ""
 
 #. +> trunk5
@@ -49,16 +42,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../cutting_and_assembling/markers.rst:35
-msgid ""
-"Add markers to your clips via the :ref:`ui-monitors_clip_monitor`. That "
-"allows you to preview the clip at the location where you are adding a marker."
+msgid "Add markers to your clips via the :ref:`ui-monitors_clip_monitor`. That allows you to preview the clip at the location where you are adding a marker."
 msgstr ""
 
 #. +> trunk5
 #: ../../cutting_and_assembling/markers.rst:37
-msgid ""
-"Following procedures add a marker at the playhead position (clip monitor, "
-"timeline):"
+msgid "Following procedures add a marker at the playhead position (clip monitor, timeline):"
 msgstr ""
 
 #. +> trunk5
@@ -68,31 +57,22 @@ msgstr ""
 
 #. +> trunk5
 #: ../../cutting_and_assembling/markers.rst:42
-msgid ""
-"Clip monitor: From the main menu choose :menuselection:`Markers --> Add "
-"Marker`, :ref:`add_marker`"
+msgid "Clip monitor: From the main menu choose :menuselection:`Markers --> Add Marker`, :ref:`add_marker`"
 msgstr ""
 
 #. +> trunk5
 #: ../../cutting_and_assembling/markers.rst:43
-msgid ""
-"Timeline: Click on the clip. From the main menu "
-"choose :menuselection:`Markers --> Add Marker`, :ref:`add_marker`"
+msgid "Timeline: Click on the clip. From the main menu choose :menuselection:`Markers --> Add Marker`, :ref:`add_marker`"
 msgstr ""
 
 #. +> trunk5
 #: ../../cutting_and_assembling/markers.rst:44
-msgid ""
-"Clip monitor: Right click on the clip monitor and "
-"choose :menuselection:`Markers --> Add Marker`"
+msgid "Clip monitor: Right click on the clip monitor and choose :menuselection:`Markers --> Add Marker`"
 msgstr ""
 
 #. +> trunk5
 #: ../../cutting_and_assembling/markers.rst:45
-msgid ""
-"Timeline: Right click the clip in the timeline and "
-"choose :menuselection:`Markers --> Add Marker`. The marker is added at the "
-"play-head position."
+msgid "Timeline: Right click the clip in the timeline and choose :menuselection:`Markers --> Add Marker`. The marker is added at the play-head position."
 msgstr ""
 
 #. +> trunk5
@@ -107,9 +87,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../cutting_and_assembling/markers.rst:52
-msgid ""
-"Timeline: Move the playhead on the desired position on the clip. Click on "
-"the clip. Numeric keypad :kbd:`*` adds a marker"
+msgid "Timeline: Move the playhead on the desired position on the clip. Click on the clip. Numeric keypad :kbd:`*` adds a marker"
 msgstr ""
 
 #. +> trunk5
@@ -139,10 +117,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../cutting_and_assembling/markers.rst:73
-msgid ""
-"In the Edit Marker window you can enable :guilabel:`Range Marker` which "
-"allows you to determine a :guilabel:`Duration` of the marker. "
-"Default :guilabel:`Duration` is 1 second."
+msgid "In the Edit Marker window you can enable :guilabel:`Range Marker` which allows you to determine a :guilabel:`Duration` of the marker. Default :guilabel:`Duration` is 1 second."
 msgstr ""
 
 #. +> trunk5
@@ -157,32 +132,24 @@ msgstr ""
 
 #. +> trunk5
 #: ../../cutting_and_assembling/markers.rst:89
-msgid ""
-"Define a zone in the clip monitor with :kbd:`I` and :kbd:`O`. Then you can:"
+msgid "Define a zone in the clip monitor with :kbd:`I` and :kbd:`O`. Then you can:"
 msgstr ""
 
 #. +> trunk5
 #: ../../cutting_and_assembling/markers.rst:91
-msgid ""
-"Right click on the zone and choose :guilabel:`Create Marker from Zone`. This "
-"opens a window (see above) and you can adjust all settings."
+msgid "Right click on the zone and choose :guilabel:`Create Marker from Zone`. This opens a window (see above) and you can adjust all settings."
 msgstr ""
 
 #. +> trunk5
 #: ../../cutting_and_assembling/markers.rst:93
-msgid ""
-"Right click on the zone and choose :guilabel:`Create Marker from Zone "
-"Quickly`. This creates a marker with the text :guilabel:`Zone Marker` in the "
-"currently active category."
+msgid "Right click on the zone and choose :guilabel:`Create Marker from Zone Quickly`. This creates a marker with the text :guilabel:`Zone Marker` in the currently active category."
 msgstr ""
 
 #. +> trunk5
 #: ../../cutting_and_assembling/markers.rst:95
 msgid ""
-"Now the advantage is, that you can select this zone marker in the markers "
-"windows and drag it to the timeline. In this way you can mark interesting "
-"parts of a clip with zone marker instead of :ref:`Insert Zone in Project Bin "
-"<insert_zone_in_project_bin>` and creating sub clips."
+"Now the advantage is, that you can select this zone marker in the markers windows and drag it to the timeline. In this way you can mark interesting parts of a clip with zone marker instead of "
+":ref:`Insert Zone in Project Bin <insert_zone_in_project_bin>` and creating sub clips."
 msgstr ""
 
 #. +> trunk5
@@ -197,9 +164,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../cutting_and_assembling/markers.rst:107
-msgid ""
-"Markers using the same categories as :ref:`guides`. More details "
-"about :ref:`categories`."
+msgid "Markers using the same categories as :ref:`guides`. More details about :ref:`categories`."
 msgstr ""
 
 #. +> trunk5
@@ -210,13 +175,9 @@ msgstr ""
 #. +> trunk5
 #: ../../cutting_and_assembling/markers.rst:112
 msgid ""
-"Once markers are put in your clip, you can access them in the :ref:`ui-"
-"monitors_clip_monitor` by right-clicking and selecting :menuselection:`Go To "
-"Marker` or by the hamburger menu :menuselection:`Go To Marker` (see "
-"picture).  Also note how the markers appear as vertical lines according the "
-"category color you have chosen (see yellow highlighted regions in the "
-"picture). You can turn on the display of the marker comments in the timeline "
-"too (see :ref:`editing`)."
+"Once markers are put in your clip, you can access them in the :ref:`ui-monitors_clip_monitor` by right-clicking and selecting :menuselection:`Go To Marker` or by the hamburger menu "
+":menuselection:`Go To Marker` (see picture).  Also note how the markers appear as vertical lines according the category color you have chosen (see yellow highlighted regions in the picture). You can"
+" turn on the display of the marker comments in the timeline too (see :ref:`editing`)."
 msgstr ""
 
 #. +> trunk5
@@ -226,16 +187,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../cutting_and_assembling/markers.rst:122
-msgid ""
-"Markers are using the same window as :ref:`timeline marker <guide_view>`. "
-"Yellow markings show the differences compared to the guide view."
+msgid "Markers are using the same window as :ref:`timeline marker <guide_view>`. Yellow markings show the differences compared to the guide view."
 msgstr ""
 
 #. +> trunk5
 #: ../../cutting_and_assembling/markers.rst:127
-msgid ""
-":menuselection:`View --> Markers` opens the markers window where you can "
-"manage your markers."
+msgid ":menuselection:`View --> Markers` opens the markers window where you can manage your markers."
 msgstr ""
 
 #. +> trunk5
@@ -245,17 +202,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../cutting_and_assembling/markers.rst:131
-msgid ""
-"Project bin: click on the desired clip and the markers of the clip show up "
-"in the window."
+msgid "Project bin: click on the desired clip and the markers of the clip show up in the window."
 msgstr ""
 
 #. +> trunk5
 #: ../../cutting_and_assembling/markers.rst:133
-msgid ""
-"On the timeline: right click on the desired clip and "
-"choose :menuselection:`Clip in Project Bin` and the markers of this clip "
-"show up in the window."
+msgid "On the timeline: right click on the desired clip and choose :menuselection:`Clip in Project Bin` and the markers of this clip show up in the window."
 msgstr ""
 
 #. +> trunk5
@@ -265,10 +217,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../cutting_and_assembling/markers.rst:138
-msgid ""
-"You can put a comment in the marker and make the comment display by "
-"choosing :ref:`editing` in the :menuselection:`Timeline` menu or by clicking "
-"on the :ref:`editing` button."
+msgid "You can put a comment in the marker and make the comment display by choosing :ref:`editing` in the :menuselection:`Timeline` menu or by clicking on the :ref:`editing` button."
 msgstr ""
 
 #. +> trunk5
@@ -278,9 +227,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../cutting_and_assembling/markers.rst:148
-msgid ""
-"You can export markers of a single clip as chapters like guides. You have to "
-"select a clip before you export."
+msgid "You can export markers of a single clip as chapters like guides. You have to select a clip before you export."
 msgstr ""
 
 #. +> trunk5
@@ -295,33 +242,25 @@ msgstr ""
 
 #. +> trunk5
 #: ../../cutting_and_assembling/markers.rst:163
-msgid ""
-"A double-click on a marker **text** in the timeline opens the edit window "
-"(besides the possibility in :ref:`markers view <guide_view>`)"
+msgid "A double-click on a marker **text** in the timeline opens the edit window (besides the possibility in :ref:`markers view <guide_view>`)"
 msgstr ""
 
 #. +> trunk5
 #: ../../cutting_and_assembling/markers.rst:167
-msgid ""
-"Markers can only be moved by changing the :guilabel:`Position` in the edit "
-"window."
+msgid "Markers can only be moved by changing the :guilabel:`Position` in the edit window."
 msgstr ""
 
 #. +> trunk5
 #: ../../cutting_and_assembling/markers.rst:169
-msgid ""
-":guilabel:`Comment` text and :guilabel:`Category` can be changed in the edit "
-"window."
+msgid ":guilabel:`Comment` text and :guilabel:`Category` can be changed in the edit window."
 msgstr ""
 
 #. +> trunk5
-#: ../../cutting_and_assembling/markers.rst:-1
+#: ../../cutting_and_assembling/markers.rst:-1:
 msgid "Set markers in Kdenlive video editor"
 msgstr ""
 
 #. +> trunk5
-#: ../../cutting_and_assembling/markers.rst:-1
-msgid ""
-"KDE, Kdenlive, set guides, DVD, youtube, editing, timeline, documentation, "
-"user manual, video editor, open source, free, learn, easy"
+#: ../../cutting_and_assembling/markers.rst:-1:
+msgid "KDE, Kdenlive, set guides, DVD, youtube, editing, timeline, documentation, user manual, video editor, open source, free, learn, easy"
 msgstr ""

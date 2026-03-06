@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the  <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License SA 4.0</a> unless stated otherwise
+# This file is distributed under the same license as the Kdenlive Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Kdenlive Manual \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-13 09:59+0100\n"
-"PO-Revision-Date: 2025-01-18 07:10+0900\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Kdenlive Manual 25.12\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../getting_started/configure_kdenlive/configuration_environment.rst:39
@@ -32,56 +31,40 @@ msgstr ""
 #. +> trunk5
 #: ../../getting_started/configure_kdenlive/configuration_environment.rst:62
 msgid ""
-":guilabel:`Concurrent threads`. Defines the number of threads to use for "
-"proxy clip generation and transcode jobs. Those jobs will run in the "
-"background. The value entered is passed to ffmpeg as the :code:`-threads` "
-"parameter. Increasing this parameter may not have an effect if you have "
-"changed the proxy encoding settings using :doc:`project settings</"
-"project_and_asset_management/project_settings/proxy_settings>` to a codec "
-"that ffmpeg does not do multi-threading on. Multi-threading is supported for "
-"MPEG-2, MPEG-4, H.264, and VP8."
+":guilabel:`Concurrent threads`. Defines the number of threads to use for proxy clip generation and transcode jobs. Those jobs will run in the background. The value entered is passed to ffmpeg as the"
+" :code:`-threads` parameter. Increasing this parameter may not have an effect if you have changed the proxy encoding settings using :doc:`project "
+"settings</project_and_asset_management/project_settings/proxy_settings>` to a codec that ffmpeg does not do multi-threading on. Multi-threading is supported for MPEG-2, MPEG-4, H.264, and VP8."
 msgstr ""
 
 #. +> trunk5
 #: ../../getting_started/configure_kdenlive/configuration_environment.rst:64
 msgid ""
-":guilabel:`Use lower CPU priority`. This instructs Kdenlive to lower the "
-"priority of the proxy clip generation and transcode jobs. It helps keeping "
-"the main UI responsive when proxies are created or clips are being "
-"transcoded."
+":guilabel:`Use lower CPU priority`. This instructs Kdenlive to lower the priority of the proxy clip generation and transcode jobs. It helps keeping the main UI responsive when proxies are created or"
+" clips are being transcoded."
 msgstr ""
 
 #. +> trunk5
 #: ../../getting_started/configure_kdenlive/configuration_environment.rst:66
 msgid ""
-":guilabel:`Warn if cached data exceeds`. Add a maximal cache size that "
-"Kdenlive checks every two weeks. Kdenlive issues a warning message if the "
-"total cached data size exceeds this limit. If you need to purge the cache, "
-"use the :doc:`/tips_and_tricks/useful_info/manage_cached_data` feature."
+":guilabel:`Warn if cached data exceeds`. Add a maximal cache size that Kdenlive checks every two weeks. Kdenlive issues a warning message if the total cached data size exceeds this limit. If you "
+"need to purge the cache, use the :doc:`/tips_and_tricks/useful_info/manage_cached_data` feature."
 msgstr ""
 
 #. +> trunk5
 #: ../../getting_started/configure_kdenlive/configuration_environment.rst:68
 msgid ""
-":guilabel:`Show welcome screen at startup`. If checked, Kdenlive will show "
-"the :ref:`welcome screen <welcome_and_splash_screen>` on which you can "
-"select a project. When unchecked, Kdenlive will show the :ref:`splash screen "
-"<welcome_and_splash_screen>`."
+":guilabel:`Show welcome screen at startup`. If checked, Kdenlive will show the :ref:`welcome screen <welcome_and_splash_screen>` on which you can select a project. When unchecked, Kdenlive will show"
+" the :ref:`splash screen <welcome_and_splash_screen>`."
 msgstr ""
 
 #. +> trunk5
 #: ../../getting_started/configure_kdenlive/configuration_environment.rst:70
-msgid ""
-":guilabel:`Check for updates`. If checked, Kdenlive will show a pop-up "
-"window with a reminder if your version is older than six (6) months."
+msgid ":guilabel:`Check for updates`. If checked, Kdenlive will show a pop-up window with a reminder if your version is older than six (6) months."
 msgstr ""
 
 #. +> trunk5
 #: ../../getting_started/configure_kdenlive/configuration_environment.rst:72
-msgid ""
-":guilabel:`Prevent sleep when playing and rendering`. If checked, Kdenlive "
-"disables the system's power management to avoid sleep mode and screen "
-"locking during playback and rendering."
+msgid ":guilabel:`Prevent sleep when playing and rendering`. If checked, Kdenlive disables the system's power management to avoid sleep mode and screen locking during playback and rendering."
 msgstr ""
 
 #. +> trunk5
@@ -97,12 +80,9 @@ msgstr ""
 #. +> trunk5
 #: ../../getting_started/configure_kdenlive/configuration_environment.rst:84
 msgid ""
-"These settings tell Kdenlive where to find the MLT executables and profile "
-"files. Only advanced users would really need to change these settings. "
-"Kdenlive is basically a frontend to the MLT program. Since Kdenlive version "
-"25.08, |mediainfo| is not needed anymore as Kdenlive can read the timecode "
-"directly from MLT and shows these details in the clip properties. The values "
-"differ depending on your OS."
+"These settings tell Kdenlive where to find the MLT executables and profile files. Only advanced users would really need to change these settings. Kdenlive is basically a frontend to the MLT program."
+" Since Kdenlive version 25.08, |mediainfo| is not needed anymore as Kdenlive can read the timecode directly from MLT and shows these details in the clip properties. The values differ depending on "
+"your OS."
 msgstr ""
 
 #. +> trunk5
@@ -133,9 +113,8 @@ msgstr ""
 #. +> trunk5
 #: ../../getting_started/configure_kdenlive/configuration_environment.rst:112
 msgid ""
-"These settings tell Kdenlive where project files are to be stored. It also "
-"controls what folder Kdenlive will use as a temporary file storage location "
-"and where files captured from an external source will be saved."
+"These settings tell Kdenlive where project files are to be stored. It also controls what folder Kdenlive will use as a temporary file storage location and where files captured from an external "
+"source will be saved."
 msgstr ""
 
 #. +> trunk5
@@ -165,9 +144,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../getting_started/configure_kdenlive/configuration_environment.rst:196
-msgid ""
-"These settings control which external application opens when you "
-"choose :ref:`edit_clip` for a clip in the Project Bin."
+msgid "These settings control which external application opens when you choose :ref:`edit_clip` for a clip in the Project Bin."
 msgstr ""
 
 #. +> trunk5
@@ -188,24 +165,17 @@ msgstr ""
 #. +> trunk5
 #: ../../getting_started/configure_kdenlive/configuration_environment.rst:208
 msgid ""
-":guilabel:`Animation editing`: Kdenlive integrates nicely with and updates "
-"files automatically which are saved in |glaxnimate| which is available from "
-"its homepage for Linux, Windows, and MacOS."
+":guilabel:`Animation editing`: Kdenlive integrates nicely with and updates files automatically which are saved in |glaxnimate| which is available from its homepage for Linux, Windows, and MacOS."
 msgstr ""
 
 #. +> trunk5
 #: ../../getting_started/configure_kdenlive/configuration_environment.rst:210
-msgid ""
-"**Mac user:** See these :ref:`instructions <kdenlive_macos>` how to install "
-"and run :file:`dmg` files."
+msgid "**Mac user:** See these :ref:`instructions <kdenlive_macos>` how to install and run :file:`dmg` files."
 msgstr ""
 
 #. +> trunk5
 #: ../../getting_started/configure_kdenlive/configuration_environment.rst:212
-msgid ""
-"**Windows user:** Make sure all the paths point to an :file:`.exe` "
-"file. :file:`glaxnimate.exe` is in folder :file:`%PROGRAMFILES%\\"
-"\\glaxnimate\\\\bin\\\\`."
+msgid "**Windows user:** Make sure all the paths point to an :file:`.exe` file. :file:`glaxnimate.exe` is in folder :file:`%PROGRAMFILES%\\\\glaxnimate\\\\bin\\\\`."
 msgstr ""
 
 #. +> trunk5
@@ -225,9 +195,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../getting_started/configure_kdenlive/configuration_environment.rst:225
-msgid ""
-"Specifies the Media Types (formerly known as MIME types) which Kdenlive can "
-"work with."
+msgid "Specifies the Media Types (formerly known as MIME types) which Kdenlive can work with."
 msgstr ""
 
 #. +> trunk5
@@ -236,16 +204,13 @@ msgid "Supported MIME Types"
 msgstr ""
 
 #. +> trunk5
-#: ../../getting_started/configure_kdenlive/configuration_environment.rst:-1
+#: ../../getting_started/configure_kdenlive/configuration_environment.rst:-1:
 msgid "Kdenlive Documentation - Configuration Environment"
 msgstr ""
 
 #. +> trunk5
-#: ../../getting_started/configure_kdenlive/configuration_environment.rst:-1
-msgid ""
-"KDE, Kdenlive, documentation, user manual, configuration, preferences, "
-"environment, default folders, default apps, mlt, mime types, python, video "
-"editor, open source, free, learn, easy"
+#: ../../getting_started/configure_kdenlive/configuration_environment.rst:-1:
+msgid "KDE, Kdenlive, documentation, user manual, configuration, preferences, environment, default folders, default apps, mlt, mime types, python, video editor, open source, free, learn, easy"
 msgstr ""
 
 #. +> trunk5

@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the  <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License SA 4.0</a> unless stated otherwise
+# This file is distributed under the same license as the Kdenlive Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Kdenlive Manual \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-13 09:59+0100\n"
-"PO-Revision-Date: 2021-11-20 18:29-0800\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Kdenlive Manual 25.12\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../getting_started/introduction.rst:30
@@ -21,34 +20,23 @@ msgstr ""
 
 #. +> trunk5
 #: ../../getting_started/introduction.rst:33
-msgid ""
-"**Kdenlive** is an acronym for |kde_org| **N**\\ on-\\ **Li**\\ near **V**\\ "
-"ideo **E**\\ ditor."
+msgid "**Kdenlive** is an acronym for |kde_org| **N**\\ on-\\ **Li**\\ near **V**\\ ideo **E**\\ ditor."
 msgstr ""
 
 #. +> trunk5
 #: ../../getting_started/introduction.rst:36
 msgid ""
-"It is a free software (|gpl_licensed|) primarily aimed at the Linux "
-"platform, but it also works on BSD\\ [1]_  as it relies only on portable "
-"components (|qt| and |mlt|). Windows versions are also available, with some "
-"drawbacks. See :ref:`troubleshooting-windows_issues` for more information. A "
-"port on MacOS is also available."
+"It is a free software (|gpl_licensed|) primarily aimed at the Linux platform, but it also works on BSD\\ [1]_  as it relies only on portable components (|qt| and |mlt|). Windows versions are also "
+"available, with some drawbacks. See :ref:`troubleshooting-windows_issues` for more information. A port on MacOS is also available."
 msgstr ""
 
 #. +> trunk5
 #: ../../getting_started/introduction.rst:58
 msgid ""
-"Through the MLT framework **Kdenlive** integrates many effects for video and "
-"audio processing or creation. Furthermore, **Kdenlive** brings a "
-"powerful :doc:`title editor </titles_and_graphics/titles/titles>`, "
-"a :doc:`subtitling </effects_and_filters/subtitles>` feature with AI-"
-"supported :doc:`speech to text </effects_and_filters/speech_to_text>` "
-"conversion, :ref:`nested timelines <sequence>` (new in version "
-"23.04), :doc:`animation </project_and_asset_management/project_bin/"
-"animation>` support through Glaxnimate integration (new in version 22.08) "
-"and thus can be used as a complete studio for video creation. Check "
-"out :doc:`/more_information/whats_new` for the most recent feature additions."
+"Through the MLT framework **Kdenlive** integrates many effects for video and audio processing or creation. Furthermore, **Kdenlive** brings a powerful :doc:`title editor "
+"</titles_and_graphics/titles/titles>`, a :doc:`subtitling </effects_and_filters/subtitles>` feature with AI-supported :doc:`speech to text </effects_and_filters/speech_to_text>` conversion, "
+":ref:`nested timelines <sequence>` (new in version 23.04), :doc:`animation </project_and_asset_management/project_bin/animation>` support through Glaxnimate integration (new in version 22.08) and "
+"thus can be used as a complete studio for video creation. Check out :doc:`/more_information/whats_new` for the most recent feature additions."
 msgstr ""
 
 #. +> trunk5
@@ -58,10 +46,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../getting_started/introduction.rst:65
-msgid ""
-"Multitrack editing with a timeline and virtually unlimited number of video "
-"and audio tracks, plus the ability to split audio and video from a clip in "
-"multiple tracks"
+msgid "Multitrack editing with a timeline and virtually unlimited number of video and audio tracks, plus the ability to split audio and video from a clip in multiple tracks"
 msgstr ""
 
 #. +> trunk5
@@ -71,44 +56,32 @@ msgstr ""
 
 #. +> trunk5
 #: ../../getting_started/introduction.rst:69
-msgid ""
-"Non-blocking rendering. You can keep working on a project at the same time a "
-"project is being transformed into a video file"
+msgid "Non-blocking rendering. You can keep working on a project at the same time a project is being transformed into a video file"
 msgstr ""
 
 #. +> trunk5
 #: ../../getting_started/introduction.rst:71
-msgid ""
-"Dozens of effects and transitions that can be used with ease and even saved "
-"as custom effects with their settings for use in other projects"
+msgid "Dozens of effects and transitions that can be used with ease and even saved as custom effects with their settings for use in other projects"
 msgstr ""
 
 #. +> trunk5
 #: ../../getting_started/introduction.rst:73
-msgid ""
-"Keyframeable effects with linear or smooth curves (more to come in future "
-"versions)"
+msgid "Keyframeable effects with linear or smooth curves (more to come in future versions)"
 msgstr ""
 
 #. +> trunk5
 #: ../../getting_started/introduction.rst:75
-msgid ""
-"Simple tools for easy creation of color clips, text clips and image clips"
+msgid "Simple tools for easy creation of color clips, text clips and image clips"
 msgstr ""
 
 #. +> trunk5
 #: ../../getting_started/introduction.rst:77
-msgid ""
-"Automatic :doc:`clip creation</project_and_asset_management/project_bin/"
-"image_sequence>` from pictures directories, with crossfade transitions among "
-"the images"
+msgid "Automatic :doc:`clip creation</project_and_asset_management/project_bin/image_sequence>` from pictures directories, with crossfade transitions among the images"
 msgstr ""
 
 #. +> trunk5
 #: ../../getting_started/introduction.rst:79
-msgid ""
-"Configurable keyboard shortcuts, toolbars and interface layouts to "
-"accommodate your workflow"
+msgid "Configurable keyboard shortcuts, toolbars and interface layouts to accommodate your workflow"
 msgstr ""
 
 #. +> trunk5
@@ -143,10 +116,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../getting_started/introduction.rst:101
-msgid ""
-"There is no need to import or convert footage prior to editing. Kdenlive "
-"knows how to handle any format smoothly and supports the following formats, "
-"file types and codecs:"
+msgid "There is no need to import or convert footage prior to editing. Kdenlive knows how to handle any format smoothly and supports the following formats, file types and codecs:"
 msgstr ""
 
 #. +> trunk5
@@ -176,9 +146,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../getting_started/introduction.rst:110
-msgid ""
-"Support for high (HD) and ultra-high (UHD/4K) resolution camcorder files, "
-"including:"
+msgid "Support for high (HD) and ultra-high (UHD/4K) resolution camcorder files, including:"
 msgstr ""
 
 #. +> trunk5
@@ -223,24 +191,17 @@ msgstr ""
 
 #. +> trunk5
 #: ../../getting_started/introduction.rst:123
-msgid ""
-"Ability to mix different video sources in a single project. For example, you "
-"can edit a film using two sources: a small mpeg4 camera and an HDV mpeg2 "
-"camcorder."
+msgid "Ability to mix different video sources in a single project. For example, you can edit a film using two sources: a small mpeg4 camera and an HDV mpeg2 camcorder."
 msgstr ""
 
 #. +> trunk5
 #: ../../getting_started/introduction.rst:125
-msgid ""
-"Any resolution. Kdenlive will adapt resolution of source files to the "
-"resolution of the project."
+msgid "Any resolution. Kdenlive will adapt resolution of source files to the resolution of the project."
 msgstr ""
 
 #. +> trunk5
 #: ../../getting_started/introduction.rst:126
-msgid ""
-"Any frame rate (from 15fps to 60 fps or higher). Kdenlive can duplicate/"
-"remove frames when needed."
+msgid "Any frame rate (from 15fps to 60 fps or higher). Kdenlive can duplicate/remove frames when needed."
 msgstr ""
 
 #. +> trunk5
@@ -265,17 +226,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../getting_started/introduction.rst:135
-msgid ""
-"Export to any format supported by |ffmpeg|, including DVD (PAL and NTSC), "
-"MPEG-2 and MP4 (PAL, NTSC and HD, UHD/4K), Matroska-H264/H265, AAC, AC3, "
-"MP3, Apple ProRes 422"
+msgid "Export to any format supported by |ffmpeg|, including DVD (PAL and NTSC), MPEG-2 and MP4 (PAL, NTSC and HD, UHD/4K), Matroska-H264/H265, AAC, AC3, MP3, Apple ProRes 422"
 msgstr ""
 
 #. +> trunk5
 #: ../../getting_started/introduction.rst:136
-msgid ""
-"Export to animated GIF or as image sequence in other formats, including BMP, "
-"DPX, JPEG, PNG, PPM, TGA, TIFF, WEBP"
+msgid "Export to animated GIF or as image sequence in other formats, including BMP, DPX, JPEG, PNG, PPM, TGA, TIFF, WEBP"
 msgstr ""
 
 #. +> trunk5
@@ -299,13 +255,11 @@ msgid "Berkeley Software Distribution"
 msgstr ""
 
 #. +> trunk5
-#: ../../getting_started/introduction.rst:-1
+#: ../../getting_started/introduction.rst:-1:
 msgid "Introduction to Kdenlive video editor"
 msgstr ""
 
 #. +> trunk5
-#: ../../getting_started/introduction.rst:-1
-msgid ""
-"KDE, Kdenlive, Introduction, documentation, user manual, video editor, open "
-"source, free, learn, easy"
+#: ../../getting_started/introduction.rst:-1:
+msgid "KDE, Kdenlive, Introduction, documentation, user manual, video editor, open source, free, learn, easy"
 msgstr ""

@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the  <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License SA 4.0</a> unless stated otherwise
+# This file is distributed under the same license as the Kdenlive Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Kdenlive Manual \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-13 09:59+0100\n"
-"PO-Revision-Date: 2023-10-04 23:14-0700\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Kdenlive Manual 25.12\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:67
@@ -26,24 +25,17 @@ msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:71
-msgid ""
-"Added 1080p preview scaling in :ref:`monitor <ui-"
-"monitors_preview_resolution>`"
+msgid "Added 1080p preview scaling in :ref:`monitor <ui-monitors_preview_resolution>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:72
-msgid ""
-"Added 10-bit pipeline support for :ref:`effects <effects-effects_tab>` "
-"and :ref:`composition <compositions-effects_tab>` and :ref:`rendering "
-"<rendering_preset_categories>`"
+msgid "Added 10-bit pipeline support for :ref:`effects <effects-effects_tab>` and :ref:`composition <compositions-effects_tab>` and :ref:`rendering <rendering_preset_categories>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:73
-msgid ""
-"Moved controls and settings to hamburger menus in :ref:`color scopes <view-"
-"audio_spectrum>`"
+msgid "Moved controls and settings to hamburger menus in :ref:`color scopes <view-audio_spectrum>`"
 msgstr ""
 
 #. +> trunk5
@@ -53,35 +45,27 @@ msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:75
-msgid ""
-"Moved timeline audio waveform zoom control from audio track header "
-"to :ref:`status bar <status_bar>`"
+msgid "Moved timeline audio waveform zoom control from audio track header to :ref:`status bar <status_bar>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:76
-msgid ""
-"Added button to hide clip overlays (clip name, effect names, ...) in "
-"the :ref:`timeline <status_bar>`"
+msgid "Added button to hide clip overlays (clip name, effect names, ...) in the :ref:`timeline <status_bar>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:77
-msgid ""
-"Added placeholder explaining how to import media in :doc:`project bin </"
-"project_and_asset_management/project_bin>`"
+msgid "Added placeholder explaining how to import media in :doc:`project bin </project_and_asset_management/project_bin>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:78
-msgid ""
-"Replaced \"Guide\" with \"Marker\" and/or :ref:`\"timeline marker\" <guides>`"
+msgid "Replaced \"Guide\" with \"Marker\" and/or :ref:`\"timeline marker\" <guides>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:79
-msgid ""
-"Added range/duration support in :ref:`marker system <markers_with_range>`"
+msgid "Added range/duration support in :ref:`marker system <markers_with_range>`"
 msgstr ""
 
 #. +> trunk5
@@ -96,16 +80,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:82
-msgid ""
-"Introduced KDDockWidgets library for :ref:`improved window docking <ui-"
-"moving_widgets>`"
+msgid "Introduced KDDockWidgets library for :ref:`improved window docking <ui-moving_widgets>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:83
-msgid ""
-"Added safe-area button, vertical safe-area layout, and zoom-reset "
-"in :ref:`monitor toolbar <ui_elements-monitor_elements>`"
+msgid "Added safe-area button, vertical safe-area layout, and zoom-reset in :ref:`monitor toolbar <ui_elements-monitor_elements>`"
 msgstr ""
 
 #. +> trunk5
@@ -120,50 +100,37 @@ msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:89
-msgid ""
-"Added checkerboard option in :ref:`clip monitor<ui-"
-"monitors_clip_monitor_hamburger>`"
+msgid "Added checkerboard option in :ref:`clip monitor<ui-monitors_clip_monitor_hamburger>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:90
-msgid ""
-"Added possibility to :ref:`hide all tracks at once<sequence-menu_tracks>`"
+msgid "Added possibility to :ref:`hide all tracks at once<sequence-menu_tracks>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:91
-msgid ""
-"Added possibility to :doc:`make autosave configurable</getting_started/"
-"configure_kdenlive/configuration_misc>`"
+msgid "Added possibility to :doc:`make autosave configurable</getting_started/configure_kdenlive/configuration_misc>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:92
-msgid ""
-"Revamp and updated the :doc:`titler</titles_and_graphics/titles/"
-"title_images>`"
+msgid "Revamp and updated the :doc:`titler</titles_and_graphics/titles/title_images>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:93
-msgid ""
-"Revamp and updated the :doc:`notes widget</project_and_asset_management/"
-"project_notes>`"
+msgid "Revamp and updated the :doc:`notes widget</project_and_asset_management/project_notes>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:94
-msgid ""
-"Added possibility for :ref:`timecode offset per "
-"sequence<sequence_timecode_offset>`"
+msgid "Added possibility for :ref:`timecode offset per sequence<sequence_timecode_offset>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:95
-msgid ""
-"Added possibility to :ref:`show thumbnails/all project clip markers in "
-"markers list<guide_view>`"
+msgid "Added possibility to :ref:`show thumbnails/all project clip markers in markers list<guide_view>`"
 msgstr ""
 
 #. +> trunk5
@@ -173,22 +140,17 @@ msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:97
-msgid ""
-"Added possibility to :ref:`manually clear all undo history<undo_history>`"
+msgid "Added possibility to :ref:`manually clear all undo history<undo_history>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:98
-msgid ""
-"Added possibility to :ref:`align clip based on SMPTE-esque "
-"timecode<delete_items>`"
+msgid "Added possibility to :ref:`align clip based on SMPTE-esque timecode<delete_items>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:99
-msgid ""
-"Added possibility to :ref:`expand/collapse items (effects, folders) and "
-"navigate effects with arrows<track_header>`"
+msgid "Added possibility to :ref:`expand/collapse items (effects, folders) and navigate effects with arrows<track_header>`"
 msgstr ""
 
 #. +> trunk5
@@ -198,9 +160,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:101
-msgid ""
-"Added possibility to :doc:`disable power management while rendering or when "
-"playback</getting_started/configure_kdenlive/configuration_environment>`"
+msgid "Added possibility to :doc:`disable power management while rendering or when playback</getting_started/configure_kdenlive/configuration_environment>`"
 msgstr ""
 
 #. +> trunk5
@@ -210,9 +170,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:103
-msgid ""
-"Added possibility to :ref:`create a new subtitle layer by Shift+drag a "
-"subtitle down<subtitle-multi-layer_subtitling>`"
+msgid "Added possibility to :ref:`create a new subtitle layer by Shift+drag a subtitle down<subtitle-multi-layer_subtitling>`"
 msgstr ""
 
 #. +> trunk5
@@ -222,43 +180,32 @@ msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:108
-msgid ""
-"Introduced :doc:`object segmentation</effects_and_filters/video_effects/"
-"alpha_mask_keying/object_mask>`"
+msgid "Introduced :doc:`object segmentation</effects_and_filters/video_effects/alpha_mask_keying/object_mask>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:109
-msgid ""
-"Introduced support for :ref:`OpenTimeLineIO import and export "
-"<file_opentimelineio_export>`"
+msgid "Introduced support for :ref:`OpenTimeLineIO import and export <file_opentimelineio_export>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:110
-msgid ""
-"Added possibility to :ref:`zoom waveform in the audio track <status_bar>`"
+msgid "Added possibility to :ref:`zoom waveform in the audio track <status_bar>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:111
-msgid ""
-"Added possibility to :ref:`collapse and expand all effects in the effect "
-"stack<effect_functions>`"
+msgid "Added possibility to :ref:`collapse and expand all effects in the effect stack<effect_functions>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:112
-msgid ""
-"Added in the :ref:`duration dialog a checkbox for ripple "
-"delete<resizing_multiple_timeline_items>`"
+msgid "Added in the :ref:`duration dialog a checkbox for ripple delete<resizing_multiple_timeline_items>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:113
-msgid ""
-"Added :doc:`shortcuts for find next/previous text phrase in the project "
-"notes</project_and_asset_management/project_notes>`"
+msgid "Added :doc:`shortcuts for find next/previous text phrase in the project notes</project_and_asset_management/project_notes>`"
 msgstr ""
 
 #. +> trunk5
@@ -278,29 +225,22 @@ msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:120
-msgid ""
-"Introduced :ref:`resizing multiple timeline items "
-"<resizing_multiple_timeline_items>`"
+msgid "Introduced :ref:`resizing multiple timeline items <resizing_multiple_timeline_items>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:121
-msgid ""
-"Added on :ref:`effects and compositions a direct link to the documentation "
-"<effect_functions>`"
+msgid "Added on :ref:`effects and compositions a direct link to the documentation <effect_functions>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:122
-msgid ""
-"Added a :ref:`shortcut to extract clip from timeline <timeline-current_clip>`"
+msgid "Added a :ref:`shortcut to extract clip from timeline <timeline-current_clip>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:123
-msgid ""
-"Added new :doc:`MLT HSL color correction effect </effects_and_filters/"
-"video_effects/color_image_correction/hsl_primaries>`"
+msgid "Added new :doc:`MLT HSL color correction effect </effects_and_filters/video_effects/color_image_correction/hsl_primaries>`"
 msgstr ""
 
 #. +> trunk5
@@ -310,9 +250,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:128
-msgid ""
-"Introduced :ref:`effect direct control in monitors <ui-"
-"monitors_effect_direct_control>`"
+msgid "Introduced :ref:`effect direct control in monitors <ui-monitors_effect_direct_control>`"
 msgstr ""
 
 #. +> trunk5
@@ -322,16 +260,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:130
-msgid ""
-"Added ability to :ref:`add guides/marker in 10 categories using the NumPad "
-"<add_guides>`"
+msgid "Added ability to :ref:`add guides/marker in 10 categories using the NumPad <add_guides>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:131
-msgid ""
-"Introduced :doc:`easing method to fades </effects_and_filters/video_effects/"
-"motion/fade_in>`"
+msgid "Introduced :doc:`easing method to fades </effects_and_filters/video_effects/motion/fade_in>`"
 msgstr ""
 
 #. +> trunk5
@@ -341,16 +275,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:136
-msgid ""
-"Added ability in :ref:`audio recording to set default bin "
-"<capturing_audio_target>`"
+msgid "Added ability in :ref:`audio recording to set default bin <capturing_audio_target>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:137
-msgid ""
-"Changed that new :ref:`recorded audio don't get highlighted in the project "
-"bin <audio-recording>`"
+msgid "Changed that new :ref:`recorded audio don't get highlighted in the project bin <audio-recording>`"
 msgstr ""
 
 #. +> trunk5
@@ -360,77 +290,57 @@ msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:139
-msgid ""
-"Added ability :doc:`to use custom project subfolder on disk </"
-"getting_started/configure_kdenlive/configuration_environment>`"
+msgid "Added ability :doc:`to use custom project subfolder on disk </getting_started/configure_kdenlive/configuration_environment>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:140
-msgid ""
-"Added ability :ref:`in monitor to play zone from cursor position <ui-"
-"monitors_pm_right_click>`"
+msgid "Added ability :ref:`in monitor to play zone from cursor position <ui-monitors_pm_right_click>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:141
-msgid ""
-"Added ability :doc:`to configure play/pause playback when clicking into "
-"monitor </getting_started/configure_kdenlive/configuration_playback>`"
+msgid "Added ability :doc:`to configure play/pause playback when clicking into monitor </getting_started/configure_kdenlive/configuration_playback>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:142
-msgid ""
-"Introduced :ref:`subtitles translation using SeamlessM4T engine "
-"<Translate_with_SeamlessM4T>`"
+msgid "Introduced :ref:`subtitles translation using SeamlessM4T engine <Translate_with_SeamlessM4T>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:143
-msgid ""
-"Added ability :ref:`to set maximum character per subtitle "
-"<Translate_with_SeamlessM4T>`"
+msgid "Added ability :ref:`to set maximum character per subtitle <Translate_with_SeamlessM4T>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:144
-msgid ""
-"Added an :ref:`output log when subtitles are generated "
-"<Translate_with_SeamlessM4T>`"
+msgid "Added an :ref:`output log when subtitles are generated <Translate_with_SeamlessM4T>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:145
-msgid ""
-"Added :doc:`the possibility to customizing camcorder proxy files </"
-"getting_started/configure_kdenlive/configuration_proxy_clips>`"
+msgid "Added :doc:`the possibility to customizing camcorder proxy files </getting_started/configure_kdenlive/configuration_proxy_clips>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:146
-msgid ""
-"Introduced :ref:`configurable behavior to change all effects in a group "
-"<grouped_clips_effect>`"
+msgid "Introduced :ref:`configurable behavior to change all effects in a group <grouped_clips_effect>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:147
-msgid ""
-"Added ability :ref:`for multi-format rendering <rendering-more_options>`"
+msgid "Added ability :ref:`for multi-format rendering <rendering-more_options>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:148
-msgid ""
-"Revamped and :doc:`improved multiple project bin </"
-"project_and_asset_management/project_bin/project_bin_use_multiple_bins>`"
+msgid "Revamped and :doc:`improved multiple project bin </project_and_asset_management/project_bin/project_bin_use_multiple_bins>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:149
-msgid ""
-"Introduced :ref:`double click to select a track <editing_active_tracks>`"
+msgid "Introduced :ref:`double click to select a track <editing_active_tracks>`"
 msgstr ""
 
 #. +> trunk5
@@ -450,30 +360,22 @@ msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:156
-msgid ""
-"Added ability to :ref:`change either the audio or video part of an AV-clip "
-"<replace_clip>`"
+msgid "Added ability to :ref:`change either the audio or video part of an AV-clip <replace_clip>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:157
-msgid ""
-"Added :ref:`automatically check for updates "
-"<automatically_check_for_updates>`"
+msgid "Added :ref:`automatically check for updates <automatically_check_for_updates>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:158
-msgid ""
-"Added :ref:`easing modes for keyframes <effects-keyframe-types-"
-"interpolation>`"
+msgid "Added :ref:`easing modes for keyframes <effects-keyframe-types-interpolation>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:159
-msgid ""
-"Added ability to :ref:`enable/disable effect stack of a clip <disable-"
-"enable_clip_stack>`"
+msgid "Added ability to :ref:`enable/disable effect stack of a clip <disable-enable_clip_stack>`"
 msgstr ""
 
 #. +> trunk5
@@ -483,16 +385,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:161
-msgid ""
-"Changed the :ref:`place where Python is stored for speech to text <effects-"
-"speech_to_text>`"
+msgid "Changed the :ref:`place where Python is stored for speech to text <effects-speech_to_text>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:162
-msgid ""
-"Added ability to :ref:`create sequences from text selection "
-"<creating_clips_by_speech_recognition>`"
+msgid "Added ability to :ref:`create sequences from text selection <creating_clips_by_speech_recognition>`"
 msgstr ""
 
 #. +> trunk5
@@ -502,22 +400,17 @@ msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:167
-msgid ""
-"Changed the way the default sequence is displayed when you :ref:`delete all "
-"sequence tabs <Delete_all_sequence_tabs>`"
+msgid "Changed the way the default sequence is displayed when you :ref:`delete all sequence tabs <Delete_all_sequence_tabs>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:168
-msgid ""
-"Added :kbd:`Shift+double-click` to :ref:`reset track to default height "
-"<reset_track_to_default_height>`"
+msgid "Added :kbd:`Shift+double-click` to :ref:`reset track to default height <reset_track_to_default_height>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:169
-msgid ""
-"Added ability to :ref:`fit tracks to view height <fit_tracks_to_view_height>`"
+msgid "Added ability to :ref:`fit tracks to view height <fit_tracks_to_view_height>`"
 msgstr ""
 
 #. +> trunk5
@@ -527,15 +420,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:171
-msgid ""
-"Changes to the :ref:`Configure clip jobs <configure_clip_jobs>` dialog window"
+msgid "Changes to the :ref:`Configure clip jobs <configure_clip_jobs>` dialog window"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:172
-msgid ""
-"Added :kbd:`Shift+z` to :ref:`adjust timeline zone <adjust_timeline_zone>` "
-"to selected clips"
+msgid "Added :kbd:`Shift+z` to :ref:`adjust timeline zone <adjust_timeline_zone>` to selected clips"
 msgstr ""
 
 #. +> trunk5
@@ -560,30 +450,22 @@ msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:180
-msgid ""
-"Ability to :ref:`split subtitle after first line "
-"<split_subtitle_after_first_line>`"
+msgid "Ability to :ref:`split subtitle after first line <split_subtitle_after_first_line>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:181
-msgid ""
-"Added :ref:`character count and zoom <subtitle-char_count_and_zoom>` to "
-"subtitles"
+msgid "Added :ref:`character count and zoom <subtitle-char_count_and_zoom>` to subtitles"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:182
-msgid ""
-"Added ability to filter the project bin :doc:`using categories </"
-"project_and_asset_management/project_bin/project_bin_use_filters>`"
+msgid "Added ability to filter the project bin :doc:`using categories </project_and_asset_management/project_bin/project_bin_use_filters>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:183
-msgid ""
-"Added ability to :ref:`upload to YouTube and NextCloud <rendering-"
-"sharing_video>` directly from Kdenlive"
+msgid "Added ability to :ref:`upload to YouTube and NextCloud <rendering-sharing_video>` directly from Kdenlive"
 msgstr ""
 
 #. +> trunk5
@@ -593,9 +475,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:188
-msgid ""
-"Added ability to :ref:`switch between a menubar and a hamburger menu "
-"<menubar>`"
+msgid "Added ability to :ref:`switch between a menubar and a hamburger menu <menubar>`"
 msgstr ""
 
 #. +> trunk5
@@ -605,34 +485,27 @@ msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:190
-msgid ""
-"Removed the marker tab from :doc:`clip properties</"
-"project_and_asset_management/project_bin/clip_properties>`"
+msgid "Removed the marker tab from :doc:`clip properties</project_and_asset_management/project_bin/clip_properties>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:191
-msgid ""
-"Added ability to :ref:`double-click on animation to edit <edit_an-animation>`"
+msgid "Added ability to :ref:`double-click on animation to edit <edit_an-animation>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:192
-msgid ""
-"Added new function to :ref:`remove all spaces <remove_spaces>` in the "
-"current track"
+msgid "Added new function to :ref:`remove all spaces <remove_spaces>` in the current track"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:193
-msgid ""
-"Added the ability to :ref:`manage categories and guides <managing_guides>`"
+msgid "Added the ability to :ref:`manage categories and guides <managing_guides>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:194
-msgid ""
-"Added the ability to :ref:`manage categories and markers <managing_markers>`"
+msgid "Added the ability to :ref:`manage categories and markers <managing_markers>`"
 msgstr ""
 
 #. +> trunk5
@@ -642,8 +515,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:196
-msgid ""
-"Changes to :ref:`export markers as chapter descriptions <export_guides>`"
+msgid "Changes to :ref:`export markers as chapter descriptions <export_guides>`"
 msgstr ""
 
 #. +> trunk5
@@ -658,30 +530,22 @@ msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:202
-msgid ""
-":doc:`Add animation </project_and_asset_management/project_bin/animation>` "
-"(Glaxnimate integration and support of Lottie animation files)"
+msgid ":doc:`Add animation </project_and_asset_management/project_bin/animation>` (Glaxnimate integration and support of Lottie animation files)"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:203
-msgid ""
-":doc:`Edit Project Bin tags </project_and_asset_management/project_bin/"
-"project_bin_use_tags>`"
+msgid ":doc:`Edit Project Bin tags </project_and_asset_management/project_bin/project_bin_use_tags>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:204
-msgid ""
-"Deprecated Track compositing fly-out menu (1a/b/c "
-"in :ref:`timeline_toolbar2`)"
+msgid "Deprecated Track compositing fly-out menu (1a/b/c in :ref:`timeline_toolbar2`)"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:205
-msgid ""
-"Switched to :guilabel:`Enable Track Compositing` being a toggle "
-"(see :ref:`timeline_toolbar2`)"
+msgid "Switched to :guilabel:`Enable Track Compositing` being a toggle (see :ref:`timeline_toolbar2`)"
 msgstr ""
 
 #. +> trunk5
@@ -691,14 +555,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:207
-msgid ""
-"Added ability to add a :ref:`style <subtitle-style-editor>` to subtitles"
+msgid "Added ability to add a :ref:`style <subtitle-style-editor>` to subtitles"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:208
-msgid ""
-"Added ability to :ref:`import and export <subtitle-import_export>` subtitles"
+msgid "Added ability to :ref:`import and export <subtitle-import_export>` subtitles"
 msgstr ""
 
 #. +> trunk5
@@ -718,22 +580,17 @@ msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:215
-msgid ""
-"Added Set Zone In/Out to :ref:`Timeline Ruler right-click menu "
-"<timeline_ruler_right-click_menu>`"
+msgid "Added Set Zone In/Out to :ref:`Timeline Ruler right-click menu <timeline_ruler_right-click_menu>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:216
-msgid ""
-"Changed the :guilabel:`Audio` checkbox to a simple checkbox in the Rendering "
-"dialog window (see :ref:`More Options <rendering-more_options>`)"
+msgid "Changed the :guilabel:`Audio` checkbox to a simple checkbox in the Rendering dialog window (see :ref:`More Options <rendering-more_options>`)"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:217
-msgid ""
-"Added ability to use :ref:`guides for multi export <rendering-multi_export>`"
+msgid "Added ability to use :ref:`guides for multi export <rendering-multi_export>`"
 msgstr ""
 
 #. +> trunk5
@@ -748,16 +605,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:223
-msgid ""
-"Added the ability to :doc:`create additional project bins </"
-"project_and_asset_management/project_bin/project_bin_use_multiple_bins>`"
+msgid "Added the ability to :doc:`create additional project bins </project_and_asset_management/project_bin/project_bin_use_multiple_bins>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:224
-msgid ""
-"Added a checkbox to :doc:`ignore subfolder structure </"
-"project_and_asset_management/project_bin/clips>` when importing media"
+msgid "Added a checkbox to :doc:`ignore subfolder structure </project_and_asset_management/project_bin/clips>` when importing media"
 msgstr ""
 
 #. +> trunk5
@@ -772,9 +625,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:230
-msgid ""
-"Enable locking of Guides (see :ref:`timeline Ruler right-click menu "
-"<timeline_ruler_right-click_menu>`)"
+msgid "Enable locking of Guides (see :ref:`timeline Ruler right-click menu <timeline_ruler_right-click_menu>`)"
 msgstr ""
 
 #. +> trunk5
@@ -784,9 +635,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:232
-msgid ""
-"Introducing :ref:`effects-masking_effects` (see :doc:`/effects_and_filters/"
-"video_effects/alpha_mask_keying/mask_apply`)"
+msgid "Introducing :ref:`effects-masking_effects` (see :doc:`/effects_and_filters/video_effects/alpha_mask_keying/mask_apply`)"
 msgstr ""
 
 #. +> trunk5
@@ -806,14 +655,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:239
-msgid ""
-"Added :ref:`Key binding information <keybinding_info>` to the status bar"
+msgid "Added :ref:`Key binding information <keybinding_info>` to the status bar"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:240
-msgid ""
-"Timeline visual overhaul (see :ref:`Timeline visuals <timeline_visuals>`)"
+msgid "Timeline visual overhaul (see :ref:`Timeline visuals <timeline_visuals>`)"
 msgstr ""
 
 #. +> trunk5
@@ -823,15 +670,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:242
-msgid ""
-"New icons in the keyframe panel (see :ref:`effects-working_with_keyframes`)"
+msgid "New icons in the keyframe panel (see :ref:`effects-working_with_keyframes`)"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:243
-msgid ""
-"Ability to import and export keyframes from/to the clipboard "
-"(see :ref:`effects-exchange_keyframes`)"
+msgid "Ability to import and export keyframes from/to the clipboard (see :ref:`effects-exchange_keyframes`)"
 msgstr ""
 
 #. +> trunk5
@@ -846,8 +690,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:246
-msgid ""
-"Added a :ref:`typewriter <title-text_typewriter>` effect to the Titler app"
+msgid "Added a :ref:`typewriter <title-text_typewriter>` effect to the Titler app"
 msgstr ""
 
 #. +> trunk5
@@ -862,16 +705,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:252
-msgid ""
-"Added Subtitles to :ref:`Timeline Ruler right-click menu "
-"<timeline_ruler_right-click_menu>`"
+msgid "Added Subtitles to :ref:`Timeline Ruler right-click menu <timeline_ruler_right-click_menu>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:253
-msgid ""
-"Ability to copy and paste keyframes between effects and across clips "
-"(see :ref:`effects-keyframes`)"
+msgid "Ability to copy and paste keyframes between effects and across clips (see :ref:`effects-keyframes`)"
 msgstr ""
 
 #. +> trunk5
@@ -906,9 +745,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:266
-msgid ""
-":doc:`Colored tags in the Project Bin </project_and_asset_management/"
-"project_bin/project_bin_use_tags>`"
+msgid ":doc:`Colored tags in the Project Bin </project_and_asset_management/project_bin/project_bin_use_tags>`"
 msgstr ""
 
 #. +> trunk5
@@ -928,8 +765,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:273
-msgid ""
-"New :ref:`effects-master_effect` to apply effects to the entire timeline"
+msgid "New :ref:`effects-master_effect` to apply effects to the entire timeline"
 msgstr ""
 
 #. +> trunk5
@@ -939,15 +775,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:278
-msgid ""
-"Introduced :ref:`3-Point Editing <three_point_editing>` with the keyboard"
+msgid "Introduced :ref:`3-Point Editing <three_point_editing>` with the keyboard"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:279
-msgid ""
-"Added ability to have :doc:`colored tags </project_and_asset_management/"
-"project_bin/project_bin_use_tags>` in the Project Bin"
+msgid "Added ability to have :doc:`colored tags </project_and_asset_management/project_bin/project_bin_use_tags>` in the Project Bin"
 msgstr ""
 
 #. +> trunk5
@@ -957,9 +790,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:284
-msgid ""
-":ref:`Support for external monitor display using Blackmagicdesign DeckLink "
-"cards <ui-monitors>`"
+msgid ":ref:`Support for external monitor display using Blackmagicdesign DeckLink cards <ui-monitors>`"
 msgstr ""
 
 #. +> trunk5
@@ -979,15 +810,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:288
-msgid ""
-":ref:`Keyframe handling <keyframe_handling>` directly in the clip in the "
-"timeline"
+msgid ":ref:`Keyframe handling <keyframe_handling>` directly in the clip in the timeline"
 msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:289
-msgid ""
-"Ability to :ref:`disable individual clips <disable_clips>` in the timeline"
+msgid "Ability to :ref:`disable individual clips <disable_clips>` in the timeline"
 msgstr ""
 
 #. +> trunk5
@@ -1002,19 +830,15 @@ msgstr ""
 
 #. +> trunk5
 #: ../../more_information/whats_new.rst:292
-msgid ""
-":doc:`Audio record controls in the track header </"
-"project_and_asset_management/capturing_audio>`"
+msgid ":doc:`Audio record controls in the track header </project_and_asset_management/capturing_audio>`"
 msgstr ""
 
 #. +> trunk5
-#: ../../more_information/whats_new.rst:-1
+#: ../../more_information/whats_new.rst:-1:
 msgid "Kdenlive Manual - What's New"
 msgstr ""
 
 #. +> trunk5
-#: ../../more_information/whats_new.rst:-1
-msgid ""
-"KDE, Kdenlive, documentation, user manual, video editor, open source, free, "
-"learn, easy, what's new, new"
+#: ../../more_information/whats_new.rst:-1:
+msgid "KDE, Kdenlive, documentation, user manual, video editor, open source, free, learn, easy, what's new, new"
 msgstr ""

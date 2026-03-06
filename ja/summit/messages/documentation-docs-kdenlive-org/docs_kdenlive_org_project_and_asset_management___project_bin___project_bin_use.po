@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the  <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License SA 4.0</a> unless stated otherwise
+# This file is distributed under the same license as the Kdenlive Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Kdenlive Manual \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-13 09:59+0100\n"
-"PO-Revision-Date: 2024-10-01 21:30+0900\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Kdenlive Manual 25.12\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../<rst_epilog>:34
@@ -132,10 +131,8 @@ msgstr ""
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use.rst:27
 msgid ""
-"The Project Bin\\ [1]_ is where all your :term:`assets<Asset>` are. "
-"Depending on the size of your project, that list can quickly become "
-"confusing and difficult to work with. Kdenlive has several features to "
-"manage the bin's content."
+"The Project Bin\\ [1]_ is where all your :term:`assets<Asset>` are. Depending on the size of your project, that list can quickly become confusing and difficult to work with. Kdenlive has several "
+"features to manage the bin's content."
 msgstr ""
 
 #. +> trunk5
@@ -156,26 +153,20 @@ msgstr ""
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use.rst:46
 msgid ""
-"|kdenlive-add-clip|\\ :guilabel:`Add clip or folder` opens a window similar "
-"to the file manager of your OS allowing you to navigate around your file "
-"system and select :doc:`files to be added</project_and_asset_management/"
-"project_bin/clips>` to the project bin."
+"|kdenlive-add-clip|\\ :guilabel:`Add clip or folder` opens a window similar to the file manager of your OS allowing you to navigate around your file system and select :doc:`files to be "
+"added</project_and_asset_management/project_bin/clips>` to the project bin."
 msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use.rst:48
-msgid ""
-"|go-down| opens a pop-up window from where you can select what kind of clip "
-"you want to add"
+msgid "|go-down| opens a pop-up window from where you can select what kind of clip you want to add"
 msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use.rst:50
 msgid ""
-"|folder-new|\\ :guilabel:`Add folder` creates a :doc:`new folder </"
-"project_and_asset_management/project_bin/project_bin_use_folders>` in the "
-"current project bin. These are virtual folders that help you organize large "
-"bins. Folders can be turned into their own bins."
+"|folder-new|\\ :guilabel:`Add folder` creates a :doc:`new folder </project_and_asset_management/project_bin/project_bin_use_folders>` in the current project bin. These are virtual folders that help "
+"you organize large bins. Folders can be turned into their own bins."
 msgstr ""
 
 #. +> trunk5
@@ -185,9 +176,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use.rst:52
-msgid ""
-"|edit-delete|\\ :guilabel:`Delete clip or folder` deletes the currently "
-"selected clip or folder from the bin"
+msgid "|edit-delete|\\ :guilabel:`Delete clip or folder` deletes the currently selected clip or folder from the bin"
 msgstr ""
 
 #. +> trunk5
@@ -197,9 +186,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use.rst:54
-msgid ""
-"|tag|\\ :guilabel:`Tags Panel` toggles the :doc:`tags "
-"<project_bin_use_tags>` panel"
+msgid "|tag|\\ :guilabel:`Tags Panel` toggles the :doc:`tags <project_bin_use_tags>` panel"
 msgstr ""
 
 #. +> trunk5
@@ -209,9 +196,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use.rst:56
-msgid ""
-"|application-menu|\\ :guilabel:`Options` opens a pop-window with more "
-"`options` including the option to :ref:`scale <scaling_the_view>` the view"
+msgid "|application-menu|\\ :guilabel:`Options` opens a pop-window with more `options` including the option to :ref:`scale <scaling_the_view>` the view"
 msgstr ""
 
 #. +> trunk5
@@ -221,16 +206,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use.rst:58
-msgid ""
-"|view-filter|\\ :guilabel:`Filter` switches a :doc:`filter "
-"<project_bin_use_filters>` on or off"
+msgid "|view-filter|\\ :guilabel:`Filter` switches a :doc:`filter <project_bin_use_filters>` on or off"
 msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use.rst:60
-msgid ""
-"|go-down|\\ :guilabel:`Filter` opens a pop-up window to :doc:`set filter "
-"<project_bin_use_filters>` parameters"
+msgid "|go-down|\\ :guilabel:`Filter` opens a pop-up window to :doc:`set filter <project_bin_use_filters>` parameters"
 msgstr ""
 
 #. +> trunk5
@@ -240,9 +221,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use.rst:62
-msgid ""
-"Search field to :doc:`search for assets <project_bin_use_searching>` in the "
-"bin"
+msgid "Search field to :doc:`search for assets <project_bin_use_searching>` in the bin"
 msgstr ""
 
 #. +> trunk5
@@ -252,8 +231,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use.rst:64
-msgid ""
-"|go-up|\\ :guilabel:`Sort` Toggles between sorting ascending and descending"
+msgid "|go-up|\\ :guilabel:`Sort` Toggles between sorting ascending and descending"
 msgstr ""
 
 #. +> trunk5
@@ -263,10 +241,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use.rst:66
-msgid ""
-"The folder with all the sequences. It is there even if you did "
-"not :doc:`create a sequence </project_and_asset_management/project_bin/"
-"sequence>`."
+msgid "The folder with all the sequences. It is there even if you did not :doc:`create a sequence </project_and_asset_management/project_bin/sequence>`."
 msgstr ""
 
 #. +> trunk5
@@ -276,10 +251,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use.rst:68
-msgid ""
-"Folders created by the user (for illustration purposes only). You can turn "
-"folders into :doc:`individual bins <project_bin_use_multiple_bins>` that can "
-"be added to your workspace and docked."
+msgid "Folders created by the user (for illustration purposes only). You can turn folders into :doc:`individual bins <project_bin_use_multiple_bins>` that can be added to your workspace and docked."
 msgstr ""
 
 #. +> trunk5
@@ -304,10 +276,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use.rst:74
-msgid ""
-"Indicators for duration of the clip in the "
-"format :abbr:`hh:mm:ss:ff(hours:minutes:seconds:frames)`, and the number of "
-"instances in sequences (first number) and the timeline (second number)."
+msgid "Indicators for duration of the clip in the format :abbr:`hh:mm:ss:ff(hours:minutes:seconds:frames)`, and the number of instances in sequences (first number) and the timeline (second number)."
 msgstr ""
 
 #. +> trunk5
@@ -321,18 +290,14 @@ msgid "You can zoom the project bin view in and out."
 msgstr ""
 
 #. +> trunk5
-#: ../../project_and_asset_management/project_bin/project_bin_use.rst:91
-#: ../../project_and_asset_management/project_bin/project_bin_use.rst:110
+#: ../../project_and_asset_management/project_bin/project_bin_use.rst:91 ../../project_and_asset_management/project_bin/project_bin_use.rst:110
 #: ../../project_and_asset_management/project_bin/project_bin_use.rst:131
 msgid "Scaling the project bin view"
 msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use.rst:93
-msgid ""
-"Click on the |application-menu|\\ :guilabel:`Options` icon and use the "
-"slider or the buttons to the left or right of it to increase or decrease the "
-"zoom level."
+msgid "Click on the |application-menu|\\ :guilabel:`Options` icon and use the slider or the buttons to the left or right of it to increase or decrease the zoom level."
 msgstr ""
 
 #. +> trunk5
@@ -343,25 +308,20 @@ msgstr ""
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use.rst:101
 msgid ""
-"You can switch the project bin view from Tree View to Icon View, change the "
-"sort criterion, show additional columns for Date, Description, Rating, and "
-"have a preview in the thumbnails for video files."
+"You can switch the project bin view from Tree View to Icon View, change the sort criterion, show additional columns for Date, Description, Rating, and have a preview in the thumbnails for video "
+"files."
 msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use.rst:112
-msgid ""
-"Click on the |application-menu|\\ :guilabel:`Options` icon and select "
-"the :guilabel:`View Mode`, :guilabel:`Sort By` criteria, and tick the boxes "
-"for additional columns."
+msgid "Click on the |application-menu|\\ :guilabel:`Options` icon and select the :guilabel:`View Mode`, :guilabel:`Sort By` criteria, and tick the boxes for additional columns."
 msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use.rst:114
 msgid ""
-"Select |favorite|\\ :guilabel:`Disable Bin Effects` to (temporarily) disable "
-"any effect applied to a clip in the Project Bin. See also the chapter "
-"about :doc:`/effects_and_filters` and  :ref:`effects_everywhere-bin_clips`."
+"Select |favorite|\\ :guilabel:`Disable Bin Effects` to (temporarily) disable any effect applied to a clip in the Project Bin. See also the chapter about :doc:`/effects_and_filters` and  "
+":ref:`effects_everywhere-bin_clips`."
 msgstr ""
 
 #. +> trunk5
@@ -372,47 +332,37 @@ msgstr ""
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use.rst:122
 msgid ""
-"A neat feature is to have a preview in the thumbnails for video files. This "
-"allows scrubbing in the thumbnail to quickly check whether that particular "
-"clip has the scene or footage you are looking for."
+"A neat feature is to have a preview in the thumbnails for video files. This allows scrubbing in the thumbnail to quickly check whether that particular clip has the scene or footage you are looking "
+"for."
 msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use.rst:133
-msgid ""
-"Check the :guilabel:`Show Video Preview in Thumbnails` to enable the feature."
+msgid "Check the :guilabel:`Show Video Preview in Thumbnails` to enable the feature."
 msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use.rst:139
 msgid ""
-"This will trigger several clip jobs to generate the video previews. "
-"Depending on the size of your project bin and video assets this may take a "
-"while. You can continue working with Kdenlive but expect some performance "
-"degradation."
+"This will trigger several clip jobs to generate the video previews. Depending on the size of your project bin and video assets this may take a while. You can continue working with Kdenlive but "
+"expect some performance degradation."
 msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use.rst:160
-msgid ""
-"In earlier versions of Kdenlive this view was known as the Project Tree."
+msgid "In earlier versions of Kdenlive this view was known as the Project Tree."
 msgstr ""
 
 #. +> trunk5
-#: ../../project_and_asset_management/project_bin/project_bin_use.rst:-1
+#: ../../project_and_asset_management/project_bin/project_bin_use.rst:-1:
 msgid "Kdenlive Documentation - Using the Project Bin"
 msgstr ""
 
 #. +> trunk5
-#: ../../project_and_asset_management/project_bin/project_bin_use.rst:-1
-#: ../../project_and_asset_management/project_bin/project_bin_use_context_menu.rst:-1
-#: ../../project_and_asset_management/project_bin/project_bin_use_multiple_bins.rst:-1
-#: ../../project_and_asset_management/project_bin/project_bin_use_searching.rst:-1
-#: ../../project_and_asset_management/project_bin/project_bin_use_sorting.rst:-1
-#: ../../project_and_asset_management/project_bin/project_bin_use_tags.rst:-1
-msgid ""
-"KDE, Kdenlive, project bin, working, using, documentation, user manual, "
-"video editor, open source, free, learn, easy"
+#: ../../project_and_asset_management/project_bin/project_bin_use.rst:-1: ../../project_and_asset_management/project_bin/project_bin_use_context_menu.rst:-1:
+#: ../../project_and_asset_management/project_bin/project_bin_use_multiple_bins.rst:-1: ../../project_and_asset_management/project_bin/project_bin_use_searching.rst:-1:
+#: ../../project_and_asset_management/project_bin/project_bin_use_sorting.rst:-1: ../../project_and_asset_management/project_bin/project_bin_use_tags.rst:-1:
+msgid "KDE, Kdenlive, project bin, working, using, documentation, user manual, video editor, open source, free, learn, easy"
 msgstr ""
 
 #. +> trunk5
@@ -423,9 +373,8 @@ msgstr ""
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_context_menu.rst:74
 msgid ""
-"Right-click on any asset or item in the Project Bin to get a context menu "
-"with several and different options depending on the asset or item you used "
-"it on. The menu is also available via :menuselection:`Menu --> Clip`."
+"Right-click on any asset or item in the Project Bin to get a context menu with several and different options depending on the asset or item you used it on. The menu is also available via "
+":menuselection:`Menu --> Clip`."
 msgstr ""
 
 #. +> trunk5
@@ -441,10 +390,8 @@ msgstr ""
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_context_menu.rst:85
 msgid ""
-"Extracts the audio stream of the clip and adds a :file:`.wav` file with a "
-"sample rate of 48kHz to the project bin. Is only available if the clip is of "
-"type :file:`audio` or a video file with an audio stream. For further details "
-"see the chapter :ref:`extract_audio`."
+"Extracts the audio stream of the clip and adds a :file:`.wav` file with a sample rate of 48kHz to the project bin. Is only available if the clip is of type :file:`audio` or a video file with an "
+"audio stream. For further details see the chapter :ref:`extract_audio`."
 msgstr ""
 
 #. +> trunk5
@@ -459,10 +406,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_context_menu.rst:92
-msgid ""
-"|scene_split| runs a clip job that detects scene changes and creates "
-"individual clips for each detected scene. For further details see the "
-"chapter :ref:`automatic_scene_split`."
+msgid "|scene_split| runs a clip job that detects scene changes and creates individual clips for each detected scene. For further details see the chapter :ref:`automatic_scene_split`."
 msgstr ""
 
 #. +> trunk5
@@ -473,9 +417,8 @@ msgstr ""
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_context_menu.rst:96
 msgid ""
-"|duplicate_clip_speed| creates a copy of the selected clip and applies a "
-"speed change you can specify in a dialog window. For further details see the "
-"chapter  :ref:`duplicate_clip_with_speed_change`."
+"|duplicate_clip_speed| creates a copy of the selected clip and applies a speed change you can specify in a dialog window. For further details see the chapter  "
+":ref:`duplicate_clip_with_speed_change`."
 msgstr ""
 
 #. +> trunk5
@@ -485,9 +428,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_context_menu.rst:98
-msgid ""
-"|configure_clip_jobs| opens a window to manage clip jobs. See also the "
-"chapter :ref:`configure_clip_jobs`"
+msgid "|configure_clip_jobs| opens a window to manage clip jobs. See also the chapter :ref:`configure_clip_jobs`"
 msgstr ""
 
 #. +> trunk5
@@ -498,10 +439,8 @@ msgstr ""
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_context_menu.rst:101
 msgid ""
-"Opens a flyout with a list of all the instances of the selected clip in the "
-"timeline. For example |track_timecode| indicates that this clip is in video "
-"track `V2` at position (timecode) `00:00:22:15` (format "
-"is :abbr:`hh:mm:ss:ff(hours:minutes:seconds:frames)`)"
+"Opens a flyout with a list of all the instances of the selected clip in the timeline. For example |track_timecode| indicates that this clip is in video track `V2` at position (timecode) "
+"`00:00:22:15` (format is :abbr:`hh:mm:ss:ff(hours:minutes:seconds:frames)`)"
 msgstr ""
 
 #. +> trunk5
@@ -511,9 +450,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_context_menu.rst:104
-msgid ""
-"Opens the folder in your file system where the selected clip is located in "
-"your OS default file manager. See also the chapter :ref:`locate_clip`."
+msgid "Opens the folder in your file system where the selected clip is located in your OS default file manager. See also the chapter :ref:`locate_clip`."
 msgstr ""
 
 #. +> trunk5
@@ -523,9 +460,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_context_menu.rst:107
-msgid ""
-"Reloads the selected clip from the file system. See also the "
-"chapter :ref:`reload_clip`."
+msgid "Reloads the selected clip from the file system. See also the chapter :ref:`reload_clip`."
 msgstr ""
 
 #. +> trunk5
@@ -535,9 +470,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_context_menu.rst:110
-msgid ""
-"Opens your OS file manager. Select the file you want to replace the selected "
-"clip with. See also the chapter :ref:`replace_clip`."
+msgid "Opens your OS file manager. Select the file you want to replace the selected clip with. See also the chapter :ref:`replace_clip`."
 msgstr ""
 
 #. +> trunk5
@@ -547,10 +480,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_context_menu.rst:113
-msgid ""
-"You need to select two clips in the bin for this action. The clip you right-"
-"clicked on will be replace by the other. See also the "
-"chapter :ref:`replace_clip`."
+msgid "You need to select two clips in the bin for this action. The clip you right-clicked on will be replace by the other. See also the chapter :ref:`replace_clip`."
 msgstr ""
 
 #. +> trunk5
@@ -560,9 +490,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_context_menu.rst:116
-msgid ""
-"Creates a copy of the selected clip. See also the "
-"chapter :ref:`duplicate_clip`."
+msgid "Creates a copy of the selected clip. See also the chapter :ref:`duplicate_clip`."
 msgstr ""
 
 #. +> trunk5
@@ -572,10 +500,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_context_menu.rst:119
-msgid ""
-"Opens a window with the selected clips where you can select the format to "
-"transcode the clips to. See also the "
-"chapter :ref:`transcode_to_edit_friendly_format`."
+msgid "Opens a window with the selected clips where you can select the format to transcode the clips to. See also the chapter :ref:`transcode_to_edit_friendly_format`."
 msgstr ""
 
 #. +> trunk5
@@ -586,11 +511,8 @@ msgstr ""
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_context_menu.rst:122
 msgid ""
-"If checked indicates that the selected clip is a proxy "
-"clip* :ref:`make_proxy_clip`. If the option is greyed out, proxy clips are "
-"not enabled for the project. Go to the :doc:`/project_and_asset_management/"
-"project_settings/proxy_settings` tab in the Project Settings "
-"(:menuselection:`Menu --> File --> Project Settings`) and enable proxy clips."
+"If checked indicates that the selected clip is a proxy clip* :ref:`make_proxy_clip`. If the option is greyed out, proxy clips are not enabled for the project. Go to the "
+":doc:`/project_and_asset_management/project_settings/proxy_settings` tab in the Project Settings (:menuselection:`Menu --> File --> Project Settings`) and enable proxy clips."
 msgstr ""
 
 #. +> trunk5
@@ -600,9 +522,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_context_menu.rst:125
-msgid ""
-"Opens the widget for the Clip Properties. For more details refer to the "
-"chapter :ref:`media_menu-clip_properties`."
+msgid "Opens the widget for the Clip Properties. For more details refer to the chapter :ref:`media_menu-clip_properties`."
 msgstr ""
 
 #. +> trunk5
@@ -612,9 +532,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_context_menu.rst:128
-msgid ""
-"Opens the application associated with the type of the selected clip. See "
-"also the chapter :ref:`edit_clip`."
+msgid "Opens the application associated with the type of the selected clip. See also the chapter :ref:`edit_clip`."
 msgstr ""
 
 #. +> trunk5
@@ -624,9 +542,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_context_menu.rst:131
-msgid ""
-"Opens the clip name field in the bin for editing. This does not change the "
-"filename in the file system."
+msgid "Opens the clip name field in the bin for editing. This does not change the filename in the file system."
 msgstr ""
 
 #. +> trunk5
@@ -637,14 +553,12 @@ msgstr ""
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_context_menu.rst:134
 msgid ""
-"Deletes the selected clips. If the clips are being used in the timeline or "
-"in sequences, a warning windows is opened where you need to confirm that the "
-"clips' instances in the timeline will also be deleted. See also the "
-"chapter :ref:`delete_clip`."
+"Deletes the selected clips. If the clips are being used in the timeline or in sequences, a warning windows is opened where you need to confirm that the clips' instances in the timeline will also be "
+"deleted. See also the chapter :ref:`delete_clip`."
 msgstr ""
 
 #. +> trunk5
-#: ../../project_and_asset_management/project_bin/project_bin_use_context_menu.rst:-1
+#: ../../project_and_asset_management/project_bin/project_bin_use_context_menu.rst:-1:
 msgid "Kdenlive Documentation - Using the Project Bin - Clip Context Menu"
 msgstr ""
 
@@ -665,14 +579,11 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_filters.rst:36
-msgid ""
-"Filters are an easy way to quickly narrow down assets by tag, rating, type, "
-"or whether or not they are being used in the timeline."
+msgid "Filters are an easy way to quickly narrow down assets by tag, rating, type, or whether or not they are being used in the timeline."
 msgstr ""
 
 #. +> trunk5
-#: ../../project_and_asset_management/project_bin/project_bin_use_filters.rst:47
-#: ../../project_and_asset_management/project_bin/project_bin_use_filters.rst:71
+#: ../../project_and_asset_management/project_bin/project_bin_use_filters.rst:47 ../../project_and_asset_management/project_bin/project_bin_use_filters.rst:71
 msgid "Filtering options"
 msgstr ""
 
@@ -698,9 +609,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_filters.rst:60
-msgid ""
-"Filters are applied in an OR way between objects of the same category, and "
-"in an AND way between different categories."
+msgid "Filters are applied in an OR way between objects of the same category, and in an AND way between different categories."
 msgstr ""
 
 #. +> trunk5
@@ -711,30 +620,23 @@ msgstr ""
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_filters.rst:73
 msgid ""
-"This filter setting shows all assets that have a *red* OR *blue* tag, AND "
-"have a rating of *4 stars*, AND are *unused*, AND are an *AV Clip* (file "
-"with video and audio streams) OR a *Mute Video* (file with only a video "
-"stream)."
+"This filter setting shows all assets that have a *red* OR *blue* tag, AND have a rating of *4 stars*, AND are *unused*, AND are an *AV Clip* (file with video and audio streams) OR a *Mute Video* "
+"(file with only a video stream)."
 msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_filters.rst:77
-msgid ""
-"If filter criteria have been set, the filter icon in the project bin toolbar "
-"changes background color. Filter **on**: |filter-on| - filter **off**: |"
-"filter-off|"
+msgid "If filter criteria have been set, the filter icon in the project bin toolbar changes background color. Filter **on**: |filter-on| - filter **off**: |filter-off|"
 msgstr ""
 
 #. +> trunk5
-#: ../../project_and_asset_management/project_bin/project_bin_use_filters.rst:-1
+#: ../../project_and_asset_management/project_bin/project_bin_use_filters.rst:-1:
 msgid "Kdenlive Documentation - Using the Project Bin - Filters"
 msgstr ""
 
 #. +> trunk5
-#: ../../project_and_asset_management/project_bin/project_bin_use_filters.rst:-1
-msgid ""
-"KDE, Kdenlive, project bin, filter, using, documentation, user manual, video "
-"editor, open source, free, learn, easy"
+#: ../../project_and_asset_management/project_bin/project_bin_use_filters.rst:-1:
+msgid "KDE, Kdenlive, project bin, filter, using, documentation, user manual, video editor, open source, free, learn, easy"
 msgstr ""
 
 #. +> trunk5
@@ -764,10 +666,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_folders.rst:44
-msgid ""
-"Folders help keeping the Project Bin organized, structured, and easy to "
-"navigate. Folders can be nested and turned into :doc:`individual bins "
-"<project_bin_use_multiple_bins>`."
+msgid "Folders help keeping the Project Bin organized, structured, and easy to navigate. Folders can be nested and turned into :doc:`individual bins <project_bin_use_multiple_bins>`."
 msgstr ""
 
 #. +> trunk5
@@ -777,31 +676,24 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_folders.rst:55
-msgid ""
-"You create a folder by clicking the |folder-new|\\ :guilabel:`Create Folder` "
-"icon in the project bin toolbar."
+msgid "You create a folder by clicking the |folder-new|\\ :guilabel:`Create Folder` icon in the project bin toolbar."
 msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_folders.rst:57
-msgid ""
-"Alternatively, right-click on empty space in the project bin and select |"
-"folder-new|\\ :guilabel:`Create Folder`."
+msgid "Alternatively, right-click on empty space in the project bin and select |folder-new|\\ :guilabel:`Create Folder`."
 msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_folders.rst:59
-msgid ""
-"If you want to create a folder below an existing one, select that folder "
-"first."
+msgid "If you want to create a folder below an existing one, select that folder first."
 msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_folders.rst:61
 msgid ""
-"You can delete a folder by selecting the folder and clicking on the |edit-"
-"delete|\\ :guilabel:`Delete Folder` icon, or by right-click on the folder "
-"and selecting |edit-delete|\\ :guilabel:`Delete Folder`."
+"You can delete a folder by selecting the folder and clicking on the |edit-delete|\\ :guilabel:`Delete Folder` icon, or by right-click on the folder and selecting |edit-delete|\\ :guilabel:`Delete "
+"Folder`."
 msgstr ""
 
 #. +> trunk5
@@ -821,9 +713,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_folders.rst:73
-msgid ""
-"Renames the folder. Keyboard shortcut is :kbd:`F2`. You can also just double-"
-"click the folder name in the bin"
+msgid "Renames the folder. Keyboard shortcut is :kbd:`F2`. You can also just double-click the folder name in the bin"
 msgstr ""
 
 #. +> trunk5
@@ -863,10 +753,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_folders.rst:85
-msgid ""
-"Creates a new folder. If nothing has been selected in the bin, a new folder "
-"is created at the bin level. If a folder has been selected, a new folder "
-"underneath the selected one is created."
+msgid "Creates a new folder. If nothing has been selected in the bin, a new folder is created at the bin level. If a folder has been selected, a new folder underneath the selected one is created."
 msgstr ""
 
 #. +> trunk5
@@ -881,22 +768,17 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_folders.rst:91
-msgid ""
-"Deleting an empty folder happens immediately without any are-you-sure? "
-"dialog. Only if there is content will there be a warning dialog window that "
-"you need to confirm or cancel."
+msgid "Deleting an empty folder happens immediately without any are-you-sure? dialog. Only if there is content will there be a warning dialog window that you need to confirm or cancel."
 msgstr ""
 
 #. +> trunk5
-#: ../../project_and_asset_management/project_bin/project_bin_use_folders.rst:-1
+#: ../../project_and_asset_management/project_bin/project_bin_use_folders.rst:-1:
 msgid "Kdenlive Documentation - Using the Project Bin - Folders"
 msgstr ""
 
 #. +> trunk5
-#: ../../project_and_asset_management/project_bin/project_bin_use_folders.rst:-1
-msgid ""
-"KDE, Kdenlive, project bin, folder, using, documentation, user manual, video "
-"editor, open source, free, learn, easy"
+#: ../../project_and_asset_management/project_bin/project_bin_use_folders.rst:-1:
+msgid "KDE, Kdenlive, project bin, folder, using, documentation, user manual, video editor, open source, free, learn, easy"
 msgstr ""
 
 #. +> trunk5
@@ -907,12 +789,8 @@ msgstr ""
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_multiple_bins.rst:34
 msgid ""
-"Folders are a good way to stay organized but they are tied to the Project "
-"Bin. If you need more flexibility you can create various bins "
-"from :ref:`folders <create_folder>` you have created. The advantage of "
-"multiple bins is that you can un-dock them, move them around your workspace, "
-"change the sequence in the dock area, and even move them to a second (or "
-"third) monitor."
+"Folders are a good way to stay organized but they are tied to the Project Bin. If you need more flexibility you can create various bins from :ref:`folders <create_folder>` you have created. The "
+"advantage of multiple bins is that you can un-dock them, move them around your workspace, change the sequence in the dock area, and even move them to a second (or third) monitor."
 msgstr ""
 
 #. +> trunk5
@@ -922,19 +800,14 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_multiple_bins.rst:45
-msgid ""
-"Right-click the folder name and choose :guilabel:`Open Current Folder In New "
-"Bin`."
+msgid "Right-click the folder name and choose :guilabel:`Open Current Folder In New Bin`."
 msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_multiple_bins.rst:47
 msgid ""
-"A bin can be closed either by clicking the |window-close|\\ :guilabel:`Close "
-"Current Bin` icon on the bin toolbar, opening the |application-menu|"
-"\\ :guilabel:`Options` menu and selecting :guilabel:`Close Current Bin` (you "
-"must be in the bin), or by selecting the :menuselection:`Menu --> View --> "
-"Project Bins` and un-ticking the respective bin in the list."
+"A bin can be closed either by clicking the |window-close|\\ :guilabel:`Close Current Bin` icon on the bin toolbar, opening the |application-menu|\\ :guilabel:`Options` menu and selecting "
+":guilabel:`Close Current Bin` (you must be in the bin), or by selecting the :menuselection:`Menu --> View --> Project Bins` and un-ticking the respective bin in the list."
 msgstr ""
 
 #. +> trunk5
@@ -949,9 +822,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_multiple_bins.rst:62
-msgid ""
-"|go-up|\\ :guilabel:`Go up` (keyboard shortcut :kbd:`Alt+UP`) goes up one "
-"level in the current bin."
+msgid "|go-up|\\ :guilabel:`Go up` (keyboard shortcut :kbd:`Alt+UP`) goes up one level in the current bin."
 msgstr ""
 
 #. +> trunk5
@@ -960,13 +831,12 @@ msgid "|window-close|\\ :guilabel:`Close Current Bin` closes the current bin."
 msgstr ""
 
 #. +> trunk5
-#: ../../project_and_asset_management/project_bin/project_bin_use_multiple_bins.rst:-1
+#: ../../project_and_asset_management/project_bin/project_bin_use_multiple_bins.rst:-1:
 msgid "Kdenlive Documentation - Using the Project Bin - Multiple Bins"
 msgstr ""
 
 #. +> trunk5
-#: ../../project_and_asset_management/project_bin/project_bin_use_searching.rst:29
-#: ../../project_and_asset_management/project_bin/project_bin_use_searching.rst:40
+#: ../../project_and_asset_management/project_bin/project_bin_use_searching.rst:29 ../../project_and_asset_management/project_bin/project_bin_use_searching.rst:40
 msgid "Searching the Project Bin"
 msgstr ""
 
@@ -977,28 +847,21 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_searching.rst:42
-msgid ""
-"Enter the search term into the :guilabel:`Search` field. Kdenlive will start "
-"filtering the asset list immediately and continue adjusting the search "
-"results as you type."
+msgid "Enter the search term into the :guilabel:`Search` field. Kdenlive will start filtering the asset list immediately and continue adjusting the search results as you type."
 msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_searching.rst:44
-msgid ""
-"Searching takes the entire filename including any suffixes "
-"(e.g. :file:`.ac3`) into account."
+msgid "Searching takes the entire filename including any suffixes (e.g. :file:`.ac3`) into account."
 msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_searching.rst:49
-msgid ""
-"Searching takes place only in the current view. If you want to search in "
-"folders you must open the folder first."
+msgid "Searching takes place only in the current view. If you want to search in folders you must open the folder first."
 msgstr ""
 
 #. +> trunk5
-#: ../../project_and_asset_management/project_bin/project_bin_use_searching.rst:-1
+#: ../../project_and_asset_management/project_bin/project_bin_use_searching.rst:-1:
 msgid "Kdenlive Documentation - Using the Project Bin - Searching"
 msgstr ""
 
@@ -1058,7 +921,7 @@ msgid "Sort in descending order (default is *off* which sorts ascending)"
 msgstr ""
 
 #. +> trunk5
-#: ../../project_and_asset_management/project_bin/project_bin_use_sorting.rst:-1
+#: ../../project_and_asset_management/project_bin/project_bin_use_sorting.rst:-1:
 msgid "Kdenlive Documentation - Using the Project Bin - Sorting"
 msgstr ""
 
@@ -1110,22 +973,16 @@ msgstr ""
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_tags.rst:31
 msgid ""
-"Tags are a good way to stay organized as they give you a quick overview of "
-"the nature of your assets. You can create as many tags as you need, assign "
-"different colors, and change the default tags. After you assigned tags to "
-"your assets you can then quickly filter by tags making it much easier to "
-"assemble the clips in the timeline and building your story."
+"Tags are a good way to stay organized as they give you a quick overview of the nature of your assets. You can create as many tags as you need, assign different colors, and change the default tags. "
+"After you assigned tags to your assets you can then quickly filter by tags making it much easier to assemble the clips in the timeline and building your story."
 msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_tags.rst:34
 msgid ""
-"Kdenlive adjusts the width of the project bin widget to accommodate all tags "
-"and their description. It is recommended to keep the number of tags and the "
-"length of the description as small as possible to conserve valuable screen "
-"real estate for other widgets (in particular the timeline and monitors). If "
-"you have multiple monitors at your disposal consider undocking some of the "
-"widgets and moving them off the main screen used for editing."
+"Kdenlive adjusts the width of the project bin widget to accommodate all tags and their description. It is recommended to keep the number of tags and the length of the description as small as "
+"possible to conserve valuable screen real estate for other widgets (in particular the timeline and monitors). If you have multiple monitors at your disposal consider undocking some of the widgets "
+"and moving them off the main screen used for editing."
 msgstr ""
 
 #. +> trunk5
@@ -1135,9 +992,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_tags.rst:45
-msgid ""
-"Click on the |tag|\\ :guilabel:`Tags Panel` icon in the project bin toolbar "
-"to enable the panel."
+msgid "Click on the |tag|\\ :guilabel:`Tags Panel` icon in the project bin toolbar to enable the panel."
 msgstr ""
 
 #. +> trunk5
@@ -1147,9 +1002,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_tags.rst:55
-msgid ""
-"Assigning tags is as simple as selecting a clip and then clicking the "
-"appropriate tag in the panel."
+msgid "Assigning tags is as simple as selecting a clip and then clicking the appropriate tag in the panel."
 msgstr ""
 
 #. +> trunk5
@@ -1194,15 +1047,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_tags.rst:93
-msgid ""
-"Make sure to click |document-save|\\ :guilabel:`Save` to save the changes."
+msgid "Make sure to click |document-save|\\ :guilabel:`Save` to save the changes."
 msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_tags.rst:98
-msgid ""
-"You can change the order of the tags in the panel by simply grabbing a tag "
-"and dragging it to the desired place in the panel."
+msgid "You can change the order of the tags in the panel by simply grabbing a tag and dragging it to the desired place in the panel."
 msgstr ""
 
 #. +> trunk5
@@ -1222,35 +1072,26 @@ msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_tags.rst:114
-msgid ""
-"Note how the background of the |view-filter|\\ icon changes as soon as "
-"filter criteria have been selected."
+msgid "Note how the background of the |view-filter|\\ icon changes as soon as filter criteria have been selected."
 msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_tags.rst:116
-msgid ""
-"Filter criteria within the same category (like *tag* or *rating*) are "
-"applied in an OR fashion, meaning that all clips with any of the selected "
-"criteria will be listed (red OR green *tag*)."
+msgid "Filter criteria within the same category (like *tag* or *rating*) are applied in an OR fashion, meaning that all clips with any of the selected criteria will be listed (red OR green *tag*)."
 msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_tags.rst:118
 msgid ""
-"Filter criteria across different categories are applied in an AND fashion, "
-"meaning that clips with criteria from both categories will be listed (red OR "
-"green *tag* AND with four OR five *stars*)"
+"Filter criteria across different categories are applied in an AND fashion, meaning that clips with criteria from both categories will be listed (red OR green *tag* AND with four OR five *stars*)"
 msgstr ""
 
 #. +> trunk5
 #: ../../project_and_asset_management/project_bin/project_bin_use_tags.rst:120
-msgid ""
-"For more details refer to the chapter about :doc:`using filters</"
-"project_and_asset_management/project_bin/project_bin_use_filters>`."
+msgid "For more details refer to the chapter about :doc:`using filters</project_and_asset_management/project_bin/project_bin_use_filters>`."
 msgstr ""
 
 #. +> trunk5
-#: ../../project_and_asset_management/project_bin/project_bin_use_tags.rst:-1
+#: ../../project_and_asset_management/project_bin/project_bin_use_tags.rst:-1:
 msgid "Kdenlive Documentation - Using the Project Bin - Tags"
 msgstr ""

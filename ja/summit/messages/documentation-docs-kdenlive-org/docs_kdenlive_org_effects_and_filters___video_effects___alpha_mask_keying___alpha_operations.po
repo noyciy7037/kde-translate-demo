@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the  <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License SA 4.0</a> unless stated otherwise
+# This file is distributed under the same license as the Kdenlive Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Kdenlive Manual \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-13 09:58+0100\n"
-"PO-Revision-Date: 2021-11-20 18:29-0800\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Kdenlive Manual 25.12\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../<rst_epilog>:310
@@ -70,25 +69,20 @@ msgid "|linux| |appimage| |windows| |apple|"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:44
-#: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:46
+#: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:44 ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:46
 msgid "No"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:52
-#: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:65
+#: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:52 ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:65
 msgid "Description"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:53
 msgid ""
-"This effect can shrink, grow, threshold and invert the alpha channel. It is "
-"mainly intended to improve keying edges. It can also display the alpha "
-"channel in various ways to enable quick assessment of the effect. It is "
-"cascadable and thus allows a soft shrink first followed by threshold which "
-"gives a slightly different result than a hard shrink\\ [1]_\\ ."
+"This effect can shrink, grow, threshold and invert the alpha channel. It is mainly intended to improve keying edges. It can also display the alpha channel in various ways to enable quick assessment "
+"of the effect. It is cascadable and thus allows a soft shrink first followed by threshold which gives a slightly different result than a hard shrink\\ [1]_\\ ."
 msgstr ""
 
 #. +> trunk5
@@ -112,8 +106,7 @@ msgid "Display"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:67
-#: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:73
+#: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:67 ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:73
 msgid "Selection"
 msgstr ""
 
@@ -128,16 +121,13 @@ msgid "Display input alpha"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:70
-#: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:76
+#: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:70 ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:76
 msgid "Switch"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:71
-msgid ""
-"Use input alpha for the display function above (check what alpha we are "
-"getting on the input)"
+msgid "Use input alpha for the display function above (check what alpha we are getting on the input)"
 msgstr ""
 
 #. +> trunk5
@@ -157,20 +147,16 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:77
-msgid ""
-"Inverts the input alpha channel, transparent will become opaque and vice "
-"versa."
+msgid "Inverts the input alpha channel, transparent will become opaque and vice versa."
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:78
-#: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:130
+#: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:78 ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:130
 msgid "Threshold"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:79
-#: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:82
+#: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:79 ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:82
 msgid "Integer"
 msgstr ""
 
@@ -186,9 +172,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:83
-msgid ""
-"Depending on the chosen operation: How far the shrinking/growing will "
-"extend, or the amount of blur"
+msgid "Depending on the chosen operation: How far the shrinking/growing will extend, or the amount of blur"
 msgstr ""
 
 #. +> trunk5
@@ -204,10 +188,8 @@ msgstr ""
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:89
 msgid ""
-"This is intended for monitoring during adjustment mostly. After adjusting "
-"the parameters, it should be left on **Image**, which lets the unchanged "
-"input image through - this effect is intended to change only the alpha "
-"channel."
+"This is intended for monitoring during adjustment mostly. After adjusting the parameters, it should be left on **Image**, which lets the unchanged input image through - this effect is intended to "
+"change only the alpha channel."
 msgstr ""
 
 #. +> trunk5
@@ -302,8 +284,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:121
-msgid ""
-"Tries to remove the \"hairy\" stuff, and also shrinks the selection a bit"
+msgid "Tries to remove the \"hairy\" stuff, and also shrinks the selection a bit"
 msgstr ""
 
 #. +> trunk5
@@ -312,8 +293,7 @@ msgid "Shrink hard"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:123
-#: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:125
+#: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:123 ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:125
 msgid "Shrinks the area of the alpha channel"
 msgstr ""
 
@@ -328,8 +308,7 @@ msgid "Grow hard"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:127
-#: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:129
+#: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:127 ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:129
 msgid "Grows the area of the alpha channel"
 msgstr ""
 
@@ -355,23 +334,17 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:135
-msgid ""
-"The **... hard** operations introduce no new values to the alpha channel, so "
-"if you have a **hard** key (only 0 and 255) it will stay that way."
+msgid "The **... hard** operations introduce no new values to the alpha channel, so if you have a **hard** key (only 0 and 255) it will stay that way."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:137
-msgid ""
-"The **... soft** operations will introduce interpolated values, making the "
-"edge softer."
+msgid "The **... soft** operations will introduce interpolated values, making the edge softer."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:139
-msgid ""
-"The shave, shrink and grow operations are quite slow, because they do many "
-"conditional operations on each pixel."
+msgid "The shave, shrink and grow operations are quite slow, because they do many conditional operations on each pixel."
 msgstr ""
 
 #. +> trunk5
@@ -382,41 +355,30 @@ msgstr ""
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:150
 msgid ""
-"This |tutorial_1| shows usage of Alpha Operations with Shrink Hard as well "
-"as the following effects: :doc:`/effects_and_filters/video_effects/"
-"alpha_mask_keying/chroma_key`, :doc:`/effects_and_filters/video_effects/"
-"grain_and_noise/denoise_hqdn3d`, and :doc:`/effects_and_filters/"
-"video_effects/alpha_mask_keying/key_spill_mop_up`."
+"This |tutorial_1| shows usage of Alpha Operations with Shrink Hard as well as the following effects: :doc:`/effects_and_filters/video_effects/alpha_mask_keying/chroma_key`, "
+":doc:`/effects_and_filters/video_effects/grain_and_noise/denoise_hqdn3d`, and :doc:`/effects_and_filters/video_effects/alpha_mask_keying/key_spill_mop_up`."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:152
 msgid ""
-"**This video is somewhat outdated.** In newer versions of Kdenlive "
-"the :doc:`/effects_and_filters/video_effects/alpha_mask_keying/"
-"key_spill_mop_up` effect is installed by default, and it is no longer "
-"required to use a composite transition. Nevertheless, the basic steps of "
-"chroma keying and key spill mop up are explained and are still valid."
+"**This video is somewhat outdated.** In newer versions of Kdenlive the :doc:`/effects_and_filters/video_effects/alpha_mask_keying/key_spill_mop_up` effect is installed by default, and it is no "
+"longer required to use a composite transition. Nevertheless, the basic steps of chroma keying and key spill mop up are explained and are still valid."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:157
-msgid ""
-"The description of this effect has been taken in parts from the readme file "
-"for the frei0r |alphaops| plugin. You find much more detailed information "
-"there."
+msgid "The description of this effect has been taken in parts from the readme file for the frei0r |alphaops| plugin. You find much more detailed information there."
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:-1
+#: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:-1:
 msgid "Kdenlive Video Effects - Alpha Operations"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:-1
-msgid ""
-"KDE, Kdenlive, video editor, help, learn, easy, effects, filter, video "
-"effects, alpha operations"
+#: ../../effects_and_filters/video_effects/alpha_mask_keying/alpha_operations.rst:-1:
+msgid "KDE, Kdenlive, video editor, help, learn, easy, effects, filter, video effects, alpha operations"
 msgstr ""
 
 #. +> trunk5

@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the  <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License SA 4.0</a> unless stated otherwise
+# This file is distributed under the same license as the Kdenlive Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Kdenlive Manual \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-13 09:59+0100\n"
-"PO-Revision-Date: 2021-11-20 18:29-0800\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Kdenlive Manual 25.12\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../<rst_epilog>:310
@@ -50,8 +49,7 @@ msgid "Maintained"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/on_master/audio_wave.rst:31
-#: ../../effects_and_filters/video_effects/on_master/audio_wave.rst:41
+#: ../../effects_and_filters/video_effects/on_master/audio_wave.rst:31 ../../effects_and_filters/video_effects/on_master/audio_wave.rst:41
 msgid "No"
 msgstr ""
 
@@ -82,9 +80,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/on_master/audio_wave.rst:48
-msgid ""
-"This effect/filter is an audio visualization effect that displays the audio "
-"waveform instead of the video."
+msgid "This effect/filter is an audio visualization effect that displays the audio waveform instead of the video."
 msgstr ""
 
 #. +> trunk5
@@ -103,15 +99,13 @@ msgid "Example of the Audio Wave effect"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/on_master/audio_wave.rst:-1
+#: ../../effects_and_filters/video_effects/on_master/audio_wave.rst:-1:
 msgid "Kdenlive Video Effects - Audio Wave"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/on_master/audio_wave.rst:-1
-msgid ""
-"KDE, Kdenlive, video editor, help, learn, easy, effects, filter, video "
-"effects, on master, audio wave"
+#: ../../effects_and_filters/video_effects/on_master/audio_wave.rst:-1:
+msgid "KDE, Kdenlive, video editor, help, learn, easy, effects, filter, video effects, on master, audio wave"
 msgstr ""
 
 #. +> trunk5

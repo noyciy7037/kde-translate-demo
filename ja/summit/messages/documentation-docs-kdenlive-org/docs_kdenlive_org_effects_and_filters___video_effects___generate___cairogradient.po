@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the  <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License SA 4.0</a> unless stated otherwise
+# This file is distributed under the same license as the Kdenlive Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Kdenlive Manual \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-13 09:59+0100\n"
-"PO-Revision-Date: 2023-04-28 09:19-0700\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Kdenlive Manual 25.12\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../<rst_epilog>:310
@@ -70,14 +69,12 @@ msgid "|linux| |appimage| |windows| |apple|"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/generate/cairogradient.rst:34
-#: ../../effects_and_filters/video_effects/generate/cairogradient.rst:36
+#: ../../effects_and_filters/video_effects/generate/cairogradient.rst:34 ../../effects_and_filters/video_effects/generate/cairogradient.rst:36
 msgid "No"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/generate/cairogradient.rst:42
-#: ../../effects_and_filters/video_effects/generate/cairogradient.rst:56
+#: ../../effects_and_filters/video_effects/generate/cairogradient.rst:42 ../../effects_and_filters/video_effects/generate/cairogradient.rst:56
 msgid "Description"
 msgstr ""
 
@@ -107,8 +104,7 @@ msgid "Pattern"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/generate/cairogradient.rst:58
-#: ../../effects_and_filters/video_effects/generate/cairogradient.rst:61
+#: ../../effects_and_filters/video_effects/generate/cairogradient.rst:58 ../../effects_and_filters/video_effects/generate/cairogradient.rst:61
 msgid "Selection"
 msgstr ""
 
@@ -133,8 +129,7 @@ msgid "Start Color"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/generate/cairogradient.rst:64
-#: ../../effects_and_filters/video_effects/generate/cairogradient.rst:70
+#: ../../effects_and_filters/video_effects/generate/cairogradient.rst:64 ../../effects_and_filters/video_effects/generate/cairogradient.rst:70
 msgid "Picker"
 msgstr ""
 
@@ -149,10 +144,8 @@ msgid "Start Opacity"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/generate/cairogradient.rst:67
-#: ../../effects_and_filters/video_effects/generate/cairogradient.rst:73
-#: ../../effects_and_filters/video_effects/generate/cairogradient.rst:76
-#: ../../effects_and_filters/video_effects/generate/cairogradient.rst:79
+#: ../../effects_and_filters/video_effects/generate/cairogradient.rst:67 ../../effects_and_filters/video_effects/generate/cairogradient.rst:73
+#: ../../effects_and_filters/video_effects/generate/cairogradient.rst:76 ../../effects_and_filters/video_effects/generate/cairogradient.rst:79
 #: ../../effects_and_filters/video_effects/generate/cairogradient.rst:82
 msgid "Float"
 msgstr ""
@@ -209,9 +202,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/generate/cairogradient.rst:83
-msgid ""
-"Position of the first color in the line connecting gradient ends. Really "
-"useful only for **radial** :guilabel:`Pattern`."
+msgid "Position of the first color in the line connecting gradient ends. Really useful only for **radial** :guilabel:`Pattern`."
 msgstr ""
 
 #. +> trunk5
@@ -251,9 +242,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/generate/cairogradient.rst:107
-msgid ""
-"This is the default attribute which specifies no blending. The blending "
-"formula simply selects the source color."
+msgid "This is the default attribute which specifies no blending. The blending formula simply selects the source color."
 msgstr ""
 
 #. +> trunk5
@@ -274,10 +263,8 @@ msgstr ""
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/generate/cairogradient.rst:113
 msgid ""
-"The source color is multiplied by the destination color and replaces the "
-"destination. The resultant color is always at least as dark as either the "
-"source or destination color. Multiplying any color with black results in "
-"black. Multiplying any color with white preserves the original color."
+"The source color is multiplied by the destination color and replaces the destination. The resultant color is always at least as dark as either the source or destination color. Multiplying any color "
+"with black results in black. Multiplying any color with white preserves the original color."
 msgstr ""
 
 #. +> trunk5
@@ -288,12 +275,8 @@ msgstr ""
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/generate/cairogradient.rst:115
 msgid ""
-"Multiplies the complements of the backdrop and source color values, then "
-"complements the result. The result color is always at least as light as "
-"either of the two constituent colors. Screening any color with white "
-"produces white; screening with black leaves the original color unchanged. "
-"The effect is similar to projecting multiple photographic slides "
-"simultaneously onto a single screen."
+"Multiplies the complements of the backdrop and source color values, then complements the result. The result color is always at least as light as either of the two constituent colors. Screening any "
+"color with white produces white; screening with black leaves the original color unchanged. The effect is similar to projecting multiple photographic slides simultaneously onto a single screen."
 msgstr ""
 
 #. +> trunk5
@@ -304,10 +287,8 @@ msgstr ""
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/generate/cairogradient.rst:117
 msgid ""
-"Multiplies or screens the colors, depending on the backdrop color value. "
-"Source colors overlay the backdrop while preserving its highlights and "
-"shadows. The backdrop color is not replaced but is mixed with the source "
-"color to reflect the lightness or darkness of the backdrop."
+"Multiplies or screens the colors, depending on the backdrop color value. Source colors overlay the backdrop while preserving its highlights and shadows. The backdrop color is not replaced but is "
+"mixed with the source color to reflect the lightness or darkness of the backdrop."
 msgstr ""
 
 #. +> trunk5
@@ -317,10 +298,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/generate/cairogradient.rst:119
-msgid ""
-"Selects the darker of the backdrop and source colors. The backdrop is "
-"replaced with the source where the source is darker; otherwise, it is left "
-"unchanged."
+msgid "Selects the darker of the backdrop and source colors. The backdrop is replaced with the source where the source is darker; otherwise, it is left unchanged."
 msgstr ""
 
 #. +> trunk5
@@ -330,10 +308,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/generate/cairogradient.rst:121
-msgid ""
-"Selects the lighter of the backdrop and source colors. The backdrop is "
-"replaced with the source where the source is lighter; otherwise, it is left "
-"unchanged."
+msgid "Selects the lighter of the backdrop and source colors. The backdrop is replaced with the source where the source is lighter; otherwise, it is left unchanged."
 msgstr ""
 
 #. +> trunk5
@@ -343,9 +318,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/generate/cairogradient.rst:123
-msgid ""
-"Brightens the backdrop color to reflect the source color. Painting with "
-"black produces no changes."
+msgid "Brightens the backdrop color to reflect the source color. Painting with black produces no changes."
 msgstr ""
 
 #. +> trunk5
@@ -355,9 +328,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/generate/cairogradient.rst:125
-msgid ""
-"Darkens the backdrop color to reflect the source color. Painting with white "
-"produces no change."
+msgid "Darkens the backdrop color to reflect the source color. Painting with white produces no change."
 msgstr ""
 
 #. +> trunk5
@@ -367,9 +338,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/generate/cairogradient.rst:127
-msgid ""
-"Multiplies or screens the colors, depending on the source color value. The "
-"effect is similar to shining a harsh spotlight on the backdrop."
+msgid "Multiplies or screens the colors, depending on the source color value. The effect is similar to shining a harsh spotlight on the backdrop."
 msgstr ""
 
 #. +> trunk5
@@ -379,9 +348,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/generate/cairogradient.rst:129
-msgid ""
-"Darkens or lightens the colors, depending on the source color value. The "
-"effect is similar to shining a diffused spotlight on the backdrop."
+msgid "Darkens or lightens the colors, depending on the source color value. The effect is similar to shining a diffused spotlight on the backdrop."
 msgstr ""
 
 #. +> trunk5
@@ -391,10 +358,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/generate/cairogradient.rst:131
-msgid ""
-"Subtracts the darker of the two constituent colors from the lighter color. "
-"Painting with white inverts the backdrop color; painting with black produces "
-"no change."
+msgid "Subtracts the darker of the two constituent colors from the lighter color. Painting with white inverts the backdrop color; painting with black produces no change."
 msgstr ""
 
 #. +> trunk5
@@ -404,70 +368,51 @@ msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/generate/cairogradient.rst:133
-msgid ""
-"Produces an effect similar to that of the Difference mode but lower in "
-"contrast. Painting with white inverts the backdrop color; painting with "
-"black produces no change."
+msgid "Produces an effect similar to that of the Difference mode but lower in contrast. Painting with white inverts the backdrop color; painting with black produces no change."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/generate/cairogradient.rst:134
-msgid ""
-":abbr:`HSL(Hue, Saturation, Lightness - Using HSL color space is useful for "
-"subtle color changes)` hue"
+msgid ":abbr:`HSL(Hue, Saturation, Lightness - Using HSL color space is useful for subtle color changes)` hue"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/generate/cairogradient.rst:135
-msgid ""
-"Creates a color with the hue of the source color and the saturation and "
-"luminosity of the backdrop color."
+msgid "Creates a color with the hue of the source color and the saturation and luminosity of the backdrop color."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/generate/cairogradient.rst:136
-msgid ""
-":abbr:`HSL(Hue, Saturation, Lightness - Using HSL color space is useful for "
-"subtle color changes)` saturation"
+msgid ":abbr:`HSL(Hue, Saturation, Lightness - Using HSL color space is useful for subtle color changes)` saturation"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/generate/cairogradient.rst:137
 msgid ""
-"Creates a color with the saturation of the source color and the hue and "
-"luminosity of the backdrop color. Painting with this mode in an area of the "
-"backdrop that is a pure gray (no saturation) produces no change."
+"Creates a color with the saturation of the source color and the hue and luminosity of the backdrop color. Painting with this mode in an area of the backdrop that is a pure gray (no saturation) "
+"produces no change."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/generate/cairogradient.rst:138
-msgid ""
-":abbr:`HSL(Hue, Saturation, Lightness - Using HSL color space is useful for "
-"subtle color changes)` color"
+msgid ":abbr:`HSL(Hue, Saturation, Lightness - Using HSL color space is useful for subtle color changes)` color"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/generate/cairogradient.rst:139
 msgid ""
-"Creates a color with the hue and saturation of the source color and the "
-"luminosity of the backdrop color. This preserves the gray levels of the "
-"backdrop and is useful for coloring monochrome images or tinting color "
-"images."
+"Creates a color with the hue and saturation of the source color and the luminosity of the backdrop color. This preserves the gray levels of the backdrop and is useful for coloring monochrome images "
+"or tinting color images."
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/generate/cairogradient.rst:140
-msgid ""
-":abbr:`HSL(Hue, Saturation, Lightness - Using HSL color space is useful for "
-"subtle color changes)` luminosity"
+msgid ":abbr:`HSL(Hue, Saturation, Lightness - Using HSL color space is useful for subtle color changes)` luminosity"
 msgstr ""
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/generate/cairogradient.rst:141
-msgid ""
-"Creates a color with the luminosity of the source color and the hue and "
-"saturation of the backdrop color. This produces an inverse effect to that of "
-"the Color mode."
+msgid "Creates a color with the luminosity of the source color and the hue and saturation of the backdrop color. This produces an inverse effect to that of the Color mode."
 msgstr ""
 
 #. +> trunk5
@@ -476,15 +421,13 @@ msgid "For more details see this W3 paper on |blending_modes|"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/generate/cairogradient.rst:-1
+#: ../../effects_and_filters/video_effects/generate/cairogradient.rst:-1:
 msgid "Kdenlive Video Effects - Cairogradient"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/generate/cairogradient.rst:-1
-msgid ""
-"KDE, Kdenlive, video editor, help, learn, easy, effects, filter, video "
-"effects, generate, cairogradient, gradient"
+#: ../../effects_and_filters/video_effects/generate/cairogradient.rst:-1:
+msgid "KDE, Kdenlive, video editor, help, learn, easy, effects, filter, video effects, generate, cairogradient, gradient"
 msgstr ""
 
 #. +> trunk5

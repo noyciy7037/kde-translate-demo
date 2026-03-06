@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the  <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License SA 4.0</a> unless stated otherwise
+# This file is distributed under the same license as the Kdenlive Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Kdenlive Manual \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-13 09:59+0100\n"
-"PO-Revision-Date: 2021-11-20 18:29-0800\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Kdenlive Manual 25.12\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/stylize.rst:23
@@ -22,10 +21,8 @@ msgstr ""
 #. +> trunk5
 #: ../../effects_and_filters/video_effects/stylize.rst:25
 msgid ""
-"The *Stylize* video effects category contains effects and filters to give "
-"images and videos an artistic appearance (e.g. :doc:`/effects_and_filters/"
-"video_effects/stylize/charcoal` or :doc:`/effects_and_filters/video_effects/"
-"stylize/cartoon`)."
+"The *Stylize* video effects category contains effects and filters to give images and videos an artistic appearance (e.g. :doc:`/effects_and_filters/video_effects/stylize/charcoal` or "
+":doc:`/effects_and_filters/video_effects/stylize/cartoon`)."
 msgstr ""
 
 #. +> trunk5
@@ -34,15 +31,11 @@ msgid "The following effects and filters are available:"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/stylize.rst:-1
-msgid ""
-"Do your first steps with Kdenlive video editor, stylize video effects "
-"category"
+#: ../../effects_and_filters/video_effects/stylize.rst:-1:
+msgid "Do your first steps with Kdenlive video editor, stylize video effects category"
 msgstr ""
 
 #. +> trunk5
-#: ../../effects_and_filters/video_effects/stylize.rst:-1
-msgid ""
-"KDE, Kdenlive, video editor, help, learn, easy, effects, filter, video "
-"effects, stylize"
+#: ../../effects_and_filters/video_effects/stylize.rst:-1:
+msgid "KDE, Kdenlive, video editor, help, learn, easy, effects, filter, video effects, stylize"
 msgstr ""

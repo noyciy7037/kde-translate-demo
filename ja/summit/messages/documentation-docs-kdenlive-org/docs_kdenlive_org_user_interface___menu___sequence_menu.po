@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the  <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License SA 4.0</a> unless stated otherwise
+# This file is distributed under the same license as the Kdenlive Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Kdenlive Manual \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-13 09:59+0100\n"
-"PO-Revision-Date: 2021-11-20 18:29-0800\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Kdenlive Manual 25.12\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../<rst_epilog>:286
@@ -26,9 +25,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:32
-msgid ""
-"The Sequence Menu functions affect the clip or clips selected in the "
-"timeline, and perform actions with relation to the timeline."
+msgid "The Sequence Menu functions affect the clip or clips selected in the timeline, and perform actions with relation to the timeline."
 msgstr ""
 
 #. +> trunk5
@@ -78,9 +75,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:48
-msgid ""
-":ref:`Create Sequence from Selection <timeline-"
-"create_sequence_from_selection>`"
+msgid ":ref:`Create Sequence from Selection <timeline-create_sequence_from_selection>`"
 msgstr ""
 
 #. +> trunk5
@@ -216,19 +211,11 @@ msgstr ""
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:103
 msgid ""
-"The purpose of this sub-menu is to allow you to select multiple clips or "
-"transitions on the timeline for the purpose of performing operations on all "
-"of them simultaneously. However, it should be said up front that making "
-"selections this way is not very practical. That is because, in order to "
-"select a clip or transition using this menu, you must first position the "
-"playhead on it. A much quicker and easier way is to press :kbd:`Shift+RMB`\\ "
-"[1]_ on each clip you want to add to the selection. The clips do not have to "
-"be adjacent to each other to be selected using this method. If the clips you "
-"want to select are all adjacent to each other, you can "
-"press :kbd:`Shift+LMB`\\ [2]_ and hold and then drag your mouse across all "
-"the clips. A selection box (\"lasso\") will appear and every clip and/or "
-"composition it touches or encompasses will be selected once you let go of "
-"the mouse."
+"The purpose of this sub-menu is to allow you to select multiple clips or transitions on the timeline for the purpose of performing operations on all of them simultaneously. However, it should be "
+"said up front that making selections this way is not very practical. That is because, in order to select a clip or transition using this menu, you must first position the playhead on it. A much "
+"quicker and easier way is to press :kbd:`Shift+RMB`\\ [1]_ on each clip you want to add to the selection. The clips do not have to be adjacent to each other to be selected using this method. If the "
+"clips you want to select are all adjacent to each other, you can press :kbd:`Shift+LMB`\\ [2]_ and hold and then drag your mouse across all the clips. A selection box (\"lasso\") will appear and "
+"every clip and/or composition it touches or encompasses will be selected once you let go of the mouse."
 msgstr ""
 
 #. +> trunk5
@@ -238,16 +225,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:111
-msgid ""
-"This type of selection is useful if you work with the keyboard only. "
-"With :kbd:`alt + arrow left/right` you can jump from clip to clip."
+msgid "This type of selection is useful if you work with the keyboard only. With :kbd:`alt + arrow left/right` you can jump from clip to clip."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:113
-msgid ""
-"The following illustrations show how clips can be selected and a simple move "
-"to another track is be performed."
+msgid "The following illustrations show how clips can be selected and a simple move to another track is be performed."
 msgstr ""
 
 #. +> trunk5
@@ -258,11 +241,8 @@ msgstr ""
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:120
 msgid ""
-"In Figure 1, three of the five clips on the timeline have been selected "
-"using the :kbd:`Shift+LMB`\\ [2]_ method. A selected clip has an orange "
-"outline and the highlight color of the filename text is red; not selected "
-"clips have a black outline and the filename highlight color is a semi-"
-"transparent grey."
+"In Figure 1, three of the five clips on the timeline have been selected using the :kbd:`Shift+LMB`\\ [2]_ method. A selected clip has an orange outline and the highlight color of the filename text "
+"is red; not selected clips have a black outline and the filename highlight color is a semi-transparent grey."
 msgstr ""
 
 #. +> trunk5
@@ -273,19 +253,11 @@ msgstr ""
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:127
 msgid ""
-"Now that multiple clips have been selected, you can do things like moving "
-"(dragging), copying, pasting or deleting all of them at once. Or you can use "
-"the :ref:`grouping <timeline-group_clips>` function (:menuselection:`Menu --"
-"> Sequence --> Group Clips`; default keyboard shortcut is :kbd:`Ctrl+G`) to "
-"group the clips together. After clips have been grouped a click on one of "
-"the grouped clips selects the entire group. Any clip function (e.g. delete, "
-"copy, extract) applies to the entire group. Figure 2 shows that the selected "
-"clips from Figure 1 have been moved to another track. This was done by "
-"grabbing any of the selected clips with the mouse and dragging them to track "
-"V2. Clicking anywhere outside of the selected clips will deselect all of "
-"them. Note however, that if you had used the **Group Clips** function on the "
-"selection the clips will still be grouped even though they are no longer "
-"selected."
+"Now that multiple clips have been selected, you can do things like moving (dragging), copying, pasting or deleting all of them at once. Or you can use the :ref:`grouping <timeline-group_clips>` "
+"function (:menuselection:`Menu --> Sequence --> Group Clips`; default keyboard shortcut is :kbd:`Ctrl+G`) to group the clips together. After clips have been grouped a click on one of the grouped "
+"clips selects the entire group. Any clip function (e.g. delete, copy, extract) applies to the entire group. Figure 2 shows that the selected clips from Figure 1 have been moved to another track. "
+"This was done by grabbing any of the selected clips with the mouse and dragging them to track V2. Clicking anywhere outside of the selected clips will deselect all of them. Note however, that if you"
+" had used the **Group Clips** function on the selection the clips will still be grouped even though they are no longer selected."
 msgstr ""
 
 #. +> trunk5
@@ -295,9 +267,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:135
-msgid ""
-"With :kbd:`Alt + +` you can add additional clips which are under the "
-"playhead."
+msgid "With :kbd:`Alt + +` you can add additional clips which are under the playhead."
 msgstr ""
 
 #. +> trunk5
@@ -323,12 +293,9 @@ msgstr ""
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:156
 msgid ""
-"Selecting multiple transitions works just like selecting clips. Click on the "
-"first one and then :kbd:`Shift+LMB`\\ [2]_ on as many others as you'd like "
-"to add to the selection. Figure 3 shows two **Wipe** compositions selected. "
-"These compositions can now be copied, moved (dragged), deleted, etc. just as "
-"with clips. Selected compositions have an orange outline and a bright purple "
-"semi-transparent background color."
+"Selecting multiple transitions works just like selecting clips. Click on the first one and then :kbd:`Shift+LMB`\\ [2]_ on as many others as you'd like to add to the selection. Figure 3 shows two "
+"**Wipe** compositions selected. These compositions can now be copied, moved (dragged), deleted, etc. just as with clips. Selected compositions have an orange outline and a bright purple semi-"
+"transparent background color."
 msgstr ""
 
 #. +> trunk5
@@ -338,9 +305,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:164
-msgid ""
-"With :kbd:`Alt + shift +` you can add additional transitions which are under "
-"the playhead."
+msgid "With :kbd:`Alt + shift +` you can add additional transitions which are under the playhead."
 msgstr ""
 
 #. +> trunk5
@@ -350,9 +315,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:172
-msgid ""
-"With :kbd:`Shift + -` you can deselect transitions which are under the "
-"playhead."
+msgid "With :kbd:`Shift + -` you can deselect transitions which are under the playhead."
 msgstr ""
 
 #. +> trunk5
@@ -362,10 +325,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:180
-msgid ""
-"With :kbd:`Shift + z` the :ref:`timeline zone <timeline_ruler>` get adjusted "
-"to the selection. It takes into account the first and the most right "
-"selection."
+msgid "With :kbd:`Shift + z` the :ref:`timeline zone <timeline_ruler>` get adjusted to the selection. It takes into account the first and the most right selection."
 msgstr ""
 
 #. +> trunk5
@@ -380,38 +340,29 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:197
-msgid ""
-"**Edit Duration**: Opens a dialog window where the duration of the clip can "
-"be changed with frame-precision."
+msgid "**Edit Duration**: Opens a dialog window where the duration of the clip can be changed with frame-precision."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:198
-msgid ""
-"**Resize Item Start**: This function (default keyboard shortcut: :kbd:`(`) "
-"trims the start of the clip in the current track to where the playhead is."
+msgid "**Resize Item Start**: This function (default keyboard shortcut: :kbd:`(`) trims the start of the clip in the current track to where the playhead is."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:199
-msgid ""
-"**Resize Item End**: This function (default keyboard shortcut: :kbd:`)`) "
-"trims the end of the clip in the current track to where the playhead is."
+msgid "**Resize Item End**: This function (default keyboard shortcut: :kbd:`)`) trims the end of the clip in the current track to where the playhead is."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:200
 msgid ""
-"**Grab Current Item**: This function will make the currently selected item "
-"available for moving around with the keyboard arrow keys. The grabbed item "
-"will have a thick orange outline. Default shortcut: :kbd:`Shift+G`"
+"**Grab Current Item**: This function will make the currently selected item available for moving around with the keyboard arrow keys. The grabbed item will have a thick orange outline. Default "
+"shortcut: :kbd:`Shift+G`"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:201
-msgid ""
-"**Delete Selected Item**: Deletes the selected items (e.g. clip, "
-"composition). Default shortcut: :kbd:`Del`"
+msgid "**Delete Selected Item**: Deletes the selected items (e.g. clip, composition). Default shortcut: :kbd:`Del`"
 msgstr ""
 
 #. +> trunk5
@@ -426,48 +377,34 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:217
-msgid ""
-"This menu item opens a flyout with actions for the currently selected "
-"clip(s) in the Timeline:"
+msgid "This menu item opens a flyout with actions for the currently selected clip(s) in the Timeline:"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:220
-msgid ""
-"**Cut Clip**: Cuts the clip at the point where the playhead is in the "
-"Timeline. Default shortcut: :kbd:`Shift+R`"
+msgid "**Cut Clip**: Cuts the clip at the point where the playhead is in the Timeline. Default shortcut: :kbd:`Shift+R`"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:221
-msgid ""
-"**Mix Clips**: Creates a same-track-transition between the selected clips. "
-"Only works if they are adjacent to each other and on the same track. Default "
-"shortcut: :kbd:`U`"
+msgid "**Mix Clips**: Creates a same-track-transition between the selected clips. Only works if they are adjacent to each other and on the same track. Default shortcut: :kbd:`U`"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:222
-msgid ""
-"**Change Speed**: Opens a dialog window where the speed change can be "
-"entered in %."
+msgid "**Change Speed**: Opens a dialog window where the speed change can be entered in %."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:223
 msgid ""
-"**Restore Video**: If the clip had been added to the Timeline without the "
-"audio stream, or the audio stream was deleted, this function brings the "
-"audio stream back. It also groups the video stream and audio stream clips. "
-"You need a corresponding audio track for this function to work."
+"**Restore Video**: If the clip had been added to the Timeline without the audio stream, or the audio stream was deleted, this function brings the audio stream back. It also groups the video stream "
+"and audio stream clips. You need a corresponding audio track for this function to work."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:224
-msgid ""
-"**Disable clip**: Makes the clip invisible for playback or rendering "
-"purposes. The clip remains in the Timeline but will not be rendered. A "
-"disabled clip is greyed out in the Timeline."
+msgid "**Disable clip**: Makes the clip invisible for playback or rendering purposes. The clip remains in the Timeline but will not be rendered. A disabled clip is greyed out in the Timeline."
 msgstr ""
 
 #. +> trunk5
@@ -478,25 +415,18 @@ msgstr ""
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:226
 msgid ""
-"**Extract Clip**: Removes the clip from the Timeline and removes the "
-"gap :kbd:`Shift+Del`. If the track is set to inactive the clips to the right "
-"of the extracted clip will not be moved to fill the gap."
+"**Extract Clip**: Removes the clip from the Timeline and removes the gap :kbd:`Shift+Del`. If the track is set to inactive the clips to the right of the extracted clip will not be moved to fill the "
+"gap."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:227
-msgid ""
-"**Save Clip Part to Bin**: If the selected clip is part of a larger clip "
-"(e.g. a cut section) the selected clip part will be saved to the project bin "
-"as a new zone under the original clip."
+msgid "**Save Clip Part to Bin**: If the selected clip is part of a larger clip (e.g. a cut section) the selected clip part will be saved to the project bin as a new zone under the original clip."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:228
-msgid ""
-"**Expand Clip**: If the selected clip is a library clip it will be expanded "
-"to show all of its components. Make sure you have enough video and audio "
-"tracks to hold all of its components."
+msgid "**Expand Clip**: If the selected clip is a library clip it will be expanded to show all of its components. Make sure you have enough video and audio tracks to hold all of its components."
 msgstr ""
 
 #. +> trunk5
@@ -506,10 +436,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:236
-msgid ""
-"This groups the selected items (e.g. clips, compositions) in the Timeline. "
-"Default shortcut: :kbd:`Ctrl+G`. Once grouped together a click on one of the "
-"grouped clips selects the entire group."
+msgid "This groups the selected items (e.g. clips, compositions) in the Timeline. Default shortcut: :kbd:`Ctrl+G`. Once grouped together a click on one of the grouped clips selects the entire group."
 msgstr ""
 
 #. +> trunk5
@@ -519,10 +446,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:244
-msgid ""
-"This ungroups a group of items.  Default shortcut: :kbd:`Ctrl+Shift+G`. The "
-"group items are still selected after that. Click anywhere outside of the "
-"group to deselect the items."
+msgid "This ungroups a group of items.  Default shortcut: :kbd:`Ctrl+Shift+G`. The group items are still selected after that. Click anywhere outside of the group to deselect the items."
 msgstr ""
 
 #. +> trunk5
@@ -533,10 +457,8 @@ msgstr ""
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:252
 msgid ""
-"This function opens a dialog window to enter a name for the library item. "
-"Kdenlive will create a :file:`.mlt` clip in the Library from where it can be "
-"added to any project. This is useful for intros, outros, logos, watermarks "
-"or any other asset that will be used in many projects."
+"This function opens a dialog window to enter a name for the library item. Kdenlive will create a :file:`.mlt` clip in the Library from where it can be added to any project. This is useful for "
+"intros, outros, logos, watermarks or any other asset that will be used in many projects."
 msgstr ""
 
 #. +> trunk5
@@ -546,9 +468,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:259
-msgid ""
-"This creates a :ref:`new sequence <Create_nested_sequence>` with the "
-"selected clips."
+msgid "This creates a :ref:`new sequence <Create_nested_sequence>` with the selected clips."
 msgstr ""
 
 #. +> trunk5
@@ -574,17 +494,13 @@ msgstr ""
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:279
 msgid ""
-"With this menu you can insert a clip or clip zone into the Timeline or "
-"overwrite what is in the Timeline with the clip or clip zone. The default "
-"keyboard shortcuts are :kbd:`V` for Insert, and :kbd:`B` for Overwrite."
+"With this menu you can insert a clip or clip zone into the Timeline or overwrite what is in the Timeline with the clip or clip zone. The default keyboard shortcuts are :kbd:`V` for Insert, and "
+":kbd:`B` for Overwrite."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:293
-msgid ""
-"Since version 19.08 \"3 point editing with keyboard shortcuts\" is "
-"implemented. Source and target have to be activated for the clip to be "
-"inserted into the Timeline."
+msgid "Since version 19.08 \"3 point editing with keyboard shortcuts\" is implemented. Source and target have to be activated for the clip to be inserted into the Timeline."
 msgstr ""
 
 #. +> trunk5
@@ -595,51 +511,38 @@ msgstr ""
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:303
 msgid ""
-"Say you have an eight second zone defined in a clip in the Clip Monitor. "
-"When you press :kbd:`V` or select :menuselection:`Menu --> Sequence --> "
-"Insertion --> Insert Clip Zone in Timeline`, it will insert the eight second "
-"segment of the clip from the Clip Monitor in the timeline."
+"Say you have an eight second zone defined in a clip in the Clip Monitor. When you press :kbd:`V` or select :menuselection:`Menu --> Sequence --> Insertion --> Insert Clip Zone in Timeline`, it will "
+"insert the eight second segment of the clip from the Clip Monitor in the timeline."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:305
 msgid ""
-"There is an important toggle switch in the Timeline toolbar that "
-"fundamentally changes the way the Insert Clip function works: :guilabel:`Use "
-"Timeline Zone for Insert`. If it is off (default) inserting a clip happens "
-"at the position of the playhead; if it is on inserting a clip happens at the "
-"Timeline Zone. See label \"1\" in the illustrations below."
+"There is an important toggle switch in the Timeline toolbar that fundamentally changes the way the Insert Clip function works: :guilabel:`Use Timeline Zone for Insert`. If it is off (default) "
+"inserting a clip happens at the position of the playhead; if it is on inserting a clip happens at the Timeline Zone. See label \"1\" in the illustrations below."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:310
-msgid ""
-"Insert clip zone from Clip Monitor to Timeline (not using the Timeline Zone)"
+msgid "Insert clip zone from Clip Monitor to Timeline (not using the Timeline Zone)"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:312
 msgid ""
-"The clip selected in the Project Bin (in this example My_Video_7.mp4) is "
-"displayed in the Clip Monitor. An eight second zone has been defined (see "
-"the blue bar between the yellow brackets). The playhead in the Timeline has "
-"been positioned where the clip zone is to be inserted. Note the setting of "
-"the :guilabel:`Use Timeline Zone for Inserts` switch (1)."
+"The clip selected in the Project Bin (in this example My_Video_7.mp4) is displayed in the Clip Monitor. An eight second zone has been defined (see the blue bar between the yellow brackets). The "
+"playhead in the Timeline has been positioned where the clip zone is to be inserted. Note the setting of the :guilabel:`Use Timeline Zone for Inserts` switch (1)."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:314
 msgid ""
-"Press :kbd:`V` or select :menuselection:`Menu --> Sequence --> Insertion --> "
-"Insert Clip Zone in Timeline` and the section in the clip is inserted in the "
-"timeline. Any clip already in the Timeline in the target track will be cut, "
-"the clip zone inserted and the cut clip pushed to the right to make room for "
-"the inserted clip."
+"Press :kbd:`V` or select :menuselection:`Menu --> Sequence --> Insertion --> Insert Clip Zone in Timeline` and the section in the clip is inserted in the timeline. Any clip already in the Timeline "
+"in the target track will be cut, the clip zone inserted and the cut clip pushed to the right to make room for the inserted clip."
 msgstr ""
 
 #. +> trunk5
-#: ../../user_interface/menu/sequence_menu.rst:319
-#: ../../user_interface/menu/sequence_menu.rst:348
+#: ../../user_interface/menu/sequence_menu.rst:319 ../../user_interface/menu/sequence_menu.rst:348
 msgid "Insert clip zone from Clip Monitor to Timeline (insert mode)"
 msgstr ""
 
@@ -651,25 +554,20 @@ msgstr ""
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:327
 msgid ""
-"Press :kbd:`B` or select :menuselection:`Menu --> Sequence --> Insertion --> "
-"Overwrite Clip Zone in Timeline` and the section in the clip is inserted in "
-"the timeline overwriting portions of the clip currently in the target track."
+"Press :kbd:`B` or select :menuselection:`Menu --> Sequence --> Insertion --> Overwrite Clip Zone in Timeline` and the section in the clip is inserted in the timeline overwriting portions of the clip"
+" currently in the target track."
 msgstr ""
 
 #. +> trunk5
-#: ../../user_interface/menu/sequence_menu.rst:332
-#: ../../user_interface/menu/sequence_menu.rst:355
+#: ../../user_interface/menu/sequence_menu.rst:332 ../../user_interface/menu/sequence_menu.rst:355
 msgid "Insert clip zone from Clip Monitor to Timeline (overwrite mode)"
 msgstr ""
 
 #. +> trunk5
-#: ../../user_interface/menu/sequence_menu.rst:334
-#: ../../user_interface/menu/sequence_menu.rst:357
+#: ../../user_interface/menu/sequence_menu.rst:334 ../../user_interface/menu/sequence_menu.rst:357
 msgid ""
-"Please note that in the example for the overwrite mode the target track has "
-"been changed to V2 only. This is only to demonstrate how target track "
-"settings affect the clip operation (in this case no audio stream was "
-"inserted because the necessary audio track was set to inactive)."
+"Please note that in the example for the overwrite mode the target track has been changed to V2 only. This is only to demonstrate how target track settings affect the clip operation (in this case no "
+"audio stream was inserted because the necessary audio track was set to inactive)."
 msgstr ""
 
 #. +> trunk5
@@ -679,29 +577,22 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:341
-msgid ""
-"Insert clip zone from Clip Monitor to Timeline (using the Timeline Zone)"
+msgid "Insert clip zone from Clip Monitor to Timeline (using the Timeline Zone)"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:343
 msgid ""
-"Press :kbd:`V` or select :menuselection:`Menu --> Sequence --> Insertion --> "
-"Insert Clip Zone in Timeline` and the section in the clip is inserted in the "
-"timeline starting where the Timeline Zone starts and only for the length of "
-"the Timeline Zone. Any clip already in the Timeline in the target track will "
-"be cut, the clip zone inserted and the cut clip pushed to the right to make "
-"room for the inserted clip."
+"Press :kbd:`V` or select :menuselection:`Menu --> Sequence --> Insertion --> Insert Clip Zone in Timeline` and the section in the clip is inserted in the timeline starting where the Timeline Zone "
+"starts and only for the length of the Timeline Zone. Any clip already in the Timeline in the target track will be cut, the clip zone inserted and the cut clip pushed to the right to make room for "
+"the inserted clip."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:350
 msgid ""
-"Press :kbd:`B` or select :menuselection:`Menu --> Sequence --> Insertion --> "
-"Overwrite Clip Zone in Timeline` and the section in the clip is inserted in "
-"the Timeline starting where the Timeline Zone starts and only for the length "
-"of Timeline Zone overwriting portions of the clip currently in the target "
-"track."
+"Press :kbd:`B` or select :menuselection:`Menu --> Sequence --> Insertion --> Overwrite Clip Zone in Timeline` and the section in the clip is inserted in the Timeline starting where the Timeline Zone"
+" starts and only for the length of Timeline Zone overwriting portions of the clip currently in the target track."
 msgstr ""
 
 #. +> trunk5
@@ -727,19 +618,14 @@ msgstr ""
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:377
 msgid ""
-"This function extracts or lifts portions of the Timeline defined by the "
-"Timeline Zone. You set the Timeline Zone by defining the In-point and Out-"
-"point in the Timeline. Press :kbd:`I` for the In-point, :kbd:`O` for the Out-"
-"point. Alternatively, you can click on the :guilabel:`Set Zone In` "
-"and :guilabel:`Set Zone Out` icons in the Project Monitor toolbar."
+"This function extracts or lifts portions of the Timeline defined by the Timeline Zone. You set the Timeline Zone by defining the In-point and Out-point in the Timeline. Press :kbd:`I` for the In-"
+"point, :kbd:`O` for the Out-point. Alternatively, you can click on the :guilabel:`Set Zone In` and :guilabel:`Set Zone Out` icons in the Project Monitor toolbar."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:379
 msgid ""
-"You can also drag the Timeline Zone by grabbing the little square in the "
-"middle of the zone bar. This is useful if you want to use the zone with the "
-"same length in other places in your project."
+"You can also drag the Timeline Zone by grabbing the little square in the middle of the zone bar. This is useful if you want to use the zone with the same length in other places in your project."
 msgstr ""
 
 #. +> trunk5
@@ -750,18 +636,13 @@ msgstr ""
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:387
 msgid ""
-":guilabel:`Extract Timeline Zone` means to delete that section in the "
-"Timeline and moving to the left all clips that are to the right to fill the "
-"gap; :guilabel:`Lift Timeline Zone` means to delete that section in the "
-"Timeline but leave a gap where the lifted section was."
+":guilabel:`Extract Timeline Zone` means to delete that section in the Timeline and moving to the left all clips that are to the right to fill the gap; :guilabel:`Lift Timeline Zone` means to delete "
+"that section in the Timeline but leave a gap where the lifted section was."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:389
-msgid ""
-"This function takes into account all active tracks. Make sure to make active "
-"only those tracks where you want the Timeline Zone to be extracted or lifted "
-"from."
+msgid "This function takes into account all active tracks. Make sure to make active only those tracks where you want the Timeline Zone to be extracted or lifted from."
 msgstr ""
 
 #. +> trunk5
@@ -772,10 +653,8 @@ msgstr ""
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:396
 msgid ""
-"Pressing :kbd:`Shift+X` or selecting :menuselection:`Menu --> Sequence --> "
-"Removal --> Extract Timeline Zone` will cut the clips where the Timeline "
-"Zone starts and ends, delete that portion and move all clips that are to the "
-"right in the Timeline left to close the gap."
+"Pressing :kbd:`Shift+X` or selecting :menuselection:`Menu --> Sequence --> Removal --> Extract Timeline Zone` will cut the clips where the Timeline Zone starts and ends, delete that portion and move"
+" all clips that are to the right in the Timeline left to close the gap."
 msgstr ""
 
 #. +> trunk5
@@ -791,10 +670,8 @@ msgstr ""
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:409
 msgid ""
-"Pressing :kbd:`Z` or selecting :menuselection:`Menu --> Sequence --> Removal "
-"--> Lift Timeline Zone` will cut the clips where the Timeline Zone starts "
-"and ends, delete that portion but leave all clips that are to the right in "
-"the Timeline thus creating a gap."
+"Pressing :kbd:`Z` or selecting :menuselection:`Menu --> Sequence --> Removal --> Lift Timeline Zone` will cut the clips where the Timeline Zone starts and ends, delete that portion but leave all "
+"clips that are to the right in the Timeline thus creating a gap."
 msgstr ""
 
 #. +> trunk5
@@ -804,9 +681,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:416
-msgid ""
-"If you want only one track to be affected by this function switch all the "
-"other tracks to inactive."
+msgid "If you want only one track to be affected by this function switch all the other tracks to inactive."
 msgstr ""
 
 #. +> trunk5
@@ -835,16 +710,13 @@ msgid ":ref:`timeline_space-insert`"
 msgstr ""
 
 #. +> trunk5
-#: ../../user_interface/menu/sequence_menu.rst:441
-#: ../../user_interface/menu/sequence_menu.rst:442
+#: ../../user_interface/menu/sequence_menu.rst:441 ../../user_interface/menu/sequence_menu.rst:442
 msgid ":ref:`timeline_space-remove`"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:446
-msgid ""
-"This menu item will open a flyout with actions for inserting or removing "
-"space in the Timeline."
+msgid "This menu item will open a flyout with actions for inserting or removing space in the Timeline."
 msgstr ""
 
 #. +> trunk5
@@ -854,18 +726,14 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:454
-msgid ""
-"This will open a dialog window where you can specify the duration of the "
-"space to be inserted and whether space is inserted in all tracks."
+msgid "This will open a dialog window where you can specify the duration of the space to be inserted and whether space is inserted in all tracks."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:456
 msgid ""
-"This function can be used when you want to push all the existing clips on "
-"the timeline aside to make room for new clips but also want to preserve the "
-"relationships among all the clips that were shifted, including their "
-"transitions."
+"This function can be used when you want to push all the existing clips on the timeline aside to make room for new clips but also want to preserve the relationships among all the clips that were "
+"shifted, including their transitions."
 msgstr ""
 
 #. +> trunk5
@@ -876,55 +744,36 @@ msgstr ""
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:463
 msgid ""
-"In addition to invoking this menu from :menuselection:`Menu --> Sequence --> "
-"Space`, you can also bring it up by right-clicking on an empty spot on a "
-"track in the timeline.  There are a couple of important differences "
-"how :guilabel:`Insert Space` behaves, though, depending on which method you "
-"choose. Using :menuselection:`Menu --> Sequence --> Space --> Insert Space` "
-"brings up the **Add Space** dialog shown in Figure 1. Note that the default "
-"choice for :guilabel:`Insert space in all tracks` is un-checked."
+"In addition to invoking this menu from :menuselection:`Menu --> Sequence --> Space`, you can also bring it up by right-clicking on an empty spot on a track in the timeline.  There are a couple of "
+"important differences how :guilabel:`Insert Space` behaves, though, depending on which method you choose. Using :menuselection:`Menu --> Sequence --> Space --> Insert Space` brings up the **Add "
+"Space** dialog shown in Figure 1. Note that the default choice for :guilabel:`Insert space in all tracks` is un-checked."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:480
 msgid ""
-"In case you are wondering why the default :guilabel:`Duration` for the "
-"inserted space is 00:00:02:05 (hh:mm:ss:ff) which is not configurable in "
-"the :ref:`Kdenlive <settings_menu>` or :doc:`Project Settings</"
-"project_and_asset_management/project_settings/general_settings>`.  "
-"00:00:02:05 for a project with 30 fps means 65 frames. This default value of "
-"65 frames for inserting space is hard-coded in Kdenlive and will equate to "
-"different amounts of time depending on the frame rate set in your project "
-"profile. For example, in a project with a rate of 25 frames per second this "
-"works out to be 00:00:02:10 - 2 seconds and 10 frames."
+"In case you are wondering why the default :guilabel:`Duration` for the inserted space is 00:00:02:05 (hh:mm:ss:ff) which is not configurable in the :ref:`Kdenlive <settings_menu>` or :doc:`Project "
+"Settings</project_and_asset_management/project_settings/general_settings>`.  00:00:02:05 for a project with 30 fps means 65 frames. This default value of 65 frames for inserting space is hard-coded "
+"in Kdenlive and will equate to different amounts of time depending on the frame rate set in your project profile. For example, in a project with a rate of 25 frames per second this works out to be "
+"00:00:02:10 - 2 seconds and 10 frames."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:482
 msgid ""
-"Let's look at an example, albeit an unrealistic one, of how inserting space "
-"from the playhead position will affect clips and compositions on different "
-"tracks. In general, inserting a space will shift any clips that the playhead "
-"is *touching* as well as all clips to the right of the playhead on the "
-"affected track(s).  Compositions are a little trickier because they span two "
-"tracks. They are assumed to “belong” to the higher track (regardless of the "
-"direction of the composition) and so if the playhead is touching them they "
-"will go only if the higher track is included in the shift."
+"Let's look at an example, albeit an unrealistic one, of how inserting space from the playhead position will affect clips and compositions on different tracks. In general, inserting a space will "
+"shift any clips that the playhead is *touching* as well as all clips to the right of the playhead on the affected track(s).  Compositions are a little trickier because they span two tracks. They are"
+" assumed to “belong” to the higher track (regardless of the direction of the composition) and so if the playhead is touching them they will go only if the higher track is included in the shift."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:487
-msgid ""
-"Figure 3: Timeline before inserting space. Compare this with the "
-"illustrations below."
+msgid "Figure 3: Timeline before inserting space. Compare this with the illustrations below."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:489
-msgid ""
-"Figure 3 shows a scenario with clips on three video tracks before inserting "
-"a space. All of the following examples assume we are starting from this "
-"position."
+msgid "Figure 3 shows a scenario with clips on three video tracks before inserting a space. All of the following examples assume we are starting from this position."
 msgstr ""
 
 #. +> trunk5
@@ -935,11 +784,8 @@ msgstr ""
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:496
 msgid ""
-"In Figure 4 we have chosen to :guilabel:`Insert a space on all tracks`. "
-"Since the playhead was touching both compositions and the clips on tracks V1 "
-"and V2, it shifted them along with all the clips to the right of the "
-"playhead. It did not shift the clip on track V3 because it was to the left "
-"of the playhead."
+"In Figure 4 we have chosen to :guilabel:`Insert a space on all tracks`. Since the playhead was touching both compositions and the clips on tracks V1 and V2, it shifted them along with all the clips "
+"to the right of the playhead. It did not shift the clip on track V3 because it was to the left of the playhead."
 msgstr ""
 
 #. +> trunk5
@@ -950,10 +796,8 @@ msgstr ""
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:503
 msgid ""
-"In Figure 5 we chose track V3. The composition went because it “belongs” to "
-"the clip on track V3, but the clip itself did not go because it was to the "
-"left of the playhead. The clip *My_Video_4.mp4* on track V3 also went "
-"because it was to the right of the playhead."
+"In Figure 5 we chose track V3. The composition went because it “belongs” to the clip on track V3, but the clip itself did not go because it was to the left of the playhead. The clip *My_Video_4.mp4*"
+" on track V3 also went because it was to the right of the playhead."
 msgstr ""
 
 #. +> trunk5
@@ -964,10 +808,8 @@ msgstr ""
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:510
 msgid ""
-"In Figure 6 we shifted the clips on track V2. Now the Wipe composition "
-"between tracks V3 and V2 does not shift, even though the playhead was "
-"touching it, because it belongs to track V3. The other transition does go "
-"because it belongs to the higher track V2."
+"In Figure 6 we shifted the clips on track V2. Now the Wipe composition between tracks V3 and V2 does not shift, even though the playhead was touching it, because it belongs to track V3. The other "
+"transition does go because it belongs to the higher track V2."
 msgstr ""
 
 #. +> trunk5
@@ -982,10 +824,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:519
-msgid ""
-"If we had started this process by right-clicking on a spot on track V1 or V3 "
-"which corresponds to the playhead position in the example the results would "
-"have been the same."
+msgid "If we had started this process by right-clicking on a spot on track V1 or V3 which corresponds to the playhead position in the example the results would have been the same."
 msgstr ""
 
 #. +> trunk5
@@ -995,9 +834,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:527
-msgid ""
-"Remove Space is not the exact opposite of :ref:`Insert Space <timeline_space-"
-"insert>`."
+msgid "Remove Space is not the exact opposite of :ref:`Insert Space <timeline_space-insert>`."
 msgstr ""
 
 #. +> trunk5
@@ -1008,10 +845,8 @@ msgstr ""
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:531
 msgid ""
-"If you access :guilabel:`Remove Space` from :menuselection:`Menu --> "
-"Sequence --> Space`, the playhead governs where the removal will happen. "
-"When using right-click in a track in the Timeline it happens at the mouse "
-"cursor."
+"If you access :guilabel:`Remove Space` from :menuselection:`Menu --> Sequence --> Space`, the playhead governs where the removal will happen. When using right-click in a track in the Timeline it "
+"happens at the mouse cursor."
 msgstr ""
 
 #. +> trunk5
@@ -1026,19 +861,14 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:537
-msgid ""
-"If you accessed :guilabel:`Remove Space` from :menuselection:`Menu --> "
-"Sequence --> Space`, the playhead must be on an empty space in the track "
-"where the space is to be removed."
+msgid "If you accessed :guilabel:`Remove Space` from :menuselection:`Menu --> Sequence --> Space`, the playhead must be on an empty space in the track where the space is to be removed."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:539
 msgid ""
-"You cannot set the duration of the space to be removed – all the empty space "
-"between clips is removed. All the clips and transitions to the right of the "
-"playhead or mouse cursor will be shifted left until the first clip "
-"encounters another clip or the beginning of the track."
+"You cannot set the duration of the space to be removed – all the empty space between clips is removed. All the clips and transitions to the right of the playhead or mouse cursor will be shifted left"
+" until the first clip encounters another clip or the beginning of the track."
 msgstr ""
 
 #. +> trunk5
@@ -1048,9 +878,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:547
-msgid ""
-"This menu item opens a flyout with the following functions for the current "
-"track:"
+msgid "This menu item opens a flyout with the following functions for the current track:"
 msgstr ""
 
 #. +> trunk5
@@ -1060,16 +888,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:557
-msgid ""
-"**Remove All Spaces After Cursor**: This function will close any gaps "
-"between the clips to the right of the cursor."
+msgid "**Remove All Spaces After Cursor**: This function will close any gaps between the clips to the right of the cursor."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:559
-msgid ""
-"**Remove All Clips After Cursor**: This function will remove all clips to "
-"the right of the cursor including the one the cursor is on."
+msgid "**Remove All Clips After Cursor**: This function will remove all clips to the right of the cursor including the one the cursor is on."
 msgstr ""
 
 #. +> trunk5
@@ -1095,26 +919,18 @@ msgstr ""
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:579
 msgid ""
-"**Sequence effects**: Lets you quickly apply audio or video effects to all "
-"tracks. This can be useful if you want one or more effects to be applied "
-"throughout the video. Click the :guilabel:`Master` button above track "
-"headers to see the Master Effect Stack. For more details see "
-"the :ref:`Master Effect <effects-master_effect>` section of the "
-"documentation."
+"**Sequence effects**: Lets you quickly apply audio or video effects to all tracks. This can be useful if you want one or more effects to be applied throughout the video. Click the :guilabel:`Master`"
+" button above track headers to see the Master Effect Stack. For more details see the :ref:`Master Effect <effects-master_effect>` section of the documentation."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:581
-msgid ""
-"**Insert Track**: Displays a dialog which lets you choose which type of "
-"track to insert and where (before or after a specified existing track)"
+msgid "**Insert Track**: Displays a dialog which lets you choose which type of track to insert and where (before or after a specified existing track)"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:583
-msgid ""
-"**Delete Track**: Displays a dialog which lets you choose which track to "
-"delete"
+msgid "**Delete Track**: Displays a dialog which lets you choose which track to delete"
 msgstr ""
 
 #. +> trunk5
@@ -1124,9 +940,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:587
-msgid ""
-"**Fit all Tracks in View**: When enabled, the :ref:`tracks fits to the "
-"height of the timeline <fit_tracks_to_view_height>`"
+msgid "**Fit all Tracks in View**: When enabled, the :ref:`tracks fits to the height of the timeline <fit_tracks_to_view_height>`"
 msgstr ""
 
 #. +> trunk5
@@ -1136,15 +950,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:593
-msgid ""
-"**Select All**: Selects all items in all tracks. Default "
-"shortcut: :kbd:`Ctrl+A`"
+msgid "**Select All**: Selects all items in all tracks. Default shortcut: :kbd:`Ctrl+A`"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:595
-msgid ""
-"**Deselect**: Cancels the selection. Default shortcut: :kbd:`Ctrl+Shift+A`"
+msgid "**Deselect**: Cancels the selection. Default shortcut: :kbd:`Ctrl+Shift+A`"
 msgstr ""
 
 #. +> trunk5
@@ -1159,41 +970,27 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:603
-msgid ""
-"**Toggle Track Lock**: Locks or unlocks the current track. A locked track "
-"cannot be edited and is marked with a red track number and the |kdenlive-"
-"lock| icon. Default shortcut: :kbd:`Shift+L`"
+msgid "**Toggle Track Lock**: Locks or unlocks the current track. A locked track cannot be edited and is marked with a red track number and the |kdenlive-lock| icon. Default shortcut: :kbd:`Shift+L`"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:605
-msgid ""
-"**Toggle All Track Lock**: Toggles the locked/unlocked status of all tracks. "
-"All locked tracks will be unlocked, all unlocked tracks will be locked. "
-"Default shortcut: :kbd:`Ctrl+Shift+L`"
+msgid "**Toggle All Track Lock**: Toggles the locked/unlocked status of all tracks. All locked tracks will be unlocked, all unlocked tracks will be locked. Default shortcut: :kbd:`Ctrl+Shift+L`"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:609
-msgid ""
-"**Toggle Track Active**: Makes the current track active or inactive. The "
-"track indicator is green when active, grey when inactive. Default "
-"shortcut: :kbd:`A`"
+msgid "**Toggle Track Active**: Makes the current track active or inactive. The track indicator is green when active, grey when inactive. Default shortcut: :kbd:`A`"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:611
-msgid ""
-"**Toggle All Tracks Active**: Toggles the active/inactive status of all "
-"tracks. All active tracks become inactive, all inactive tracks will become "
-"active. Default Shortcut: :kbd:`Shift+A`"
+msgid "**Toggle All Tracks Active**: Toggles the active/inactive status of all tracks. All active tracks become inactive, all inactive tracks will become active. Default Shortcut: :kbd:`Shift+A`"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:613
-msgid ""
-"**Switch All Tracks Active**: Sets all track to active. Default "
-"shortcut: :kbd:`Alt+Shift+A`"
+msgid "**Switch All Tracks Active**: Sets all track to active. Default shortcut: :kbd:`Alt+Shift+A`"
 msgstr ""
 
 #. +> trunk5
@@ -1208,9 +1005,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:621
-msgid ""
-"The sub-menu for inserting and deleting tracks can also be displayed by "
-"right-clicking anywhere in the track title."
+msgid "The sub-menu for inserting and deleting tracks can also be displayed by right-clicking anywhere in the track title."
 msgstr ""
 
 #. +> trunk5
@@ -1220,9 +1015,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:629
-msgid ""
-"This function opens a flyout to switch the Subtitle Editor on or off and to "
-"offer additional options for dealing with subtitles."
+msgid "This function opens a flyout to switch the Subtitle Editor on or off and to offer additional options for dealing with subtitles."
 msgstr ""
 
 #. +> trunk5
@@ -1232,8 +1025,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:639
-msgid ""
-"Please refer to the :ref:`effects-subtitles` section of this documentation."
+msgid "Please refer to the :ref:`effects-subtitles` section of this documentation."
 msgstr ""
 
 #. +> trunk5
@@ -1254,9 +1046,8 @@ msgstr ""
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:658
 msgid ""
-"**Start Preview Render**: Starts the rendering process for all defined "
-"preview render zones where a change took place (e.g. cut, effect added, "
-"deleted or changed). Default shortcut :kbd:`Shift+Return`"
+"**Start Preview Render**: Starts the rendering process for all defined preview render zones where a change took place (e.g. cut, effect added, deleted or changed). Default shortcut "
+":kbd:`Shift+Return`"
 msgstr ""
 
 #. +> trunk5
@@ -1266,23 +1057,17 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:662
-msgid ""
-"**Add Preview Zone**: Adds the currently defined Timeline Zone as a preview "
-"render zone"
+msgid "**Add Preview Zone**: Adds the currently defined Timeline Zone as a preview render zone"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:664
-msgid ""
-"**Remove Preview Zone**: Removes the currently defined Timeline Zone from "
-"the preview zones"
+msgid "**Remove Preview Zone**: Removes the currently defined Timeline Zone from the preview zones"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:666
-msgid ""
-"**Remove All Preview Zones**: Removes all preview render zones. A preview "
-"render can only be started if at least one preview zone is defined."
+msgid "**Remove All Preview Zones**: Removes all preview render zones. A preview render can only be started if at least one preview zone is defined."
 msgstr ""
 
 #. +> trunk5
@@ -1292,9 +1077,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:674
-msgid ""
-"Switches Timeline Effects on or off. Click on the :guilabel:`Master` button "
-"in the Timeline toolbar to see the master effect stack."
+msgid "Switches Timeline Effects on or off. Click on the :guilabel:`Master` button in the Timeline toolbar to see the master effect stack."
 msgstr ""
 
 #. +> trunk5
@@ -1304,10 +1087,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:682
-msgid ""
-"Switches on or off the display of video thumbnails for the clips in the "
-"Timeline. Use the track right-click menu item :guilabel:`Thumbnails` to "
-"select which thumbnails will be displayed."
+msgid "Switches on or off the display of video thumbnails for the clips in the Timeline. Use the track right-click menu item :guilabel:`Thumbnails` to select which thumbnails will be displayed."
 msgstr ""
 
 #. +> trunk5
@@ -1327,9 +1107,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:698
-msgid ""
-"Switches on or off the display of the comment of Markers and Timeline "
-"Markers."
+msgid "Switches on or off the display of the comment of Markers and Timeline Markers."
 msgstr ""
 
 #. +> trunk5
@@ -1340,9 +1118,8 @@ msgstr ""
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:706
 msgid ""
-"Switches on or off the snap function. With Snap turned on moving items along "
-"the Timeline will make them snap to other items including Markers and "
-"Timeline Markers even across different tracks. Default shortcut: :kbd:`Alt+M`"
+"Switches on or off the snap function. With Snap turned on moving items along the Timeline will make them snap to other items including Markers and Timeline Markers even across different tracks. "
+"Default shortcut: :kbd:`Alt+M`"
 msgstr ""
 
 #. +> trunk5
@@ -1352,10 +1129,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:714
-msgid ""
-"Increases the zoom level of the Timeline. Default shortcut: :kbd:`Ctrl++`, "
-"or :kbd:`Ctrl+MW`\\ [3]_ while the mouse is hovering anywhere over the "
-"Timeline."
+msgid "Increases the zoom level of the Timeline. Default shortcut: :kbd:`Ctrl++`, or :kbd:`Ctrl+MW`\\ [3]_ while the mouse is hovering anywhere over the Timeline."
 msgstr ""
 
 #. +> trunk5
@@ -1365,10 +1139,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:722
-msgid ""
-"Decreases the zoom level of the Timeline. Default shortcut: :kbd:`Ctrl+-`, "
-"or :kbd:`Ctrl+MW`\\ [3]_ while the mouse is hovering anywhere over the "
-"Timeline."
+msgid "Decreases the zoom level of the Timeline. Default shortcut: :kbd:`Ctrl+-`, or :kbd:`Ctrl+MW`\\ [3]_ while the mouse is hovering anywhere over the Timeline."
 msgstr ""
 
 #. +> trunk5
@@ -1378,9 +1149,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_interface/menu/sequence_menu.rst:730
-msgid ""
-"Adjusts the zoom level of the Timeline to fit the entire project into the "
-"visible Timeline window."
+msgid "Adjusts the zoom level of the Timeline to fit the entire project into the visible Timeline window."
 msgstr ""
 
 #. +> trunk5
@@ -1399,13 +1168,11 @@ msgid "MW = Mouse wheel"
 msgstr ""
 
 #. +> trunk5
-#: ../../user_interface/menu/sequence_menu.rst:-1
+#: ../../user_interface/menu/sequence_menu.rst:-1:
 msgid "Editing in Kdenlive video editor - Sequence menu"
 msgstr ""
 
 #. +> trunk5
-#: ../../user_interface/menu/sequence_menu.rst:-1
-msgid ""
-"KDE, Kdenlive, timeline, menu, editing, sequence, documentation, user "
-"manual, video editor, open source, free, learn, easy"
+#: ../../user_interface/menu/sequence_menu.rst:-1:
+msgid "KDE, Kdenlive, timeline, menu, editing, sequence, documentation, user manual, video editor, open source, free, learn, easy"
 msgstr ""
