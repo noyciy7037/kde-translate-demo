@@ -1,18 +1,18 @@
+# POT_PART_NORMAL only
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the calligraplan package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: calligraplan\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-10-24 23:01+0200\n"
-"PO-Revision-Date: 2021-02-06 14:51-0800\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6
 #: AboutData.h:21
@@ -100,8 +100,7 @@ msgstr ""
 #. +> trunk6
 #: config/portfoliosettings.kcfg:18
 #, kde-format
-msgid ""
-"The context help documentation must have been translated to the language"
+msgid "The context help documentation must have been translated to the language"
 msgstr ""
 
 #. i18n: ectx: label, entry (AutoSave), group (Interface)
@@ -154,15 +153,13 @@ msgid "Url"
 msgstr ""
 
 #. +> trunk6
-#: DocumentsSaveDialog.cpp:57 DocumentsSaveDialog.cpp:63 PortfolioModel.cpp:103
-#: PortfolioModel.cpp:114
+#: DocumentsSaveDialog.cpp:57 DocumentsSaveDialog.cpp:63 PortfolioModel.cpp:103 PortfolioModel.cpp:114
 #, kde-format
 msgid "Yes"
 msgstr ""
 
 #. +> trunk6
-#: DocumentsSaveDialog.cpp:57 DocumentsSaveDialog.cpp:63 PortfolioModel.cpp:103
-#: PortfolioModel.cpp:114
+#: DocumentsSaveDialog.cpp:57 DocumentsSaveDialog.cpp:63 PortfolioModel.cpp:103 PortfolioModel.cpp:114
 #, kde-format
 msgid "No"
 msgstr ""
@@ -199,10 +196,8 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
 msgid ""
-"<title>Gantt Summary</title><para>Shows a gantt chart of all projects in "
-"your portfolio.</para><para>A gantt view for a project can be shown by "
-"selecting <interface>Context Menu->Open Project</interface>.<nl/><link "
-"url='%1'>More...</link></para>"
+"<title>Gantt Summary</title><para>Shows a gantt chart of all projects in your portfolio.</para><para>A gantt view for a project can be shown by selecting <interface>Context Menu->Open "
+"Project</interface>.<nl/><link url='%1'>More...</link></para>"
 msgstr ""
 
 #. +> trunk6
@@ -251,8 +246,7 @@ msgid "The project already exists.<nl/>Project: %1<nl/>Document: %2"
 msgstr ""
 
 #. +> trunk6
-#: MainDocument.cpp:166 PortfolioView.cpp:257 PortfolioView.cpp:262
-#: PortfolioView.cpp:321 PortfolioView.cpp:325
+#: MainDocument.cpp:166 PortfolioView.cpp:257 PortfolioView.cpp:262 PortfolioView.cpp:321 PortfolioView.cpp:325
 #, kde-format
 msgctxt "@title:window"
 msgid "Could not add project"
@@ -262,9 +256,7 @@ msgstr ""
 #: MainWindow.cpp:149
 #, kde-kuit-format
 msgctxt "@info"
-msgid ""
-"<p>The external project file <filename>%1</filename> has been modified.</"
-"p><p>Do you want to save it?</p>"
+msgid "<p>The external project file <filename>%1</filename> has been modified.</p><p>Do you want to save it?</p>"
 msgstr ""
 
 #. +> trunk6
@@ -359,11 +351,8 @@ msgstr ""
 #. i18n: ectx: Menu (view)
 #. i18n: ectx: Menu (gantt_context_menu)
 #. +> trunk6
-#: Portfolio_GanttViewUi.rc:5 Portfolio_GanttViewUi.rc:26
-#: Portfolio_PerformanceViewUi.rc:5 Portfolio_PortfolioViewUi.rc:9
-#: Portfolio_ProgressViewUi.rc:5 Portfolio_ResourceUsageViewUi.rc:5
-#: Portfolio_SchedulingViewUi.rc:8 Portfolio_SummaryViewUi.rc:5
-#: Portfolio_ViewUi.rc:35
+#: Portfolio_GanttViewUi.rc:5 Portfolio_GanttViewUi.rc:26 Portfolio_PerformanceViewUi.rc:5 Portfolio_PortfolioViewUi.rc:9 Portfolio_ProgressViewUi.rc:5 Portfolio_ResourceUsageViewUi.rc:5
+#: Portfolio_SchedulingViewUi.rc:8 Portfolio_SummaryViewUi.rc:5 Portfolio_ViewUi.rc:35
 #, kde-format
 msgid "&View"
 msgstr ""
@@ -376,9 +365,7 @@ msgstr ""
 #. i18n: ectx: ToolBar (summaryviewToolBar)
 #. i18n: ectx: ToolBar (ganttsummaryviewToolBar)
 #. +> trunk6
-#: Portfolio_GanttViewUi.rc:14 Portfolio_PerformanceViewUi.rc:14
-#: Portfolio_PortfolioViewUi.rc:18 Portfolio_ProgressViewUi.rc:14
-#: Portfolio_ResourceUsageViewUi.rc:14 Portfolio_SchedulingViewUi.rc:17
+#: Portfolio_GanttViewUi.rc:14 Portfolio_PerformanceViewUi.rc:14 Portfolio_PortfolioViewUi.rc:18 Portfolio_ProgressViewUi.rc:14 Portfolio_ResourceUsageViewUi.rc:14 Portfolio_SchedulingViewUi.rc:17
 #: Portfolio_SummaryViewUi.rc:13
 #, kde-format
 msgid "Tools"
@@ -386,8 +373,7 @@ msgstr ""
 
 #. i18n: ectx: Menu (edit)
 #. +> trunk6
-#: Portfolio_PortfolioViewUi.rc:5 Portfolio_SchedulingViewUi.rc:5
-#: Portfolio_ViewUi.rc:26
+#: Portfolio_PortfolioViewUi.rc:5 Portfolio_SchedulingViewUi.rc:5 Portfolio_ViewUi.rc:26
 #, kde-format
 msgid "&Edit"
 msgstr ""
@@ -431,9 +417,7 @@ msgstr ""
 #: PortfolioModel.cpp:79
 #, kde-format
 msgctxt "@info:tooltip"
-msgid ""
-"Defines if the project is stored embedded in the portfolio file or in the "
-"external file"
+msgid "Defines if the project is stored embedded in the portfolio file or in the external file"
 msgstr ""
 
 #. +> trunk6
@@ -480,17 +464,11 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
 msgid ""
-"<title>The Portfolio Content Editor</title><para>This editor enables you to "
-"configure the content of your portfolio.</para><para>Select <interface>Edit|"
-"Add</interface> or press <interface>Add...</interface> to add projects to "
-"your portfolio.<nl/>Select <interface>Edit|Remove</interface> or press "
-"<interface>Remove</interface> to remove selected projects.</para><para>Add "
-"the projects you are managing and set <emphasis>Portfolio</emphasis> = "
-"<emphasis>Yes</emphasis>.</para><para><note>If you have resources that are "
-"shared between multiple projects and you want to re-schedule or inspect "
-"resource usage, you need to add all relevant projects and then set "
-"<emphasis>Portfolio</emphasis> = <emphasis>No</emphasis> for these projects."
-"</note></para><para><link url='%1'>More...</link></para>"
+"<title>The Portfolio Content Editor</title><para>This editor enables you to configure the content of your portfolio.</para><para>Select <interface>Edit|Add</interface> or press "
+"<interface>Add...</interface> to add projects to your portfolio.<nl/>Select <interface>Edit|Remove</interface> or press <interface>Remove</interface> to remove selected projects.</para><para>Add the"
+" projects you are managing and set <emphasis>Portfolio</emphasis> = <emphasis>Yes</emphasis>.</para><para><note>If you have resources that are shared between multiple projects and you want to re-"
+"schedule or inspect resource usage, you need to add all relevant projects and then set <emphasis>Portfolio</emphasis> = <emphasis>No</emphasis> for these projects.</note></para><para><link "
+"url='%1'>More...</link></para>"
 msgstr ""
 
 #. +> trunk6
@@ -498,11 +476,8 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
-"<subtitle>Context Help</subtitle><para>Many functions have help and hints "
-"that can be displayed with <emphasis>What's this</emphasis>.</"
-"para><para>Activate it by selecting the menu item <interface>Help|What's "
-"this</interface> or by pressing <shortcut>Shift+F1</shortcut>.</"
-"para><para>Try it on this text!</para>"
+"<subtitle>Context Help</subtitle><para>Many functions have help and hints that can be displayed with <emphasis>What's this</emphasis>.</para><para>Activate it by selecting the menu item "
+"<interface>Help|What's this</interface> or by pressing <shortcut>Shift+F1</shortcut>.</para><para>Try it on this text!</para>"
 msgstr ""
 
 #. +> trunk6
@@ -517,13 +492,9 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
 msgid ""
-"<title>Context help</title><para>Help is available many places using "
-"<emphasis>What's This</emphasis>.<nl/>It is activated using the menu entry "
-"<interface>Help->What's this?</interface> or the keyboard shortcut "
-"<shortcut>Shift+F1</shortcut>.</para><para>In dialogs it is available via "
-"the <interface>?</interface> in the dialog title bar.</para><para>If you see "
-"<link url='%1'>More...</link> in the text, pressing it will display more "
-"information from the documentation.</para>"
+"<title>Context help</title><para>Help is available many places using <emphasis>What's This</emphasis>.<nl/>It is activated using the menu entry <interface>Help->What's this?</interface> or the "
+"keyboard shortcut <shortcut>Shift+F1</shortcut>.</para><para>In dialogs it is available via the <interface>?</interface> in the dialog title bar.</para><para>If you see <link url='%1'>More...</link>"
+" in the text, pressing it will display more information from the documentation.</para>"
 msgstr ""
 
 #. +> trunk6
@@ -562,9 +533,7 @@ msgstr ""
 #: PortfolioView.cpp:324
 #, kde-kuit-format
 msgctxt "@info"
-msgid ""
-"The project already exists, the project will not be added.<nl/>Project: "
-"%1<nl/> Document: %2"
+msgid "The project already exists, the project will not be added.<nl/>Project: %1<nl/> Document: %2"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, introduction)
@@ -586,10 +555,7 @@ msgstr ""
 #. +> trunk6
 #: PortfolioView.ui:246
 #, kde-format
-msgid ""
-"<html><head/><body><p><a href=\"https://calligra.org/plan\"><span style=\" "
-"text-decoration: underline; color:#2980b9;\">Home</span></a></p></body></"
-"html>"
+msgid "<html><head/><body><p><a href=\"https://calligra.org/plan\"><span style=\" text-decoration: underline; color:#2980b9;\">Home</span></a></p></body></html>"
 msgstr ""
 
 #. i18n: ectx: property (statusTip), widget (QLabel, userDocLabel)
@@ -605,9 +571,7 @@ msgstr ""
 #: PortfolioView.ui:262
 #, kde-format
 msgctxt "@action:button"
-msgid ""
-"<a href=\"https://docs.kde.org/index.php?"
-"application=calligraplanportfolio\">User documentation</a>"
+msgid "<a href=\"https://docs.kde.org/index.php?application=calligraplanportfolio\">User documentation</a>"
 msgstr ""
 
 #. i18n: ectx: property (statusTip), widget (QLabel, forumLabel)
@@ -623,8 +587,7 @@ msgstr ""
 #: PortfolioView.ui:281
 #, kde-format
 msgctxt "@action:button"
-msgid ""
-"<a href=\"https://forum.kde.org/viewforum.php?f=203\">Community forum</a>"
+msgid "<a href=\"https://forum.kde.org/viewforum.php?f=203\">Community forum</a>"
 msgstr ""
 
 #. i18n: ectx: property (statusTip), widget (QLabel, commuityLabel)
@@ -648,16 +611,10 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
 msgid ""
-"<title>Progress</title><para>This view is used to inspect and edit task "
-"progress information for the selected project.<nl/>The tasks are divided "
-"into groups dependent on the task status:<list><item><emphasis>Not Started:</"
-"emphasis> Tasks that should have been started by now.</"
-"item><item><emphasis>Running:</emphasis> Tasks that has been started, but "
-"not yet finished.</item><item><emphasis>Finished:</emphasis> Tasks that "
-"where finished in this period.</item><item><emphasis>Next Period:</emphasis> "
-"Tasks that is scheduled to be started in the next period.</item></list>The "
-"time period is configurable.</para><para>This view supports configuration "
-"and printing using the context menu.<nl/><link url='%1'>More...</link></para>"
+"<title>Progress</title><para>This view is used to inspect and edit task progress information for the selected project.<nl/>The tasks are divided into groups dependent on the task "
+"status:<list><item><emphasis>Not Started:</emphasis> Tasks that should have been started by now.</item><item><emphasis>Running:</emphasis> Tasks that has been started, but not yet "
+"finished.</item><item><emphasis>Finished:</emphasis> Tasks that where finished in this period.</item><item><emphasis>Next Period:</emphasis> Tasks that is scheduled to be started in the next "
+"period.</item></list>The time period is configurable.</para><para>This view supports configuration and printing using the context menu.<nl/><link url='%1'>More...</link></para>"
 msgstr ""
 
 #. +> trunk6
@@ -707,8 +664,7 @@ msgid "Project description"
 msgstr ""
 
 #. +> trunk6
-#: ProjectsModel.cpp:187 ScheduleManagerInfoDialog.cpp:36
-#: SchedulingModel.cpp:29
+#: ProjectsModel.cpp:187 ScheduleManagerInfoDialog.cpp:36 SchedulingModel.cpp:29
 #, kde-format
 msgid "Schedule"
 msgstr ""
@@ -724,20 +680,14 @@ msgstr ""
 #: ProjectsModel.cpp:231
 #, kde-kuit-format
 msgctxt "@info:tooltip"
-msgid ""
-"<title>Project: %1</title><para>Schedule: Not scheduled</"
-"para><para><list><item>Target start:\t%2</item><item>Target finish:\t%3</"
-"item></list></para>"
+msgid "<title>Project: %1</title><para>Schedule: Not scheduled</para><para><list><item>Target start:\t%2</item><item>Target finish:\t%3</item></list></para>"
 msgstr ""
 
 #. +> trunk6
 #: ProjectsModel.cpp:245
 #, kde-kuit-format
 msgctxt "@info:tooltip"
-msgid ""
-"<title>Project: %1</title><para>Schedule: %4 Not scheduled</"
-"para><para><list><item>Target start:\t%2</item><item>Target finish:\t%3</"
-"item></list></para>"
+msgid "<title>Project: %1</title><para>Schedule: %4 Not scheduled</para><para><list><item>Target start:\t%2</item><item>Target finish:\t%3</item></list></para>"
 msgstr ""
 
 #. +> trunk6
@@ -745,9 +695,8 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info:tooltip"
 msgid ""
-"<title>Project: %1</title><para>Schedule: %6</para><para><list><item>Planned "
-"start:\t%2</item><item>Planned finish:\t%3</item><item>Target start:\t%4</"
-"item><item>Target finish:\t%5</item></list></para>"
+"<title>Project: %1</title><para>Schedule: %6</para><para><list><item>Planned start:\t%2</item><item>Planned finish:\t%3</item><item>Target start:\t%4</item><item>Target "
+"finish:\t%5</item></list></para>"
 msgstr ""
 
 #. +> trunk6
@@ -822,10 +771,7 @@ msgstr ""
 #: ResourceUsageView.cpp:89
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
-msgid ""
-"<title>Resource Usage</title><para>This view shows the resources task "
-"assignments for each day.</para><para><nl/><link url='%1'>More...</link></"
-"para>"
+msgid "<title>Resource Usage</title><para>This view shows the resources task assignments for each day.</para><para><nl/><link url='%1'>More...</link></para>"
 msgstr ""
 
 #. +> trunk6
@@ -987,9 +933,7 @@ msgstr ""
 #: SchedulingModel.cpp:91 SchedulingModel.cpp:107
 #, kde-format
 msgctxt "@into:tooltip"
-msgid ""
-"Scheduling not possible. Project target end time must be later than "
-"calculation time"
+msgid "Scheduling not possible. Project target end time must be later than calculation time"
 msgstr ""
 
 #. +> trunk6
@@ -1032,9 +976,7 @@ msgstr ""
 #: SchedulingModel.cpp:235
 #, kde-format
 msgctxt "@info:tooltip"
-msgid ""
-"Scheduling not possible. Project target end time must be later than "
-"calculation time"
+msgid "Scheduling not possible. Project target end time must be later than calculation time"
 msgstr ""
 
 #. +> trunk6
@@ -1070,17 +1012,10 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
 msgid ""
-"<title>Scheduling</title><para>The Scheduling view lets you schedule the "
-"projects in your portfolio. The projects are scheduled according to their "
-"priority.</para><para>Set <emphasis>Control</emphasis> to "
-"<emphasis>Schedule</emphasis> for the project or projects you want to "
-"schedule.<nl/>Set <emphasis>Control</emphasis> to <emphasis>Include</"
-"emphasis> to have resource assignments included in resource leveling.<nl/"
-">Set <emphasis>Control</emphasis> to <emphasis>Exclude</emphasis> if you "
-"want to exclude the project.</para><para><note>If your projects share "
-"resources with projects that are not part of your portfolio, these projects "
-"needs to be included for resource leveling to work properly.</note></"
-"para><para><link url='%1'>More...</link></para>"
+"<title>Scheduling</title><para>The Scheduling view lets you schedule the projects in your portfolio. The projects are scheduled according to their priority.</para><para>Set "
+"<emphasis>Control</emphasis> to <emphasis>Schedule</emphasis> for the project or projects you want to schedule.<nl/>Set <emphasis>Control</emphasis> to <emphasis>Include</emphasis> to have resource "
+"assignments included in resource leveling.<nl/>Set <emphasis>Control</emphasis> to <emphasis>Exclude</emphasis> if you want to exclude the project.</para><para><note>If your projects share resources"
+" with projects that are not part of your portfolio, these projects needs to be included for resource leveling to work properly.</note></para><para><link url='%1'>More...</link></para>"
 msgstr ""
 
 #. +> trunk6
@@ -1112,9 +1047,7 @@ msgstr ""
 #. +> trunk6
 #: SchedulingView.cpp:446
 #, kde-format
-msgid ""
-"Scheduling not possible. Project target end time must be later than "
-"calculation time."
+msgid "Scheduling not possible. Project target end time must be later than calculation time."
 msgstr ""
 
 #. +> trunk6
@@ -1210,9 +1143,7 @@ msgstr ""
 #. +> trunk6
 #: SummaryModel.cpp:88
 #, kde-format
-msgctxt ""
-"@info:tooltip (Budgeted Cost of Work Scheduled/Budgeted Cost of Work "
-"Performed"
+msgctxt "@info:tooltip (Budgeted Cost of Work Scheduled/Budgeted Cost of Work Performed"
 msgid "Schedule Performance Index (BCWS/BCWP)"
 msgstr ""
 
@@ -1221,10 +1152,8 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
 msgid ""
-"<title>Projects Summary View</title><para>This view summarizes performance "
-"data for the projects in your portfolio.</para><para>Performance indexes are "
-"shown for both cost based and effort based calculations.</para><para><nl/"
-"><link url='%1'>More...</link></para>"
+"<title>Projects Summary View</title><para>This view summarizes performance data for the projects in your portfolio.</para><para>Performance indexes are shown for both cost based and effort based "
+"calculations.</para><para><nl/><link url='%1'>More...</link></para>"
 msgstr ""
 
 #. +> trunk6

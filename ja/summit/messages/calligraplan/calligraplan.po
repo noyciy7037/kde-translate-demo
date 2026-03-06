@@ -1,24 +1,17 @@
-# Translation of kplato into Japanese.
-# This file is distributed under the same license as the koffice package.
-# Taiki Komoda <kom@kde.gr.jp>, 2002.
-# Yukiko Bando <ybando@k6.dion.ne.jp>, 2008, 2009.
-# Fumiaki Okushi <okushi@kde.gr.jp>, 2006, 2012.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the calligraplan package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: kplato\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-10-25 10:23+0200\n"
-"PO-Revision-Date: 2012-06-09 22:38-0700\n"
-"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: calligraplan\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.2\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. i18n: ectx: Menu (file)
 #. +> trunk6
@@ -73,7 +66,6 @@ msgstr "ヘルプ(&H)"
 #. +> trunk6
 #: calligraplan.rc:66
 #, fuzzy, kde-format
-#| msgid "&File"
 msgid "File"
 msgstr "ファイル(&F)"
 
@@ -202,9 +194,7 @@ msgstr ""
 #. i18n: ectx: label, entry (SaturdayStart), group (WorkingWeek)
 #. i18n: ectx: label, entry (SundayStart), group (WorkingWeek)
 #. +> trunk6
-#: calligraplansettings.kcfg:72 calligraplansettings.kcfg:85
-#: calligraplansettings.kcfg:98 calligraplansettings.kcfg:111
-#: calligraplansettings.kcfg:124 calligraplansettings.kcfg:137
+#: calligraplansettings.kcfg:72 calligraplansettings.kcfg:85 calligraplansettings.kcfg:98 calligraplansettings.kcfg:111 calligraplansettings.kcfg:124 calligraplansettings.kcfg:137
 #: calligraplansettings.kcfg:150
 #, kde-format
 msgid "Start of working day"
@@ -218,9 +208,7 @@ msgstr ""
 #. i18n: ectx: label, entry (SaturdayEnd), group (WorkingWeek)
 #. i18n: ectx: label, entry (SundayEnd), group (WorkingWeek)
 #. +> trunk6
-#: calligraplansettings.kcfg:76 calligraplansettings.kcfg:89
-#: calligraplansettings.kcfg:102 calligraplansettings.kcfg:115
-#: calligraplansettings.kcfg:128 calligraplansettings.kcfg:141
+#: calligraplansettings.kcfg:76 calligraplansettings.kcfg:89 calligraplansettings.kcfg:102 calligraplansettings.kcfg:115 calligraplansettings.kcfg:128 calligraplansettings.kcfg:141
 #: calligraplansettings.kcfg:154
 #, kde-format
 msgid "End of working day"
@@ -278,7 +266,6 @@ msgstr ""
 #. +> trunk6
 #: calligraplansettings.kcfg:161
 #, fuzzy, kde-format
-#| msgid "Modify project name"
 msgid "Name of project manager"
 msgstr "プロジェクト名を変更"
 
@@ -286,8 +273,6 @@ msgstr "プロジェクト名を変更"
 #. +> trunk6
 #: calligraplansettings.kcfg:164
 #, fuzzy, kde-format
-#| msgid "Delete resource"
-#| msgid_plural "Delete resources"
 msgid "Use shared resources"
 msgstr "リソースを削除"
 
@@ -302,7 +287,6 @@ msgstr ""
 #. +> trunk6
 #: calligraplansettings.kcfg:171
 #, fuzzy, kde-format
-#| msgid "Task description"
 msgid "Project description"
 msgstr "タスクの概要"
 
@@ -366,7 +350,6 @@ msgstr ""
 #. +> trunk6
 #: calligraplansettings.kcfg:239
 #, fuzzy, kde-format
-#| msgid "Estimate type:"
 msgid "Estimate"
 msgstr "見積もりタイプ:"
 
@@ -409,7 +392,6 @@ msgstr ""
 #. +> trunk6
 #: calligraplansettings.kcfg:269 config/kptcolorsconfigpanel.cpp:20
 #, fuzzy, kde-format
-#| msgid "Lines"
 msgid "Linear"
 msgstr "行数"
 
@@ -592,8 +574,7 @@ msgstr ""
 #. +> trunk6
 #: calligraplansettings.kcfg:374
 #, kde-format
-msgid ""
-"The context help documentation must have been translated to the language"
+msgid "The context help documentation must have been translated to the language"
 msgstr ""
 
 #. i18n: ectx: label, entry (UseLocalTaskModules), group (Task Modules)
@@ -641,7 +622,6 @@ msgstr ""
 #. +> trunk6
 #: config/ConfigDialog.cpp:36
 #, fuzzy, kde-format
-#| msgid "Task Defaults"
 msgid "Project Defaults"
 msgstr "タスクのデフォルト設定"
 
@@ -666,7 +646,6 @@ msgstr "タスクカラー"
 #. +> trunk6
 #: config/ConfigDialog.cpp:41
 #, fuzzy, kde-format
-#| msgid "Task Colors"
 msgid "Task Modules"
 msgstr "タスクカラー"
 
@@ -679,21 +658,18 @@ msgstr "ワークパッケージ"
 #. +> trunk6
 #: config/ConfigDialog.cpp:48
 #, fuzzy, kde-format
-#| msgid "Create Report..."
 msgid "Project Templates"
 msgstr "レポートを作成..."
 
 #. +> trunk6
 #: config/ConfigDialog.cpp:54
 #, fuzzy, kde-format
-#| msgid "Create Report..."
 msgid "Report Templates"
 msgstr "レポートを作成..."
 
 #. +> trunk6
 #: config/ConfigDialog.cpp:60
 #, fuzzy, kde-format
-#| msgid "Documents"
 msgctxt "@title:tab Document settings page"
 msgid "Document"
 msgstr "文書"
@@ -708,8 +684,6 @@ msgstr ""
 #. +> trunk6
 #: config/ConfigProjectPanel.cpp:39
 #, fuzzy, kde-kuit-format
-#| msgid "Delete resource"
-#| msgid_plural "Delete resources"
 msgctxt "@info:tooltip"
 msgid "Check to enable shared resources"
 msgstr "リソースを削除"
@@ -717,8 +691,6 @@ msgstr "リソースを削除"
 #. +> trunk6
 #: config/ConfigProjectPanel.cpp:42
 #, fuzzy, kde-kuit-format
-#| msgid "Delete resource"
-#| msgid_plural "Delete resources"
 msgctxt "@info:tooltip"
 msgid "The file where shared resources are defined"
 msgstr "リソースを削除"
@@ -734,7 +706,6 @@ msgstr "全般"
 #. +> trunk6
 #: config/ConfigProjectPanel.ui:44
 #, fuzzy, kde-format
-#| msgid "Choose..."
 msgid "Browse..."
 msgstr "選択..."
 
@@ -742,7 +713,6 @@ msgstr "選択..."
 #. +> trunk6
 #: config/ConfigProjectPanel.ui:57
 #, fuzzy, kde-format
-#| msgid "Add resource"
 msgid "Shared resource file:"
 msgstr "リソースを追加"
 
@@ -750,8 +720,6 @@ msgstr "リソースを追加"
 #. +> trunk6
 #: config/ConfigProjectPanel.ui:67
 #, fuzzy, kde-format
-#| msgctxt "Project manager"
-#| msgid "Manager:"
 msgid "&Manager:"
 msgstr "マネージャ:"
 
@@ -759,8 +727,6 @@ msgstr "マネージャ:"
 #. +> trunk6
 #: config/ConfigProjectPanel.ui:90
 #, fuzzy, kde-format
-#| msgid "Delete resource"
-#| msgid_plural "Delete resources"
 msgid "Use shared resources:"
 msgstr "リソースを削除"
 
@@ -775,15 +741,13 @@ msgstr "概要"
 #. +> trunk6
 #: config/ConfigProjectTemplatesPanel.cpp:48
 #, fuzzy, kde-format
-#| msgid "Create Report..."
 msgid "Project Templates Path"
 msgstr "レポートを作成..."
 
 #. i18n: ectx: property (text), widget (QToolButton, insertModule)
 #. i18n: ectx: property (text), widget (QToolButton, insertTemplatePath)
 #. +> trunk6
-#: config/ConfigProjectTemplatesPanel.ui:17
-#: config/ConfigReportTemplatesPanel.ui:17 config/ConfigTaskModulesPanel.ui:37
+#: config/ConfigProjectTemplatesPanel.ui:17 config/ConfigReportTemplatesPanel.ui:17 config/ConfigTaskModulesPanel.ui:37
 #, kde-format
 msgid "Insert"
 msgstr "挿入"
@@ -791,20 +755,14 @@ msgstr "挿入"
 #. i18n: ectx: property (text), widget (QToolButton, removeModule)
 #. i18n: ectx: property (text), widget (QToolButton, removeTemplatePath)
 #. +> trunk6
-#: config/ConfigProjectTemplatesPanel.ui:41
-#: config/ConfigReportTemplatesPanel.ui:41 config/ConfigTaskModulesPanel.ui:48
-#: SharedResourcesDialog.cpp:248
+#: config/ConfigProjectTemplatesPanel.ui:41 config/ConfigReportTemplatesPanel.ui:41 config/ConfigTaskModulesPanel.ui:48 SharedResourcesDialog.cpp:248
 #, fuzzy, kde-format
-#| msgctxt "@action:inmenu remove view"
-#| msgid "Remove"
 msgid "Remove"
 msgstr "削除"
 
 #. +> trunk6
-#: config/ConfigReportTemplatesPanel.cpp:48
-#: config/ConfigTaskModulesPanel.cpp:48
+#: config/ConfigReportTemplatesPanel.cpp:48 config/ConfigTaskModulesPanel.cpp:48
 #, fuzzy, kde-format
-#| msgid "Task Colors"
 msgid "Task Modules Path"
 msgstr "タスクカラー"
 
@@ -818,8 +776,6 @@ msgstr ""
 #. +> trunk6
 #: config/ConfigWorkVacationPanel.cpp:38
 #, fuzzy, kde-format
-#| msgctxt "@label:chooser"
-#| msgid "Default:"
 msgid "Default"
 msgstr "デフォルト:"
 
@@ -836,19 +792,11 @@ msgstr ""
 #: config/ConfigWorkVacationPanel.ui:28
 #, kde-format
 msgid ""
-"<html><head/><body><p>Values used for generating default calendars for "
-"working weeks and holidays.</p><p>The <span style=\" font-style:italic;"
-"\">Week</span> calendar uses the values defined in <span style=\" font-"
-"style:italic;\">Working week</span>.</p><p>The <span style=\" font-"
-"style:italic;\">Week</span> calendar can be <span style=\" font-style:italic;"
-"\">Always</span> generated or only generated <span style=\" font-"
-"style:italic;\">If none exists</span>. The latter choice is the most common "
-"as you often have calendars defined as part of templates or shared resources."
-"</p><p><span style=\" font-style:italic;\">Holidays</span> can be generated "
-"for your region (default) or any region you choose. The holidays can be "
-"added into the week calendar, as sub-calendar to the week calendar or as a "
-"separate calendar.</p><p>If a week calendar is not generated, the holidays "
-"are put into a separate calendar.</p></body></html>"
+"<html><head/><body><p>Values used for generating default calendars for working weeks and holidays.</p><p>The <span style=\" font-style:italic;\">Week</span> calendar uses the values defined in <span"
+" style=\" font-style:italic;\">Working week</span>.</p><p>The <span style=\" font-style:italic;\">Week</span> calendar can be <span style=\" font-style:italic;\">Always</span> generated or only "
+"generated <span style=\" font-style:italic;\">If none exists</span>. The latter choice is the most common as you often have calendars defined as part of templates or shared resources.</p><p><span "
+"style=\" font-style:italic;\">Holidays</span> can be generated for your region (default) or any region you choose. The holidays can be added into the week calendar, as sub-calendar to the week "
+"calendar or as a separate calendar.</p><p>If a week calendar is not generated, the holidays are put into a separate calendar.</p></body></html>"
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
@@ -867,8 +815,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_GenerateHolidays)
 #. +> trunk6
-#: config/ConfigWorkVacationPanel.ui:73 kptmaindocument.cpp:1758
-#: kptmaindocument.cpp:1762
+#: config/ConfigWorkVacationPanel.ui:73 kptmaindocument.cpp:1758 kptmaindocument.cpp:1762
 #, kde-format
 msgid "Holidays"
 msgstr ""
@@ -908,9 +855,7 @@ msgstr ""
 #. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_Saturday)
 #. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_Sunday)
 #. +> trunk6
-#: config/ConfigWorkVacationPanel.ui:202 config/ConfigWorkVacationPanel.ui:212
-#: config/ConfigWorkVacationPanel.ui:222 config/ConfigWorkVacationPanel.ui:232
-#: config/ConfigWorkVacationPanel.ui:242
+#: config/ConfigWorkVacationPanel.ui:202 config/ConfigWorkVacationPanel.ui:212 config/ConfigWorkVacationPanel.ui:222 config/ConfigWorkVacationPanel.ui:232 config/ConfigWorkVacationPanel.ui:242
 #, kde-format
 msgid "Tick if working day"
 msgstr ""
@@ -928,10 +873,7 @@ msgstr ""
 #, kde-format
 msgid ""
 "These values are used if your estimate is not in hours.\n"
-"Let us say Hours per day is 8. If you estimate that a task needs 3 days "
-"effort to complete, this is converted to 24 hours when the task is "
-"scheduled. The actual time it will take to complete is of course dependent "
-"on the availability of the person (or persons) that is assigned to the task."
+"Let us say Hours per day is 8. If you estimate that a task needs 3 days effort to complete, this is converted to 24 hours when the task is scheduled. The actual time it will take to complete is of course dependent on the availability of the person (or persons) that is assigned to the task."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel1)
@@ -959,8 +901,7 @@ msgstr ""
 #. +> trunk6
 #: config/ConfigWorkVacationPanel.ui:385
 #, kde-format
-msgid ""
-"These values are used when you estimate the effort needed to complete a task."
+msgid "These values are used when you estimate the effort needed to complete a task."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel4)
@@ -1093,14 +1034,11 @@ msgstr "マイルストーン"
 msgid ""
 "The person responsible for this task.\n"
 "\n"
-"This is not limited to persons available in a resource group but can be "
-"anyone. You can even directly access your address book with the Choose "
-"button."
+"This is not limited to persons available in a resource group but can be anyone. You can even directly access your address book with the Choose button."
 msgstr ""
 "このタスクの担当者。\n"
 "\n"
-"これはリソースグループに登録されている人に限らず、誰を指定してもかまいませ"
-"ん。「選択」ボタンを押すとアドレス帳に直接アクセスできます。"
+"これはリソースグループに登録されている人に限らず、誰を指定してもかまいません。「選択」ボタンを押すとアドレス帳に直接アクセスできます。"
 
 #. i18n: ectx: property (text), widget (QLabel, leaderlabel)
 #. +> trunk6
@@ -1150,7 +1088,6 @@ msgstr "現在の日時"
 #. +> trunk6
 #: config/kptconfigtaskpanelbase.ui:160 config/kptconfigtaskpanelbase.ui:336
 #, fuzzy, kde-format
-#| msgid "Current date and time"
 msgid "Current date, specified time"
 msgstr "現在の日時"
 
@@ -1173,7 +1110,6 @@ msgstr "見積もりタイプ:"
 #. +> trunk6
 #: config/kptconfigtaskpanelbase.ui:208
 #, fuzzy, kde-format
-#| msgid "Constraint start time:"
 msgid "Constraint Start time usage:"
 msgstr "制約開始時刻:"
 
@@ -1189,7 +1125,6 @@ msgstr "%"
 #. +> trunk6
 #: config/kptconfigtaskpanelbase.ui:257
 #, fuzzy, kde-format
-#| msgid "Constraint end time:"
 msgid "Constraint End time usage:"
 msgstr "制約終了時刻:"
 
@@ -1288,8 +1223,6 @@ msgstr "選択..."
 #. +> trunk6
 #: config/kptconfigtaskpanelbase.ui:482
 #, fuzzy, kde-format
-#| msgctxt "@info:tooltip"
-#| msgid "Edit task dependencies"
 msgid "Scheduling constraint:"
 msgstr "タスクの依存関係を編集"
 
@@ -1325,7 +1258,6 @@ msgstr ""
 #. +> trunk6
 #: config/kptworkpackageconfigpanel.ui:17
 #, fuzzy, kde-format
-#| msgid "Retrieve URL:"
 msgid "Retrieve"
 msgstr "URL を取得:"
 
@@ -1340,7 +1272,6 @@ msgstr "ワークパッケージを確認"
 #. +> trunk6
 #: config/kptworkpackageconfigpanel.ui:32
 #, fuzzy, kde-format
-#| msgid "Retrieve URL:"
 msgid "Retrieve:"
 msgstr "URL を取得:"
 
@@ -1397,7 +1328,6 @@ msgstr ""
 #. +> trunk6
 #: CreateReportTemplateDialog.ui:36
 #, fuzzy, kde-format
-#| msgid "Estimate:"
 msgid "Base template:"
 msgstr "見積もり:"
 
@@ -1405,8 +1335,6 @@ msgstr "見積もり:"
 #. +> trunk6
 #: CreateReportTemplateDialog.ui:49
 #, fuzzy, kde-format
-#| msgctxt "@action:inmenu rename view"
-#| msgid "Rename"
 msgid "File name:"
 msgstr "名前変更"
 
@@ -1420,21 +1348,15 @@ msgstr ""
 #. +> trunk6
 #: KPlatoXmlLoader.cpp:56
 #, fuzzy, kde-format
-#| msgid ""
-#| "This document was created with a newer version of KPlato (syntax version: "
-#| "%1)\n"
-#| "Opening it in this version of KPlato will lose some information."
 msgid ""
 "This document has no syntax version.\n"
 "Opening it in Plan may lose information."
 msgstr ""
-"この文書は新しいバージョンの KPlato (構文バージョン: %1) で作成されていま"
-"す。\n"
+"この文書は新しいバージョンの KPlato (構文バージョン: %1) で作成されています。\n"
 "このバージョンで開くと一部の情報が失われます。"
 
 #. +> trunk6
-#: KPlatoXmlLoader.cpp:58 KPlatoXmlLoader.cpp:70 KPlatoXmlLoader.cpp:112
-#: kptmaindocument.cpp:375 kptmaindocument.cpp:699
+#: KPlatoXmlLoader.cpp:58 KPlatoXmlLoader.cpp:70 KPlatoXmlLoader.cpp:112 kptmaindocument.cpp:375 kptmaindocument.cpp:699
 #, kde-format
 msgid "Continue"
 msgstr "続行"
@@ -1449,19 +1371,16 @@ msgstr "ファイルフォーマットエラー"
 #: KPlatoXmlLoader.cpp:67
 #, kde-format
 msgid ""
-"This document was created with a newer version of KPlato than Plan can "
-"load.\n"
+"This document was created with a newer version of KPlato than Plan can load.\n"
 "Syntax version: %1\n"
 "Opening it in this version of Plan may lose some information."
 msgstr ""
-"この文書は Plan が読み込むことのできる KPlato のバージョンより新しいバージョ"
-"ンで作成されています。\n"
+"この文書は Plan が読み込むことのできる KPlato のバージョンより新しいバージョンで作成されています。\n"
 "構文バージョン: %1\n"
 "このバージョンの Plan で開くと一部の情報が失われかねません。"
 
 #. +> trunk6
-#: KPlatoXmlLoader.cpp:70 KPlatoXmlLoader.cpp:112 kptmaindocument.cpp:375
-#: kptmaindocument.cpp:699
+#: KPlatoXmlLoader.cpp:70 KPlatoXmlLoader.cpp:112 kptmaindocument.cpp:375 kptmaindocument.cpp:699
 #, kde-format
 msgid "File-Format Mismatch"
 msgstr "ファイルフォーマット不一致"
@@ -1470,12 +1389,10 @@ msgstr "ファイルフォーマット不一致"
 #: KPlatoXmlLoader.cpp:110
 #, kde-format
 msgid ""
-"This document was created with a newer version of KPlatoWork (syntax "
-"version: %1)\n"
+"This document was created with a newer version of KPlatoWork (syntax version: %1)\n"
 "Opening it in this version of PlanWork will lose some information."
 msgstr ""
-"この文書は新しいバージョンの KPlatoWork (構文バージョン: %1) で作成されていま"
-"す。\n"
+"この文書は新しいバージョンの KPlatoWork (構文バージョン: %1) で作成されています。\n"
 "このバージョンの PlanWork で開くと一部の情報が失われます。"
 
 #. +> trunk6
@@ -1488,14 +1405,12 @@ msgstr "Plan"
 #. +> trunk6
 #: kptaboutdata.h:26
 #, fuzzy, kde-format
-#| msgid "Calligra Plan - KDE Project Planning and Management Tool"
 msgid "Project Planning and Management Tool"
 msgstr "Calligra Plan - KDE プロジェクトのプランニングと管理ツール"
 
 #. +> trunk6
 #: kptaboutdata.h:28
 #, fuzzy, kde-format
-#| msgid "(c) 1998-2012, The Plan Team"
 msgid "Copyright 1998-%1, The Plan Team"
 msgstr "(c) 1998-2012, Plan 開発チーム"
 
@@ -1557,23 +1472,15 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
 msgid ""
-"<title>Network (PERT) Scheduler</title><para>The network scheduler generally "
-"schedules tasks according to their dependencies. When a task is scheduled it "
-"is scheduled in full, booking the allocated resources if available. If "
-"overbooking is not allowed, subsequent tasks that requests the same resource "
-"will be scheduled later in time.</para><para>Tasks with time constraints "
-"will be scheduled first to minimize the problem with resource conflicts</"
-"para><para><note>This scheduler does not handle resource conflicts well.<nl/"
-">You can try a different scheduler if available. You may also change "
-"resource allocations or add dummy dependencies to avoid the conflicts.</"
-"note></para>"
+"<title>Network (PERT) Scheduler</title><para>The network scheduler generally schedules tasks according to their dependencies. When a task is scheduled it is scheduled in full, booking the allocated "
+"resources if available. If overbooking is not allowed, subsequent tasks that requests the same resource will be scheduled later in time.</para><para>Tasks with time constraints will be scheduled "
+"first to minimize the problem with resource conflicts</para><para><note>This scheduler does not handle resource conflicts well.<nl/>You can try a different scheduler if available. You may also "
+"change resource allocations or add dummy dependencies to avoid the conflicts.</note></para>"
 msgstr ""
 
 #. +> trunk6
 #: kptbuiltinschedulerplugin.cpp:251
 #, fuzzy, kde-format
-#| msgctxt "@info:tooltip"
-#| msgid "Edit task dependencies"
 msgid "Scheduling started: %1"
 msgstr "タスクの依存関係を編集"
 
@@ -1586,7 +1493,6 @@ msgstr ""
 #. +> trunk6
 #: kptbuiltinschedulerplugin.cpp:265
 #, fuzzy, kde-format
-#| msgid "Schedule Handler"
 msgid "Scheduling canceled"
 msgstr "スケジュールハンドラ"
 
@@ -1646,9 +1552,7 @@ msgstr "無効な文書です。MIME タイプが指定されていません。"
 #: kptmaindocument.cpp:364
 #, kde-format
 msgid "Invalid document. Expected mimetype application/x-vnd.kde.plan, got %1"
-msgstr ""
-"無効な文書です。MIME タイプ application/x-vnd.kde.plan が期待されますが、%1 "
-"でした。"
+msgstr "無効な文書です。MIME タイプ application/x-vnd.kde.plan が期待されますが、%1 でした。"
 
 #. +> trunk6
 #: kptmaindocument.cpp:373
@@ -1663,22 +1567,18 @@ msgstr ""
 #. +> trunk6
 #: kptmaindocument.cpp:459
 #, fuzzy, kde-format
-#| msgid "Failed to save to temporary file: %1"
 msgid "Failed to save to temporary file. No resource has been specified"
 msgstr "一時ファイルを保存できませんでした: %1"
 
 #. +> trunk6
 #: kptmaindocument.cpp:474
 #, fuzzy, kde-format
-#| msgid "Failed to open temporary file"
 msgid "Failed to open work package file"
 msgstr "一時ファイルを開けませんでした"
 
 #. +> trunk6
 #: kptmaindocument.cpp:481
 #, fuzzy, kde-kuit-format
-#| msgctxt "@info"
-#| msgid "Failed to save to temporary file:<br/> <filename>%1</filename>"
 msgctxt "@info"
 msgid "Failed to save to temporary file:<br/><filename>%1</filename>"
 msgstr "一時ファイルを保存できませんでした: %1"
@@ -1704,23 +1604,17 @@ msgstr "保存中..."
 #. +> trunk6
 #: kptmaindocument.cpp:686
 #, fuzzy, kde-format
-#| msgid ""
-#| "Invalid document. Expected mimetype application/x-vnd.kde.plan, got %1"
 msgid "Invalid document. Expected mimetype %2, got %1"
-msgstr ""
-"無効な文書です。MIME タイプ application/x-vnd.kde.plan が期待されますが、%1 "
-"でした。"
+msgstr "無効な文書です。MIME タイプ application/x-vnd.kde.plan が期待されますが、%1 でした。"
 
 #. +> trunk6
 #: kptmaindocument.cpp:697
 #, kde-format
 msgid ""
-"This document was created with a newer version of PlanWork (syntax version: "
-"%1)\n"
+"This document was created with a newer version of PlanWork (syntax version: %1)\n"
 "Opening it in this version of PlanWork will lose some information."
 msgstr ""
-"この文書は新しいバージョンの KPlatoWork (構文バージョン: %1) で作成されていま"
-"す。\n"
+"この文書は新しいバージョンの KPlatoWork (構文バージョン: %1) で作成されています。\n"
 "このバージョンの KPlatoWork で開くと一部の情報が失われます。"
 
 #. +> trunk6
@@ -1733,9 +1627,7 @@ msgstr ""
 #: kptmaindocument.cpp:1185
 #, kde-kuit-format
 msgctxt "@info"
-msgid ""
-"Failed to load shared resources into project %1:<nl/>Internal error, failed "
-"to insert file."
+msgid "Failed to load shared resources into project %1:<nl/>Internal error, failed to insert file."
 msgstr ""
 
 #. +> trunk6
@@ -1760,7 +1652,6 @@ msgstr ""
 #. +> trunk6
 #: kptmaindocument.cpp:1457
 #, fuzzy, kde-format
-#| msgid "Resources"
 msgid "Resource: %1"
 msgstr "リソース"
 
@@ -1773,8 +1664,6 @@ msgstr ""
 #. +> trunk6
 #: kptmaindocument.cpp:1464
 #, fuzzy
-#| msgid "Delete resource"
-#| msgid_plural "Delete resources"
 msgctxt "(qtundo-format)"
 msgid "Update Shared Resources"
 msgstr "リソースを削除"
@@ -1782,7 +1671,6 @@ msgstr "リソースを削除"
 #. +> trunk6
 #: kptmaindocument.cpp:1481
 #, fuzzy, kde-format
-#| msgid "Project:"
 msgctxt "@title:window"
 msgid "Project: %1"
 msgstr "プロジェクト:"
@@ -1809,14 +1697,12 @@ msgstr "セレクタをスケジュール"
 #. +> trunk6
 #: kptview.cpp:186
 #, fuzzy, kde-format
-#| msgid "Create Report..."
 msgid "Create Project Template..."
 msgstr "レポートを作成..."
 
 #. +> trunk6
 #: kptview.cpp:190
 #, fuzzy, kde-format
-#| msgid "Create Report..."
 msgid "Create New Project..."
 msgstr "レポートを作成..."
 
@@ -1853,7 +1739,6 @@ msgstr "通貨を定義..."
 #. +> trunk6
 #: kptview.cpp:225
 #, fuzzy, kde-format
-#| msgid "Description..."
 msgid "Edit Description..."
 msgstr "概要..."
 
@@ -1866,8 +1751,6 @@ msgstr "プロジェクトファイルを挿入..."
 #. +> trunk6
 #: kptview.cpp:234
 #, fuzzy, kde-format
-#| msgid "Delete resource"
-#| msgid_plural "Delete resources"
 msgid "Update Shared Resources"
 msgstr "リソースを削除"
 
@@ -1880,21 +1763,18 @@ msgstr ""
 #. +> trunk6
 #: kptview.cpp:244
 #, fuzzy, kde-format
-#| msgid "Create Report..."
 msgid "Create Report Template..."
 msgstr "レポートを作成..."
 
 #. +> trunk6
 #: kptview.cpp:260
 #, fuzzy, kde-format
-#| msgid "Work Package"
 msgid "Work Packages..."
 msgstr "ワークパッケージ"
 
 #. +> trunk6
 #: kptview.cpp:261
 #, fuzzy, kde-format
-#| msgid "Work Package View"
 msgctxt "@info:tooltip"
 msgid "Work packages available"
 msgstr "ワークパッケージ表示"
@@ -1904,39 +1784,31 @@ msgstr "ワークパッケージ表示"
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
-"<note>This action cannot be undone.</note><nl/><nl/>Create a new Project "
-"from the current project with new project- and task identities.<nl/"
-">Resource- and calendar identities are not changed.<nl/>All scheduling "
-"information is removed.<nl/><nl/>Do you want to continue?"
+"<note>This action cannot be undone.</note><nl/><nl/>Create a new Project from the current project with new project- and task identities.<nl/>Resource- and calendar identities are not "
+"changed.<nl/>All scheduling information is removed.<nl/><nl/>Do you want to continue?"
 msgstr ""
 
 #. +> trunk6
 #: kptview.cpp:492
 #, fuzzy, kde-format
-#| msgctxt "@info:tooltip"
-#| msgid "Edit task dependencies"
 msgid "Edit task scheduling constraints"
 msgstr "タスクの依存関係を編集"
 
 #. +> trunk6
 #: kptview.cpp:492
 #, fuzzy, kde-format
-#| msgid "Constraints"
 msgid "Task Constraints"
 msgstr "制約"
 
 #. +> trunk6
 #: kptview.cpp:502
 #, fuzzy, kde-format
-#| msgctxt "@info:tooltip"
-#| msgid "Edit task dependencies"
 msgid "Edit task cost"
 msgstr "タスクの依存関係を編集"
 
 #. +> trunk6
 #: kptview.cpp:502
 #, fuzzy, kde-format
-#| msgid "Task Colors"
 msgid "Task Cost"
 msgstr "タスクカラー"
 
@@ -1975,8 +1847,6 @@ msgstr "コスト構成明細を編集"
 #. +> trunk6
 #: kptview.cpp:644
 #, fuzzy, kde-format
-#| msgctxt "@info:tooltip"
-#| msgid "Edit resource breakdown structure"
 msgid "Resource Breakdown Structure"
 msgstr "リソース構成明細を編集"
 
@@ -1996,8 +1866,6 @@ msgstr "リソース"
 #. +> trunk6
 #: kptview.cpp:648
 #, fuzzy, kde-kuit-format
-#| msgid "Delete resourcegroup"
-#| msgid_plural "Delete resourcegroups"
 msgctxt "@info:tooltip"
 msgid "Edit resources"
 msgstr "リソースグループを削除"
@@ -2108,8 +1976,6 @@ msgstr "ガント"
 #. +> trunk6
 #: kptview.cpp:678
 #, fuzzy, kde-kuit-format
-#| msgctxt "@info:tooltip"
-#| msgid "View gantt chart"
 msgctxt "@info:tooltip"
 msgid "View Gantt chart"
 msgstr "ガントチャートを表示"
@@ -2123,8 +1989,6 @@ msgstr "マイルストーン・ガント"
 #. +> trunk6
 #: kptview.cpp:681
 #, fuzzy, kde-kuit-format
-#| msgctxt "@info:tooltip"
-#| msgid "View milestone gantt chart"
 msgctxt "@info:tooltip"
 msgid "View milestone Gantt chart"
 msgstr "マイルストーン・ガントチャートを表示"
@@ -2151,8 +2015,6 @@ msgstr "リソースの割り当て (ガントチャート)"
 #. +> trunk6
 #: kptview.cpp:687
 #, fuzzy, kde-kuit-format
-#| msgctxt "@info:tooltip"
-#| msgid "View resource assignments in gantt chart"
 msgctxt "@info:tooltip"
 msgid "View resource assignments in Gantt chart"
 msgstr "リソースの割り当てをガントチャート表示"
@@ -2160,7 +2022,6 @@ msgstr "リソースの割り当てをガントチャート表示"
 #. +> trunk6
 #: kptview.cpp:689 kptviewlistdialog.cpp:108
 #, fuzzy, kde-format
-#| msgid "Resource Editor"
 msgid "Resource Coverage"
 msgstr "リソースエディタ"
 
@@ -2211,8 +2072,7 @@ msgid "Generate reports"
 msgstr ""
 
 #. +> trunk6
-#: kptview.cpp:701 kptview.cpp:2458 kptviewlistdialog.cpp:114
-#: kptviewlistdialog.cpp:564
+#: kptview.cpp:701 kptview.cpp:2458 kptviewlistdialog.cpp:114 kptviewlistdialog.cpp:564
 #, kde-format, kde-kuit-format
 msgid "Report"
 msgstr "レポート"
@@ -2258,7 +2118,6 @@ msgstr ""
 #. +> trunk6
 #: kptview.cpp:1482
 #, fuzzy, kde-format
-#| msgid "Create Report..."
 msgctxt "@window:title"
 msgid "Report Template"
 msgstr "レポートを作成..."
@@ -2266,8 +2125,6 @@ msgstr "レポートを作成..."
 #. +> trunk6
 #: kptview.cpp:1824
 #, fuzzy, kde-format
-#| msgid "Delete resource"
-#| msgid_plural "Delete resources"
 msgctxt "ªtitle:window"
 msgid "Shared Resources"
 msgstr "リソースを削除"
@@ -2276,8 +2133,7 @@ msgstr "リソースを削除"
 #: kptview.cpp:1824
 #, kde-kuit-format
 msgctxt "@info"
-msgid ""
-"Use shared resources has been activated.<nl/>Shall resources be updated?"
+msgid "Use shared resources has been activated.<nl/>Shall resources be updated?"
 msgstr ""
 
 #. +> trunk6
@@ -2290,7 +2146,6 @@ msgstr "ファイルを開くことができませんでした:<br/><filename>%1
 #. +> trunk6
 #: kptview.cpp:2152
 #, fuzzy
-#| msgid "Modify name"
 msgctxt "(qtundo-format)"
 msgid "Modify name"
 msgstr "名前を変更"
@@ -2298,7 +2153,6 @@ msgstr "名前を変更"
 #. +> trunk6
 #: kptview.cpp:2154
 #, fuzzy
-#| msgid "Modify task name"
 msgctxt "(qtundo-format)"
 msgid "Modify task name"
 msgstr "タスク名を変更"
@@ -2306,7 +2160,6 @@ msgstr "タスク名を変更"
 #. +> trunk6
 #: kptview.cpp:2155
 #, fuzzy
-#| msgid "Modify milestone name"
 msgctxt "(qtundo-format)"
 msgid "Modify milestone name"
 msgstr "マイルストーン名を変更"
@@ -2314,7 +2167,6 @@ msgstr "マイルストーン名を変更"
 #. +> trunk6
 #: kptview.cpp:2156
 #, fuzzy
-#| msgid "Modify summarytask name"
 msgctxt "(qtundo-format)"
 msgid "Modify summarytask name"
 msgstr "サマリタスク名を変更"
@@ -2322,7 +2174,6 @@ msgstr "サマリタスク名を変更"
 #. +> trunk6
 #: kptview.cpp:2157
 #, fuzzy
-#| msgid "Modify project name"
 msgctxt "(qtundo-format)"
 msgid "Modify project name"
 msgstr "プロジェクト名を変更"
@@ -2385,11 +2236,8 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
 msgid ""
-"<title>View Selector</title><para>This is the list of views and editors.</"
-"para><para>You can configure the list by using the context menu:"
-"<list><item>Rename categories or views</item><item>Configure. Move, remove, "
-"rename or edit tool tip for categories or views</item><item>Insert "
-"categories and views</item></list><nl/><link url='%1'>More...</link></para>"
+"<title>View Selector</title><para>This is the list of views and editors.</para><para>You can configure the list by using the context menu:<list><item>Rename categories or "
+"views</item><item>Configure. Move, remove, rename or edit tool tip for categories or views</item><item>Insert categories and views</item></list><nl/><link url='%1'>More...</link></para>"
 msgstr ""
 
 #. +> trunk6
@@ -2397,9 +2245,8 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
 msgid ""
-"<title>Schedule selector</title><para>Selects the schedule to be used when "
-"displaying schedule dependent data.<nl/><note>Unscheduled tasks are only "
-"shown in editors.</note><nl/><link url='%1'>More...</link></para>"
+"<title>Schedule selector</title><para>Selects the schedule to be used when displaying schedule dependent data.<nl/><note>Unscheduled tasks are only shown in editors.</note><nl/><link "
+"url='%1'>More...</link></para>"
 msgstr ""
 
 #. +> trunk6
@@ -2480,8 +2327,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, afterLabel)
 #. +> trunk6
-#: kptviewlistaddview.ui:52 kptviewlisteditcategory.ui:23
-#: kptviewlisteditview.ui:58
+#: kptviewlistaddview.ui:52 kptviewlisteditcategory.ui:23 kptviewlisteditview.ui:58
 #, kde-format
 msgid "After"
 msgstr "この後に"
@@ -2490,7 +2336,6 @@ msgstr "この後に"
 #. +> trunk6
 #: kptviewlistaddview.ui:72
 #, fuzzy, kde-format
-#| msgid "Type of estimate"
 msgid "The type of view"
 msgstr "見積りタイプ"
 
@@ -2511,8 +2356,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, categoryLabel)
 #. i18n: ectx: property (text), widget (QLabel, viewnameLabel)
 #. +> trunk6
-#: kptviewlistaddview.ui:95 kptviewlisteditcategory.ui:46
-#: kptviewlisteditview.ui:81
+#: kptviewlistaddview.ui:95 kptviewlisteditcategory.ui:46 kptviewlisteditview.ui:81
 #, kde-format
 msgid "Name:"
 msgstr "名前:"
@@ -2521,16 +2365,13 @@ msgstr "名前:"
 #. +> trunk6
 #: kptviewlistaddview.ui:108 kptviewlisteditview.ui:94
 #, fuzzy, kde-format
-#| msgid "Task description"
 msgid "The views description"
 msgstr "タスクの概要"
 
 #. i18n: ectx: property (text), widget (QLabel, tooltipLabel)
 #. +> trunk6
-#: kptviewlistaddview.ui:111 kptviewlisteditcategory.ui:62
-#: kptviewlisteditview.ui:97
+#: kptviewlistaddview.ui:111 kptviewlisteditcategory.ui:62 kptviewlisteditview.ui:97
 #, fuzzy, kde-format
-#| msgid "Description"
 msgid "Description:"
 msgstr "概要"
 
@@ -2544,7 +2385,6 @@ msgstr "ビューを追加"
 #. +> trunk6
 #: kptviewlistdialog.cpp:93
 #, fuzzy, kde-format
-#| msgid "Resource Editor"
 msgid "Resource Group Editor"
 msgstr "リソースエディタ"
 
@@ -2618,15 +2458,11 @@ msgstr ""
 #: kptviewlistdialog.cpp:141
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
-msgid ""
-"<title>The category of the view</title><nl/>The view is placed under this "
-"category in the view selector.<nl/>You can edit the category name to create "
-"a new category."
+msgid "<title>The category of the view</title><nl/>The view is placed under this category in the view selector.<nl/>You can edit the category name to create a new category."
 msgstr ""
 
 #. +> trunk6
-#: kptviewlistdialog.cpp:193 kptviewlistdialog.cpp:412
-#: kptviewlistdialog.cpp:503 kptviewlistdialog.cpp:632
+#: kptviewlistdialog.cpp:193 kptviewlistdialog.cpp:412 kptviewlistdialog.cpp:503 kptviewlistdialog.cpp:632
 #, kde-format
 msgid "Top"
 msgstr "最初"
@@ -2643,10 +2479,8 @@ msgstr "ビューの設定"
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
 msgid ""
-"<title>The category of the view</title><nl/>The view is placed under this "
-"category in the view selector.<nl/>Selecting a different category will move "
-"the view to the new category.<nl/>You can edit the category name to create a "
-"new category."
+"<title>The category of the view</title><nl/>The view is placed under this category in the view selector.<nl/>Selecting a different category will move the view to the new category.<nl/>You can edit "
+"the category name to create a new category."
 msgstr ""
 
 #. +> trunk6
@@ -2778,8 +2612,6 @@ msgstr ""
 #. +> trunk6
 #: SharedResourcesDialog.cpp:30
 #, fuzzy, kde-format
-#| msgctxt "Project execution views"
-#| msgid "Execution"
 msgctxt "@title:column"
 msgid "Action"
 msgstr "実行"
@@ -2787,8 +2619,6 @@ msgstr "実行"
 #. +> trunk6
 #: SharedResourcesDialog.cpp:30
 #, fuzzy, kde-format
-#| msgctxt "Task name"
-#| msgid "Name"
 msgctxt "@title:column"
 msgid "Name"
 msgstr "名前"
@@ -2804,14 +2634,9 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
 msgid ""
-"<title>Shared Resource Dialog</title><para>Enables you to decide how to "
-"treat shared resources, shared resource groups and shared calendars when "
-"they have been deleted from the shared resources file.</para><para>You can "
-"select if an item shall be:<list><item><emphasis>Removed:</emphasis> Removes "
-"the item from your project too.</item><item><emphasis>Converted:</emphasis> "
-"Converts the item to local item.</item><item><emphasis>Kept:</emphasis> "
-"Keeps the item as a shared item.</item></list><nl/><link url='%1'>More...</"
-"link></para>"
+"<title>Shared Resource Dialog</title><para>Enables you to decide how to treat shared resources, shared resource groups and shared calendars when they have been deleted from the shared resources "
+"file.</para><para>You can select if an item shall be:<list><item><emphasis>Removed:</emphasis> Removes the item from your project too.</item><item><emphasis>Converted:</emphasis> Converts the item "
+"to local item.</item><item><emphasis>Kept:</emphasis> Keeps the item as a shared item.</item></list><nl/><link url='%1'>More...</link></para>"
 msgstr ""
 
 #. +> trunk6
@@ -2873,2129 +2698,3 @@ msgstr ""
 #, kde-format
 msgid "Mark as: Keep"
 msgstr ""
-
-#, kde-format
-#~ msgid "Expected estimate"
-#~ msgstr "予想見積り"
-
-#, fuzzy, kde-format
-#~| msgid "Duration"
-#~ msgid "Documentation"
-#~ msgstr "期間"
-
-#, fuzzy, kde-format
-#~| msgid "Insert project"
-#~ msgid "Shared projects:"
-#~ msgstr "プロジェクトを挿入"
-
-#, kde-format
-#~ msgid ""
-#~ "Invalid document. Expected mimetype application/x-vnd.kde.plan.work, got "
-#~ "%1"
-#~ msgstr ""
-#~ "無効な文書です。MIME タイプ application/x-vnd.kde.plan.work が期待されます"
-#~ "が、%1 でした。"
-
-#, fuzzy, kde-kuit-format
-#~| msgid "Delete resource"
-#~| msgid_plural "Delete resources"
-#~ msgctxt "@title:window"
-#~ msgid "Shared resources"
-#~ msgstr "リソースを削除"
-
-#, fuzzy, kde-format
-#~| msgid "Insert project"
-#~ msgid "Load Shared Projects..."
-#~ msgstr "プロジェクトを挿入"
-
-#, kde-format
-#~ msgid "Description..."
-#~ msgstr "概要..."
-
-#, kde-format
-#~ msgid "Edit Dependency..."
-#~ msgstr "依存関係を編集..."
-
-#, kde-format
-#~ msgid "Progress..."
-#~ msgstr "進捗..."
-
-#, kde-format
-#~ msgid "Delete Task"
-#~ msgstr "タスクを削除"
-
-#, fuzzy, kde-format
-#~| msgid "Documents"
-#~ msgid "Documents..."
-#~ msgstr "文書"
-
-#, kde-format
-#~ msgid "Indent Task"
-#~ msgstr "タスクをインデント"
-
-#, kde-format
-#~ msgid "Unindent Task"
-#~ msgstr "タスクを逆インデント"
-
-#, kde-format
-#~ msgid "Move Task Up"
-#~ msgstr "タスクを上に移動"
-
-#, kde-format
-#~ msgid "Move Task Down"
-#~ msgstr "タスクを下に移動"
-
-#, kde-format
-#~ msgid "Delete Dependency"
-#~ msgstr "依存関係を削除"
-
-#, kde-format
-#~ msgid "Edit Resource..."
-#~ msgstr "リソースを編集..."
-
-#, kde-format
-#~ msgid "Work Package: %1"
-#~ msgstr "ワークパッケージ: %1"
-
-#, kde-format
-#~ msgctxt "(qtundo-format) @info:status 1=schedule name"
-#~ msgid "Calculate %1"
-#~ msgstr "%1 を計算"
-
-#, kde-format
-#~ msgid "Cannot baseline. The project is already baselined."
-#~ msgstr ""
-#~ "ベースライン化できません。プロジェクトは既にベースライン化されています。"
-
-#, kde-format
-#~ msgid "This schedule is baselined. Do you want to remove the baseline?"
-#~ msgstr ""
-#~ "このスケジュールはベースライン化されています。ベースラインを削除しますか？"
-
-#, kde-kuit-format
-#~ msgctxt "@info"
-#~ msgid "Failed to save to temporary file:<br/> <filename>%1</filename>"
-#~ msgstr "一時ファイルを保存できませんでした: %1"
-
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Add milestone"
-#~ msgstr "マイルストーンを追加"
-
-#, kde-format
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Reset baseline %1"
-#~ msgstr "ベースライン “%1” をリセット"
-
-#, kde-format
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Baseline %1"
-#~ msgstr "ベースライン “%1”"
-
-#, kde-format
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Add schedule %1"
-#~ msgstr "スケジュール “%1” を追加"
-
-#, kde-format
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Delete schedule %1"
-#~ msgstr "スケジュール “%1” を削除"
-
-#, kde-format
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Move schedule %1"
-#~ msgstr "スケジュール “%1” を追加"
-
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Add sub-milestone"
-#~ msgstr "サブマイルストーンを追加"
-
-#, kde-format
-#~ msgid ""
-#~ "A task that has been scheduled will be deleted. This will invalidate the "
-#~ "schedule."
-#~ msgstr ""
-#~ "スケジュール済みのタスクが削除されます。これを行うとスケジュールが無効にな"
-#~ "ります。"
-
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Delete task"
-#~ msgid_plural "Delete tasks"
-#~ msgstr[0] "タスクを削除"
-
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Indent task"
-#~ msgstr "タスクをインデント"
-
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Unindent task"
-#~ msgstr "タスクを逆インデント"
-
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Move task up"
-#~ msgstr "タスクを上に移動"
-
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Move task down"
-#~ msgstr "タスクを下に移動"
-
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Add task dependency"
-#~ msgstr "タスクの依存関係を追加"
-
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Delete task dependency"
-#~ msgstr "タスクの依存関係を削除"
-
-#, fuzzy
-#~| msgctxt "(qtundo-format)"
-#~| msgid "Delete resource"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Delete resource"
-#~ msgid_plural "Delete resources"
-#~ msgstr[0] "リソースを削除"
-
-#, fuzzy
-#~| msgctxt "(qtundo-format)"
-#~| msgid "Delete resourcegroup"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Delete resourcegroup"
-#~ msgid_plural "Delete resourcegroups"
-#~ msgstr[0] "リソースグループを削除"
-
-#, fuzzy
-#~| msgid "Delete resourcegroups and resources"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Delete resourcegroups and resources"
-#~ msgstr "リソースグループとリソースを削除"
-
-#, kde-format
-#~ msgid "This task has been scheduled. This will invalidate the schedule."
-#~ msgstr ""
-#~ "このタスクはスケジュール済みです。これを行うとスケジュールが無効になりま"
-#~ "す。"
-
-#, kde-format
-#~ msgid ""
-#~ "A resource that has been scheduled will be deleted. This will invalidate "
-#~ "the schedule."
-#~ msgstr ""
-#~ "スケジュール済みのリソースが削除されます。これを行うとスケジュールが無効に"
-#~ "なります。"
-
-#, kde-format
-#~ msgid "Failed to open temporary file"
-#~ msgstr "一時ファイルを開けませんでした"
-
-#, kde-format
-#~ msgctxt "1=project name, 2=task name"
-#~ msgid ""
-#~ "%1\n"
-#~ "%2"
-#~ msgstr ""
-#~ "%1\n"
-#~ "%2"
-
-#, fuzzy, kde-format
-#~| msgid "Duration"
-#~ msgid "Documentation:"
-#~ msgstr "期間"
-
-#, fuzzy, kde-kuit-format
-#~| msgid "Resource Assignments"
-#~ msgctxt "@title:window"
-#~ msgid "Load Resource Assignments"
-#~ msgstr "リソースの割り当て"
-
-#, fuzzy, kde-format
-#~| msgid "Insert Document"
-#~ msgid "Open Document"
-#~ msgstr "文書を挿入"
-
-#, fuzzy, kde-format
-#~| msgctxt "(qtundo-format)"
-#~| msgid "Insert project"
-#~ msgid "New project"
-#~ msgstr "プロジェクトを挿入"
-
-#, fuzzy, kde-format
-#~| msgid "Delete resource"
-#~| msgid_plural "Delete resources"
-#~ msgid "Create Shared Resources"
-#~ msgstr "リソースを削除"
-
-#, fuzzy, kde-format
-#~| msgid "Edit Main Project..."
-#~ msgid "Open Project..."
-#~ msgstr "メインプロジェクトを編集..."
-
-#, fuzzy, kde-format
-#~| msgid "Delete resource"
-#~| msgid_plural "Delete resources"
-#~ msgctxt "@info:tooltip"
-#~ msgid "Convert shared resources to local"
-#~ msgstr "リソースを削除"
-
-#, fuzzy, kde-format
-#~| msgid "Delete resource"
-#~| msgid_plural "Delete resources"
-#~ msgctxt "@info:tooltip"
-#~ msgid "Keep as shared resources"
-#~ msgstr "リソースを削除"
-
-#, fuzzy
-#~| msgctxt "(qtundo-format)"
-#~| msgid "Insert project"
-#~ msgid "New Project"
-#~ msgstr "プロジェクトを挿入"
-
-#, fuzzy
-#~| msgid "Delete task"
-#~| msgid_plural "Delete tasks"
-#~ msgctxt "(qtundo-format) Delete one task"
-#~ msgid "Delete task"
-#~ msgstr "タスクを削除"
-
-#, fuzzy
-#~| msgid "Delete task"
-#~| msgid_plural "Delete tasks"
-#~ msgctxt "(qtundo-format) @action"
-#~ msgid "Delete task"
-#~ msgstr "タスクを削除"
-
-#, fuzzy
-#~| msgctxt "(qtundo-format)"
-#~| msgid "Delete resource"
-#~ msgctxt "(qtundo-format) @action"
-#~ msgid "Delete resource"
-#~ msgstr "リソースを削除"
-
-#, fuzzy
-#~| msgctxt "(qtundo-format)"
-#~| msgid "Delete resourcegroup"
-#~ msgctxt "(qtundo-format) @action"
-#~ msgid "Delete resourcegroup"
-#~ msgstr "リソースグループを削除"
-
-#~ msgid "Plan"
-#~ msgstr "Plan"
-
-#~ msgid "Welcome to Plan."
-#~ msgstr "Plan へようこそ。"
-
-#, fuzzy
-#~| msgid "Resources"
-#~ msgid "Resource groups"
-#~ msgstr "リソース"
-
-#~ msgid "Project"
-#~ msgstr "プロジェクト"
-
-#, fuzzy
-#~| msgid "Create Report..."
-#~ msgid "&Create New Project..."
-#~ msgstr "レポートを作成..."
-
-#~ msgid "Calculation"
-#~ msgstr "計算"
-
-#~ msgid "Manual"
-#~ msgstr "手動"
-
-#~ msgid "Immediate on change"
-#~ msgstr "変更があり次第"
-
-#~ msgid "Constraints"
-#~ msgstr "制約"
-
-#~ msgid "Allow overbooking of resources"
-#~ msgstr "リソースのオーバーブッキングを許可する"
-
-#~ msgid "Retrieve URL:"
-#~ msgstr "URL を取得:"
-
-#~ msgid "Save URL:"
-#~ msgstr "URL を保存:"
-
-#~ msgid "&Create Template From Document..."
-#~ msgstr "文書からテンプレートを作成(&C)..."
-
-#, fuzzy
-#~| msgid "Plan"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Plan"
-#~ msgstr "Plan"
-
-#, fuzzy
-#~| msgid "Calligra Plan - KDE Project Planning and Management Tool"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Plan is a Project Planning and Management application."
-#~ msgstr "Calligra Plan - KDE プロジェクトのプランニングと管理ツール"
-
-#, fuzzy
-#~| msgid "Welcome to Plan."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Welcome to Plan."
-#~ msgstr "Plan へようこそ。"
-
-#, fuzzy
-#~| msgid ""
-#~| "This document was created with a newer version of KPlato (syntax "
-#~| "version: %1)\n"
-#~| "Opening it in this version of KPlato will lose some information."
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "This document has no syntax version.\n"
-#~ "Opening it in Plan may lose information."
-#~ msgstr ""
-#~ "この文書は新しいバージョンの KPlato (構文バージョン: %1) で作成されていま"
-#~ "す。\n"
-#~ "このバージョンで開くと一部の情報が失われます。"
-
-#, fuzzy
-#~| msgid "Continue"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Continue"
-#~ msgstr "続行"
-
-#, fuzzy
-#~| msgid "File-Format Error"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "File-Format Error"
-#~ msgstr "ファイルフォーマットエラー"
-
-#, fuzzy
-#~| msgid ""
-#~| "This document was created with a newer version of KPlato than Plan can "
-#~| "load.\n"
-#~| "Syntax version: %1\n"
-#~| "Opening it in this version of Plan may lose some information."
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "This document was created with a newer version of KPlato than Plan can "
-#~ "load.\n"
-#~ "Syntax version: %1\n"
-#~ "Opening it in this version of Plan may lose some information."
-#~ msgstr ""
-#~ "この文書は Plan が読み込むことのできる KPlato のバージョンより新しいバー"
-#~ "ジョンで作成されています。\n"
-#~ "構文バージョン: %1\n"
-#~ "このバージョンの Plan で開くと一部の情報が失われかねません。"
-
-#, fuzzy
-#~| msgid "File-Format Mismatch"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "File-Format Mismatch"
-#~ msgstr "ファイルフォーマット不一致"
-
-#, fuzzy
-#~| msgid ""
-#~| "This document was created with a newer version of KPlatoWork (syntax "
-#~| "version: %1)\n"
-#~| "Opening it in this version of PlanWork will lose some information."
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "This document was created with a newer version of KPlatoWork (syntax "
-#~ "version: %1)\n"
-#~ "Opening it in this version of PlanWork will lose some information."
-#~ msgstr ""
-#~ "この文書は新しいバージョンの KPlatoWork (構文バージョン: %1) で作成されて"
-#~ "います。\n"
-#~ "このバージョンの PlanWork で開くと一部の情報が失われます。"
-
-#, fuzzy
-#~| msgid "Plan"
-#~ msgctxt "(qtundo-format) application name"
-#~ msgid "Plan"
-#~ msgstr "Plan"
-
-#, fuzzy
-#~| msgid "Calligra Plan - KDE Project Planning and Management Tool"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Project Planning and Management Tool"
-#~ msgstr "Calligra Plan - KDE プロジェクトのプランニングと管理ツール"
-
-#, fuzzy
-#~| msgid "(c) 1998-2012, The Plan Team"
-#~ msgid "© 1998-%1, The Plan Team"
-#~ msgstr "(c) 1998-2012, Plan 開発チーム"
-
-#, fuzzy
-#~| msgid "(c) 1998-2012, The Plan Team"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "© 1998-%1, The Plan Team"
-#~ msgstr "(c) 1998-2012, Plan 開発チーム"
-
-#, fuzzy
-#~| msgid "Thomas Zander"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Thomas Zander"
-#~ msgstr "Thomas Zander"
-
-#, fuzzy
-#~| msgid "Bo Thorsen"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Bo Thorsen"
-#~ msgstr "Bo Thorsen"
-
-#, fuzzy
-#~| msgid "Dag Andersen"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Dag Andersen"
-#~ msgstr "Dag Andersen"
-
-#, fuzzy
-#~| msgid "Raphael Langerhorst"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Raphael Langerhorst"
-#~ msgstr "Raphael Langerhorst"
-
-#, fuzzy
-#~| msgid "Network Scheduler"
-#~ msgctxt "(qtundo-format) Network = task dependency network"
-#~ msgid "Network Scheduler"
-#~ msgstr "ネットワークスケジューラ"
-
-#, fuzzy
-#~| msgid "Insert File"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert File"
-#~ msgstr "ファイルを挿入"
-
-#, fuzzy
-#~| msgid "Invalid document. No mimetype specified."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Invalid document. No mimetype specified."
-#~ msgstr "無効な文書です。MIME タイプが指定されていません。"
-
-#, fuzzy
-#~| msgid ""
-#~| "Invalid document. Expected mimetype application/x-vnd.kde.plan, got %1"
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "Invalid document. Expected mimetype application/x-vnd.kde.plan, got %1"
-#~ msgstr ""
-#~ "無効な文書です。MIME タイプ application/x-vnd.kde.plan が期待されますが、"
-#~ "%1 でした。"
-
-#, fuzzy
-#~| msgid ""
-#~| "This document was created with a newer version of Plan (syntax version: "
-#~| "%1)\n"
-#~| "Opening it in this version of Plan will lose some information."
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "This document was created with a newer version of Plan (syntax version: "
-#~ "%1)\n"
-#~ "Opening it in this version of Plan will lose some information."
-#~ msgstr ""
-#~ "この文書は新しいバージョンの Plan (構文バージョン: %1) で作成されていま"
-#~ "す。\n"
-#~ "このバージョンの Plan で開くと一部の情報が失われます。"
-
-#, fuzzy
-#~| msgid "Could not create the workpackage file for saving: %1"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Could not create the workpackage file for saving: %1"
-#~ msgstr "保存のためにワークパッケージファイルを作成できませんでした: %1"
-
-#, fuzzy
-#~| msgid "Not able to write '%1'. Partition full?"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Not able to write '%1'. Partition full?"
-#~ msgstr "‘%1’ を書き込めません。パーティションに空きはありますか？"
-
-#, fuzzy
-#~| msgid "Saving..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Saving..."
-#~ msgstr "保存中..."
-
-#, fuzzy
-#~| msgid ""
-#~| "Invalid document. Expected mimetype application/x-vnd.kde.plan.work, got "
-#~| "%1"
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "Invalid document. Expected mimetype application/x-vnd.kde.plan.work, got "
-#~ "%1"
-#~ msgstr ""
-#~ "無効な文書です。MIME タイプ application/x-vnd.kde.plan.work が期待されます"
-#~ "が、%1 でした。"
-
-#, fuzzy
-#~| msgid ""
-#~| "This document was created with a newer version of PlanWork (syntax "
-#~| "version: %1)\n"
-#~| "Opening it in this version of PlanWork will lose some information."
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "This document was created with a newer version of PlanWork (syntax "
-#~ "version: %1)\n"
-#~ "Opening it in this version of PlanWork will lose some information."
-#~ msgstr ""
-#~ "この文書は新しいバージョンの KPlatoWork (構文バージョン: %1) で作成されて"
-#~ "います。\n"
-#~ "このバージョンの KPlatoWork で開くと一部の情報が失われます。"
-
-#, fuzzy
-#~| msgid "Schedule Selector"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Schedule Selector"
-#~ msgstr "セレクタをスケジュール"
-
-#, fuzzy
-#~| msgid "&Create Template From Document..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "&Create Template From Document..."
-#~ msgstr "文書からテンプレートを作成(&C)..."
-
-#, fuzzy
-#~| msgid "Create Report..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "&Create New Project..."
-#~ msgstr "レポートを作成..."
-
-#, fuzzy
-#~| msgid "Show Selector"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Show Selector"
-#~ msgstr "セレクタを表示"
-
-#, fuzzy
-#~| msgid "Edit Main Project..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Edit Main Project..."
-#~ msgstr "メインプロジェクトを編集..."
-
-#, fuzzy
-#~| msgid "Define WBS Pattern..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Define WBS Pattern..."
-#~ msgstr "WBS パターンを定義..."
-
-#, fuzzy
-#~| msgid "Insert Project File..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert Project File..."
-#~ msgstr "プロジェクトファイルを挿入..."
-
-#, fuzzy
-#~| msgid "Configure Plan..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Configure Plan..."
-#~ msgstr "Plan を設定..."
-
-#, fuzzy
-#~| msgid "Define Currency..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Define Currency..."
-#~ msgstr "通貨を定義..."
-
-#, fuzzy
-#~| msgid "Edit..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Edit..."
-#~ msgstr "編集..."
-
-#, fuzzy
-#~| msgid "Progress..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Progress..."
-#~ msgstr "進捗..."
-
-#, fuzzy
-#~| msgid "Delete Task"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Delete Task"
-#~ msgstr "タスクを削除"
-
-#, fuzzy
-#~| msgid "Description..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Description..."
-#~ msgstr "概要..."
-
-#, fuzzy
-#~| msgid "Indent Task"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Indent Task"
-#~ msgstr "タスクをインデント"
-
-#, fuzzy
-#~| msgid "Unindent Task"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Unindent Task"
-#~ msgstr "タスクを逆インデント"
-
-#, fuzzy
-#~| msgid "Move Task Up"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Move Task Up"
-#~ msgstr "タスクを上に移動"
-
-#, fuzzy
-#~| msgid "Move Task Down"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Move Task Down"
-#~ msgstr "タスクを下に移動"
-
-#, fuzzy
-#~| msgid "Edit Resource..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Edit Resource..."
-#~ msgstr "リソースを編集..."
-
-#, fuzzy
-#~| msgid "Edit Dependency..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Edit Dependency..."
-#~ msgstr "依存関係を編集..."
-
-#, fuzzy
-#~| msgid "Delete Dependency"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Delete Dependency"
-#~ msgstr "依存関係を削除"
-
-#, fuzzy
-#~| msgid "Task Status Report"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Task Status Report"
-#~ msgstr "タスクの状態レポート"
-
-#, fuzzy
-#~| msgid "Work & Vacation"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Work & Vacation"
-#~ msgstr "稼働日と休日"
-
-#, fuzzy
-#~| msgid "Edit working- and vacation days for resources"
-#~ msgctxt "(qtundo-format) @info:tooltip"
-#~ msgid "Edit working- and vacation days for resources"
-#~ msgstr "リソースの稼働日と休日を編集"
-
-#, fuzzy
-#~| msgid "Cost Breakdown Structure"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Cost Breakdown Structure"
-#~ msgstr "コスト構成明細"
-
-#, fuzzy
-#~| msgid "Edit cost breakdown structure."
-#~ msgctxt "(qtundo-format) @info:tooltip"
-#~ msgid "Edit cost breakdown structure."
-#~ msgstr "コスト構成明細を編集"
-
-#, fuzzy
-#~| msgid "Resources"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Resources"
-#~ msgstr "リソース"
-
-#, fuzzy
-#~| msgid "Edit resource breakdown structure"
-#~ msgctxt "(qtundo-format) @info:tooltip"
-#~ msgid "Edit resource breakdown structure"
-#~ msgstr "リソース構成明細を編集"
-
-#, fuzzy
-#~| msgid "Tasks"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Tasks"
-#~ msgstr "タスク"
-
-#, fuzzy
-#~| msgid "Edit work breakdown structure"
-#~ msgctxt "(qtundo-format) @info:tooltip"
-#~ msgid "Edit work breakdown structure"
-#~ msgstr "作業構成明細 (WBS) を編集"
-
-#, fuzzy
-#~| msgid "Dependencies (Graphic)"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Dependencies (Graphic)"
-#~ msgstr "依存関係 (グラフィカル)"
-
-#, fuzzy
-#~| msgid "Edit task dependencies"
-#~ msgctxt "(qtundo-format) @info:tooltip"
-#~ msgid "Edit task dependencies"
-#~ msgstr "タスクの依存関係を編集"
-
-#, fuzzy
-#~| msgid "Dependencies (List)"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Dependencies (List)"
-#~ msgstr "依存関係 (リスト)"
-
-#, fuzzy
-#~| msgid "Schedules"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Schedules"
-#~ msgstr "スケジュール"
-
-#, fuzzy
-#~| msgid "Calculate and analyze project schedules"
-#~ msgctxt "(qtundo-format) @info:tooltip"
-#~ msgid "Calculate and analyze project schedules"
-#~ msgstr "プロジェクトのスケジュールを計算して分析"
-
-#, fuzzy
-#~| msgid "Project Performance Chart"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Project Performance Chart"
-#~ msgstr "プロジェクトの実績チャート"
-
-#, fuzzy
-#~| msgid "View project status information"
-#~ msgctxt "(qtundo-format) @info:tooltip"
-#~ msgid "View project status information"
-#~ msgstr "プロジェクトの実績情報を表示"
-
-#, fuzzy
-#~| msgid "Task Status"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Task Status"
-#~ msgstr "タスクの状態"
-
-#, fuzzy
-#~| msgid "View task progress information"
-#~ msgctxt "(qtundo-format) @info:tooltip"
-#~ msgid "View task progress information"
-#~ msgstr "タスクの進捗情報を表示"
-
-#, fuzzy
-#~| msgid "Task Execution"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Task Execution"
-#~ msgstr "タスクの実行"
-
-#, fuzzy
-#~| msgid "View task execution information"
-#~ msgctxt "(qtundo-format) @info:tooltip"
-#~ msgid "View task execution information"
-#~ msgstr "タスクの実行情報を表示"
-
-#, fuzzy
-#~| msgid "Work Package View"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Work Package View"
-#~ msgstr "ワークパッケージ表示"
-
-#, fuzzy
-#~| msgid "View task work package information"
-#~ msgctxt "(qtundo-format) @info:tooltip"
-#~ msgid "View task work package information"
-#~ msgstr "タスクの進捗情報を表示"
-
-#, fuzzy
-#~| msgid "Gantt"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Gantt"
-#~ msgstr "ガント"
-
-#, fuzzy
-#~| msgctxt "@info:tooltip"
-#~| msgid "View gantt chart"
-#~ msgctxt "(qtundo-format) @info:tooltip"
-#~ msgid "View Gantt chart"
-#~ msgstr "ガントチャートを表示"
-
-#, fuzzy
-#~| msgid "Milestone Gantt"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Milestone Gantt"
-#~ msgstr "マイルストーン・ガント"
-
-#, fuzzy
-#~| msgctxt "@info:tooltip"
-#~| msgid "View milestone gantt chart"
-#~ msgctxt "(qtundo-format) @info:tooltip"
-#~ msgid "View milestone Gantt chart"
-#~ msgstr "マイルストーン・ガントチャートを表示"
-
-#, fuzzy
-#~| msgid "Resource Assignments"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Resource Assignments"
-#~ msgstr "リソースの割り当て"
-
-#, fuzzy
-#~| msgctxt "@info:tooltip"
-#~| msgid "View resource assignments in a table"
-#~ msgctxt "(qtundo-format) @info:tooltip"
-#~ msgid "View resource assignments in a table"
-#~ msgstr "リソースの割り当てを表表示"
-
-#, fuzzy
-#~| msgid "Resource Assignments (Gantt)"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Resource Assignments (Gantt)"
-#~ msgstr "リソースの割り当て (ガントチャート)"
-
-#, fuzzy
-#~| msgctxt "@info:tooltip"
-#~| msgid "View resource assignments in gantt chart"
-#~ msgctxt "(qtundo-format) @info:tooltip"
-#~ msgid "View resource assignments in Gantt chart"
-#~ msgstr "リソースの割り当てをガントチャート表示"
-
-#, fuzzy
-#~| msgid "Cost Breakdown"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Cost Breakdown"
-#~ msgstr "コスト明細"
-
-#, fuzzy
-#~| msgid "View planned and actual cost"
-#~ msgctxt "(qtundo-format) @info:tooltip"
-#~ msgid "View planned and actual cost"
-#~ msgstr "計画コストと実際のコストを表示"
-
-#, fuzzy
-#~| msgid "Tasks Performance Chart"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Tasks Performance Chart"
-#~ msgstr "タスクの実績チャート"
-
-#, fuzzy
-#~| msgid "View tasks performance status information"
-#~ msgctxt "(qtundo-format) @info:tooltip"
-#~ msgid "View tasks performance status information"
-#~ msgstr "タスクの実績情報を表示"
-
-#, fuzzy
-#~| msgid "Report"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Report"
-#~ msgstr "レポート"
-
-#, fuzzy
-#~| msgid "View report"
-#~ msgctxt "(qtundo-format) @info:tooltip"
-#~ msgid "View report"
-#~ msgstr "レポートを表示"
-
-#, fuzzy
-#~| msgid "Editors"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Editors"
-#~ msgstr "エディタ"
-
-#, fuzzy
-#~| msgid "Views"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Views"
-#~ msgstr "ビュー"
-
-#, fuzzy
-#~| msgctxt "Project execution views"
-#~| msgid "Execution"
-#~ msgctxt "(qtundo-format) Project execution views"
-#~ msgid "Execution"
-#~ msgstr "実行"
-
-#, fuzzy
-#~| msgid "Reports"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Reports"
-#~ msgstr "レポート"
-
-#, fuzzy
-#~| msgid "Cannot baseline. The project is already baselined."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Cannot baseline. The project is already baselined."
-#~ msgstr ""
-#~ "ベースライン化できません。プロジェクトは既にベースライン化されています。"
-
-#, fuzzy
-#~| msgid "This schedule is baselined. Do you want to remove the baseline?"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "This schedule is baselined. Do you want to remove the baseline?"
-#~ msgstr ""
-#~ "このスケジュールはベースライン化されています。ベースラインを削除しますか？"
-
-#, fuzzy
-#~| msgid "Task Defaults"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Task Defaults"
-#~ msgstr "タスクのデフォルト設定"
-
-#, fuzzy
-#~| msgid "Task Colors"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Task Colors"
-#~ msgstr "タスクカラー"
-
-#, fuzzy
-#~| msgid "Work Package"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Work Package"
-#~ msgstr "ワークパッケージ"
-
-#, fuzzy
-#~| msgid ""
-#~| "A task that has been scheduled will be deleted. This will invalidate the "
-#~| "schedule."
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "A task that has been scheduled will be deleted. This will invalidate the "
-#~ "schedule."
-#~ msgstr ""
-#~ "スケジュール済みのタスクが削除されます。これを行うとスケジュールが無効にな"
-#~ "ります。"
-
-#, fuzzy
-#~| msgid "This task has been scheduled. This will invalidate the schedule."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "This task has been scheduled. This will invalidate the schedule."
-#~ msgstr ""
-#~ "このタスクはスケジュール済みです。これを行うとスケジュールが無効になりま"
-#~ "す。"
-
-#, fuzzy
-#~| msgid ""
-#~| "A resource that has been scheduled will be deleted. This will invalidate "
-#~| "the schedule."
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "A resource that has been scheduled will be deleted. This will invalidate "
-#~ "the schedule."
-#~ msgstr ""
-#~ "スケジュール済みのリソースが削除されます。これを行うとスケジュールが無効に"
-#~ "なります。"
-
-#, fuzzy
-#~| msgctxt "@info"
-#~| msgid "Cannot open file:<br/><filename>%1</filename>"
-#~ msgctxt "(qtundo-format) @info"
-#~ msgid "Cannot open file:<br/><filename>%1</filename>"
-#~ msgstr "ファイルを開くことができませんでした:<br/><filename>%1</filename>"
-
-#, fuzzy
-#~| msgid "Not scheduled"
-#~ msgctxt "(qtundo-format) @info:status"
-#~ msgid "Not scheduled"
-#~ msgstr "未スケジュール"
-
-#, fuzzy
-#~| msgid "Failed to open temporary file"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Failed to open temporary file"
-#~ msgstr "一時ファイルを開けませんでした"
-
-#, fuzzy
-#~| msgctxt "@info"
-#~| msgid "Failed to save to temporary file:<br/> <filename>%1</filename>"
-#~ msgctxt "(qtundo-format) @info"
-#~ msgid "Failed to save to temporary file:<br/> <filename>%1</filename>"
-#~ msgstr "一時ファイルを保存できませんでした: %1"
-
-#, fuzzy
-#~| msgid "Work Package: %1"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Work Package: %1"
-#~ msgstr "ワークパッケージ: %1"
-
-#, fuzzy
-#~| msgctxt "1=project name, 2=task name"
-#~| msgid ""
-#~| "%1\n"
-#~| "%2"
-#~ msgctxt "(qtundo-format) 1=project name, 2=task name"
-#~ msgid ""
-#~ "%1\n"
-#~ "%2"
-#~ msgstr ""
-#~ "%1\n"
-#~ "%2"
-
-#, fuzzy
-#~| msgid "Work Package for project: %1"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Work Package for project: %1"
-#~ msgstr "プロジェクトのワークパッケージ: %1"
-
-#, fuzzy
-#~| msgctxt "@info"
-#~| msgid "Failed to save to temporary file:<br><filename>%1</filename>"
-#~ msgctxt "(qtundo-format) @info"
-#~ msgid "Failed to save to temporary file:<br><filename>%1</filename>"
-#~ msgstr "一時ファイルを保存できませんでした: %1"
-
-#~ msgctxt "@info"
-#~ msgid "Failed to save to temporary file:<br><filename>%1</filename>"
-#~ msgstr "一時ファイルを保存できませんでした: %1"
-
-#, fuzzy
-#~| msgctxt "Project manager"
-#~| msgid "Manager:"
-#~ msgctxt "(qtundo-format) Project manager"
-#~ msgid "Manager:"
-#~ msgstr "マネージャ:"
-
-#, fuzzy
-#~| msgid "Project:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Project:"
-#~ msgstr "プロジェクト:"
-
-#, fuzzy
-#~| msgid "Page"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Page"
-#~ msgstr "ページ"
-
-#, fuzzy
-#~| msgctxt "Task name"
-#~| msgid "Name"
-#~ msgctxt "(qtundo-format) Task name"
-#~ msgid "Name"
-#~ msgstr "名前"
-
-#, fuzzy
-#~| msgid "Rename"
-#~ msgctxt "(qtundo-format) @action:inmenu rename view"
-#~ msgid "Rename"
-#~ msgstr "名前変更"
-
-#, fuzzy
-#~| msgid "Configure..."
-#~ msgctxt "(qtundo-format) @action:inmenu configure view"
-#~ msgid "Configure..."
-#~ msgstr "設定..."
-
-#, fuzzy
-#~| msgid "Remove"
-#~ msgctxt "(qtundo-format) @action:inmenu remove view"
-#~ msgid "Remove"
-#~ msgstr "削除"
-
-#, fuzzy
-#~| msgid "Rename"
-#~ msgctxt "(qtundo-format) @action:inmenu rename view category"
-#~ msgid "Rename"
-#~ msgstr "名前変更"
-
-#, fuzzy
-#~| msgid "Configure..."
-#~ msgctxt "(qtundo-format) @action:inmenu configure view category"
-#~ msgid "Configure..."
-#~ msgstr "設定..."
-
-#, fuzzy
-#~| msgid "Remove"
-#~ msgctxt "(qtundo-format) @action:inmenu Remove view category"
-#~ msgid "Remove"
-#~ msgstr "削除"
-
-#, fuzzy
-#~| msgctxt "@action:inmenu Insert View"
-#~| msgid "Insert..."
-#~ msgctxt "(qtundo-format) @action:inmenu Insert View"
-#~ msgid "Insert..."
-#~ msgstr "挿入..."
-
-#~ msgid "Tip:"
-#~ msgstr "ツールチップ:"
-
-#, fuzzy
-#~| msgid "Add View"
-#~ msgctxt "(qtundo-format) @title:window"
-#~ msgid "Add View"
-#~ msgstr "ビューを追加"
-
-#, fuzzy
-#~| msgid "Resource Editor"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Resource Editor"
-#~ msgstr "リソースエディタ"
-
-#, fuzzy
-#~| msgid "Task Editor"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Task Editor"
-#~ msgstr "タスクエディタ"
-
-#, fuzzy
-#~| msgid "Work & Vacation Editor"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Work & Vacation Editor"
-#~ msgstr "稼働日/休日エディタ"
-
-#, fuzzy
-#~| msgid "Accounts Editor"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Accounts Editor"
-#~ msgstr "アカウントエディタ"
-
-#, fuzzy
-#~| msgid "Dependency Editor (Graphic)"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Dependency Editor (Graphic)"
-#~ msgstr "依存関係エディタ (グラフィカル)"
-
-#, fuzzy
-#~| msgid "Dependency Editor (List)"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Dependency Editor (List)"
-#~ msgstr "依存関係エディタ (リスト)"
-
-#, fuzzy
-#~| msgid "Schedule Handler"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Schedule Handler"
-#~ msgstr "スケジュールハンドラ"
-
-#, fuzzy
-#~| msgid "Task View"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Task View"
-#~ msgstr "タスクビュー"
-
-#, fuzzy
-#~| msgid "Gantt View"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Gantt View"
-#~ msgstr "ガントビュー"
-
-#, fuzzy
-#~| msgid "Milestone Gantt View"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Milestone Gantt View"
-#~ msgstr "マイルストーン・ガントビュー"
-
-#, fuzzy
-#~| msgid "Top"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Top"
-#~ msgstr "最初"
-
-#, fuzzy
-#~| msgid "Configure View"
-#~ msgctxt "(qtundo-format) @title:window"
-#~ msgid "Configure View"
-#~ msgstr "ビューの設定"
-
-#, fuzzy
-#~| msgid "Configure KPlato"
-#~ msgctxt "(qtundo-format) @title:window"
-#~ msgid "Configure Category"
-#~ msgstr "KPlato の設定"
-
-#, fuzzy
-#~| msgctxt "@title:window"
-#~| msgid "Add Report"
-#~ msgctxt "(qtundo-format) @title:window"
-#~ msgid "Add Report"
-#~ msgstr "レポートを追加"
-
-#, fuzzy
-#~| msgctxt "@title:window"
-#~| msgid "View Selector [modified]"
-#~ msgctxt "(qtundo-format) @title:window"
-#~ msgid "View Selector [modified]"
-#~ msgstr "ビューの選択 [変更済み]"
-
-#, fuzzy
-#~| msgid "View Selector"
-#~ msgctxt "(qtundo-format) @title:window"
-#~ msgid "View Selector"
-#~ msgstr "ビューの選択"
-
-#, fuzzy
-#~| msgctxt "NAME OF TRANSLATORS"
-#~| msgid "Your names"
-#~ msgctxt "(qtundo-format) NAME OF TRANSLATORS"
-#~ msgid "Your names"
-#~ msgstr "Taiki Komoda,Yukiko Bando"
-
-#, fuzzy
-#~| msgctxt "EMAIL OF TRANSLATORS"
-#~| msgid "Your emails"
-#~ msgctxt "(qtundo-format) EMAIL OF TRANSLATORS"
-#~ msgid "Your emails"
-#~ msgstr "kom@kde.gr.jp,ybando@k6.dion.ne.jp"
-
-#, fuzzy
-#~| msgctxt "@label:chooser"
-#~| msgid "Default:"
-#~ msgctxt "(qtundo-format) @label:chooser"
-#~ msgid "Default:"
-#~ msgstr "デフォルト:"
-
-#, fuzzy
-#~| msgctxt "@label:chooser"
-#~| msgid "Level 1"
-#~ msgctxt "(qtundo-format) @label:chooser"
-#~ msgid "Level 1"
-#~ msgstr "レベル 1"
-
-#, fuzzy
-#~| msgctxt "@label:chooser"
-#~| msgid "Level 2"
-#~ msgctxt "(qtundo-format) @label:chooser"
-#~ msgid "Level 2"
-#~ msgstr "レベル 2"
-
-#, fuzzy
-#~| msgctxt "@label:chooser"
-#~| msgid "Level 3"
-#~ msgctxt "(qtundo-format) @label:chooser"
-#~ msgid "Level 3"
-#~ msgstr "レベル 3"
-
-#, fuzzy
-#~| msgctxt "@label:chooser"
-#~| msgid "Level 4"
-#~ msgctxt "(qtundo-format) @label:chooser"
-#~ msgid "Level 4"
-#~ msgstr "レベル 4"
-
-#, fuzzy
-#~| msgctxt "@title:tab"
-#~| msgid "Task"
-#~ msgctxt "(qtundo-format) @title:tab"
-#~ msgid "Task"
-#~ msgstr "タスク"
-
-#, fuzzy
-#~| msgctxt "@label:chooser"
-#~| msgid "Normal:"
-#~ msgctxt "(qtundo-format) @label:chooser"
-#~ msgid "Normal:"
-#~ msgstr "通常:"
-
-#, fuzzy
-#~| msgctxt "@label:chooser"
-#~| msgid "Finished:"
-#~ msgctxt "(qtundo-format) @label:chooser"
-#~ msgid "Finished:"
-#~ msgstr "終了済み:"
-
-#, fuzzy
-#~| msgctxt "@label:chooser"
-#~| msgid "Error:"
-#~ msgctxt "(qtundo-format) @label:chooser"
-#~ msgid "Error:"
-#~ msgstr "エラー:"
-
-#, fuzzy
-#~| msgctxt "@title:tab"
-#~| msgid "Milestone"
-#~ msgctxt "(qtundo-format) @title:tab"
-#~ msgid "Milestone"
-#~ msgstr "マイルストーン"
-
-#, fuzzy
-#~| msgid "Calculation"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Calculation"
-#~ msgstr "計算"
-
-#, fuzzy
-#~| msgid "Manual"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Manual"
-#~ msgstr "手動"
-
-#, fuzzy
-#~| msgid "Immediate on change"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Immediate on change"
-#~ msgstr "変更があり次第"
-
-#, fuzzy
-#~| msgid "Constraints"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Constraints"
-#~ msgstr "制約"
-
-#, fuzzy
-#~| msgid "Allow overbooking of resources"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Allow overbooking of resources"
-#~ msgstr "リソースのオーバーブッキングを許可する"
-
-#, fuzzy
-#~| msgid "General"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "General"
-#~ msgstr "全般"
-
-#, fuzzy
-#~| msgid ""
-#~| "The person responsible for this task.\n"
-#~| "\n"
-#~| "This is not limited to persons available in a resource group but can be "
-#~| "anyone. You can even directly access your address book with the Choose "
-#~| "button."
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "The person responsible for this task.\n"
-#~ "\n"
-#~ "This is not limited to persons available in a resource group but can be "
-#~ "anyone. You can even directly access your address book with the Choose "
-#~ "button."
-#~ msgstr ""
-#~ "このタスクの担当者。\n"
-#~ "\n"
-#~ "これはリソースグループに登録されている人に限らず、誰を指定してもかまいませ"
-#~ "ん。「選択」ボタンを押すとアドレス帳に直接アクセスできます。"
-
-#, fuzzy
-#~| msgid "Responsible:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Responsible:"
-#~ msgstr "担当者:"
-
-#, fuzzy
-#~| msgid "Insert a person from your address book"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert a person from your address book"
-#~ msgstr "アドレス帳から人を選択"
-
-#, fuzzy
-#~| msgid "Insert a person from your address book."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert a person from your address book."
-#~ msgstr "アドレス帳から人を選択して挿入します。"
-
-#, fuzzy
-#~| msgid "Choose..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Choose..."
-#~ msgstr "選択..."
-
-#, fuzzy
-#~| msgid "As Soon as Possible"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "As Soon as Possible"
-#~ msgstr "できるだけ早く"
-
-#, fuzzy
-#~| msgid "As Late as Possible"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "As Late as Possible"
-#~ msgstr "できるだけ遅く"
-
-#, fuzzy
-#~| msgid "Must Start On"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Must Start On"
-#~ msgstr "この日に必ず開始"
-
-#, fuzzy
-#~| msgid "Must Finish On"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Must Finish On"
-#~ msgstr "この日に必ず終了"
-
-#, fuzzy
-#~| msgid "Start Not Earlier Than"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Start Not Earlier Than"
-#~ msgstr "この日以後に開始"
-
-#, fuzzy
-#~| msgid "Finish Not Later Than"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Finish Not Later Than"
-#~ msgstr "この日以前に終了"
-
-#, fuzzy
-#~| msgid "Fixed Interval"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Fixed Interval"
-#~ msgstr "固定期間"
-
-#, fuzzy
-#~| msgid "Current date and time"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Current date and time"
-#~ msgstr "現在の日時"
-
-#, fuzzy
-#~| msgid "Specified date and time"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Specified date and time"
-#~ msgstr "指定した日時"
-
-#, fuzzy
-#~| msgid "Constraint start time:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Constraint start time:"
-#~ msgstr "制約開始時刻:"
-
-#, fuzzy
-#~| msgid "Constraint end time:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Constraint end time:"
-#~ msgstr "制約終了時刻:"
-
-#, fuzzy
-#~| msgid "Estimate type:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Estimate type:"
-#~ msgstr "見積もりタイプ:"
-
-#, fuzzy
-#~| msgid "Effort"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Effort"
-#~ msgstr "工数"
-
-#, fuzzy
-#~| msgid "Duration"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Duration"
-#~ msgstr "期間"
-
-#, fuzzy
-#~| msgid "Expected estimate:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Expected estimate:"
-#~ msgstr "予想見積もり:"
-
-#, fuzzy
-#~| msgid "Optimistic estimate:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Optimistic estimate:"
-#~ msgstr "楽観的な見積り:"
-
-#, fuzzy
-#~| msgid "%"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "%"
-#~ msgstr "%"
-
-#, fuzzy
-#~| msgid "Pessimistic estimate:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Pessimistic estimate:"
-#~ msgstr "悲観的な見積り:"
-
-#, fuzzy
-#~| msgid "Description"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Description"
-#~ msgstr "概要"
-
-#, fuzzy
-#~| msgid "Current node:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Current node:"
-#~ msgstr "現在のノード:"
-
-#, fuzzy
-#~| msgid "Insert on top level"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert on top level"
-#~ msgstr "トップレベルに挿入"
-
-#, fuzzy
-#~| msgid "Insert as children to current node"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert as children to current node"
-#~ msgstr "現在のノードの子として挿入"
-
-#, fuzzy
-#~| msgid "Insert after current node"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert after current node"
-#~ msgstr "現在のノードの後に挿入"
-
-#, fuzzy
-#~| msgid "Category:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Category:"
-#~ msgstr "カテゴリ:"
-
-#, fuzzy
-#~| msgid "After"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "After"
-#~ msgstr "この後に"
-
-#, fuzzy
-#~| msgid "View type:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "View type:"
-#~ msgstr "ビューのタイプ:"
-
-#, fuzzy
-#~| msgid "Name:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Name:"
-#~ msgstr "名前:"
-
-#, fuzzy
-#~| msgid "Tip:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Tip:"
-#~ msgstr "ツールチップ:"
-
-#, fuzzy
-#~| msgid "Words"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Words"
-#~ msgstr "単語数"
-
-#, fuzzy
-#~| msgid "Sentences"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Sentences"
-#~ msgstr "文の数"
-
-#, fuzzy
-#~| msgid "Syllables"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Syllables"
-#~ msgstr "音節数"
-
-#, fuzzy
-#~| msgid "Lines"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Lines"
-#~ msgstr "行数"
-
-#, fuzzy
-#~| msgid "Characters incl. spaces"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Characters incl. spaces"
-#~ msgstr "スペースを含めた文字数"
-
-#, fuzzy
-#~| msgid "Characters without spaces"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Characters without spaces"
-#~ msgstr "スペースを除いた文字数"
-
-#, fuzzy
-#~| msgid "Flesch reading ease"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Flesch reading ease"
-#~ msgstr "Flesch reading ease"
-
-#, fuzzy
-#~| msgid "0"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "0"
-#~ msgstr "0"
-
-#, fuzzy
-#~| msgid "..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "..."
-#~ msgstr "..."
-
-#, fuzzy
-#~| msgid "Include text from foot- and endnotes"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Include text from foot- and endnotes"
-#~ msgstr "脚注/巻末注のテキストを含める"
-
-#, fuzzy
-#~| msgid "Automatically refresh data"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Automatically refresh data"
-#~ msgstr "データを自動的に更新する"
-
-#, fuzzy
-#~| msgid "Check for work packages"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Check for work packages"
-#~ msgstr "ワークパッケージを確認"
-
-#, fuzzy
-#~| msgid "Retrieve URL:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Retrieve URL:"
-#~ msgstr "URL を取得:"
-
-#, fuzzy
-#~| msgid "Save URL:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Save URL:"
-#~ msgstr "URL を保存:"
-
-#, fuzzy
-#~| msgid "Constraint start date and time"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Constraint start date and time"
-#~ msgstr "制約開始日時"
-
-#, fuzzy
-#~| msgid "Constraint end date and time"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Constraint end date and time"
-#~ msgstr "制約終了日時"
-
-#, fuzzy
-#~| msgid "Type of estimate"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Type of estimate"
-#~ msgstr "見積りタイプ"
-
-#, fuzzy
-#~| msgid "Estimate type:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Estimate time unit"
-#~ msgstr "見積もりタイプ:"
-
-#, fuzzy
-#~| msgid "Expected estimate"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Expected estimate"
-#~ msgstr "予想見積り"
-
-#, fuzzy
-#~| msgid "Optimistic estimate"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Optimistic estimate"
-#~ msgstr "楽観的な見積り"
-
-#, fuzzy
-#~| msgid "Pessimistic estimate"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Pessimistic estimate"
-#~ msgstr "悲観的な見積り"
-
-#, fuzzy
-#~| msgid "Task description"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Task description"
-#~ msgstr "タスクの概要"
-
-#, fuzzy
-#~| msgid "Automatically check for new work packages"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Automatically check for new work packages"
-#~ msgstr "自動的に新しいワークパッケージを確認する"
-
-#, fuzzy
-#~| msgid "&File"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "&File"
-#~ msgstr "ファイル(&F)"
-
-#, fuzzy
-#~| msgid "&Edit"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "&Edit"
-#~ msgstr "編集(&E)"
-
-#, fuzzy
-#~| msgid "&View"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "&View"
-#~ msgstr "表示(&V)"
-
-#, fuzzy
-#~| msgid "&Project"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "&Project"
-#~ msgstr "プロジェクト(&P)"
-
-#, fuzzy
-#~| msgid "&Tools"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "&Tools"
-#~ msgstr "ツール(&T)"
-
-#, fuzzy
-#~| msgid "&Settings"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "&Settings"
-#~ msgstr "設定(&S)"
-
-#, fuzzy
-#~| msgid "&Help"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "&Help"
-#~ msgstr "ヘルプ(&H)"
-
-#, fuzzy
-#~| msgid "Project"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Project"
-#~ msgstr "プロジェクト"
-
-#, fuzzy
-#~| msgid "Lines"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Linear"
-#~ msgstr "行数"
-
-#~ msgid "File to open"
-#~ msgstr "開くファイル"
-
-#, fuzzy
-#~| msgid "File to open"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "File to open"
-#~ msgstr "開くファイル"
-
-#, fuzzy
-#~| msgid "Type of estimate"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "The category of the view"
-#~ msgstr "見積りタイプ"
-
-#, fuzzy
-#~| msgid "Type of estimate"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "The type of view"
-#~ msgstr "見積りタイプ"
-
-#, fuzzy
-#~| msgid "Type of estimate"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "The name of the view"
-#~ msgstr "見積りタイプ"
-
-#, fuzzy
-#~| msgid "Task description"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "The views description"
-#~ msgstr "タスクの概要"
-
-#, fuzzy
-#~| msgid "Description"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Description:"
-#~ msgstr "概要"
-
-#, fuzzy
-#~| msgid "(c) 1998-2012, The Plan Team"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Copyright 1998-%1, The Plan Team"
-#~ msgstr "(c) 1998-2012, Plan 開発チーム"
-
-#, fuzzy
-#~| msgctxt "@info"
-#~| msgid "Failed to save to temporary file:<br/> <filename>%1</filename>"
-#~ msgctxt "(qtundo-format) @info"
-#~ msgid "Failed to save to temporary file:<br/><filename>%1</filename>"
-#~ msgstr "一時ファイルを保存できませんでした: %1"
-
-#, fuzzy
-#~| msgid "Delete resource"
-#~| msgid_plural "Delete resources"
-#~ msgctxt "(qtundo-format)|abcd1234efgh5665hgfe4321dcba"
-#~ msgid "Delete resource"
-#~ msgstr "リソースを削除"
-
-#, fuzzy
-#~| msgid "Delete resourcegroup"
-#~| msgid_plural "Delete resourcegroups"
-#~ msgctxt "(qtundo-format)|abcd1234efgh5665hgfe4321dcba"
-#~ msgid "Delete resourcegroup"
-#~ msgstr "リソースグループを削除"
-
-#~ msgid "Delete resourcegroups and resources"
-#~ msgstr "リソースグループとリソースを削除"
-
-#~ msgid "Modify name"
-#~ msgstr "名前を変更"
-
-#~ msgid "Modify task name"
-#~ msgstr "タスク名を変更"
-
-#~ msgid "Modify milestone name"
-#~ msgstr "マイルストーン名を変更"
-
-#~ msgid "Modify summarytask name"
-#~ msgstr "サマリタスク名を変更"
-
-#~ msgid "Calligra Plan - KDE Project Planning and Management Tool"
-#~ msgstr "Calligra Plan - KDE プロジェクトのプランニングと管理ツール"
-
-#~ msgid "Application icon for plan"
-#~ msgstr "Plan のアプリケーションアイコン"
-
-#~ msgid "Nuno Pinheiro and Danny Allen"
-#~ msgstr "Nuno Pinheiro, Danny Allen"
-
-#~ msgctxt "@info:tooltip"
-#~ msgid "View gantt chart"
-#~ msgstr "ガントチャートを表示"
-
-#~ msgctxt "@info:tooltip"
-#~ msgid "View milestone gantt chart"
-#~ msgstr "マイルストーン・ガントチャートを表示"
-
-#~ msgctxt "@info:tooltip"
-#~ msgid "View resource assignments in gantt chart"
-#~ msgstr "リソースの割り当てをガントチャート表示"
-
-#~ msgid "Open File..."
-#~ msgstr "ファイルを開く..."
-
-#~ msgid "&Reports"
-#~ msgstr "レポート(&R)"
-
-#~ msgid "KPlato"
-#~ msgstr "KPlato"
-
-#~ msgid "KPlato - KDE Planning Tool"
-#~ msgstr "KPlato - KDE プランニングツール"
-
-#~ msgid "(c) 1998-2010, The KPlato Team"
-#~ msgstr "(c) 1998-2010, KPlato 開発チーム"
-
-#~ msgid "Part of KOffice release %1"
-#~ msgstr "KOffice リリース %1 の一部"
-
-#~ msgid "Application icon for kplato"
-#~ msgstr "KPlato のアプリケーションアイコン"
-
-#~ msgid ""
-#~ "Invalid document. Expected mimetype application/x-vnd.kde.kplato, got %1"
-#~ msgstr ""
-#~ "無効な文書です。MIME タイプ application/x-vnd.kde.kplato が期待されます"
-#~ "が、%1 でした。"
-
-#~ msgid ""
-#~ "This document was created with a newer version of KPlato (syntax version: "
-#~ "%1)\n"
-#~ "Opening it in this version of KPlato will lose some information."
-#~ msgstr ""
-#~ "この文書は新しいバージョンの KPlato (構文バージョン: %1) で作成されていま"
-#~ "す。\n"
-#~ "このバージョンで開くと一部の情報が失われます。"
-
-#~ msgid ""
-#~ "Invalid document. Expected mimetype application/x-vnd.kde.kplato.work, "
-#~ "got %1"
-#~ msgstr ""
-#~ "無効な文書です。MIME タイプ application/x-vnd.kde.kplato.work が期待されま"
-#~ "すが、%1 でした。"
-
-#~ msgid ""
-#~ "This document was created with a newer version of KPlatoWork (syntax "
-#~ "version: %1)\n"
-#~ "Opening it in this version of KPlatoWork will lose some information."
-#~ msgstr ""
-#~ "この文書は新しいバージョンの KPlatoWork (構文バージョン: %1) で作成されて"
-#~ "います。\n"
-#~ "このバージョンで開くと一部の情報が失われます。"
-
-#~ msgid "Configure KPlato..."
-#~ msgstr "KPlato を設定..."
-
-#~ msgctxt "@info:status 1=schedule name"
-#~ msgid "Calculate %1"
-#~ msgstr "%1 を計算"
-
-#~ msgid "Reset baseline %1"
-#~ msgstr "ベースライン “%1” をリセット"
-
-#~ msgid "Baseline %1"
-#~ msgstr "ベースライン “%1”"
-
-#~ msgid "Add schedule %1"
-#~ msgstr "スケジュール “%1” を追加"
-
-#~ msgid "Delete schedule %1"
-#~ msgstr "スケジュール “%1” を削除"
-
-#~ msgid "Add milestone"
-#~ msgstr "マイルストーンを追加"
-
-#~ msgid "Add sub-milestone"
-#~ msgstr "サブマイルストーンを追加"
-
-#~ msgid "Indent task"
-#~ msgstr "タスクをインデント"
-
-#~ msgid "Unindent task"
-#~ msgstr "タスクを逆インデント"
-
-#~ msgid "Move task up"
-#~ msgstr "タスクを上に移動"
-
-#~ msgid "Move task down"
-#~ msgstr "タスクを下に移動"
-
-#~ msgid "Add task dependency"
-#~ msgstr "タスクの依存関係を追加"
-
-#~ msgid "Delete task dependency"
-#~ msgstr "タスクの依存関係を削除"
-
-#~ msgctxt "@info"
-#~ msgid "Cannot open file:</br><filename>%1</filename>"
-#~ msgstr "ファイルを開くことができませんでした:<br/><filename>%1</filename>"
-
-#~ msgid "Insert project nodes"
-#~ msgstr "プロジェクトノードを挿入"
-
-#~ msgid "View gantt chart"
-#~ msgstr "ガントチャートを表示"
-
-#~ msgid "View milestone gantt chart"
-#~ msgstr "マイルストーン・ガントチャートを表示"
-
-#~ msgid "View resource assignments"
-#~ msgstr "リソースの割り当てを表示"
-
-#~ msgid "View resource assignments in gantt chart"
-#~ msgstr "リソースの割り当てをガントチャート表示"
-
-#~ msgctxt "@info:status 1=schedule name"
-#~ msgid "%1: Calculating..."
-#~ msgstr "%1: 計算中..."
-
-#, fuzzy
-#~| msgid "%1: Calculating done"
-#~ msgctxt "@info:status 1=schedule name"
-#~ msgid "%1: Calculation stopped"
-#~ msgstr "%1: 計算停止"
-
-#, fuzzy
-#~| msgid "%1: Calculating done"
-#~ msgctxt "@info:status 1=schedule name"
-#~ msgid "%1: Calculation canceled"
-#~ msgstr "%1: 計算中止"
-
-#~ msgctxt "@info:status 1=schedule name"
-#~ msgid "%1: Calculation error"
-#~ msgstr "%1: 計算エラー"
-
-#~ msgctxt "@info:status 1=schedule name"
-#~ msgid "%1: Calculating done"
-#~ msgstr "%1: 計算完了"
-
-# Toolbar name
-#~ msgid "View"
-#~ msgstr "ビュー"
-
-#, fuzzy
-#~| msgid "Constraints"
-#~ msgid "Constraint start datetime"
-#~ msgstr "制約"
-
-#~ msgid "Delete Tasks"
-#~ msgstr "タスクを削除"
-
-#~ msgid "Add Task"
-#~ msgstr "タスクを追加"
-
-#~ msgid "%1: Calculating..."
-#~ msgstr "%1: 計算中..."
-
-#~ msgid "%1: Calculating done"
-#~ msgstr "%1: 計算完了"
-
-#~ msgid "Reset Baseline %1"
-#~ msgstr "ベースライン “%1” をリセット"
-
-#~ msgid "Add Schedule %1"
-#~ msgstr "スケジュール “%1” を追加"
-
-#~ msgid "Delete Schedule %1"
-#~ msgstr "スケジュール “%1” を削除"
-
-#~ msgid "Add Relation"
-#~ msgstr "関連を追加"
-
-#, fuzzy
-#~| msgid "Work Package"
-#~ msgid "Send Work Package..."
-#~ msgstr "ワークパッケージ"
-
-#~ msgid "Delete Relation"
-#~ msgstr "関連を削除"
-
-#~ msgid "Add Subtask"
-#~ msgstr "サブタスクを追加"
-
-#~ msgid "Delete Task Dependency"
-#~ msgstr "タスクの依存関係を削除"
-
-#~ msgid "Delete Resource"
-#~ msgstr "リソースを削除"
-
-#~ msgid "Delete Resource Objects"
-#~ msgstr "リソースオブジェクトを削除"
-
-#~ msgid "Delete Resourcegroup"
-#~ msgstr "リソースグループを削除"
-
-#~ msgid "Modify Name"
-#~ msgstr "名前を変更"
-
-#, fuzzy
-#~| msgid "Insert"
-#~ msgctxt "@action Insert View"
-#~ msgid "Insert..."
-#~ msgstr "挿入"
-
-#, fuzzy
-#~| msgid "(c) 1998-2008, The KPlato Team"
-#~ msgid "(c) 1998-2009, The KPlato Team"
-#~ msgstr "(c) 1998-2008, KPlato 開発チーム"
-
-#, fuzzy
-#~| msgid "Add Subtask"
-#~ msgid "Add sub-task"
-#~ msgstr "サブタスクを追加"
-
-#, fuzzy
-#~| msgid "Add Task"
-#~ msgid "Add task"
-#~ msgstr "タスクを追加"
-
-#~ msgid "Timing"
-#~ msgstr "時間"
-
-#~ msgid "Schedule:"
-#~ msgstr "スケジュール:"
-
-#~ msgid "Length"
-#~ msgstr "長さ"
-
-#~ msgid "Optimistic:"
-#~ msgstr "楽観値:"
-
-#~ msgid "Pessimistic:"
-#~ msgstr "悲観値:"
-
-#~ msgid "Note:"
-#~ msgstr "メモ:"
-
-#~ msgid "Edit Standard Worktime..."
-#~ msgstr "標準稼働時間を編集..."
-
-#~ msgid "Work Package Control..."
-#~ msgstr "ワークパッケージの管理..."
-
-#~ msgid "Edit resource breakdown structure."
-#~ msgstr "リソース構成明細を編集"
-
-#~ msgid "Show allocations"
-#~ msgstr "割り当てを表示"
-
-#~ msgid "Edit task dependenies"
-#~ msgstr "タスクの依存関係を編集"
-
-#~ msgctxt "@action Add View"
-#~ msgid "View..."
-#~ msgstr "ビュー..."
-
-#~ msgid "Remove Document"
-#~ msgstr "文書を削除"
-
-#~ msgid "Work Package Control"
-#~ msgstr "ワークパッケージの管理"
-
-#~ msgid "Modify Default Task"
-#~ msgstr "デフォルトのタスクを変更"
-
-#, fuzzy
-#~| msgid "Progress..."
-#~ msgid "Notes..."
-#~ msgstr "進捗..."

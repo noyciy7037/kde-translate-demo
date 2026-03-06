@@ -1,21 +1,17 @@
-# Translation of krossmodulekplato into Japanese.
-# Yukiko Bando <ybando@k6.dion.ne.jp>, 2009.
-# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2012, 2015.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the calligraplan package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: krossmodulekplato\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-10-24 23:01+0200\n"
-"PO-Revision-Date: 2015-04-25 16:34-0700\n"
-"Last-Translator: Fumiaki Okushi <fumiaki.okushi@gmail.com>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: calligraplan\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6
 #: Project.cpp:362 Project.cpp:365 Project.cpp:377 Project.cpp:380
@@ -124,8 +120,7 @@ msgid "Export Selected Schedule"
 msgstr "選択したスケジュールをエクスポート"
 
 #. +> trunk6
-#: scripts/busyinfoexport.py:30 scripts/plan2csvexport.py:94
-#: scripts/plan2odsexport.py:106
+#: scripts/busyinfoexport.py:30 scripts/plan2csvexport.py:94 scripts/plan2odsexport.py:106
 msgid "Schedules"
 msgstr "スケジュール"
 
@@ -135,35 +130,25 @@ msgid "Export Busy Info File"
 msgstr "フリー/ビジー情報ファイルをエクスポート"
 
 #. +> trunk6
-#: scripts/busyinfoexport.py:33 scripts/plan2csvexport.py:100
-#: scripts/plan2odsexport.py:112
+#: scripts/busyinfoexport.py:33 scripts/plan2csvexport.py:100 scripts/plan2odsexport.py:112
 msgid "Save"
 msgstr "保存"
 
 #. +> trunk6
-#: scripts/busyinfoexport.py:36 scripts/busyinfoimport.py:25
-#: scripts/plan2csvexport.py:103 scripts/plan2odsexport.py:115
-#: scripts/resourcesimport.py:26
+#: scripts/busyinfoexport.py:36 scripts/busyinfoimport.py:25 scripts/plan2csvexport.py:103 scripts/plan2odsexport.py:115 scripts/resourcesimport.py:26
 msgid "All Files"
 msgstr "すべてのファイル"
 
 #. +> trunk6
-#: scripts/busyinfoexport.py:42 scripts/busyinfoexport.py:47
-#: scripts/busyinfoexport.py:51 scripts/busyinfoimport.py:34
-#: scripts/busyinfoimport.py:39 scripts/busyinfoimport.py:49
-#: scripts/plan2csvexport.py:29 scripts/plan2csvexport.py:31
-#: scripts/plan2odsexport.py:28 scripts/plan2odsexport.py:30
-#: scripts/resourcesimport.py:35 scripts/resourcesimport.py:44
-#: scripts/resourcesimport.py:48 scripts/resourcesimport.py:51
-#: scripts/resourcesimport.py:69 scripts/resourcesimport.py:74
-#: scripts/resourcesimport.py:83 scripts/resourcesimport.py:93
+#: scripts/busyinfoexport.py:42 scripts/busyinfoexport.py:47 scripts/busyinfoexport.py:51 scripts/busyinfoimport.py:34 scripts/busyinfoimport.py:39 scripts/busyinfoimport.py:49
+#: scripts/plan2csvexport.py:29 scripts/plan2csvexport.py:31 scripts/plan2odsexport.py:28 scripts/plan2odsexport.py:30 scripts/resourcesimport.py:35 scripts/resourcesimport.py:44
+#: scripts/resourcesimport.py:48 scripts/resourcesimport.py:51 scripts/resourcesimport.py:69 scripts/resourcesimport.py:74 scripts/resourcesimport.py:83 scripts/resourcesimport.py:93
 #: scripts/resourcesimport.py:97
 msgid "Error"
 msgstr "エラー"
 
 #. +> trunk6
-#: scripts/busyinfoexport.py:47 scripts/busyinfoimport.py:39
-#: scripts/resourcesimport.py:40
+#: scripts/busyinfoexport.py:47 scripts/busyinfoimport.py:39 scripts/resourcesimport.py:40
 msgid "No file selected"
 msgstr "ファイルが選択されていません"
 
@@ -404,8 +389,7 @@ msgstr "リソースのフリー/ビジー情報をクリア"
 #: scripts/scripts.rc:16
 #, kde-format
 msgid "Python script to clear the imported resource busy information"
-msgstr ""
-"インポートしたリソースのフリー/ビジー情報をクリアする Python スクリプト"
+msgstr "インポートしたリソースのフリー/ビジー情報をクリアする Python スクリプト"
 
 #. i18n: tag collection attribute text
 #. +> trunk6
@@ -502,12 +486,8 @@ msgstr "オンラインヘルプ"
 #. +> trunk6
 #: scripts/scripts.rc:47
 #, kde-format
-msgid ""
-"Python script that uses the KHTML Part to display the Plan Scripting online "
-"help"
-msgstr ""
-"KHTML コンポーネントを使って Plan スクリプティングのオンラインヘルプを表示す"
-"る Python スクリプト"
+msgid "Python script that uses the KHTML Part to display the Plan Scripting online help"
+msgstr "KHTML コンポーネントを使って Plan スクリプティングのオンラインヘルプを表示する Python スクリプト"
 
 #. i18n: tag collection attribute text
 #. +> trunk6
@@ -550,216 +530,3 @@ msgstr "リソースのフリー/ビジー情報を印刷..."
 #, kde-format
 msgid "Example python script that print resource busy information"
 msgstr "リソースのフリー/ビジー情報を印刷する Python スクリプトの例"
-
-#, fuzzy
-#~| msgid "Schedule Name"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Schedule Name"
-#~ msgstr "スケジュール名"
-
-#, fuzzy
-#~| msgid "Select from:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Select from:"
-#~ msgstr "選択元:"
-
-#, fuzzy
-#~| msgid "Resources"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Resources"
-#~ msgstr "リソース"
-
-#, fuzzy
-#~| msgid "Accounts"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Accounts"
-#~ msgstr "アカウント"
-
-#, fuzzy
-#~| msgid "Include headers"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Include headers"
-#~ msgstr "ヘッダを含める"
-
-#, fuzzy
-#~| msgid "&Tools"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "&Tools"
-#~ msgstr "ツール(&T)"
-
-#, fuzzy
-#~| msgid "Resource Busy Information"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Resource Busy Information"
-#~ msgstr "リソースのフリー/ビジー情報"
-
-#, fuzzy
-#~| msgid "Handle resource busy information"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Handle resource busy information"
-#~ msgstr "リソースのフリー/ビジー情報を扱います"
-
-#, fuzzy
-#~| msgid "Export Resource Busy Information"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Export Resource Busy Information"
-#~ msgstr "リソースのフリー/ビジー情報をエクスポート"
-
-#, fuzzy
-#~| msgid "Python script to export busy information to file"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Python script to export busy information to file"
-#~ msgstr "フリー/ビジー情報をファイルにエクスポートする Python スクリプト"
-
-#, fuzzy
-#~| msgid "Import Resource Busy Information"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Import Resource Busy Information"
-#~ msgstr "リソースのフリー/ビジー情報をインポート"
-
-#, fuzzy
-#~| msgid "Python script to import busy information from file"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Python script to import busy information from file"
-#~ msgstr "フリー/ビジー情報をファイルからインポートする Python スクリプト"
-
-#, fuzzy
-#~| msgid "Clear Resource Busy Information"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Clear Resource Busy Information"
-#~ msgstr "リソースのフリー/ビジー情報をクリア"
-
-#, fuzzy
-#~| msgid "Python script to clear the imported resource busy information"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Python script to clear the imported resource busy information"
-#~ msgstr ""
-#~ "インポートしたリソースのフリー/ビジー情報をクリアする Python スクリプト"
-
-#, fuzzy
-#~| msgid "Import"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Import"
-#~ msgstr "インポート"
-
-#, fuzzy
-#~| msgid "Export content"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Import content"
-#~ msgstr "内容をエクスポート"
-
-#, fuzzy
-#~| msgid "Resources from Plan File"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Resources from Plan File"
-#~ msgstr "Plan ファイルのリソース"
-
-#, fuzzy
-#~| msgid "Python script to import resources from project file"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Python script to import resources from project file"
-#~ msgstr "プロジェクトファイルからリソースをインポートする Python スクリプト"
-
-#, fuzzy
-#~| msgid "Export"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Export"
-#~ msgstr "エクスポート"
-
-#, fuzzy
-#~| msgid "Export content"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Export content"
-#~ msgstr "内容をエクスポート"
-
-#, fuzzy
-#~| msgid "Tools"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Tools"
-#~ msgstr "ツール"
-
-#, fuzzy
-#~| msgid "Miscellaneous scripts"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Miscellaneous scripts"
-#~ msgstr "その他のスクリプト"
-
-#, fuzzy
-#~| msgid "Online Help"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Online Help"
-#~ msgstr "オンラインヘルプ"
-
-#, fuzzy
-#~| msgid ""
-#~| "Python script that uses the KHTML Part to display the Plan Scripting "
-#~| "online help"
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "Python script that uses the KHTML Part to display the Plan Scripting "
-#~ "online help"
-#~ msgstr ""
-#~ "KHTML コンポーネントを使って Plan スクリプティングのオンラインヘルプを表示"
-#~ "する Python スクリプト"
-
-#, fuzzy
-#~| msgid "Samples"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Samples"
-#~ msgstr "例"
-
-#, fuzzy
-#~| msgid "Samples to demonstrate scripting with Plan"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Samples to demonstrate scripting with Plan"
-#~ msgstr "Plan でのスクリプティングの使用例"
-
-#, fuzzy
-#~| msgid "Print Project Information..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Print Project Information..."
-#~ msgstr "プロジェクトの情報を印刷..."
-
-#, fuzzy
-#~| msgid "Example python script that print project information"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Example python script that print project information"
-#~ msgstr "プロジェクトの情報を印刷する Python スクリプトの例"
-
-#, fuzzy
-#~| msgid "Print Resource busy Information..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Print Resource busy Information..."
-#~ msgstr "リソースのフリー/ビジー情報を印刷..."
-
-#, fuzzy
-#~| msgid "Example python script that print resource busy information"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Example python script that print resource busy information"
-#~ msgstr "リソースのフリー/ビジー情報を印刷する Python スクリプトの例"
-
-#~ msgctxt "(qtundo_format)"
-#~ msgid "Add resource"
-#~ msgstr "リソースを追加"
-
-#~ msgid "Export busy info"
-#~ msgstr "フリー/ビジー情報をエクスポート"
-
-#~ msgid "KPlato Resources"
-#~ msgstr "KPlato リソース"
-
-#~ msgid "Resources from KPlato File"
-#~ msgstr "KPlato ファイルのリソース"
-
-#~ msgid ""
-#~ "Python script that uses the KHTML Part to display the KPlato Scripting "
-#~ "online help"
-#~ msgstr ""
-#~ "KHTML コンポーネントを使って KPlato スクリプティングのオンラインヘルプを表"
-#~ "示する Python スクリプト"
-
-#~ msgid "Samples to demonstrate scripting with KPlato"
-#~ msgstr "KPlato でのスクリプティングの使用例"
-
-#~ msgid "Nodes"
-#~ msgstr "ノード"

@@ -1,29 +1,26 @@
+# POT_PART_NORMAL only
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the calligraplan package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: plantjplugin\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-10-24 23:01+0200\n"
-"PO-Revision-Date: 2011-10-12 22:10-0700\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: calligraplan\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6
 #: PlanTJPlugin.cpp:43
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
 msgid ""
-"<title>TaskJuggler Scheduler</title><para>This is a slightly modified "
-"version of the scheduler used in TaskJuggler. It has been enhanced to handle "
-"resource units.</para><para>Scheduling backwards is simulated by scheduling "
-"all tasks as late as possible.</para><para><note>Plan does not utilize all "
-"of its functionality.</note></para>"
+"<title>TaskJuggler Scheduler</title><para>This is a slightly modified version of the scheduler used in TaskJuggler. It has been enhanced to handle resource units.</para><para>Scheduling backwards is"
+" simulated by scheduling all tasks as late as possible.</para><para><note>Plan does not utilize all of its functionality.</note></para>"
 msgstr ""
 
 #. +> trunk6
@@ -275,7 +272,5 @@ msgstr ""
 #. +> trunk6
 #: PlanTJScheduler.cpp:1241
 #, kde-format
-msgid ""
-"Appointment with load (%1) less than available resource units (%2) not "
-"supported"
+msgid "Appointment with load (%1) less than available resource units (%2) not supported"
 msgstr ""
