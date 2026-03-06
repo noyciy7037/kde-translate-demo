@@ -1,27 +1,13 @@
-# Translation of desktop_kdepim into Japanese.
-# Taiki Komoda <kom@kde.gr.jp>, 2002,2003.
-# Shinichi Tsunoda <tsuno@ngy.1st.ne.jp>, 2004, 2005.
-# Toyohiro Asukai <toyohiro@ksmplus.com>, 2004.
-# AWASHIRO Ikuya <ikuya@oooug.jp>, 2004.
-# Yukiko Bando <ybando@k6.dion.ne.jp>, 2006, 2007, 2008, 2009, 2010.
-# Daniel E. Moctezuma <democtezuma@gmail.com>, 2010.
-# Fumiaki Okushi <okushi@kde.gr.jp>, 2006, 2010, 2011.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: desktop_kdepim\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-02-16 00:15+0100\n"
-"PO-Revision-Date: 2011-06-12 19:07-0700\n"
-"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: json files\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.0\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: \n"
-"X-Text-Markup: \n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6 stable6
 #: configuration/akregator_config_advanced.json
@@ -32,8 +18,6 @@ msgstr "詳細"
 #. +> trunk6 stable6
 #: configuration/akregator_config_advanced.json
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Advanced Feed Reader Settings"
 msgctxt "Description"
 msgid "Advanced Feed Reader Settings"
 msgstr "フィードリーダーの詳細設定"
@@ -47,8 +31,6 @@ msgstr "外観"
 #. +> trunk6 stable6
 #: configuration/akregator_config_appearance.json
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Configure the Feed Reader Appearance"
 msgctxt "Description"
 msgid "Configure the Feed Reader Appearance"
 msgstr "フィードリーダーの外観設定"
@@ -62,8 +44,6 @@ msgstr "アーカイブ"
 #. +> trunk6 stable6
 #: configuration/akregator_config_archive.json
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Configure Feed Archive"
 msgctxt "Description"
 msgid "Configure Feed Archive"
 msgstr "フィードのアーカイブ設定"
@@ -77,8 +57,6 @@ msgstr "ブラウザ"
 #. +> trunk6 stable6
 #: configuration/akregator_config_browser.json
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Configure Internal Browser Component"
 msgctxt "Description"
 msgid "Configure Internal Browser Component"
 msgstr "内部ブラウザコンポーネントの設定"
@@ -92,8 +70,6 @@ msgstr "全般"
 #. +> trunk6 stable6
 #: configuration/akregator_config_general.json
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Configure Feeds"
 msgctxt "Description"
 msgid "Configure Feeds"
 msgstr "フィードの全般設定"
@@ -107,8 +83,6 @@ msgstr "プラグイン"
 #. +> trunk6 stable6
 #: configuration/akregator_config_plugins.json
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Configure Feeds"
 msgctxt "Description"
 msgid "Configure Plugins"
 msgstr "フィードの全般設定"
@@ -122,8 +96,6 @@ msgstr "セキュリティ"
 #. +> trunk6 stable6
 #: configuration/akregator_config_security.json
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Configure Storage"
 msgctxt "Description"
 msgid "Configure Security"
 msgstr "保存の設定"
@@ -143,48 +115,6 @@ msgstr "フィード"
 #. +> trunk6 stable6
 #: kontactplugin/akregatorplugin.json
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Akregator Plugin"
 msgctxt "Description"
 msgid "Akregator Plugin"
 msgstr "Akregator プラグイン"
-
-#~ msgctxt "Name"
-#~ msgid "Metakit storage backend"
-#~ msgstr "Metakit ストレージバックエンド"
-
-#~ msgctxt "Comment"
-#~ msgid "Plugin for Akregator"
-#~ msgstr "Akregator 用プラグイン"
-
-#~ msgctxt "Comment"
-#~ msgid "Akregator"
-#~ msgstr "Akregator"
-
-#~ msgctxt "Name"
-#~ msgid "Feed added"
-#~ msgstr "フィード追加"
-
-#~ msgctxt "Comment"
-#~ msgid "A new feed was remotely added to Akregator"
-#~ msgstr "新しいフィードがリモートで Akregator に追加されました"
-
-#~ msgctxt "Name"
-#~ msgid "New Articles"
-#~ msgstr "新着記事"
-
-#~ msgctxt "Comment"
-#~ msgid "New articles were fetched"
-#~ msgstr "新しい記事を取得しました"
-
-#~ msgctxt "Name"
-#~ msgid "Akregator"
-#~ msgstr "Akregator"
-
-#~ msgctxt "GenericName"
-#~ msgid "Feed Reader"
-#~ msgstr "フィードリーダー"
-
-#~ msgctxt "Comment"
-#~ msgid "A KDE News Feed Reader"
-#~ msgstr "KDE ニュースフィードリーダー"
