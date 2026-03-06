@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/kde-gtk-config/*.pot"
+    l10n = "{locale}/summit/messages/kde-gtk-config/*.po"
+

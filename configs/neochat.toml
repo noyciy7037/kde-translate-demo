@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/neochat/*.pot"
+    l10n = "{locale}/summit/messages/neochat/*.po"
+

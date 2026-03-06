@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/kdeconnect-android/*.pot"
+    l10n = "{locale}/summit/messages/kdeconnect-android/*.po"
+

@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/plasma-remotecontrollers/*.pot"
+    l10n = "{locale}/summit/messages/plasma-remotecontrollers/*.po"
+

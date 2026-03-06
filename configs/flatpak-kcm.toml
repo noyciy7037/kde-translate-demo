@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/flatpak-kcm/*.pot"
+    l10n = "{locale}/summit/messages/flatpak-kcm/*.po"
+

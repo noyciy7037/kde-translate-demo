@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/peertube-voice-application/*.pot"
+    l10n = "{locale}/summit/messages/peertube-voice-application/*.po"
+

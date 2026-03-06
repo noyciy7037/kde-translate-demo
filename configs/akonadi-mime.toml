@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/akonadi-mime/*.pot"
+    l10n = "{locale}/summit/messages/akonadi-mime/*.po"
+

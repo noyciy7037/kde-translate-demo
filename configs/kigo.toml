@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/kigo/*.pot"
+    l10n = "{locale}/summit/messages/kigo/*.po"
+

@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/documentation-kstars-docs-kde-org/*.pot"
+    l10n = "{locale}/summit/messages/documentation-kstars-docs-kde-org/*.po"
+

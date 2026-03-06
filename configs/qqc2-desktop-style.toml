@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/qqc2-desktop-style/*.pot"
+    l10n = "{locale}/summit/messages/qqc2-desktop-style/*.po"
+

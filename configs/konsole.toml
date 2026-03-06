@@ -7,3 +7,4 @@ locales = [
 [[paths]]
     reference = "templates/summit/messages/konsole/*.pot"
     l10n = "{locale}/summit/messages/konsole/*.po"
+

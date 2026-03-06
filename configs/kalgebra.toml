@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/kalgebra/*.pot"
+    l10n = "{locale}/summit/messages/kalgebra/*.po"
+

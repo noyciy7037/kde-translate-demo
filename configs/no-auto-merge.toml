@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/no-auto-merge/*.pot"
+    l10n = "{locale}/summit/messages/no-auto-merge/*.po"
+

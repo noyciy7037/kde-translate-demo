@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/lightdm-kde-greeter/*.pot"
+    l10n = "{locale}/summit/messages/lightdm-kde-greeter/*.po"
+

@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/snap-kcm/*.pot"
+    l10n = "{locale}/summit/messages/snap-kcm/*.po"
+

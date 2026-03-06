@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/syntax-highlighting/*.pot"
+    l10n = "{locale}/summit/messages/syntax-highlighting/*.po"
+

@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/kgeotag/*.pot"
+    l10n = "{locale}/summit/messages/kgeotag/*.po"
+

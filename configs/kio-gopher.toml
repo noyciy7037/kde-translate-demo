@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/kio-gopher/*.pot"
+    l10n = "{locale}/summit/messages/kio-gopher/*.po"
+

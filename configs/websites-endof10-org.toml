@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/websites-endof10-org/*.pot"
+    l10n = "{locale}/summit/messages/websites-endof10-org/*.po"
+

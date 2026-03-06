@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/kcolorchooser/*.pot"
+    l10n = "{locale}/summit/messages/kcolorchooser/*.po"
+

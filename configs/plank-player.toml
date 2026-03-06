@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/plank-player/*.pot"
+    l10n = "{locale}/summit/messages/plank-player/*.po"
+

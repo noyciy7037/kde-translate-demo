@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/kirigami-addons/*.pot"
+    l10n = "{locale}/summit/messages/kirigami-addons/*.po"
+
