@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Licensed under the terms of the <a href="https://spdx.org/licenses/GFDL-1.2-or-later.html">GNU Free Documentation License 1.2+</a> unless stated otherwise
+# This file is distributed under the same license as the Digikam Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Digikam Manual 8.0.0\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-26 06:08+0100\n"
-"PO-Revision-Date: 2022-12-29 23:26-0800\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Digikam Manual 9.0.0\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../import_tools/scanner_import.rst:14
@@ -22,35 +21,25 @@ msgstr ""
 #. +> trunk5
 #: ../../import_tools/scanner_import.rst:16
 msgid ""
-"This tool can scan images using a flatbed scanner. It uses an interface for "
-"the `SANE Library <http://sane-project.org/>`_ to control the scanner. It "
-"can save scanned images into all of the main image formats that digiKam "
-"supports."
+"This tool can scan images using a flatbed scanner. It uses an interface for the `SANE Library <http://sane-project.org/>`_ to control the scanner. It can save scanned images into all of the main "
+"image formats that digiKam supports."
 msgstr ""
 
 #. +> trunk5
 #: ../../import_tools/scanner_import.rst:20
-msgid ""
-"You can check the status of your scanner support from the SANE project "
-"website by using `this manufacturers list <http://www.sane-project.org/sane-"
-"mfgs.html>`_."
+msgid "You can check the status of your scanner support from the SANE project website by using `this manufacturers list <http://www.sane-project.org/sane-mfgs.html>`_."
 msgstr ""
 
 #. +> trunk5
 #: ../../import_tools/scanner_import.rst:22
 msgid ""
-"If the selected scanner cannot be opened, or if no default scanner is "
-"provided, a scanner selection dialog is displayed. Select the scanner to be "
-"used and press **OK** to open the scanner. Pressing **Cancel** will exit the "
-"tool."
+"If the selected scanner cannot be opened, or if no default scanner is provided, a scanner selection dialog is displayed. Select the scanner to be used and press **OK** to open the scanner. Pressing "
+"**Cancel** will exit the tool."
 msgstr ""
 
 #. +> trunk5
 #: ../../import_tools/scanner_import.rst:24
-msgid ""
-"In the case where no device is found, check that the scanner is plugged in "
-"or switched on. The **Reload device list** can be used to reload the list of "
-"scanners."
+msgid "In the case where no device is found, check that the scanner is plugged in or switched on. The **Reload device list** can be used to reload the list of scanners."
 msgstr ""
 
 #. +> trunk5
@@ -60,17 +49,14 @@ msgstr ""
 
 #. +> trunk5
 #: ../../import_tools/scanner_import.rst:34
-msgid ""
-"Not all drivers or backends support the Reload feature. In this case, quit "
-"the tool, connect your scanner and restart digiKam."
+msgid "Not all drivers or backends support the Reload feature. In this case, quit the tool, connect your scanner and restart digiKam."
 msgstr ""
 
 #. +> trunk5
 #: ../../import_tools/scanner_import.rst:36
 msgid ""
-"The main window presents the user with three sets of scan options: Basic, "
-"Advanced, and Scanner Specific. The **Basic Options** tab contains the most "
-"common parameters that the SANE scanner backends provide."
+"The main window presents the user with three sets of scan options: Basic, Advanced, and Scanner Specific. The **Basic Options** tab contains the most common parameters that the SANE scanner backends"
+" provide."
 msgstr ""
 
 #. +> trunk5
@@ -80,9 +66,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../import_tools/scanner_import.rst:44
-msgid ""
-"The **Advanced Options** tab contains the analog gamma tables, along with "
-"some less common options."
+msgid "The **Advanced Options** tab contains the analog gamma tables, along with some less common options."
 msgstr ""
 
 #. +> trunk5
@@ -93,10 +77,8 @@ msgstr ""
 #. +> trunk5
 #: ../../import_tools/scanner_import.rst:52
 msgid ""
-"The **Scanner Specific Options** tab contains all of the scanner specific "
-"options. The options listed here depend on the SANE parameters supported by "
-"your driver. The scanner import dialog should be able to display most of the "
-"parameter types that SANE provides."
+"The **Scanner Specific Options** tab contains all of the scanner specific options. The options listed here depend on the SANE parameters supported by your driver. The scanner import dialog should be"
+" able to display most of the parameter types that SANE provides."
 msgstr ""
 
 #. +> trunk5
@@ -107,10 +89,8 @@ msgstr ""
 #. +> trunk5
 #: ../../import_tools/scanner_import.rst:60
 msgid ""
-"The settings area in the Scanner Import Dialog can be collapsed or expanded "
-"by clicking on the little arrow on top of the options splitter. The "
-"collapser can overlap the preview area, but fades away when the mouse cursor "
-"moves out of the collapser."
+"The settings area in the Scanner Import Dialog can be collapsed or expanded by clicking on the little arrow on top of the options splitter. The collapser can overlap the preview area, but fades away"
+" when the mouse cursor moves out of the collapser."
 msgstr ""
 
 #. +> trunk5
@@ -126,19 +106,15 @@ msgstr ""
 #. +> trunk5
 #: ../../import_tools/scanner_import.rst:70
 msgid ""
-"To scan a selected portion of an image, first click the **Preview** button "
-"to perform a quick preview scan. Then select the part of the scan area to "
-"perform the final scan, before clicking the Scan button. The progress of the "
-"scan will be displayed."
+"To scan a selected portion of an image, first click the **Preview** button to perform a quick preview scan. Then select the part of the scan area to perform the final scan, before clicking the Scan "
+"button. The progress of the scan will be displayed."
 msgstr ""
 
 #. +> trunk5
 #: ../../import_tools/scanner_import.rst:72
 msgid ""
-"Sometimes you need only specific parts of an image. Instead of scanning the "
-"whole picture and then using the Image Editor to save different parts of the "
-"image into separate files, you can use the multiple selection feature of the "
-"tool."
+"Sometimes you need only specific parts of an image. Instead of scanning the whole picture and then using the Image Editor to save different parts of the image into separate files, you can use the "
+"multiple selection feature of the tool."
 msgstr ""
 
 #. +> trunk5
@@ -149,45 +125,33 @@ msgstr ""
 #. +> trunk5
 #: ../../import_tools/scanner_import.rst:80
 msgid ""
-"Scan a preview and then use the left mouse button to select the first part "
-"of the image from the preview. Hover over the selected area with the mouse "
-"cursor and click on the **Green Plus** button to select the area. Selected "
-"areas are indicated by a red border. Now select the next parts of the image "
-"in the same way."
+"Scan a preview and then use the left mouse button to select the first part of the image from the preview. Hover over the selected area with the mouse cursor and click on the **Green Plus** button to"
+" select the area. Selected areas are indicated by a red border. Now select the next parts of the image in the same way."
 msgstr ""
 
 #. +> trunk5
 #: ../../import_tools/scanner_import.rst:82
 msgid ""
-"To remove a single selection, hover over the area with the mouse cursor and "
-"click on the **Red Minus** button. All selections in the preview can be "
-"removed by selecting the **Clear Selections** item from the context menu "
-"displayed by clicking the right mouse button."
+"To remove a single selection, hover over the area with the mouse cursor and click on the **Red Minus** button. All selections in the preview can be removed by selecting the **Clear Selections** item"
+" from the context menu displayed by clicking the right mouse button."
 msgstr ""
 
 #. +> trunk5
 #: ../../import_tools/scanner_import.rst:84
-msgid ""
-"If you place two separate images or photos on your scanner and run a preview "
-"scan, the tool will automatically preselect the different areas."
+msgid "If you place two separate images or photos on your scanner and run a preview scan, the tool will automatically preselect the different areas."
 msgstr ""
 
 #. +> trunk5
 #: ../../import_tools/scanner_import.rst:86
-msgid ""
-"Once satisfied with the selected areas, start the final batch scan to scan "
-"all the selections. The selected parts of the image are scanned and saved "
-"separately into different files."
+msgid "Once satisfied with the selected areas, start the final batch scan to scan all the selections. The selected parts of the image are scanned and saved separately into different files."
 msgstr ""
 
 #. +> trunk5
-#: ../../import_tools/scanner_import.rst:-1
+#: ../../import_tools/scanner_import.rst:-1:
 msgid "digiKam Import From Digital Scanner"
 msgstr ""
 
 #. +> trunk5
-#: ../../import_tools/scanner_import.rst:-1
-msgid ""
-"digiKam, documentation, user manual, photo management, open source, free, "
-"learn, easy, scanner, import"
+#: ../../import_tools/scanner_import.rst:-1:
+msgid "digiKam, documentation, user manual, photo management, open source, free, learn, easy, scanner, import"
 msgstr ""

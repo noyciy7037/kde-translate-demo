@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Licensed under the terms of the <a href="https://spdx.org/licenses/GFDL-1.2-or-later.html">GNU Free Documentation License 1.2+</a> unless stated otherwise
+# This file is distributed under the same license as the Digikam Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Digikam Manual 8.0.0\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-26 06:08+0100\n"
-"PO-Revision-Date: 2023-01-28 23:25-0800\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Digikam Manual 9.0.0\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../batch_queue/metadata_tools.rst:14
@@ -27,10 +26,8 @@ msgstr ""
 #. +> trunk5
 #: ../../batch_queue/metadata_tools.rst:18
 msgid ""
-"The Batch Manager metadata tools are used to assist with :ref:`Digital Asset "
-"Management <asset_management>` by managing metadata values in items within a "
-"Queue, by helping to classify contents in your collection, or by preparing "
-"files for sharing with other applications."
+"The Batch Manager metadata tools are used to assist with :ref:`Digital Asset Management <asset_management>` by managing metadata values in items within a Queue, by helping to classify contents in "
+"your collection, or by preparing files for sharing with other applications."
 msgstr ""
 
 #. +> trunk5
@@ -41,13 +38,9 @@ msgstr ""
 #. +> trunk5
 #: ../../batch_queue/metadata_tools.rst:25
 msgid ""
-"This tool assesses your items to automatically assign a **Pick Label** based "
-"on the aesthetic value of the contents. You can use the fully automated "
-"quality assessment based on a deep-learning engine (recommended), or use "
-"manual settings for a fixed set of criteria including Blur, Noise, Exposure, "
-"and Compression. These settings are fully explained in the :ref:`Image "
-"Quality Scanning Settings <label_imagescan>` topic in the **Labels View** "
-"section of this manual."
+"This tool assesses your items to automatically assign a **Pick Label** based on the aesthetic value of the contents. You can use the fully automated quality assessment based on a deep-learning "
+"engine (recommended), or use manual settings for a fixed set of criteria including Blur, Noise, Exposure, and Compression. These settings are fully explained in the :ref:`Image Quality Scanning "
+"Settings <label_imagescan>` topic in the **Labels View** section of this manual."
 msgstr ""
 
 #. +> trunk5
@@ -63,12 +56,8 @@ msgstr ""
 #. +> trunk5
 #: ../../batch_queue/metadata_tools.rst:38
 msgid ""
-"This tool applies a metadata template to your items in order to set "
-"copyright and descriptive information about the contents. The **Template** "
-"drop-down field lets you choose one of the metadata templates that can be "
-"customized in :ref:`Templates Settings <templates_settings>`. You can also "
-"access the **Template Manager** with the edit button to the right of the "
-"drop-down field."
+"This tool applies a metadata template to your items in order to set copyright and descriptive information about the contents. The **Template** drop-down field lets you choose one of the metadata "
+"templates that can be customized in :ref:`Templates Settings <templates_settings>`. You can also access the **Template Manager** with the edit button to the right of the drop-down field."
 msgstr ""
 
 #. +> trunk5
@@ -83,10 +72,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../batch_queue/metadata_tools.rst:51
-msgid ""
-"This tool automatically translates some key metadata into alternative "
-"language strings using an online translator service. Translatable entries "
-"are:"
+msgid "This tool automatically translates some key metadata into alternative language strings using an online translator service. Translatable entries are:"
 msgstr ""
 
 #. +> trunk5
@@ -112,11 +98,8 @@ msgstr ""
 #. +> trunk5
 #: ../../batch_queue/metadata_tools.rst:58
 msgid ""
-"The translations settings can be modified from the dedicated :ref:`Localize "
-"Settings Panel <localize_settings>`. Translation settings include a list of "
-"additional languages that can be used. To add a new language to the list, "
-"use the drop-down button on the left of **Translate to** option. To remove a "
-"language, use the context menu for any item in the list."
+"The translations settings can be modified from the dedicated :ref:`Localize Settings Panel <localize_settings>`. Translation settings include a list of additional languages that can be used. To add "
+"a new language to the list, use the drop-down button on the left of **Translate to** option. To remove a language, use the context menu for any item in the list."
 msgstr ""
 
 #. +> trunk5
@@ -132,9 +115,8 @@ msgstr ""
 #. +> trunk5
 #: ../../batch_queue/metadata_tools.rst:71
 msgid ""
-"This tool assigns **Title**, **Captions**, and **Author** properties to "
-"items from a Queue. For details about these properties, take a look at "
-"the :ref:`Captions View <captions_view>` section of this manual."
+"This tool assigns **Title**, **Captions**, and **Author** properties to items from a Queue. For details about these properties, take a look at the :ref:`Captions View <captions_view>` section of "
+"this manual."
 msgstr ""
 
 #. +> trunk5
@@ -150,11 +132,8 @@ msgstr ""
 #. +> trunk5
 #: ../../batch_queue/metadata_tools.rst:84
 msgid ""
-"This tool assigns **Pick Label**, **Rating**, and **Color Label** to items "
-"from a Queue. Unlike the **Quality Sort** tool which applies a Pick Label "
-"automatically, this tool will set the Pick Label value manually. For details "
-"about these properties, take a look at the :ref:`Captions View "
-"<captions_view>` section of this manual."
+"This tool assigns **Pick Label**, **Rating**, and **Color Label** to items from a Queue. Unlike the **Quality Sort** tool which applies a Pick Label automatically, this tool will set the Pick Label "
+"value manually. For details about these properties, take a look at the :ref:`Captions View <captions_view>` section of this manual."
 msgstr ""
 
 #. +> trunk5
@@ -170,9 +149,8 @@ msgstr ""
 #. +> trunk5
 #: ../../batch_queue/metadata_tools.rst:97
 msgid ""
-"This tool deletes selected portions of **Exif**, **IPTC**, and **XMP** "
-"metadata from files in the Queue. You can select specific categories of "
-"metadata to remove from the **Exif**, **IPTC**, and **XMP** drop-down menus:"
+"This tool deletes selected portions of **Exif**, **IPTC**, and **XMP** metadata from files in the Queue. You can select specific categories of metadata to remove from the **Exif**, **IPTC**, and "
+"**XMP** drop-down menus:"
 msgstr ""
 
 #. +> trunk5
@@ -181,9 +159,7 @@ msgid "**Completely**: remove all Exif entries."
 msgstr ""
 
 #. +> trunk5
-#: ../../batch_queue/metadata_tools.rst:101
-#: ../../batch_queue/metadata_tools.rst:108
-#: ../../batch_queue/metadata_tools.rst:113
+#: ../../batch_queue/metadata_tools.rst:101 ../../batch_queue/metadata_tools.rst:108 ../../batch_queue/metadata_tools.rst:113
 msgid "**Date**: remove the time-stamp."
 msgstr ""
 
@@ -234,22 +210,17 @@ msgstr ""
 
 #. +> trunk5
 #: ../../batch_queue/metadata_tools.rst:115
-msgid ""
-"**DigiKam image history**: remove only the versioning data from the "
-"application namespace."
+msgid "**DigiKam image history**: remove only the versioning data from the application namespace."
 msgstr ""
 
 #. +> trunk5
 #: ../../batch_queue/metadata_tools.rst:116
-msgid ""
-"**Dublin Core**: remove only the entries from the Dublin Core namespace."
+msgid "**Dublin Core**: remove only the entries from the Dublin Core namespace."
 msgstr ""
 
 #. +> trunk5
 #: ../../batch_queue/metadata_tools.rst:117
-msgid ""
-"**Exif**: remove only the translated Exif information stored in the "
-"dedicated namespace."
+msgid "**Exif**: remove only the translated Exif information stored in the dedicated namespace."
 msgstr ""
 
 #. +> trunk5
@@ -264,9 +235,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../batch_queue/metadata_tools.rst:119
-msgid ""
-"**Caption, comment and description**: remove all entries describing the "
-"contents."
+msgid "**Caption, comment and description**: remove all entries describing the contents."
 msgstr ""
 
 #. +> trunk5
@@ -282,10 +251,8 @@ msgstr ""
 #. +> trunk5
 #: ../../batch_queue/metadata_tools.rst:132
 msgid ""
-"This tool adjusts the time-stamp entries in file metadata. It use the same "
-"settings as the :ref:`stand alone version <time_adjust>` of this plugin "
-"available from :menuselection:`Item --> Adjust Date & Time` in the **Main "
-"Window** menubar."
+"This tool adjusts the time-stamp entries in file metadata. It use the same settings as the :ref:`stand alone version <time_adjust>` of this plugin available from :menuselection:`Item --> Adjust Date"
+" & Time` in the **Main Window** menubar."
 msgstr ""
 
 #. +> trunk5
@@ -294,14 +261,11 @@ msgid "The Batch Queue Manager Tool to Adjust Items' Time-Stamp"
 msgstr ""
 
 #. +> trunk5
-#: ../../batch_queue/metadata_tools.rst:-1
+#: ../../batch_queue/metadata_tools.rst:-1:
 msgid "digiKam Batch Queue Manager Metadata Tools"
 msgstr ""
 
 #. +> trunk5
-#: ../../batch_queue/metadata_tools.rst:-1
-msgid ""
-"digiKam, documentation, user manual, photo management, open source, free, "
-"learn, easy, batch, metadata, pick, labels, rating, color, comment, caption, "
-"title"
+#: ../../batch_queue/metadata_tools.rst:-1:
+msgid "digiKam, documentation, user manual, photo management, open source, free, learn, easy, batch, metadata, pick, labels, rating, color, comment, caption, title"
 msgstr ""

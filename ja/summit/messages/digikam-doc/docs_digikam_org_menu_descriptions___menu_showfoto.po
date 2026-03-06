@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Licensed under the terms of the <a href="https://spdx.org/licenses/GFDL-1.2-or-later.html">GNU Free Documentation License 1.2+</a> unless stated otherwise
+# This file is distributed under the same license as the Digikam Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Digikam Manual 8.0.0\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-26 06:09+0100\n"
-"PO-Revision-Date: 2023-02-04 19:26-0800\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Digikam Manual 9.0.0\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../menu_descriptions/menu_showfoto.rst:14
@@ -32,9 +31,7 @@ msgstr ""
 #. +> trunk5
 #: ../../menu_descriptions/menu_showfoto.rst:24
 msgid ""
-"The **Showfoto** menu is mostly the same as the **digiKam Image Editor** "
-"menu. There are a few differences in the **File**, **Settings**, and "
-"**Help** entries due to the lack of database support."
+"The **Showfoto** menu is mostly the same as the **digiKam Image Editor** menu. There are a few differences in the **File**, **Settings**, and **Help** entries due to the lack of database support."
 msgstr ""
 
 #. +> trunk5
@@ -45,9 +42,8 @@ msgstr ""
 #. +> trunk5
 #: ../../menu_descriptions/menu_showfoto.rst:30
 msgid ""
-"When switching into the **Full-Screen Mode** :kbd:`Ctrl+Shift+F`, or when "
-"you **Hide Menubar** :kbd:`Ctrl+M`, the main menu will be available on the "
-"right side of toolbar with the **Hamburger Button** |icon_hamburger|."
+"When switching into the **Full-Screen Mode** :kbd:`Ctrl+Shift+F`, or when you **Hide Menubar** :kbd:`Ctrl+M`, the main menu will be available on the right side of toolbar with the **Hamburger "
+"Button** |icon_hamburger|."
 msgstr ""
 
 #. +> trunk5
@@ -87,9 +83,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../menu_descriptions/menu_showfoto.rst:47
-msgid ""
-"For the rest of the menu entries, see the descriptions in the :ref:`Image "
-"Editor <menu_editorfile>` section. Versioning options do not exit here."
+msgid "For the rest of the menu entries, see the descriptions in the :ref:`Image Editor <menu_editorfile>` section. Versioning options do not exit here."
 msgstr ""
 
 #. +> trunk5
@@ -119,8 +113,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../menu_descriptions/menu_showfoto.rst:62
-msgid ""
-"See description in the :ref:`Image Editor <menu_editorenhance>` section."
+msgid "See description in the :ref:`Image Editor <menu_editorenhance>` section."
 msgstr ""
 
 #. +> trunk5
@@ -130,8 +123,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../menu_descriptions/menu_showfoto.rst:67
-msgid ""
-"See description in the :ref:`Image Editor <menu_editortransform>` section."
+msgid "See description in the :ref:`Image Editor <menu_editortransform>` section."
 msgstr ""
 
 #. +> trunk5
@@ -141,8 +133,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../menu_descriptions/menu_showfoto.rst:72
-msgid ""
-"See description in the :ref:`Image Editor <menu_editordecorate>` section."
+msgid "See description in the :ref:`Image Editor <menu_editordecorate>` section."
 msgstr ""
 
 #. +> trunk5
@@ -152,8 +143,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../menu_descriptions/menu_showfoto.rst:77
-msgid ""
-"See description in the :ref:`Image Editor <menu_editoreffects>` section."
+msgid "See description in the :ref:`Image Editor <menu_editoreffects>` section."
 msgstr ""
 
 #. +> trunk5
@@ -178,17 +168,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../menu_descriptions/menu_showfoto.rst:89
-msgid ""
-"Batch tool to :ref:`convert RAW files to DNG containers "
-"<showfoto_dngconvert>`."
+msgid "Batch tool to :ref:`convert RAW files to DNG containers <showfoto_dngconvert>`."
 msgstr ""
 
 #. +> trunk5
 #: ../../menu_descriptions/menu_showfoto.rst:91
-msgid ""
-"For the rest of the menu entries, see description in the :ref:`Main Window "
-"<menu_maintools>` section about Generic plugins. Database options do not "
-"exist here."
+msgid "For the rest of the menu entries, see description in the :ref:`Main Window <menu_maintools>` section about Generic plugins. Database options do not exist here."
 msgstr ""
 
 #. +> trunk5
@@ -198,9 +183,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../menu_descriptions/menu_showfoto.rst:96
-msgid ""
-"See description in the :ref:`Main Window <menu_mainimport>` section about "
-"Import plugins."
+msgid "See description in the :ref:`Main Window <menu_mainimport>` section about Import plugins."
 msgstr ""
 
 #. +> trunk5
@@ -210,9 +193,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../menu_descriptions/menu_showfoto.rst:101
-msgid ""
-"See description in the :ref:`Main Window <menu_mainexport>` section about "
-"Export plugins."
+msgid "See description in the :ref:`Main Window <menu_mainexport>` section about Export plugins."
 msgstr ""
 
 #. +> trunk5
@@ -232,19 +213,15 @@ msgstr ""
 
 #. +> trunk5
 #: ../../menu_descriptions/menu_showfoto.rst:111
-msgid ""
-"See description in the :ref:`Main Window <menu_mainhelp>` section. Database "
-"options do not exist here."
+msgid "See description in the :ref:`Main Window <menu_mainhelp>` section. Database options do not exist here."
 msgstr ""
 
 #. +> trunk5
-#: ../../menu_descriptions/menu_showfoto.rst:-1
+#: ../../menu_descriptions/menu_showfoto.rst:-1:
 msgid "digiKam Showfoto Menu Descriptions"
 msgstr ""
 
 #. +> trunk5
-#: ../../menu_descriptions/menu_showfoto.rst:-1
-msgid ""
-"digiKam, documentation, user manual, photo management, open source, free, "
-"learn, easy, menu, showfoto"
+#: ../../menu_descriptions/menu_showfoto.rst:-1:
+msgid "digiKam, documentation, user manual, photo management, open source, free, learn, easy, menu, showfoto"
 msgstr ""

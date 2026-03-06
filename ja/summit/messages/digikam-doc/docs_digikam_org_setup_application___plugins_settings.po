@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Licensed under the terms of the <a href="https://spdx.org/licenses/GFDL-1.2-or-later.html">GNU Free Documentation License 1.2+</a> unless stated otherwise
+# This file is distributed under the same license as the Digikam Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Digikam Manual 8.0.0\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-26 06:09+0100\n"
-"PO-Revision-Date: 2022-12-29 23:26-0800\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Digikam Manual 9.0.0\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../setup_application/plugins_settings.rst:14
@@ -22,11 +21,8 @@ msgstr ""
 #. +> trunk5
 #: ../../setup_application/plugins_settings.rst:16
 msgid ""
-"The **Plugins** options for digiKam are configured "
-"via :menuselection:`Settings --> Configure digiKam... --> Plugins`. This "
-"page lists all available plugins for different parts of the application. "
-"Double-clicking a plugin entry opens a dialog with detailed information "
-"about the selected tool."
+"The **Plugins** options for digiKam are configured via :menuselection:`Settings --> Configure digiKam... --> Plugins`. This page lists all available plugins for different parts of the application. "
+"Double-clicking a plugin entry opens a dialog with detailed information about the selected tool."
 msgstr ""
 
 #. +> trunk5
@@ -37,10 +33,8 @@ msgstr ""
 #. +> trunk5
 #: ../../setup_application/plugins_settings.rst:23
 msgid ""
-"These tools are shared across the **Album View**, **Light Table**, and "
-"**Image Editor**. They are also available in **Showfoto**. Access these "
-"plugins via the **Tools** tab in the right sidebar, under the **Post-"
-"Processing**, **Import**, and **Export** sections."
+"These tools are shared across the **Album View**, **Light Table**, and **Image Editor**. They are also available in **Showfoto**. Access these plugins via the **Tools** tab in the right sidebar, "
+"under the **Post-Processing**, **Import**, and **Export** sections."
 msgstr ""
 
 #. +> trunk5
@@ -61,10 +55,8 @@ msgstr ""
 #. +> trunk5
 #: ../../setup_application/plugins_settings.rst:37
 msgid ""
-"These tools are specifically designed for editing images. They are also "
-"available in **Showfoto**. Access these plugins via the **Tools** tab in the "
-"right sidebar, under the **Transform**, **Decorate**, **Effects**, "
-"**Enhance**, and **Colors** sections."
+"These tools are specifically designed for editing images. They are also available in **Showfoto**. Access these plugins via the **Tools** tab in the right sidebar, under the **Transform**, "
+"**Decorate**, **Effects**, **Enhance**, and **Colors** sections."
 msgstr ""
 
 #. +> trunk5
@@ -85,10 +77,8 @@ msgstr ""
 #. +> trunk5
 #: ../../setup_application/plugins_settings.rst:50
 msgid ""
-"These tools are dedicated to batch processing in digiKam. Access them via "
-"the **Base Tools** tab in the **Control Panel** (available on the right or "
-"bottom side of the interface). Use these tools to assign tasks to your "
-"current batch queue."
+"These tools are dedicated to batch processing in digiKam. Access them via the **Base Tools** tab in the **Control Panel** (available on the right or bottom side of the interface). Use these tools to"
+" assign tasks to your current batch queue."
 msgstr ""
 
 #. +> trunk5
@@ -108,16 +98,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../setup_application/plugins_settings.rst:63
-msgid ""
-"Image loaders are essential modules responsible for loading image data into "
-"memory. They are used throughout digiKam whenever image processing is "
-"required."
+msgid "Image loaders are essential modules responsible for loading image data into memory. They are used throughout digiKam whenever image processing is required."
 msgstr ""
 
 #. +> trunk5
 #: ../../setup_application/plugins_settings.rst:67
-msgid ""
-"The following formats are supported natively, listed by priority of usage:"
+msgid "The following formats are supported natively, listed by priority of usage:"
 msgstr ""
 
 #. +> trunk5
@@ -127,23 +113,17 @@ msgstr ""
 
 #. +> trunk5
 #: ../../setup_application/plugins_settings.rst:70
-msgid ""
-"**JPEG-2000**: Advanced compression standard supporting both lossy and "
-"lossless modes."
+msgid "**JPEG-2000**: Advanced compression standard supporting both lossy and lossless modes."
 msgstr ""
 
 #. +> trunk5
 #: ../../setup_application/plugins_settings.rst:71
-msgid ""
-"**PNG**: Portable Network Graphics, a lossless format widely used for web "
-"and software applications."
+msgid "**PNG**: Portable Network Graphics, a lossless format widely used for web and software applications."
 msgstr ""
 
 #. +> trunk5
 #: ../../setup_application/plugins_settings.rst:72
-msgid ""
-"**TIFF**: Tagged Image File Format, commonly used for high-quality, lossless "
-"images."
+msgid "**TIFF**: Tagged Image File Format, commonly used for high-quality, lossless images."
 msgstr ""
 
 #. +> trunk5
@@ -158,19 +138,14 @@ msgstr ""
 
 #. +> trunk5
 #: ../../setup_application/plugins_settings.rst:74
-msgid ""
-"**HEIF**: High Efficiency Image Format, offering improved compression over "
-"JPEG."
+msgid "**HEIF**: High Efficiency Image Format, offering improved compression over JPEG."
 msgstr ""
 
 #. +> trunk5
 #: ../../setup_application/plugins_settings.rst:77
 msgid ""
-"digiKam leverages the `Qt framework <https://doc.qt.io/qt-6/qtimageformats-"
-"index.html>`_ and its extended support via the `KImageFormats <https://"
-"invent.kde.org/frameworks/kimageformats>`_ component from the KDE "
-"frameworks. These loaders provide compatibility with additional native "
-"formats."
+"digiKam leverages the `Qt framework <https://doc.qt.io/qt-6/qtimageformats-index.html>`_ and its extended support via the `KImageFormats <https://invent.kde.org/frameworks/kimageformats>`_ component"
+" from the KDE frameworks. These loaders provide compatibility with additional native formats."
 msgstr ""
 
 #. +> trunk5
@@ -181,10 +156,8 @@ msgstr ""
 #. +> trunk5
 #: ../../setup_application/plugins_settings.rst:81
 msgid ""
-"As a fallback, **ImageMagick** is used to support a wide range of `exotic "
-"and legacy formats <https://imagemagick.org/script/formats.php>`_. This "
-"ensures compatibility with less common file types not covered by native or "
-"Qt-based loaders."
+"As a fallback, **ImageMagick** is used to support a wide range of `exotic and legacy formats <https://imagemagick.org/script/formats.php>`_. This ensures compatibility with less common file types "
+"not covered by native or Qt-based loaders."
 msgstr ""
 
 #. +> trunk5
@@ -203,13 +176,11 @@ msgid "The Image Loaders Plugins Setup Page"
 msgstr ""
 
 #. +> trunk5
-#: ../../setup_application/plugins_settings.rst:-1
+#: ../../setup_application/plugins_settings.rst:-1:
 msgid "digiKam Plugins Settings"
 msgstr ""
 
 #. +> trunk5
-#: ../../setup_application/plugins_settings.rst:-1
-msgid ""
-"digiKam, documentation, user manual, photo management, open source, free, "
-"learn, easy, plugins, generic, editor, batch queue, loaders"
+#: ../../setup_application/plugins_settings.rst:-1:
+msgid "digiKam, documentation, user manual, photo management, open source, free, learn, easy, plugins, generic, editor, batch queue, loaders"
 msgstr ""

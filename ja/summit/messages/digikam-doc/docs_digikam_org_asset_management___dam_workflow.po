@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Licensed under the terms of the <a href="https://spdx.org/licenses/GFDL-1.2-or-later.html">GNU Free Documentation License 1.2+</a> unless stated otherwise
+# This file is distributed under the same license as the Digikam Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Digikam Manual 8.0.0\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-26 06:08+0100\n"
-"PO-Revision-Date: 2022-12-29 23:26-0800\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Digikam Manual 9.0.0\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../asset_management/dam_workflow.rst:14
@@ -21,9 +20,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../asset_management/dam_workflow.rst:16
-msgid ""
-"Import images from camera, card reader or scanner. As long as the images are "
-"stored on the camera media, you can use that as a temporary backup."
+msgid "Import images from camera, card reader or scanner. As long as the images are stored on the camera media, you can use that as a temporary backup."
 msgstr ""
 
 #. +> trunk5
@@ -74,10 +71,8 @@ msgstr ""
 #. +> trunk5
 #: ../../asset_management/dam_workflow.rst:52
 msgid ""
-"Use external applications for layered editing. This editing may cause the "
-"loss or deletion of metadata previously recorded into the images. Back in "
-"digiKam, re-apply the metadata recorded in the digiKam database to the "
-"edited images."
+"Use external applications for layered editing. This editing may cause the loss or deletion of metadata previously recorded into the images. Back in digiKam, re-apply the metadata recorded in the "
+"digiKam database to the edited images."
 msgstr ""
 
 #. +> trunk5
@@ -87,10 +82,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../asset_management/dam_workflow.rst:56
-msgid ""
-"Protect processed images by using Digital Watermarking to encode copyright "
-"data. Export to web galleries, slide shows, MPEG encode, contact sheets, "
-"printing, etc."
+msgid "Protect processed images by using Digital Watermarking to encode copyright data. Export to web galleries, slide shows, MPEG encode, contact sheets, printing, etc."
 msgstr ""
 
 #. +> trunk5
@@ -109,13 +101,11 @@ msgid "Diagram of Common Tasks During a Photographic Workflow"
 msgstr ""
 
 #. +> trunk5
-#: ../../asset_management/dam_workflow.rst:-1
+#: ../../asset_management/dam_workflow.rst:-1:
 msgid "A Typical Digital Asset Management Workflow"
 msgstr ""
 
 #. +> trunk5
-#: ../../asset_management/dam_workflow.rst:-1
-msgid ""
-"digiKam, documentation, user manual, photo management, open source, free, "
-"learn, easy, digital, asset, management, workflow, export"
+#: ../../asset_management/dam_workflow.rst:-1:
+msgid "digiKam, documentation, user manual, photo management, open source, free, learn, easy, digital, asset, management, workflow, export"
 msgstr ""

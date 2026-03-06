@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Licensed under the terms of the <a href="https://spdx.org/licenses/GFDL-1.2-or-later.html">GNU Free Documentation License 1.2+</a> unless stated otherwise
+# This file is distributed under the same license as the Digikam Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Digikam Manual 8.0.0\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-26 06:09+0100\n"
-"PO-Revision-Date: 2023-02-17 22:08-0800\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Digikam Manual 9.0.0\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../post_processing/mjpeg_stream.rst:14
@@ -22,28 +21,22 @@ msgstr ""
 #. +> trunk5
 #: ../../post_processing/mjpeg_stream.rst:16
 msgid ""
-"MJPEG Stream-Server is used to automatically export digiKam photos through "
-"the local network to a client software compatible with the `Motion JPEG "
-"protocol <https://en.wikipedia.org/wiki/Motion_JPEG>`_. This is the case of "
-"all major **Internet Browsers** which support MJPEG de facto without the "
-"need to add a plugin or a codec."
+"MJPEG Stream-Server is used to automatically export digiKam photos through the local network to a client software compatible with the `Motion JPEG protocol "
+"<https://en.wikipedia.org/wiki/Motion_JPEG>`_. This is the case of all major **Internet Browsers** which support MJPEG de facto without the need to add a plugin or a codec."
 msgstr ""
 
 #. +> trunk5
 #: ../../post_processing/mjpeg_stream.rst:20
 msgid ""
-"MJPEG is a stream to display contents one by one, as a slideshow, but "
-"without interaction of the user. It's similar to a communication channel or "
-"an advertisement screen that you can see in an airport or a railway station."
+"MJPEG is a stream to display contents one by one, as a slideshow, but without interaction of the user. It's similar to a communication channel or an advertisement screen that you can see in an "
+"airport or a railway station."
 msgstr ""
 
 #. +> trunk5
 #: ../../post_processing/mjpeg_stream.rst:22
 msgid ""
-"To start the MJPEG Stream-Server, head to the **Tools** tab from the **Right "
-"Side-bar**. You will find the **Share as MJPEG Stream** icon on the list. "
-"You can also start it from the :menuselection:`Tools --> Share as MJPEG "
-"Stream` menu entry. The MJPEG Stream-Server window will open as follows:"
+"To start the MJPEG Stream-Server, head to the **Tools** tab from the **Right Side-bar**. You will find the **Share as MJPEG Stream** icon on the list. You can also start it from the "
+":menuselection:`Tools --> Share as MJPEG Stream` menu entry. The MJPEG Stream-Server window will open as follows:"
 msgstr ""
 
 #. +> trunk5
@@ -54,32 +47,23 @@ msgstr ""
 #. +> trunk5
 #: ../../post_processing/mjpeg_stream.rst:30
 msgid ""
-"To add items to the stream just select your desired **Albums** from the "
-"nested lists. You can share from physical **Albums**, or virtual **Tags**, "
-"**Searches**, and **Labels**. When the selection is done, press the "
-"**Start** button, a wheel on the right side will indicate that server is "
-"currently running."
+"To add items to the stream just select your desired **Albums** from the nested lists. You can share from physical **Albums**, or virtual **Tags**, **Searches**, and **Labels**. When the selection is"
+" done, press the **Start** button, a wheel on the right side will indicate that server is currently running."
 msgstr ""
 
 #. +> trunk5
 #: ../../post_processing/mjpeg_stream.rst:32
-msgid ""
-"You can customize how the contents must be shared. The **Stream** view hosts "
-"all the main settings of the stream, including:"
+msgid "You can customize how the contents must be shared. The **Stream** view hosts all the main settings of the stream, including:"
 msgstr ""
 
 #. +> trunk5
 #: ../../post_processing/mjpeg_stream.rst:34
-msgid ""
-"**JPEG Quality**: The compression level of images (50:lower quality - "
-"100:higher quality). Warning: better quality requires more network bandwidth."
+msgid "**JPEG Quality**: The compression level of images (50:lower quality - 100:higher quality). Warning: better quality requires more network bandwidth."
 msgstr ""
 
 #. +> trunk5
 #: ../../post_processing/mjpeg_stream.rst:36
-msgid ""
-"**JPEG size**: The JPEG image size in pixels, using standard screen "
-"resolutions. Warning: larger size requires more network bandwidth."
+msgid "**JPEG size**: The JPEG image size in pixels, using standard screen resolutions. Warning: larger size requires more network bandwidth."
 msgstr ""
 
 #. +> trunk5
@@ -89,16 +73,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../post_processing/mjpeg_stream.rst:40
-msgid ""
-"**Frames by seconds**: The number of frames per second to render the stream. "
-"Warning: larger rates require more network bandwidth."
+msgid "**Frames by seconds**: The number of frames per second to render the stream. Warning: larger rates require more network bandwidth."
 msgstr ""
 
 #. +> trunk5
 #: ../../post_processing/mjpeg_stream.rst:42
-msgid ""
-"**Stream in loop**: The MJPEG stream will be played in a continuous loop "
-"instead of just once."
+msgid "**Stream in loop**: The MJPEG stream will be played in a continuous loop instead of just once."
 msgstr ""
 
 #. +> trunk5
@@ -109,10 +89,8 @@ msgstr ""
 #. +> trunk5
 #: ../../post_processing/mjpeg_stream.rst:50
 msgid ""
-"The **Transition** settings view allow you to customize the visual effect "
-"applied between two images. Note that for some effects, the duration can "
-"depend on random values and can change while the stream is playing. A "
-"preview of the transition is displayed on the right side."
+"The **Transition** settings view allow you to customize the visual effect applied between two images. Note that for some effects, the duration can depend on random values and can change while the "
+"stream is playing. A preview of the transition is displayed on the right side."
 msgstr ""
 
 #. +> trunk5
@@ -123,9 +101,8 @@ msgstr ""
 #. +> trunk5
 #: ../../post_processing/mjpeg_stream.rst:58
 msgid ""
-"The **Effect** settings view allows you to customize the effect to perform a "
-"visual panning or zooming applied while rendering an image to the stream. A "
-"preview of the effect is displayed on the right side."
+"The **Effect** settings view allows you to customize the effect to perform a visual panning or zooming applied while rendering an image to the stream. A preview of the effect is displayed on the "
+"right side."
 msgstr ""
 
 #. +> trunk5
@@ -135,9 +112,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../post_processing/mjpeg_stream.rst:66
-msgid ""
-"The **OSD** (for On Screen Display) settings view allows you to customize "
-"the information to show as an overlay on the top left corner of the images."
+msgid "The **OSD** (for On Screen Display) settings view allows you to customize the information to show as an overlay on the top left corner of the images."
 msgstr ""
 
 #. +> trunk5
@@ -148,23 +123,18 @@ msgstr ""
 #. +> trunk5
 #: ../../post_processing/mjpeg_stream.rst:74
 msgid ""
-"You can hide this MJPEG Stream-Server window (without closing the actual "
-"server) using the **Ok** button. If you want to shutdown the server, re-open "
-"the MJPEG Stream-Server dialog and press the **Stop** button. Note that the "
-"files and folders you specify will be saved for you to use in later sessions."
+"You can hide this MJPEG Stream-Server window (without closing the actual server) using the **Ok** button. If you want to shutdown the server, re-open the MJPEG Stream-Server dialog and press the "
+"**Stop** button. Note that the files and folders you specify will be saved for you to use in later sessions."
 msgstr ""
 
 #. +> trunk5
 #: ../../post_processing/mjpeg_stream.rst:76
-msgid ""
-"Use the option **Start Server at Startup** if you want to run the MJPEG "
-"Stream-Server automatically once you start digiKam."
+msgid "Use the option **Start Server at Startup** if you want to run the MJPEG Stream-Server automatically once you start digiKam."
 msgstr ""
 
 #. +> trunk5
 #: ../../post_processing/mjpeg_stream.rst:82
-msgid ""
-"The MJPEG Stream-Server is Running and can be Closed with the Stop Button"
+msgid "The MJPEG Stream-Server is Running and can be Closed with the Stop Button"
 msgstr ""
 
 #. +> trunk5
@@ -174,9 +144,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../post_processing/mjpeg_stream.rst:86
-msgid ""
-"Google `Chrome <https://en.wikipedia.org/wiki/Google_Chrome/>`_ and "
-"`Chromium <https://en.wikipedia.org/wiki/Chromium_(web_browser)>`_."
+msgid "Google `Chrome <https://en.wikipedia.org/wiki/Google_Chrome/>`_ and `Chromium <https://en.wikipedia.org/wiki/Chromium_(web_browser)>`_."
 msgstr ""
 
 #. +> trunk5
@@ -197,9 +165,8 @@ msgstr ""
 #. +> trunk5
 #: ../../post_processing/mjpeg_stream.rst:94
 msgid ""
-"To access to stream from your Web-Browser, just use :guilabel:`http://"
-"address:port` as the url, with :guilabel:`address` the MJPEG **Server** IP, "
-"and :guilabel:`port` the server **Port** set in this config dialog."
+"To access to stream from your Web-Browser, just use :guilabel:`http://address:port` as the url, with :guilabel:`address` the MJPEG **Server** IP, and :guilabel:`port` the server **Port** set in this"
+" config dialog."
 msgstr ""
 
 #. +> trunk5
@@ -209,26 +176,20 @@ msgstr ""
 
 #. +> trunk5
 #: ../../post_processing/mjpeg_stream.rst:100
-msgid ""
-"To be connected through the network on the MJPEG Stream-Server **Port**, "
-"this last port needs to be open on the **Server** firewall."
+msgid "To be connected through the network on the MJPEG Stream-Server **Port**, this last port needs to be open on the **Server** firewall."
 msgstr ""
 
 #. +> trunk5
 #: ../../post_processing/mjpeg_stream.rst:107
-msgid ""
-"Screencast of the Shared Contents from digiKam Over the Network and "
-"Displayed into Firefox"
+msgid "Screencast of the Shared Contents from digiKam Over the Network and Displayed into Firefox"
 msgstr ""
 
 #. +> trunk5
-#: ../../post_processing/mjpeg_stream.rst:-1
+#: ../../post_processing/mjpeg_stream.rst:-1:
 msgid "The digiKam Tool to Share as MJPEG Stream"
 msgstr ""
 
 #. +> trunk5
-#: ../../post_processing/mjpeg_stream.rst:-1
-msgid ""
-"digiKam, documentation, user manual, photo management, open source, free, "
-"learn, easy, mjpeg, server, share"
+#: ../../post_processing/mjpeg_stream.rst:-1:
+msgid "digiKam, documentation, user manual, photo management, open source, free, learn, easy, mjpeg, server, share"
 msgstr ""

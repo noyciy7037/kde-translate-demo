@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Licensed under the terms of the <a href="https://spdx.org/licenses/GFDL-1.2-or-later.html">GNU Free Documentation License 1.2+</a> unless stated otherwise
+# This file is distributed under the same license as the Digikam Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Digikam Manual 8.6.0\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-30 06:27+0100\n"
-"PO-Revision-Date: 2024-12-20 12:28+0900\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Digikam Manual 9.0.0\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../menu_descriptions/context_menus.rst:15
@@ -40,9 +39,7 @@ msgid "Preview"
 msgstr ""
 
 #. +> trunk5
-#: ../../menu_descriptions/context_menus.rst:27
-#: ../../menu_descriptions/context_menus.rst:112
-#: ../../menu_descriptions/context_menus.rst:175
+#: ../../menu_descriptions/context_menus.rst:27 ../../menu_descriptions/context_menus.rst:112 ../../menu_descriptions/context_menus.rst:175
 msgid ":menuselection:`Full Screen Mode`"
 msgstr ""
 
@@ -62,9 +59,7 @@ msgid ":menuselection:`Show Face Tags`"
 msgstr ""
 
 #. +> trunk5
-#: ../../menu_descriptions/context_menus.rst:32
-#: ../../menu_descriptions/context_menus.rst:75
-#: ../../menu_descriptions/context_menus.rst:121
+#: ../../menu_descriptions/context_menus.rst:32 ../../menu_descriptions/context_menus.rst:75 ../../menu_descriptions/context_menus.rst:121
 msgid ":menuselection:`Scan for Faces`"
 msgstr ""
 
@@ -84,20 +79,17 @@ msgid ":menuselection:`Show focus points`"
 msgstr ""
 
 #. +> trunk5
-#: ../../menu_descriptions/context_menus.rst:37
-#: ../../menu_descriptions/context_menus.rst:113
+#: ../../menu_descriptions/context_menus.rst:37 ../../menu_descriptions/context_menus.rst:113
 msgid ":menuselection:`Open...`"
 msgstr ""
 
 #. +> trunk5
-#: ../../menu_descriptions/context_menus.rst:38
-#: ../../menu_descriptions/context_menus.rst:114
+#: ../../menu_descriptions/context_menus.rst:38 ../../menu_descriptions/context_menus.rst:114
 msgid ":menuselection:`Move to Album...`"
 msgstr ""
 
 #. +> trunk5
-#: ../../menu_descriptions/context_menus.rst:39
-#: ../../menu_descriptions/context_menus.rst:115
+#: ../../menu_descriptions/context_menus.rst:39 ../../menu_descriptions/context_menus.rst:115
 msgid ":menuselection:`Copy to...`"
 msgstr ""
 
@@ -107,9 +99,7 @@ msgid ":menuselection:`Open With`"
 msgstr ""
 
 #. +> trunk5
-#: ../../menu_descriptions/context_menus.rst:41
-#: ../../menu_descriptions/context_menus.rst:67
-#: ../../menu_descriptions/context_menus.rst:120
+#: ../../menu_descriptions/context_menus.rst:41 ../../menu_descriptions/context_menus.rst:67 ../../menu_descriptions/context_menus.rst:120
 msgid ":menuselection:`Open in File Manager`"
 msgstr ""
 
@@ -129,100 +119,77 @@ msgid ":menuselection:`Go To --> Tag`"
 msgstr ""
 
 #. +> trunk5
-#: ../../menu_descriptions/context_menus.rst:47
-#: ../../menu_descriptions/context_menus.rst:124
+#: ../../menu_descriptions/context_menus.rst:47 ../../menu_descriptions/context_menus.rst:124
 msgid ":menuselection:`Add to Light Table`"
 msgstr ""
 
 #. +> trunk5
 #: ../../menu_descriptions/context_menus.rst:48
-msgid ""
-":menuselection:`Batch Queue Manager --> Add to Current Queue` - Adds item to "
-"current Batch Manager Queue"
+msgid ":menuselection:`Batch Queue Manager --> Add to Current Queue` - Adds item to current Batch Manager Queue"
 msgstr ""
 
 #. +> trunk5
-#: ../../menu_descriptions/context_menus.rst:49
-#: ../../menu_descriptions/context_menus.rst:126
+#: ../../menu_descriptions/context_menus.rst:49 ../../menu_descriptions/context_menus.rst:126
 msgid ":menuselection:`Batch Queue Manager --> Add to New Queue`"
 msgstr ""
 
 #. +> trunk5
-#: ../../menu_descriptions/context_menus.rst:50
-#: ../../menu_descriptions/context_menus.rst:127
+#: ../../menu_descriptions/context_menus.rst:50 ../../menu_descriptions/context_menus.rst:127
 msgid ":menuselection:`Batch Queue Manager --> Add to Existing Queue`"
 msgstr ""
 
 #. +> trunk5
-#: ../../menu_descriptions/context_menus.rst:51
-#: ../../menu_descriptions/context_menus.rst:128
+#: ../../menu_descriptions/context_menus.rst:51 ../../menu_descriptions/context_menus.rst:128
 msgid ":menuselection:`Rotate --> Left`"
 msgstr ""
 
 #. +> trunk5
-#: ../../menu_descriptions/context_menus.rst:52
-#: ../../menu_descriptions/context_menus.rst:129
+#: ../../menu_descriptions/context_menus.rst:52 ../../menu_descriptions/context_menus.rst:129
 msgid ":menuselection:`Rotate --> Right`"
 msgstr ""
 
 #. +> trunk5
-#: ../../menu_descriptions/context_menus.rst:53
-#: ../../menu_descriptions/context_menus.rst:182
+#: ../../menu_descriptions/context_menus.rst:53 ../../menu_descriptions/context_menus.rst:182
 msgid ":menuselection:`Move to Trash`"
 msgstr ""
 
 #. +> trunk5
-#: ../../menu_descriptions/context_menus.rst:54
-#: ../../menu_descriptions/context_menus.rst:136
-#: ../../menu_descriptions/context_menus.rst:184
+#: ../../menu_descriptions/context_menus.rst:54 ../../menu_descriptions/context_menus.rst:136 ../../menu_descriptions/context_menus.rst:184
 msgid ":menuselection:`Assign Tag --> Recently Assigned Tags`"
 msgstr ""
 
 #. +> trunk5
-#: ../../menu_descriptions/context_menus.rst:55
-#: ../../menu_descriptions/context_menus.rst:137
-#: ../../menu_descriptions/context_menus.rst:185
+#: ../../menu_descriptions/context_menus.rst:55 ../../menu_descriptions/context_menus.rst:137 ../../menu_descriptions/context_menus.rst:185
 msgid ":menuselection:`Assign Tag --> Add New Tag`"
 msgstr ""
 
 #. +> trunk5
-#: ../../menu_descriptions/context_menus.rst:56
-#: ../../menu_descriptions/context_menus.rst:138
-#: ../../menu_descriptions/context_menus.rst:186
+#: ../../menu_descriptions/context_menus.rst:56 ../../menu_descriptions/context_menus.rst:138 ../../menu_descriptions/context_menus.rst:186
 msgid ":menuselection:`Assign Tag --> More Tags...`"
 msgstr ""
 
 #. +> trunk5
-#: ../../menu_descriptions/context_menus.rst:57
-#: ../../menu_descriptions/context_menus.rst:139
-#: ../../menu_descriptions/context_menus.rst:187
+#: ../../menu_descriptions/context_menus.rst:57 ../../menu_descriptions/context_menus.rst:139 ../../menu_descriptions/context_menus.rst:187
 msgid ":menuselection:`Remove Tag`"
 msgstr ""
 
 #. +> trunk5
-#: ../../menu_descriptions/context_menus.rst:58
-#: ../../menu_descriptions/context_menus.rst:140
+#: ../../menu_descriptions/context_menus.rst:58 ../../menu_descriptions/context_menus.rst:140
 msgid ":menuselection:`Remove all Tags`"
 msgstr ""
 
 #. +> trunk5
-#: ../../menu_descriptions/context_menus.rst:59
-#: ../../menu_descriptions/context_menus.rst:141
-#: ../../menu_descriptions/context_menus.rst:188
+#: ../../menu_descriptions/context_menus.rst:59 ../../menu_descriptions/context_menus.rst:141 ../../menu_descriptions/context_menus.rst:188
 msgid ":menuselection:`Assign Labels --> Pick`"
 msgstr ""
 
 #. +> trunk5
-#: ../../menu_descriptions/context_menus.rst:60
-#: ../../menu_descriptions/context_menus.rst:142
-#: ../../menu_descriptions/context_menus.rst:189
+#: ../../menu_descriptions/context_menus.rst:60 ../../menu_descriptions/context_menus.rst:142 ../../menu_descriptions/context_menus.rst:189
 msgid ":menuselection:`Assign Labels --> Color`"
 msgstr ""
 
 #. +> trunk5
-#: ../../menu_descriptions/context_menus.rst:61
-#: ../../menu_descriptions/context_menus.rst:143
-#: ../../menu_descriptions/context_menus.rst:190
+#: ../../menu_descriptions/context_menus.rst:61 ../../menu_descriptions/context_menus.rst:143 ../../menu_descriptions/context_menus.rst:190
 msgid ":menuselection:`Assign Labels --> Rating`"
 msgstr ""
 
@@ -242,8 +209,7 @@ msgid ":menuselection:`New...`"
 msgstr ""
 
 #. +> trunk5
-#: ../../menu_descriptions/context_menus.rst:68
-#: ../../menu_descriptions/context_menus.rst:133
+#: ../../menu_descriptions/context_menus.rst:68 ../../menu_descriptions/context_menus.rst:133
 msgid ":menuselection:`Rename...`"
 msgstr ""
 
@@ -253,16 +219,12 @@ msgid ":menuselection:`Reset Album Icon`"
 msgstr ""
 
 #. +> trunk5
-#: ../../menu_descriptions/context_menus.rst:70
-#: ../../menu_descriptions/context_menus.rst:87
-#: ../../menu_descriptions/context_menus.rst:100
+#: ../../menu_descriptions/context_menus.rst:70 ../../menu_descriptions/context_menus.rst:87 ../../menu_descriptions/context_menus.rst:100
 msgid ":menuselection:`Expand Selected Nodes`"
 msgstr ""
 
 #. +> trunk5
-#: ../../menu_descriptions/context_menus.rst:71
-#: ../../menu_descriptions/context_menus.rst:88
-#: ../../menu_descriptions/context_menus.rst:101
+#: ../../menu_descriptions/context_menus.rst:71 ../../menu_descriptions/context_menus.rst:88 ../../menu_descriptions/context_menus.rst:101
 msgid ":menuselection:`Collapse Selected Recursively`"
 msgstr ""
 
@@ -277,9 +239,7 @@ msgid ":menuselection:`Collapse all Albums`"
 msgstr ""
 
 #. +> trunk5
-#: ../../menu_descriptions/context_menus.rst:74
-#: ../../menu_descriptions/context_menus.rst:91
-#: ../../menu_descriptions/context_menus.rst:104
+#: ../../menu_descriptions/context_menus.rst:74 ../../menu_descriptions/context_menus.rst:91 ../../menu_descriptions/context_menus.rst:104
 msgid ":menuselection:`Find Duplicates...`"
 msgstr ""
 
@@ -294,9 +254,7 @@ msgid ":menuselection:`Import`"
 msgstr ""
 
 #. +> trunk5
-#: ../../menu_descriptions/context_menus.rst:78
-#: ../../menu_descriptions/context_menus.rst:92
-#: ../../menu_descriptions/context_menus.rst:105
+#: ../../menu_descriptions/context_menus.rst:78 ../../menu_descriptions/context_menus.rst:92 ../../menu_descriptions/context_menus.rst:105
 msgid ":menuselection:`Export`"
 msgstr ""
 
@@ -326,20 +284,17 @@ msgid ":menuselection:`New Tag...`"
 msgstr ""
 
 #. +> trunk5
-#: ../../menu_descriptions/context_menus.rst:86
-#: ../../menu_descriptions/context_menus.rst:99
+#: ../../menu_descriptions/context_menus.rst:86 ../../menu_descriptions/context_menus.rst:99
 msgid ":menuselection:`Reset Tag Icon`"
 msgstr ""
 
 #. +> trunk5
-#: ../../menu_descriptions/context_menus.rst:89
-#: ../../menu_descriptions/context_menus.rst:102
+#: ../../menu_descriptions/context_menus.rst:89 ../../menu_descriptions/context_menus.rst:102
 msgid ":menuselection:`Expand all Tags`"
 msgstr ""
 
 #. +> trunk5
-#: ../../menu_descriptions/context_menus.rst:90
-#: ../../menu_descriptions/context_menus.rst:103
+#: ../../menu_descriptions/context_menus.rst:90 ../../menu_descriptions/context_menus.rst:103
 msgid ":menuselection:`Collapse all Tags`"
 msgstr ""
 
@@ -354,8 +309,7 @@ msgid ":menuselection:`Mark As Face Tag`"
 msgstr ""
 
 #. +> trunk5
-#: ../../menu_descriptions/context_menus.rst:95
-#: ../../menu_descriptions/context_menus.rst:107
+#: ../../menu_descriptions/context_menus.rst:95 ../../menu_descriptions/context_menus.rst:107
 msgid ":menuselection:`Properties...`"
 msgstr ""
 
@@ -601,16 +555,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../menu_descriptions/context_menus.rst:198
-msgid ""
-"The map's context menu, selected by right clicking on the map, contains "
-"other items of interest:"
+msgid "The map's context menu, selected by right clicking on the map, contains other items of interest:"
 msgstr ""
 
 #. +> trunk5
 #: ../../menu_descriptions/context_menus.rst:200
-msgid ""
-":menuselection:`Copy Coordinates` - copies the geographic coordinates at the "
-"cursor position to the clipboard."
+msgid ":menuselection:`Copy Coordinates` - copies the geographic coordinates at the cursor position to the clipboard."
 msgstr ""
 
 #. +> trunk5
@@ -620,32 +570,24 @@ msgstr ""
 
 #. +> trunk5
 #: ../../menu_descriptions/context_menus.rst:202
-msgid ""
-":menuselection:`Address Details` - performs a reverse location lookup to "
-"display the address of the selected location in a dialog."
+msgid ":menuselection:`Address Details` - performs a reverse location lookup to display the address of the selected location in a dialog."
 msgstr ""
 
 #. +> trunk5
 #: ../../menu_descriptions/context_menus.rst:203
-msgid ""
-":menuselection:`Info Boxes` - allows you to select which widgets to display "
-"on the map, including compass, scale bar, navigation widget, overview map, "
-"and a progress indicator."
+msgid ":menuselection:`Info Boxes` - allows you to select which widgets to display on the map, including compass, scale bar, navigation widget, overview map, and a progress indicator."
 msgstr ""
 
 #. +> trunk5
 #: ../../menu_descriptions/context_menus.rst:204
 msgid ""
-":menuselection:`Add Measure Point` - add a measure point at the clicked "
-"location. Add a second point to measure distance between the two points. Add "
-"a third point to measure total distance and angles between the points."
+":menuselection:`Add Measure Point` - add a measure point at the clicked location. Add a second point to measure distance between the two points. Add a third point to measure total distance and "
+"angles between the points."
 msgstr ""
 
 #. +> trunk5
 #: ../../menu_descriptions/context_menus.rst:205
-msgid ""
-":menuselection:`Remove Last Measure Point` - remove the last measure point "
-"to be added."
+msgid ":menuselection:`Remove Last Measure Point` - remove the last measure point to be added."
 msgstr ""
 
 #. +> trunk5
@@ -655,9 +597,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../menu_descriptions/context_menus.rst:208
-msgid ""
-"Additional information on the map view is available from the `Marble "
-"handbook <https://docs.kde.org/trunk5/en/marble/marble/index.html>`_."
+msgid "Additional information on the map view is available from the `Marble handbook <https://docs.kde.org/trunk5/en/marble/marble/index.html>`_."
 msgstr ""
 
 #. +> trunk5
@@ -667,9 +607,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../menu_descriptions/context_menus.rst:214
-msgid ""
-":menuselection:`Copy coordinates` copies the geographic coordinates from the "
-"items to the clipboard."
+msgid ":menuselection:`Copy coordinates` copies the geographic coordinates from the items to the clipboard."
 msgstr ""
 
 #. +> trunk5
@@ -868,13 +806,11 @@ msgid ":menuselection:`Invert Selection`"
 msgstr ""
 
 #. +> trunk5
-#: ../../menu_descriptions/context_menus.rst:-1
+#: ../../menu_descriptions/context_menus.rst:-1:
 msgid "digiKam Context Menus"
 msgstr ""
 
 #. +> trunk5
-#: ../../menu_descriptions/context_menus.rst:-1
-msgid ""
-"digiKam, documentation, user manual, photo management, open source, free, "
-"learn, easy, gps, geolocation, map, world, group, reverse, geocoding"
+#: ../../menu_descriptions/context_menus.rst:-1:
+msgid "digiKam, documentation, user manual, photo management, open source, free, learn, easy, gps, geolocation, map, world, group, reverse, geocoding"
 msgstr ""

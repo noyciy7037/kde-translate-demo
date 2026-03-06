@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Licensed under the terms of the <a href="https://spdx.org/licenses/GFDL-1.2-or-later.html">GNU Free Documentation License 1.2+</a> unless stated otherwise
+# This file is distributed under the same license as the Digikam Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Digikam Manual 8.0.0\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-26 06:08+0100\n"
-"PO-Revision-Date: 2023-01-28 23:25-0800\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Digikam Manual 9.0.0\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../batch_queue/bqm_workflow.rst:14
@@ -22,10 +21,8 @@ msgstr ""
 #. +> trunk5
 #: ../../batch_queue/bqm_workflow.rst:16
 msgid ""
-"The Batch Queue Manager has a tab named **Workflow** in the bottom right of "
-"the window which is empty by default. This view is a list where the user can "
-"store the preferred set of tools to assign to queues. This list is saved and "
-"restored between sessions allowing the workflows to be reused."
+"The Batch Queue Manager has a tab named **Workflow** in the bottom right of the window which is empty by default. This view is a list where the user can store the preferred set of tools to assign to"
+" queues. This list is saved and restored between sessions allowing the workflows to be reused."
 msgstr ""
 
 #. +> trunk5
@@ -35,14 +32,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../batch_queue/bqm_workflow.rst:20
-msgid ""
-"The order of the tools to apply to a queue from the **Assigned Tools** view."
+msgid "The order of the tools to apply to a queue from the **Assigned Tools** view."
 msgstr ""
 
 #. +> trunk5
 #: ../../batch_queue/bqm_workflow.rst:21
-msgid ""
-"All individual tool settings customized in the **Tools Settings** view ."
+msgid "All individual tool settings customized in the **Tools Settings** view ."
 msgstr ""
 
 #. +> trunk5
@@ -53,9 +48,7 @@ msgstr ""
 #. +> trunk5
 #: ../../batch_queue/bqm_workflow.rst:24
 msgid ""
-"Workflows allow easy reproduction of the tools and settings used for batch "
-"processing, all adjusted for your specific use cases. A workflow has three "
-"properties identified in the **Workflow** tab:"
+"Workflows allow easy reproduction of the tools and settings used for batch processing, all adjusted for your specific use cases. A workflow has three properties identified in the **Workflow** tab:"
 msgstr ""
 
 #. +> trunk5
@@ -75,26 +68,20 @@ msgstr ""
 
 #. +> trunk5
 #: ../../batch_queue/bqm_workflow.rst:30
-msgid ""
-"All of this information is stored in an XML file hosted in your home "
-"directory."
+msgid "All of this information is stored in an XML file hosted in your home directory."
 msgstr ""
 
 #. +> trunk5
 #: ../../batch_queue/bqm_workflow.rst:36
-msgid ""
-"The Batch Queue Manager Workflow Stores all Settings to Apply to a Queue"
+msgid "The Batch Queue Manager Workflow Stores all Settings to Apply to a Queue"
 msgstr ""
 
 #. +> trunk5
 #: ../../batch_queue/bqm_workflow.rst:38
 msgid ""
-"To create a new Workflow, select tools from the **Base Tools** tab and drag "
-"and drop items to the **Assigned Tools** list to create a tool sequence. "
-"Adjust the tool settings as needed. Then right click on the tool list to "
-"bring up the context menu, and select the **Create Workflow** option. A "
-"dialog will appear to enter the workflow **Title** and **Description** "
-"properties. Press **OK** to append the new item to the **Workflow** tab."
+"To create a new Workflow, select tools from the **Base Tools** tab and drag and drop items to the **Assigned Tools** list to create a tool sequence. Adjust the tool settings as needed. Then right "
+"click on the tool list to bring up the context menu, and select the **Create Workflow** option. A dialog will appear to enter the workflow **Title** and **Description** properties. Press **OK** to "
+"append the new item to the **Workflow** tab."
 msgstr ""
 
 #. +> trunk5
@@ -105,18 +92,13 @@ msgstr ""
 #. +> trunk5
 #: ../../batch_queue/bqm_workflow.rst:46
 msgid ""
-"To apply a workflow to a new Queue, select the new Queue, then double click "
-"over an item in the **Workflow** tab, or drag and drop the item from the "
-"**Workflow** tab to **Assigned Tools**. The Workflow will be assigned to the "
-"current Queue and will be ready to run."
+"To apply a workflow to a new Queue, select the new Queue, then double click over an item in the **Workflow** tab, or drag and drop the item from the **Workflow** tab to **Assigned Tools**. The "
+"Workflow will be assigned to the current Queue and will be ready to run."
 msgstr ""
 
 #. +> trunk5
 #: ../../batch_queue/bqm_workflow.rst:48
-msgid ""
-"To manage a workflow entry, right-click on an entry in the **Workflow** tab "
-"to enable the context menu that provides options to edit workflow properties "
-"or delete the workflow."
+msgid "To manage a workflow entry, right-click on an entry in the **Workflow** tab to enable the context menu that provides options to edit workflow properties or delete the workflow."
 msgstr ""
 
 #. +> trunk5
@@ -125,13 +107,11 @@ msgid "The Batch Queue Manager Workflow Context Menu"
 msgstr ""
 
 #. +> trunk5
-#: ../../batch_queue/bqm_workflow.rst:-1
+#: ../../batch_queue/bqm_workflow.rst:-1:
 msgid "digiKam Batch Queue Manager Workflow"
 msgstr ""
 
 #. +> trunk5
-#: ../../batch_queue/bqm_workflow.rst:-1
-msgid ""
-"digiKam, documentation, user manual, photo management, open source, free, "
-"learn, easy, batch, queue, manager, tools, workflow"
+#: ../../batch_queue/bqm_workflow.rst:-1:
+msgid "digiKam, documentation, user manual, photo management, open source, free, learn, easy, batch, queue, manager, tools, workflow"
 msgstr ""
