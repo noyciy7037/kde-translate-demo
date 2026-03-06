@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the accessibility-inspector package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: accessibility-inspector\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-11-10 10:07+0100\n"
-"PO-Revision-Date: 2023-11-24 21:44-0800\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6 stable6
 #, kde-format
@@ -486,15 +485,13 @@ msgid "Copy property value"
 msgstr ""
 
 #. +> trunk6 stable6
-#: model/accessibleobjecttreemodel.cpp:33
-#: model/accessiblepropertiesmodel.cpp:91
+#: model/accessibleobjecttreemodel.cpp:33 model/accessiblepropertiesmodel.cpp:91
 #, kde-format
 msgid "Accessible"
 msgstr ""
 
 #. +> trunk6 stable6
-#: model/accessibleobjecttreemodel.cpp:35
-#: model/accessiblepropertiesmodel.cpp:95
+#: model/accessibleobjecttreemodel.cpp:35 model/accessiblepropertiesmodel.cpp:95
 #, kde-format
 msgid "Role"
 msgstr ""
@@ -506,8 +503,7 @@ msgid "Property"
 msgstr ""
 
 #. +> trunk6 stable6
-#: model/accessiblepropertiesmodel.cpp:55
-#: model/accessiblepropertiesmodel.cpp:267
+#: model/accessiblepropertiesmodel.cpp:55 model/accessiblepropertiesmodel.cpp:267
 #, kde-format
 msgid "Value"
 msgstr ""
@@ -519,8 +515,7 @@ msgid "Name"
 msgstr ""
 
 #. +> trunk6 stable6
-#: model/accessiblepropertiesmodel.cpp:94
-#: model/accessiblepropertiesmodel.cpp:197
+#: model/accessiblepropertiesmodel.cpp:94 model/accessiblepropertiesmodel.cpp:197
 #, kde-format
 msgid "Description"
 msgstr ""
@@ -640,8 +635,7 @@ msgid "Id"
 msgstr ""
 
 #. +> trunk6 stable6
-#: model/accessiblepropertiesmodel.cpp:136
-#: model/accessiblepropertiesmodel.cpp:198
+#: model/accessiblepropertiesmodel.cpp:136 model/accessiblepropertiesmodel.cpp:198
 #, kde-format
 msgid "Locale"
 msgstr ""
@@ -701,9 +695,7 @@ msgid "Table"
 msgstr ""
 
 #. +> trunk6 stable6
-#: model/accessiblepropertiesmodel.cpp:242
-#: model/accessiblepropertiesmodel.cpp:251
-#: model/accessiblepropertiesmodel.cpp:253
+#: model/accessiblepropertiesmodel.cpp:242 model/accessiblepropertiesmodel.cpp:251 model/accessiblepropertiesmodel.cpp:253
 #, kde-format
 msgid "Text"
 msgstr ""
@@ -793,8 +785,7 @@ msgid "Event Focus"
 msgstr ""
 
 #. +> trunk6 stable6
-#: model/accessiblepropertiesmodel.cpp:308
-#: model/accessiblepropertiesmodel.cpp:336
+#: model/accessiblepropertiesmodel.cpp:308 model/accessiblepropertiesmodel.cpp:336
 #, kde-format
 msgid "Action"
 msgstr ""
