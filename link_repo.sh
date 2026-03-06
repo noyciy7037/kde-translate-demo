@@ -1,3 +1,4 @@
+cd media
 git_dir=translation_repository/`echo "https://github.com/noyciy7037/kde-translate-demo.git" | cut -d ":" -f 2 | cut -d "/" -f 4-`
 git_parent=`echo $git_dir | rev | cut -d "/" -f 2- | rev`
 git_root=`echo $git_parent | cut -d "/" -f 1`
