@@ -1,18 +1,12 @@
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: atcore_qt\n"
-"POT-Creation-Date: 2026-02-22 07:18+0100\n"
-"PO-Revision-Date: 2023-05-28 23:01-0700\n"
-"Last-Translator: Fumiaki Okushi <fumiaki.okushi@gmail.com>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: qtrich\n"
-"X-Qt-Contexts: true\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6
 #: src/core/atcore.cpp:141
@@ -176,9 +170,7 @@ msgstr ""
 #. +> trunk6
 #: src/core/gcodecommands.cpp:45
 msgctxt "QObject|"
-msgid ""
-"G32: Probe Z and calculate Z plane(Bed Leveling)/ UnDoc Z Probe sled for "
-"Marlin"
+msgid "G32: Probe Z and calculate Z plane(Bed Leveling)/ UnDoc Z Probe sled for Marlin"
 msgstr ""
 
 #. +> trunk6
@@ -568,17 +560,13 @@ msgstr ""
 #. +> trunk6
 #: src/core/gcodecommands.cpp:205
 msgctxt "QObject|"
-msgid ""
-"M120: Push for Smoothie and RepRap Firmware / Enable Endstop detection for "
-"Marlin"
+msgid "M120: Push for Smoothie and RepRap Firmware / Enable Endstop detection for Marlin"
 msgstr ""
 
 #. +> trunk6
 #: src/core/gcodecommands.cpp:207
 msgctxt "QObject|"
-msgid ""
-"M121: Pop for Smoothie and RepRap Firmware / Disable Endstop detection for "
-"Marlin"
+msgid "M121: Pop for Smoothie and RepRap Firmware / Disable Endstop detection for Marlin"
 msgstr ""
 
 #. +> trunk6
@@ -728,9 +716,7 @@ msgstr ""
 #. +> trunk6
 #: src/core/gcodecommands.cpp:257
 msgctxt "QObject|"
-msgid ""
-"M206: Offset axes for Sprinter, Marlin, Smoothie, RepRap Firmware / Set "
-"eeprom value for Repetier"
+msgid "M206: Offset axes for Sprinter, Marlin, Smoothie, RepRap Firmware / Set eeprom value for Repetier"
 msgstr ""
 
 #. +> trunk6
@@ -1440,26 +1426,14 @@ msgstr ""
 #: src/widgets/logwidget.cpp:62
 msgctxt "LogWidget|"
 msgid ""
-"                        <h4>Special Log Entries</h4>                         "
-"<p><strong>Failed to open device in read/write mode.</strong></"
-"p>                         <p>&nbsp;&nbsp;&nbsp; The Device was not able to "
-"be opened.</p>                         <p>&nbsp; &nbsp; &nbsp;&nbsp; Check "
-"the device is not opened by another program.</p>                         "
-"<p>&nbsp; &nbsp; &nbsp;&nbsp; Check you have the correct permissions to open "
-"the device.</p>                         <p><strong>No plugin found for "
-"&lt;Detected Firmware&gt;</strong></p>                         "
-"<p>&nbsp;&nbsp;&nbsp; Firmware plugins are missing or your firmware is not "
-"currently supported.</p>                         "
-"<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Manually select the Marlin or Repetier "
-"plugin.</p>                         <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If "
-"your firmware does not have a plugin please let us know.</"
-"p>                         <p><strong>Lots of &ldquo;Waiting for firmware "
-"detect&rdquo;</strong></p>                         <p>&nbsp;&nbsp;&nbsp; "
-"Unable to send the firmware detect waiting for printer to restart</"
-"p>                         <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Push the "
-"restart button on your printer or turn it on and off. </"
-"p>                         <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Select a "
-"firmware plugin in place of auto detect.</p>"
+"                        <h4>Special Log Entries</h4>                         <p><strong>Failed to open device in read/write mode.</strong></p>                         <p>&nbsp;&nbsp;&nbsp; The "
+"Device was not able to be opened.</p>                         <p>&nbsp; &nbsp; &nbsp;&nbsp; Check the device is not opened by another program.</p>                         <p>&nbsp; &nbsp; "
+"&nbsp;&nbsp; Check you have the correct permissions to open the device.</p>                         <p><strong>No plugin found for &lt;Detected Firmware&gt;</strong></p>                         "
+"<p>&nbsp;&nbsp;&nbsp; Firmware plugins are missing or your firmware is not currently supported.</p>                         <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Manually select the Marlin or Repetier "
+"plugin.</p>                         <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If your firmware does not have a plugin please let us know.</p>                         <p><strong>Lots of &ldquo;Waiting for "
+"firmware detect&rdquo;</strong></p>                         <p>&nbsp;&nbsp;&nbsp; Unable to send the firmware detect waiting for printer to restart</p>                         "
+"<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Push the restart button on your printer or turn it on and off. </p>                         <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Select a firmware plugin in place of "
+"auto detect.</p>"
 msgstr ""
 
 #. +> trunk6
@@ -1553,8 +1527,7 @@ msgid "Printer Speed"
 msgstr ""
 
 #. +> trunk6
-#: src/widgets/printwidget.cpp:43 src/widgets/printwidget.cpp:60
-#: src/widgets/printwidget.cpp:75
+#: src/widgets/printwidget.cpp:43 src/widgets/printwidget.cpp:60 src/widgets/printwidget.cpp:75
 msgctxt "PrintWidget|"
 msgid "Set"
 msgstr ""
@@ -1898,8 +1871,7 @@ msgid "Attempt to stop Reset on connect"
 msgstr ""
 
 #. +> trunk6
-#: testclient/mainwindow.cpp:279 testclient/mainwindow.cpp:298
-#: testclient/mainwindow.cpp:571
+#: testclient/mainwindow.cpp:279 testclient/mainwindow.cpp:298 testclient/mainwindow.cpp:571
 msgctxt "MainWindow|"
 msgid "Connect"
 msgstr ""
@@ -1916,8 +1888,7 @@ msgctxt "MainWindow|"
 msgid ""
 "Your machine did not respond after 20 seconds.\n"
 "\n"
-"Before connecting again check that your printer is on and your are "
-"connecting using the correct BAUD Rate for your device."
+"Before connecting again check that your printer is on and your are connecting using the correct BAUD Rate for your device."
 msgstr ""
 
 #. +> trunk6
@@ -2028,9 +1999,7 @@ msgstr ""
 msgctxt "MainWindow|"
 msgid ""
 " A Firmware Plugin was not loaded!\n"
-"  Please send the command M115 and let us know what your firmware returns, "
-"so we can improve our firmware detection. Edit your profile to use "
-"\"marlin\" and try again."
+"  Please send the command M115 and let us know what your firmware returns, so we can improve our firmware detection. Edit your profile to use \"marlin\" and try again."
 msgstr ""
 
 #. +> trunk6
@@ -2065,8 +2034,7 @@ msgid "Disconnect"
 msgstr ""
 
 #. +> trunk6
-#: testclient/mainwindow.cpp:538 testclient/mainwindow.cpp:551
-#: testclient/mainwindow.cpp:659
+#: testclient/mainwindow.cpp:538 testclient/mainwindow.cpp:551 testclient/mainwindow.cpp:659
 msgctxt "MainWindow|"
 msgid "Print File"
 msgstr ""
