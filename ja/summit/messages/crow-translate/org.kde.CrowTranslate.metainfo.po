@@ -1,17 +1,13 @@
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: org.kde.CrowTranslate.metainfo\n"
-"POT-Creation-Date: 2026-02-14 09:56+0100\n"
-"PO-Revision-Date: 2024-07-11 23:20+0900\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. (itstool) path: component/name
 #. +> trunk6
@@ -28,9 +24,7 @@ msgstr ""
 #. (itstool) path: description/p
 #. +> trunk6
 #: org.kde.CrowTranslate.metainfo.xml:18
-msgid ""
-"Application written in C++ / Qt that allows you to translate and speak text "
-"using Mozhi."
+msgid "Application written in C++ / Qt that allows you to translate and speak text using Mozhi."
 msgstr ""
 
 #. (itstool) path: description/p
@@ -42,9 +36,7 @@ msgstr ""
 #. (itstool) path: ul/li
 #. +> trunk6
 #: org.kde.CrowTranslate.metainfo.xml:21
-msgid ""
-"Multiple translation engines provided by Mozhi (some instances can disable "
-"specific engines)*"
+msgid "Multiple translation engines provided by Mozhi (some instances can disable specific engines)*"
 msgstr ""
 
 #. (itstool) path: ul/li
@@ -80,9 +72,7 @@ msgstr ""
 #. (itstool) path: description/p
 #. +> trunk6
 #: org.kde.CrowTranslate.metainfo.xml:28
-msgid ""
-"*While Mozhi acts as a proxy to protect your privacy, the third-party "
-"services it uses may store and analyze the text you send."
+msgid "*While Mozhi acts as a proxy to protect your privacy, the third-party services it uses may store and analyze the text you send."
 msgstr ""
 
 #. (itstool) path: screenshot/caption
@@ -117,28 +107,11 @@ msgstr ""
 
 #. (itstool) path: description/p
 #. +> trunk6
-#: org.kde.CrowTranslate.metainfo.xml:61 org.kde.CrowTranslate.metainfo.xml:90
-#: org.kde.CrowTranslate.metainfo.xml:121
-#: org.kde.CrowTranslate.metainfo.xml:132
-#: org.kde.CrowTranslate.metainfo.xml:141
-#: org.kde.CrowTranslate.metainfo.xml:149
-#: org.kde.CrowTranslate.metainfo.xml:157
-#: org.kde.CrowTranslate.metainfo.xml:165
-#: org.kde.CrowTranslate.metainfo.xml:173
-#: org.kde.CrowTranslate.metainfo.xml:185
-#: org.kde.CrowTranslate.metainfo.xml:193
-#: org.kde.CrowTranslate.metainfo.xml:203
-#: org.kde.CrowTranslate.metainfo.xml:212
-#: org.kde.CrowTranslate.metainfo.xml:221
-#: org.kde.CrowTranslate.metainfo.xml:229
-#: org.kde.CrowTranslate.metainfo.xml:237
-#: org.kde.CrowTranslate.metainfo.xml:245
-#: org.kde.CrowTranslate.metainfo.xml:253
-#: org.kde.CrowTranslate.metainfo.xml:261
-#: org.kde.CrowTranslate.metainfo.xml:270
-#: org.kde.CrowTranslate.metainfo.xml:279
-#: org.kde.CrowTranslate.metainfo.xml:289
-#: org.kde.CrowTranslate.metainfo.xml:297
+#: org.kde.CrowTranslate.metainfo.xml:61 org.kde.CrowTranslate.metainfo.xml:90 org.kde.CrowTranslate.metainfo.xml:121 org.kde.CrowTranslate.metainfo.xml:132 org.kde.CrowTranslate.metainfo.xml:141
+#: org.kde.CrowTranslate.metainfo.xml:149 org.kde.CrowTranslate.metainfo.xml:157 org.kde.CrowTranslate.metainfo.xml:165 org.kde.CrowTranslate.metainfo.xml:173 org.kde.CrowTranslate.metainfo.xml:185
+#: org.kde.CrowTranslate.metainfo.xml:193 org.kde.CrowTranslate.metainfo.xml:203 org.kde.CrowTranslate.metainfo.xml:212 org.kde.CrowTranslate.metainfo.xml:221 org.kde.CrowTranslate.metainfo.xml:229
+#: org.kde.CrowTranslate.metainfo.xml:237 org.kde.CrowTranslate.metainfo.xml:245 org.kde.CrowTranslate.metainfo.xml:253 org.kde.CrowTranslate.metainfo.xml:261 org.kde.CrowTranslate.metainfo.xml:270
+#: org.kde.CrowTranslate.metainfo.xml:279 org.kde.CrowTranslate.metainfo.xml:289 org.kde.CrowTranslate.metainfo.xml:297
 msgid "Changelog:"
 msgstr ""
 
@@ -151,9 +124,7 @@ msgstr ""
 #. (itstool) path: ul/li
 #. +> trunk6
 #: org.kde.CrowTranslate.metainfo.xml:64
-msgid ""
-"Automatically assign the fastest instance on the first startup instead of "
-"selecting it randomly."
+msgid "Automatically assign the fastest instance on the first startup instead of selecting it randomly."
 msgstr ""
 
 #. (itstool) path: ul/li
@@ -195,9 +166,7 @@ msgstr ""
 #. (itstool) path: ul/li
 #. +> trunk6
 #: org.kde.CrowTranslate.metainfo.xml:92
-msgid ""
-"Migrate from direct API calls to Mozhi. If you experience slow translation "
-"speeds, try selecting a closer instance in the settings."
+msgid "Migrate from direct API calls to Mozhi. If you experience slow translation speeds, try selecting a closer instance in the settings."
 msgstr ""
 
 #. (itstool) path: ul/li
@@ -281,9 +250,7 @@ msgstr ""
 #. (itstool) path: ul/li
 #. +> trunk6
 #: org.kde.CrowTranslate.metainfo.xml:134
-msgid ""
-"Remove spaces in settings paths. Everywhere instead of \"Crow Translate\" "
-"now \"crow-translate\"."
+msgid "Remove spaces in settings paths. Everywhere instead of \"Crow Translate\" now \"crow-translate\"."
 msgstr ""
 
 #. (itstool) path: ul/li
@@ -331,8 +298,7 @@ msgstr ""
 #. (itstool) path: ul/li
 #. +> trunk6
 #: org.kde.CrowTranslate.metainfo.xml:177
-msgid ""
-"Read settings from application directory when building in portable mode."
+msgid "Read settings from application directory when building in portable mode."
 msgstr ""
 
 #. (itstool) path: ul/li
@@ -368,9 +334,7 @@ msgstr ""
 #. (itstool) path: ul/li
 #. +> trunk6
 #: org.kde.CrowTranslate.metainfo.xml:197
-msgid ""
-"Fixed an issue where the TTS engine would sometimes pronounce the space as "
-"\"percent twenty\"."
+msgid "Fixed an issue where the TTS engine would sometimes pronounce the space as \"percent twenty\"."
 msgstr ""
 
 #. (itstool) path: ul/li
@@ -424,9 +388,7 @@ msgstr ""
 #. (itstool) path: ul/li
 #. +> trunk6
 #: org.kde.CrowTranslate.metainfo.xml:255
-msgid ""
-"Fix popup window not displaying text if text contains UTF-8 special "
-"characters."
+msgid "Fix popup window not displaying text if text contains UTF-8 special characters."
 msgstr ""
 
 #. (itstool) path: ul/li

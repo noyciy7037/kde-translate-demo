@@ -1,17 +1,12 @@
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: crow-translate_qt\n"
-"POT-Creation-Date: 2026-02-07 04:43+0100\n"
-"PO-Revision-Date: 2024-07-11 23:20+0900\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: qtrich\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6
 #: src/cli.cpp:37
@@ -22,49 +17,37 @@ msgstr ""
 #. +> trunk6
 #: src/cli.cpp:39
 msgctxt "Cli|"
-msgid ""
-"Specify the source language (by default, engine will try to determine the "
-"language on its own)."
+msgid "Specify the source language (by default, engine will try to determine the language on its own)."
 msgstr ""
 
 #. +> trunk6
 #: src/cli.cpp:43
 msgctxt "Cli|"
-msgid ""
-"Specify the translation language(s), split by '+' (by default, the system "
-"language is used)."
+msgid "Specify the translation language(s), split by '+' (by default, the system language is used)."
 msgstr ""
 
 #. +> trunk6
 #: src/cli.cpp:47
 msgctxt "Cli|"
-msgid ""
-"Specify the translator engine ('google', 'yandex', 'bing', 'libretranslate' "
-"or 'lingva'), Google is used by default."
+msgid "Specify the translator engine ('google', 'yandex', 'bing', 'libretranslate' or 'lingva'), Google is used by default."
 msgstr ""
 
 #. +> trunk6
 #: src/cli.cpp:51
 msgctxt "Cli|"
-msgid ""
-"Specify Mozhi instance URL. Instance URL from the app settings will be used "
-"by default."
+msgid "Specify Mozhi instance URL. Instance URL from the app settings will be used by default."
 msgstr ""
 
 #. +> trunk6
 #: src/cli.cpp:55
 msgctxt "Cli|"
-msgid ""
-"Specify translation provider ('copy' or 'mozhi'). Provider from app settings "
-"will be used by default."
+msgid "Specify translation provider ('copy' or 'mozhi'). Provider from app settings will be used by default."
 msgstr ""
 
 #. +> trunk6
 #: src/cli.cpp:58
 msgctxt "Cli|"
-msgid ""
-"Specify TTS provider ('none', 'mozhi', 'qt', or 'piper'). Provider from app "
-"settings will be used by default."
+msgid "Specify TTS provider ('none', 'mozhi', 'qt', or 'piper'). Provider from app settings will be used by default."
 msgstr ""
 
 #. +> trunk6
@@ -82,8 +65,7 @@ msgstr ""
 #. +> trunk6
 #: src/cli.cpp:62
 msgctxt "Cli|"
-msgid ""
-"Read source text from files. Arguments will be interpreted as file paths."
+msgid "Read source text from files. Arguments will be interpreted as file paths."
 msgstr ""
 
 #. +> trunk6
@@ -114,16 +96,13 @@ msgstr ""
 #. +> trunk6
 #: src/cli.cpp:70
 msgctxt "Cli|"
-msgid ""
-"Application that allows to translate and speak text using various providers"
+msgid "Application that allows to translate and speak text using various providers"
 msgstr ""
 
 #. +> trunk6
 #: src/cli.cpp:71
 msgctxt "Cli|"
-msgid ""
-"Text to translate. By default, the translation will be done to the system "
-"language."
+msgid "Text to translate. By default, the translation will be done to the system language."
 msgstr ""
 
 #. +> trunk6
@@ -350,15 +329,13 @@ msgid "OCR image is normal"
 msgstr ""
 
 #. +> trunk6
-#: src/mainwindow.cpp:498 src/mainwindow.cpp:518 src/mainwindow.cpp:566
-#: src/mainwindow.cpp:595
+#: src/mainwindow.cpp:498 src/mainwindow.cpp:518 src/mainwindow.cpp:566 src/mainwindow.cpp:595
 msgctxt "Ocr|"
 msgid "OCR languages are not loaded"
 msgstr ""
 
 #. +> trunk6
-#: src/mainwindow.cpp:498 src/mainwindow.cpp:518 src/mainwindow.cpp:566
-#: src/mainwindow.cpp:595
+#: src/mainwindow.cpp:498 src/mainwindow.cpp:518 src/mainwindow.cpp:566 src/mainwindow.cpp:595
 msgctxt "Ocr|"
 msgid "You should set at least one OCR language in the application settings"
 msgstr ""
@@ -375,10 +352,8 @@ msgstr ""
 #, qt-format
 msgctxt "MainWindow|"
 msgid ""
-"While Mozhi acts as a proxy to protect your privacy, the third-party "
-"services it uses may store and analyze the text you send. Your instance "
-"right now is '%1', but you can change it in the translation settings. See "
-"instance details in the link above."
+"While Mozhi acts as a proxy to protect your privacy, the third-party services it uses may store and analyze the text you send. Your instance right now is '%1', but you can change it in the "
+"translation settings. See instance details in the link above."
 msgstr ""
 
 #. +> trunk6
@@ -542,8 +517,7 @@ msgid "GNOME failed to take screenshot."
 msgstr ""
 
 #. +> trunk6
-#: src/ocr/screengrabbers/waylandplasmascreengrabber.cpp:55
-#: src/ocr/screengrabbers/waylandplasmascreengrabber.cpp:333
+#: src/ocr/screengrabbers/waylandplasmascreengrabber.cpp:55 src/ocr/screengrabbers/waylandplasmascreengrabber.cpp:333
 #, qt-format
 msgctxt "WaylandPlasmaScreenGrabber|"
 msgid "Unable to create pipe: %1."
@@ -596,17 +570,13 @@ msgstr ""
 #. +> trunk6
 #: src/ocr/screengrabbers/waylandplasmascreengrabber.cpp:316
 msgctxt "WaylandPlasmaScreenGrabber|"
-msgid ""
-"Crow Translate needs permission to take screenshots. Please grant permission "
-"in your system settings or use the interactive screenshot mode."
+msgid "Crow Translate needs permission to take screenshots. Please grant permission in your system settings or use the interactive screenshot mode."
 msgstr ""
 
 #. +> trunk6
 #: src/ocr/screengrabbers/waylandplasmascreengrabber.cpp:322
 msgctxt "WaylandPlasmaScreenGrabber|"
-msgid ""
-"Screenshot permission denied. Please grant permission in system settings or "
-"try interactive mode."
+msgid "Screenshot permission denied. Please grant permission in system settings or try interactive mode."
 msgstr ""
 
 #. +> trunk6
@@ -765,9 +735,7 @@ msgstr ""
 #. +> trunk6
 #: src/ocr/snippingarea.cpp:896
 msgctxt "SnippingArea|"
-msgid ""
-"Screen under cursor disappeared before we got dpi from it. Using primary "
-"screen for dpi information."
+msgid "Screen under cursor disappeared before we got dpi from it. Using primary screen for dpi information."
 msgstr ""
 
 #. +> trunk6
@@ -2106,8 +2074,7 @@ msgid "Swap languages"
 msgstr ""
 
 #. +> trunk6
-#: src/popupwindow.ui:60 src/popupwindow.ui:105 src/popupwindow.ui:202
-#: src/popupwindow.ui:247
+#: src/popupwindow.ui:60 src/popupwindow.ui:105 src/popupwindow.ui:202 src/popupwindow.ui:247
 msgctxt "PopupWindow|"
 msgid "..."
 msgstr ""
@@ -2350,9 +2317,7 @@ msgstr ""
 #: src/settings/settingsdialog.ui:177
 msgctxt "SettingsDialog|"
 msgid ""
-"<html><head/><body><p>Orientation of the main window layout<br/>When using "
-"<span style=\" font-style:italic;\">Auto</span>, the window orientation will "
-"match the screen orientation</p></body></html>"
+"<html><head/><body><p>Orientation of the main window layout<br/>When using <span style=\" font-style:italic;\">Auto</span>, the window orientation will match the screen orientation</p></body></html>"
 msgstr ""
 
 #. Orientation
@@ -2385,10 +2350,7 @@ msgstr ""
 #. +> trunk6
 #: src/settings/settingsdialog.ui:206
 msgctxt "SettingsDialog|"
-msgid ""
-"<html><head/><body><p>A window for translating selected text. If the "
-"application is minimized, the main window will always be used.</p></body></"
-"html>"
+msgid "<html><head/><body><p>A window for translating selected text. If the application is minimized, the main window will always be used.</p></body></html>"
 msgstr ""
 
 #. +> trunk6
@@ -2418,9 +2380,7 @@ msgstr ""
 #. +> trunk6
 #: src/settings/settingsdialog.ui:241
 msgctxt "SettingsDialog|"
-msgid ""
-"<html><head/><body><p>Notification with translation display time</p></body></"
-"html>"
+msgid "<html><head/><body><p>Notification with translation display time</p></body></html>"
 msgstr ""
 
 #. +> trunk6
@@ -2444,9 +2404,7 @@ msgstr ""
 #. +> trunk6
 #: src/settings/settingsdialog.ui:270
 msgctxt "SettingsDialog|"
-msgid ""
-"<html><head/><body><p>Start application minimized to the system tray</p></"
-"body></html>"
+msgid "<html><head/><body><p>Start application minimized to the system tray</p></body></html>"
 msgstr ""
 
 #. +> trunk6
@@ -2458,8 +2416,7 @@ msgstr ""
 #. +> trunk6
 #: src/settings/settingsdialog.ui:280
 msgctxt "SettingsDialog|"
-msgid ""
-"<html><head/><body><p>Run the application at system startup</p></body></html>"
+msgid "<html><head/><body><p>Run the application at system startup</p></body></html>"
 msgstr ""
 
 #. +> trunk6
@@ -2483,8 +2440,7 @@ msgstr ""
 #. +> trunk6
 #: src/settings/settingsdialog.ui:329
 msgctxt "SettingsDialog|"
-msgid ""
-"<html><head/><body><p>Translation and source text font</p></body></html>"
+msgid "<html><head/><body><p>Translation and source text font</p></body></html>"
 msgstr ""
 
 #. +> trunk6
@@ -2496,9 +2452,7 @@ msgstr ""
 #. +> trunk6
 #: src/settings/settingsdialog.ui:343
 msgctxt "SettingsDialog|"
-msgid ""
-"<html><head/><body><p>Font size of translation and source text</p></body></"
-"html>"
+msgid "<html><head/><body><p>Font size of translation and source text</p></body></html>"
 msgstr ""
 
 #. +> trunk6
@@ -2546,9 +2500,7 @@ msgstr ""
 #. +> trunk6
 #: src/settings/settingsdialog.ui:446
 msgctxt "SettingsDialog|"
-msgid ""
-"<html><head/><body><p>The number of seconds after which the window will be "
-"hidden if it has no focus</p></body></html>"
+msgid "<html><head/><body><p>The number of seconds after which the window will be hidden if it has no focus</p></body></html>"
 msgstr ""
 
 #. +> trunk6
@@ -2668,9 +2620,7 @@ msgstr ""
 #. +> trunk6
 #: src/settings/settingsdialog.ui:686
 msgctxt "SettingsDialog|"
-msgid ""
-"<html><head/><body><p>Language to which text will be translated when "
-"autodetecting</p></body></html>"
+msgid "<html><head/><body><p>Language to which text will be translated when autodetecting</p></body></html>"
 msgstr ""
 
 #. +> trunk6
@@ -2682,18 +2632,13 @@ msgstr ""
 #. +> trunk6
 #: src/settings/settingsdialog.ui:700
 msgctxt "SettingsDialog|"
-msgid ""
-"<html><head/><body><p>Language to which the text will be translated if it is "
-"in the language selected above</p></body></html>"
+msgid "<html><head/><body><p>Language to which the text will be translated if it is in the language selected above</p></body></html>"
 msgstr ""
 
 #. +> trunk6
 #: src/settings/settingsdialog.ui:707 src/settings/settingsdialog.ui:717
 msgctxt "SettingsDialog|"
-msgid ""
-"<html><head/><body><p>Automatically switch to <span style=\" font-"
-"style:italic;\">Auto</span> when using OCR and global shortcuts</p></body></"
-"html>"
+msgid "<html><head/><body><p>Automatically switch to <span style=\" font-style:italic;\">Auto</span> when using OCR and global shortcuts</p></body></html>"
 msgstr ""
 
 #. +> trunk6
@@ -2723,9 +2668,7 @@ msgstr ""
 #. +> trunk6
 #: src/settings/settingsdialog.ui:789
 msgctxt "SettingsDialog|"
-msgid ""
-"<html><head/><body><p>Enable or disable source transliteration</p></body></"
-"html>"
+msgid "<html><head/><body><p>Enable or disable source transliteration</p></body></html>"
 msgstr ""
 
 #. +> trunk6
@@ -2737,9 +2680,7 @@ msgstr ""
 #. +> trunk6
 #: src/settings/settingsdialog.ui:799
 msgctxt "SettingsDialog|"
-msgid ""
-"<html><head/><body><p>Enable or disable translation transliteration</p></"
-"body></html>"
+msgid "<html><head/><body><p>Enable or disable translation transliteration</p></body></html>"
 msgstr ""
 
 #. +> trunk6
@@ -2751,9 +2692,7 @@ msgstr ""
 #. +> trunk6
 #: src/settings/settingsdialog.ui:809
 msgctxt "SettingsDialog|"
-msgid ""
-"<html><head/><body><p>Enable or disable source transcription</p></body></"
-"html>"
+msgid "<html><head/><body><p>Enable or disable source transcription</p></body></html>"
 msgstr ""
 
 #. +> trunk6
@@ -2765,8 +2704,7 @@ msgstr ""
 #. +> trunk6
 #: src/settings/settingsdialog.ui:819
 msgctxt "SettingsDialog|"
-msgid ""
-"<html><head/><body><p>Enable or disable translation options</p></body></html>"
+msgid "<html><head/><body><p>Enable or disable translation options</p></body></html>"
 msgstr ""
 
 #. +> trunk6
@@ -2778,8 +2716,7 @@ msgstr ""
 #. +> trunk6
 #: src/settings/settingsdialog.ui:829
 msgctxt "SettingsDialog|"
-msgid ""
-"<html><head/><body><p>Enable or disable usage examples</p></body></html>"
+msgid "<html><head/><body><p>Enable or disable usage examples</p></body></html>"
 msgstr ""
 
 #. +> trunk6
@@ -2791,10 +2728,7 @@ msgstr ""
 #. +> trunk6
 #: src/settings/settingsdialog.ui:839
 msgctxt "SettingsDialog|"
-msgid ""
-"<html><head/><body><p>Replace each sequence of whitespaces (this includes "
-"the ASCII characters '\\t', '\\n', '\\v', '\\f', '\\r', and ' ') with a "
-"single space in queries</p></body></html>"
+msgid "<html><head/><body><p>Replace each sequence of whitespaces (this includes the ASCII characters '\\t', '\\n', '\\v', '\\f', '\\r', and ' ') with a single space in queries</p></body></html>"
 msgstr ""
 
 #. +> trunk6
@@ -2831,10 +2765,8 @@ msgstr ""
 #: src/settings/settingsdialog.ui:926
 msgctxt "SettingsDialog|"
 msgid ""
-"<html><head/><body><p>Loading additional languages will impact both speed "
-"and accuracy, as there is more work to do to decide on the applicable "
-"language, and there is more chance of hallucinating incorrect words.</p></"
-"body></html>"
+"<html><head/><body><p>Loading additional languages will impact both speed and accuracy, as there is more work to do to decide on the applicable language, and there is more chance of hallucinating "
+"incorrect words.</p></body></html>"
 msgstr ""
 
 #. +> trunk6
@@ -2858,10 +2790,7 @@ msgstr ""
 #. +> trunk6
 #: src/settings/settingsdialog.ui:953
 msgctxt "SettingsDialog|"
-msgid ""
-"<html><head/><body><p><a href=\"https://github.com/tesseract-ocr/"
-"tessdata\"><span style=\" text-decoration: underline; "
-"color:#2980b9;\">Download more</span></a></p></body></html>"
+msgid "<html><head/><body><p><a href=\"https://github.com/tesseract-ocr/tessdata\"><span style=\" text-decoration: underline; color:#2980b9;\">Download more</span></a></p></body></html>"
 msgstr ""
 
 #. +> trunk6
@@ -2873,9 +2802,7 @@ msgstr ""
 #. +> trunk6
 #: src/settings/settingsdialog.ui:979
 msgctxt "SettingsDialog|"
-msgid ""
-"<html><head/><body><p>Replace all single line breaks with a space after text "
-"recognition</p></body></html>"
+msgid "<html><head/><body><p>Replace all single line breaks with a space after text recognition</p></body></html>"
 msgstr ""
 
 #. +> trunk6
@@ -2899,9 +2826,7 @@ msgstr ""
 #. +> trunk6
 #: src/settings/settingsdialog.ui:1065
 msgctxt "SettingsDialog|"
-msgid ""
-"<html><head/><body><p>When to remember the last selected region</p></body></"
-"html>"
+msgid "<html><head/><body><p>When to remember the last selected region</p></body></html>"
 msgstr ""
 
 #. +> trunk6
@@ -2943,8 +2868,7 @@ msgstr ""
 #. +> trunk6
 #: src/settings/settingsdialog.ui:1107
 msgctxt "SettingsDialog|"
-msgid ""
-"<html><head/><body><p>Show a magnifier next to the cursor</p></body></html>"
+msgid "<html><head/><body><p>Show a magnifier next to the cursor</p></body></html>"
 msgstr ""
 
 #. +> trunk6
@@ -2956,9 +2880,7 @@ msgstr ""
 #. +> trunk6
 #: src/settings/settingsdialog.ui:1117
 msgctxt "SettingsDialog|"
-msgid ""
-"<html><head/><body><p>Negate (invert) the image before OCR. Use for bright "
-"text on dark background.</p></body></html>"
+msgid "<html><head/><body><p>Negate (invert) the image before OCR. Use for bright text on dark background.</p></body></html>"
 msgstr ""
 
 #. +> trunk6
@@ -2970,9 +2892,7 @@ msgstr ""
 #. +> trunk6
 #: src/settings/settingsdialog.ui:1130
 msgctxt "SettingsDialog|"
-msgid ""
-"<html><head/><body><p>Finish capturing the fragment when the mouse button is "
-"released</p></body></html>"
+msgid "<html><head/><body><p>Finish capturing the fragment when the mouse button is released</p></body></html>"
 msgstr ""
 
 #. +> trunk6
@@ -2984,9 +2904,7 @@ msgstr ""
 #. +> trunk6
 #: src/settings/settingsdialog.ui:1140
 msgctxt "SettingsDialog|"
-msgid ""
-"<html><head/><body><p>Apply a slight fog to the unselected part</p></body></"
-"html>"
+msgid "<html><head/><body><p>Apply a slight fog to the unselected part</p></body></html>"
 msgstr ""
 
 #. +> trunk6
@@ -3058,8 +2976,7 @@ msgstr ""
 #. +> trunk6
 #: src/settings/settingsdialog.ui:1293
 msgctxt "SettingsDialog|"
-msgid ""
-"<html><head/><body><p>Enable or disable authentication</p></body></html>"
+msgid "<html><head/><body><p>Enable or disable authentication</p></body></html>"
 msgstr ""
 
 #. +> trunk6
@@ -3077,8 +2994,7 @@ msgstr ""
 #. +> trunk6
 #: src/settings/settingsdialog.ui:1316
 msgctxt "SettingsDialog|"
-msgid ""
-"<html><head/><body><p>Proxy username for authentication</p></body></html>"
+msgid "<html><head/><body><p>Proxy username for authentication</p></body></html>"
 msgstr ""
 
 #. +> trunk6
@@ -3090,8 +3006,7 @@ msgstr ""
 #. +> trunk6
 #: src/settings/settingsdialog.ui:1336
 msgctxt "SettingsDialog|"
-msgid ""
-"<html><head/><body><p>Proxy password for authentication</p></body></html>"
+msgid "<html><head/><body><p>Proxy password for authentication</p></body></html>"
 msgstr ""
 
 #. +> trunk6
@@ -3103,8 +3018,7 @@ msgstr ""
 #. +> trunk6
 #: src/settings/settingsdialog.ui:1385
 msgctxt "SettingsDialog|"
-msgid ""
-"<html><head/><body><p>Register global shortcuts in system</p></body></html>"
+msgid "<html><head/><body><p>Register global shortcuts in system</p></body></html>"
 msgstr ""
 
 #. +> trunk6
@@ -3140,9 +3054,7 @@ msgstr ""
 #. +> trunk6
 #: src/settings/settingsdialog.ui:1430
 msgctxt "SettingsDialog|"
-msgid ""
-"<html><head/><body><p>The key sequence for the selected action</p></body></"
-"html>"
+msgid "<html><head/><body><p>The key sequence for the selected action</p></body></html>"
 msgstr ""
 
 #. +> trunk6
@@ -3236,8 +3148,7 @@ msgid "Stop text speaking"
 msgstr ""
 
 #. +> trunk6
-#: src/settings/shortcutsmodel/shortcutsmodel.cpp:35
-#: src/settings/shortcutsmodel/shortcutsmodel.cpp:73
+#: src/settings/shortcutsmodel/shortcutsmodel.cpp:35 src/settings/shortcutsmodel/shortcutsmodel.cpp:73
 msgctxt "ShortcutsModel|"
 msgid "Speak / pause text speaking"
 msgstr ""
@@ -3365,10 +3276,7 @@ msgstr ""
 #. +> trunk6
 #: src/translator/atranslationprovider.cpp:113
 msgctxt "QObject|"
-msgid ""
-"The selected translation provider crashed during initialization and has been "
-"reset to 'Copy' to prevent further issues. You can try selecting a different "
-"provider in Settings → Translation."
+msgid "The selected translation provider crashed during initialization and has been reset to 'Copy' to prevent further issues. You can try selecting a different provider in Settings → Translation."
 msgstr ""
 
 #. +> trunk6
@@ -3416,10 +3324,7 @@ msgstr ""
 #. +> trunk6
 #: src/tts/attsprovider.cpp:70
 msgctxt "QObject|"
-msgid ""
-"The selected TTS provider crashed during initialization and has been reset "
-"to 'None' to prevent further issues. You can try selecting a different "
-"provider in Settings → TTS."
+msgid "The selected TTS provider crashed during initialization and has been reset to 'None' to prevent further issues. You can try selecting a different provider in Settings → TTS."
 msgstr ""
 
 #. +> trunk6
@@ -3510,8 +3415,7 @@ msgstr ""
 #: src/tts/piperttsprovider.cpp:283
 msgctxt "PiperTTSProvider|"
 msgid ""
-"Crow Translate uses ONNX Runtime for neural text-to-speech. The Windows "
-"binary includes Microsoft telemetry that collects usage information.\n"
+"Crow Translate uses ONNX Runtime for neural text-to-speech. The Windows binary includes Microsoft telemetry that collects usage information.\n"
 "\n"
 "Data Collection:\n"
 "• Device and usage data, error reports, performance information\n"
@@ -3549,14 +3453,9 @@ msgstr ""
 #: src/tts/piperttsprovider.cpp:1362
 msgctxt "PiperTTSProvider|"
 msgid ""
-"<h3>Piper Voice Models Not Found</h3><p>No Piper TTS voice models were found "
-"in the standard locations.</p><p><b>To use Piper TTS:</b></"
-"p><ol><li>Download voice models from <a href='https://huggingface.co/rhasspy/"
-"piper-voices'>HuggingFace Piper Voices</a></li><li>Extract the models to a "
-"directory</li><li>Set the path in Settings → TTS → Piper Voices Path</li></"
-"ol><p><b>⚠️ License Warning:</b> Some models may have non-free licenses and "
-"cannot be used in commercial settings. Please check the license of each "
-"model before commercial use.</p>"
+"<h3>Piper Voice Models Not Found</h3><p>No Piper TTS voice models were found in the standard locations.</p><p><b>To use Piper TTS:</b></p><ol><li>Download voice models from <a "
+"href='https://huggingface.co/rhasspy/piper-voices'>HuggingFace Piper Voices</a></li><li>Extract the models to a directory</li><li>Set the path in Settings → TTS → Piper Voices Path</li></ol><p><b>⚠️"
+" License Warning:</b> Some models may have non-free licenses and cannot be used in commercial settings. Please check the license of each model before commercial use.</p>"
 msgstr ""
 
 #. +> trunk6
@@ -3570,15 +3469,10 @@ msgstr ""
 #, qt-format
 msgctxt "QtTTSProvider|"
 msgid ""
-"<h3>Windows TTS Voice Not Found</h3><p>No Windows TTS voice was found for "
-"<b>%1</b>.</p><p><b>To install additional languages:</b></p><ol><li>Open "
-"<b>Settings → Time & Language → Language & region</b></li><li>Click <b>Add a "
-"language</b> and select your desired language</li><li>Click on the installed "
-"language and select <b>Language options</b></li><li>Under <b>Speech</b>, "
-"click <b>Download</b> for the speech pack</li></ol><p><b>⚠️ License Note:</b> "
-"Crow Translate currently only supports \"Basic voice models\" from Windows "
-"TTS. \"Narrator voices\" have licensing restrictions that are incompatible "
-"with this application.</p>"
+"<h3>Windows TTS Voice Not Found</h3><p>No Windows TTS voice was found for <b>%1</b>.</p><p><b>To install additional languages:</b></p><ol><li>Open <b>Settings → Time & Language → Language & "
+"region</b></li><li>Click <b>Add a language</b> and select your desired language</li><li>Click on the installed language and select <b>Language options</b></li><li>Under <b>Speech</b>, click "
+"<b>Download</b> for the speech pack</li></ol><p><b>⚠️ License Note:</b> Crow Translate currently only supports \"Basic voice models\" from Windows TTS. \"Narrator voices\" have licensing "
+"restrictions that are incompatible with this application.</p>"
 msgstr ""
 
 #. +> trunk6
