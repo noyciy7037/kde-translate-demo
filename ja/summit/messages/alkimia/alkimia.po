@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the alkimia package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: alkimia\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-08-09 10:25+0200\n"
-"PO-Revision-Date: 2018-12-04 23:10-0800\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6 stable5
 #, kde-format
@@ -206,8 +205,7 @@ msgstr ""
 #. +> trunk6 stable5
 #: alkonlinequote_p.cpp:700
 #, kde-format
-msgid ""
-"Unable to detect field delimiter in first line (header line) of quote data."
+msgid "Unable to detect field delimiter in first line (header line) of quote data."
 msgstr ""
 
 #. +> trunk6 stable5
@@ -273,11 +271,8 @@ msgstr ""
 #. i18n: ectx: property (windowTitle), widget (QWidget, AlkOnlineQuoteDetailsWidget)
 #. i18n: ectx: property (windowTitle), widget (QWidget, AlkOnlineQuotesProfilesWidget)
 #. +> trunk6 stable5
-#: alkonlinequotedetails.ui:20 alkonlinequotesdebug.ui:20
-#: alkonlinequoteslist.ui:20 alkonlinequoteslist.ui:32
-#: alkonlinequotesprofile.ui:20 alkonlinequotesprofile.ui:32
-#: alkonlinequotesprofiledetails.ui:20 alkonlinequotesprofiles.ui:20
-#: alkonlinequoteuploaddialog.ui:20
+#: alkonlinequotedetails.ui:20 alkonlinequotesdebug.ui:20 alkonlinequoteslist.ui:20 alkonlinequoteslist.ui:32 alkonlinequotesprofile.ui:20 alkonlinequotesprofile.ui:32
+#: alkonlinequotesprofiledetails.ui:20 alkonlinequotesprofiles.ui:20 alkonlinequoteuploaddialog.ui:20
 #, kde-format
 msgid "Online Quotes"
 msgstr ""
@@ -287,18 +282,11 @@ msgstr ""
 #: alkonlinequotedetails.ui:26 alkonlinequotesprofile.ui:116
 #, kde-format
 msgid ""
-"<html><head/><body><p><span style=\" font-style:italic;\">Enter regular "
-"expressions which can be used to parse the data returned from the URL "
-"entered above. The symbol, price, and date must be found in the quote data "
-"to be usable. You may also try the KMyMoney forum at </span><a "
-"href=\"https://forum.kde.org/viewforum.php?f=69\"><span style=\" text-"
-"decoration: underline; color:#2980b9;\">https://forum.kde.org/viewforum.php?"
-"f=69</span></a>  or the <span style=\" font-style:italic;\">user's "
-"mailinglist at </span><a href=\"mailto:kmymoney@kde.org\"><span style=\" "
-"font-style:italic; text-decoration: underline; "
-"color:#2980b9;\">kmymoney@kde.org</span></a><span style=\" font-style:italic;"
-"\"> to find what settings work for other users in your country.</span></p></"
-"body></html>"
+"<html><head/><body><p><span style=\" font-style:italic;\">Enter regular expressions which can be used to parse the data returned from the URL entered above. The symbol, price, and date must be found"
+" in the quote data to be usable. You may also try the KMyMoney forum at </span><a href=\"https://forum.kde.org/viewforum.php?f=69\"><span style=\" text-decoration: underline; "
+"color:#2980b9;\">https://forum.kde.org/viewforum.php?f=69</span></a>  or the <span style=\" font-style:italic;\">user's mailinglist at </span><a href=\"mailto:kmymoney@kde.org\"><span style=\" font-"
+"style:italic; text-decoration: underline; color:#2980b9;\">kmymoney@kde.org</span></a><span style=\" font-style:italic;\"> to find what settings work for other users in your "
+"country.</span></p></body></html>"
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, detailsGroupBox)
@@ -339,8 +327,7 @@ msgstr ""
 #. i18n: ectx: property (toolTip), widget (KLineEdit, m_editDate)
 #. i18n: ectx: property (toolTip), widget (KLineEdit, m_editDateFormat)
 #. +> trunk6 stable5
-#: alkonlinequotedetails.ui:80 alkonlinequotedetails.ui:202
-#: alkonlinequotesprofile.ui:227 alkonlinequotesprofile.ui:234
+#: alkonlinequotedetails.ui:80 alkonlinequotedetails.ui:202 alkonlinequotesprofile.ui:227 alkonlinequotesprofile.ui:234
 #, kde-format
 msgid "Regular Expression to extract the date from the downloaded data"
 msgstr ""
@@ -405,12 +392,10 @@ msgstr ""
 #. i18n: ectx: property (whatsThis), widget (KLineEdit, m_editURL)
 #. +> trunk6 stable5
 #: alkonlinequotedetails.ui:166 alkonlinequotesprofile.ui:199
-#, no-c-format, kde-format
+#, kde-format, no-c-format
 msgid ""
-"Enter the URL from which stock quotes will be fetched.  <b>%1</b> will be "
-"replaced with the symbol for the security being quoted. For currency "
-"conversions, <b>%2</b> will be replaced with the currency to be quoted and "
-"<b>%1</b> with the currency the quote is based on."
+"Enter the URL from which stock quotes will be fetched.  <b>%1</b> will be replaced with the symbol for the security being quoted. For currency conversions, <b>%2</b> will be replaced with the "
+"currency to be quoted and <b>%1</b> with the currency the quote is based on."
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (AlkComboBox, m_editPriceDecimalSeparator)
@@ -520,9 +505,7 @@ msgstr ""
 #. +> trunk6 stable5
 #: alkonlinequotedetails.ui:305
 #, kde-format
-msgid ""
-"Use this to copy the details as text to the clipboard to e.g. paste it in an "
-"email."
+msgid "Use this to copy the details as text to the clipboard to e.g. paste it in an email."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (AlkPushButton, m_copyButton)
@@ -572,17 +555,14 @@ msgstr ""
 #. +> trunk6 stable5
 #: alkonlinequotesdebug.ui:55
 #, kde-format
-msgid ""
-"Display the response of a query of the selected source entry in a web browser"
+msgid "Display the response of a query of the selected source entry in a web browser"
 msgstr ""
 
 #. i18n: ectx: property (whatsThis), widget (AlkPushButton, m_showButton)
 #. +> trunk6 stable5
 #: alkonlinequotesdebug.ui:58
 #, kde-format
-msgid ""
-"Use this option to display the response to a query from the selected online "
-"source."
+msgid "Use this option to display the response to a query from the selected online source."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (AlkPushButton, m_showButton)
@@ -680,8 +660,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (AlkPushButton, m_deleteButton)
 #. i18n: ectx: property (text), widget (AlkPushButton, m_deleteProfile)
 #. +> trunk6 stable5
-#: alkonlinequoteslist.ui:70 alkonlinequotesprofile.ui:61
-#: alkonlinequotesprofiles.ui:62
+#: alkonlinequoteslist.ui:70 alkonlinequotesprofile.ui:61 alkonlinequotesprofiles.ui:62
 #, kde-format
 msgid "Delete"
 msgstr ""
@@ -690,9 +669,7 @@ msgstr ""
 #. +> trunk6 stable5
 #: alkonlinequoteslist.ui:82 alkonlinequotesprofile.ui:68
 #, kde-format
-msgid ""
-"Create a duplicate of the currently selected source entry under a different "
-"name."
+msgid "Create a duplicate of the currently selected source entry under a different name."
 msgstr ""
 
 #. i18n: ectx: property (whatsThis), widget (AlkPushButton, m_duplicateButton)
@@ -713,19 +690,14 @@ msgstr ""
 #. +> trunk6 stable5
 #: alkonlinequoteslist.ui:100
 #, kde-format
-msgid ""
-"Creates a new local online source as reference to a remote online quote "
-"source"
+msgid "Creates a new local online source as reference to a remote online quote source"
 msgstr ""
 
 #. i18n: ectx: property (whatsThis), widget (AlkPushButton, m_addReferenceButton)
 #. +> trunk6 stable5
 #: alkonlinequoteslist.ui:103
 #, kde-format
-msgid ""
-"Use this to create a new local online quote source that links to a remote "
-"online quote source. The attributes of the remote online course source are "
-"then used for a price or quote request."
+msgid "Use this to create a new local online quote source that links to a remote online quote source. The attributes of the remote online course source are then used for a price or quote request."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (AlkPushButton, m_addReferenceButton)
@@ -781,18 +753,14 @@ msgstr ""
 #. +> trunk6 stable5
 #: alkonlinequoteslist.ui:154
 #, kde-format
-msgid ""
-"Reset changes to local sources that were made after the last selection of "
-"this profile"
+msgid "Reset changes to local sources that were made after the last selection of this profile"
 msgstr ""
 
 #. i18n: ectx: property (whatsThis), widget (AlkPushButton, m_resetButton)
 #. +> trunk6 stable5
 #: alkonlinequoteslist.ui:157
 #, kde-format
-msgid ""
-"Use this to reset changes to local sources that were made after the last "
-"selection of this profile."
+msgid "Use this to reset changes to local sources that were made after the last selection of this profile."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (AlkPushButton, m_resetButton)
@@ -897,10 +865,7 @@ msgstr ""
 #: alkonlinequotesprofile.ui:260
 #, kde-format
 msgid ""
-"<p>For easier processing of the data returned by the online source, KMyMoney "
-"usually strips unused parts before it is parsed with the regular "
-"expressions. If matching of the fields relies on those items, then use this "
-"option to turn stripping off.</p>\n"
+"<p>For easier processing of the data returned by the online source, KMyMoney usually strips unused parts before it is parsed with the regular expressions. If matching of the fields relies on those items, then use this option to turn stripping off.</p>\n"
 "\n"
 "<p>The following items are usually removed by stripping:\n"
 "\n"
@@ -952,9 +917,7 @@ msgstr ""
 #. +> trunk6 stable5
 #: alkonlinequotesprofiles.ui:26 alkonlinequoteuploaddialog.ui:26
 #, kde-format
-msgid ""
-"<html><head/><body><p>Select, add or delete an application profile, where to "
-"load profiles from and save into eg. kmymoney or skrooge.</p></body></html>"
+msgid "<html><head/><body><p>Select, add or delete an application profile, where to load profiles from and save into eg. kmymoney or skrooge.</p></body></html>"
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, profilesGroupBox)
@@ -1223,10 +1186,7 @@ msgstr ""
 #. +> trunk6 stable5
 #: alkonlinequoteuploaddialog.ui:123
 #, kde-format
-msgid ""
-"This dialog allows you to create a package for an online quote source, which "
-"you can then upload to the online store used by alkimia to share with other "
-"users."
+msgid "This dialog allows you to create a package for an online quote source, which you can then upload to the online store used by alkimia to share with other users."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, m_failedLabel)
@@ -1241,10 +1201,8 @@ msgstr ""
 #: alkonlinequoteuploaddialog.ui:153
 #, kde-format
 msgid ""
-"To upload the generated package to the online store, copy the path of the "
-"generated file into the clipboard, log in to the store mentioned below and "
-"paste the copied url into the corresponding package (see the <b>files</b> "
-"tab)."
+"To upload the generated package to the online store, copy the path of the generated file into the clipboard, log in to the store mentioned below and paste the copied url into the corresponding "
+"package (see the <b>files</b> tab)."
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (AlkPushButton, m_createButton)
