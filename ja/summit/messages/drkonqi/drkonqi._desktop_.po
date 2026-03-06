@@ -1,20 +1,13 @@
-# SPDX-FileCopyrightText: 2024 Ryuichi Yamada <ryuichi_ya220@outlook.jp>
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-01-30 06:28+0100\n"
-"PO-Revision-Date: 2024-02-11 04:47+0900\n"
-"Last-Translator: Ryuichi Yamada <ryuichi_ya220@outlook.jp>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: \n"
-"X-Text-Markup: \n"
-"X-Generator: Lokalize 23.08.4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6 stable6 stable5
 #: src/coredump/gui/org.kde.drkonqi.coredump.gui.desktop:10
@@ -71,8 +64,7 @@ msgid "Dr Konqi"
 msgstr "Dr Konqi"
 
 #. +> stable5
-#: src/data/debuggers/external.mac/lldbrc:2
-#: src/data/debuggers/external/lldbrc:2 src/data/debuggers/internal/lldbrc:2
+#: src/data/debuggers/external.mac/lldbrc:2 src/data/debuggers/external/lldbrc:2 src/data/debuggers/internal/lldbrc:2
 msgctxt "Name"
 msgid "lldb"
 msgstr "lldb"
