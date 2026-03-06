@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the buho package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: buho\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-05-21 10:36+0200\n"
-"PO-Revision-Date: 2020-11-12 20:20-0800\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6
 #: src/main.cpp:54
@@ -47,9 +46,7 @@ msgstr ""
 #. +> trunk6
 #: src/views/notes/NotesView.qml:146
 #, kde-format
-msgid ""
-"The note changes have not been saved. Are you sure you want to close the "
-"note?"
+msgid "The note changes have not been saved. Are you sure you want to close the note?"
 msgstr ""
 
 #. +> trunk6
