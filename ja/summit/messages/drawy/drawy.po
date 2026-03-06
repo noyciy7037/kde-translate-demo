@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the drawy package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: drawy_qt\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-02-26 15:29+0100\n"
-"PO-Revision-Date: 2026-01-03 07:57+0900\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: drawy\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6
 #, kde-format
@@ -37,6 +36,48 @@ msgstr ""
 #: apps/main.cpp:44
 #, kde-format
 msgid "Your handy, infinite brainstorming tool!"
+msgstr ""
+
+#. +> trunk6
+#: gui/item/arrowutils.cpp:36
+#, kde-format
+msgid "None"
+msgstr ""
+
+#. +> trunk6
+#: gui/item/arrowutils.cpp:38 widgets/properties/widgets/arrowstylewidget.cpp:46
+#, kde-format
+msgid "Arrow"
+msgstr ""
+
+#. +> trunk6
+#: gui/item/arrowutils.cpp:40
+#, kde-format
+msgid "Triangle"
+msgstr ""
+
+#. +> trunk6
+#: gui/item/arrowutils.cpp:42
+#, kde-format
+msgid "Full Triangle"
+msgstr ""
+
+#. +> trunk6
+#: gui/item/arrowutils.cpp:44
+#, kde-format
+msgid "Circle"
+msgstr ""
+
+#. +> trunk6
+#: gui/item/arrowutils.cpp:46
+#, kde-format
+msgid "Full Circle"
+msgstr ""
+
+#. +> trunk6
+#: gui/item/arrowutils.cpp:48
+#, kde-format
+msgid "Line"
 msgstr ""
 
 #. +> trunk6
@@ -70,8 +111,7 @@ msgid "Change Eraser Size"
 msgstr ""
 
 #. +> trunk6
-#: gui/properties/property.cpp:102
-#: widgets/properties/widgets/actionswidget.cpp:50
+#: gui/properties/property.cpp:102 widgets/properties/widgets/actionswidget.cpp:50
 #, kde-format
 msgid "Actions"
 msgstr ""
@@ -124,6 +164,12 @@ msgstr ""
 #: widgets/command/alignitemcommand.cpp:113
 #, kde-format
 msgid "Align Items"
+msgstr ""
+
+#. +> trunk6
+#: widgets/command/arrowtypecommand.cpp:65
+#, kde-format
+msgid "Change Arrow Type"
 msgstr ""
 
 #. +> trunk6
@@ -214,6 +260,13 @@ msgid "%1%"
 msgstr ""
 
 #. +> trunk6
+#: widgets/components/toolbar.cpp:64
+#, kde-format
+msgctxt "@action:button"
+msgid "Image"
+msgstr ""
+
+#. +> trunk6
 #: widgets/components/toolbuttonplugin.cpp:30
 #, kde-format
 msgctxt "@info:tooltip"
@@ -273,70 +326,70 @@ msgid "Developer"
 msgstr ""
 
 #. +> trunk6
-#: widgets/context/uicontext.cpp:64
+#: widgets/context/uicontext.cpp:66
 #, kde-format
 msgctxt "@action:button"
 msgid "Selection"
 msgstr ""
 
 #. +> trunk6
-#: widgets/context/uicontext.cpp:65
+#: widgets/context/uicontext.cpp:67
 #, kde-format
 msgctxt "@action:button"
 msgid "Free Form"
 msgstr ""
 
 #. +> trunk6
-#: widgets/context/uicontext.cpp:66
+#: widgets/context/uicontext.cpp:68
 #, kde-format
 msgctxt "@action:button"
 msgid "Rectangle"
 msgstr ""
 
 #. +> trunk6
-#: widgets/context/uicontext.cpp:67
+#: widgets/context/uicontext.cpp:69
 #, kde-format
 msgctxt "@action:button"
 msgid "Diamond"
 msgstr ""
 
 #. +> trunk6
-#: widgets/context/uicontext.cpp:68
+#: widgets/context/uicontext.cpp:70
 #, kde-format
 msgctxt "@action:button"
 msgid "Ellipse"
 msgstr ""
 
 #. +> trunk6
-#: widgets/context/uicontext.cpp:69
+#: widgets/context/uicontext.cpp:71
 #, kde-format
 msgctxt "@action:button"
 msgid "Arrow"
 msgstr ""
 
 #. +> trunk6
-#: widgets/context/uicontext.cpp:70
+#: widgets/context/uicontext.cpp:72
 #, kde-format
 msgctxt "@action:button"
 msgid "Line"
 msgstr ""
 
 #. +> trunk6
-#: widgets/context/uicontext.cpp:71
+#: widgets/context/uicontext.cpp:73
 #, kde-format
 msgctxt "@action:button"
 msgid "Eraser"
 msgstr ""
 
 #. +> trunk6
-#: widgets/context/uicontext.cpp:72
+#: widgets/context/uicontext.cpp:74
 #, kde-format
 msgctxt "@action:button"
 msgid "Text"
 msgstr ""
 
 #. +> trunk6
-#: widgets/context/uicontext.cpp:73
+#: widgets/context/uicontext.cpp:75
 #, kde-format
 msgctxt "@action:button"
 msgid "Move"
@@ -345,9 +398,7 @@ msgstr ""
 #. +> trunk6
 #: widgets/dbus/managepowermanagement.cpp:30
 #, kde-format
-msgctxt ""
-"Reason for inhibiting the screensaver activation, when the presentation mode "
-"is active"
+msgctxt "Reason for inhibiting the screensaver activation, when the presentation mode is active"
 msgid "Giving a presentation"
 msgstr ""
 
@@ -409,6 +460,24 @@ msgid "Restore previous session on start"
 msgstr ""
 
 #. +> trunk6
+#: widgets/dialog/general/canvascolorwidget.cpp:13
+#, kde-format
+msgid "Canvas"
+msgstr ""
+
+#. +> trunk6
+#: widgets/dialog/general/canvascolorwidget.cpp:21
+#, kde-format
+msgid "Light theme color"
+msgstr ""
+
+#. +> trunk6
+#: widgets/dialog/general/canvascolorwidget.cpp:22
+#, kde-format
+msgid "Dark theme color"
+msgstr ""
+
+#. +> trunk6
 #: widgets/dialog/misc/powermanagerwidget.cpp:13
 #, kde-format
 msgid "Power Manager"
@@ -435,208 +504,205 @@ msgid "Activate Debug Mode"
 msgstr ""
 
 #. +> trunk6
-#: widgets/keybindings/actionmanager.cpp:81
+#: widgets/keybindings/actionmanager.cpp:82
 #, kde-format
 msgctxt "@action"
 msgid "Export as SVG"
 msgstr ""
 
 #. +> trunk6
-#: widgets/keybindings/actionmanager.cpp:86
+#: widgets/keybindings/actionmanager.cpp:87
 #, kde-format
 msgctxt "@action"
 msgid "Group Items"
 msgstr ""
 
 #. +> trunk6
-#: widgets/keybindings/actionmanager.cpp:89
+#: widgets/keybindings/actionmanager.cpp:90
 #, kde-format
 msgctxt "@action"
 msgid "Ungroup Items"
 msgstr ""
 
 #. +> trunk6
-#: widgets/keybindings/actionmanager.cpp:94
+#: widgets/keybindings/actionmanager.cpp:95
 #, kde-format
 msgctxt "@action"
 msgid "Delete"
 msgstr ""
 
 #. +> trunk6
-#: widgets/keybindings/actionmanager.cpp:96
+#: widgets/keybindings/actionmanager.cpp:97
 #, kde-format
 msgctxt "@action"
 msgid "Clear Canvas"
 msgstr ""
 
 #. +> trunk6
-#: widgets/keybindings/actionmanager.cpp:99
+#: widgets/keybindings/actionmanager.cpp:100
 #, kde-format
 msgctxt "@action"
 msgid "Freeform Tool"
 msgstr ""
 
 #. +> trunk6
-#: widgets/keybindings/actionmanager.cpp:102
+#: widgets/keybindings/actionmanager.cpp:103
 #, kde-format
 msgctxt "@action"
 msgid "Eraser Tool"
 msgstr ""
 
 #. +> trunk6
-#: widgets/keybindings/actionmanager.cpp:103
+#: widgets/keybindings/actionmanager.cpp:104
 #, kde-format
 msgctxt "@action"
 msgid "Selection Tool"
 msgstr ""
 
 #. +> trunk6
-#: widgets/keybindings/actionmanager.cpp:104
+#: widgets/keybindings/actionmanager.cpp:105
 #, kde-format
 msgctxt "@action"
 msgid "Rectangle Tool"
 msgstr ""
 
 #. +> trunk6
-#: widgets/keybindings/actionmanager.cpp:105
+#: widgets/keybindings/actionmanager.cpp:106
 #, kde-format
 msgctxt "@action"
 msgid "Ellipse Tool"
 msgstr ""
 
 #. +> trunk6
-#: widgets/keybindings/actionmanager.cpp:106
+#: widgets/keybindings/actionmanager.cpp:107
 #, kde-format
 msgctxt "@action"
 msgid "Line Tool"
 msgstr ""
 
 #. +> trunk6
-#: widgets/keybindings/actionmanager.cpp:107
+#: widgets/keybindings/actionmanager.cpp:108
 #, kde-format
 msgctxt "@action"
 msgid "Text Tool"
 msgstr ""
 
 #. +> trunk6
-#: widgets/keybindings/actionmanager.cpp:108
+#: widgets/keybindings/actionmanager.cpp:109
 #, kde-format
 msgctxt "@action"
 msgid "Arrow Tool"
 msgstr ""
 
 #. +> trunk6
-#: widgets/keybindings/actionmanager.cpp:109
+#: widgets/keybindings/actionmanager.cpp:110
 #, kde-format
 msgctxt "@action"
 msgid "Move Tool"
 msgstr ""
 
 #. +> trunk6
-#: widgets/keybindings/actionmanager.cpp:111
+#: widgets/keybindings/actionmanager.cpp:112
 #, kde-format
 msgctxt "@action"
 msgid "Send To Back"
 msgstr ""
 
 #. +> trunk6
-#: widgets/keybindings/actionmanager.cpp:114
+#: widgets/keybindings/actionmanager.cpp:115
 #, kde-format
 msgctxt "@action"
 msgid "Send Backward"
 msgstr ""
 
 #. +> trunk6
-#: widgets/keybindings/actionmanager.cpp:117
+#: widgets/keybindings/actionmanager.cpp:118
 #, kde-format
 msgctxt "@action"
 msgid "Bring Forward"
 msgstr ""
 
 #. +> trunk6
-#: widgets/keybindings/actionmanager.cpp:120
+#: widgets/keybindings/actionmanager.cpp:121
 #, kde-format
 msgctxt "@action"
 msgid "Bring To Front"
 msgstr ""
 
 #. +> trunk6
-#: widgets/keybindings/actionmanager.cpp:124
+#: widgets/keybindings/actionmanager.cpp:125
 #, kde-format
 msgctxt "@action"
 msgid "Debug"
 msgstr ""
 
 #. +> trunk6
-#: widgets/keybindings/actionmanager.cpp:424
+#: widgets/keybindings/actionmanager.cpp:437
 #, kde-format
 msgid "Untitled.%1"
 msgstr ""
 
 #. +> trunk6
-#: widgets/keybindings/actionmanager.cpp:426
-#: widgets/keybindings/actionmanager.cpp:490
+#: widgets/keybindings/actionmanager.cpp:439 widgets/keybindings/actionmanager.cpp:503
 #, kde-format
 msgid "Drawy (*.%1)"
 msgstr ""
 
 #. +> trunk6
-#: widgets/keybindings/actionmanager.cpp:427
+#: widgets/keybindings/actionmanager.cpp:440
 #, kde-format
 msgctxt "@title:window"
 msgid "Save File"
 msgstr ""
 
 #. +> trunk6
-#: widgets/keybindings/actionmanager.cpp:449
+#: widgets/keybindings/actionmanager.cpp:462
 #, kde-format
 msgctxt "@action"
 msgid "Do you really want to clear the canvas?"
 msgstr ""
 
 #. +> trunk6
-#: widgets/keybindings/actionmanager.cpp:450
+#: widgets/keybindings/actionmanager.cpp:463
 #, kde-format
 msgctxt "@action"
 msgid "Clear"
 msgstr ""
 
 #. +> trunk6
-#: widgets/keybindings/actionmanager.cpp:493
+#: widgets/keybindings/actionmanager.cpp:506
 #, kde-format
 msgctxt "@title:window"
 msgid "Open File"
 msgstr ""
 
 #. +> trunk6
-#: widgets/keybindings/actionmanager.cpp:506
+#: widgets/keybindings/actionmanager.cpp:519
 #, kde-format
 msgid "Untitled.svg"
 msgstr ""
 
 #. +> trunk6
-#: widgets/keybindings/actionmanager.cpp:508
+#: widgets/keybindings/actionmanager.cpp:521
 #, kde-format
 msgid "SVG (*.svg)"
 msgstr ""
 
 #. +> trunk6
-#: widgets/keybindings/actionmanager.cpp:510
+#: widgets/keybindings/actionmanager.cpp:523
 #, kde-format
 msgctxt "@title:window"
 msgid "Export to Svg"
 msgstr ""
 
 #. +> trunk6
-#: widgets/keybindings/actionmanager.cpp:545
+#: widgets/keybindings/actionmanager.cpp:558
 #, kde-format
-msgid ""
-"The document \"%1\" has been modified. Do you want to save your changes or "
-"discard them?"
+msgid "The document \"%1\" has been modified. Do you want to save your changes or discard them?"
 msgstr ""
 
 #. +> trunk6
-#: widgets/keybindings/actionmanager.cpp:549
+#: widgets/keybindings/actionmanager.cpp:562
 #, kde-format
 msgctxt "@title:window"
 msgid "Action Required"
@@ -712,20 +778,13 @@ msgid "Alignment"
 msgstr ""
 
 #. +> trunk6
-#: widgets/properties/widgets/arrowstylewidget.cpp:35
-#, kde-format
-msgid "Arrow"
-msgstr ""
-
-#. +> trunk6
 #: widgets/properties/widgets/backgroundcolorwidget.cpp:22
 #, kde-format
 msgid "Background Color"
 msgstr ""
 
 #. +> trunk6
-#: widgets/properties/widgets/backgroundstylewidget.cpp:30
-#: widgets/properties/widgets/stokestylewidget.cpp:28
+#: widgets/properties/widgets/backgroundstylewidget.cpp:30 widgets/properties/widgets/stokestylewidget.cpp:28
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Solid"
@@ -856,6 +915,26 @@ msgid "Pen Tool"
 msgstr ""
 
 #. +> trunk6
+#: widgets/tools/imagetool.cpp:34
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Image Tool"
+msgstr ""
+
+#. +> trunk6
+#: widgets/tools/imagetool.cpp:61
+#, kde-format
+msgid "Image"
+msgstr ""
+
+#. +> trunk6
+#: widgets/tools/imagetool.cpp:63
+#, kde-format
+msgctxt "@title:window"
+msgid "Insert Image"
+msgstr ""
+
+#. +> trunk6
 #: widgets/tools/linetool.cpp:19
 #, kde-format
 msgctxt "@info:tooltip"
@@ -877,7 +956,7 @@ msgid "Rectangle Tool"
 msgstr ""
 
 #. +> trunk6
-#: widgets/tools/selectiontool/selectiontool.cpp:252
+#: widgets/tools/selectiontool/selectiontool.cpp:260
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Selection Tool"
@@ -891,7 +970,7 @@ msgid "Text Tool"
 msgstr ""
 
 #. +> trunk6
-#: widgets/window/window.cpp:167
+#: widgets/window/window.cpp:168
 #, kde-format
 msgctxt "@title:window %1 is a filename"
 msgid "%1 — Drawy"
