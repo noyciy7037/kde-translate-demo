@@ -1,20 +1,13 @@
-# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2021.
-# SPDX-FileCopyrightText: 2024 Tarot Osuji <tarot@sdf.org>
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: ark.appdata\n"
-"POT-Creation-Date: 2024-11-04 13:07+0100\n"
-"PO-Revision-Date: 2024-01-28 22:51+0900\n"
-"Last-Translator: Tarot Osuji <tarot@sdf.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
-"X-Generator: Lokalize 23.08.4\n"
+"Generated-By: Pontoon\n"
 
 #. (itstool) path: component/name
 #. +> trunk6 stable6
@@ -32,13 +25,9 @@ msgstr "アーカイブツール"
 #. +> trunk6 stable6
 #: org.kde.ark.appdata.xml:14
 msgid ""
-"Ark is a graphical file compression/decompression utility with support for "
-"multiple formats, including tar, gzip, bzip2, rar and zip, as well as CD-ROM "
-"images. Ark can be used to browse, extract, create, and modify archives."
-msgstr ""
-"Ark はグラフィカルなファイル圧縮/展開ユーティリティで、tar、gzip、bzip2、"
-"rar、zip、および CD-ROM イメージを含む複数の形式をサポートしています。Ark は"
-"アーカイブの閲覧、展開、作成、および変更に使用できます。"
+"Ark is a graphical file compression/decompression utility with support for multiple formats, including tar, gzip, bzip2, rar and zip, as well as CD-ROM images. Ark can be used to browse, extract, "
+"create, and modify archives."
+msgstr "Ark はグラフィカルなファイル圧縮/展開ユーティリティで、tar、gzip、bzip2、rar、zip、および CD-ROM イメージを含む複数の形式をサポートしています。Ark はアーカイブの閲覧、展開、作成、および変更に使用できます。"
 
 #. (itstool) path: description/p
 #. +> trunk6 stable6
