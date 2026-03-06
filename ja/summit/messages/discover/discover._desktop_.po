@@ -1,25 +1,16 @@
-# Tomohiro Hyakutake <tomhioo@outlook.jp>, 2019.
-# SPDX-FileCopyrightText: 2023, 2025 Ryuichi Yamada <ryuichi_ya220@outlook.jp>
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-02-03 10:27+0100\n"
-"PO-Revision-Date: 2025-03-30 19:05+0900\n"
-"Last-Translator: Ryuichi Yamada <ryuichi_ya220@outlook.jp>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: \n"
-"X-Text-Markup: \n"
-"X-Generator: Lokalize 24.12.3\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6 stable6 stable5
-#: discover/org.kde.discover.desktop.cmake:2
-#: notifier/org.kde.discover.notifier.desktop.cmake:2
+#: discover/org.kde.discover.desktop.cmake:2 notifier/org.kde.discover.notifier.desktop.cmake:2
 msgctxt "Name"
 msgid "Discover"
 msgstr "Discover"
@@ -39,24 +30,18 @@ msgstr "ソフトウェアセンター"
 #. +> trunk6 stable6
 #: discover/org.kde.discover.desktop.cmake:169
 msgctxt "Keywords"
-msgid ""
-"program;software;store;repository;package;add;install;uninstall;remove;update;apps;applications;games;flatpak;snap;addons;add-"
-"ons;firmware;"
+msgid "program;software;store;repository;package;add;install;uninstall;remove;update;apps;applications;games;flatpak;snap;addons;add-ons;firmware;"
 msgstr ""
 "program;software;repository;package;add;install;uninstall;remove;update;apps;applications;games;flatpak;snap;addons;add-"
-"ons;firmware;インストール;アンインストール;アプリケーション;ソフトウェア;更"
-"新;削除;リポジトリ;アドオン;ゲーム;パッケージ;ファームウェア;ストア"
+"ons;firmware;インストール;アンインストール;アプリケーション;ソフトウェア;更新;削除;リポジトリ;アドオン;ゲーム;パッケージ;ファームウェア;ストア"
 
 #. +> stable5
 #: discover/org.kde.discover.desktop.cmake:119
 msgctxt "Keywords"
-msgid ""
-"program;software;repository;package;add;install;uninstall;remove;update;apps;applications;games;flatpak;snap;addons;add-"
-"ons;firmware;"
+msgid "program;software;repository;package;add;install;uninstall;remove;update;apps;applications;games;flatpak;snap;addons;add-ons;firmware;"
 msgstr ""
 "program;software;repository;package;add;install;uninstall;remove;update;apps;applications;games;flatpak;snap;addons;add-"
-"ons;firmware;インストール;アンインストール;アプリケーション;ソフトウェア;更"
-"新;削除;リポジトリ;アドオン;ゲーム;パッケージ;ファームウェア;"
+"ons;firmware;インストール;アンインストール;アプリケーション;ソフトウェア;更新;削除;リポジトリ;アドオン;ゲーム;パッケージ;ファームウェア;"
 
 #. +> trunk6 stable6 stable5
 #: discover/org.kde.discover.desktop.cmake:213
@@ -165,40 +150,3 @@ msgstr "再起動が必要です"
 msgctxt "Name"
 msgid "Upgrade available"
 msgstr "アップグレード可能"
-
-#, fuzzy
-#~ msgctxt "Name"
-#~ msgid "Software Update"
-#~ msgstr "更新"
-
-#, fuzzy
-#~ msgctxt "Keywords"
-#~ msgid "program;software;repository;package;install;remove;update;apps;applications;"
-#~ msgstr "キーワード"
-
-#~ msgctxt "Name"
-#~ msgid "Updates"
-#~ msgstr "更新"
-
-#, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Configure software updates integration"
-#~ msgctxt "Comment"
-#~ msgid "Configure software update behavior"
-#~ msgstr "ソフトウェア更新の統合を設定する"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Updates"
-#~ msgctxt "X-KDE-Keywords"
-#~ msgid "updates"
-#~ msgstr "更新"
-
-#~ msgctxt "Comment"
-#~ msgid "Configure software updates integration"
-#~ msgstr "ソフトウェア更新の統合を設定する"
-
-#, fuzzy
-#~ msgctxt "Name"
-#~ msgid "Software Updates"
-#~ msgstr "更新"
