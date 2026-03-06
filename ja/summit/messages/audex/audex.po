@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the audex package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: audex\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-12-21 15:16+0100\n"
-"PO-Revision-Date: 2009-10-30 22:04+0900\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. i18n: ectx: label, entry (overwriteExistingFiles), group (general)
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_overwriteExistingFiles)
@@ -263,9 +262,7 @@ msgid "Unable to save cover \"%1\"."
 msgstr ""
 
 #. +> trunk6 stable6
-#: core/audex.cpp:836 core/audex.cpp:914 core/audex.cpp:959 core/audex.cpp:1007
-#: core/audex.cpp:1047 core/audex.cpp:1076 core/audex.cpp:1123
-#: core/audex.cpp:1150
+#: core/audex.cpp:836 core/audex.cpp:914 core/audex.cpp:959 core/audex.cpp:1007 core/audex.cpp:1047 core/audex.cpp:1076 core/audex.cpp:1123 core/audex.cpp:1150
 #, kde-format
 msgid "Please check your path and permissions"
 msgstr ""
@@ -456,27 +453,21 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (KUrlLabel, kurllabel_help)
 #. +> trunk6 stable6
-#: dialogs/commandwizardwidgetUI.ui:273
-#: dialogs/filenameschemewizardwidgetUI.ui:54
-#: dialogs/profiledatainfowidgetUI.ui:58 dialogs/schemewizardwidgetUI.ui:263
+#: dialogs/commandwizardwidgetUI.ui:273 dialogs/filenameschemewizardwidgetUI.ui:54 dialogs/profiledatainfowidgetUI.ui:58 dialogs/schemewizardwidgetUI.ui:263
 #, kde-format
 msgid "Help"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, kpushbutton_albumartist)
 #. +> trunk6 stable6
-#: dialogs/commandwizardwidgetUI.ui:297
-#: dialogs/filenameschemewizardwidgetUI.ui:32
-#: dialogs/schemewizardwidgetUI.ui:290
+#: dialogs/commandwizardwidgetUI.ui:297 dialogs/filenameschemewizardwidgetUI.ui:32 dialogs/schemewizardwidgetUI.ui:290
 #, kde-format
 msgid "Album Artist"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, kpushbutton_albumtitle)
 #. +> trunk6 stable6
-#: dialogs/commandwizardwidgetUI.ui:319
-#: dialogs/filenameschemewizardwidgetUI.ui:182
-#: dialogs/schemewizardwidgetUI.ui:312
+#: dialogs/commandwizardwidgetUI.ui:319 dialogs/filenameschemewizardwidgetUI.ui:182 dialogs/schemewizardwidgetUI.ui:312
 #, kde-format
 msgid "Album Title"
 msgstr ""
@@ -504,36 +495,28 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, kpushbutton_cdno)
 #. +> trunk6 stable6
-#: dialogs/commandwizardwidgetUI.ui:383
-#: dialogs/filenameschemewizardwidgetUI.ui:199
-#: dialogs/schemewizardwidgetUI.ui:376
+#: dialogs/commandwizardwidgetUI.ui:383 dialogs/filenameschemewizardwidgetUI.ui:199 dialogs/schemewizardwidgetUI.ui:376
 #, kde-format
 msgid "CD #"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, kpushbutton_nooftracks)
 #. +> trunk6 stable6
-#: dialogs/commandwizardwidgetUI.ui:390
-#: dialogs/filenameschemewizardwidgetUI.ui:249
-#: dialogs/schemewizardwidgetUI.ui:426
+#: dialogs/commandwizardwidgetUI.ui:390 dialogs/filenameschemewizardwidgetUI.ui:249 dialogs/schemewizardwidgetUI.ui:426
 #, kde-format
 msgid "# of Tracks"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, kpushbutton_date)
 #. +> trunk6 stable6
-#: dialogs/commandwizardwidgetUI.ui:400
-#: dialogs/filenameschemewizardwidgetUI.ui:242
-#: dialogs/schemewizardwidgetUI.ui:386
+#: dialogs/commandwizardwidgetUI.ui:400 dialogs/filenameschemewizardwidgetUI.ui:242 dialogs/schemewizardwidgetUI.ui:386
 #, kde-format
 msgid "Date"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, kpushbutton_genre)
 #. +> trunk6 stable6
-#: dialogs/commandwizardwidgetUI.ui:410
-#: dialogs/filenameschemewizardwidgetUI.ui:225
-#: dialogs/schemewizardwidgetUI.ui:396
+#: dialogs/commandwizardwidgetUI.ui:410 dialogs/filenameschemewizardwidgetUI.ui:225 dialogs/schemewizardwidgetUI.ui:396
 #, kde-format
 msgid "Genre"
 msgstr ""
@@ -627,18 +610,14 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_overall)
 #. +> trunk6
-#: dialogs/extractingprogressdialog.cpp:175
-#: dialogs/extractingprogressdialog.cpp:181
-#: dialogs/extractingprogresswidgetUI.ui:179
+#: dialogs/extractingprogressdialog.cpp:175 dialogs/extractingprogressdialog.cpp:181 dialogs/extractingprogresswidgetUI.ui:179
 #, kde-format
 msgid "Overall progress"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_overall)
 #. +> stable6
-#: dialogs/extractingprogressdialog.cpp:173
-#: dialogs/extractingprogressdialog.cpp:179
-#: dialogs/extractingprogresswidgetUI.ui:180
+#: dialogs/extractingprogressdialog.cpp:173 dialogs/extractingprogressdialog.cpp:179 dialogs/extractingprogresswidgetUI.ui:180
 #, kde-format
 msgid "Overall Progress"
 msgstr ""
@@ -698,15 +677,13 @@ msgid "Encoding Track %1 of %2"
 msgstr ""
 
 #. +> trunk6
-#: dialogs/extractingprogressdialog.cpp:236
-#: dialogs/extractingprogressdialog.cpp:242
+#: dialogs/extractingprogressdialog.cpp:236 dialogs/extractingprogressdialog.cpp:242
 #, kde-format
 msgid "<i>Speed: %1×</i>"
 msgstr ""
 
 #. +> stable6
-#: dialogs/extractingprogressdialog.cpp:234
-#: dialogs/extractingprogressdialog.cpp:240
+#: dialogs/extractingprogressdialog.cpp:234 dialogs/extractingprogressdialog.cpp:240
 #, kde-format
 msgid "Speed: %1x"
 msgstr ""
@@ -718,9 +695,7 @@ msgid "All jobs successfully done."
 msgstr ""
 
 #. +> trunk6 stable6
-#: dialogs/extractingprogressdialog.cpp:264
-#: dialogs/extractingprogressdialog.cpp:265
-#: dialogs/extractingprogressdialog.cpp:266
+#: dialogs/extractingprogressdialog.cpp:264 dialogs/extractingprogressdialog.cpp:265 dialogs/extractingprogressdialog.cpp:266
 #, kde-format
 msgid "Finished!"
 msgstr ""
@@ -732,9 +707,7 @@ msgid "At least one job failed."
 msgstr ""
 
 #. +> trunk6 stable6
-#: dialogs/extractingprogressdialog.cpp:275
-#: dialogs/extractingprogressdialog.cpp:276
-#: dialogs/extractingprogressdialog.cpp:277
+#: dialogs/extractingprogressdialog.cpp:275 dialogs/extractingprogressdialog.cpp:276 dialogs/extractingprogressdialog.cpp:277
 #, kde-format
 msgid "Failed!"
 msgstr ""
@@ -813,19 +786,15 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, label_speed_extracting)
 #. i18n: ectx: property (text), widget (QLabel, label_speed_encoding)
 #. +> trunk6
-#: dialogs/extractingprogresswidgetUI.ui:94
-#: dialogs/extractingprogresswidgetUI.ui:143
+#: dialogs/extractingprogresswidgetUI.ui:94 dialogs/extractingprogresswidgetUI.ui:143
 #, kde-format
-msgid ""
-"<html><head/><body><p><span style=\" font-style:italic;\">Speed: 0×</span></"
-"p></body></html>"
+msgid "<html><head/><body><p><span style=\" font-style:italic;\">Speed: 0×</span></p></body></html>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_speed_extracting)
 #. i18n: ectx: property (text), widget (QLabel, label_speed_encoding)
 #. +> stable6
-#: dialogs/extractingprogresswidgetUI.ui:95
-#: dialogs/extractingprogresswidgetUI.ui:144
+#: dialogs/extractingprogresswidgetUI.ui:95 dialogs/extractingprogresswidgetUI.ui:144
 #, kde-format
 msgid "Speed: 0x"
 msgstr ""
@@ -834,9 +803,7 @@ msgstr ""
 #. i18n: ectx: property (format), widget (QProgressBar, progressBar_encoding)
 #. i18n: ectx: property (format), widget (QProgressBar, progressBar_overall)
 #. +> trunk6 stable6
-#: dialogs/extractingprogresswidgetUI.ui:115
-#: dialogs/extractingprogresswidgetUI.ui:161
-#: dialogs/extractingprogresswidgetUI.ui:215
+#: dialogs/extractingprogresswidgetUI.ui:115 dialogs/extractingprogresswidgetUI.ui:161 dialogs/extractingprogresswidgetUI.ui:215
 #, no-c-format, kde-format
 msgid "%p%"
 msgstr ""
@@ -869,8 +836,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, kpushbutton_suffix)
 #. +> trunk6 stable6
-#: dialogs/filenameschemewizardwidgetUI.ui:189
-#: dialogs/schemewizardwidgetUI.ui:406
+#: dialogs/filenameschemewizardwidgetUI.ui:189 dialogs/schemewizardwidgetUI.ui:406
 #, kde-format
 msgid "Suffix"
 msgstr ""
@@ -884,14 +850,8 @@ msgstr ""
 
 #. i18n: ectx: property (placeholderText), widget (QLineEdit, qlineedit_scheme)
 #. +> trunk6 stable6
-#: dialogs/filenameschemewizardwidgetUI.ui:232
-#: dialogs/profiledatacoverwidgetUI.ui:98
-#: dialogs/profiledatacuesheetwidgetUI.ui:17
-#: dialogs/profiledatahashlistwidgetUI.ui:46
-#: dialogs/profiledatainfowidgetUI.ui:112
-#: dialogs/profiledatalogfilewidgetUI.ui:17
-#: dialogs/profiledataplaylistwidgetUI.ui:46
-#: dialogs/profiledatasinglefilewidgetUI.ui:30
+#: dialogs/filenameschemewizardwidgetUI.ui:232 dialogs/profiledatacoverwidgetUI.ui:98 dialogs/profiledatacuesheetwidgetUI.ui:17 dialogs/profiledatahashlistwidgetUI.ui:46
+#: dialogs/profiledatainfowidgetUI.ui:112 dialogs/profiledatalogfilewidgetUI.ui:17 dialogs/profiledataplaylistwidgetUI.ui:46 dialogs/profiledatasinglefilewidgetUI.ui:30
 #: dialogs/profiledatawidgetUI.ui:108
 #, kde-format
 msgid "Please set a scheme"
@@ -957,9 +917,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_format)
 #. +> trunk6 stable6
-#: dialogs/profiledatacoverwidgetUI.ui:75
-#: dialogs/profiledatahashlistwidgetUI.ui:23
-#: dialogs/profiledataplaylistwidgetUI.ui:23
+#: dialogs/profiledatacoverwidgetUI.ui:75 dialogs/profiledatahashlistwidgetUI.ui:23 dialogs/profiledataplaylistwidgetUI.ui:23
 #, kde-format
 msgid "Format:"
 msgstr ""
@@ -979,10 +937,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_scheme)
 #. +> trunk6 stable6
-#: dialogs/profiledatacuesheetwidgetUI.ui:33
-#: dialogs/profiledatahashlistwidgetUI.ui:39
-#: dialogs/profiledatalogfilewidgetUI.ui:33
-#: dialogs/profiledataplaylistwidgetUI.ui:39
+#: dialogs/profiledatacuesheetwidgetUI.ui:33 dialogs/profiledatahashlistwidgetUI.ui:39 dialogs/profiledatalogfilewidgetUI.ui:33 dialogs/profiledataplaylistwidgetUI.ui:39
 #: dialogs/profiledatasinglefilewidgetUI.ui:23
 #, kde-format
 msgid "Name/Scheme:"
@@ -991,15 +946,11 @@ msgstr ""
 #. i18n: ectx: property (toolTip), widget (QCheckBox, checkBox_timestamps)
 #. i18n: ectx: property (toolTip), widget (QCheckBox, checkBox_add_mcn_and_isrc)
 #. +> trunk6 stable6
-#: dialogs/profiledatacuesheetwidgetUI.ui:56
-#: dialogs/profiledatalogfilewidgetUI.ui:56
+#: dialogs/profiledatacuesheetwidgetUI.ui:56 dialogs/profiledatalogfilewidgetUI.ui:56
 #, kde-format
 msgid ""
-"<html><head/><body><p>Write Media Catalog Number (MCN) and International "
-"Standard Recording Codes (ISRC, ISO 3901) of the tracks into the cue sheet "
-"(if your drive have the capability).</p><p>Depending in your drive it could "
-"take a few seconds at the end of your ripping process to fetch those numbers "
-"and codes.</p></body></html>"
+"<html><head/><body><p>Write Media Catalog Number (MCN) and International Standard Recording Codes (ISRC, ISO 3901) of the tracks into the cue sheet (if your drive have the "
+"capability).</p><p>Depending in your drive it could take a few seconds at the end of your ripping process to fetch those numbers and codes.</p></body></html>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, checkBox_add_mcn_and_isrc)
@@ -1028,8 +979,7 @@ msgid "New Profile"
 msgstr ""
 
 #. +> trunk6 stable6
-#: dialogs/profiledatahashlistdialog.cpp:28
-#: dialogs/profiledataplaylistdialog.cpp:30
+#: dialogs/profiledatahashlistdialog.cpp:28 dialogs/profiledataplaylistdialog.cpp:30
 #, kde-format
 msgid "Playlist Settings"
 msgstr ""
@@ -1085,9 +1035,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_suffix)
 #. +> trunk6 stable6
-#: dialogs/profiledatainfowidgetUI.ui:72 widgets/customwidgetUI.ui:50
-#: widgets/faacwidgetUI.ui:125 widgets/flacwidgetUI.ui:115
-#: widgets/lamewidgetUI.ui:266 widgets/oggencwidgetUI.ui:296
+#: dialogs/profiledatainfowidgetUI.ui:72 widgets/customwidgetUI.ui:50 widgets/faacwidgetUI.ui:125 widgets/flacwidgetUI.ui:115 widgets/lamewidgetUI.ui:266 widgets/oggencwidgetUI.ui:296
 #: widgets/opusencwidgetUI.ui:31 widgets/wavewidgetUI.ui:31
 #, kde-format
 msgid "Suffix:"
@@ -1165,8 +1113,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: dialogs/profiledatawidgetUI.ui:153
 #, kde-format
-msgid ""
-"This setting overrides any parameterized variable settings in the scheme"
+msgid "This setting overrides any parameterized variable settings in the scheme"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, checkBox_2digitstracknum)
@@ -1205,10 +1152,8 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QPushButton, kpushbutton_logfile)
 #. i18n: ectx: property (text), widget (QPushButton, kpushbutton_singlefile)
 #. +> trunk6 stable6
-#: dialogs/profiledatawidgetUI.ui:224 dialogs/profiledatawidgetUI.ui:270
-#: dialogs/profiledatawidgetUI.ui:283 dialogs/profiledatawidgetUI.ui:290
-#: dialogs/profiledatawidgetUI.ui:316 dialogs/profiledatawidgetUI.ui:323
-#: dialogs/profiledatawidgetUI.ui:365
+#: dialogs/profiledatawidgetUI.ui:224 dialogs/profiledatawidgetUI.ui:270 dialogs/profiledatawidgetUI.ui:283 dialogs/profiledatawidgetUI.ui:290 dialogs/profiledatawidgetUI.ui:316
+#: dialogs/profiledatawidgetUI.ui:323 dialogs/profiledatawidgetUI.ui:365
 #, kde-format
 msgid "Settings.."
 msgstr ""
@@ -1351,8 +1296,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: mainwindow.cpp:36 mainwindow.cpp:49
 #, kde-format
-msgid ""
-"Internal error. Check your hardware. If all okay please make bug report."
+msgid "Internal error. Check your hardware. If all okay please make bug report."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -1376,9 +1320,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: mainwindow.cpp:133
 #, kde-format
-msgid ""
-"Single file rip selected but not all audio tracks to rip selected. Do you "
-"really want to continue?"
+msgid "Single file rip selected but not all audio tracks to rip selected. Do you really want to continue?"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -1593,9 +1535,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: models/cddamodel.cpp:21 models/cddamodel.cpp:33 models/cddamodel.cpp:903
 #, kde-format
-msgid ""
-"This is an internal error. Check your hardware. If all okay please make bug "
-"report."
+msgid "This is an internal error. Check your hardware. If all okay please make bug report."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -1625,33 +1565,25 @@ msgstr ""
 #. +> trunk6 stable6
 #: models/cddamodel.cpp:823
 #, kde-format
-msgid ""
-"A CDDB transaction is already in progress. Please wait until it has finished "
-"and try again."
+msgid "A CDDB transaction is already in progress. Please wait until it has finished and try again."
 msgstr ""
 
 #. +> trunk6 stable6
 #: models/cddamodel.cpp:842 models/cddamodel.cpp:955
 #, kde-format
-msgid ""
-"There is an error with the CDDB server. Please wait or contact the "
-"administrator of the CDDB server."
+msgid "There is an error with the CDDB server. Please wait or contact the administrator of the CDDB server."
 msgstr ""
 
 #. +> trunk6 stable6
 #: models/cddamodel.cpp:848 models/cddamodel.cpp:961
 #, kde-format
-msgid ""
-"Cannot find the CDDB server. Check your network. Maybe the CDDB server is "
-"offline."
+msgid "Cannot find the CDDB server. Check your network. Maybe the CDDB server is offline."
 msgstr ""
 
 #. +> trunk6 stable6
 #: models/cddamodel.cpp:854 models/cddamodel.cpp:967
 #, kde-format
-msgid ""
-"Please wait, maybe the server is busy, or contact the CDDB server "
-"administrator."
+msgid "Please wait, maybe the server is busy, or contact the CDDB server administrator."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -1759,9 +1691,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: models/profilemodel.cpp:396
 #, kde-format
-msgid ""
-"Your profile name %1 already exists in the set of profiles. Please choose a "
-"unique one."
+msgid "Your profile name %1 already exists in the set of profiles. Please choose a unique one."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -1797,9 +1727,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: models/profilemodel.cpp:444
 #, kde-format
-msgid ""
-"Your given image file format is unknown. Please choose on of these formats: "
-"JPEG, PNG, TIFF or BMP."
+msgid "Your given image file format is unknown. Please choose on of these formats: JPEG, PNG, TIFF or BMP."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -1823,9 +1751,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: models/profilemodel.cpp:464
 #, kde-format
-msgid ""
-"Your given playlist file format is unknown. Please choose on of these "
-"formats: M3U, PLS or XSPF."
+msgid "Your given playlist file format is unknown. Please choose on of these formats: M3U, PLS or XSPF."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -1873,9 +1799,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: models/profilemodel.cpp:513
 #, kde-format
-msgid ""
-"Your given hashlist file format is unknown. Please choose one of these "
-"formats: SFV, MD5, SHA-256."
+msgid "Your given hashlist file format is unknown. Please choose one of these formats: SFV, MD5, SHA-256."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -1988,8 +1912,7 @@ msgid "An error occured while ripping track %1 at position %2. See log."
 msgstr ""
 
 #. +> trunk6 stable6
-#: utils/cddaextractthread.cpp:202 utils/cddaextractthread.cpp:210
-#: utils/cddaextractthread.cpp:217 utils/cddaextractthread.cpp:219
+#: utils/cddaextractthread.cpp:202 utils/cddaextractthread.cpp:210 utils/cddaextractthread.cpp:217 utils/cddaextractthread.cpp:219
 #, kde-format
 msgid "An error occured while ripping at position %1. See log."
 msgstr ""
@@ -2073,8 +1996,7 @@ msgid "Check your device on \"%1\"."
 msgstr ""
 
 #. +> trunk6 stable6
-#: utils/cddaparanoia.cpp:30 utils/cddaparanoia.cpp:34
-#: utils/cddaparanoia.cpp:40
+#: utils/cddaparanoia.cpp:30 utils/cddaparanoia.cpp:34 utils/cddaparanoia.cpp:40
 #, kde-format
 msgid "Disc error."
 msgstr ""
@@ -2177,8 +2099,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QRadioButton, radioButton_custom)
 #. +> trunk6 stable6
-#: utils/encoderassistant.h:126 utils/encoderassistant.h:127
-#: widgets/lamewidgetUI.ui:130
+#: utils/encoderassistant.h:126 utils/encoderassistant.h:127 widgets/lamewidgetUI.ui:130
 #, kde-format
 msgid "Custom"
 msgstr ""
@@ -2220,8 +2141,7 @@ msgid "An error occurred while encoding file \"%1\"."
 msgstr ""
 
 #. +> trunk6 stable6
-#: utils/encoderwrapper.cpp:176 utils/encoderwrapper.cpp:191
-#: utils/encoderwrapper.cpp:194 utils/encoderwrapper.cpp:204
+#: utils/encoderwrapper.cpp:176 utils/encoderwrapper.cpp:191 utils/encoderwrapper.cpp:194 utils/encoderwrapper.cpp:204
 #, kde-format
 msgid "Please check your profile."
 msgstr ""
@@ -2235,9 +2155,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: utils/encoderwrapper.cpp:188
 #, kde-format
-msgid ""
-"Either it is missing, or you may have insufficient permissions to invoke the "
-"program."
+msgid "Either it is missing, or you may have insufficient permissions to invoke the program."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -2261,9 +2179,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: utils/encoderwrapper.cpp:198
 #, kde-format
-msgid ""
-"For example, the process may not be running, or it may have closed its input "
-"channel."
+msgid "For example, the process may not be running, or it may have closed its input channel."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -2285,8 +2201,7 @@ msgid "An unknown error occurred to %1. This should not happen."
 msgstr ""
 
 #. +> trunk6 stable6
-#: utils/parameters.cpp:61 utils/parameters.cpp:83 utils/parameters.cpp:91
-#: utils/parameters.cpp:110
+#: utils/parameters.cpp:61 utils/parameters.cpp:83 utils/parameters.cpp:91 utils/parameters.cpp:110
 #, kde-format
 msgid "Illegal character found at index %1: '%2'"
 msgstr ""
@@ -2306,9 +2221,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: utils/schemeparser.cpp:116
 #, kde-format
-msgid ""
-"replace_char_list parameter needs two more parameters replace_char_list_from "
-"and replace_char_list_to with equal size."
+msgid "replace_char_list parameter needs two more parameters replace_char_list_from and replace_char_list_to with equal size."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -2327,112 +2240,63 @@ msgstr ""
 #: utils/schemeparser.h:154
 #, kde-format
 msgid ""
-"<p>The following placeholders will be replaced with their particular meaning:"
-"</p><table><tr><th>Placeholder</th><th>Description</th></"
-"tr><tr><td><tt>$artist</tt></td><td>The artist of the CD. If your CD is a "
-"compilation then this tag represents the title in most cases.</td></"
-"tr><tr><td><tt>$title</tt></td><td>The title of the CD. If your CD is a "
-"compilation then this tag represents the subtitle in most cases.</td></"
-"tr><tr><td><tt>$date</tt></td><td>The release date of the CD. In almost all "
-"cases this is the year.</td></tr><tr><td><tt>$genre</tt></td><td>The genre "
-"of the CD.</td></tr><tr><td><tt>$cdno</tt></td><td>The CD number of a multi-"
-"CD album. Often compilations consist of several CDs. <i>Note:</i> If the "
-"multi-CD flag is <b>not</b> set for the current CD then this value will be "
-"empty.</td></tr><tr><td><tt>$nooftracks</tt></td><td>The total number of "
-"audio tracks of the CD.</td></tr><tr><td><tt>$encoder</tt></td><td>Encoder "
-"name and version.</td></tr><tr><td><tt>$audex</tt></td><td>Audex name and "
-"version.</td></tr></table>"
+"<p>The following placeholders will be replaced with their particular meaning:</p><table><tr><th>Placeholder</th><th>Description</th></tr><tr><td><tt>$artist</tt></td><td>The artist of the CD. If "
+"your CD is a compilation then this tag represents the title in most cases.</td></tr><tr><td><tt>$title</tt></td><td>The title of the CD. If your CD is a compilation then this tag represents the "
+"subtitle in most cases.</td></tr><tr><td><tt>$date</tt></td><td>The release date of the CD. In almost all cases this is the year.</td></tr><tr><td><tt>$genre</tt></td><td>The genre of the "
+"CD.</td></tr><tr><td><tt>$cdno</tt></td><td>The CD number of a multi-CD album. Often compilations consist of several CDs. <i>Note:</i> If the multi-CD flag is <b>not</b> set for the current CD then "
+"this value will be empty.</td></tr><tr><td><tt>$nooftracks</tt></td><td>The total number of audio tracks of the CD.</td></tr><tr><td><tt>$encoder</tt></td><td>Encoder name and "
+"version.</td></tr><tr><td><tt>$audex</tt></td><td>Audex name and version.</td></tr></table>"
 msgstr ""
 
 #. +> trunk6 stable6
 #: utils/schemeparser.h:171
 #, kde-format
 msgid ""
-"<p>Placeholders in Audex can have parameters in the form key=value. E.g. "
-"<tt>${title lowercase=true}</tt>. In this example the title will be "
-"lowercased. The following general parameters can be used with placeholders:</"
-"p><table><tr><th>Key</th><th>Value</th><th>Description</th></"
-"tr><tr><td><tt>lowercase</tt></td><td>true/false</td><td>The placeholder "
-"value will be lowercased.</td></tr><tr><td><tt>uppercase</tt></td><td>true/"
-"false</td><td>The placeholder value will be uppercased.</td></"
-"tr><tr><td><tt>underscores</tt></td><td>true/false</td><td>Replace the "
-"spaces of the placeholder value with underscores.</td></"
-"tr><tr><td><tt>fat32compatible</tt></td><td>true/false</td><td>Replace "
-"illegal filename characters of a FAT32 filesystem with underscores.</td></"
-"tr><tr><td><tt>replace_chars</tt></td><td>true/false</td><td>Replace "
-"characters. This parameter needs two additional keys of the same value size:"
-"<tt>replace_char_list_from</tt>, <tt>replace_char_list_to</tt>. These are "
-"lists of characters. The first character of<tt>replace_char_list_from</tt> "
-"will be replaced by the first character of <tt>replace_char_list_to</tt> and "
-"so on.</td></tr><tr><td><tt>left</tt></td><td>Number</td><td>Take nth "
-"characters from the left of the placeholder value.</td></"
-"tr><tr><td><tt>length</tt></td><td>Number</td><td>If the placeholder value "
-"is a number expand it to the given length. Furthermore you can define a fill "
-"character with the additional key <tt>fillchar</tt>. Default fillchar is '0'."
-"</td></tr><tr><td><tt>pre</tt></td><td>String</td><td>A string which will be "
-"placed <b>before</b> the value. Especially useful for command line "
-"parameters which should not be set at all if the value is empty.</td></"
-"tr><tr><td><tt>post</tt></td><td>String</td><td>A string which will be "
-"placed <b>after</b> the value.</td></tr></table>"
+"<p>Placeholders in Audex can have parameters in the form key=value. E.g. <tt>${title lowercase=true}</tt>. In this example the title will be lowercased. The following general parameters can be used "
+"with placeholders:</p><table><tr><th>Key</th><th>Value</th><th>Description</th></tr><tr><td><tt>lowercase</tt></td><td>true/false</td><td>The placeholder value will be "
+"lowercased.</td></tr><tr><td><tt>uppercase</tt></td><td>true/false</td><td>The placeholder value will be uppercased.</td></tr><tr><td><tt>underscores</tt></td><td>true/false</td><td>Replace the "
+"spaces of the placeholder value with underscores.</td></tr><tr><td><tt>fat32compatible</tt></td><td>true/false</td><td>Replace illegal filename characters of a FAT32 filesystem with "
+"underscores.</td></tr><tr><td><tt>replace_chars</tt></td><td>true/false</td><td>Replace characters. This parameter needs two additional keys of the same value size:<tt>replace_char_list_from</tt>, "
+"<tt>replace_char_list_to</tt>. These are lists of characters. The first character of<tt>replace_char_list_from</tt> will be replaced by the first character of <tt>replace_char_list_to</tt> and so "
+"on.</td></tr><tr><td><tt>left</tt></td><td>Number</td><td>Take nth characters from the left of the placeholder value.</td></tr><tr><td><tt>length</tt></td><td>Number</td><td>If the placeholder value"
+" is a number expand it to the given length. Furthermore you can define a fill character with the additional key <tt>fillchar</tt>. Default fillchar is "
+"'0'.</td></tr><tr><td><tt>pre</tt></td><td>String</td><td>A string which will be placed <b>before</b> the value. Especially useful for command line parameters which should not be set at all if the "
+"value is empty.</td></tr><tr><td><tt>post</tt></td><td>String</td><td>A string which will be placed <b>after</b> the value.</td></tr></table>"
 msgstr ""
 
 #. +> trunk6 stable6
 #: utils/schemeparser.h:192
 #, kde-format
 msgid ""
-"<table><tr><th>Placeholder</th><th>Description</th></tr><tr><td>$tartist</"
-"td><td>This is the artist of every track. It is especially useful on "
-"compilation CDs.</td></tr><tr><td>$ttitle</td><td>The track title. Normally "
-"each track on a CD has its own title, which is the name of the song.</td></"
-"tr><tr><td>$trackno</td><td>The track number. First track is 1.</td></"
-"tr><tr><td><tt>$isrc</tt></td><td>The International Standard Recording Code "
-"(ISRC) of the track (only available if supported by your device).</td></tr></"
-"table>"
+"<table><tr><th>Placeholder</th><th>Description</th></tr><tr><td>$tartist</td><td>This is the artist of every track. It is especially useful on compilation CDs.</td></tr><tr><td>$ttitle</td><td>The "
+"track title. Normally each track on a CD has its own title, which is the name of the song.</td></tr><tr><td>$trackno</td><td>The track number. First track is "
+"1.</td></tr><tr><td><tt>$isrc</tt></td><td>The International Standard Recording Code (ISRC) of the track (only available if supported by your device).</td></tr></table>"
 msgstr ""
 
 #. +> trunk6 stable6
 #: utils/schemeparser.h:204
 #, kde-format
 msgid ""
-"<table><tr><th>Placeholder</th><th>Specific parameter</th><th>Description</"
-"th></tr><tr><td><tt>$i</tt></td><td></td><td>The temporary WAVE file (RIFF "
-"WAVE) created by Audex from CD audio track. This is the input file for your "
-"command line encoder.</td></tr><tr><td><tt>$o</tt></td><td></td><td>The full "
-"output filename and path. Use it as the output for your command line encoder."
-"</td></tr><tr><td><tt>$cover</tt></td><td><tt>format,x,y</tt></"
-"td><td>Filename of the cover file. If no cover is set, this will be empty. "
-"Mostly useful in conjunction with the <tt>pre</tt> parameter. Image can be "
-"scaled with the <tt>x</tt> and <tt>y</tt> parameters. Possible image "
-"<tt>formats</tt> are JPEG, PNG, GIF or BMP (Default: JPEG). <i><b>Note:</b> "
-"LAME discards cover files larger than 128 KiB.</i></td></tr></table>"
+"<table><tr><th>Placeholder</th><th>Specific parameter</th><th>Description</th></tr><tr><td><tt>$i</tt></td><td></td><td>The temporary WAVE file (RIFF WAVE) created by Audex from CD audio track. This"
+" is the input file for your command line encoder.</td></tr><tr><td><tt>$o</tt></td><td></td><td>The full output filename and path. Use it as the output for your command line "
+"encoder.</td></tr><tr><td><tt>$cover</tt></td><td><tt>format,x,y</tt></td><td>Filename of the cover file. If no cover is set, this will be empty. Mostly useful in conjunction with the <tt>pre</tt> "
+"parameter. Image can be scaled with the <tt>x</tt> and <tt>y</tt> parameters. Possible image <tt>formats</tt> are JPEG, PNG, GIF or BMP (Default: JPEG). <i><b>Note:</b> LAME discards cover files "
+"larger than 128 KiB.</i></td></tr></table>"
 msgstr ""
 
 #. +> trunk6 stable6
 #: utils/schemeparser.h:218
 #, kde-format
 msgid ""
-"<table><tr><th>Placeholder</th><th>Specific parameter</th><th>Description</"
-"th></tr><tr><td>$size</td><td><tt>iec,precision</tt></td><td>Prints the "
-"overall size of all extracted (encoded) music files (incl. the cover image "
-"file). With <tt>iec</tt> calculate (k)ibi, (m)ebi or (g)ibi. The additional "
-"parameter <tt>precision</tt> can define the number of decimal places.</td></"
-"tr><tr><td>$length</td><td></td><td>Prints the relevant overall length of "
-"all extracted tracks. The format is min:sec.</td></tr><tr><td>$nooftracks</"
-"td><td></td><td>Prints the total number of extracted tracks.</td></"
-"tr><tr><td>$discid</td><td>base</td><td>Prints the CDDB discid in "
-"hexadecimal format.</td></tr><tr><td><tt>$mcn</tt></td><td></td><td>The "
-"Media Catalog Number (MCN) of the CD (only available if supported by your "
-"device).</td></tr><tr><td>$now</td><td><tt>format,locale</tt></td><td>Prints "
-"the current date and/or time. The parameter format specifies the output. "
-"Please consult official qt documentation (<tt>https://doc.qt.io/qt-5/"
-"qtime.html#toString</tt>, <tt>https://doc.qt.io/qt-6/qdate.html#toString</"
-"tt>) for the supported specifiers within the format string. With the "
-"additional key <tt>locale</tt> you can specify a language setting. By "
-"default your system locales are used. The locale has the format "
-"<tt>language_TERRITORY</tt>, e.g. <tt>en_EN</tt>. <tt>language</tt> is a "
-"lowercase, two-letter, ISO 639 language code and <tt>TERRITORY</tt> an "
-"uppercase, two-letter, ISO 3166 territory code.</td></tr><tr><td>$br</"
-"td><td></td><td>Prints a linebreak.</td></tr></table>"
+"<table><tr><th>Placeholder</th><th>Specific parameter</th><th>Description</th></tr><tr><td>$size</td><td><tt>iec,precision</tt></td><td>Prints the overall size of all extracted (encoded) music files"
+" (incl. the cover image file). With <tt>iec</tt> calculate (k)ibi, (m)ebi or (g)ibi. The additional parameter <tt>precision</tt> can define the number of decimal "
+"places.</td></tr><tr><td>$length</td><td></td><td>Prints the relevant overall length of all extracted tracks. The format is min:sec.</td></tr><tr><td>$nooftracks</td><td></td><td>Prints the total "
+"number of extracted tracks.</td></tr><tr><td>$discid</td><td>base</td><td>Prints the CDDB discid in hexadecimal format.</td></tr><tr><td><tt>$mcn</tt></td><td></td><td>The Media Catalog Number (MCN)"
+" of the CD (only available if supported by your device).</td></tr><tr><td>$now</td><td><tt>format,locale</tt></td><td>Prints the current date and/or time. The parameter format specifies the output. "
+"Please consult official qt documentation (<tt>https://doc.qt.io/qt-5/qtime.html#toString</tt>, <tt>https://doc.qt.io/qt-6/qdate.html#toString</tt>) for the supported specifiers within the format "
+"string. With the additional key <tt>locale</tt> you can specify a language setting. By default your system locales are used. The locale has the format <tt>language_TERRITORY</tt>, e.g. "
+"<tt>en_EN</tt>. <tt>language</tt> is a lowercase, two-letter, ISO 639 language code and <tt>TERRITORY</tt> an uppercase, two-letter, ISO 3166 territory "
+"code.</td></tr><tr><td>$br</td><td></td><td>Prints a linebreak.</td></tr></table>"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -2514,10 +2378,8 @@ msgstr ""
 #: widgets/devicewidgetUI.ui:29
 #, kde-format
 msgid ""
-"<html><head/><body><p>Use some special techniques to reduce the chance of "
-"unnoticed reading errors. Leads to a more secure reading process at the "
-"expense of ripping speed, so it might be also called \"secure mode\".</p></"
-"body></html>"
+"<html><head/><body><p>Use some special techniques to reduce the chance of unnoticed reading errors. Leads to a more secure reading process at the expense of ripping speed, so it might be also called"
+" \"secure mode\".</p></body></html>"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_skipReadErrors)
@@ -2525,11 +2387,8 @@ msgstr ""
 #: widgets/devicewidgetUI.ui:39
 #, kde-format
 msgid ""
-"<html><head/><body><p>Skip reading errors for a sector (sector length: 1/75 "
-"second) after retrying to read it. Please specify the number of retry "
-"attempts under <span style=\" font-style:italic;\">Retries on read error</"
-"span>. If skipped, null samples will be written for the faulty sectors.</p></"
-"body></html>"
+"<html><head/><body><p>Skip reading errors for a sector (sector length: 1/75 second) after retrying to read it. Please specify the number of retry attempts under <span style=\" font-"
+"style:italic;\">Retries on read error</span>. If skipped, null samples will be written for the faulty sectors.</p></body></html>"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QLabel, label)
@@ -2538,11 +2397,8 @@ msgstr ""
 #: widgets/devicewidgetUI.ui:51 widgets/devicewidgetUI.ui:73
 #, kde-format
 msgid ""
-"<html><head/><body><p>Some drives have a sample offset when reading audio "
-"CDs. To determine the correct offset for your drive model, you can check the "
-"<a href=\"https://www.accuraterip.com/driveoffsets.htm\"><span style=\" text-"
-"decoration: underline; color:#2980b9;\">Accuraterip</span></a> database.</"
-"p></body></html>"
+"<html><head/><body><p>Some drives have a sample offset when reading audio CDs. To determine the correct offset for your drive model, you can check the <a "
+"href=\"https://www.accuraterip.com/driveoffsets.htm\"><span style=\" text-decoration: underline; color:#2980b9;\">Accuraterip</span></a> database.</p></body></html>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label)
@@ -2557,9 +2413,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: widgets/devicewidgetUI.ui:103 widgets/devicewidgetUI.ui:134
 #, kde-format
-msgid ""
-"<html><head/><body><p>Specify the maximum number of retry attempts when a "
-"faulty sector is encountered.</p></body></html>"
+msgid "<html><head/><body><p>Specify the maximum number of retry attempts when a faulty sector is encountered.</p></body></html>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_4)
@@ -2578,26 +2432,21 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_lowest)
 #. +> trunk6 stable6
-#: widgets/faacwidgetUI.ui:83 widgets/flacwidgetUI.ui:80
-#: widgets/lamewidgetUI.ui:190 widgets/oggencwidgetUI.ui:101
-#: widgets/opusencwidgetUI.ui:142
+#: widgets/faacwidgetUI.ui:83 widgets/flacwidgetUI.ui:80 widgets/lamewidgetUI.ui:190 widgets/oggencwidgetUI.ui:101 widgets/opusencwidgetUI.ui:142
 #, kde-format
 msgid "Lowest"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_highest)
 #. +> trunk6 stable6
-#: widgets/faacwidgetUI.ui:97 widgets/flacwidgetUI.ui:94
-#: widgets/lamewidgetUI.ui:202 widgets/oggencwidgetUI.ui:118
-#: widgets/opusencwidgetUI.ui:156
+#: widgets/faacwidgetUI.ui:97 widgets/flacwidgetUI.ui:94 widgets/lamewidgetUI.ui:202 widgets/oggencwidgetUI.ui:118 widgets/opusencwidgetUI.ui:156
 #, kde-format
 msgid "Highest"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, checkBox_embedcover)
 #. +> trunk6 stable6
-#: widgets/faacwidgetUI.ui:110 widgets/flacwidgetUI.ui:166
-#: widgets/lamewidgetUI.ui:251 widgets/opusencwidgetUI.ui:69
+#: widgets/faacwidgetUI.ui:110 widgets/flacwidgetUI.ui:166 widgets/lamewidgetUI.ui:251 widgets/opusencwidgetUI.ui:69
 #, kde-format
 msgid "Embed cover in music file"
 msgstr ""
@@ -2669,9 +2518,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: widgets/lamewidgetUI.ui:69
 #, kde-format
-msgid ""
-"If you have extremely good hearing and similar equipment, this preset will "
-"generally provide slightly higher quality than the \"standard\" mode"
+msgid "If you have extremely good hearing and similar equipment, this preset will generally provide slightly higher quality than the \"standard\" mode"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QRadioButton, radioButton_extreme)
@@ -2699,9 +2546,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: widgets/lamewidgetUI.ui:114
 #, kde-format
-msgid ""
-"This preset will usually be overkill, but if you want to have the absolute "
-"highest quality with no regard to filesize, this is the way to go."
+msgid "This preset will usually be overkill, but if you want to have the absolute highest quality with no regard to filesize, this is the way to go."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QRadioButton, radioButton_insane)
@@ -2744,8 +2589,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, label_maxbitrate_kbps)
 #. i18n: ectx: property (text), widget (QLabel, label_minbitrate_kbps)
 #. +> trunk6 stable6
-#: widgets/oggencwidgetUI.ui:199 widgets/oggencwidgetUI.ui:268
-#: widgets/oggencwidgetUI.ui:347
+#: widgets/oggencwidgetUI.ui:199 widgets/oggencwidgetUI.ui:268 widgets/oggencwidgetUI.ui:347
 #, kde-format
 msgid "kbit/s"
 msgstr ""
@@ -2786,15 +2630,13 @@ msgstr ""
 #: widgets/profilewidget.cpp:138
 #, kde-format
 msgid ""
-"<p>Do you wish to rescan your system for codecs (Lame, Opus, FLAC, etc.)?</"
-"p><p><font style=\"font-style:italic;\">This will attempt to create some "
-"sample profiles based upon any found codecs.</font></p>"
+"<p>Do you wish to rescan your system for codecs (Lame, Opus, FLAC, etc.)?</p><p><font style=\"font-style:italic;\">This will attempt to create some sample profiles based upon any found "
+"codecs.</font></p>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, kpushbutton_init)
 #. +> trunk6 stable6
-#: widgets/profilewidget.cpp:140 widgets/profilewidget.cpp:144
-#: widgets/profilewidgetUI.ui:65
+#: widgets/profilewidget.cpp:140 widgets/profilewidget.cpp:144 widgets/profilewidgetUI.ui:65
 #, kde-format
 msgid "Codec Scan"
 msgstr ""
