@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the GNU Free Documentation License 1.3+ unless stated otherwise
+# This file is distributed under the same license as the KStars Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KStars Handbook 3.7\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-13 07:14+0200\n"
-"PO-Revision-Date: 2025-06-15 17:57+0900\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:3 ../../user_manual/doc-index.rst:0
@@ -96,9 +95,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:60
-msgid ""
-"Ecliptic Coordinates, :ref:`The Ecliptic Coordinate System  <ai-skycoords-"
-"ecliptic>`"
+msgid "Ecliptic Coordinates, :ref:`The Ecliptic Coordinate System  <ai-skycoords-ecliptic>`"
 msgstr ""
 
 #. +> trunk5
@@ -108,9 +105,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:64
-msgid ""
-"Equatorial Coordinates, :ref:`The Equatorial Coordinate System  <ai-"
-"skycoords-equatorial>`"
+msgid "Equatorial Coordinates, :ref:`The Equatorial Coordinate System  <ai-skycoords-equatorial>`"
 msgstr ""
 
 #. +> trunk5
@@ -130,16 +125,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:72
-msgid ""
-"Galactic Coordinates, :ref:`The Galactic Coordinate System  <ai-skycoords-"
-"galactic>`"
+msgid "Galactic Coordinates, :ref:`The Galactic Coordinate System  <ai-skycoords-galactic>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:74
-msgid ""
-"Horizontal Coordinates, :ref:`The Horizontal Coordinate System  <ai-"
-"skycoords-horizontal>`"
+msgid "Horizontal Coordinates, :ref:`The Horizontal Coordinate System  <ai-skycoords-horizontal>`"
 msgstr ""
 
 #. +> trunk5
@@ -194,9 +185,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:96
-msgid ""
-"Customizing, :doc:`The Configure KStars Window  <viewops>`, :doc:`Colors  "
-"<colors>`"
+msgid "Customizing, :doc:`The Configure KStars Window  <viewops>`, :doc:`Colors  <colors>`"
 msgstr ""
 
 #. +> trunk5
@@ -246,9 +235,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:116
-msgid ""
-"Advanced page, :doc:`The Configure KStars Window  "
-"<viewops>`, :doc:`Advanced  <advanced>`"
+msgid "Advanced page, :doc:`The Configure KStars Window  <viewops>`, :doc:`Advanced  <advanced>`"
 msgstr ""
 
 #. +> trunk5
@@ -258,9 +245,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:122
-msgid ""
-"Colors page, :doc:`The Configure KStars Window  <viewops>`, :doc:`Colors  "
-"<colors>`"
+msgid "Colors page, :doc:`The Configure KStars Window  <viewops>`, :doc:`Colors  <colors>`"
 msgstr ""
 
 #. +> trunk5
@@ -275,44 +260,32 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:129
-msgid ""
-"Guides page, :doc:`The Configure KStars Window  <viewops>`, :doc:`Guides  "
-"<guides>`"
+msgid "Guides page, :doc:`The Configure KStars Window  <viewops>`, :doc:`Guides  <guides>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:132
-msgid ""
-"Image Overlays page, :doc:`The Configure KStars Window  "
-"<viewops>`, :doc:`Image Overlays  <imageOverlays>`"
+msgid "Image Overlays page, :doc:`The Configure KStars Window  <viewops>`, :doc:`Image Overlays  <imageOverlays>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:136
-msgid ""
-"Satellites page, :doc:`The Configure KStars Window  "
-"<viewops>`, :doc:`Satellites  <satellites>`"
+msgid "Satellites page, :doc:`The Configure KStars Window  <viewops>`, :doc:`Satellites  <satellites>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:140
-msgid ""
-"Solar System page, :doc:`The Configure KStars Window  "
-"<viewops>`, :doc:`Solar System  <solar_system>`"
+msgid "Solar System page, :doc:`The Configure KStars Window  <viewops>`, :doc:`Solar System  <solar_system>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:144
-msgid ""
-"Supernovae page, :doc:`The Configure KStars Window  "
-"<viewops>`, :doc:`Supernovae  <supernovae>`"
+msgid "Supernovae page, :doc:`The Configure KStars Window  <viewops>`, :doc:`Supernovae  <supernovae>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:148
-msgid ""
-"Terrain page, :doc:`The Configure KStars Window  <viewops>`, :doc:`Terrain  "
-"<terrain>`"
+msgid "Terrain page, :doc:`The Configure KStars Window  <viewops>`, :doc:`Terrain  <terrain>`"
 msgstr ""
 
 #. +> trunk5
@@ -362,43 +335,32 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:177
-msgid ""
-"Adding/Editing Objects, :ref:`Adding/Editing Objects  <catalogs-"
-"addingediting-objects>`"
+msgid "Adding/Editing Objects, :ref:`Adding/Editing Objects  <catalogs-addingediting-objects>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:180
-msgid ""
-"Catalog Color Editor, :ref:`Catalog Color Editor  <catalogs-catalog-color-"
-"editor>`"
+msgid "Catalog Color Editor, :ref:`Catalog Color Editor  <catalogs-catalog-color-editor>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:183
-msgid ""
-"Catalog Details Dialog, :ref:`Catalog Details Dialog  <catalogs-catalog-"
-"details-dialog>`"
+msgid "Catalog Details Dialog, :ref:`Catalog Details Dialog  <catalogs-catalog-details-dialog>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:186
-msgid ""
-"Database, :ref:`The DSO Catalog Database  <catalogs-the-dso-catalog-"
-"database>`"
+msgid "Database, :ref:`The DSO Catalog Database  <catalogs-the-dso-catalog-database>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:189
-msgid ""
-"Database System, :ref:`The DSO Catalog Database  <catalogs-the-dso-catalog-"
-"database>`"
+msgid "Database System, :ref:`The DSO Catalog Database  <catalogs-the-dso-catalog-database>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:192
-msgid ""
-"GUI, :ref:`The Catalog Management GUI  <catalogs-the-catalog-management-gui>`"
+msgid "GUI, :ref:`The Catalog Management GUI  <catalogs-the-catalog-management-gui>`"
 msgstr ""
 
 #. +> trunk5
@@ -447,8 +409,7 @@ msgid "Field-of-View Symbols"
 msgstr ""
 
 #. +> trunk5
-#: ../../user_manual/doc-index.rst:224 ../../user_manual/doc-index.rst:300
-#: ../../user_manual/doc-index.rst:502
+#: ../../user_manual/doc-index.rst:224 ../../user_manual/doc-index.rst:300 ../../user_manual/doc-index.rst:502
 msgid "Customizing, :doc:`Customizing the Display  <customize>`"
 msgstr ""
 
@@ -484,8 +445,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:245
-msgid ""
-"Geographic Coordinate System, :doc:`Geographic Coordinates  <ai-geocoords>`"
+msgid "Geographic Coordinate System, :doc:`Geographic Coordinates  <ai-geocoords>`"
 msgstr ""
 
 #. +> trunk5
@@ -495,8 +455,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:250
-msgid ""
-"Custom locations, :doc:`Setting the Geographic Location  <config-setgeo>`"
+msgid "Custom locations, :doc:`Setting the Geographic Location  <config-setgeo>`"
 msgstr ""
 
 #. +> trunk5
@@ -551,8 +510,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:285
-msgid ""
-"Image-dump Mode, :doc:`Command-Line mode for Image Generation  <dumpmode>`"
+msgid "Image-dump Mode, :doc:`Command-Line mode for Image Generation  <dumpmode>`"
 msgstr ""
 
 #. +> trunk5
@@ -562,9 +520,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:290
-msgid ""
-"Setup, :ref:`INDI Setup  <indi-indi-setup>`, :doc:`Telescope Setup  <indi-"
-"telescope-setup>`"
+msgid "Setup, :ref:`INDI Setup  <indi-indi-setup>`, :doc:`Telescope Setup  <indi-telescope-setup>`"
 msgstr ""
 
 #. +> trunk5
@@ -639,8 +595,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:349
-msgid ""
-"Milky Way, :ref:`The Galactic Coordinate System  <ai-skycoords-galactic>`"
+msgid "Milky Way, :ref:`The Galactic Coordinate System  <ai-skycoords-galactic>`"
 msgstr ""
 
 #. +> trunk5
@@ -710,9 +665,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:395
-msgid ""
-"Keyboard Actions, :ref:`Keyboard Actions  <skyobjects-keyboard-"
-"actions>`, :ref:`Actions for the Selected Object  <kstars-keys-actions>`"
+msgid "Keyboard Actions, :ref:`Keyboard Actions  <skyobjects-keyboard-actions>`, :ref:`Actions for the Selected Object  <kstars-keys-actions>`"
 msgstr ""
 
 #. +> trunk5
@@ -732,8 +685,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:405
-msgid ""
-"Tracking, :ref:`Centering and Tracking  <skyobjects-centering-and-tracking>`"
+msgid "Tracking, :ref:`Centering and Tracking  <skyobjects-centering-and-tracking>`"
 msgstr ""
 
 #. +> trunk5
@@ -743,9 +695,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:410
-msgid ""
-"Attached to centered object, :ref:`Centering and Tracking  <skyobjects-"
-"centering-and-tracking>`"
+msgid "Attached to centered object, :ref:`Centering and Tracking  <skyobjects-centering-and-tracking>`"
 msgstr ""
 
 #. +> trunk5
@@ -815,9 +765,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:459
-msgid ""
-"Star Colors and Temperatures, :doc:`Star Colors and Temperatures  <ai-"
-"colorandtemp>`"
+msgid "Star Colors and Temperatures, :doc:`Star Colors and Temperatures  <ai-colorandtemp>`"
 msgstr ""
 
 #. +> trunk5
@@ -858,15 +806,9 @@ msgstr ""
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:482
 msgid ""
-"Telescopes, :doc:`Telescopes  <ai-telescopes>`, :ref:`Aperture and Focal "
-"Ratio  <ai-telescopes-aperture-and-focal-ratio>`, :ref:`Aberrations  <ai-"
-"telescopes-aberrations>`, :ref:`Magnification  <ai-telescopes-"
-"magnification>`, :ref:`Field of View  <ai-telescopes-field-of-"
-"view>`, :ref:`Types of Telescopes  <ai-telescopes-types-of-"
-"telescopes>`, :ref:`Optical Telescopes  <ai-telescopes-optical-"
-"telescopes>`, :ref:`Observations in Other Wavelengths  <ai-telescopes-"
-"observations-in-other-wavelengths>`, :ref:`Space-Based Observations  <ai-"
-"telescopes-space-based-observations>`"
+"Telescopes, :doc:`Telescopes  <ai-telescopes>`, :ref:`Aperture and Focal Ratio  <ai-telescopes-aperture-and-focal-ratio>`, :ref:`Aberrations  <ai-telescopes-aberrations>`, :ref:`Magnification  <ai-"
+"telescopes-magnification>`, :ref:`Field of View  <ai-telescopes-field-of-view>`, :ref:`Types of Telescopes  <ai-telescopes-types-of-telescopes>`, :ref:`Optical Telescopes  <ai-telescopes-optical-"
+"telescopes>`, :ref:`Observations in Other Wavelengths  <ai-telescopes-observations-in-other-wavelengths>`, :ref:`Space-Based Observations  <ai-telescopes-space-based-observations>`"
 msgstr ""
 
 #. +> trunk5
@@ -901,79 +843,57 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:512
-msgid ""
-"Angular Distance module, :ref:`Angular Distance module  <tool-calculator-"
-"angular-distance-module>`"
+msgid "Angular Distance module, :ref:`Angular Distance module  <tool-calculator-angular-distance-module>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:515
-msgid ""
-"Apparent Coordinates module, :ref:`Apparent Coordinates module  <tool-"
-"calculator-apparent-coordinates-module>`"
+msgid "Apparent Coordinates module, :ref:`Apparent Coordinates module  <tool-calculator-apparent-coordinates-module>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:518
-msgid ""
-"Day Duration module, :ref:`Day Duration module  <tool-calculator-day-"
-"duration-module>`"
+msgid "Day Duration module, :ref:`Day Duration module  <tool-calculator-day-duration-module>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:521
-msgid ""
-"Ecliptic Coordinates module, :ref:`Ecliptic Coordinates module  <tool-"
-"calculator-ecliptic-coordinates-module>`"
+msgid "Ecliptic Coordinates module, :ref:`Ecliptic Coordinates module  <tool-calculator-ecliptic-coordinates-module>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:524
-msgid ""
-"Equatorial/Galactic Coordinates module, :ref:`Equatorial/Galactic "
-"Coordinates module  <tool-calculator-equatorialgalactic-coordinates-module>`"
+msgid "Equatorial/Galactic Coordinates module, :ref:`Equatorial/Galactic Coordinates module  <tool-calculator-equatorialgalactic-coordinates-module>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:528
-msgid ""
-"Equinoxes and Solstices module, :ref:`Equinoxes and Solstices module  <tool-"
-"calculator-equinoxes-and-solstices-module>`"
+msgid "Equinoxes and Solstices module, :ref:`Equinoxes and Solstices module  <tool-calculator-equinoxes-and-solstices-module>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:531
-msgid ""
-"Geodetic Coordinates module, :ref:`Geodetic Coordinates module  <tool-"
-"calculator-geodetic-coordinates-module>`"
+msgid "Geodetic Coordinates module, :ref:`Geodetic Coordinates module  <tool-calculator-geodetic-coordinates-module>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:534
-msgid ""
-"Horizontal Coordinates module, :ref:`Horizontal Coordinates module  <tool-"
-"calculator-horizontal-coordinates-module>`"
+msgid "Horizontal Coordinates module, :ref:`Horizontal Coordinates module  <tool-calculator-horizontal-coordinates-module>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:537
-msgid ""
-"Julian Day module, :ref:`Julian Day module  <tool-calculator-julian-day-"
-"module>`"
+msgid "Julian Day module, :ref:`Julian Day module  <tool-calculator-julian-day-module>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:540
-msgid ""
-"Planet Coordinates module, :ref:`Planet Coordinates module  <tool-calculator-"
-"planet-coordinates-module>`"
+msgid "Planet Coordinates module, :ref:`Planet Coordinates module  <tool-calculator-planet-coordinates-module>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:543
-msgid ""
-"Sidereal Time module, :ref:`Sidereal Time module  <tool-calculator-sidereal-"
-"time-module>`"
+msgid "Sidereal Time module, :ref:`Sidereal Time module  <tool-calculator-sidereal-time-module>`"
 msgstr ""
 
 #. +> trunk5
@@ -1048,8 +968,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:576
-msgid ""
-"Imaging Planner Tool, :doc:`Imaging Planner Tool  <tool-imaging-planner>`"
+msgid "Imaging Planner Tool, :doc:`Imaging Planner Tool  <tool-imaging-planner>`"
 msgstr ""
 
 #. +> trunk5
@@ -1059,8 +978,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:582
-msgid ""
-"Object Details Window, :doc:`Object Details Window  <tool-object-details>`"
+msgid "Object Details Window, :doc:`Object Details Window  <tool-object-details>`"
 msgstr ""
 
 #. +> trunk5
@@ -1070,8 +988,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/doc-index.rst:588
-msgid ""
-"Simulate Eyepiece View, :doc:`Simulate Eyepiece View  <tool-eyepieceview>`"
+msgid "Simulate Eyepiece View, :doc:`Simulate Eyepiece View  <tool-eyepieceview>`"
 msgstr ""
 
 #. +> trunk5

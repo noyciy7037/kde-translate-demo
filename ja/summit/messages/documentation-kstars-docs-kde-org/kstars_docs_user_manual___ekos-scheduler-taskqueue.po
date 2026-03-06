@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the GNU Free Documentation License 1.3+ unless stated otherwise
+# This file is distributed under the same license as the KStars Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: KStars Handbook 3.7\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-06 19:23+0100\n"
-"PO-Revision-Date: 2025-11-09 20:40+0900\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:3
@@ -27,11 +26,8 @@ msgstr ""
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:11
 msgid ""
-"The Task Queue System is a modern, flexible automation framework that "
-"replaces traditional startup and shutdown scripts with a template-based, "
-"configurable task execution system. It provides a visual interface for "
-"building sequences of automated operations that can control your observatory "
-"equipment through INDI. It is accessible from Ekos Scheduler."
+"The Task Queue System is a modern, flexible automation framework that replaces traditional startup and shutdown scripts with a template-based, configurable task execution system. It provides a "
+"visual interface for building sequences of automated operations that can control your observatory equipment through INDI. It is accessible from Ekos Scheduler."
 msgstr ""
 
 #. +> trunk5
@@ -46,55 +42,42 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:19
-msgid ""
-"The Task Queue system offers several advantages over traditional scripting:"
+msgid "The Task Queue system offers several advantages over traditional scripting:"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:21
-msgid ""
-"**Visual Management**: Build and monitor task sequences through an intuitive "
-"graphical interface"
+msgid "**Visual Management**: Build and monitor task sequences through an intuitive graphical interface"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:22
-msgid ""
-"**Reusability**: Use pre-built templates for common operations without "
-"writing code"
+msgid "**Reusability**: Use pre-built templates for common operations without writing code"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:23
-msgid ""
-"**Error Handling**: Built-in retry logic and configurable failure responses"
+msgid "**Error Handling**: Built-in retry logic and configurable failure responses"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:24
-msgid ""
-"**Device Compatibility**: Automatic matching of templates to available "
-"devices"
+msgid "**Device Compatibility**: Automatic matching of templates to available devices"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:25
-msgid ""
-"**Progress Monitoring**: Real-time status updates and detailed execution logs"
+msgid "**Progress Monitoring**: Real-time status updates and detailed execution logs"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:26
-msgid ""
-"**Collections**: Pre-defined task sets for startup, shutdown, and other "
-"common scenarios"
+msgid "**Collections**: Pre-defined task sets for startup, shutdown, and other common scenarios"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:27
-msgid ""
-"**Flexibility**: Combine templates or create custom variations without "
-"programming"
+msgid "**Flexibility**: Combine templates or create custom variations without programming"
 msgstr ""
 
 #. +> trunk5
@@ -134,10 +117,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:40
-msgid ""
-"You can still use traditional shell scripts when needed through the SCRIPT "
-"action type, combining the flexibility of scripting with the structure of "
-"the Task Queue."
+msgid "You can still use traditional shell scripts when needed through the SCRIPT action type, combining the flexibility of scripting with the structure of the Task Queue."
 msgstr ""
 
 #. +> trunk5
@@ -157,9 +137,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:50
-msgid ""
-"Templates are reusable blueprints that define what a task should do. They "
-"specify:"
+msgid "Templates are reusable blueprints that define what a task should do. They specify:"
 msgstr ""
 
 #. +> trunk5
@@ -189,9 +167,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:59
-msgid ""
-"**System Templates**: Pre-built templates provided with KStars for common "
-"operations (park mount, enable cooling, etc.)"
+msgid "**System Templates**: Pre-built templates provided with KStars for common operations (park mount, enable cooling, etc.)"
 msgstr ""
 
 #. +> trunk5
@@ -201,17 +177,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:60
-msgid ""
-"**User Templates**: Custom templates you create by selecting a device and "
-"specifying which property to set or evaluate, along with the target values "
-"and conditions"
+msgid "**User Templates**: Custom templates you create by selecting a device and specifying which property to set or evaluate, along with the target values and conditions"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:63
-msgid ""
-"Tasks are specific instances created from templates. When you add a template "
-"to the queue, you create a task by:"
+msgid "Tasks are specific instances created from templates. When you add a template to the queue, you create a task by:"
 msgstr ""
 
 #. +> trunk5
@@ -236,9 +207,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:69
-msgid ""
-"Each task in the queue has its own runtime state, tracking its progress and "
-"any errors."
+msgid "Each task in the queue has its own runtime state, tracking its progress and any errors."
 msgstr ""
 
 #. +> trunk5
@@ -253,9 +222,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:76
-msgid ""
-"Each task is composed of one or more **actions** that execute sequentially. "
-"The Task Queue system supports five action types:"
+msgid "Each task is composed of one or more **actions** that execute sequentially. The Task Queue system supports five action types:"
 msgstr ""
 
 #. +> trunk5
@@ -266,9 +233,8 @@ msgstr ""
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:79
 msgid ""
-"Sets an INDI property to a specific value. For example, setting a switch to "
-"ON, changing a number property, or updating text. The action can optionally "
-"wait for the property state to become OK before completing."
+"Sets an INDI property to a specific value. For example, setting a switch to ON, changing a number property, or updating text. The action can optionally wait for the property state to become OK "
+"before completing."
 msgstr ""
 
 #. +> trunk5
@@ -279,10 +245,8 @@ msgstr ""
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:82
 msgid ""
-"Waits for a condition to be met by polling an INDI property. Useful for "
-"waiting until equipment reaches a target state (e.g., temperature "
-"stabilized, mount parked, dome opened). Supports various condition types "
-"(equals, greater than, within range, etc.)."
+"Waits for a condition to be met by polling an INDI property. Useful for waiting until equipment reaches a target state (e.g., temperature stabilized, mount parked, dome opened). Supports various "
+"condition types (equals, greater than, within range, etc.)."
 msgstr ""
 
 #. +> trunk5
@@ -292,10 +256,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:85
-msgid ""
-"Pauses execution for a specified duration. Useful for allowing equipment to "
-"settle, rate-limiting operations, or adding time-based spacing between "
-"actions."
+msgid "Pauses execution for a specified duration. Useful for allowing equipment to settle, rate-limiting operations, or adding time-based spacing between actions."
 msgstr ""
 
 #. +> trunk5
@@ -305,9 +266,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:88
-msgid ""
-"Controls when a task begins execution. Can be set to start immediately "
-"(ASAP) or at a scheduled date/time. Useful for time-based automation."
+msgid "Controls when a task begins execution. Can be set to start immediately (ASAP) or at a scheduled date/time. Useful for time-based automation."
 msgstr ""
 
 #. +> trunk5
@@ -318,9 +277,8 @@ msgstr ""
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:91
 msgid ""
-"Executes an external script or program. This allows integration of custom "
-"logic or operations not directly supported by INDI properties. The action "
-"monitors the script's exit code and captures stdout/stderr for logging."
+"Executes an external script or program. This allows integration of custom logic or operations not directly supported by INDI properties. The action monitors the script's exit code and captures "
+"stdout/stderr for logging."
 msgstr ""
 
 #. +> trunk5
@@ -350,8 +308,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:102
-msgid ""
-"**ABORT_QUEUE**: Stop the entire queue (default for critical operations)"
+msgid "**ABORT_QUEUE**: Stop the entire queue (default for critical operations)"
 msgstr ""
 
 #. +> trunk5
@@ -361,9 +318,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:104
-msgid ""
-"**SKIP_TO_NEXT_TASK**: Skip remaining actions in current task and move to "
-"the next task"
+msgid "**SKIP_TO_NEXT_TASK**: Skip remaining actions in current task and move to the next task"
 msgstr ""
 
 #. +> trunk5
@@ -373,10 +328,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:109
-msgid ""
-"**Collections** are pre-defined sets of tasks designed for common scenarios. "
-"They provide quick-start solutions without requiring you to build queues "
-"from scratch."
+msgid "**Collections** are pre-defined sets of tasks designed for common scenarios. They provide quick-start solutions without requiring you to build queues from scratch."
 msgstr ""
 
 #. +> trunk5
@@ -386,23 +338,17 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:113
-msgid ""
-"**Observatory Startup**: Unparks dome, unparks mount, and opens dust cap (if "
-"applicable)"
+msgid "**Observatory Startup**: Unparks dome, unparks mount, and opens dust cap (if applicable)"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:114
-msgid ""
-"**Observatory Shutdown**: Parks mount, parks dome, and closes dust cap (if "
-"applicable)"
+msgid "**Observatory Shutdown**: Parks mount, parks dome, and closes dust cap (if applicable)"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:116
-msgid ""
-"Collections are loaded as complete queues, ready to execute. You can load a "
-"collection and then customize it by adding, removing, or reordering tasks."
+msgid "Collections are loaded as complete queues, ready to execute. You can load a collection and then customize it by adding, removing, or reordering tasks."
 msgstr ""
 
 #. +> trunk5
@@ -418,23 +364,17 @@ msgstr ""
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:123
 msgid ""
-"Templates specify which INDI device interfaces they support (e.g., "
-"Telescope, CCD, Dome, Weather). When you add a template to the queue, the "
-"system automatically presents only compatible devices."
+"Templates specify which INDI device interfaces they support (e.g., Telescope, CCD, Dome, Weather). When you add a template to the queue, the system automatically presents only compatible devices."
 msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:125
-msgid ""
-"For example: - A \"Park Mount\" template requires the Telescope interface - "
-"A \"Set Cooling\" template requires the CCD interface - A \"Set Dome "
-"Azimuth\" template requires the Dome interface"
+msgid "For example: - A \"Park Mount\" template requires the Telescope interface - A \"Set Cooling\" template requires the CCD interface - A \"Set Dome Azimuth\" template requires the Dome interface"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:130
-msgid ""
-"This ensures you cannot accidentally assign incompatible devices to tasks."
+msgid "This ensures you cannot accidentally assign incompatible devices to tasks."
 msgstr ""
 
 #. +> trunk5
@@ -449,9 +389,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:137
-msgid ""
-"The fastest way to start using the Task Queue is to load a pre-built "
-"collection:"
+msgid "The fastest way to start using the Task Queue is to load a pre-built collection:"
 msgstr ""
 
 #. +> trunk5
@@ -461,9 +399,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:140
-msgid ""
-"Click the **Task Queue** or **Collections** button (location depends on UI "
-"integration)"
+msgid "Click the **Task Queue** or **Collections** button (location depends on UI integration)"
 msgstr ""
 
 #. +> trunk5
@@ -503,9 +439,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:150
-msgid ""
-"Review the tasks and customize if needed (see :ref:`taskqueue-building-"
-"queues`)"
+msgid "Review the tasks and customize if needed (see :ref:`taskqueue-building-queues`)"
 msgstr ""
 
 #. +> trunk5
@@ -530,9 +464,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:159
-msgid ""
-"The Template Library opens, showing available templates organized by "
-"category:"
+msgid "The Template Library opens, showing available templates organized by category:"
 msgstr ""
 
 #. +> trunk5
@@ -577,8 +509,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:173
-msgid ""
-"After selecting a template, you'll be prompted to choose which device to use:"
+msgid "After selecting a template, you'll be prompted to choose which device to use:"
 msgstr ""
 
 #. +> trunk5
@@ -603,10 +534,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:180
-msgid ""
-"For example, if you selected a \"Park Mount\" template, you'll see only "
-"telescope devices. If you have multiple mounts connected, choose which one "
-"this task should control."
+msgid "For example, if you selected a \"Park Mount\" template, you'll see only telescope devices. If you have multiple mounts connected, choose which one this task should control."
 msgstr ""
 
 #. +> trunk5
@@ -856,9 +784,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:256
-msgid ""
-"**Abort**: Immediately terminate execution (may leave equipment in "
-"intermediate state)"
+msgid "**Abort**: Immediately terminate execution (may leave equipment in intermediate state)"
 msgstr ""
 
 #. +> trunk5
@@ -888,9 +814,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:268
-msgid ""
-"**SCHEDULED** (Blue): Task scheduled for future time (START action with "
-"datetime)"
+msgid "**SCHEDULED** (Blue): Task scheduled for future time (START action with datetime)"
 msgstr ""
 
 #. +> trunk5
@@ -1220,8 +1144,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:360
-msgid ""
-"Many actions check if their operation is already complete before executing:"
+msgid "Many actions check if their operation is already complete before executing:"
 msgstr ""
 
 #. +> trunk5
@@ -1375,14 +1298,12 @@ msgid "Template: \"Dome - Unpark\""
 msgstr ""
 
 #. +> trunk5
-#: ../../user_manual/ekos-scheduler-taskqueue.rst:408
-#: ../../user_manual/ekos-scheduler-taskqueue.rst:485
+#: ../../user_manual/ekos-scheduler-taskqueue.rst:408 ../../user_manual/ekos-scheduler-taskqueue.rst:485
 msgid "Device: Your dome controller"
 msgstr ""
 
 #. +> trunk5
-#: ../../user_manual/ekos-scheduler-taskqueue.rst:409
-#: ../../user_manual/ekos-scheduler-taskqueue.rst:479
+#: ../../user_manual/ekos-scheduler-taskqueue.rst:409 ../../user_manual/ekos-scheduler-taskqueue.rst:479
 msgid "Timeout: 60 seconds"
 msgstr ""
 
@@ -1402,15 +1323,12 @@ msgid "Template: \"Mount - Unpark\""
 msgstr ""
 
 #. +> trunk5
-#: ../../user_manual/ekos-scheduler-taskqueue.rst:415
-#: ../../user_manual/ekos-scheduler-taskqueue.rst:422
-#: ../../user_manual/ekos-scheduler-taskqueue.rst:478
+#: ../../user_manual/ekos-scheduler-taskqueue.rst:415 ../../user_manual/ekos-scheduler-taskqueue.rst:422 ../../user_manual/ekos-scheduler-taskqueue.rst:478
 msgid "Device: Your telescope mount"
 msgstr ""
 
 #. +> trunk5
-#: ../../user_manual/ekos-scheduler-taskqueue.rst:416
-#: ../../user_manual/ekos-scheduler-taskqueue.rst:494
+#: ../../user_manual/ekos-scheduler-taskqueue.rst:416 ../../user_manual/ekos-scheduler-taskqueue.rst:494
 msgid "Timeout: 30 seconds"
 msgstr ""
 
@@ -1450,17 +1368,13 @@ msgid "Template: \"Camera - Set Cooling\""
 msgstr ""
 
 #. +> trunk5
-#: ../../user_manual/ekos-scheduler-taskqueue.rst:429
-#: ../../user_manual/ekos-scheduler-taskqueue.rst:439
-#: ../../user_manual/ekos-scheduler-taskqueue.rst:462
+#: ../../user_manual/ekos-scheduler-taskqueue.rst:429 ../../user_manual/ekos-scheduler-taskqueue.rst:439 ../../user_manual/ekos-scheduler-taskqueue.rst:462
 msgid "Device: Your CCD camera"
 msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:430
-msgid ""
-"Parameters: - target_temp: -15°C (adjust for your camera) - ramp_rate: 2°C/"
-"minute (prevents thermal shock)"
+msgid "Parameters: - target_temp: -15°C (adjust for your camera) - ramp_rate: 2°C/minute (prevents thermal shock)"
 msgstr ""
 
 #. +> trunk5
@@ -1479,8 +1393,7 @@ msgid "**Wait for Temperature Stabilization**"
 msgstr ""
 
 #. +> trunk5
-#: ../../user_manual/ekos-scheduler-taskqueue.rst:438
-#: ../../user_manual/ekos-scheduler-taskqueue.rst:548
+#: ../../user_manual/ekos-scheduler-taskqueue.rst:438 ../../user_manual/ekos-scheduler-taskqueue.rst:548
 msgid "Template: \"Camera - Wait for Temperature\""
 msgstr ""
 
@@ -1495,8 +1408,7 @@ msgid "Timeout: 300 seconds"
 msgstr ""
 
 #. +> trunk5
-#: ../../user_manual/ekos-scheduler-taskqueue.rst:444
-#: ../../user_manual/ekos-scheduler-taskqueue.rst:473
+#: ../../user_manual/ekos-scheduler-taskqueue.rst:444 ../../user_manual/ekos-scheduler-taskqueue.rst:473
 msgid "Failure Action: CONTINUE"
 msgstr ""
 
@@ -1547,8 +1459,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:463
-msgid ""
-"Parameters: - ramp_rate: 1°C/minute (slow warm-up prevents condensation)"
+msgid "Parameters: - ramp_rate: 1°C/minute (slow warm-up prevents condensation)"
 msgstr ""
 
 #. +> trunk5
@@ -1577,8 +1488,7 @@ msgid "**Park Mount**"
 msgstr ""
 
 #. +> trunk5
-#: ../../user_manual/ekos-scheduler-taskqueue.rst:477
-#: ../../user_manual/ekos-scheduler-taskqueue.rst:531
+#: ../../user_manual/ekos-scheduler-taskqueue.rst:477 ../../user_manual/ekos-scheduler-taskqueue.rst:531
 msgid "Template: \"Mount - Park\""
 msgstr ""
 
@@ -1613,8 +1523,7 @@ msgid "**Turn Off Equipment Power** (via script)"
 msgstr ""
 
 #. +> trunk5
-#: ../../user_manual/ekos-scheduler-taskqueue.rst:491
-#: ../../user_manual/ekos-scheduler-taskqueue.rst:577
+#: ../../user_manual/ekos-scheduler-taskqueue.rst:491 ../../user_manual/ekos-scheduler-taskqueue.rst:577
 msgid "Template: \"Script - Execute\""
 msgstr ""
 
@@ -1640,9 +1549,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:502
-msgid ""
-"The Task Queue system replaces traditional startup/shutdown shell scripts "
-"with a more structured approach:"
+msgid "The Task Queue system replaces traditional startup/shutdown shell scripts with a more structured approach:"
 msgstr ""
 
 #. +> trunk5
@@ -1726,9 +1633,7 @@ msgid "indi_setprop \"Telescope.TELESCOPE_PARK.PARK=On\""
 msgstr ""
 
 #. +> trunk5
-#: ../../user_manual/ekos-scheduler-taskqueue.rst:528
-#: ../../user_manual/ekos-scheduler-taskqueue.rst:545
-#: ../../user_manual/ekos-scheduler-taskqueue.rst:561
+#: ../../user_manual/ekos-scheduler-taskqueue.rst:528 ../../user_manual/ekos-scheduler-taskqueue.rst:545 ../../user_manual/ekos-scheduler-taskqueue.rst:561
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:574
 msgid "Old Script:"
 msgstr ""
@@ -1754,9 +1659,7 @@ msgid "Element: PARK"
 msgstr ""
 
 #. +> trunk5
-#: ../../user_manual/ekos-scheduler-taskqueue.rst:536
-#: ../../user_manual/ekos-scheduler-taskqueue.rst:554
-#: ../../user_manual/ekos-scheduler-taskqueue.rst:567
+#: ../../user_manual/ekos-scheduler-taskqueue.rst:536 ../../user_manual/ekos-scheduler-taskqueue.rst:554 ../../user_manual/ekos-scheduler-taskqueue.rst:567
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:580
 msgid "New Task Queue:"
 msgstr ""
@@ -1774,8 +1677,7 @@ msgstr ""
 #. +> trunk5
 #: ../../user_manual/ekos-scheduler-taskqueue.rst:541
 msgid ""
-"while [ $(indi_getprop \"CCD.CCD_TEMPERATURE.CCD_TEMPERATURE_VALUE\") -gt "
-"-10 ]; do\n"
+"while [ $(indi_getprop \"CCD.CCD_TEMPERATURE.CCD_TEMPERATURE_VALUE\") -gt -10 ]; do\n"
 "    sleep 5\n"
 "done"
 msgstr ""
