@@ -1,28 +1,17 @@
-# Translation of kwin_clients into Japanese.
-# This file is distributed under the same license as the kdebase package.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the breeze package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-# Shinichi Tsunoda <tsuno@ngy.1st.ne.jp>, 2005.
-# Yukiko Bando <ybando@k6.dion.ne.jp>, 2006, 2007, 2008, 2009, 2010.
-# Taiki Komoda <kom@kde.gr.jp>, 2010.
-# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2004, 2005, 2010, 2015, 2021.
-# R.Suga <21r.suga@gmail.com>, 2022.
-# SPDX-FileCopyrightText: 2025 Yuma Kakei <yumasansansan@gmail.com>
 msgid ""
 msgstr ""
-"Project-Id-Version: kwin_clients\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-01-13 14:37+0100\n"
-"PO-Revision-Date: 2025-09-23 23:33+0900\n"
-"Last-Translator: Yuma Kakei <yumasansansan@gmail.com>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: breeze\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 25.08.1\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6 stable6 stable5
 #: config/breezeexceptionlistwidget.cpp:88
@@ -50,8 +39,7 @@ msgstr "選択した例外を削除しますか？"
 
 #. i18n: ectx: property (text), widget (QPushButton, removeButton)
 #. +> trunk6 stable6 stable5
-#: config/breezeexceptionlistwidget.cpp:170
-#: config/ui/breezeexceptionlistwidget.ui:91
+#: config/breezeexceptionlistwidget.cpp:170 config/ui/breezeexceptionlistwidget.ui:91
 #, kde-format
 msgid "Remove"
 msgstr "削除"
@@ -168,8 +156,7 @@ msgstr "小"
 #. i18n: ectx: property (text), item, widget (QComboBox, buttonSize)
 #. i18n: ectx: property (text), item, widget (QComboBox, shadowSize)
 #. +> trunk6 stable6 stable5
-#: config/ui/breezeconfigurationui.ui:100
-#: config/ui/breezeconfigurationui.ui:207
+#: config/ui/breezeconfigurationui.ui:100 config/ui/breezeconfigurationui.ui:207
 #, kde-format
 msgctxt "@item:inlistbox Button size:"
 msgid "Medium"
@@ -178,8 +165,7 @@ msgstr "中"
 #. i18n: ectx: property (text), item, widget (QComboBox, buttonSize)
 #. i18n: ectx: property (text), item, widget (QComboBox, shadowSize)
 #. +> trunk6 stable6 stable5
-#: config/ui/breezeconfigurationui.ui:105
-#: config/ui/breezeconfigurationui.ui:212
+#: config/ui/breezeconfigurationui.ui:105 config/ui/breezeconfigurationui.ui:212
 #, kde-format
 msgctxt "@item:inlistbox Button size:"
 msgid "Large"
@@ -188,8 +174,7 @@ msgstr "大"
 #. i18n: ectx: property (text), item, widget (QComboBox, buttonSize)
 #. i18n: ectx: property (text), item, widget (QComboBox, shadowSize)
 #. +> trunk6 stable6 stable5
-#: config/ui/breezeconfigurationui.ui:110
-#: config/ui/breezeconfigurationui.ui:217
+#: config/ui/breezeconfigurationui.ui:110 config/ui/breezeconfigurationui.ui:217
 #, kde-format
 msgctxt "@item:inlistbox Button size:"
 msgid "Very Large"
@@ -213,14 +198,8 @@ msgstr "最大化またはタイル化されたウィンドウに境界線を描
 #. +> trunk6 stable6 stable5
 #: config/ui/breezeconfigurationui.ui:150
 #, kde-format
-msgid ""
-"This setting will allow you to resize from window edges touching screen "
-"edges. Scrollbars and window close buttons will shift positions and will not "
-"touch screen edges."
-msgstr ""
-"この設定を有効にすると、スクリーンの端に接しているウィンドウの縁からでもリサ"
-"イズできるようになります。スクロールバーとウィンドウの「閉じる」ボタンは位置"
-"がずれて、スクリーンの端に触れなくなります。"
+msgid "This setting will allow you to resize from window edges touching screen edges. Scrollbars and window close buttons will shift positions and will not touch screen edges."
+msgstr "この設定を有効にすると、スクリーンの端に接しているウィンドウの縁からでもリサイズできるようになります。スクロールバーとウィンドウの「閉じる」ボタンは位置がずれて、スクリーンの端に触れなくなります。"
 
 #. i18n: ectx: property (text), widget (QCheckBox, drawBackgroundGradient)
 #. +> trunk6 stable6 stable5
@@ -291,7 +270,7 @@ msgstr "強さ(&T):"
 #. i18n: ectx: property (suffix), widget (QSpinBox, shadowStrength)
 #. +> trunk6 stable6 stable5
 #: config/ui/breezeconfigurationui.ui:235
-#, no-c-format, kde-format
+#, kde-format, no-c-format
 msgid "%"
 msgstr "%"
 
@@ -313,7 +292,6 @@ msgstr "色:"
 #. +> trunk6 stable6
 #: config/ui/breezeconfigurationui.ui:258
 #, fuzzy, kde-format
-#| msgid "Shadows and Outline"
 msgid "Draw window outline"
 msgstr "影と輪郭"
 
@@ -479,109 +457,3 @@ msgstr "追加"
 #, kde-format
 msgid "Edit"
 msgstr "編集"
-
-#, kde-format
-#~ msgctxt "@item:inlistbox Outline intensity:"
-#~ msgid "Medium"
-#~ msgstr "中"
-
-#, kde-format
-#~ msgctxt "@item:inlistbox Outline intensity:"
-#~ msgid "Maximum"
-#~ msgstr "最大"
-
-#, kde-format
-#~ msgctxt "@item:inlistbox Outline intensity:"
-#~ msgid "Off"
-#~ msgstr "オフ"
-
-#, kde-format
-#~ msgctxt "@item:inlistbox Outline intensity:"
-#~ msgid "Low"
-#~ msgstr "低"
-
-#, kde-format
-#~ msgctxt "@item:inlistbox Outline intensity:"
-#~ msgid "High"
-#~ msgstr "高"
-
-#, kde-format
-#~ msgctxt "outline intensity"
-#~ msgid "Outline intensity:"
-#~ msgstr "輪郭の濃さ:"
-
-#, kde-format
-#~ msgid "Allow resizing maximized windows from window edges"
-#~ msgstr "最大化されたウィンドウの縁からリサイズすることを許可"
-
-#, kde-format
-#~ msgid "Detect Window Properties"
-#~ msgstr "ウィンドウのプロパティを検出"
-
-#, kde-format
-#~ msgid "Information about Selected Window"
-#~ msgstr "選択されたウィンドウに関する情報"
-
-#, kde-format
-#~ msgid "Class: "
-#~ msgstr "クラス: "
-
-#, kde-format
-#~ msgid "Title: "
-#~ msgstr "タイトル: "
-
-#, kde-format
-#~ msgid "Window Property Selection"
-#~ msgstr "ウィンドウプロパティの選択"
-
-#, kde-format
-#~ msgid "Use window class (whole application)"
-#~ msgstr "ウィンドウのクラスを使う (アプリケーション全体)"
-
-#, kde-format
-#~ msgid "Use window title"
-#~ msgstr "ウィンドウのタイトルを使う"
-
-#, kde-format
-#~ msgid "Draw separator between titlebar and window"
-#~ msgstr "タイトルバーとウィンドウの間にセパレータを表示"
-
-#, kde-format
-#~ msgid "Animations"
-#~ msgstr "アニメーション"
-
-#, kde-format
-#~ msgid "Anima&tions duration:"
-#~ msgstr "アニメーションの長さ(&T):"
-
-#, kde-format
-#~ msgid " ms"
-#~ msgstr " ms"
-
-#, kde-format
-#~ msgid "Enable animations"
-#~ msgstr "アニメーションを有効にする"
-
-#, kde-format
-#~ msgid "Draw separator under active window's titlebar"
-#~ msgstr "アクティブなウィンドウのタイトルバーの下にセパレータを表示"
-
-#~ msgctxt "@item:inlistbox Button size:"
-#~ msgid "Normal"
-#~ msgstr "普通"
-
-#, fuzzy
-#~ msgid "New Exception - Oxygen Settings"
-#~ msgstr "アクション設定"
-
-#, fuzzy
-#~ msgid "Edit Exception - Oxygen Settings"
-#~ msgstr "アクション設定"
-
-#, fuzzy
-#~ msgid "Question - Oxygen Settings"
-#~ msgstr "アクション設定"
-
-#, fuzzy
-#~ msgid "Warning - Oxygen Settings"
-#~ msgstr "アクション設定"

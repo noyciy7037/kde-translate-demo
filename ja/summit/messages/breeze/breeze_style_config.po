@@ -1,23 +1,17 @@
-# 百武 朋大 <tomhioo@outlook.jp>, 2019.
-# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2019.
-# R.Suga <21r.suga@gmail.com>, 2022.
-# SPDX-FileCopyrightText: 2025 Yuma Kakei <yumasansansan@gmail.com>
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the breeze package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: breeze_style_config\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-09-20 11:48+0200\n"
-"PO-Revision-Date: 2025-09-23 23:33+0900\n"
-"Last-Translator: Yuma Kakei <yumasansansan@gmail.com>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: breeze\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
-"X-Generator: Lokalize 25.08.1\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6 stable6 stable5
 #: main.cpp:25 main.cpp:29
@@ -247,38 +241,3 @@ msgstr "不透明"
 #, kde-format
 msgid "Menu:"
 msgstr "メニュー:"
-
-#, kde-format
-#~ msgid "Always Hide Keyboard Accelerators"
-#~ msgstr "常にキーボードアクセラレータを隠す"
-
-#, kde-format
-#~ msgid "Show Keyboard Accelerators When Needed"
-#~ msgstr "必要なときにキーボードアクセラレータを表示"
-
-#, kde-format
-#~ msgid "Always Show Keyboard Accelerators"
-#~ msgstr "常にキーボードアクセラレータを表示"
-
-#, kde-format
-#~ msgid "Animations"
-#~ msgstr "アニメーション"
-
-#, kde-format
-#~ msgid " ms"
-#~ msgstr "ms"
-
-#, kde-format
-#~ msgid "A&nimations duration:"
-#~ msgstr "アニメーションの長さ(&N):"
-
-#, kde-format
-#~ msgid "Draw frame around page titles"
-#~ msgstr "ページタイトルの周りにフレームを表示"
-
-#, kde-format
-#~ msgid "Enable animations"
-#~ msgstr "アニメーションを有効化"
-
-#~ msgid "Anima&tions duration:"
-#~ msgstr "アニメーションの長さ(&T):"
