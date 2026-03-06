@@ -1,45 +1,38 @@
-# SPDX-FileCopyrightText: 2024 Tarot Osuji <tarot@sdf.org>
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the flatpak-kcm package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: flatpak-kcm\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-02-26 15:29+0100\n"
-"PO-Revision-Date: 2024-02-12 23:03+0900\n"
-"Last-Translator: Tarot Osuji <tarot@sdf.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
-"X-Generator: Lokalize 23.08.4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6 stable6 stable5
-#: autotests/flatpakpermissiontest.cpp:615
-#: autotests/flatpakpermissiontest.cpp:821 flatpakpermission.cpp:404
+#: autotests/flatpakpermissiontest.cpp:615 autotests/flatpakpermissiontest.cpp:821 flatpakpermission.cpp:404
 #, kde-format
 msgid "None"
 msgstr "なし"
 
 #. +> trunk6 stable6 stable5
-#: autotests/flatpakpermissiontest.cpp:616
-#: autotests/flatpakpermissiontest.cpp:824 flatpakpermission.cpp:405
+#: autotests/flatpakpermissiontest.cpp:616 autotests/flatpakpermissiontest.cpp:824 flatpakpermission.cpp:405
 #, kde-format
 msgid "see"
 msgstr "参照"
 
 #. +> trunk6 stable6 stable5
-#: autotests/flatpakpermissiontest.cpp:617
-#: autotests/flatpakpermissiontest.cpp:822 flatpakpermission.cpp:406
+#: autotests/flatpakpermissiontest.cpp:617 autotests/flatpakpermissiontest.cpp:822 flatpakpermission.cpp:406
 #, kde-format
 msgid "talk"
 msgstr "通信"
 
 #. +> trunk6 stable6 stable5
-#: autotests/flatpakpermissiontest.cpp:618
-#: autotests/flatpakpermissiontest.cpp:823 flatpakpermission.cpp:407
+#: autotests/flatpakpermissiontest.cpp:618 autotests/flatpakpermissiontest.cpp:823 flatpakpermission.cpp:407
 #, kde-format
 msgid "own"
 msgstr "所有"
@@ -71,7 +64,6 @@ msgstr "作成"
 #. +> trunk6 stable6
 #: flatpakpermission.cpp:823
 #, fuzzy, kde-format
-#| msgid "Internet Connection"
 msgid "Internet connection"
 msgstr "インターネット接続"
 
@@ -84,7 +76,6 @@ msgstr "インターネット接続"
 #. +> trunk6 stable6
 #: flatpakpermission.cpp:824
 #, fuzzy, kde-format
-#| msgid "Inter-process Communication"
 msgid "Inter-process communication"
 msgstr "プロセス間通信"
 
@@ -97,7 +88,6 @@ msgstr "プロセス間通信"
 #. +> trunk6 stable6
 #: flatpakpermission.cpp:830
 #, fuzzy, kde-format
-#| msgid "X11 Windowing System"
 msgid "X11 windowing system"
 msgstr "X11 ウィンドウ表示システム"
 
@@ -110,7 +100,6 @@ msgstr "X11 ウィンドウ表示システム"
 #. +> trunk6 stable6
 #: flatpakpermission.cpp:831
 #, fuzzy, kde-format
-#| msgid "Wayland Windowing System"
 msgid "Wayland windowing system"
 msgstr "Wayland ウィンドウ表示システム"
 
@@ -123,7 +112,6 @@ msgstr "Wayland ウィンドウ表示システム"
 #. +> trunk6 stable6
 #: flatpakpermission.cpp:832
 #, fuzzy, kde-format
-#| msgid "Fallback to X11 Windowing System"
 msgid "Fallback to X11 windowing system"
 msgstr "X11 ウィンドウ表示システムにフォールバック"
 
@@ -136,7 +124,6 @@ msgstr "X11 ウィンドウ表示システムにフォールバック"
 #. +> trunk6 stable6
 #: flatpakpermission.cpp:833
 #, fuzzy, kde-format
-#| msgid "Pulseaudio Sound Server"
 msgid "Pulseaudio sound server"
 msgstr "PulseAudio サウンドサーバ"
 
@@ -149,7 +136,6 @@ msgstr "PulseAudio サウンドサーバ"
 #. +> trunk6 stable6
 #: flatpakpermission.cpp:834
 #, fuzzy, kde-format
-#| msgid "Session Bus Access"
 msgid "Session bus access"
 msgstr "セッションバスへのアクセス"
 
@@ -162,7 +148,6 @@ msgstr "セッションバスへのアクセス"
 #. +> trunk6 stable6
 #: flatpakpermission.cpp:835
 #, fuzzy, kde-format
-#| msgid "System Bus Access"
 msgid "System bus access"
 msgstr "システムバスへのアクセス"
 
@@ -175,7 +160,6 @@ msgstr "システムバスへのアクセス"
 #. +> trunk6 stable6
 #: flatpakpermission.cpp:836
 #, fuzzy, kde-format
-#| msgid "Remote Login Access"
 msgid "Remote login access"
 msgstr "リモートログインへのアクセス"
 
@@ -188,7 +172,6 @@ msgstr "リモートログインへのアクセス"
 #. +> trunk6 stable6
 #: flatpakpermission.cpp:837
 #, fuzzy, kde-format
-#| msgid "Smart Card Access"
 msgid "Smart card access"
 msgstr "スマートカードへのアクセス"
 
@@ -201,7 +184,6 @@ msgstr "スマートカードへのアクセス"
 #. +> trunk6 stable6
 #: flatpakpermission.cpp:838
 #, fuzzy, kde-format
-#| msgid "Print System Access"
 msgid "Print system access"
 msgstr "印刷システムへのアクセス"
 
@@ -214,7 +196,6 @@ msgstr "印刷システムへのアクセス"
 #. +> trunk6 stable6
 #: flatpakpermission.cpp:844
 #, fuzzy, kde-format
-#| msgid "Kernel-based Virtual Machine Access"
 msgid "Kernel-based Virtual Machine access"
 msgstr "カーネルベースの仮想マシンへのアクセス"
 
@@ -227,7 +208,6 @@ msgstr "カーネルベースの仮想マシンへのアクセス"
 #. +> trunk6 stable6
 #: flatpakpermission.cpp:845
 #, fuzzy, kde-format
-#| msgid "Direct Graphic Rendering"
 msgid "Direct graphic rendering"
 msgstr "直接グラフィックレンダリング"
 
@@ -246,14 +226,12 @@ msgstr "ホストの dev/shm"
 #. +> trunk6 stable6
 #: flatpakpermission.cpp:847
 #, fuzzy, kde-format
-#| msgid "Device Access"
 msgid "Device access"
 msgstr "デバイスへのアクセス"
 
 #. +> trunk6 stable6
 #: flatpakpermission.cpp:853
 #, fuzzy, kde-format
-#| msgid "System Calls by Development Tools"
 msgid "System calls by development tools"
 msgstr "開発ツールによるシステムコール"
 
@@ -266,7 +244,6 @@ msgstr "開発ツールによるシステムコール"
 #. +> trunk6 stable6
 #: flatpakpermission.cpp:854
 #, fuzzy, kde-format
-#| msgid "Run Multiarch/Multilib Binaries"
 msgid "Run multiarch/multilib binaries"
 msgstr "Multiarch/Multilib バイナリを実行する"
 
@@ -285,7 +262,6 @@ msgstr "Bluetooth"
 #. +> trunk6 stable6
 #: flatpakpermission.cpp:856
 #, fuzzy, kde-format
-#| msgid "Canbus Socket Access"
 msgid "Canbus socket access"
 msgstr "Canbus ソケットへのアクセス"
 
@@ -304,7 +280,6 @@ msgstr "dev/shm をアプリのすべてのインスタンスでユーザー ID 
 #. +> trunk6 stable6
 #: flatpakpermission.cpp:917
 #, fuzzy, kde-format
-#| msgid "All User Files"
 msgid "All user files"
 msgstr "すべてのユーザファイル"
 
@@ -317,7 +292,6 @@ msgstr "すべてのユーザファイル"
 #. +> trunk6 stable6
 #: flatpakpermission.cpp:918
 #, fuzzy, kde-format
-#| msgid "All System Files"
 msgid "All system files"
 msgstr "すべてのシステムファイル"
 
@@ -330,7 +304,6 @@ msgstr "すべてのシステムファイル"
 #. +> trunk6 stable6
 #: flatpakpermission.cpp:919
 #, fuzzy, kde-format
-#| msgid "All System Libraries, Executables and Binaries"
 msgid "All system libraries, executables and binaries"
 msgstr "すべてのシステムライブラリ、実行可能ファイルおよびバイナリ"
 
@@ -343,7 +316,6 @@ msgstr "すべてのシステムライブラリ、実行可能ファイルおよ
 #. +> trunk6 stable6
 #: flatpakpermission.cpp:920
 #, fuzzy, kde-format
-#| msgid "All System Configurations"
 msgid "All system configurations"
 msgstr "すべてのシステム設定"
 
@@ -534,7 +506,6 @@ msgstr "値:"
 #. +> trunk6 stable6
 #: ui/ApplyOrDiscardDialog.qml:21
 #, fuzzy, kde-format
-#| msgid "Apply Permissions"
 msgctxt "@title:window"
 msgid "Apply Permissions"
 msgstr "権限を適用"
@@ -542,16 +513,9 @@ msgstr "権限を適用"
 #. +> trunk6 stable6
 #: ui/ApplyOrDiscardDialog.qml:22
 #, fuzzy, kde-format
-#| msgid ""
-#| "The permissions of application %1 have been changed. Do you want to apply "
-#| "these changes or discard them?"
 msgctxt "@info dialog main text"
-msgid ""
-"The permissions of application %1 have been changed. Do you want to apply "
-"these changes or discard them?"
-msgstr ""
-"アプリケーション %1 の権限が変更されました。これらの変更を適用しますか、それ"
-"とも破棄しますか？"
+msgid "The permissions of application %1 have been changed. Do you want to apply these changes or discard them?"
+msgstr "アプリケーション %1 の権限が変更されました。これらの変更を適用しますか、それとも破棄しますか？"
 
 #. +> trunk6 stable6
 #: ui/FlatpakPermissions.qml:23
@@ -570,7 +534,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: ui/FlatpakPermissions.qml:184
 #, fuzzy, kde-format
-#| msgid "Hide advanced permissions"
 msgctxt "@action:button in section header"
 msgid "Hide advanced permissions"
 msgstr "高度な権限を隠す"
@@ -578,7 +541,6 @@ msgstr "高度な権限を隠す"
 #. +> trunk6 stable6
 #: ui/FlatpakPermissions.qml:184
 #, fuzzy, kde-format
-#| msgid "Show advanced permissions"
 msgctxt "@action:button in section header"
 msgid "Show advanced permissions"
 msgstr "高度な権限を表示"
@@ -586,7 +548,6 @@ msgstr "高度な権限を表示"
 #. +> trunk6 stable6
 #: ui/FlatpakPermissions.qml:196
 #, fuzzy, kde-format
-#| msgid "Add New"
 msgctxt "@action:button in section header"
 msgid "Add New…"
 msgstr "新規追加"
@@ -594,7 +555,6 @@ msgstr "新規追加"
 #. +> trunk6 stable6
 #: ui/FlatpakPermissions.qml:197
 #, fuzzy, kde-format
-#| msgid "Add Filesystem Path Permission"
 msgctxt "action:button accessible"
 msgid "Add New File System Permission"
 msgstr "ファイルシステムのパスの権限を追加"
@@ -602,7 +562,6 @@ msgstr "ファイルシステムのパスの権限を追加"
 #. +> trunk6 stable6
 #: ui/main.qml:91
 #, fuzzy, kde-format
-#| msgid "Select an application from the list to view its permissions here"
 msgctxt "@info:placeholder"
 msgid "Select an application from the list to view its permissions here"
 msgstr "リストからアプリケーションを選択すると、その権限をここに表示します"
@@ -619,9 +578,8 @@ msgstr ""
 #, kde-format
 msgctxt "@info"
 msgid ""
-"Well-behaved applications might respect these settings but even if turned "
-"off here they are still able to control mouse and keyboard or record the "
-"contents of your screen through the windowing system"
+"Well-behaved applications might respect these settings but even if turned off here they are still able to control mouse and keyboard or record the contents of your screen through the windowing "
+"system"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -656,9 +614,7 @@ msgstr ""
 #: ui/Permissions.qml:121
 #, kde-kuit-format
 msgctxt "@info:tooltip"
-msgid ""
-"Allows the application to activate game mode if you are using it on your "
-"system."
+msgid "Allows the application to activate game mode if you are using it on your system."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -676,8 +632,7 @@ msgid "Take screenshots:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/Permissions.qml:154 ui/Permissions.qml:175 ui/Permissions.qml:195
-#: ui/Permissions.qml:226
+#: ui/Permissions.qml:154 ui/Permissions.qml:175 ui/Permissions.qml:195 ui/Permissions.qml:226
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "Ask Once"
@@ -707,7 +662,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: ui/Permissions.qml:167
 #, fuzzy, kde-format
-#| msgid "Smart Card Access"
 msgctxt "@title:group"
 msgid "Camera access:"
 msgstr "スマートカードへのアクセス"
@@ -769,14 +723,14 @@ msgid "Set desktop and lock screen background:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/Permissions.qml:242
+#: ui/Permissions.qml:243
 #, kde-format
 msgctxt "@label"
 msgid "Screen sharing:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/Permissions.qml:247 ui/Permissions.qml:274
+#: ui/Permissions.qml:249 ui/Permissions.qml:278
 #, kde-format
 msgctxt "@action:button"
 msgid "Manage %1 Session"
@@ -784,31 +738,28 @@ msgid_plural "Manage %1 Sessions"
 msgstr[0] ""
 
 #. +> trunk6 stable6
-#: ui/Permissions.qml:250
+#: ui/Permissions.qml:252
 #, kde-format
 msgctxt "@title:window %1 is the name of the application"
 msgid "%1 – Screencast Sessions"
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/Permissions.qml:255
+#: ui/Permissions.qml:257
 #, kde-format
-msgctxt ""
-"@label 'Remote control' like in xdg-desktop-portal-kde "
-"remotedesktopdialog.cpp"
+msgctxt "@label 'Remote control' like in xdg-desktop-portal-kde remotedesktopdialog.cpp"
 msgid " Remote control:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/Permissions.qml:259
+#: ui/Permissions.qml:261
 #, kde-format
 msgctxt "@option:check"
-msgid ""
-"Control pointer & keyboard, and share screen with other apps without asking"
+msgid "Control pointer & keyboard, and share screen with other apps without asking"
 msgstr ""
 
 #. +> trunk6 stable6
-#: ui/Permissions.qml:277
+#: ui/Permissions.qml:281
 #, kde-format
 msgctxt "@title:window %1 is the name of the application"
 msgid "%1 – Remote Desktop Sessions"
@@ -849,7 +800,6 @@ msgstr "システムバスの権限を追加"
 #. +> trunk6 stable6
 #: ui/TextPromptDialog.qml:38
 #, fuzzy, kde-format
-#| msgid "Enter filesystem path…"
 msgid "Enter filesystem path:"
 msgstr "ファイルシステムのパスを入力…"
 
@@ -862,7 +812,6 @@ msgstr "ファイルシステムのパスを入力..."
 #. +> trunk6 stable6
 #: ui/TextPromptDialog.qml:39
 #, fuzzy, kde-format
-#| msgid "Enter session bus name…"
 msgid "Enter session bus name:"
 msgstr "セッションバス名を入力…"
 
@@ -875,7 +824,6 @@ msgstr "セッションバス名を入力..."
 #. +> trunk6 stable6
 #: ui/TextPromptDialog.qml:40
 #, fuzzy, kde-format
-#| msgid "Enter system bus name…"
 msgid "Enter system bus name:"
 msgstr "システムバス名を入力…"
 
@@ -912,12 +860,8 @@ msgstr "権限を適用"
 #. +> stable5
 #: package/contents/ui/main.qml:55
 #, kde-format
-msgid ""
-"The permissions of this application have been changed. Do you want to apply "
-"these changes or discard them?"
-msgstr ""
-"このアプリケーションの権限が変更されました。これらの変更を適用しますか、それ"
-"とも破棄しますか?"
+msgid "The permissions of this application have been changed. Do you want to apply these changes or discard them?"
+msgstr "このアプリケーションの権限が変更されました。これらの変更を適用しますか、それとも破棄しますか?"
 
 #. +> stable5
 #: package/contents/ui/permissions.qml:17
@@ -948,40 +892,3 @@ msgstr "高度な権限を表示"
 #, kde-format
 msgid "Add New"
 msgstr "新規追加"
-
-#, kde-format
-#~ msgid ""
-#~ "The permissions of application %1 have been changed. Do you want to apply "
-#~ "these changes or discard them?"
-#~ msgstr ""
-#~ "アプリケーション %1 の権限が変更されました。これらの変更を適用しますか、そ"
-#~ "れとも破棄しますか？"
-
-#, fuzzy, kde-format
-#~| msgid "Add New"
-#~ msgid "Add New…"
-#~ msgstr "新規追加"
-
-#, fuzzy, kde-format
-#~| msgid "Flatpak Applications"
-#~ msgctxt "@window:title"
-#~ msgid "Flatpak Applications"
-#~ msgstr "Flatpak アプリケーション"
-
-#, fuzzy, kde-format
-#~| msgid "Permissions"
-#~ msgctxt "@title:window"
-#~ msgid "Permissions"
-#~ msgstr "権限"
-
-#, kde-format
-#~ msgid "Enter filesystem path…"
-#~ msgstr "ファイルシステムのパスを入力…"
-
-#, kde-format
-#~ msgid "Enter session bus name…"
-#~ msgstr "セッションバス名を入力…"
-
-#, kde-format
-#~ msgid "Enter system bus name…"
-#~ msgstr "システムバス名を入力…"
