@@ -1,19 +1,17 @@
-# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2022.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the GNU Free Documentation License 1.3+ unless stated otherwise
+# This file is distributed under the same license as the Krita Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Krita Manual 4.3\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-25 09:27+0100\n"
-"PO-Revision-Date: 2022-02-06 16:28-0800\n"
-"Last-Translator: Fumiaki Okushi <fumiaki.okushi@gmail.com>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Krita Manual 5.3\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../<rst_epilog>:2
@@ -78,16 +76,9 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/tools/magnetic_select.rst:20
 msgid ""
-"This tool, represented by a magnet over a selection border, allows you to "
-"make freeform :ref:`selections_basics`, but unlike "
-"the :ref:`polygonal_selection_tool` or the :ref:`freehand_selection_tool`, "
-"it will try to magnetically snap to sharp contrasts in your image, "
-"simplifying the creation of selection drastically."
-msgstr ""
-"磁石が上に乗った選択で表されるこのツールは、自由に :ref:`selections_basics` "
-"を作成することができます。:ref:`polygonal_selection_tool` "
-"や :ref:`freehand_selection_tool` と違い、画像のシャープなコントラストに沿っ"
-"てまるで磁石のように、選択の作成を簡単に行うことができます。"
+"This tool, represented by a magnet over a selection border, allows you to make freeform :ref:`selections_basics`, but unlike the :ref:`polygonal_selection_tool` or the "
+":ref:`freehand_selection_tool`, it will try to magnetically snap to sharp contrasts in your image, simplifying the creation of selection drastically."
+msgstr "磁石が上に乗った選択で表されるこのツールは、自由に :ref:`selections_basics` を作成することができます。:ref:`polygonal_selection_tool` や :ref:`freehand_selection_tool` と違い、画像のシャープなコントラストに沿ってまるで磁石のように、選択の作成を簡単に行うことができます。"
 
 #. +> trunk5
 #: ../../reference_manual/tools/magnetic_select.rst:22
@@ -107,16 +98,9 @@ msgstr "このアニメーションで表しているのは磁気的選択作成
 #. +> trunk5
 #: ../../reference_manual/tools/magnetic_select.rst:30
 msgid ""
-"The first is to use |mouseleft| and place points or nodes of the magnetic "
-"selection. To finalize your selection area you can do either |mouseleft| on "
-"the first created point to complete the loop and click on it again to create "
-"a selection, or press :kbd:`Enter` to end the magnetic selection or click on "
-"the :guilabel:`Complete` button present in Tool Options."
-msgstr ""
-"最初に |mouseleft| を使って磁気的選択のポイントやノードを作成します。選択する"
-"エリアを決定するには、最初に作成したポイントを |mouseleft| して完全に囲いもう"
-"一度クリックして、選択を作成するか、:kbd:`Enter` を押して磁気的選択を完成させ"
-"るかツールのオプションにある :guilabel:`完了` ボタンをクリックします。"
+"The first is to use |mouseleft| and place points or nodes of the magnetic selection. To finalize your selection area you can do either |mouseleft| on the first created point to complete the loop and"
+" click on it again to create a selection, or press :kbd:`Enter` to end the magnetic selection or click on the :guilabel:`Complete` button present in Tool Options."
+msgstr "最初に |mouseleft| を使って磁気的選択のポイントやノードを作成します。選択するエリアを決定するには、最初に作成したポイントを |mouseleft| して完全に囲いもう一度クリックして、選択を作成するか、:kbd:`Enter` を押して磁気的選択を完成させるかツールのオプションにある :guilabel:`完了` ボタンをクリックします。"
 
 #. +> trunk5
 #: ../../reference_manual/tools/magnetic_select.rst:36
@@ -125,20 +109,13 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/tools/magnetic_select.rst:36
-msgid ""
-"Animation showing the second (interactive) mode of creating a magnetic "
-"selection."
-msgstr ""
-"アニメーションは磁気的選択の二つ目のモード(インタラクティブ)を表しています。"
+msgid "Animation showing the second (interactive) mode of creating a magnetic selection."
+msgstr "アニメーションは磁気的選択の二つ目のモード(インタラクティブ)を表しています。"
 
 #. +> trunk5
 #: ../../reference_manual/tools/magnetic_select.rst:38
-msgid ""
-"The second, interactive mode, is to |mouseleft| :kbd:`+ drag` over a portion "
-"of an image."
-msgstr ""
-"二つ目の、インタラクティブモードでは、画像の上で |mouseleft| :kbd:`+ drag` し"
-"ます。"
+msgid "The second, interactive mode, is to |mouseleft| :kbd:`+ drag` over a portion of an image."
+msgstr "二つ目の、インタラクティブモードでは、画像の上で |mouseleft| :kbd:`+ drag` します。"
 
 #. +> trunk5
 #: ../../reference_manual/tools/magnetic_select.rst:44
@@ -153,27 +130,14 @@ msgstr "１つ目と２つ目のモードは混在させることができます
 #. +> trunk5
 #: ../../reference_manual/tools/magnetic_select.rst:46
 msgid ""
-"You can edit previous points by |mouseleft| dragging them. You can remove "
-"points by dragging it out of the canvas area. After a path is closed. Points "
-"can be undone with :kbd:`Shift + Z`. A halfway done magnetic selection can "
-"be canceled with :kbd:`Esc` or clicking on the :guilabel:`Discard` button in "
-"the Tool Options."
-msgstr ""
-"|mouseleft| ドラッグで前のポイントを編集する事ができます。キャンバスエリア外"
-"にドラッグすることでポイントを削除することができます。パスを閉じた"
-"後、:kbd:`Shift + Z` で取り消しができます。途中まで作成した磁気的選択"
-"は :kbd:`Esc` かツールのオプションにある :guilabel:`破棄` をクリックする事で"
-"キャンセルできます。"
+"You can edit previous points by |mouseleft| dragging them. You can remove points by dragging it out of the canvas area. After a path is closed. Points can be undone with :kbd:`Shift + Z`. A halfway "
+"done magnetic selection can be canceled with :kbd:`Esc` or clicking on the :guilabel:`Discard` button in the Tool Options."
+msgstr "|mouseleft| ドラッグで前のポイントを編集する事ができます。キャンバスエリア外にドラッグすることでポイントを削除することができます。パスを閉じた後、:kbd:`Shift + Z` で取り消しができます。途中まで作成した磁気的選択は :kbd:`Esc` かツールのオプションにある :guilabel:`破棄` をクリックする事でキャンセルできます。"
 
 #. +> trunk5
 #: ../../reference_manual/tools/magnetic_select.rst:50
-msgid ""
-"Most of the behavior of the Magnetic Selection Tool is common to all other "
-"selection tools, please make sure to read :ref:`selections_basics` to learn "
-"more about this tool."
-msgstr ""
-"磁気的選択ツールのほとんどの機能は他の選択ツールと共通ですので、詳しく"
-"は :ref:`selections_basics` をみてください。"
+msgid "Most of the behavior of the Magnetic Selection Tool is common to all other selection tools, please make sure to read :ref:`selections_basics` to learn more about this tool."
+msgstr "磁気的選択ツールのほとんどの機能は他の選択ツールと共通ですので、詳しくは :ref:`selections_basics` をみてください。"
 
 #. +> trunk5
 #: ../../reference_manual/tools/magnetic_select.rst:55
@@ -182,14 +146,8 @@ msgstr "ホットキーとスティッキーキー"
 
 #. +> trunk5
 #: ../../reference_manual/tools/magnetic_select.rst:57
-msgid ""
-":kbd:`Shift +` |mouseleft| sets the subsequent selection to 'add'. You can "
-"release the :kbd:`Shift` key while dragging, but it will still be set to "
-"'add'. Same for the others."
-msgstr ""
-":kbd:`Shift +` |mouseleft| で次される選択を'追加'します。ドラッグしている間"
-"に :kbd:`Shift` キーを離しても'追加'に設定されたままになります。他も同様で"
-"す。"
+msgid ":kbd:`Shift +` |mouseleft| sets the subsequent selection to 'add'. You can release the :kbd:`Shift` key while dragging, but it will still be set to 'add'. Same for the others."
+msgstr ":kbd:`Shift +` |mouseleft| で次される選択を'追加'します。ドラッグしている間に :kbd:`Shift` キーを離しても'追加'に設定されたままになります。他も同様です。"
 
 #. +> trunk5
 #: ../../reference_manual/tools/magnetic_select.rst:58
@@ -203,51 +161,31 @@ msgstr ":kbd:`Ctrl +` |mouseleft| で次される選択に'置換'します。"
 
 #. +> trunk5
 #: ../../reference_manual/tools/magnetic_select.rst:60
-msgid ""
-":kbd:`Shift + Alt +` |mouseleft| sets the subsequent selection to "
-"'intersect'."
-msgstr ""
-":kbd:`Shift + Alt +` |mouseleft| で次される選択との'積集合'をとります。"
+msgid ":kbd:`Shift + Alt +` |mouseleft| sets the subsequent selection to 'intersect'."
+msgstr ":kbd:`Shift + Alt +` |mouseleft| で次される選択との'積集合'をとります。"
 
 #. +> trunk5
 #: ../../reference_manual/tools/magnetic_select.rst:64
 msgid ""
-"Hovering your cursor over the dashed line of the selection, or marching ants "
-"as it is commonly called, turns the cursor into the move tool icon, which "
-"you |mouseleft| and drag to move the selection."
-msgstr ""
-"選択の破線にマウスホバーすることでカーソルが移動ツールアイコンに変わり、|"
-"mouseleft| で選択を移動する事ができます。"
+"Hovering your cursor over the dashed line of the selection, or marching ants as it is commonly called, turns the cursor into the move tool icon, which you |mouseleft| and drag to move the selection."
+msgstr "選択の破線にマウスホバーすることでカーソルが移動ツールアイコンに変わり、|mouseleft| で選択を移動する事ができます。"
 
 #. +> trunk5
 #: ../../reference_manual/tools/magnetic_select.rst:65
-msgid ""
-"|mouseright| will open up a selection quick menu with amongst others the "
-"ability to edit the selection."
-msgstr ""
-"|mouseright| で他の選択編集ツールのある選択クイックメニューが開きます。"
+msgid "|mouseright| will open up a selection quick menu with amongst others the ability to edit the selection."
+msgstr "|mouseright| で他の選択編集ツールのある選択クイックメニューが開きます。"
 
 #. +> trunk5
 #: ../../reference_manual/tools/magnetic_select.rst:73
-msgid ""
-"You can switch the behavior of the :kbd:`Alt` key to use :kbd:`Ctrl` instead "
-"by toggling the switch in Tool Settings in the :ref:`general_settings`."
-msgstr ""
-":ref:`general_settings` にあるツールの設定から :kbd:`Alt` キーと :kbd:`Ctrl` "
-"キーの振る舞いを入れ替えることができます。"
+msgid "You can switch the behavior of the :kbd:`Alt` key to use :kbd:`Ctrl` instead by toggling the switch in Tool Settings in the :ref:`general_settings`."
+msgstr ":ref:`general_settings` にあるツールの設定から :kbd:`Alt` キーと :kbd:`Ctrl` キーの振る舞いを入れ替えることができます。"
 
 #. +> trunk5
 #: ../../reference_manual/tools/magnetic_select.rst:77
 msgid ""
-"This tool is not bound to any Hotkey, if you want to define one, go "
-"to :menuselection:`Settings --> Configure Krita --> Keyboard Shortcuts` and "
-"search for 'Magnetic Selection Tool', there you can select the shortcut you "
-"want. Check :ref:`shortcut_settings` for more info."
-msgstr ""
-"このツールはどのホットキーにも割り当てられていませんので定義したい場合"
-"は、:menuselection:`設定 --> Krita の設定を変更 --> キーボードショートカット"
-"` に行き、'磁気的選択ツール'からショートカットを選択できます。詳しく"
-"は :ref:`shortcut_settings` を見てください。"
+"This tool is not bound to any Hotkey, if you want to define one, go to :menuselection:`Settings --> Configure Krita --> Keyboard Shortcuts` and search for 'Magnetic Selection Tool', there you can "
+"select the shortcut you want. Check :ref:`shortcut_settings` for more info."
+msgstr "このツールはどのホットキーにも割り当てられていませんので定義したい場合は、:menuselection:`設定 --> Krita の設定を変更 --> キーボードショートカット` に行き、'磁気的選択ツール'からショートカットを選択できます。詳しくは :ref:`shortcut_settings` を見てください。"
 
 #. +> trunk5
 #: ../../reference_manual/tools/magnetic_select.rst:81
@@ -260,11 +198,9 @@ msgid "Mode"
 msgstr "モード"
 
 #. +> trunk5
-#: ../../reference_manual/tools/magnetic_select.rst:84
-#: ../../reference_manual/tools/magnetic_select.rst:86
+#: ../../reference_manual/tools/magnetic_select.rst:84 ../../reference_manual/tools/magnetic_select.rst:86
 msgid "This option is explained in the :ref:`pixel_vector_selection` section."
-msgstr ""
-"このオプションについては :ref:`pixel_vector_selection` で説明しています。"
+msgstr "このオプションについては :ref:`pixel_vector_selection` で説明しています。"
 
 #. +> trunk5
 #: ../../reference_manual/tools/magnetic_select.rst:85
@@ -278,12 +214,8 @@ msgstr "アンチエイリアス"
 
 #. +> trunk5
 #: ../../reference_manual/tools/magnetic_select.rst:88
-msgid ""
-"This toggles whether or not to give selections feathered edges. Some people "
-"prefer hard-jagged edges for their selections."
-msgstr ""
-"選択のふちを柔らかくすることができます。ジャギーのある硬いふちを好む人もいま"
-"す。"
+msgid "This toggles whether or not to give selections feathered edges. Some people prefer hard-jagged edges for their selections."
+msgstr "選択のふちを柔らかくすることができます。ジャギーのある硬いふちを好む人もいます。"
 
 #. +> trunk5
 #: ../../reference_manual/tools/magnetic_select.rst:89
@@ -293,14 +225,9 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/tools/magnetic_select.rst:90
 msgid ""
-"Determine the radius of the edge detection kernel. This determines how "
-"aggressively the tool will interpret contrasts. Low values mean only the "
-"sharpest of contrast will be a seen as an edge. High values will pick up on "
-"subtle contrasts. The range of which is from 2.5 to 100."
-msgstr ""
-"エッジ検出の半径を決めます。これでツールがコントラストをどれだけ激しく解釈す"
-"るかが決まります。低い値はシャープなコントラストのみを縁としてみなし、高い値"
-"はわずかなコントラストも拾います。値域は 2.5 から 100 です。"
+"Determine the radius of the edge detection kernel. This determines how aggressively the tool will interpret contrasts. Low values mean only the sharpest of contrast will be a seen as an edge. High "
+"values will pick up on subtle contrasts. The range of which is from 2.5 to 100."
+msgstr "エッジ検出の半径を決めます。これでツールがコントラストをどれだけ激しく解釈するかが決まります。低い値はシャープなコントラストのみを縁としてみなし、高い値はわずかなコントラストも拾います。値域は 2.5 から 100 です。"
 
 #. +> trunk5
 #: ../../reference_manual/tools/magnetic_select.rst:91
@@ -309,12 +236,8 @@ msgstr "しきい値:"
 
 #. +> trunk5
 #: ../../reference_manual/tools/magnetic_select.rst:92
-msgid ""
-"From 0 to 255, how sharp your edge is, 0 is least while 255 is the most. "
-"Used in the interactive mode only."
-msgstr ""
-"0から255でどれだけ縁をシャープにするか決めます。0が最小で255が最も高くなりま"
-"す。インタラクティブモードでのみ使用します。"
+msgid "From 0 to 255, how sharp your edge is, 0 is least while 255 is the most. Used in the interactive mode only."
+msgstr "0から255でどれだけ縁をシャープにするか決めます。0が最小で255が最も高くなります。インタラクティブモードでのみ使用します。"
 
 #. +> trunk5
 #: ../../reference_manual/tools/magnetic_select.rst:93
@@ -324,27 +247,16 @@ msgstr "探索半径:"
 #. +> trunk5
 #: ../../reference_manual/tools/magnetic_select.rst:94
 msgid ""
-"The area in which the tool will search for a sharp contrast within an image. "
-"More pixels means less precision is needed when placing the points, but this "
-"will require Krita to do more work, and thus slows down the tool."
-msgstr ""
-"シャープなコントラストをツールが画像内で探す範囲です。ピクセルを多く選択すれ"
-"ばポイントを置く際にそれほどの精度を必要としませんが、代わりに Krita がより多"
-"くの処理を行うことになり、結果的にツールが遅くなります。"
+"The area in which the tool will search for a sharp contrast within an image. More pixels means less precision is needed when placing the points, but this will require Krita to do more work, and thus"
+" slows down the tool."
+msgstr "シャープなコントラストをツールが画像内で探す範囲です。ピクセルを多く選択すればポイントを置く際にそれほどの精度を必要としませんが、代わりに Krita がより多くの処理を行うことになり、結果的にツールが遅くなります。"
 
 #. +> trunk5
 #: ../../reference_manual/tools/magnetic_select.rst:96
 msgid ""
-"When using |mouseleft| :kbd:`+ drag` to place points automatically, this "
-"value determines the average gap between 2 anchors. Low values give high "
-"precision by placing many nodes, but this is also harder to edit afterwards. "
-"The pixels are in screen dimensions and not image dimensions, meaning it is "
-"affected by zoom."
-msgstr ""
-"|mouseleft| :kbd:`+ drag` を使って自動的にポイントを置くとき、この値が2つのア"
-"ンカー間の平均になります。低い値は高精度で多くのノードを置きますが、後の編集"
-"が大変になります。画像の解像度ではなく画面の解像度でピクセルを決めるので、"
-"ズームの影響を受けます。"
+"When using |mouseleft| :kbd:`+ drag` to place points automatically, this value determines the average gap between 2 anchors. Low values give high precision by placing many nodes, but this is also "
+"harder to edit afterwards. The pixels are in screen dimensions and not image dimensions, meaning it is affected by zoom."
+msgstr "|mouseleft| :kbd:`+ drag` を使って自動的にポイントを置くとき、この値が2つのアンカー間の平均になります。低い値は高精度で多くのノードを置きますが、後の編集が大変になります。画像の解像度ではなく画面の解像度でピクセルを決めるので、ズームの影響を受けます。"
 
 #. +> trunk5
 #: ../../reference_manual/tools/magnetic_select.rst:102
@@ -362,19 +274,18 @@ msgid "Anti-aliasing is only available on Pixel Selection Mode."
 msgstr "アンチエイリアスはピクセル選択モードでのみ利用できます。"
 
 #. +> trunk5
-#: ../../reference_manual/tools/magnetic_select.rst:-1
+#: ../../reference_manual/tools/magnetic_select.rst:-1:
 msgid "Krita's Magnetic Selection tool reference."
 msgstr "Krita 磁気的選択ツールの説明。"
 
 #. +> trunk5
-#: ../../reference_manual/tools/magnetic_select.rst:-1
+#: ../../reference_manual/tools/magnetic_select.rst:-1:
 #, fuzzy
-#| msgid "Magnetic Selection"
 msgid "Menu of magnetic selection"
 msgstr "磁気的選択"
 
 #. +> trunk5
-#: ../../reference_manual/tools/magnetic_select.rst:-1
+#: ../../reference_manual/tools/magnetic_select.rst:-1:
 msgid ".. image:: /images/tools/selections-right-click-menu.png"
 msgstr ""
 

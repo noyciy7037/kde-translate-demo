@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the GNU Free Documentation License 1.3+ unless stated otherwise
+# This file is distributed under the same license as the Krita Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Krita Manual 4.2\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-25 09:27+0100\n"
-"PO-Revision-Date: 2019-05-04 11:06-0700\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Krita Manual 5.3\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../reference_manual/hdr_display.rst:10
@@ -42,17 +41,10 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/hdr_display.rst:23
 msgid ""
-"Since 4.2 Krita can not just edit high bitdepths images, but also render "
-"them on screen in a way that an HDR capable setup can show them as HDR "
-"images. HDR images, to put it simply, are images with really bright colors. "
-"They do this by having a very large range of colors available, 16 bit and "
-"higher, and to understand the upper range of the available colors as "
-"brighter than the brightest white most screens can show. HDR screens, in "
-"turn, are screens which can show brighter colors than most screens can show, "
-"and can thus show the super-bright colors in these HDR images. This allows "
-"for images where bright things, like fire, sunsets, magic, look really "
-"spectacular! It also shows more subtle shadows and has a better contrast in "
-"lower color values, but this requires a sharper eye."
+"Since 4.2 Krita can not just edit high bitdepths images, but also render them on screen in a way that an HDR capable setup can show them as HDR images. HDR images, to put it simply, are images with "
+"really bright colors. They do this by having a very large range of colors available, 16 bit and higher, and to understand the upper range of the available colors as brighter than the brightest white"
+" most screens can show. HDR screens, in turn, are screens which can show brighter colors than most screens can show, and can thus show the super-bright colors in these HDR images. This allows for "
+"images where bright things, like fire, sunsets, magic, look really spectacular! It also shows more subtle shadows and has a better contrast in lower color values, but this requires a sharper eye."
 msgstr ""
 
 #. +> trunk5
@@ -63,20 +55,14 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/hdr_display.rst:28
 msgid ""
-"Krita cannot show HDR with any given monitor, you will need an HDR capable "
-"setup. HDR capable setups are screens which can show more than 100 nits, "
-"preferably a value like 1000 and can show the rec 2020 PQ space. You will "
-"need to have the appropriate display cable(otherwise the values are just "
-"turned into regular SDR) and a graphics card which supports HDR, as well as "
-"suitable drivers. You then also need to configure the system settings for "
-"HDR."
+"Krita cannot show HDR with any given monitor, you will need an HDR capable setup. HDR capable setups are screens which can show more than 100 nits, preferably a value like 1000 and can show the rec "
+"2020 PQ space. You will need to have the appropriate display cable(otherwise the values are just turned into regular SDR) and a graphics card which supports HDR, as well as suitable drivers. You "
+"then also need to configure the system settings for HDR."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/hdr_display.rst:30
-msgid ""
-"If you can confirm that the system understands your setup as an HDR setup, "
-"you can continue your configuration in Krita."
+msgid "If you can confirm that the system understands your setup as an HDR setup, you can continue your configuration in Krita."
 msgstr ""
 
 #. +> trunk5
@@ -87,11 +73,8 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/hdr_display.rst:37
 msgid ""
-"On Windows platform there is :ref:`a special page for HDR "
-"configuration<hdr_display_settings>` in :menuselection:`Settings --> "
-"Configure Krita... --> Display`. There, you need to select the preferred "
-"surface, which should be as close to the display format as possible. Then "
-"restart Krita."
+"On Windows platform there is :ref:`a special page for HDR configuration<hdr_display_settings>` in :menuselection:`Settings --> Configure Krita... --> Display`. There, you need to select the "
+"preferred surface, which should be as close to the display format as possible. Then restart Krita."
 msgstr ""
 
 #. +> trunk5
@@ -102,11 +85,8 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/hdr_display.rst:44
 msgid ""
-"On Linux you can just select :guilabel:`Rec 2020 PQ` for the canvas surface "
-"color space in :ref:`color management settings for "
-"Wayland<color_management_settings_wayland>` in :menuselection:`Settings --> "
-"Configure Krita... --> Color Management --> Display`. It will instantly "
-"enable HDR support in Krita, no restart is necessary."
+"On Linux you can just select :guilabel:`Rec 2020 PQ` for the canvas surface color space in :ref:`color management settings for Wayland<color_management_settings_wayland>` in :menuselection:`Settings"
+" --> Configure Krita... --> Color Management --> Display`. It will instantly enable HDR support in Krita, no restart is necessary."
 msgstr ""
 
 #. +> trunk5
@@ -116,26 +96,17 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/hdr_display.rst:49
-msgid ""
-"To create a proper HDR image, you will need to make a canvas using a profile "
-"with rec 2020 gamut and a linear TRC. :guilabel:`Rec2020-elle-V4-g10.icc` is "
-"the one we ship by default."
+msgid "To create a proper HDR image, you will need to make a canvas using a profile with rec 2020 gamut and a linear TRC. :guilabel:`Rec2020-elle-V4-g10.icc` is the one we ship by default."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/hdr_display.rst:51
-msgid ""
-"HDR images are standardized to use the Rec2020 gamut, and the PQ TRC. "
-"However, a linear TRC is easier to edit images in, so we don't convert to PQ "
-"until we're satisfied with our image."
+msgid "HDR images are standardized to use the Rec2020 gamut, and the PQ TRC. However, a linear TRC is easier to edit images in, so we don't convert to PQ until we're satisfied with our image."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/hdr_display.rst:53
-msgid ""
-"For painting in this new exciting color space, check "
-"the :ref:`scene_linear_painting` page, which covers things like selecting "
-"colors, gotchas, which filters work and cool workflows."
+msgid "For painting in this new exciting color space, check the :ref:`scene_linear_painting` page, which covers things like selecting colors, gotchas, which filters work and cool workflows."
 msgstr ""
 
 #. +> trunk5
@@ -150,25 +121,19 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/hdr_display.rst:60
-msgid ""
-"The KRA file format can save the floating point image just fine, and is thus "
-"a good working file format."
+msgid "The KRA file format can save the floating point image just fine, and is thus a good working file format."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/hdr_display.rst:62
 msgid ""
-"For sharing with other image editors, :ref:`file_exr` is recommended. For "
-"sharing with the web we currently only have :ref:`HDR PNG export "
-"<file_png>`, but there's currently very little support for this standard. In "
-"the future we hope to see heif and avif support."
+"For sharing with other image editors, :ref:`file_exr` is recommended. For sharing with the web we currently only have :ref:`HDR PNG export <file_png>`, but there's currently very little support for "
+"this standard. In the future we hope to see heif and avif support."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/hdr_display.rst:64
-msgid ""
-"For exporting HDR animations, we support saving HDR to the new codec for mp4 "
-"and mkv: H.265. To use these options..."
+msgid "For exporting HDR animations, we support saving HDR to the new codec for mp4 and mkv: H.265. To use these options..."
 msgstr ""
 
 #. +> trunk5
@@ -218,9 +183,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/hdr_display.rst:75
-msgid ""
-"click :guilabel:`HDR Metadata` to configure the HDR metadata (options "
-"described below)."
+msgid "click :guilabel:`HDR Metadata` to configure the HDR metadata (options described below)."
 msgstr ""
 
 #. +> trunk5
@@ -236,9 +199,8 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/hdr_display.rst:81
 msgid ""
-"This is in the render animation screen. It configures the SMPTE ST.2086 or "
-"Master Display Color Volumes metadata and is required for the HDR video to "
-"be transferred properly to the screen by video players and the cable."
+"This is in the render animation screen. It configures the SMPTE ST.2086 or Master Display Color Volumes metadata and is required for the HDR video to be transferred properly to the screen by video "
+"players and the cable."
 msgstr ""
 
 #. +> trunk5
@@ -249,18 +211,15 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/hdr_display.rst:84
 msgid ""
-"The colorspace characteristics of the display on for which your image was "
-"made, typically also the display that you used to paint the image with. "
-"There are two default values for common display color spaces, and a custom "
-"value, which will enable the :guilabel:`Display` options."
+"The colorspace characteristics of the display on for which your image was made, typically also the display that you used to paint the image with. There are two default values for common display "
+"color spaces, and a custom value, which will enable the :guilabel:`Display` options."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/hdr_display.rst:86
 msgid ""
-"The precise colorspace characteristics for the display for which your image "
-"was made. If you do not have custom selected for :guilabel:`Master Display`, "
-"these are disabled as we can use predetermined values."
+"The precise colorspace characteristics for the display for which your image was made. If you do not have custom selected for :guilabel:`Master Display`, these are disabled as we can use "
+"predetermined values."
 msgstr ""
 
 #. +> trunk5
@@ -270,9 +229,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/hdr_display.rst:89
-msgid ""
-"The xyY x and xyY y value of the three chromacities of your screen. These "
-"define the gamut."
+msgid "The xyY x and xyY y value of the three chromacities of your screen. These define the gamut."
 msgstr ""
 
 #. +> trunk5
@@ -282,9 +239,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/hdr_display.rst:91
-msgid ""
-"The xyY x and xyY y value of the white point of your screen, this defines "
-"what is considered 'neutral grey'."
+msgid "The xyY x and xyY y value of the white point of your screen, this defines what is considered 'neutral grey'."
 msgstr ""
 
 #. +> trunk5
@@ -333,6 +288,6 @@ msgid "MaxFALL"
 msgstr ""
 
 #. +> trunk5
-#: ../../reference_manual/hdr_display.rst:-1
+#: ../../reference_manual/hdr_display.rst:-1:
 msgid "How to configure Krita for HDR displays."
 msgstr ""

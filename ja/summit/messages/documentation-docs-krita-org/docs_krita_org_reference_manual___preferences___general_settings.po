@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the GNU Free Documentation License 1.3+ unless stated otherwise
+# This file is distributed under the same license as the Krita Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Krita Manual 4.1\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-25 09:27+0100\n"
-"PO-Revision-Date: 2019-03-02 16:12-0800\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Krita Manual 5.3\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../<rst_epilog>:8
@@ -86,9 +85,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:19
-msgid ""
-"You can access the General Category of the preferences by first going "
-"to :menuselection:`Settings --> Configure Krita...` menu item."
+msgid "You can access the General Category of the preferences by first going to :menuselection:`Settings --> Configure Krita...` menu item."
 msgstr ""
 
 #. +> trunk5
@@ -114,9 +111,8 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:31
 msgid ""
-"Select a cursor shape to use while the brush tools are used. This cursor "
-"will always be visible on the canvas. It is usually set to a type exactly "
-"where your pen nib is at. The available cursor types are shown below."
+"Select a cursor shape to use while the brush tools are used. This cursor will always be visible on the canvas. It is usually set to a type exactly where your pen nib is at. The available cursor "
+"types are shown below."
 msgstr ""
 
 #. +> trunk5
@@ -217,9 +213,8 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:82
 msgid ""
-"Select an outline shape to use while the brush tools are used. This cursor "
-"shape will optionally show in the middle of a painting stroke as well. The "
-"available outline shape types are shown below. (pictures will come soon)"
+"Select an outline shape to use while the brush tools are used. This cursor shape will optionally show in the middle of a painting stroke as well. The available outline shape types are shown below. "
+"(pictures will come soon)"
 msgstr ""
 
 #. +> trunk5
@@ -270,10 +265,8 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:99
 msgid ""
-"This option when selected will show the brush outline while a stroke is "
-"being made. If unchecked the brush outline will not appear during stroke "
-"making, it will show up only after the brush stroke is finished. This option "
-"works only when Brush Outline is selected as the Cursor Shape."
+"This option when selected will show the brush outline while a stroke is being made. If unchecked the brush outline will not appear during stroke making, it will show up only after the brush stroke "
+"is finished. This option works only when Brush Outline is selected as the Cursor Shape."
 msgstr ""
 
 #. +> trunk5
@@ -294,9 +287,8 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:106
 msgid ""
-"This makes sure that the outline size will always be the maximum possible "
-"brush diameter, and not the current one as affected by sensors such as "
-"pressure. This makes the cursor a little less noisy to use."
+"This makes sure that the outline size will always be the maximum possible brush diameter, and not the current one as affected by sensors such as pressure. This makes the cursor a little less noisy "
+"to use."
 msgstr ""
 
 #. +> trunk5
@@ -307,10 +299,8 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:109
 msgid ""
-"The default cursor color. This is mixed with the canvas image so that it "
-"will usually have a contrasting color, but sometimes this mixing does not "
-"work. This is usually due driver problems. When that happens, you can "
-"configure a more pleasant color here."
+"The default cursor color. This is mixed with the canvas image so that it will usually have a contrasting color, but sometimes this mixing does not work. This is usually due driver problems. When "
+"that happens, you can configure a more pleasant color here."
 msgstr ""
 
 #. +> trunk5
@@ -321,10 +311,8 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:114
 msgid ""
-"This allows you to configure all of the above, but then when the blending "
-"mode is set to erase, which is the default on eraser presets as well when "
-"toggling erase with :kbd:`E`. The settings are mostly identical except of "
-"the additional eraser tool icon."
+"This allows you to configure all of the above, but then when the blending mode is set to erase, which is the default on eraser presets as well when toggling erase with :kbd:`E`. The settings are "
+"mostly identical except of the additional eraser tool icon."
 msgstr ""
 
 #. +> trunk5
@@ -339,9 +327,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:122
-msgid ""
-"This can be either tabbed like :program:`GIMP` or :program:`Paint Tool SAI`, "
-"or sub windows, like :program:`Photoshop`."
+msgid "This can be either tabbed like :program:`GIMP` or :program:`Paint Tool SAI`, or sub windows, like :program:`Photoshop`."
 msgstr ""
 
 #. +> trunk5
@@ -351,19 +337,14 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:124
-msgid ""
-"Whether you want to see the on-canvas pop-up messages that tell you whether "
-"you are in tabbed mode, rotating the canvas, or mirroring it."
+msgid "Whether you want to see the on-canvas pop-up messages that tell you whether you are in tabbed mode, rotating the canvas, or mirroring it."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:126
 msgid ""
-"This determines how much margin in pixels will be added when "
-"using :guilabel:`Fit Page`. This is particularly useful for large monitors, "
-"where the total canvas area might be larger than the center of your field of "
-"vision. Using a margin can then center the image inside the canvas area more "
-"comfortably."
+"This determines how much margin in pixels will be added when using :guilabel:`Fit Page`. This is particularly useful for large monitors, where the total canvas area might be larger than the center "
+"of your field of vision. Using a margin can then center the image inside the canvas area more comfortably."
 msgstr ""
 
 #. +> trunk5
@@ -403,9 +384,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:136
-msgid ""
-"This gives an outline when moving windows to work around ugly glitches with "
-"certain graphics-cards."
+msgid "This gives an outline when moving windows to work around ugly glitches with certain graphics-cards."
 msgstr ""
 
 #. +> trunk5
@@ -415,24 +394,19 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:138
-msgid ""
-"This allows you to tweak the interface font and the size. Requires a restart."
+msgid "This allows you to tweak the interface font and the size. Requires a restart."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:140
-msgid ""
-"Attempt to use the Hi-DPI support. It is an option because we are still "
-"experiencing bugs on Windows."
+msgid "Attempt to use the Hi-DPI support. It is an option because we are still experiencing bugs on Windows."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:143
 msgid ""
-"Allow the Hi-DPI support to use fractional (not multiples of 100%) display "
-"scaling. If you use a fractional display scaling, this option can make the "
-"interface of Krita match the interface size of the rest of your system, but "
-"it may cause some visual artifacts."
+"Allow the Hi-DPI support to use fractional (not multiples of 100%) display scaling. If you use a fractional display scaling, this option can make the interface of Krita match the interface size of "
+"the rest of your system, but it may cause some visual artifacts."
 msgstr ""
 
 #. +> trunk5
@@ -448,12 +422,8 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:148
 msgid ""
-"An instance is a single entry in your system's task manager. Turning this "
-"option makes sure that Krita will check if there's an instance of Krita open "
-"already when you instruct it to open new documents, and then have your "
-"documents opened in that single instance. There's some obscure uses to "
-"allowing multiple instances, but if you can't think of any, just keep this "
-"option on."
+"An instance is a single entry in your system's task manager. Turning this option makes sure that Krita will check if there's an instance of Krita open already when you instruct it to open new "
+"documents, and then have your documents opened in that single instance. There's some obscure uses to allowing multiple instances, but if you can't think of any, just keep this option on."
 msgstr ""
 
 #. +> trunk5
@@ -463,9 +433,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:152
-msgid ""
-"Since Krita 5.0 this has been deprecated, as it now uses a SQLite database "
-"for handling the resources, and this cannot be managed by multiple instances."
+msgid "Since Krita 5.0 this has been deprecated, as it now uses a SQLite database for handling the resources, and this cannot be managed by multiple instances."
 msgstr ""
 
 #. +> trunk5
@@ -495,9 +463,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:163
-msgid ""
-"Gives you the tool options in the toolbar, next to the brush settings. You "
-"can open it with the :kbd:`\\\\` key."
+msgid "Gives you the tool options in the toolbar, next to the brush settings. You can open it with the :kbd:`\\\\` key."
 msgstr ""
 
 #. +> trunk5
@@ -507,10 +473,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:165
-msgid ""
-"In Krita 4.2 the behavior of flow in combination with opacity was changed. "
-"This allows you to turn it back to the 4.1 behavior. This will however be "
-"removed in future versions."
+msgid "In Krita 4.2 the behavior of flow in combination with opacity was changed. This allows you to turn it back to the 4.1 behavior. This will however be removed in future versions."
 msgstr ""
 
 #. +> trunk5
@@ -526,18 +489,15 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:170
 msgid ""
-"Channels are inverted before the blending mode is applied. This will result "
-"in most blending modes having a similar effect to the same blending modes in "
-"RGB. This is useful when you are doing interchange using PSD files."
+"Channels are inverted before the blending mode is applied. This will result in most blending modes having a similar effect to the same blending modes in RGB. This is useful when you are doing "
+"interchange using PSD files."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:172
 msgid ""
-"Channels are not inverted before the blending mode is applied, which means "
-"that for example, the multiply mode, which decreases pixel values, will in "
-"RGB look like it makes things darker, while in this additive CMYK mode it "
-"will make things lighter."
+"Channels are not inverted before the blending mode is applied, which means that for example, the multiply mode, which decreases pixel values, will in RGB look like it makes things darker, while in "
+"this additive CMYK mode it will make things lighter."
 msgstr ""
 
 #. +> trunk5
@@ -558,19 +518,15 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:178
 msgid ""
-"This switches the function of the :kbd:`Ctrl` and :kbd:`Alt` keys when "
-"modifying selections. Useful for those used to Gimp instead of Photoshop, or "
-"Lefties without a right :kbd:`Alt` key on their keyboard."
+"This switches the function of the :kbd:`Ctrl` and :kbd:`Alt` keys when modifying selections. Useful for those used to Gimp instead of Photoshop, or Lefties without a right :kbd:`Alt` key on their "
+"keyboard."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:181
 msgid ""
-"Toggles whether to allow painting by touching on a capacitive "
-"screen. :guilabel:`Enabled` will let you draw via touch "
-"and :guilabel:`Disabled` will let you pan the canvas "
-"instead. :guilabel:`Auto` (the default) will automatically detect whether "
-"you have a stylus available and enable or disable touch painting accordingly."
+"Toggles whether to allow painting by touching on a capacitive screen. :guilabel:`Enabled` will let you draw via touch and :guilabel:`Disabled` will let you pan the canvas instead. :guilabel:`Auto` "
+"(the default) will automatically detect whether you have a stylus available and enable or disable touch painting accordingly."
 msgstr ""
 
 #. +> trunk5
@@ -585,10 +541,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:189
-msgid ""
-"When this is disabled, panning the canvas can be done with by dragging a "
-"single finger over the canvas, while when enabled, panning will only be done "
-"by dragging three fingers."
+msgid "When this is disabled, panning the canvas can be done with by dragging a single finger over the canvas, while when enabled, panning will only be done by dragging three fingers."
 msgstr ""
 
 #. +> trunk5
@@ -598,16 +551,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:192
-msgid ""
-"A convenience feature. When enabling this, the transform tool will activate "
-"after pasting for quick moving or rotating."
+msgid "A convenience feature. When enabling this, the transform tool will activate after pasting for quick moving or rotating."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:195
-msgid ""
-"Without this, gestures on the canvas only allow zoom and pan, with this "
-"turned on, the two-finger gesture also allows to rotate."
+msgid "Without this, gestures on the canvas only allow zoom and pan, with this turned on, the two-finger gesture also allows to rotate."
 msgstr ""
 
 #. +> trunk5
@@ -617,16 +566,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:199
-msgid ""
-"Since Krita 5.1, this is removed. Instead it's now possible to configure the "
-"navigation gestures inside the :ref:`canvas_input_settings`."
+msgid "Since Krita 5.1, this is removed. Instead it's now possible to configure the navigation gestures inside the :ref:`canvas_input_settings`."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:202
-msgid ""
-"When using |mousescroll|, zooming switches between predefined zoom levels. "
-"Turning this on switches that to be a smooth increment."
+msgid "When using |mousescroll|, zooming switches between predefined zoom levels. Turning this on switches that to be a smooth increment."
 msgstr ""
 
 #. +> trunk5
@@ -636,9 +581,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:206
-msgid ""
-"This got replaced with the :guilabel:`Zoom Steps between powers of Two` "
-"option."
+msgid "This got replaced with the :guilabel:`Zoom Steps between powers of Two` option."
 msgstr ""
 
 #. +> trunk5
@@ -649,10 +592,8 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:209
 msgid ""
-"How many zoom steps there are between values that are powers of 2 (For "
-"example, 2^-1 is 50%, 2^-2 is 25%, 2^2 is 400%). With this, you can decide "
-"how many steps steps go inbetween those. The higher the value, the smoother "
-"the zoom with a |mousescroll|."
+"How many zoom steps there are between values that are powers of 2 (For example, 2^-1 is 50%, 2^-2 is 25%, 2^2 is 400%). With this, you can decide how many steps steps go inbetween those. The higher "
+"the value, the smoother the zoom with a |mousescroll|."
 msgstr ""
 
 #. +> trunk5
@@ -663,9 +604,8 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:217
 msgid ""
-"Kinetic scrolling on the brush chooser drop-down with activation mode set "
-"to :guilabel:`On Click Drag`, with this disabled all of these clicks would "
-"lead to a brush being selected regardless of drag motion."
+"Kinetic scrolling on the brush chooser drop-down with activation mode set to :guilabel:`On Click Drag`, with this disabled all of these clicks would lead to a brush being selected regardless of drag"
+" motion."
 msgstr ""
 
 #. +> trunk5
@@ -715,9 +655,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:230
-msgid ""
-"How quickly the feature activates, this effective determines the length of "
-"the drag."
+msgid "How quickly the feature activates, this effective determines the length of the drag."
 msgstr ""
 
 #. +> trunk5
@@ -758,10 +696,8 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:244
 msgid ""
-"Here the user can specify how often Krita should autosave the file, you can "
-"tick the checkbox to turn it off. For Windows these files are saved in the "
-"``%TEMP%`` directory. If you are on Linux it is stored in :file:`/"
-"home/'username'`."
+"Here the user can specify how often Krita should autosave the file, you can tick the checkbox to turn it off. For Windows these files are saved in the ``%TEMP%`` directory. If you are on Linux it is"
+" stored in :file:`/home/'username'`."
 msgstr ""
 
 #. +> trunk5
@@ -771,10 +707,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:246
-msgid ""
-"This determines whether the filename of autosaves has a period prepended to "
-"the name. On Linux and macOS this is a technique to ensure the file is "
-"hidden by default."
+msgid "This determines whether the filename of autosaves has a period prepended to the name. On Linux and macOS this is a technique to ensure the file is hidden by default."
 msgstr ""
 
 #. +> trunk5
@@ -785,10 +718,8 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:248
 msgid ""
-"When selected Krita will, upon save, rename the original file as a backup "
-"file and save the current image to the original name. The result is that you "
-"will have saved the image, and there will be a copy of the image that is "
-"saved separately as a backup. This is useful in case of crashes during saves."
+"When selected Krita will, upon save, rename the original file as a backup file and save the current image to the original name. The result is that you will have saved the image, and there will be a "
+"copy of the image that is saved separately as a backup. This is useful in case of crashes during saves."
 msgstr ""
 
 #. +> trunk5
@@ -814,9 +745,7 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:255
 msgid ""
-"This is the main folder of your computer. On Linux and macOS this is the "
-"'Home' folder, on Windows, the :file:`c:\\Users\\YOUR_USER_NAME` folder "
-"(where ``YOUR_USER_NAME`` is your windows username)."
+"This is the main folder of your computer. On Linux and macOS this is the 'Home' folder, on Windows, the :file:`c:\\Users\\YOUR_USER_NAME` folder (where ``YOUR_USER_NAME`` is your windows username)."
 msgstr ""
 
 #. +> trunk5
@@ -832,11 +761,8 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:257
 msgid ""
-"This stored the file in the temp folder. Temp folders are special folders of "
-"which the contents are emptied when you shut down your computer. If you "
-"don't particularly care about your backup files and want them to be "
-"'cleaned' automatically, this is the best place. If you want your backup "
-"files to be kept indefinitely, this is a wrong choice."
+"This stored the file in the temp folder. Temp folders are special folders of which the contents are emptied when you shut down your computer. If you don't particularly care about your backup files "
+"and want them to be 'cleaned' automatically, this is the best place. If you want your backup files to be kept indefinitely, this is a wrong choice."
 msgstr ""
 
 #. +> trunk5
@@ -846,10 +772,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:260
-msgid ""
-"The suffix that will be placed after the full filename. ``filename.kra`` "
-"will then be saved as ``filename.kra~``, ensuring the files won't show up in "
-"Krita's open file dialog."
+msgid "The suffix that will be placed after the full filename. ``filename.kra`` will then be saved as ``filename.kra~``, ensuring the files won't show up in Krita's open file dialog."
 msgstr ""
 
 #. +> trunk5
@@ -859,9 +782,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:262
-msgid ""
-"Number of backup files Krita keeps, by default this is only one, but this "
-"can be up to 99. Krita will then number the backup files."
+msgid "Number of backup files Krita keeps, by default this is only one, but this can be up to 99. Krita will then number the backup files."
 msgstr ""
 
 #. +> trunk5
@@ -871,9 +792,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:264
-msgid ""
-"This increases the ZIP compression on the saved Krita files, which makes "
-"them lighter on disk, but this takes longer to load."
+msgid "This increases the ZIP compression on the saved Krita files, which makes them lighter on disk, but this takes longer to load."
 msgstr ""
 
 #. +> trunk5
@@ -884,9 +803,7 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:266
 msgid ""
-"KRA files are ZIP files. Zip64 allows you to make really large image files "
-"(which is useful for animation), however, not all ZIP file programs can read "
-"Zip64, including older versions of Krita."
+"KRA files are ZIP files. Zip64 allows you to make really large image files (which is useful for animation), however, not all ZIP file programs can read Zip64, including older versions of Krita."
 msgstr ""
 
 #. +> trunk5
@@ -897,9 +814,8 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:268
 msgid ""
-"Normally, Krita will always keep pixels outside the visible canvas area and "
-"save that. With this option turned on, Krita will first :ref:`crop "
-"<crop_tool>` all the layers to the canvas-area and then save it."
+"Normally, Krita will always keep pixels outside the visible canvas area and save that. With this option turned on, Krita will first :ref:`crop <crop_tool>` all the layers to the canvas-area and then"
+" save it."
 msgstr ""
 
 #. +> trunk5
@@ -909,9 +825,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:270
-msgid ""
-"This will crop frames that where imported using any of the options Krita has "
-"available. This saves RAM, but may not always be what is required."
+msgid "This will crop frames that where imported using any of the options Krita has available. This saves RAM, but may not always be what is required."
 msgstr ""
 
 #. +> trunk5
@@ -921,9 +835,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:279
-msgid ""
-"Some applications, like Google Chrome, provide multiple formats when pasting "
-"or dropping an image. This toggle asks which of these you prefer."
+msgid "Some applications, like Google Chrome, provide multiple formats when pasting or dropping an image. This toggle asks which of these you prefer."
 msgstr ""
 
 #. +> trunk5
@@ -933,9 +845,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:282
-msgid ""
-"If the clipboard data contains an URL, Krita will try to download those "
-"contents and paste them inside Krita."
+msgid "If the clipboard data contains an URL, Krita will try to download those contents and paste them inside Krita."
 msgstr ""
 
 #. +> trunk5
@@ -945,26 +855,19 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:284
-msgid ""
-"If the file had been downloaded by your computer previously (for example, to "
-"show it inside the web browser), Krita will use that instead."
+msgid "If the file had been downloaded by your computer previously (for example, to show it inside the web browser), Krita will use that instead."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:285
-msgid ""
-"Paste the attached sRGB bitmap (no filesystem or Internet access required, "
-"but metadata will be lost)."
+msgid "Paste the attached sRGB bitmap (no filesystem or Internet access required, but metadata will be lost)."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:286
 msgid ""
-"Just paste the attached bitmap. This will always work, and may be the best "
-"option if all you copy images for is to make small edits to share with "
-"friends. If you intend to copy and edit HDR images however, this option will "
-"make your life harder because the HDR version of the image will not be "
-"selected by default."
+"Just paste the attached bitmap. This will always work, and may be the best option if all you copy images for is to make small edits to share with friends. If you intend to copy and edit HDR images "
+"however, this option will make your life harder because the HDR version of the image will not be selected by default."
 msgstr ""
 
 #. +> trunk5
@@ -984,9 +887,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:298
-msgid ""
-"This is the option for handling :ref:`user sessions <working_sessions>`. It "
-"has the following options:"
+msgid "This is the option for handling :ref:`user sessions <working_sessions>`. It has the following options:"
 msgstr ""
 
 #. +> trunk5
@@ -1006,9 +907,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:303
-msgid ""
-"Load the last opened session. If you have :guilabel:`Save session when Krita "
-"closes` toggled, this becomes the last files you had open and the like."
+msgid "Load the last opened session. If you have :guilabel:`Save session when Krita closes` toggled, this becomes the last files you had open and the like."
 msgstr ""
 
 #. +> trunk5
@@ -1028,9 +927,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:309
-msgid ""
-"Save the current open windows, documents and the like into the current "
-"session when closing Krita, so you can resume where you left off."
+msgid "Save the current open windows, documents and the like into the current session when closing Krita, so you can resume where you left off."
 msgstr ""
 
 #. +> trunk5
@@ -1045,9 +942,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:313
-msgid ""
-"This makes sure that layers are the same color space as the image, necessary "
-"for saving to PSD."
+msgid "This makes sure that layers are the same color space as the image, necessary for saving to PSD."
 msgstr ""
 
 #. +> trunk5
@@ -1057,18 +952,14 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:315
-msgid ""
-"This is the number of undo commands Krita remembers. You can set the value "
-"to 0 for unlimited undo commands."
+msgid "This is the number of undo commands Krita remembers. You can set the value to 0 for unlimited undo commands."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:317
 msgid ""
-"This controls whether Krita keeps a log of the important actions, which can "
-"then be attached to a bug report. You can view the log itself "
-"via :menuselection:`Help --> Show Krita Log for Bug Reports`, and the log "
-"itself is stored in the shared application settings."
+"This controls whether Krita keeps a log of the important actions, which can then be attached to a bug report. You can view the log itself via :menuselection:`Help --> Show Krita Log for Bug "
+"Reports`, and the log itself is stored in the shared application settings."
 msgstr ""
 
 #. +> trunk5
@@ -1078,15 +969,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:321
-msgid ""
-"Krita does not automatically transfer data anywhere. The log needs to be "
-"uploaded by users themselves if necessary."
+msgid "Krita does not automatically transfer data anywhere. The log needs to be uploaded by users themselves if necessary."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:323
-msgid ""
-"This'll hide the splash screen automatically once Krita is fully loaded."
+msgid "This'll hide the splash screen automatically once Krita is fully loaded."
 msgstr ""
 
 #. +> trunk5
@@ -1096,8 +984,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:327
-msgid ""
-"Deprecated because Krita now has a welcome widget when no canvas is open."
+msgid "Deprecated because Krita now has a welcome widget when no canvas is open."
 msgstr ""
 
 #. +> trunk5
@@ -1107,9 +994,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:330
-msgid ""
-"This allows you to use the system file dialog. Turned off by default, "
-"because we cannot seem to get native file dialogues 100% bug free."
+msgid "This allows you to use the system file dialog. Turned off by default, because we cannot seem to get native file dialogues 100% bug free."
 msgstr ""
 
 #. +> trunk5
@@ -1120,10 +1005,8 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:332
 msgid ""
-"This allows you to set the maximum brush size to a size of up to 10,000 "
-"pixels. Do be careful with using this, as a 10,000 pixel size can very "
-"quickly be a full gigabyte of data being manipulated, per dab. In other "
-"words, this might be slow."
+"This allows you to set the maximum brush size to a size of up to 10,000 pixels. Do be careful with using this, as a 10,000 pixel size can very quickly be a full gigabyte of data being manipulated, "
+"per dab. In other words, this might be slow."
 msgstr ""
 
 #. +> trunk5
@@ -1138,17 +1021,13 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:338
-msgid ""
-"This is now in the :ref:`performance_settings` under :guilabel:`Animation "
-"Cache`."
+msgid "This is now in the :ref:`performance_settings` under :guilabel:`Animation Cache`."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:340
 msgid ""
-"Used with the :ref:`timeline_docker`, this will pin all animation layers to "
-"the timeline automatically. Depending on your workflow, this can be quite "
-"intense, so hence the option to turn it off."
+"Used with the :ref:`timeline_docker`, this will pin all animation layers to the timeline automatically. Depending on your workflow, this can be quite intense, so hence the option to turn it off."
 msgstr ""
 
 #. +> trunk5
@@ -1158,9 +1037,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:345
-msgid ""
-"This option decides whether adding key frames outside the current playback "
-"range automatically extends the playback range or not."
+msgid "This option decides whether adding key frames outside the current playback range automatically extends the playback range or not."
 msgstr ""
 
 #. +> trunk5
@@ -1170,29 +1047,22 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:350
-msgid ""
-"We had a bug in Krita 4.x where the DPI of the display affected the DPI of "
-"the text."
+msgid "We had a bug in Krita 4.x where the DPI of the display affected the DPI of the text."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:352
 msgid ""
-"Now when loading a file created in Krita 4.4 we convert its font sizes using "
-"the DPI of the display and bake this new value into the file. The user can "
-"override this behavior by selecting another DPI in here. Setting this value "
-"to 72 DPI will effectively disable any scaling."
+"Now when loading a file created in Krita 4.4 we convert its font sizes using the DPI of the display and bake this new value into the file. The user can override this behavior by selecting another "
+"DPI in here. Setting this value to 72 DPI will effectively disable any scaling."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:354
 msgid ""
-"In Krita 4.x the size of the text was also affected by the HiDPI settings, "
-"the best conversion results are dependent on whether `Use HiDPI` and `Use "
-"Fractional HiDPI` were used when creating the text. In other words, if you "
-"want the text to look exactly the same, try to match the Krita 5 HiDPI "
-"settings to the Krita 4 HiDPI settings. You don't have to keep these "
-"settings the same after the conversion has happened."
+"In Krita 4.x the size of the text was also affected by the HiDPI settings, the best conversion results are dependent on whether `Use HiDPI` and `Use Fractional HiDPI` were used when creating the "
+"text. In other words, if you want the text to look exactly the same, try to match the Krita 5 HiDPI settings to the Krita 4 HiDPI settings. You don't have to keep these settings the same after the "
+"conversion has happened."
 msgstr ""
 
 #. +> trunk5
@@ -1207,9 +1077,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:360
-msgid ""
-"By default, Krita will add extra info behind layers it generates. These "
-"toggles allow you to turn that off."
+msgid "By default, Krita will add extra info behind layers it generates. These toggles allow you to turn that off."
 msgstr ""
 
 #. +> trunk5
@@ -1219,10 +1087,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:363
-msgid ""
-"When you flatten a group layer into a single paint layer, Krita will add "
-"\"Merged\" after the layer name. If you make frequent use of merging, it can "
-"be useful to turn this off."
+msgid "When you flatten a group layer into a single paint layer, Krita will add \"Merged\" after the layer name. If you make frequent use of merging, it can be useful to turn this off."
 msgstr ""
 
 #. +> trunk5
@@ -1232,9 +1097,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:365
-msgid ""
-"When you copy and paste a section of a layer, Krita will add \"(Pasted)\" "
-"after the layer name so you can keep track of that."
+msgid "When you copy and paste a section of a layer, Krita will add \"(Pasted)\" after the layer name so you can keep track of that."
 msgstr ""
 
 #. +> trunk5
@@ -1244,10 +1107,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:371
-msgid ""
-"Allows you to summon context menus by pressing and holding, useful when you "
-"don't have an easy way to make a right-click. This is enabled by default on "
-"Android."
+msgid "Allows you to summon context menus by pressing and holding, useful when you don't have an easy way to make a right-click. This is enabled by default on Android."
 msgstr ""
 
 #. +> trunk5
@@ -1267,8 +1127,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/general_settings.rst:385
-msgid ""
-"Sets where the SQLite Database that manages all the resources is located."
+msgid "Sets where the SQLite Database that manages all the resources is located."
 msgstr ""
 
 #. +> trunk5
@@ -1282,7 +1141,7 @@ msgid "Resource Folder"
 msgstr ""
 
 #. +> trunk5
-#: ../../reference_manual/preferences/general_settings.rst:-1
+#: ../../reference_manual/preferences/general_settings.rst:-1:
 msgid "General Preferences in Krita."
 msgstr ""
 

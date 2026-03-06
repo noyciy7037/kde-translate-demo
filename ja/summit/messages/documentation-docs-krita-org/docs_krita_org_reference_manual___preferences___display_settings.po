@@ -1,35 +1,30 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the GNU Free Documentation License 1.3+ unless stated otherwise
+# This file is distributed under the same license as the Krita Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Krita Manual 4.1\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-25 09:27+0100\n"
-"PO-Revision-Date: 2019-03-02 16:12-0800\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Krita Manual 5.3\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
-#: ../../reference_manual/preferences/display_settings.rst:12
-#: ../../reference_manual/preferences/display_settings.rst:24
-#: ../../reference_manual/preferences/display_settings.rst:46
+#: ../../reference_manual/preferences/display_settings.rst:12 ../../reference_manual/preferences/display_settings.rst:24 ../../reference_manual/preferences/display_settings.rst:46
 msgid "Canvas Graphics Acceleration"
 msgstr ""
 
 #. +> trunk5
-#: ../../reference_manual/preferences/display_settings.rst:12
-#: ../../reference_manual/preferences/display_settings.rst:41
+#: ../../reference_manual/preferences/display_settings.rst:12 ../../reference_manual/preferences/display_settings.rst:41
 msgid "OpenGL"
 msgstr ""
 
 #. +> trunk5
-#: ../../reference_manual/preferences/display_settings.rst:12
-#: ../../reference_manual/preferences/display_settings.rst:98
+#: ../../reference_manual/preferences/display_settings.rst:12 ../../reference_manual/preferences/display_settings.rst:98
 msgid "Canvas Border"
 msgstr ""
 
@@ -70,38 +65,28 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/display_settings.rst:28
-msgid ""
-"In Krita 3.2 and before, this used to be named :guilabel:`OpenGL`, with the "
-"checkbox for :guilabel:`Canvas Graphics Acceleration` being "
-"named :guilabel:`Enable OpenGL`."
+msgid "In Krita 3.2 and before, this used to be named :guilabel:`OpenGL`, with the checkbox for :guilabel:`Canvas Graphics Acceleration` being named :guilabel:`Enable OpenGL`."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/display_settings.rst:30
 msgid ""
-"OpenGL is a bit of code especially for graphics cards. Graphics cards a "
-"dedicate piece of hardware for helping your computer out with graphics "
-"calculations, which Krita uses a lot. All modern computer have graphics "
-"cards."
+"OpenGL is a bit of code especially for graphics cards. Graphics cards a dedicate piece of hardware for helping your computer out with graphics calculations, which Krita uses a lot. All modern "
+"computer have graphics cards."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/display_settings.rst:32
 msgid ""
-"On Windows, Krita also supports using Direct3D instead with the help of the "
-"ANGLE library. ANGLE works by converting the OpenGL functions that Krita "
-"makes use of to the equivalent in Direct3D. It may (or may not) be slower "
-"than native OpenGL, but it has better compatibility with typical Windows "
-"graphics drivers."
+"On Windows, Krita also supports using Direct3D instead with the help of the ANGLE library. ANGLE works by converting the OpenGL functions that Krita makes use of to the equivalent in Direct3D. It "
+"may (or may not) be slower than native OpenGL, but it has better compatibility with typical Windows graphics drivers."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/display_settings.rst:35
 msgid ""
-"Selecting this checkbox will enable the OpenGL / ANGLE canvas drawing mode. "
-"With a decent graphics card this should give faster feedback on brushes and "
-"tools. Also the canvas operations like Rotate, Zoom and Pan should be "
-"considerably faster."
+"Selecting this checkbox will enable the OpenGL / ANGLE canvas drawing mode. With a decent graphics card this should give faster feedback on brushes and tools. Also the canvas operations like Rotate,"
+" Zoom and Pan should be considerably faster."
 msgstr ""
 
 #. +> trunk5
@@ -116,9 +101,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/display_settings.rst:40
-msgid ""
-"Krita will decide the best renderer to use based on some internal "
-"compatibility checking."
+msgid "Krita will decide the best renderer to use based on some internal compatibility checking."
 msgstr ""
 
 #. +> trunk5
@@ -133,9 +116,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/display_settings.rst:44
-msgid ""
-"Krita will use OpenGl ES, which is a subset of OpenGL. Using this can be "
-"useful for less powerful devices."
+msgid "Krita will use OpenGl ES, which is a subset of OpenGL. Using this can be useful for less powerful devices."
 msgstr ""
 
 #. +> trunk5
@@ -145,19 +126,14 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/display_settings.rst:46
-msgid ""
-"Krita will use the ANGLE compatibility layer to convert the OpenGL calls to "
-"Direct3D calls. Whether this works better than regular OpenGL depends on the "
-"graphics drivers of the computer."
+msgid "Krita will use the ANGLE compatibility layer to convert the OpenGL calls to Direct3D calls. Whether this works better than regular OpenGL depends on the graphics drivers of the computer."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/display_settings.rst:49
 msgid ""
-"The user can choose which scaling mode to use while zooming the canvas. The "
-"choice here only affects the way the image is displayed during canvas "
-"operations and has no effect on how Krita scales an image when a "
-"transformation is applied."
+"The user can choose which scaling mode to use while zooming the canvas. The choice here only affects the way the image is displayed during canvas operations and has no effect on how Krita scales an "
+"image when a transformation is applied."
 msgstr ""
 
 #. +> trunk5
@@ -167,10 +143,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/display_settings.rst:52
-msgid ""
-"This is the fastest and crudest filtering method. While fast, this results "
-"in a large number of artifacts - 'blockiness' during magnification, and "
-"aliasing and shimmering during minification."
+msgid "This is the fastest and crudest filtering method. While fast, this results in a large number of artifacts - 'blockiness' during magnification, and aliasing and shimmering during minification."
 msgstr ""
 
 #. +> trunk5
@@ -181,9 +154,7 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/preferences/display_settings.rst:54
 msgid ""
-"This is the next step up. This removes the 'blockiness' seen during "
-"magnification and gives a smooth looking result. For most purposes this "
-"should be a good trade-off between speed and quality."
+"This is the next step up. This removes the 'blockiness' seen during magnification and gives a smooth looking result. For most purposes this should be a good trade-off between speed and quality."
 msgstr ""
 
 #. +> trunk5
@@ -208,10 +179,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/display_settings.rst:58
-msgid ""
-"Only available when your graphics card supports OpenGL 3.0. As the name "
-"suggests, this setting provides the best looking image during canvas "
-"operations."
+msgid "Only available when your graphics card supports OpenGL 3.0. As the name suggests, this setting provides the best looking image during canvas operations."
 msgstr ""
 
 #. +> trunk5
@@ -222,9 +190,8 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/preferences/display_settings.rst:60
 msgid ""
-"This setting utilizes the graphics card's buffering capabilities to speed "
-"things up a bit. Although for now, this feature may be broken on some AMD/"
-"Radeon cards and may work fine on some Intel graphics cards."
+"This setting utilizes the graphics card's buffering capabilities to speed things up a bit. Although for now, this feature may be broken on some AMD/Radeon cards and may work fine on some Intel "
+"graphics cards."
 msgstr ""
 
 #. +> trunk5
@@ -234,9 +201,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/display_settings.rst:62
-msgid ""
-"This should be enabled if you experience artifacts with the :ref:`assistants "
-"<painting_with_assistants>`."
+msgid "This should be enabled if you experience artifacts with the :ref:`assistants <painting_with_assistants>`."
 msgstr ""
 
 #. +> trunk5
@@ -246,25 +211,19 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/display_settings.rst:73
-msgid ""
-"These settings are only available when using Windows. For configuring HDR on "
-"Linux see :ref:`this page<color_management_settings_wayland>`"
+msgid "These settings are only available when using Windows. For configuring HDR on Linux see :ref:`this page<color_management_settings_wayland>`"
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/display_settings.rst:76
-msgid ""
-"Since 4.2 Krita can not just edit floating point images, but also render "
-"them on screen in a way that an HDR capable setup can show them as HDR "
-"images."
+msgid "Since 4.2 Krita can not just edit floating point images, but also render them on screen in a way that an HDR capable setup can show them as HDR images."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/display_settings.rst:78
 msgid ""
-"The HDR settings will show you the display format that Krita can handle, and "
-"the current output format. You will want to set the preferred output format "
-"to the one closest to what your display can handle to make full use of it."
+"The HDR settings will show you the display format that Krita can handle, and the current output format. You will want to set the preferred output format to the one closest to what your display can "
+"handle to make full use of it."
 msgstr ""
 
 #. +> trunk5
@@ -275,11 +234,8 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/preferences/display_settings.rst:81
 msgid ""
-"The format your display is in by default. If this isn't higher than 8bit, "
-"there's a good chance your monitor is not an HDR monitor as far as Krita can "
-"tell. This can be a hardware issue, but also a graphics driver issue. Check "
-"if other HDR applications, or the system HDR settings are configured "
-"correctly."
+"The format your display is in by default. If this isn't higher than 8bit, there's a good chance your monitor is not an HDR monitor as far as Krita can tell. This can be a hardware issue, but also a "
+"graphics driver issue. Check if other HDR applications, or the system HDR settings are configured correctly."
 msgstr ""
 
 #. +> trunk5
@@ -299,10 +255,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/display_settings.rst:85
-msgid ""
-"Which surface type you prefer. This should be ideally the closest to the "
-"display format, but perhaps due to driver issues you might want to try other "
-"formats. This requires a restart."
+msgid "Which surface type you prefer. This should be ideally the closest to the display format, but perhaps due to driver issues you might want to try other formats. This requires a restart."
 msgstr ""
 
 #. +> trunk5
@@ -313,9 +266,8 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/preferences/display_settings.rst:91
 msgid ""
-"Krita supports layer transparency. Of course, the nasty thing is that "
-"transparency can't be seen. So to indicate transparency at the lowest layer, "
-"we use a checker pattern. This part allows you to configure it."
+"Krita supports layer transparency. Of course, the nasty thing is that transparency can't be seen. So to indicate transparency at the lowest layer, we use a checker pattern. This part allows you to "
+"configure it."
 msgstr ""
 
 #. +> trunk5
@@ -325,9 +277,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/display_settings.rst:94
-msgid ""
-"This sets the size of the checkers which show up in transparent parts of an "
-"image."
+msgid "This sets the size of the checkers which show up in transparent parts of an image."
 msgstr ""
 
 #. +> trunk5
@@ -336,9 +286,7 @@ msgid "Transparency Checkerboard:"
 msgstr ""
 
 #. +> trunk5
-#: ../../reference_manual/preferences/display_settings.rst:95
-#: ../../reference_manual/preferences/display_settings.rst:98
-#: ../../reference_manual/preferences/display_settings.rst:105
+#: ../../reference_manual/preferences/display_settings.rst:95 ../../reference_manual/preferences/display_settings.rst:98 ../../reference_manual/preferences/display_settings.rst:105
 msgid "Color"
 msgstr ""
 
@@ -349,16 +297,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/display_settings.rst:99
-msgid ""
-"The user can select the color for the canvas i.e. the space beyond a "
-"document's boundaries."
+msgid "The user can select the color for the canvas i.e. the space beyond a document's boundaries."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/display_settings.rst:103
-msgid ""
-"This allows configuring an automatic pixel-by-pixel grid, which is very "
-"useful for doing pixel art."
+msgid "This allows configuring an automatic pixel-by-pixel grid, which is very useful for doing pixel art."
 msgstr ""
 
 #. +> trunk5
@@ -378,10 +322,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/display_settings.rst:108
-msgid ""
-"This determines the zoom level at which the pixel grid starts showing, as "
-"showing it when the image is zoomed out a lot will make the grid overwhelm "
-"the image, and is thus counter productive."
+msgid "This determines the zoom level at which the pixel grid starts showing, as showing it when the image is zoomed out a lot will make the grid overwhelm the image, and is thus counter productive."
 msgstr ""
 
 #. +> trunk5
@@ -391,9 +332,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/display_settings.rst:112
-msgid ""
-"Set the opacity of the regular :ref:`Selection <selections_basics>` display "
-"mode."
+msgid "Set the opacity of the regular :ref:`Selection <selections_basics>` display mode."
 msgstr ""
 
 #. +> trunk5
@@ -403,9 +342,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/display_settings.rst:114
-msgid ""
-"Set the color of the alternate :ref:`Selection <selections_basics>` display "
-"mode. This mode is typically used when making complex selections."
+msgid "Set the color of the alternate :ref:`Selection <selections_basics>` display mode. This mode is typically used when making complex selections."
 msgstr ""
 
 #. +> trunk5
@@ -445,9 +382,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/display_settings.rst:124
-msgid ""
-"This allows anti-aliasing on previewing curves, like the ones for the circle "
-"tool, or the path tool."
+msgid "This allows anti-aliasing on previewing curves, like the ones for the circle tool, or the path tool."
 msgstr ""
 
 #. +> trunk5
@@ -467,9 +402,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/display_settings.rst:128
-msgid ""
-"This configures whether the image display should be colored when only a "
-"single channel is selected in the channels docker."
+msgid "This configures whether the image display should be colored when only a single channel is selected in the channels docker."
 msgstr ""
 
 #. +> trunk5
@@ -479,17 +412,14 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/display_settings.rst:130
-msgid ""
-"This allows automatic anti-aliasing on selection. It makes the selection "
-"feel less jaggy and more precise."
+msgid "This allows automatic anti-aliasing on selection. It makes the selection feel less jaggy and more precise."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/preferences/display_settings.rst:132
 msgid ""
-"When selected the checkers will move along with opaque elements of an image "
-"during canvas Panning, Zooming, etc.  Otherwise the checkers remain "
-"stationary and only the opaque parts of an image will move."
+"When selected the checkers will move along with opaque elements of an image during canvas Panning, Zooming, etc.  Otherwise the checkers remain stationary and only the opaque parts of an image will "
+"move."
 msgstr ""
 
 #. +> trunk5
@@ -498,6 +428,6 @@ msgid "Move Checkers When Scrolling"
 msgstr ""
 
 #. +> trunk5
-#: ../../reference_manual/preferences/display_settings.rst:-1
+#: ../../reference_manual/preferences/display_settings.rst:-1:
 msgid "Display settings in Krita."
 msgstr ""

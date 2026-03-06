@@ -1,19 +1,17 @@
-# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2021.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the GNU Free Documentation License 1.3+ unless stated otherwise
+# This file is distributed under the same license as the Krita Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Krita Manual 4.1\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-25 09:27+0100\n"
-"PO-Revision-Date: 2021-12-12 22:17-0800\n"
-"Last-Translator: Fumiaki Okushi <fumiaki.okushi@gmail.com>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Krita Manual 5.3\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../<rst_epilog>:2
@@ -68,62 +66,39 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/tools/zoom.rst:20
 msgid ""
-"The zoom tool allows you to zoom your canvas in and out discretely. It can "
-"be found at the bottom of the toolbox, and you just activate it by selecting "
-"the tool, and doing |mouseleft| on the canvas will zoom in, while :kbd:`Ctrl "
-"+` |mouseleft| will zoom out."
+"The zoom tool allows you to zoom your canvas in and out discretely. It can be found at the bottom of the toolbox, and you just activate it by selecting the tool, and doing |mouseleft| on the canvas "
+"will zoom in, while :kbd:`Ctrl +` |mouseleft| will zoom out."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/tools/zoom.rst:22
 msgid "You can reverse this behavior in the :guilabel:`Tool Options`."
-msgstr ""
-"この挙動は :guilabel:`ツールのオプション` から反転させることができます。"
+msgstr "この挙動は :guilabel:`ツールのオプション` から反転させることができます。"
 
 #. +> trunk5
 #: ../../reference_manual/tools/zoom.rst:24
-msgid ""
-"There's a number of hotkeys associated with this tool, which makes it easier "
-"to access from the other tools:"
-msgstr ""
-"このツールにはいくつかの機能がキーに割り当てられており、他のツールから簡単に"
-"アクセスできるようになっています。"
+msgid "There's a number of hotkeys associated with this tool, which makes it easier to access from the other tools:"
+msgstr "このツールにはいくつかの機能がキーに割り当てられており、他のツールから簡単にアクセスできるようになっています。"
 
 #. +> trunk5
 #: ../../reference_manual/tools/zoom.rst:26
-msgid ""
-":kbd:`Ctrl + Space +` |mouseleft| :kbd:`+ drag` on the canvas will zoom in "
-"or out fluently."
-msgstr ""
-"キャンバス上で :kbd:`Ctrl + Space +` |mouseleft| :kbd:`+ drag` することで滑ら"
-"かにズームインとアウトします。"
+msgid ":kbd:`Ctrl + Space +` |mouseleft| :kbd:`+ drag` on the canvas will zoom in or out fluently."
+msgstr "キャンバス上で :kbd:`Ctrl + Space +` |mouseleft| :kbd:`+ drag` することで滑らかにズームインとアウトします。"
 
 #. +> trunk5
 #: ../../reference_manual/tools/zoom.rst:27
-msgid ""
-":kbd:`Ctrl +` |mousemiddle| :kbd:`+ drag` on the canvas will zoom in or out "
-"fluently."
-msgstr ""
-"キャンバス上で :kbd:`Ctrl +` |mousemiddle| :kbd:`+ drag` することで滑らかに"
-"ズームインとアウトします。"
+msgid ":kbd:`Ctrl +` |mousemiddle| :kbd:`+ drag` on the canvas will zoom in or out fluently."
+msgstr "キャンバス上で :kbd:`Ctrl +` |mousemiddle| :kbd:`+ drag` することで滑らかにズームインとアウトします。"
 
 #. +> trunk5
 #: ../../reference_manual/tools/zoom.rst:28
-msgid ""
-":kbd:`Ctrl + Alt + Space +` |mouseleft| :kbd:`+ drag` on the canvas will "
-"zoom in or out with discrete steps."
-msgstr ""
-"キャンバス上で :kbd:`Ctrl + Alt + Space +` |mouseleft| :kbd:`+ drag` すると段"
-"階的にズームインとアウトできます。"
+msgid ":kbd:`Ctrl + Alt + Space +` |mouseleft| :kbd:`+ drag` on the canvas will zoom in or out with discrete steps."
+msgstr "キャンバス上で :kbd:`Ctrl + Alt + Space +` |mouseleft| :kbd:`+ drag` すると段階的にズームインとアウトできます。"
 
 #. +> trunk5
 #: ../../reference_manual/tools/zoom.rst:29
-msgid ""
-":kbd:`Ctrl + Alt +` |mousemiddle| :kbd:`+ drag` on the canvas will zoom in "
-"or out with discrete steps."
-msgstr ""
-"キャンバス上で :kbd:`Ctrl + Alt +` |mousemiddle| :kbd:`+ drag` すると段階的に"
-"ズームインとアウトできます。"
+msgid ":kbd:`Ctrl + Alt +` |mousemiddle| :kbd:`+ drag` on the canvas will zoom in or out with discrete steps."
+msgstr "キャンバス上で :kbd:`Ctrl + Alt +` |mousemiddle| :kbd:`+ drag` すると段階的にズームインとアウトできます。"
 
 #. +> trunk5
 #: ../../reference_manual/tools/zoom.rst:30
@@ -142,38 +117,20 @@ msgstr ":kbd:`1` はズームを100%に設定します。"
 
 #. +> trunk5
 #: ../../reference_manual/tools/zoom.rst:33
-msgid ""
-":kbd:`2` will set the zoom so that the document fits fully into the canvas "
-"area."
-msgstr ""
-":kbd:`2` はキャンバスエリアにドキュメントが完全に収まるようズームします。"
+msgid ":kbd:`2` will set the zoom so that the document fits fully into the canvas area."
+msgstr ":kbd:`2` はキャンバスエリアにドキュメントが完全に収まるようズームします。"
 
 #. +> trunk5
 #: ../../reference_manual/tools/zoom.rst:34
-msgid ""
-":kbd:`3` will set the zoom so that the document width fits fully into the "
-"canvas area."
-msgstr ""
-":kbd:`3` はキャンバスエリアにドキュメントの幅が収まるようにズームします。"
+msgid ":kbd:`3` will set the zoom so that the document width fits fully into the canvas area."
+msgstr ":kbd:`3` はキャンバスエリアにドキュメントの幅が収まるようにズームします。"
 
 #. +> trunk5
 #: ../../reference_manual/tools/zoom.rst:36
 msgid "For more information on such hotkeys, check :ref:`navigation`."
-msgstr ""
-"ホットキーについてのより詳しい情報は、:ref:`navigation` を見てください。"
+msgstr "ホットキーについてのより詳しい情報は、:ref:`navigation` を見てください。"
 
 #. +> trunk5
-#: ../../reference_manual/tools/zoom.rst:-1
+#: ../../reference_manual/tools/zoom.rst:-1:
 msgid "Krita's zoom tool reference."
 msgstr "Krita ズームツールの説明。"
-
-#~ msgid ""
-#~ "The zoom tool allows you to zoom your canvas in and out discretely. It "
-#~ "can be found at the bottom of the toolbox, and you just activate it by "
-#~ "selecting the tool, and doing |mouseleft| on the canvas will zoom in, "
-#~ "while :kbd:`Ctrl +` |mouseright| will zoom out."
-#~ msgstr ""
-#~ "ズームツールでキャンバスのズームイン/アウトをそれぞれ行うことができます。"
-#~ "ツールボックスの一番下にあり、使用するにはツールをクリックするか、キャンバ"
-#~ "ス上で |mouseleft| することでズームイン、:kbd:`Ctrl +` |mouseright| でズー"
-#~ "ムアウトします。"

@@ -1,19 +1,17 @@
-# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2021.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the GNU Free Documentation License 1.3+ unless stated otherwise
+# This file is distributed under the same license as the Krita Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Krita Manual 4.1\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-25 09:27+0100\n"
-"PO-Revision-Date: 2021-12-12 22:48-0800\n"
-"Last-Translator: Fumiaki Okushi <fumiaki.okushi@gmail.com>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Krita Manual 5.3\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../<rst_epilog>:2
@@ -28,7 +26,6 @@ msgstr ""
 #. +> trunk5
 #: ../../<rst_epilog>:80
 #, fuzzy
-#| msgid "Reference"
 msgid "toolreference"
 msgstr "資料"
 
@@ -60,13 +57,9 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/tools/reference_images_tool.rst:21
 msgid ""
-"The reference images tool is a replacement for the reference images docker. "
-"You can use it to load images from your disk as reference, which can then be "
-"moved around freely on the canvas and placed wherever."
-msgstr ""
-"資料画像ツールは資料画像ドッカーの代替となるものです。お使いのハードドライブ"
-"から画像を資料として読み込み、キャンバスその他の場所に置き自由に動かすことが"
-"できます。"
+"The reference images tool is a replacement for the reference images docker. You can use it to load images from your disk as reference, which can then be moved around freely on the canvas and placed "
+"wherever."
+msgstr "資料画像ツールは資料画像ドッカーの代替となるものです。お使いのハードドライブから画像を資料として読み込み、キャンバスその他の場所に置き自由に動かすことができます。"
 
 #. +> trunk5
 #: ../../reference_manual/tools/reference_images_tool.rst:24
@@ -90,8 +83,7 @@ msgstr "資料画像として貼り付け"
 
 #. +> trunk5
 #: ../../reference_manual/tools/reference_images_tool.rst:29
-msgid ""
-"Load an image from the system clipboard and add it as a reference image."
+msgid "Load an image from the system clipboard and add it as a reference image."
 msgstr "システムのクリップボードから画像を読み込み資料画像として追加します。"
 
 #. +> trunk5
@@ -151,11 +143,8 @@ msgstr "彩度"
 
 #. +> trunk5
 #: ../../reference_manual/tools/reference_images_tool.rst:41
-msgid ""
-"Desaturate the image. This is useful if you only want to focus on the light/"
-"shadow instead of getting distracted by the colors."
-msgstr ""
-"画像の彩度を下げます。色に邪魔されずに光と影に集中したいときには便利です。"
+msgid "Desaturate the image. This is useful if you only want to focus on the light/shadow instead of getting distracted by the colors."
+msgstr "画像の彩度を下げます。色に邪魔されずに光と影に集中したいときには便利です。"
 
 #. +> trunk5
 #: ../../reference_manual/tools/reference_images_tool.rst:43
@@ -169,12 +158,8 @@ msgstr "\\*.kra ファイルに埋め込み"
 
 #. +> trunk5
 #: ../../reference_manual/tools/reference_images_tool.rst:46
-msgid ""
-"Store this reference image into the KRA file. This is recommended for small "
-"vital files you'd easily lose track of otherwise."
-msgstr ""
-"この資料画像を KRA ファイルに格納します。あまり重要でなくどこに行ったか分から"
-"なくなるような場合に推奨されます。"
+msgid "Store this reference image into the KRA file. This is recommended for small vital files you'd easily lose track of otherwise."
+msgstr "この資料画像を KRA ファイルに格納します。あまり重要でなくどこに行ったか分からなくなるような場合に推奨されます。"
 
 #. +> trunk5
 #: ../../reference_manual/tools/reference_images_tool.rst:48
@@ -189,49 +174,27 @@ msgstr "外部ファイルにリンク付けします。"
 #. +> trunk5
 #: ../../reference_manual/tools/reference_images_tool.rst:48
 #, fuzzy
-#| msgid ""
-#| "Only link to the reference image, krita will open it from the disk "
-#| "everytime it loads this file. This is recommended for big files, or files "
-#| "that change a lot. This option is only available when reference images "
-#| "are loaded from a local path."
 msgid ""
-"Only link to the reference image, krita will open it from the disk every "
-"time it loads this file. This is recommended for big files, or files that "
-"change a lot. This option is only available when reference images are loaded "
-"from a local path."
-msgstr ""
-"資料画像へのリンクのみで、Krita はこのファイルを開くたびにディスクから開きま"
-"す。これは更新頻度の高い場合や大きいファイルに推奨です。このオプションは資料"
-"画像がローカルパスから読み込まれたときのみ利用できます。"
+"Only link to the reference image, krita will open it from the disk every time it loads this file. This is recommended for big files, or files that change a lot. This option is only available when "
+"reference images are loaded from a local path."
+msgstr "資料画像へのリンクのみで、Krita はこのファイルを開くたびにディスクから開きます。これは更新頻度の高い場合や大きいファイルに推奨です。このオプションは資料画像がローカルパスから読み込まれたときのみ利用できます。"
 
 #. +> trunk5
 #: ../../reference_manual/tools/reference_images_tool.rst:50
 msgid ""
-"You can move around reference images by selecting them with |mouseleft|, and "
-"dragging them. You can rotate reference images by holding the cursor close "
-"to the outside of the corners till the rotate cursor appears, while tilting "
-"is done by holding the cursor close to the outside of the middle nodes. "
-"Resizing can be done by dragging the nodes. You can delete a single "
-"reference image by clicking it and pressing :kbd:`Del`. You can select "
-"multiple reference images with :kbd:`Shift` and perform all of these actions."
+"You can move around reference images by selecting them with |mouseleft|, and dragging them. You can rotate reference images by holding the cursor close to the outside of the corners till the rotate "
+"cursor appears, while tilting is done by holding the cursor close to the outside of the middle nodes. Resizing can be done by dragging the nodes. You can delete a single reference image by clicking "
+"it and pressing :kbd:`Del`. You can select multiple reference images with :kbd:`Shift` and perform all of these actions."
 msgstr ""
-"|mouseleft| で選択しドラッグすることで資料画像を動かすことができます。資料画"
-"像を回転させるにはカーソルを回転カーソルが現れる角の外側に持っていき掴みま"
-"す。傾けるには点中央の外側に近いところにカーソルを持っていきます。サイズ変更"
-"は点をドラッグすることでできます。削除するには資料画像をクリック"
-"し :kbd:`Del` を押します。:kbd:`Shift` を使うことで複数の資料画像を選択でき、"
-"これらの操作をすべて行うことができます。"
+"|mouseleft| で選択しドラッグすることで資料画像を動かすことができます。資料画像を回転させるにはカーソルを回転カーソルが現れる角の外側に持っていき掴みます。傾けるには点中央の外側に近いところにカーソルを持っていきます。サイズ変更は点をドラッグすることでできます。削除するには資料画像をクリックし :kbd:`Del` を押します。:kbd:`Shift` "
+"を使うことで複数の資料画像を選択でき、これらの操作をすべて行うことができます。"
 
 #. +> trunk5
 #: ../../reference_manual/tools/reference_images_tool.rst:52
-msgid ""
-"To hide all reference images temporarily use :menuselection:`View --> Show "
-"Reference Images`."
-msgstr ""
-"一時的に資料画像をすべて隠すには :menuselection:`表示 --> 資料画像を表示` を"
-"使います。"
+msgid "To hide all reference images temporarily use :menuselection:`View --> Show Reference Images`."
+msgstr "一時的に資料画像をすべて隠すには :menuselection:`表示 --> 資料画像を表示` を使います。"
 
 #. +> trunk5
-#: ../../reference_manual/tools/reference_images_tool.rst:-1
+#: ../../reference_manual/tools/reference_images_tool.rst:-1:
 msgid "The reference images tool."
 msgstr "資料画像ツール。"

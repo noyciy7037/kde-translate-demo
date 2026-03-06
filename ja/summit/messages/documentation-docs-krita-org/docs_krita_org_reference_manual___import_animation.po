@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the GNU Free Documentation License 1.3+ unless stated otherwise
+# This file is distributed under the same license as the Krita Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Krita Manual 5.0\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-25 09:27+0100\n"
-"PO-Revision-Date: 2021-08-25 18:48-0700\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Krita Manual 5.3\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../reference_manual/import_animation.rst:9
@@ -51,17 +50,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/import_animation.rst:23
-msgid ""
-"Frame import will import a list of images into an animation layer. This is a "
-"format that most other animation software can export, and thus very useful "
-"for interchange."
+msgid "Frame import will import a list of images into an animation layer. This is a format that most other animation software can export, and thus very useful for interchange."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/import_animation.rst:25
-msgid ""
-"First let us take a sprite sheet from Open Game Art. (This is the Libre "
-"Pixel Cup male walkcycle [1]_)."
+msgid "First let us take a sprite sheet from Open Game Art. (This is the Libre Pixel Cup male walkcycle [1]_)."
 msgstr ""
 
 #. +> trunk5
@@ -76,17 +70,14 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/import_animation.rst:31
-msgid ""
-"The slices are even, so for a sprite sheet of 9 sprites, use 8 vertical "
-"slices and 0 horizontal slices. Give it a proper name and save it as png."
+msgid "The slices are even, so for a sprite sheet of 9 sprites, use 8 vertical slices and 0 horizontal slices. Give it a proper name and save it as png."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/import_animation.rst:33
 msgid ""
-"Then, make a new canvas, and select :menuselection:`File --> Import "
-"Animation Frames`. This will give you a little window. Select :guilabel:`Add "
-"images`. This should get you a file browser where you can select your images."
+"Then, make a new canvas, and select :menuselection:`File --> Import Animation Frames`. This will give you a little window. Select :guilabel:`Add images`. This should get you a file browser where you"
+" can select your images."
 msgstr ""
 
 #. +> trunk5
@@ -106,15 +97,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/import_animation.rst:41
-msgid ""
-"The frames are currently automatically ordered. You can set the ordering "
-"with the top-left two drop-down boxes."
+msgid "The frames are currently automatically ordered. You can set the ordering with the top-left two drop-down boxes."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/import_animation.rst:44
-msgid ""
-"Press :guilabel:`OK`, and your animation should be imported as a new layer."
+msgid "Press :guilabel:`OK`, and your animation should be imported as a new layer."
 msgstr ""
 
 #. +> trunk5
@@ -149,9 +137,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/import_animation.rst:53
-msgid ""
-"If a frame sequence has gaps, such as a sequence that has frames 1, 2 and 5, "
-"ticking this option will input empty frames at 3 and 4."
+msgid "If a frame sequence has gaps, such as a sequence that has frames 1, 2 and 5, ticking this option will input empty frames at 3 and 4."
 msgstr ""
 
 #. +> trunk5
@@ -166,9 +152,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/import_animation.rst:59
-msgid ""
-"Whether it will import the frames in order from lowest to highest "
-"(ascending), or from highest to lowest (descending)."
+msgid "Whether it will import the frames in order from lowest to highest (ascending), or from highest to lowest (descending)."
 msgstr ""
 
 #. +> trunk5
@@ -187,16 +171,13 @@ msgid "Timing"
 msgstr ""
 
 #. +> trunk5
-#: ../../reference_manual/import_animation.rst:66
-#: ../../reference_manual/import_animation.rst:118
+#: ../../reference_manual/import_animation.rst:66 ../../reference_manual/import_animation.rst:118
 msgid "Start at"
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/import_animation.rst:67
-msgid ""
-"The frame number to import at. Importing at 3 will have the resulting "
-"animation start at frame 3 within Krita."
+msgid "The frame number to import at. Importing at 3 will have the resulting animation start at frame 3 within Krita."
 msgstr ""
 
 #. +> trunk5
@@ -207,9 +188,8 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/import_animation.rst:69
 msgid ""
-"The amount of frames to input for each imported frame. For importing a 6 fps "
-"animation into a 24 fps animation, you will need to set this to 24 / 6 = 4. "
-"This will ensure the playback speed stays the same."
+"The amount of frames to input for each imported frame. For importing a 6 fps animation into a 24 fps animation, you will need to set this to 24 / 6 = 4. This will ensure the playback speed stays the"
+" same."
 msgstr ""
 
 #. +> trunk5
@@ -219,10 +199,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/import_animation.rst:71
-msgid ""
-"This displays what Krita thinks the fps of the input is with the current "
-"timing settings. You can use this to make sure that the input you made is "
-"correct with the FPS of your document."
+msgid "This displays what Krita thinks the fps of the input is with the current timing settings. You can use this to make sure that the input you made is correct with the FPS of your document."
 msgstr ""
 
 #. +> trunk5
@@ -232,9 +209,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/import_animation.rst:78
-msgid ""
-"Video import allows you to import a sample of a video file as an animated "
-"paint layer."
+msgid "Video import allows you to import a sample of a video file as an animated paint layer."
 msgstr ""
 
 #. +> trunk5
@@ -249,8 +224,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/import_animation.rst:83
-msgid ""
-"This will bring up a file chooser for you to select the file in question."
+msgid "This will bring up a file chooser for you to select the file in question."
 msgstr ""
 
 #. +> trunk5
@@ -299,9 +273,7 @@ msgid "Video file info"
 msgstr ""
 
 #. +> trunk5
-#: ../../reference_manual/import_animation.rst:95
-#: ../../reference_manual/import_animation.rst:134
-#: ../../reference_manual/import_animation.rst:142
+#: ../../reference_manual/import_animation.rst:95 ../../reference_manual/import_animation.rst:134 ../../reference_manual/import_animation.rst:142
 msgid "Width"
 msgstr ""
 
@@ -311,9 +283,7 @@ msgid "The width of the current file."
 msgstr ""
 
 #. +> trunk5
-#: ../../reference_manual/import_animation.rst:97
-#: ../../reference_manual/import_animation.rst:137
-#: ../../reference_manual/import_animation.rst:144
+#: ../../reference_manual/import_animation.rst:97 ../../reference_manual/import_animation.rst:137 ../../reference_manual/import_animation.rst:144
 msgid "Height"
 msgstr ""
 
@@ -323,8 +293,7 @@ msgid "The height of the current file."
 msgstr ""
 
 #. +> trunk5
-#: ../../reference_manual/import_animation.rst:99
-#: ../../reference_manual/import_animation.rst:120
+#: ../../reference_manual/import_animation.rst:99 ../../reference_manual/import_animation.rst:120
 msgid "Duration"
 msgstr ""
 
@@ -344,8 +313,7 @@ msgid "The total amount of frames"
 msgstr ""
 
 #. +> trunk5
-#: ../../reference_manual/import_animation.rst:103
-#: ../../reference_manual/import_animation.rst:114
+#: ../../reference_manual/import_animation.rst:103 ../../reference_manual/import_animation.rst:114
 msgid "FPS"
 msgstr ""
 
@@ -361,17 +329,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/import_animation.rst:106
-msgid ""
-"The name of the color space primaries Krita has detected. These will be used "
-"for the color profile with which the file imports. Only shows up on files "
-"where this data is detected."
+msgid "The name of the color space primaries Krita has detected. These will be used for the color profile with which the file imports. Only shows up on files where this data is detected."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/import_animation.rst:108
-msgid ""
-"The name of the color space trc that Krita has found. This too will be used "
-"for the color profile. Only shows up on files where this data is detected."
+msgid "The name of the color space trc that Krita has found. This too will be used for the color profile. Only shows up on files where this data is detected."
 msgstr ""
 
 #. +> trunk5
@@ -386,9 +349,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/import_animation.rst:115
-msgid ""
-"The FPS to import at. Importing 2 seconds of footage at 24 fps will import "
-"48 frames, and at 60 fps, 120 frames will be imported."
+msgid "The FPS to import at. Importing 2 seconds of footage at 24 fps will import 48 frames, and at 60 fps, 120 frames will be imported."
 msgstr ""
 
 #. +> trunk5
@@ -398,8 +359,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/import_animation.rst:117
-msgid ""
-"Same as :guilabel:`Step` in the :ref:`Import Frames<import_frames>` section."
+msgid "Same as :guilabel:`Step` in the :ref:`Import Frames<import_frames>` section."
 msgstr ""
 
 #. +> trunk5
@@ -419,21 +379,15 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/import_animation.rst:123
-msgid ""
-"Document to import the file into. Options are current document and new "
-"document. With new document, extra options become available on the second "
-"tab."
+msgid "Document to import the file into. Options are current document and new document. With new document, extra options become available on the second tab."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/import_animation.rst:125
 msgid ""
-"Videos, because you usually only play them in a media player, are compressed "
-"in special ways. Because Krita is designed to allow you to draw each "
-"individual frame, this data gets uncompressed. What this means is that even "
-"though you can watch a video file on your computer, you likely cannot import "
-"all the frames into Krita. A warning will be displayed and inform you how "
-"many frames you can import with your current setup."
+"Videos, because you usually only play them in a media player, are compressed in special ways. Because Krita is designed to allow you to draw each individual frame, this data gets uncompressed. What "
+"this means is that even though you can watch a video file on your computer, you likely cannot import all the frames into Krita. A warning will be displayed and inform you how many frames you can "
+"import with your current setup."
 msgstr ""
 
 #. +> trunk5
@@ -508,19 +462,15 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/import_animation.rst:156
-msgid ""
-"Path to the ffmpeg probe executable, which is included with ffmpeg. This "
-"allows Krita to learn the video information from the file."
+msgid "Path to the ffmpeg probe executable, which is included with ffmpeg. This allows Krita to learn the video information from the file."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/import_animation.rst:160
-msgid ""
-"`The source for the libre pixel cup male walk cycle <https://opengameart.org/"
-"content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles>`_"
+msgid "`The source for the libre pixel cup male walk cycle <https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles>`_"
 msgstr ""
 
 #. +> trunk5
-#: ../../reference_manual/import_animation.rst:-1
+#: ../../reference_manual/import_animation.rst:-1:
 msgid "Importing video frames."
 msgstr ""

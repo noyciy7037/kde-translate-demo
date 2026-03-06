@@ -1,19 +1,17 @@
-# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2022.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the GNU Free Documentation License 1.3+ unless stated otherwise
+# This file is distributed under the same license as the Krita Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Krita Manual 4.1\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-25 09:27+0100\n"
-"PO-Revision-Date: 2022-07-09 18:40-0700\n"
-"Last-Translator: Fumiaki Okushi <fumiaki.okushi@gmail.com>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Krita Manual 5.3\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../<rst_epilog>:4
@@ -137,15 +135,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../<rst_epilog>:0
-msgid ""
-"In the :ref:`Layers docker <layer_docker>` the vector layer icon |"
-"selectshape| indicate the anti-aliasing is enabled"
+msgid "In the :ref:`Layers docker <layer_docker>` the vector layer icon |selectshape| indicate the anti-aliasing is enabled"
 msgstr ""
 
 #. +> trunk5
 #: ../../<rst_epilog>:0
-msgid ""
-"On pink vector shapes, you can see anti-aliased pixels in magnified view"
+msgid "On pink vector shapes, you can see anti-aliased pixels in magnified view"
 msgstr ""
 
 #. +> trunk5
@@ -161,7 +156,6 @@ msgstr "レイヤー"
 #. +> trunk5
 #: ../../reference_manual/layers_and_masks/vector_layers.rst:18
 #, fuzzy
-#| msgid "Creating a vector layer"
 msgid "icon_vectorlayer"
 msgstr "ベクターレイヤーの作成"
 
@@ -253,22 +247,12 @@ msgstr "ベクターレイヤーって何？"
 #. +> trunk5
 #: ../../reference_manual/layers_and_masks/vector_layers.rst:45
 #, fuzzy
-#| msgid ""
-#| "A Vector Layers, also known as a shape layer, is a type of layers that "
-#| "contains only vector elements."
-msgid ""
-"A Vector Layer, also known as a Shape Layer, is a type of layers that "
-"contains only vector graphics elements."
-msgstr ""
-"ベクターレイヤー、またはシェイプレイヤーはベクター要素のみを格納するレイヤー"
-"の種類です。"
+msgid "A Vector Layer, also known as a Shape Layer, is a type of layers that contains only vector graphics elements."
+msgstr "ベクターレイヤー、またはシェイプレイヤーはベクター要素のみを格納するレイヤーの種類です。"
 
 #. +> trunk5
 #: ../../reference_manual/layers_and_masks/vector_layers.rst:47
-msgid ""
-"The vector layer appear in :program:`Krita`'s :ref:`Layers docker "
-"<layer_docker>` with the following icon |icon_vectorlayer| right to the "
-"layer thumbnail."
+msgid "The vector layer appear in :program:`Krita`'s :ref:`Layers docker <layer_docker>` with the following icon |icon_vectorlayer| right to the layer thumbnail."
 msgstr ""
 
 #. +> trunk5
@@ -284,41 +268,31 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/layers_and_masks/vector_layers.rst:54
 msgid ""
-":program:`Krita` is primarily a `Raster Graphics <https://en.wikipedia.org/"
-"wiki/Raster_graphics>`__ editing tool, which means that most of the editing "
-"changes the values of the pixels on the raster that makes up the image."
+":program:`Krita` is primarily a `Raster Graphics <https://en.wikipedia.org/wiki/Raster_graphics>`__ editing tool, which means that most of the editing changes the values of the pixels on the raster "
+"that makes up the image."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/layers_and_masks/vector_layers.rst:56
 msgid ""
-"A `Vector Graphics <https://en.wikipedia.org/wiki/Vector_graphics>`__ "
-"editing tool will use mathematics to describe shapes. Shapes can be edited "
-"at any time (modified, deleted). Because it uses formulas, vector graphics "
-"can be resized to any size without any 'pixel' or 'blur' effect."
+"A `Vector Graphics <https://en.wikipedia.org/wiki/Vector_graphics>`__ editing tool will use mathematics to describe shapes. Shapes can be edited at any time (modified, deleted). Because it uses "
+"formulas, vector graphics can be resized to any size without any 'pixel' or 'blur' effect."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/layers_and_masks/vector_layers.rst:58
-msgid ""
-"Vector Graphics are useful to generate logo and banners. They're also useful "
-"to manipulate and render texts (a vector graphic text can be edited where a "
-"rasterized text can't)."
+msgid "Vector Graphics are useful to generate logo and banners. They're also useful to manipulate and render texts (a vector graphic text can be edited where a rasterized text can't)."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/layers_and_masks/vector_layers.rst:63
 #, fuzzy
-#| msgid "Creating a vector layer"
 msgid "Creating a Vector Layer"
 msgstr "ベクターレイヤーの作成"
 
 #. +> trunk5
 #: ../../reference_manual/layers_and_masks/vector_layers.rst:65
-msgid ""
-"In :ref:`Layers docker <layer_docker>`, click on dropdown arrow right to the "
-"*Add layer* |icon_add| button; this will popup a sub-menu with "
-"the :guilabel:`Add Vector Layer` entry."
+msgid "In :ref:`Layers docker <layer_docker>`, click on dropdown arrow right to the *Add layer* |icon_add| button; this will popup a sub-menu with the :guilabel:`Add Vector Layer` entry."
 msgstr ""
 
 #. +> trunk5
@@ -333,9 +307,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/layers_and_masks/vector_layers.rst:73
-msgid ""
-"When active layer is a vector layer, the following tools can be used to "
-"create vector shapes."
+msgid "When active layer is a vector layer, the following tools can be used to create vector shapes."
 msgstr ""
 
 #. +> trunk5
@@ -360,9 +332,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/layers_and_masks/vector_layers.rst:80
-msgid ""
-"|toolrectangle| :ref:`rectangle_tool` (also allow to create rounded "
-"rectangle shapes)"
+msgid "|toolrectangle| :ref:`rectangle_tool` (also allow to create rounded rectangle shapes)"
 msgstr ""
 
 #. +> trunk5
@@ -412,23 +382,17 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/layers_and_masks/vector_layers.rst:97
-msgid ""
-"In addition, you can import a `Scalable Vector Graphic <https://"
-"en.wikipedia.org/wiki/SVG>`__ (SVG):"
+msgid "In addition, you can import a `Scalable Vector Graphic <https://en.wikipedia.org/wiki/SVG>`__ (SVG):"
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/layers_and_masks/vector_layers.rst:99
-msgid ""
-"Paste a SVG content copied from another software like `Inkscape <https://"
-"inkscape.org/>`__ for example"
+msgid "Paste a SVG content copied from another software like `Inkscape <https://inkscape.org/>`__ for example"
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/layers_and_masks/vector_layers.rst:100
-msgid ""
-"Open a SVG file in a new document, edit Vector Layer content, copy/paste it "
-"or copy/paste shapes from it"
+msgid "Open a SVG file in a new document, edit Vector Layer content, copy/paste it or copy/paste shapes from it"
 msgstr ""
 
 #. +> trunk5
@@ -448,8 +412,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/layers_and_masks/vector_layers.rst:108
-msgid ""
-"When a Vector Layer is rendered, shapes are drawn from the bottom to the top:"
+msgid "When a Vector Layer is rendered, shapes are drawn from the bottom to the top:"
 msgstr ""
 
 #. +> trunk5
@@ -514,16 +477,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/layers_and_masks/vector_layers.rst:139
-msgid ""
-"To manipulate shapes, you need to select them with "
-"the :ref:`shape_selection_tool` |toolshapeselection|."
+msgid "To manipulate shapes, you need to select them with the :ref:`shape_selection_tool` |toolshapeselection|."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/layers_and_masks/vector_layers.rst:141
-msgid ""
-"The :ref:`shape_selection_tool` also provides access to options to manage "
-"shape geometry, stroke and fill properties."
+msgid "The :ref:`shape_selection_tool` also provides access to options to manage shape geometry, stroke and fill properties."
 msgstr ""
 
 #. +> trunk5
@@ -533,9 +492,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/layers_and_masks/vector_layers.rst:148
-msgid ""
-"Outline for a shape can be edited with the :ref:`shape_edit_tool` |"
-"toolshapeedit|."
+msgid "Outline for a shape can be edited with the :ref:`shape_edit_tool` |toolshapeedit|."
 msgstr ""
 
 #. +> trunk5
@@ -545,18 +502,16 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/layers_and_masks/vector_layers.rst:155
-msgid ""
-"By default, vector layer content are rendered using an anti-aliasing "
-"algorithm."
+msgid "By default, vector layer content are rendered using an anti-aliasing algorithm."
 msgstr ""
 
 #. +> trunk5
-#: ../../reference_manual/layers_and_masks/vector_layers.rst:-1
+#: ../../reference_manual/layers_and_masks/vector_layers.rst:-1:
 msgid "How to use vector layers in Krita."
 msgstr "Krita ベクターレイヤーの使い方。"
 
 #. +> trunk5
-#: ../../reference_manual/layers_and_masks/vector_layers.rst:-1
+#: ../../reference_manual/layers_and_masks/vector_layers.rst:-1:
 msgid ".. image:: /images/vector/antialiasing.png"
 msgstr ""
 
@@ -577,41 +532,10 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/layers_and_masks/vector_layers.rst:0
-msgid ""
-"In the :ref:`Layers docker <layer_docker>` the vector layer icon |"
-"selectpixel| indicates the anti-aliasing is disabled"
+msgid "In the :ref:`Layers docker <layer_docker>` the vector layer icon |selectpixel| indicates the anti-aliasing is disabled"
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/layers_and_masks/vector_layers.rst:0
 msgid "On blue vector shapes, you can see aliased pixels in magnified view"
 msgstr ""
-
-#~ msgid ""
-#~ "This page is outdated. Check :ref:`vector_graphics` for a better overview."
-#~ msgstr ""
-#~ "このページは古くなっています。より良い概要について"
-#~ "は :ref:`vector_graphics` をみてください。"
-
-#~ msgid ""
-#~ "This is how vector layers will appear in the :program:`Krita` Layers "
-#~ "docker."
-#~ msgstr ""
-#~ ":program:`Krita` レイヤードッカー上でベクターレイヤーはこのように表示され"
-#~ "ます。"
-
-#~ msgid ""
-#~ "It shows the vector contents of the layer on the left side. The icon "
-#~ "showing the page with the red bookmark denotes that it is a vector layer. "
-#~ "To the right of that is the layer name. Next are the layer visibility and "
-#~ "accessibility icons. Clicking the \"eye\" will toggle visibility. "
-#~ "Clicking the lock into a closed position will lock the content and "
-#~ "editing will no longer be allowed until it is clicked again and the lock "
-#~ "on the layer is released."
-#~ msgstr ""
-#~ "左側にはレイヤーにあるベクターコンテンツが表示されます。赤いブックマークの"
-#~ "あるページのアイコンはこれがベクターレイヤーであることを表しています。その"
-#~ "右側にあるのはレイヤーの名前です。その隣がレイヤー表示と状態のアイコンで"
-#~ "す。\"目\"をクリックすると表示が切り替わります。ロックをクリックして閉じる"
-#~ "と内容が編集できないようにロックされ、ロックを開くとまた編集できるようにな"
-#~ "ります。"

@@ -1,22 +1,20 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the GNU Free Documentation License 1.3+ unless stated otherwise
+# This file is distributed under the same license as the Krita Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Krita Manual 4.2\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-25 09:27+0100\n"
-"PO-Revision-Date: 2019-05-04 11:06-0700\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Krita Manual 5.3\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
-#: ../../reference_manual/separate_image.rst:10
-#: ../../reference_manual/separate_image.rst:15
+#: ../../reference_manual/separate_image.rst:10 ../../reference_manual/separate_image.rst:15
 msgid "Separate Image"
 msgstr ""
 
@@ -28,12 +26,9 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/separate_image.rst:17
 msgid ""
-"The separate image dialog allows you to separate the channels of the image "
-"into layers. This is useful in game texturing workflows, as well as more "
-"advanced CMYK workflows. When confirming, :guilabel:`Separate Image` creates "
-"a series of layers for each channel. So for RGB, it will create Red, Green "
-"and Blue layers, each representing the pixels of that channel, and for CMYK, "
-"Cyan, Magenta, Yellow and Key layers."
+"The separate image dialog allows you to separate the channels of the image into layers. This is useful in game texturing workflows, as well as more advanced CMYK workflows. When confirming, "
+":guilabel:`Separate Image` creates a series of layers for each channel. So for RGB, it will create Red, Green and Blue layers, each representing the pixels of that channel, and for CMYK, Cyan, "
+"Magenta, Yellow and Key layers."
 msgstr ""
 
 #. +> trunk5
@@ -68,9 +63,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/separate_image.rst:28
-msgid ""
-"What to do with the alpha channel. All Krita images have an alpha channel, "
-"which is the transparency. How should it be handled when separating?"
+msgid "What to do with the alpha channel. All Krita images have an alpha channel, which is the transparency. How should it be handled when separating?"
 msgstr ""
 
 #. +> trunk5
@@ -80,9 +73,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/separate_image.rst:31
-msgid ""
-"This adds the transparency of the original source to all the separation "
-"layers."
+msgid "This adds the transparency of the original source to all the separation layers."
 msgstr ""
 
 #. +> trunk5
@@ -127,16 +118,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/separate_image.rst:40
-msgid ""
-"This results in the Red separation using black to red instead of black to "
-"white. This can make it easier to recombine using certain methods."
+msgid "This results in the Red separation using black to red instead of black to white. This can make it easier to recombine using certain methods."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/separate_image.rst:42
-msgid ""
-"If the separated layers are in color, activate only the channel that was the "
-"origin of this separation layer."
+msgid "If the separated layers are in color, activate only the channel that was the origin of this separation layer."
 msgstr ""
 
 #. +> trunk5
@@ -145,6 +132,6 @@ msgid "Activate the current channel"
 msgstr ""
 
 #. +> trunk5
-#: ../../reference_manual/separate_image.rst:-1
+#: ../../reference_manual/separate_image.rst:-1:
 msgid "The channel separation dialog in Krita."
 msgstr ""

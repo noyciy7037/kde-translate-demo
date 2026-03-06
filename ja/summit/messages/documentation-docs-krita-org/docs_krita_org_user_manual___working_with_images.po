@@ -1,23 +1,20 @@
-# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2020, 2022.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the GNU Free Documentation License 1.3+ unless stated otherwise
+# This file is distributed under the same license as the Krita Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Krita Manual 4.1\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-25 09:27+0100\n"
-"PO-Revision-Date: 2022-06-11 22:07-0700\n"
-"Last-Translator: Fumiaki Okushi <fumiaki.okushi@gmail.com>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Krita Manual 5.3\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
-#: ../../user_manual/working_with_images.rst:12
-#: ../../user_manual/working_with_images.rst:58
+#: ../../user_manual/working_with_images.rst:12 ../../user_manual/working_with_images.rst:58
 msgid "Metadata"
 msgstr "メタデータ"
 
@@ -53,12 +50,8 @@ msgstr "画像を扱う"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:19
-msgid ""
-"Computers work with files and as a painting program, Krita works with images "
-"as the type of file it creates and manipulates."
-msgstr ""
-"コンピュータはファイルを扱います。そして Krita はお絵描きソフトとして、画像"
-"ファイルを生成したり編集したりします。"
+msgid "Computers work with files and as a painting program, Krita works with images as the type of file it creates and manipulates."
+msgstr "コンピュータはファイルを扱います。そして Krita はお絵描きソフトとして、画像ファイルを生成したり編集したりします。"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:23
@@ -67,12 +60,8 @@ msgstr "画像には何が含まれているの？"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:25
-msgid ""
-"If you have a text document, it of course contains letters, strung in the "
-"right order, so the computer loads them as coherent sentences."
-msgstr ""
-"テキストドキュメントであればもちろん、正しい順番に並んだ文字情報が含まれてお"
-"り、コンピュータはまとまった文章として読み込みます。"
+msgid "If you have a text document, it of course contains letters, strung in the right order, so the computer loads them as coherent sentences."
+msgstr "テキストドキュメントであればもちろん、正しい順番に並んだ文字情報が含まれており、コンピュータはまとまった文章として読み込みます。"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:29
@@ -82,14 +71,9 @@ msgstr "ラスターデータ"
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:31
 msgid ""
-"This is the main data on the paint layers you make. So these are the strokes "
-"with the paint brush and look pixelated up close. A multi-layer file will "
-"contain several of such layers, that get overlaid on top of each other so "
-"make the final image."
-msgstr ""
-"これは、ペイントレイヤーの主なデータです。ブラシで描いたストロークで近くで見"
-"るとピクセル状になっています。複数レイヤーのファイルはそのようなレイヤーを複"
-"数持っており、それぞれ上に重ね合わせて最終的な画像になります。"
+"This is the main data on the paint layers you make. So these are the strokes with the paint brush and look pixelated up close. A multi-layer file will contain several of such layers, that get "
+"overlaid on top of each other so make the final image."
+msgstr "これは、ペイントレイヤーの主なデータです。ブラシで描いたストロークで近くで見るとピクセル状になっています。複数レイヤーのファイルはそのようなレイヤーを複数持っており、それぞれ上に重ね合わせて最終的な画像になります。"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:36
@@ -104,16 +88,9 @@ msgstr "ベクターデータ"
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:41
 msgid ""
-"These are mathematical operations that tell the computer to draw pixels on a "
-"spot. This makes them much more scalable, because you just tell the "
-"operation to make the coordinates 4 times bigger to scale it up. Due to this "
-"vector data is much more editable, lighter, but at the same time it's also "
-"much more CPU intensive."
-msgstr ""
-"ベクターデータは、どの場所にピクセルを描くかをコンピュータに指定する数学的な"
-"データです。これによって、例えば拡大するために座標を4倍にする指示をすれば良い"
-"だけなので、拡大縮小がとてもしやすいです。このため、ベクターデーターは編集し"
-"やすく軽いのですが、CPU により負担がかかる面もあります。"
+"These are mathematical operations that tell the computer to draw pixels on a spot. This makes them much more scalable, because you just tell the operation to make the coordinates 4 times bigger to "
+"scale it up. Due to this vector data is much more editable, lighter, but at the same time it's also much more CPU intensive."
+msgstr "ベクターデータは、どの場所にピクセルを描くかをコンピュータに指定する数学的なデータです。これによって、例えば拡大するために座標を4倍にする指示をすれば良いだけなので、拡大縮小がとてもしやすいです。このため、ベクターデーターは編集しやすく軽いのですが、CPU により負担がかかる面もあります。"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:48
@@ -123,25 +100,15 @@ msgstr "作業データ"
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:50
 msgid ""
-"Stuff like the filter layers, that tells Krita to change the colors of a "
-"layer, but also transparency masks, group layer and transformation masks are "
-"saved to multi-layer files. Being able to load these depend on the software "
-"that initially made the file. So Krita can load and save groups, "
-"transparency masks and layer effects from PSD, but not load or save "
-"transform masks."
+"Stuff like the filter layers, that tells Krita to change the colors of a layer, but also transparency masks, group layer and transformation masks are saved to multi-layer files. Being able to load "
+"these depend on the software that initially made the file. So Krita can load and save groups, transparency masks and layer effects from PSD, but not load or save transform masks."
 msgstr ""
-"Krita にレイヤーの色を変える指示をするフィルタレイヤーだけでなく、透過マス"
-"ク、グループレイヤーや変形マスクのようなものは、マルチレイヤーファイルに保存"
-"されます。これらを読み込めるかどうかは最初にファイルが作られたソフトウェアに"
-"依存します。つまり Krita は PSD からグループ、透過マスクとレイヤーエフェクト"
-"を読み込んだり保存することに対応していますが、変形マスクはどちらもできませ"
-"ん。"
+"Krita にレイヤーの色を変える指示をするフィルタレイヤーだけでなく、透過マスク、グループレイヤーや変形マスクのようなものは、マルチレイヤーファイルに保存されます。これらを読み込めるかどうかは最初にファイルが作られたソフトウェアに依存します。つまり Krita は PSD "
+"からグループ、透過マスクとレイヤーエフェクトを読み込んだり保存することに対応していますが、変形マスクはどちらもできません。"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:60
-msgid ""
-"Metadata is information like the creation date, author, description and also "
-"information like DPI."
+msgid "Metadata is information like the creation date, author, description and also information like DPI."
 msgstr "メタデータは制作日、作者、説明や DPI といった情報のことです。"
 
 #. +> trunk5
@@ -152,14 +119,9 @@ msgstr "画像サイズ"
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:66
 msgid ""
-"The image size is the dimension and resolution of the canvas. Image size has "
-"direct effect file size of the Krita document. The more pixels that need to "
-"be remembered and the higher the bit depth of the color, the heavier the "
-"resulting file will be."
-msgstr ""
-"この画像サイズはキャンバスの解像度と寸法のことです。画像サイズは Krita ドキュ"
-"メントのファイルサイズに直接影響します。記録するべきピクセル数が多くなればな"
-"るほど、色のビット深度が高くなるほど、ファイルは重くなります。"
+"The image size is the dimension and resolution of the canvas. Image size has direct effect file size of the Krita document. The more pixels that need to be remembered and the higher the bit depth of"
+" the color, the heavier the resulting file will be."
+msgstr "この画像サイズはキャンバスの解像度と寸法のことです。画像サイズは Krita ドキュメントのファイルサイズに直接影響します。記録するべきピクセル数が多くなればなるほど、色のビット深度が高くなるほど、ファイルは重くなります。"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:72
@@ -169,28 +131,18 @@ msgstr "DPI/PPI"
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:74
 msgid ""
-"``DPI`` stands for :dfn:`Dots per Inch`, ``PPI`` stands for :dfn:`Pixels per "
-"Inch`. In printing industry, suppose if your printer prints at 300 ``DPI``. "
-"It means it is actually putting 300 dots of colors in an area equal to an "
-"Inch. This means the number of pixels your artwork has in a relative area of "
-"an inch."
+"``DPI`` stands for :dfn:`Dots per Inch`, ``PPI`` stands for :dfn:`Pixels per Inch`. In printing industry, suppose if your printer prints at 300 ``DPI``. It means it is actually putting 300 dots of "
+"colors in an area equal to an Inch. This means the number of pixels your artwork has in a relative area of an inch."
 msgstr ""
-"``DPI`` は :dfn:`Dots per Inch` (ドット毎インチ)、``PPI`` は :dfn:`Pixels "
-"per Inch` (ピクセル毎インチ)の略です。印刷業界では300 ``DPI`` で印刷すること"
-"を前提にしています。つまり1インチに等しい領域に 300 ドットの色を置くことにな"
-"ります。これは絵のピクセル数がインチで表す領域と何らかの関係があることを意味"
-"しています。"
+"``DPI`` は :dfn:`Dots per Inch` (ドット毎インチ)、``PPI`` は :dfn:`Pixels per Inch` (ピクセル毎インチ)の略です。印刷業界では300 ``DPI`` で印刷することを前提にしています。つまり1インチに等しい領域に 300 "
+"ドットの色を置くことになります。これは絵のピクセル数がインチで表す領域と何らかの関係があることを意味しています。"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:80
 msgid ""
-"``DPI`` is the concern of the printer, and artists while creating artwork "
-"should keep ``PPI`` in mind. According to the ``PPI`` you have set, the "
-"printers can decide how large your image should be on a piece of paper."
-msgstr ""
-"``DPI`` はプリンタでの話ですから、現に絵を制作しているアーティストは ``PPI`` "
-"の方を念頭に置かなければなりません。ご自身で設定した ``PPI`` に基づいて、プリ"
-"ンタは紙面上で画像がどの大きさになるか決めることができます。"
+"``DPI`` is the concern of the printer, and artists while creating artwork should keep ``PPI`` in mind. According to the ``PPI`` you have set, the printers can decide how large your image should be "
+"on a piece of paper."
+msgstr "``DPI`` はプリンタでの話ですから、現に絵を制作しているアーティストは ``PPI`` の方を念頭に置かなければなりません。ご自身で設定した ``PPI`` に基づいて、プリンタは紙面上で画像がどの大きさになるか決めることができます。"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:85
@@ -200,15 +152,9 @@ msgstr "いくつかの標準:"
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:88
 msgid ""
-"This is the default PPI of monitors as assumed by all programs. It is not "
-"fully correct, as most monitors these days have 125 PPI or even 300 PPI for "
-"the retina devices. Nonetheless, when making an image for computer "
-"consumption, this is the default."
-msgstr ""
-"これはすべてのプログラムで想定される、モニターにおける既定の PPI です。最近の"
-"モニターのほとんどは 125PPI や Retina デバイスでは 300PPI にもなりますから、"
-"完全に正しくはありません。とはいえ、コンピュータで画像を作る際にはこれが既定"
-"です。"
+"This is the default PPI of monitors as assumed by all programs. It is not fully correct, as most monitors these days have 125 PPI or even 300 PPI for the retina devices. Nonetheless, when making an "
+"image for computer consumption, this is the default."
+msgstr "これはすべてのプログラムで想定される、モニターにおける既定の PPI です。最近のモニターのほとんどは 125PPI や Retina デバイスでは 300PPI にもなりますから、完全に正しくはありません。とはいえ、コンピュータで画像を作る際にはこれが既定です。"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:90
@@ -253,16 +199,9 @@ msgstr "色深度"
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:102
 msgid ""
-"We went over color depth in the :ref:`Color Management page "
-"<general_concept_color>`. What you need to understand is that Krita has "
-"image color spaces, and layer color spaces, the latter which can save memory "
-"if used right. For example, having a line art layer in grayscale can half "
-"the memory costs."
-msgstr ""
-"色深度の話は :ref:`カラーマネジメントページ <general_concept_color>` に行きま"
-"した。理解しておく必要があるのは、Krita は画像の色空間とレイヤーの色空間があ"
-"り、後者は正しく使えばメモリを節約できます。例えば、線画レイヤーをグレース"
-"ケールにすればメモリコストを半分にできます。"
+"We went over color depth in the :ref:`Color Management page <general_concept_color>`. What you need to understand is that Krita has image color spaces, and layer color spaces, the latter which can "
+"save memory if used right. For example, having a line art layer in grayscale can half the memory costs."
+msgstr "色深度の話は :ref:`カラーマネジメントページ <general_concept_color>` に行きました。理解しておく必要があるのは、Krita は画像の色空間とレイヤーの色空間があり、後者は正しく使えばメモリを節約できます。例えば、線画レイヤーをグレースケールにすればメモリコストを半分にできます。"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:108
@@ -272,18 +211,10 @@ msgstr "画像の色空間 vs レイヤーの色空間 vs 変換"
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:110
 msgid ""
-"Because there's a difference between image color space and layer color "
-"space, you can change only the image color space in :menuselection:`Image --"
-"> Properties...` which will leave the layers alone. But if you want to "
-"change the color space of the file including all the layers you can do it by "
-"going to :menuselection:`Image --> Convert Image Color Space...` this will "
-"convert all the layers color space as well."
-msgstr ""
-"画像の色空間とレイヤーの色空間に違いがあるため、レイヤーの色空間をそのまま"
-"に、画像の色空間だけを :menuselection:`画像 --> プロパティ...` から変更するこ"
-"とができます。しかしもし全レイヤーも含めてファイルの色空間を変更したい場合"
-"は :menuselection:`画像 --> 画像の色空間を変換...` に行けばレイヤーの色空間も"
-"すべて変換されます。"
+"Because there's a difference between image color space and layer color space, you can change only the image color space in :menuselection:`Image --> Properties...` which will leave the layers alone."
+" But if you want to change the color space of the file including all the layers you can do it by going to :menuselection:`Image --> Convert Image Color Space...` this will convert all the layers "
+"color space as well."
+msgstr "画像の色空間とレイヤーの色空間に違いがあるため、レイヤーの色空間をそのままに、画像の色空間だけを :menuselection:`画像 --> プロパティ...` から変更することができます。しかしもし全レイヤーも含めてファイルの色空間を変更したい場合は :menuselection:`画像 --> 画像の色空間を変換...` に行けばレイヤーの色空間もすべて変換されます。"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:113
@@ -293,42 +224,25 @@ msgstr "制作者と説明"
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:116
 #, fuzzy
-#| msgid ".. image:: images/document_information_screen.png"
 msgid ".. image:: /images/document_information_screen.png"
 msgstr ".. image:: images/document_information_screen.png"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:117
 msgid ""
-"Krita will automatically save who created the image into your image's "
-"metadata. Along with the other data such as time and date of creation and "
-"modification, Krita also shows editing time of a document in the document "
-"information dialog, useful for professional illustrators, speed-painters to "
-"keep track of the time they worked on artwork for billing purposes. It "
-"detects when you haven’t performed actions for a while, and has a precision "
-"of ±60 seconds. You can empty it in the document info dialog and of course "
-"by unzipping you ``.kra`` file and editing the metadata there."
+"Krita will automatically save who created the image into your image's metadata. Along with the other data such as time and date of creation and modification, Krita also shows editing time of a "
+"document in the document information dialog, useful for professional illustrators, speed-painters to keep track of the time they worked on artwork for billing purposes. It detects when you haven’t "
+"performed actions for a while, and has a precision of ±60 seconds. You can empty it in the document info dialog and of course by unzipping you ``.kra`` file and editing the metadata there."
 msgstr ""
-"Krita は画像を作った人を画像のメタデータに自動的に保存します。作成と更新した"
-"日付時刻のようなデータと一緒に、Krita はまたドキュメント情報ダイアログに編集"
-"した時間を表示します。プロのイラストレーターや、スピードペイントで請求のため"
-"にアートに作業した時間を記録する必要がある場合には便利です。±60秒の精度で、し"
-"ばらく何もしていないことを検出します。ドキュメント情報ダイアログを用いたり、"
-"もちろん ``.kra`` ファイルを ZIP 展開してそこにあるメタデータを編集することで"
-"空にできます。"
+"Krita は画像を作った人を画像のメタデータに自動的に保存します。作成と更新した日付時刻のようなデータと一緒に、Krita "
+"はまたドキュメント情報ダイアログに編集した時間を表示します。プロのイラストレーターや、スピードペイントで請求のためにアートに作業した時間を記録する必要がある場合には便利です。±60秒の精度で、しばらく何もしていないことを検出します。ドキュメント情報ダイアログを用いたり、もちろん ``.kra`` ファイルを ZIP 展開してそこにあるメタデータを編集することで空にできます。"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:127
 msgid ""
-"These things can be edited in :menuselection:`File --> Document "
-"Information`, and for the author's information :menuselection:`Settings --> "
-"Configure Krita... --> Author`. Profiles can be switched "
+"These things can be edited in :menuselection:`File --> Document Information`, and for the author's information :menuselection:`Settings --> Configure Krita... --> Author`. Profiles can be switched "
 "under :menuselection:`Settings --> Active Author Profile`."
-msgstr ""
-"これらは :menuselection:`ファイル --> ドキュメント情報` から、制作者情報"
-"は :menuselection:`設定 --> Krita の設定を変更... --> 作者` から編集すること"
-"ができます。プロファイルは :menuselection:`設定 --> アクティブな作者プロファ"
-"イル` から切り替えることができます。"
+msgstr "これらは :menuselection:`ファイル --> ドキュメント情報` から、制作者情報は :menuselection:`設定 --> Krita の設定を変更... --> 作者` から編集することができます。プロファイルは :menuselection:`設定 --> アクティブな作者プロファイル` から切り替えることができます。"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:130
@@ -338,32 +252,17 @@ msgstr "キャンバス背景色を設定する"
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:132
 msgid ""
-"You can set the canvas background color via :menuselection:`Image --> Image "
-"Background Color and Transparency...` menu item. This allows you to turn the "
-"background color non-transparent and to change the color. This is also "
-"useful for certain file formats which force a background color instead of "
-"transparency. PNG and JPG export use this color as the default color to fill "
-"in transparency if you do not want to export transparency."
-msgstr ""
-"キャンバスの背景色は、:menuselection:`画像 --> 画像の背景色と透過度...` メ"
-"ニューから設定することができます。これによって背景色を不透明にして色を変える"
-"ことができます。またこれは、透過の代わりに背景色を強制する特定のファイル形式"
-"にも便利です。PNG と JPG で透過をエクスポートしたくない場合はこの色を既定とし"
-"て透過部分を埋めます。"
+"You can set the canvas background color via :menuselection:`Image --> Image Background Color and Transparency...` menu item. This allows you to turn the background color non-transparent and to "
+"change the color. This is also useful for certain file formats which force a background color instead of transparency. PNG and JPG export use this color as the default color to fill in transparency "
+"if you do not want to export transparency."
+msgstr "キャンバスの背景色は、:menuselection:`画像 --> 画像の背景色と透過度...` メニューから設定することができます。これによって背景色を不透明にして色を変えることができます。またこれは、透過の代わりに背景色を強制する特定のファイル形式にも便利です。PNG と JPG で透過をエクスポートしたくない場合はこの色を既定として透過部分を埋めます。"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:139
 msgid ""
-"If you come in from a program like :program:`Paint Tool SAI`, then using "
-"this option, or using :guilabel:`As canvas color` radio button "
-"at :guilabel:`Background:` section in the new file options, will allow you "
-"to work in a slightly more comfortable environment, where transparency isn't "
-"depicted with checkered boxes."
-msgstr ""
-":program:`Paint Tool SAI` のプログラムから来たのなら、このオプションを使う"
-"か、新規ファイルオプションの :guilabel:`背景:` 項目にある :guilabel:`キャンバ"
-"ス色にする` ラジオボタンを使うことで、透過がチェッカーボックスで表示されない"
-"ような少しは心地良い環境で作業できるでしょう。"
+"If you come in from a program like :program:`Paint Tool SAI`, then using this option, or using :guilabel:`As canvas color` radio button at :guilabel:`Background:` section in the new file options, "
+"will allow you to work in a slightly more comfortable environment, where transparency isn't depicted with checkered boxes."
+msgstr ":program:`Paint Tool SAI` のプログラムから来たのなら、このオプションを使うか、新規ファイルオプションの :guilabel:`背景:` 項目にある :guilabel:`キャンバス色にする` ラジオボタンを使うことで、透過がチェッカーボックスで表示されないような少しは心地良い環境で作業できるでしょう。"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:145
@@ -392,9 +291,7 @@ msgstr "回転"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:152
-msgid ""
-"This show a submenu that will allow you to rotate the image and all its "
-"layers quickly."
+msgid "This show a submenu that will allow you to rotate the image and all its layers quickly."
 msgstr "レイヤーと画像全体を回転させるサブメニューを表示します。"
 
 #. +> trunk5
@@ -419,12 +316,8 @@ msgstr "キャンバスの切り抜きとリサイズ"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:161
-msgid ""
-"You can crop and image with the :ref:`crop_tool`, to cut away extra space "
-"and improve the composition."
-msgstr ""
-"画像は :ref:`crop_tool` でクロップし、余分なスペースを切り落として構図を良く"
-"する事ができます。"
+msgid "You can crop and image with the :ref:`crop_tool`, to cut away extra space and improve the composition."
+msgstr "画像は :ref:`crop_tool` でクロップし、余分なスペースを切り落として構図を良くする事ができます。"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:165
@@ -434,42 +327,23 @@ msgstr "トリミング"
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:167
 msgid ""
-"Using :menuselection:`Image --> Trim to Current Layer`, Krita resizes the "
-"image to the dimensions of the layer selected. Useful for when you paste a "
-"too large image into the layer and want to resize the canvas to the extent "
-"of this layer."
-msgstr ""
-":menuselection:`画像 --> 現在のレイヤーに合わせてトリミング` を使うことで、"
-"Krita は選択されたレイヤーの寸法に画像をリサイズします。レイヤーに大きすぎる"
-"画像を張り付けてしまい、キャンバスをこのレイヤーサイズにリサイズしたいときに"
-"有用です。"
+"Using :menuselection:`Image --> Trim to Current Layer`, Krita resizes the image to the dimensions of the layer selected. Useful for when you paste a too large image into the layer and want to resize"
+" the canvas to the extent of this layer."
+msgstr ":menuselection:`画像 --> 現在のレイヤーに合わせてトリミング` を使うことで、Krita は選択されたレイヤーの寸法に画像をリサイズします。レイヤーに大きすぎる画像を張り付けてしまい、キャンバスをこのレイヤーサイズにリサイズしたいときに有用です。"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:172
 msgid ""
-":menuselection:`Image --> Trim to Selection` is a faster cousin to the crop "
-"tool. This helps us to resize the canvas to the dimension of any active "
-"selection. This is especially useful with right-clicking the layer on the "
-"layer stack and choosing :guilabel:`Select Opaque`. :menuselection:`Image --"
-"> Trim to Selection` will then crop the canvas to the selection bounding box."
+":menuselection:`Image --> Trim to Selection` is a faster cousin to the crop tool. This helps us to resize the canvas to the dimension of any active selection. This is especially useful with right-"
+"clicking the layer on the layer stack and choosing :guilabel:`Select Opaque`. :menuselection:`Image --> Trim to Selection` will then crop the canvas to the selection bounding box."
 msgstr ""
-":menuselection:`画像 --> 選択範囲にトリミング` では、切り抜きツールよりも速く"
-"処理を行うことができます。これによってどのアクティブな選択に対してもその大き"
-"さにキャンバスをリサイズすることができます。特にレイヤー一覧のレイヤーを右ク"
-"リックして :guilabel:`不透明領域を選択` を選ぶと便利です。:menuselection:`画"
-"像 --> 選択範囲にトリミング` は、選択バウンディングボックスに合わせてキャンバ"
-"スを切り抜きます。"
+":menuselection:`画像 --> 選択範囲にトリミング` では、切り抜きツールよりも速く処理を行うことができます。これによってどのアクティブな選択に対してもその大きさにキャンバスをリサイズすることができます。特にレイヤー一覧のレイヤーを右クリックして :guilabel:`不透明領域を選択` を選ぶと便利です。:menuselection:`画像 --> 選択範囲にトリミング` "
+"は、選択バウンディングボックスに合わせてキャンバスを切り抜きます。"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:178
-msgid ""
-":menuselection:`Image --> Trim to Image Size` is actually for layers, and "
-"will trim all layers to the size of the image, making your files lighter by "
-"getting rid of invisible data."
-msgstr ""
-":menuselection:`画像 --> 画像のサイズにトリミング` は実際にはレイヤー用で、全"
-"レイヤーを画像のサイズにトリミングし、見えない部分のデータを消すことでファイ"
-"ルを軽くします。"
+msgid ":menuselection:`Image --> Trim to Image Size` is actually for layers, and will trim all layers to the size of the image, making your files lighter by getting rid of invisible data."
+msgstr ":menuselection:`画像 --> 画像のサイズにトリミング` は実際にはレイヤー用で、全レイヤーを画像のサイズにトリミングし、見えない部分のデータを消すことでファイルを軽くします。"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:183
@@ -478,50 +352,29 @@ msgstr "キャンバスのリサイズ"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:185
-msgid ""
-"You can also resize the canvas via :menuselection:`Image --> Resize "
-"Canvas...` (or the :kbd:`Ctrl + Alt + C` shortcut). The dialog box is shown "
-"below."
-msgstr ""
-":menuselection:`画像 --> キャンバスの大きさを変える...` (または :kbd:`Ctrl + "
-"Alt + C` ショートカット) からキャンバスのリサイズもできます。ダイアログは下に"
-"示すとおりです。"
+msgid "You can also resize the canvas via :menuselection:`Image --> Resize Canvas...` (or the :kbd:`Ctrl + Alt + C` shortcut). The dialog box is shown below."
+msgstr ":menuselection:`画像 --> キャンバスの大きさを変える...` (または :kbd:`Ctrl + Alt + C` ショートカット) からキャンバスのリサイズもできます。ダイアログは下に示すとおりです。"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:189
 #, fuzzy
-#| msgid ".. image:: images/Resize_Canvas.png"
 msgid ".. image:: /images/Resize_Canvas.png"
 msgstr ".. image:: images/Resize_Canvas.png"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:190
 msgid ""
-"In this, :guilabel:`Constrain proportions` checkbox will make sure the "
-"height and width stay in proportion to each other as you change them. Offset "
-"indicates where the new canvas space is added around the current image. You "
-"basically decide where the current image goes (if you press the left-button, "
-"it'll go to the center left, and the new canvas space will be added to the "
-"right of the image)."
-msgstr ""
-"この中の、:guilabel:`比率を保つ` チェックボックスを有効にすると、高さと幅が変"
-"更される際にそれぞれが比率を保つようになります。オフセットは、新しいキャンバ"
-"ススペースが現在の画像の周りのどこに追加されるかを示しています。基本的に現在"
-"の画像をどこに持っていくかを決めます(左ボタンを押せば中心の左側に行き、新しい"
-"キャンバススペースが画像の右側に追加されます)。"
+"In this, :guilabel:`Constrain proportions` checkbox will make sure the height and width stay in proportion to each other as you change them. Offset indicates where the new canvas space is added "
+"around the current image. You basically decide where the current image goes (if you press the left-button, it'll go to the center left, and the new canvas space will be added to the right of the "
+"image)."
+msgstr "この中の、:guilabel:`比率を保つ` チェックボックスを有効にすると、高さと幅が変更される際にそれぞれが比率を保つようになります。オフセットは、新しいキャンバススペースが現在の画像の周りのどこに追加されるかを示しています。基本的に現在の画像をどこに持っていくかを決めます(左ボタンを押せば中心の左側に行き、新しいキャンバススペースが画像の右側に追加されます)。"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:197
 msgid ""
-"Another way to resize the canvas according to the need while drawing is when "
-"you scroll away from the end of the canvas, you can see a strip with an "
-"arrow appear. Clicking this will extend the canvas in that direction. You "
-"can see the arrow marked in red in the example below:"
-msgstr ""
-"絵を描いている最中、必要に駆られてキャンバスをリサイズするもう一つの方法は、"
-"キャンバスの終わりからさらにスクロールすると、矢印の付いた帯が現れます。ここ"
-"をクリックすればその方向にキャンバスが拡張されます。矢印は下の例で赤く示した"
-"ように表示されます:"
+"Another way to resize the canvas according to the need while drawing is when you scroll away from the end of the canvas, you can see a strip with an arrow appear. Clicking this will extend the "
+"canvas in that direction. You can see the arrow marked in red in the example below:"
+msgstr "絵を描いている最中、必要に駆られてキャンバスをリサイズするもう一つの方法は、キャンバスの終わりからさらにスクロールすると、矢印の付いた帯が現れます。ここをクリックすればその方向にキャンバスが拡張されます。矢印は下の例で赤く示したように表示されます:"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:207
@@ -531,34 +384,19 @@ msgstr "画像をリサイズする"
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:209
 msgid ""
-":guilabel:`Scale Image to New Size...` allows you to resize the whole image. "
-"Also, importantly, this is where you can change the resolution "
-"or :dfn:`upres` your image. So for instance, if you were initially working "
-"at 72 PPI to block in large shapes and colors, images, etc... And now you "
-"want to really get in and do some detail work at 300 or 400 PPI this is "
-"where you would make the change."
+":guilabel:`Scale Image to New Size...` allows you to resize the whole image. Also, importantly, this is where you can change the resolution or :dfn:`upres` your image. So for instance, if you were "
+"initially working at 72 PPI to block in large shapes and colors, images, etc... And now you want to really get in and do some detail work at 300 or 400 PPI this is where you would make the change."
 msgstr ""
-":guilabel:`画像を新しいサイズにスケール...` で画像全体のサイズを変えることが"
-"できます。また重要なのは、ここが画像の解像度の変更や :dfn:`アップスケール` す"
-"るところであるということです。具体的には、最初に 72PPI で大きい形や色、画像な"
-"どに作業をしていたとして... もっと本当に力を入れて 300 や 400PPI で細かい作業"
-"をしたい時にはここで変更をします。"
+":guilabel:`画像を新しいサイズにスケール...` で画像全体のサイズを変えることができます。また重要なのは、ここが画像の解像度の変更や :dfn:`アップスケール` するところであるということです。具体的には、最初に 72PPI で大きい形や色、画像などに作業をしていたとして... もっと本当に力を入れて 300 や 400PPI で細かい作業をしたい時にはここで変更をします。"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:216
-msgid ""
-"Like all other dialogs where a chain link appears, when the chain is linked "
-"the aspect ratio is maintained. To disconnect the chain, just click on the "
-"link and the two halves will separate."
-msgstr ""
-"チェーンマークがあった他のすべてのダイアログと同様に、チェーンがつながってい"
-"ればアスペクト比は維持されます。チェーンを切るには、つながっているところをク"
-"リックすれば二つに切り離されます。"
+msgid "Like all other dialogs where a chain link appears, when the chain is linked the aspect ratio is maintained. To disconnect the chain, just click on the link and the two halves will separate."
+msgstr "チェーンマークがあった他のすべてのダイアログと同様に、チェーンがつながっていればアスペクト比は維持されます。チェーンを切るには、つながっているところをクリックすれば二つに切り離されます。"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:222
 #, fuzzy
-#| msgid ".. image:: images/Scale_Image_to_New_Size.png"
 msgid ".. image:: /images/Scale_Image_to_New_Size.png"
 msgstr ".. image:: images/Scale_Image_to_New_Size.png"
 
@@ -570,38 +408,25 @@ msgstr "画像を分ける"
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:227
 #, fuzzy
-#| msgid ".. image:: images/Separate_Image.png"
 msgid ".. image:: /images/Separate_Image.png"
 msgstr ".. image:: images/Separate_Image.png"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:228
-msgid ""
-"This powerful image manipulation feature lets you separate an image into its "
-"different components or channels."
+msgid "This powerful image manipulation feature lets you separate an image into its different components or channels."
 msgstr "画像を異なる部品やチェンネルに分けられる強力な画像編集機能です。"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:231
 msgid ""
-"This is useful for people working in print, or people manipulating game "
-"textures. There's no combine functionality, but what you can do, if using "
-"colored output, is to set two of the channels to the "
-"addition :ref:`blending_modes`."
-msgstr ""
-"これは印刷やゲームテクスチャの編集に関わる人にとって有用です。組み合わせる機"
-"能はなく、できることは、例えば色の付いた出力があれば、二つのチャンネルを加"
-"算 :ref:`blending_modes` にすることです。"
+"This is useful for people working in print, or people manipulating game textures. There's no combine functionality, but what you can do, if using colored output, is to set two of the channels to the"
+" addition :ref:`blending_modes`."
+msgstr "これは印刷やゲームテクスチャの編集に関わる人にとって有用です。組み合わせる機能はなく、できることは、例えば色の付いた出力があれば、二つのチャンネルを加算 :ref:`blending_modes` にすることです。"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:236
-msgid ""
-"For grayscale images in the RGB space, you can use the Copy Red, Copy Green "
-"and Copy Blue blending modes, with using the red one for the red channel "
-"image, etc."
-msgstr ""
-"RGB 空間のグレースケール画像では、赤複製、緑複製、青複製合成モードを使い、赤"
-"を赤チャンネル用画像に割り当てるといった使い方ができます。"
+msgid "For grayscale images in the RGB space, you can use the Copy Red, Copy Green and Copy Blue blending modes, with using the red one for the red channel image, etc."
+msgstr "RGB 空間のグレースケール画像では、赤複製、緑複製、青複製合成モードを使い、赤を赤チャンネル用画像に割り当てるといった使い方ができます。"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:241
@@ -611,25 +436,14 @@ msgstr "保存、エクスポートとファイルを開く"
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:243
 msgid ""
-"When Krita creates or opens a file, it has a copy of the file in memory, "
-"that it edits. This is part of the way how computers work: They make a copy "
-"of their file in the RAM. Thus, when saving, Krita takes its copy and copies "
-"it over the existing file. There's a couple of tricks you can do with saving."
-msgstr ""
-"Krita がファイルを作成したり開くと、ファイルをメモリに複製し、編集します。こ"
-"れはコンピュータの仕組みの一部です: ファイルのコピーを RAM に作ります。それゆ"
-"えに保存するときは、Krita はそのコピーを既にあるファイルの上にコピーします。"
-"保存するときに使える小技がいくつかあります。"
+"When Krita creates or opens a file, it has a copy of the file in memory, that it edits. This is part of the way how computers work: They make a copy of their file in the RAM. Thus, when saving, "
+"Krita takes its copy and copies it over the existing file. There's a couple of tricks you can do with saving."
+msgstr "Krita がファイルを作成したり開くと、ファイルをメモリに複製し、編集します。これはコンピュータの仕組みの一部です: ファイルのコピーを RAM に作ります。それゆえに保存するときは、Krita はそのコピーを既にあるファイルの上にコピーします。保存するときに使える小技がいくつかあります。"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:250
-msgid ""
-"Krita saves the current image in its memory to a defined place on the hard-"
-"drive. If the image hadn't been saved before, Krita will ask you where to "
-"save it."
-msgstr ""
-"Krita は現在の画像をメモリからハードドライブ上の決められた場所に保存します。"
-"もし一度も保存されていない画像なら、Krita はどこに保存するか尋ねます。"
+msgid "Krita saves the current image in its memory to a defined place on the hard-drive. If the image hadn't been saved before, Krita will ask you where to save it."
+msgstr "Krita は現在の画像をメモリからハードドライブ上の決められた場所に保存します。もし一度も保存されていない画像なら、Krita はどこに保存するか尋ねます。"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:251
@@ -643,12 +457,8 @@ msgstr "名前を付けて保存..."
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:254
-msgid ""
-"Make a copy of your current file by saving it with a different name. Krita "
-"will switch to the newly made file as its active document."
-msgstr ""
-"違う名前で保存することで現在のファイルのコピーを作成します。Krita は新しく作"
-"られたファイルの方をアクティブなドキュメントとして切り替えます。"
+msgid "Make a copy of your current file by saving it with a different name. Krita will switch to the newly made file as its active document."
+msgstr "違う名前で保存することで現在のファイルのコピーを作成します。Krita は新しく作られたファイルの方をアクティブなドキュメントとして切り替えます。"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:256
@@ -662,14 +472,8 @@ msgstr "保存されたファイルを開きます。よくあるやつです。
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:259
-msgid ""
-"Save a file to a new location without actively opening it. Useful for when "
-"you are working on a layered file, but only need to save a flattened version "
-"of it to a certain location."
-msgstr ""
-"アクティブに開くことなくファイルを新しい場所に保存します。レイヤーのあるファ"
-"イルで作業をしていて、特定の場所にまとめたバージョンを保存する必要がある場合"
-"に便利です。"
+msgid "Save a file to a new location without actively opening it. Useful for when you are working on a layered file, but only need to save a flattened version of it to a certain location."
+msgstr "アクティブに開くことなくファイルを新しい場所に保存します。レイヤーのあるファイルで作業をしていて、特定の場所にまとめたバージョンを保存する必要がある場合に便利です。"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:260
@@ -678,14 +482,8 @@ msgstr "エクスポート..."
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:263
-msgid ""
-"This is a bit of an odd one, but it opens a file, and forgets where you "
-"saved it to, so that when pressing 'save' it asks you where to save it. This "
-"is also called 'import' in other programs."
-msgstr ""
-"これはちょっと変わり者で、ファイルを開きますが保存する場所は忘れ、「保存」を"
-"押すとどこに保存するのか尋ねます。他のプログラムでは'インポート'とも呼ばれま"
-"す。"
+msgid "This is a bit of an odd one, but it opens a file, and forgets where you saved it to, so that when pressing 'save' it asks you where to save it. This is also called 'import' in other programs."
+msgstr "これはちょっと変わり者で、ファイルを開きますが保存する場所は忘れ、「保存」を押すとどこに保存するのか尋ねます。他のプログラムでは'インポート'とも呼ばれます。"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:264
@@ -694,13 +492,8 @@ msgstr "既存のドキュメントを無題のドキュメントとして開く
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:267
-msgid ""
-"Makes a new copy of the current image. Similar to :menuselection:`Open "
-"Existing Document as Untitled Document...`, but then with already opened "
-"files."
-msgstr ""
-"現在の画像のコピーを作成します。:menuselection:`既存のドキュメントを無題のド"
-"キュメントとして開く...` に似ていますが、既に開いてあるファイルで行います。"
+msgid "Makes a new copy of the current image. Similar to :menuselection:`Open Existing Document as Untitled Document...`, but then with already opened files."
+msgstr "現在の画像のコピーを作成します。:menuselection:`既存のドキュメントを無題のドキュメントとして開く...` に似ていますが、既に開いてあるファイルで行います。"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:268
@@ -714,21 +507,13 @@ msgstr "差分バージョンを保存"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:271
-msgid ""
-"Saves the current image as :file:`filename\\_XXX.kra` and switches the "
-"current document to it."
-msgstr ""
-"現在の画像を :file:`ファイル名\\_XXX.kra` として保存し、アクティブなドキュメ"
-"ントを保存したファイルに切り替えます。"
+msgid "Saves the current image as :file:`filename\\_XXX.kra` and switches the current document to it."
+msgstr "現在の画像を :file:`ファイル名\\_XXX.kra` として保存し、アクティブなドキュメントを保存したファイルに切り替えます。"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:274
-msgid ""
-"Copies and renames the last saved version of your file to a backup file and "
-"saves your document under the original name."
-msgstr ""
-"最後に保存されたファイルをバックアップファイルにコピーリネームして、元のド"
-"キュメントの名前で保存します。"
+msgid "Copies and renames the last saved version of your file to a backup file and saves your document under the original name."
+msgstr "最後に保存されたファイルをバックアップファイルにコピーリネームして、元のドキュメントの名前で保存します。"
 
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:275
@@ -738,25 +523,17 @@ msgstr "差分バックアップを保存"
 #. +> trunk5
 #: ../../user_manual/working_with_images.rst:278
 msgid ""
-"Since Krita's file format is compressed data file, in case of a corrupt or "
-"broken file you can open it with archive managers and extract the contents "
-"of the layers. This will help you to recover as much as possible data from "
-"the file. On Windows, you will need to rename it to :file:`filename.zip` to "
-"open it."
-msgstr ""
-"Krita のファイル形式が圧縮データファイルであるため、万が一ファイルが破損した"
-"場合、圧縮展開ソフトで開いてレイヤーの中身を取り出すことができます。これで"
-"ファイルから可能な限り多くのデータを復元できます。Windows では、開くに"
-"は :file:`ファイル名.zip` に名前を変える必要があります。"
+"Since Krita's file format is compressed data file, in case of a corrupt or broken file you can open it with archive managers and extract the contents of the layers. This will help you to recover as "
+"much as possible data from the file. On Windows, you will need to rename it to :file:`filename.zip` to open it."
+msgstr "Krita のファイル形式が圧縮データファイルであるため、万が一ファイルが破損した場合、圧縮展開ソフトで開いてレイヤーの中身を取り出すことができます。これでファイルから可能な限り多くのデータを復元できます。Windows では、開くには :file:`ファイル名.zip` に名前を変える必要があります。"
 
 #. +> trunk5
-#: ../../user_manual/working_with_images.rst:-1
+#: ../../user_manual/working_with_images.rst:-1:
 msgid "Detailed steps on how images work in Krita."
 msgstr "Krita での画像の扱いについての詳しい説明。"
 
 #. +> trunk5
-#: ../../user_manual/working_with_images.rst:-1
+#: ../../user_manual/working_with_images.rst:-1:
 #, fuzzy
-#| msgid ".. image:: images/Infinite-canvas.png"
 msgid ".. image:: /images/Infinite-canvas.png"
 msgstr ".. image:: images/Infinite-canvas.png"

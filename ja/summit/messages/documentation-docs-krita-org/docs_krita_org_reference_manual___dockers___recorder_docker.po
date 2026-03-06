@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) licensed under the GNU Free Documentation License 1.3+ unless stated otherwise
+# This file is distributed under the same license as the Krita Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: Krita Manual 5.0\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-25 09:27+0100\n"
-"PO-Revision-Date: 2021-08-25 18:48-0700\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: Krita Manual 5.3\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk5
 #: ../../reference_manual/dockers/recorder_docker.rst:9
@@ -37,58 +36,42 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/dockers/recorder_docker.rst:18
 msgid ""
-"You may have seen artists show little progress movies of their work. This is "
-"called a time lapse! Normally a time lapse is recorded using outside "
-"software, like OBS, and then sped up around 16 times, and they are used to "
-"convey the whole amount of effort that went into an image. The recorder "
-"docker simplifies making a time lapse, by taking a snapshot every stroke and "
-"then letting you :ref:`render it to a video file with ffmpeg "
-"<render_animation>`. Because this docker relies on FFMpeg, it cannot be used "
-"on Android."
+"You may have seen artists show little progress movies of their work. This is called a time lapse! Normally a time lapse is recorded using outside software, like OBS, and then sped up around 16 "
+"times, and they are used to convey the whole amount of effort that went into an image. The recorder docker simplifies making a time lapse, by taking a snapshot every stroke and then letting you "
+":ref:`render it to a video file with ffmpeg <render_animation>`. Because this docker relies on FFMpeg, it cannot be used on Android."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/dockers/recorder_docker.rst:20
 msgid ""
-"The recorder docker makes a snapshot of the canvas every few seconds, or at "
-"the end of every stroke. You can tell it's turned on because there will be "
-"a :guilabel:`recording` symbol in the status bar, which is red when it's "
-"making snapshots and white when it's on standby."
+"The recorder docker makes a snapshot of the canvas every few seconds, or at the end of every stroke. You can tell it's turned on because there will be a :guilabel:`recording` symbol in the status "
+"bar, which is red when it's making snapshots and white when it's on standby."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/dockers/recorder_docker.rst:22
 msgid ""
-"Because it stores the snapshots, that means you can take breaks, close the "
-"image, turn off the computer, come back a month later. However, snapshots "
-"can take up quite a bit of space, so if you are running out of space, don't "
-"forget to check the temporary folder!"
+"Because it stores the snapshots, that means you can take breaks, close the image, turn off the computer, come back a month later. However, snapshots can take up quite a bit of space, so if you are "
+"running out of space, don't forget to check the temporary folder!"
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/dockers/recorder_docker.rst:24
-msgid ""
-"At the end, you can turn the snapshots into a video file, ready for your "
-"favorite video sharing site."
+msgid "At the end, you can turn the snapshots into a video file, ready for your favorite video sharing site."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/dockers/recorder_docker.rst:28
 msgid ""
-"Some people also call time lapses 'speed paints', but these are not the same "
-"thing. A speed paint is when you try to draw an image in a far shorter time "
-"than is usual for you. For example, drawing a whole landscape in 15 to 30 "
-"minutes. People like to record their speed paints, and because both speed "
-"paints and time lapses are videos, people often confuse them."
+"Some people also call time lapses 'speed paints', but these are not the same thing. A speed paint is when you try to draw an image in a far shorter time than is usual for you. For example, drawing a"
+" whole landscape in 15 to 30 minutes. People like to record their speed paints, and because both speed paints and time lapses are videos, people often confuse them."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/dockers/recorder_docker.rst:30
 msgid ""
-"Similarly, this tool should also not be confused with Macro Recording, which "
-"is when you tell the program to record all your actions into a file, and "
-"have it play those back at a later date. Krita currently does not have this "
-"functionality."
+"Similarly, this tool should also not be confused with Macro Recording, which is when you tell the program to record all your actions into a file, and have it play those back at a later date. Krita "
+"currently does not have this functionality."
 msgstr ""
 
 #. +> trunk5
@@ -108,10 +91,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/dockers/recorder_docker.rst:39
-msgid ""
-"The directory where the snapshots are kept. Note the :guilabel:`Manage "
-"Recordings` button, which will assist you in selecting old recordings to "
-"remove."
+msgid "The directory where the snapshots are kept. Note the :guilabel:`Manage Recordings` button, which will assist you in selecting old recordings to remove."
 msgstr ""
 
 #. +> trunk5
@@ -122,11 +102,8 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/dockers/recorder_docker.rst:41
 msgid ""
-"The minimum capture interval. The recorder docker takes a picture when the "
-"image changes, but will wait for this capture interval to pass before making "
-"a new snap shot. This means quick strokes will not each require a new "
-"snapshot. Increase this if you want less snapshots to be recorded during a "
-"painting session, or if you are experiencing slowdowns."
+"The minimum capture interval. The recorder docker takes a picture when the image changes, but will wait for this capture interval to pass before making a new snap shot. This means quick strokes will"
+" not each require a new snapshot. Increase this if you want less snapshots to be recorded during a painting session, or if you are experiencing slowdowns."
 msgstr ""
 
 #. +> trunk5
@@ -136,9 +113,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/dockers/recorder_docker.rst:43
-msgid ""
-"The file format to use for the snap shots. :ref:`file_jpeg` is faster, "
-"but :ref:`file_png` is better for very sharp images."
+msgid "The file format to use for the snap shots. :ref:`file_jpeg` is faster, but :ref:`file_png` is better for very sharp images."
 msgstr ""
 
 #. +> trunk5
@@ -148,9 +123,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/dockers/recorder_docker.rst:45
-msgid ""
-"Control the quality of the JPEG snapshots. The lower the quality, the lower "
-"the file size, but too low and you will get a messy looking recording."
+msgid "Control the quality of the JPEG snapshots. The lower the quality, the lower the file size, but too low and you will get a messy looking recording."
 msgstr ""
 
 #. +> trunk5
@@ -161,9 +134,8 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/dockers/recorder_docker.rst:47
 msgid ""
-"Control the compression of the PNG snapshots. Greater value will produce "
-"smaller files, but will take more processing power. This is recommended to "
-"be set to be between 1 and 3 for a good balance between speed and file size."
+"Control the compression of the PNG snapshots. Greater value will produce smaller files, but will take more processing power. This is recommended to be set to be between 1 and 3 for a good balance "
+"between speed and file size."
 msgstr ""
 
 #. +> trunk5
@@ -173,9 +145,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/dockers/recorder_docker.rst:49
-msgid ""
-"Lower the resolution of the snapshot. This can drastically reduce size "
-"without losing too much quality."
+msgid "Lower the resolution of the snapshot. This can drastically reduce size without losing too much quality."
 msgstr ""
 
 #. +> trunk5
@@ -186,12 +156,9 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/dockers/recorder_docker.rst:51
 msgid ""
-"How many of your device's processing threads can be used to record in the "
-"background. A value above 1 improves performance on most devices and helps "
-"avoids skips in your recordings. However, it is always recommended to have "
-"one or two threads less than the maximum possible, as you still need some "
-"processing power for your drawing or to handle other programs running on "
-"your computer, like a music player."
+"How many of your device's processing threads can be used to record in the background. A value above 1 improves performance on most devices and helps avoids skips in your recordings. However, it is "
+"always recommended to have one or two threads less than the maximum possible, as you still need some processing power for your drawing or to handle other programs running on your computer, like a "
+"music player."
 msgstr ""
 
 #. +> trunk5
@@ -202,13 +169,9 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/dockers/recorder_docker.rst:53
 msgid ""
-"Enable :guilabel:`Real Time Capture Mode`. Instead of configuring a capture "
-"interval, Real Time Capture Mode has you set a frames per second value "
-"(:guilabel:`Video FPS`). The recorder will then aim to match the specified "
-"FPS so that the video plays at the same speed you were drawing. Depending on "
-"how powerful your device is and the FPS you selected, this can make Krita's "
-"performance while you are drawing much worse! It's not recommended to use "
-"this on weaker hardware."
+"Enable :guilabel:`Real Time Capture Mode`. Instead of configuring a capture interval, Real Time Capture Mode has you set a frames per second value (:guilabel:`Video FPS`). The recorder will then aim"
+" to match the specified FPS so that the video plays at the same speed you were drawing. Depending on how powerful your device is and the FPS you selected, this can make Krita's performance while you"
+" are drawing much worse! It's not recommended to use this on weaker hardware."
 msgstr ""
 
 #. +> trunk5
@@ -219,10 +182,8 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/dockers/recorder_docker.rst:55
 msgid ""
-"Record when :ref:`layer isolate mode <layer_docker>` is on. As isolate mode "
-"hides all the other layers, it can result in a lot of flickering during the "
-"resulting time lapse. Only turn this on when you are not in the habit of "
-"switching layers often when in isolate mode."
+"Record when :ref:`layer isolate mode <layer_docker>` is on. As isolate mode hides all the other layers, it can result in a lot of flickering during the resulting time lapse. Only turn this on when "
+"you are not in the habit of switching layers often when in isolate mode."
 msgstr ""
 
 #. +> trunk5
@@ -232,17 +193,12 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/dockers/recorder_docker.rst:57
-msgid ""
-"Start recording the instant an image is created or loaded. This option is "
-"useful for those who want to record each of their drawings."
+msgid "Start recording the instant an image is created or loaded. This option is useful for those who want to record each of their drawings."
 msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/dockers/recorder_docker.rst:59
-msgid ""
-"Finally, there's :guilabel:`Record` and :guilabel:`Export`. The former "
-"starts and stops recording. The latter lets you render the current drawing's "
-"timelapse."
+msgid "Finally, there's :guilabel:`Record` and :guilabel:`Export`. The former starts and stops recording. The latter lets you render the current drawing's timelapse."
 msgstr ""
 
 #. +> trunk5
@@ -252,9 +208,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/dockers/recorder_docker.rst:64
-msgid ""
-"The recordings manager window. This is a list of recordings you have, and "
-"how much space they take. You can select recordings to delete them."
+msgid "The recordings manager window. This is a list of recordings you have, and how much space they take. You can select recordings to delete them."
 msgstr ""
 
 #. +> trunk5
@@ -264,9 +218,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/dockers/recorder_docker.rst:69
-msgid ""
-"Compare these options with the one on the :ref:`render_animation` page, as "
-"they do largely the same things."
+msgid "Compare these options with the one on the :ref:`render_animation` page, as they do largely the same things."
 msgstr ""
 
 #. +> trunk5
@@ -277,10 +229,8 @@ msgstr ""
 #. +> trunk5
 #: ../../reference_manual/dockers/recorder_docker.rst:72
 msgid ""
-"Shows what kind of frames and how many frames are taken into account when "
-"creating the final video file. Pressing :guilabel:`Open Record Directory` "
-"will allow you to open the folder where the recordings are located in your "
-"file browser."
+"Shows what kind of frames and how many frames are taken into account when creating the final video file. Pressing :guilabel:`Open Record Directory` will allow you to open the folder where the "
+"recordings are located in your file browser."
 msgstr ""
 
 #. +> trunk5
@@ -290,10 +240,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/dockers/recorder_docker.rst:74
-msgid ""
-"How many frames per second should go in. For example, to make your time "
-"lapse twice faster, this value should be double that of the :guilabel:`Video "
-"fps`."
+msgid "How many frames per second should go in. For example, to make your time lapse twice faster, this value should be double that of the :guilabel:`Video fps`."
 msgstr ""
 
 #. +> trunk5
@@ -308,9 +255,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/dockers/recorder_docker.rst:78
-msgid ""
-"Whether to hold the last frame and how long to hold the last frame of the "
-"recording. This allows a viewer to take a good long at the end result."
+msgid "Whether to hold the last frame and how long to hold the last frame of the recording. This allows a viewer to take a good long at the end result."
 msgstr ""
 
 #. +> trunk5
@@ -320,9 +265,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/dockers/recorder_docker.rst:83
-msgid ""
-"Whether to add a copy of the last frame to the start and how long to hold "
-"this frame. This will show viewers what kind of image is being drawn here."
+msgid "Whether to add a copy of the last frame to the start and how long to hold this frame. This will show viewers what kind of image is being drawn here."
 msgstr ""
 
 #. +> trunk5
@@ -357,9 +300,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/dockers/recorder_docker.rst:92
-msgid ""
-"Select the render setting to use. MP4 x264 is sufficient for most drawings "
-"and will be accepted on most video sharing sites."
+msgid "Select the render setting to use. MP4 x264 is sufficient for most drawings and will be accepted on most video sharing sites."
 msgstr ""
 
 #. +> trunk5
@@ -379,9 +320,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/dockers/recorder_docker.rst:96
-msgid ""
-"The final video length in seconds. This will change as you change the FPS "
-"settings."
+msgid "The final video length in seconds. This will change as you change the FPS settings."
 msgstr ""
 
 #. +> trunk5
@@ -396,8 +335,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/dockers/recorder_docker.rst:102
-msgid ""
-"This will open the resulting file in the default video player on your system."
+msgid "This will open the resulting file in the default video player on your system."
 msgstr ""
 
 #. +> trunk5
@@ -407,8 +345,7 @@ msgstr ""
 
 #. +> trunk5
 #: ../../reference_manual/dockers/recorder_docker.rst:104
-msgid ""
-"This will open the folder where the file is located in your file browser."
+msgid "This will open the folder where the file is located in your file browser."
 msgstr ""
 
 #. +> trunk5
@@ -422,6 +359,6 @@ msgid "Remove recordings:"
 msgstr ""
 
 #. +> trunk5
-#: ../../reference_manual/dockers/recorder_docker.rst:-1
+#: ../../reference_manual/dockers/recorder_docker.rst:-1:
 msgid "The recorder docker allows recording time lapses in Krita."
 msgstr ""
