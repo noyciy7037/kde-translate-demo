@@ -1,19 +1,13 @@
-# maboroshin <pc.genkaku.in>, 2023.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: org.kde.audiotube.appdata\n"
-"POT-Creation-Date: 2026-02-14 09:56+0100\n"
-"PO-Revision-Date: 2023-11-24 09:29+0900\n"
-"Last-Translator: maboroshin <pc.genkaku.in>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
-"X-Generator: Poedit 2.2.3\n"
+"Generated-By: Pontoon\n"
 
 #. (itstool) path: component/name
 #. +> trunk6 stable6
@@ -29,64 +23,39 @@ msgstr ""
 
 #. (itstool) path: ul/li
 #. +> trunk6 stable6
-#: org.kde.audiotube.appdata.xml:67
+#: org.kde.audiotube.appdata.xml:68
 msgid "Add library page which shows favorites and most played songs"
 msgstr ""
 
 #. (itstool) path: ul/li
 #. +> trunk6 stable6
-#: org.kde.audiotube.appdata.xml:68
+#: org.kde.audiotube.appdata.xml:69
 msgid "Improve layout of the search popup"
 msgstr ""
 
 #. (itstool) path: ul/li
 #. +> trunk6 stable6
-#: org.kde.audiotube.appdata.xml:69
+#: org.kde.audiotube.appdata.xml:70
 msgid "General performance improvements including startup"
 msgstr ""
 
 #. (itstool) path: ul/li
 #. +> trunk6 stable6
-#: org.kde.audiotube.appdata.xml:77 org.kde.audiotube.appdata.xml:86
+#: org.kde.audiotube.appdata.xml:78 org.kde.audiotube.appdata.xml:87
 msgid "Update the version of ytmusicapi"
 msgstr ""
 
 #. (itstool) path: ul/li
 #. +> trunk6 stable6
-#: org.kde.audiotube.appdata.xml:78
+#: org.kde.audiotube.appdata.xml:79
 msgid "General code-refactoring and translation updates"
 msgstr ""
 
 #. (itstool) path: description/p
 #. +> trunk6 stable6
-#: org.kde.audiotube.appdata.xml:124
+#: org.kde.audiotube.appdata.xml:125
 #, fuzzy
-#| msgid ""
-#| "AudioTube can search YouTube Music, list albums and artists, play "
-#| "automatically generated playlists, albums and allows to put your own "
-#| "playlist together."
 msgid ""
-"AudioTube can search YouTube Music, list albums and artists, play "
-"automatically generated playlists, albums and allows to put your own "
-"playlist together. It is adapted to mobile phones and desktop computers."
-msgstr ""
-"AudioTube は、YouTube Music を検索してアルバムやアーティストの一覧を表示、ア"
-"ルバムや自動生成された再生リストを再生したり独自の再生りストを作成できます。"
-
-#~ msgid "YouTube Music App for phones and desktop computers"
-#~ msgstr "スマホやデスクトップ PC 用の YouTube Music アプリ"
-
-#~ msgid ""
-#~ "AudioTube can search YouTube Music, list albums and artists, play "
-#~ "automatically generated playlists, albums and allows to put your own "
-#~ "playlist together."
-#~ msgstr ""
-#~ "AudioTube は、YouTube Music を検索してアルバムやアーティストの一覧を表示、"
-#~ "アルバムや自動生成された再生リストを再生したり独自の再生りストを作成できま"
-#~ "す。"
-
-#~ msgid "KDE Community"
-#~ msgstr "KDE コミュニティ"
-
-#~ msgid "Convergent YouTube Music client"
-#~ msgstr "統合的な YouTube Music クライアント"
+"AudioTube can search YouTube Music, list albums and artists, play automatically generated playlists, albums and allows to put your own playlist together. It is adapted to mobile phones and desktop "
+"computers."
+msgstr "AudioTube は、YouTube Music を検索してアルバムやアーティストの一覧を表示、アルバムや自動生成された再生リストを再生したり独自の再生りストを作成できます。"
