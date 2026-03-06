@@ -1,19 +1,17 @@
-# Fumiaki Okushi <okushi@kde.gr.jp>, 2010.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the akonadi-contacts package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: akonadi_serializer_plugins\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-02-23 08:05+0100\n"
-"PO-Revision-Date: 2010-11-21 15:57-0800\n"
-"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: akonadi-contacts\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6 stable6
 #: akonadi_serializer_addressee.cpp:167
@@ -68,72 +66,3 @@ msgstr "名前"
 #, kde-format
 msgid "Member"
 msgstr ""
-
-#~ msgid "Attendees"
-#~ msgstr "参加者"
-
-#~ msgid "Organizer"
-#~ msgstr "主催者"
-
-#~ msgid "UID"
-#~ msgstr "UID"
-
-#~ msgid "Priority"
-#~ msgstr "優先度"
-
-#~ msgid "Location"
-#~ msgstr "場所"
-
-#~ msgid "Resources"
-#~ msgstr "リソース"
-
-#~ msgid "Attachments"
-#~ msgstr "添付ファイル"
-
-#, fuzzy
-#~| msgid "UID"
-#~ msgctxt "@label Unique identifier"
-#~ msgid "UID"
-#~ msgstr "UID"
-
-#, fuzzy
-#~| msgid "Organizer"
-#~ msgctxt "@label"
-#~ msgid "Copy to KOrganizer"
-#~ msgstr "主催者"
-
-#, fuzzy
-#~| msgid "Emails"
-#~ msgctxt "@label"
-#~ msgid "Email subject"
-#~ msgstr "メール"
-
-#, fuzzy
-#~| msgid "Emails"
-#~ msgctxt "@label Email address"
-#~ msgid "Email to"
-#~ msgstr "メール"
-
-#, fuzzy
-#~| msgid "Emails"
-#~ msgctxt "@label true/false"
-#~ msgid "Email bcc"
-#~ msgstr "メール"
-
-#, fuzzy
-#~| msgid "Emails"
-#~ msgctxt "@label"
-#~ msgid "Email body"
-#~ msgstr "メール"
-
-#, fuzzy
-#~| msgid "Attachments"
-#~ msgctxt "@label"
-#~ msgid "Email attachments"
-#~ msgstr "添付ファイル"
-
-#, fuzzy
-#~| msgid "Emails"
-#~ msgctxt "@info Alarm type"
-#~ msgid "Email"
-#~ msgstr "メール"
