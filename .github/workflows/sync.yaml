@@ -22,7 +22,8 @@ jobs:
           path: 'media/translatons'
       - name: Link repository
         run: |-
-          media/translatons/
+          cd media
+          ./translations/link_repo.sh
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
