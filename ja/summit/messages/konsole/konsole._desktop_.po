@@ -1,32 +1,13 @@
-# Translation of desktop_kdebase into Japanese.
-# Noboru Sinohara <shinobo@leo.bekkoame.ne.jp>, 2002.
-# Taiki Komoda <kom@kde.gr.jp>, 2002,2003, 2004, 2010.
-# Masaharu 'Max' Goto <magotou@fubyshare.gr.jp>, 2004.
-# Toyohiro Asukai <toyohiro@ksmplus.com>, 2004.
-# Kurose Shushi <md81@bird.email.ne.jp>, 2004.
-# AWASHIRO Ikuya <ikuya@oooug.jp>, 2004.
-# Shinichi Tsunoda <tsuno@ngy.1st.ne.jp>, 2005.
-# Awashiro Ikuya <ikuya@fruitsbasket.info>, 2006.
-# Yukiko Bando <ybando@k6.dion.ne.jp>, 2006, 2007, 2008, 2009, 2010.
-# phanect <phanective@gmail.com>, 2010.
-# Jumpei Ogawa (phanect) <phanective@gmail.com>, 2010.
-# Fumiaki Okushi <okushi@kde.gr.jp>, 2005, 2006, 2007, 2010, 2011, 2014.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: desktop_kdebase\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-12-29 09:53+0100\n"
-"PO-Revision-Date: 2014-09-20 16:55-0700\n"
-"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: desktop files\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: \n"
-"X-Text-Markup: \n"
-"X-Generator: Lokalize 1.1\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6 stable6
 #: desktop/konsole.notifyrc:4
@@ -37,8 +18,6 @@ msgstr "Konsole"
 #. +> trunk6 stable6
 #: desktop/konsole.notifyrc:97
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Bell in Visible Session"
 msgctxt "Name"
 msgid "Bell in Focused Session"
 msgstr "可視セッションのベル"
@@ -46,8 +25,6 @@ msgstr "可視セッションのベル"
 #. +> trunk6 stable6
 #: desktop/konsole.notifyrc:147
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Bell emitted within a visible session"
 msgctxt "Comment"
 msgid "Bell emitted within a focused session"
 msgstr "可視セッションでベルが鳴りました"
@@ -55,8 +32,6 @@ msgstr "可視セッションでベルが鳴りました"
 #. +> trunk6 stable6
 #: desktop/konsole.notifyrc:200
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Bell in Non-Visible Session"
 msgctxt "Name"
 msgid "Bell in Non-Focused Session"
 msgstr "不可視セッションのベル"
@@ -64,8 +39,6 @@ msgstr "不可視セッションのベル"
 #. +> trunk6 stable6
 #: desktop/konsole.notifyrc:250
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Bell emitted within a non-visible session"
 msgctxt "Comment"
 msgid "Bell emitted within a non-focused session"
 msgstr "不可視セッションでベルが鳴りました"
@@ -73,8 +46,6 @@ msgstr "不可視セッションでベルが鳴りました"
 #. +> trunk6 stable6
 #: desktop/konsole.notifyrc:304
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Activity in Monitored Session"
 msgctxt "Name"
 msgid "Activity in Non-Focused Monitored Session"
 msgstr "監視中のセッションの活動"
@@ -82,8 +53,6 @@ msgstr "監視中のセッションの活動"
 #. +> trunk6 stable6
 #: desktop/konsole.notifyrc:354
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Activity detected in a monitored session"
 msgctxt "Comment"
 msgid "Activity detected in a non-focused monitored session"
 msgstr "監視中のセッションで活動を検出しました"
@@ -103,8 +72,6 @@ msgstr "監視中のセッションで活動を検出しました"
 #. +> trunk6 stable6
 #: desktop/konsole.notifyrc:578
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Silence in Monitored Session"
 msgctxt "Name"
 msgid "Silence in Non-Focused Monitored Session"
 msgstr "監視中のセッションの休止"
@@ -112,8 +79,6 @@ msgstr "監視中のセッションの休止"
 #. +> trunk6 stable6
 #: desktop/konsole.notifyrc:628
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Silence detected in a monitored session"
 msgctxt "Comment"
 msgid "Silence detected in a non-focused monitored session"
 msgstr "監視中のセッションで休止を検出しました"
@@ -133,8 +98,6 @@ msgstr "監視中のセッションで休止を検出しました"
 #. +> trunk6 stable6
 #: desktop/konsole.notifyrc:852
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Silence in Monitored Session"
 msgctxt "Name"
 msgid "Process finished in Non-Focused Monitored Session"
 msgstr "監視中のセッションの休止"
@@ -142,8 +105,6 @@ msgstr "監視中のセッションの休止"
 #. +> trunk6 stable6
 #: desktop/konsole.notifyrc:897
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Silence detected in a monitored session"
 msgctxt "Comment"
 msgid "Process finished in a non-focused monitored session"
 msgstr "監視中のセッションで休止を検出しました"
@@ -151,8 +112,6 @@ msgstr "監視中のセッションで休止を検出しました"
 #. +> trunk6 stable6
 #: desktop/konsole.notifyrc:945
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Silence in Monitored Session"
 msgctxt "Name"
 msgid "Process finished in Monitored Session"
 msgstr "監視中のセッションの休止"
@@ -160,8 +119,6 @@ msgstr "監視中のセッションの休止"
 #. +> trunk6 stable6
 #: desktop/konsole.notifyrc:991
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Silence detected in a monitored session"
 msgctxt "Comment"
 msgid "Process finished in a monitored session"
 msgstr "監視中のセッションで休止を検出しました"
@@ -181,8 +138,6 @@ msgstr "ゼロでないステータスでセッションが終了しました"
 #. +> trunk6 stable6
 #: desktop/konsole.notifyrc:1216
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Silence in Monitored Session"
 msgctxt "Name"
 msgid "Process Triggered a Notification in a Focused Session"
 msgstr "監視中のセッションの休止"
@@ -190,8 +145,6 @@ msgstr "監視中のセッションの休止"
 #. +> trunk6 stable6
 #: desktop/konsole.notifyrc:1255
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Bell emitted within a visible session"
 msgctxt "Comment"
 msgid "Notification emitted by a process in a focused session"
 msgstr "可視セッションでベルが鳴りました"
@@ -199,8 +152,6 @@ msgstr "可視セッションでベルが鳴りました"
 #. +> trunk6 stable6
 #: desktop/konsole.notifyrc:1297
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Silence in Monitored Session"
 msgctxt "Name"
 msgid "Process Triggered a Notification in a Non-Focused Session"
 msgstr "監視中のセッションの休止"
@@ -208,8 +159,6 @@ msgstr "監視中のセッションの休止"
 #. +> trunk6 stable6
 #: desktop/konsole.notifyrc:1336
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Bell emitted within a non-visible session"
 msgctxt "Comment"
 msgid "Notification emitted by a process in a non-focused session"
 msgstr "不可視セッションでベルが鳴りました"
@@ -217,8 +166,6 @@ msgstr "不可視セッションでベルが鳴りました"
 #. +> trunk6 stable6
 #: desktop/konsole.notifyrc:1378
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Silence in Monitored Session"
 msgctxt "Name"
 msgid "Shell prompt triggered a notification in a non-focused session"
 msgstr "監視中のセッションの休止"
@@ -226,8 +173,6 @@ msgstr "監視中のセッションの休止"
 #. +> trunk6 stable6
 #: desktop/konsole.notifyrc:1417
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Silence in Monitored Session"
 msgctxt "Comment"
 msgid "Shell prompt triggered a notification in a non-focused session"
 msgstr "監視中のセッションの休止"
@@ -251,8 +196,7 @@ msgid "Terminal Emulator"
 msgstr "ターミナルエミュレータ"
 
 #. +> trunk6 stable6
-#: desktop/konsolepart.desktop:107 desktop/org.kde.konsole.desktop:241
-#: desktop/terminalemulator.desktop:98
+#: desktop/konsolepart.desktop:107 desktop/org.kde.konsole.desktop:241 desktop/terminalemulator.desktop:98
 msgctxt "Comment"
 msgid "Command line access"
 msgstr ""
@@ -266,8 +210,6 @@ msgstr "Konsole で実行"
 #. +> trunk6 stable6
 #: desktop/konsolerun.desktop:71
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Run In Konsole"
 msgctxt "Comment"
 msgid "Run within Konsole"
 msgstr "Konsole で実行"
@@ -275,9 +217,7 @@ msgstr "Konsole で実行"
 #. +> trunk6 stable6
 #: desktop/org.kde.konsole.desktop:13
 msgctxt "Keywords"
-msgid ""
-"terminal;console;script;run;execute;command;command-"
-"line;commandline;cli;bash;sh;shell;zsh;cmd;command prompt"
+msgid "terminal;console;script;run;execute;command;command-line;commandline;cli;bash;sh;shell;zsh;cmd;command prompt"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -303,63 +243,3 @@ msgstr ""
 msgctxt "Name"
 msgid "Open a New Tab"
 msgstr ""
-
-#~ msgctxt "Name"
-#~ msgid "Open Terminal Here"
-#~ msgstr "ここでターミナルを開く"
-
-#~ msgctxt "Name"
-#~ msgid "Bell in Visible Session"
-#~ msgstr "可視セッションのベル"
-
-#~ msgctxt "Comment"
-#~ msgid "Bell emitted within a visible session"
-#~ msgstr "可視セッションでベルが鳴りました"
-
-#~ msgctxt "Name"
-#~ msgid "Bell in Non-Visible Session"
-#~ msgstr "不可視セッションのベル"
-
-#~ msgctxt "Comment"
-#~ msgid "Bell emitted within a non-visible session"
-#~ msgstr "不可視セッションでベルが鳴りました"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Activity in Monitored Session"
-#~ msgctxt "Name"
-#~ msgid "Activity in Hidden Monitored Session"
-#~ msgstr "監視中のセッションの活動"
-
-#, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Activity detected in a monitored session"
-#~ msgctxt "Comment"
-#~ msgid "Activity detected in a hidden monitored session"
-#~ msgstr "監視中のセッションで活動を検出しました"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Silence in Monitored Session"
-#~ msgctxt "Name"
-#~ msgid "Silence in Hidden Monitored Session"
-#~ msgstr "監視中のセッションの休止"
-
-#, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Silence detected in a monitored session"
-#~ msgctxt "Comment"
-#~ msgid "Silence detected in a hidden monitored session"
-#~ msgstr "監視中のセッションで休止を検出しました"
-
-#~ msgctxt "Name"
-#~ msgid "Shell"
-#~ msgstr "シェル"
-
-#~ msgctxt "Comment"
-#~ msgid "Konsole default profile"
-#~ msgstr "Konsole の標準プロファイル"
-
-#~ msgctxt "Name"
-#~ msgid "Quick Access Terminal"
-#~ msgstr "クイックアクセスターミナル"
