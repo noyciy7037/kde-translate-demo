@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/kio-gdrive/*.pot"
+    l10n = "{locale}/summit/messages/kio-gdrive/*.po"
+

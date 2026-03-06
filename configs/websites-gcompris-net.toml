@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/websites-gcompris-net/*.pot"
+    l10n = "{locale}/summit/messages/websites-gcompris-net/*.po"
+

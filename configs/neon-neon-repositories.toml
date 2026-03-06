@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/neon-neon-repositories/*.pot"
+    l10n = "{locale}/summit/messages/neon-neon-repositories/*.po"
+

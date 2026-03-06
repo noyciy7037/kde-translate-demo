@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/kdeplasma-addons/*.pot"
+    l10n = "{locale}/summit/messages/kdeplasma-addons/*.po"
+

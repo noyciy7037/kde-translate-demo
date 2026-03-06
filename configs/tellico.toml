@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/tellico/*.pot"
+    l10n = "{locale}/summit/messages/tellico/*.po"
+

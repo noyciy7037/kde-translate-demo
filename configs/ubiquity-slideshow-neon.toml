@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/ubiquity-slideshow-neon/*.pot"
+    l10n = "{locale}/summit/messages/ubiquity-slideshow-neon/*.po"
+

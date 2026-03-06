@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/kmousetool/*.pot"
+    l10n = "{locale}/summit/messages/kmousetool/*.po"
+

@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/xdg-desktop-portal-kde/*.pot"
+    l10n = "{locale}/summit/messages/xdg-desktop-portal-kde/*.po"
+

@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/kjsembed/*.pot"
+    l10n = "{locale}/summit/messages/kjsembed/*.po"
+

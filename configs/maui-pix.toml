@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/maui-pix/*.pot"
+    l10n = "{locale}/summit/messages/maui-pix/*.po"
+

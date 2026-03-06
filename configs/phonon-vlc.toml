@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/phonon-vlc/*.pot"
+    l10n = "{locale}/summit/messages/phonon-vlc/*.po"
+

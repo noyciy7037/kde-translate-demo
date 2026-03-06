@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/clazy/*.pot"
+    l10n = "{locale}/summit/messages/clazy/*.po"
+

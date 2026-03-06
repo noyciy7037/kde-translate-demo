@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/kspaceduel/*.pot"
+    l10n = "{locale}/summit/messages/kspaceduel/*.po"
+

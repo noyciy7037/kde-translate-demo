@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/kgraphviewer/*.pot"
+    l10n = "{locale}/summit/messages/kgraphviewer/*.po"
+

@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/kwin-x11/*.pot"
+    l10n = "{locale}/summit/messages/kwin-x11/*.po"
+

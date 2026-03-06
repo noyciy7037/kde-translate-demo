@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/kgamma/*.pot"
+    l10n = "{locale}/summit/messages/kgamma/*.po"
+

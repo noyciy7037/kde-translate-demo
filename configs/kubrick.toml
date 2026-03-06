@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/kubrick/*.pot"
+    l10n = "{locale}/summit/messages/kubrick/*.po"
+

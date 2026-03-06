@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/kamera/*.pot"
+    l10n = "{locale}/summit/messages/kamera/*.po"
+

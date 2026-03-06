@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/kio-stash/*.pot"
+    l10n = "{locale}/summit/messages/kio-stash/*.po"
+

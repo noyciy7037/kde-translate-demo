@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/accessibility-inspector/*.pot"
+    l10n = "{locale}/summit/messages/accessibility-inspector/*.po"
+

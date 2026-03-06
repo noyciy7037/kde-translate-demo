@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/audex/*.pot"
+    l10n = "{locale}/summit/messages/audex/*.po"
+

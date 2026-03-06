@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/aura-browser/*.pot"
+    l10n = "{locale}/summit/messages/aura-browser/*.po"
+

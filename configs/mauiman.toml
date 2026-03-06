@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/mauiman/*.pot"
+    l10n = "{locale}/summit/messages/mauiman/*.po"
+

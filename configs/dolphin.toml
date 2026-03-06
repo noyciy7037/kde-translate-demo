@@ -7,3 +7,4 @@ locales = [
 [[paths]]
     reference = "templates/summit/messages/dolphin/*.pot"
     l10n = "{locale}/summit/messages/dolphin/*.po"
+

@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/kdenetwork-filesharing/*.pot"
+    l10n = "{locale}/summit/messages/kdenetwork-filesharing/*.po"
+

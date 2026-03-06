@@ -1,0 +1,10 @@
+basepath = "../"
+
+locales = [
+    "ja"
+]
+
+[[paths]]
+    reference = "templates/summit/messages/maui-clip/*.pot"
+    l10n = "{locale}/summit/messages/maui-clip/*.po"
+
