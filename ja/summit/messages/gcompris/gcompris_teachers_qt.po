@@ -1,28 +1,17 @@
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: gcompris_teachers_qt\n"
-"POT-Creation-Date: 2026-02-25 09:27+0100\n"
-"PO-Revision-Date: 2025-12-30 10:32+0900\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: qtrich\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6 stable6
-#: server/activities/adjacent_numbers/ActivityEditor.qml:13
-#: server/activities/binary_bulb/ActivityEditor.qml:12
-#: server/activities/fractions_create/ActivityEditor.qml:12
-#: server/activities/learn_additions/ActivityEditor.qml:14
-#: server/activities/learn_digits/ActivityEditor.qml:13
-#: server/activities/learn_subtractions/ActivityEditor.qml:14
-#: server/activities/multiple_choice_questions/ActivityEditor.qml:13
-#: server/activities/tens_complement_find/ActivityEditor.qml:13
-#: server/activities/tens_complement_use/ActivityEditor.qml:13
+#: server/activities/adjacent_numbers/ActivityEditor.qml:13 server/activities/binary_bulb/ActivityEditor.qml:12 server/activities/fractions_create/ActivityEditor.qml:12
+#: server/activities/learn_additions/ActivityEditor.qml:14 server/activities/learn_digits/ActivityEditor.qml:13 server/activities/learn_subtractions/ActivityEditor.qml:14
+#: server/activities/multiple_choice_questions/ActivityEditor.qml:13 server/activities/tens_complement_find/ActivityEditor.qml:13 server/activities/tens_complement_use/ActivityEditor.qml:13
 msgctxt "ActivityEditor|"
 msgid "Rules to create a valid dataset:"
 msgstr ""
@@ -31,29 +20,22 @@ msgstr ""
 #: server/activities/adjacent_numbers/ActivityEditor.qml:15
 msgctxt "ActivityEditor|"
 msgid ""
-"If \"Random start number\" is selected, the number of sublevels will be the "
-"minimum between the \"Sublevels\" value and the result of: (\"Maximum start "
-"number\" - \"Minimum start number\") / \"Step between numbers\" + 1."
+"If \"Random start number\" is selected, the number of sublevels will be the minimum between the \"Sublevels\" value and the result of: (\"Maximum start number\" - \"Minimum start number\") / \"Step "
+"between numbers\" + 1."
 msgstr ""
 
 #. +> trunk6 stable6
 #: server/activities/adjacent_numbers/ActivityEditor.qml:17
 msgctxt "ActivityEditor|"
-msgid ""
-"If \"Random start number\" is not selected, the \"Start numbers\" list must "
-"contain only numbers, and each of them will be used as start number for a "
-"sublevel."
+msgid "If \"Random start number\" is not selected, the \"Start numbers\" list must contain only numbers, and each of them will be used as start number for a sublevel."
 msgstr ""
 
 #. +> trunk6 stable6
 #: server/activities/adjacent_numbers/ActivityEditor.qml:19
 msgctxt "ActivityEditor|"
 msgid ""
-"\"Position of missing numbers\" must contain a list of numbers corresponding "
-"to the index of numbers to find. Index numbers start from 0 (the first "
-"number of the sequence), and must not be greater than \"Sequence length\" - "
-"1. Also, the length of the list can not be greater than \"Sequence length\" "
-"- 2, to always have at least 2 visible numbers in the sequence."
+"\"Position of missing numbers\" must contain a list of numbers corresponding to the index of numbers to find. Index numbers start from 0 (the first number of the sequence), and must not be greater "
+"than \"Sequence length\" - 1. Also, the length of the list can not be greater than \"Sequence length\" - 2, to always have at least 2 visible numbers in the sequence."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -137,8 +119,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: server/activities/adjacent_numbers/AdjacentNumbersEditor.qml:102
 msgctxt "AdjacentNumbersEditor|"
-msgid ""
-"\"Position of missing numbers\" must contain only numbers, and not be empty."
+msgid "\"Position of missing numbers\" must contain only numbers, and not be empty."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -185,18 +166,14 @@ msgstr ""
 #: server/activities/algebra_by/AlgebraEditor.qml:27
 msgctxt "AlgebraEditor|"
 msgid ""
-"When \"Random operands\" is selected, if \"Result value limit\" is more than "
-"0 it defines the maximum allowed for the result of each operation. It must "
-"be large enough to generate enough questions for the given number of "
-"sublevels using the minimum and maximum operand values."
+"When \"Random operands\" is selected, if \"Result value limit\" is more than 0 it defines the maximum allowed for the result of each operation. It must be large enough to generate enough questions "
+"for the given number of sublevels using the minimum and maximum operand values."
 msgstr ""
 
 #. +> trunk6 stable6
 #: server/activities/algebra_by/AlgebraEditor.qml:29
 msgctxt "AlgebraEditor|"
-msgid ""
-"If \"Random operands\" is not selected, the sublevel list on the right side "
-"must not be empty."
+msgid "If \"Random operands\" is not selected, the sublevel list on the right side must not be empty."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -206,8 +183,7 @@ msgid "Random operands"
 msgstr ""
 
 #. +> trunk6 stable6
-#: server/activities/algebra_by/AlgebraEditor.qml:34
-#: server/activities/algebra_by/AlgebraEditor.qml:39
+#: server/activities/algebra_by/AlgebraEditor.qml:34 server/activities/algebra_by/AlgebraEditor.qml:39
 msgctxt "AlgebraEditor|"
 msgid "Sublevels"
 msgstr ""
@@ -252,18 +228,14 @@ msgstr ""
 #: server/activities/algebra_div/ActivityEditor.qml:16
 msgctxt "ActivityEditor|"
 msgid ""
-"When \"Random operands\" is selected, the right side operand is always "
-"between minimum and maximum values. The left side operand is generated by "
-"multiplying the right side operand by another number between minimum and "
-"maximum values."
+"When \"Random operands\" is selected, the right side operand is always between minimum and maximum values. The left side operand is generated by multiplying the right side operand by another number "
+"between minimum and maximum values."
 msgstr ""
 
 #. +> trunk6 stable6
 #: server/activities/algebra_div/ActivityEditor.qml:18
 msgctxt "ActivityEditor|"
-msgid ""
-"If \"Random operands\" is not selected, for each sublevel you must make sure "
-"that the \"First operand\" is a multiple of the \"Second operand\"."
+msgid "If \"Random operands\" is not selected, for each sublevel you must make sure that the \"First operand\" is a multiple of the \"Second operand\"."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -273,8 +245,7 @@ msgid "Random operands"
 msgstr ""
 
 #. +> trunk6 stable6
-#: server/activities/algebra_div/ActivityEditor.qml:24
-#: server/activities/algebra_div/ActivityEditor.qml:29
+#: server/activities/algebra_div/ActivityEditor.qml:24 server/activities/algebra_div/ActivityEditor.qml:29
 msgctxt "ActivityEditor|"
 msgid "Sublevels"
 msgstr ""
@@ -318,18 +289,15 @@ msgstr ""
 #. +> trunk6 stable6
 #: server/activities/algebra_minus/ActivityEditor.qml:16
 msgctxt "ActivityEditor|"
-msgid ""
-"If \"Random operands\" is not selected, for each sublevel you must make sure "
-"that the \"First operand\" is greater than the \"Second operand\"."
+msgid "If \"Random operands\" is not selected, for each sublevel you must make sure that the \"First operand\" is greater than the \"Second operand\"."
 msgstr ""
 
 #. +> trunk6 stable6
 #: server/activities/binary_bulb/ActivityEditor.qml:14
 msgctxt "ActivityEditor|"
 msgid ""
-"If \"Random numbers\" is not selected, \"Numbers to find\" must contain a "
-"list of integer numbers. Each number must be between 0 and the maximum "
-"number which can be represented with the given \"Bulb count\"."
+"If \"Random numbers\" is not selected, \"Numbers to find\" must contain a list of integer numbers. Each number must be between 0 and the maximum number which can be represented with the given \"Bulb"
+" count\"."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -346,8 +314,7 @@ msgstr ""
 
 #. %1 is the numerical value, %2 is the binary value. Example: "5 (101)"
 #. +> trunk6 stable6
-#: server/activities/binary_bulb/BinaryBulbDataDisplay.qml:46
-#: server/activities/binary_bulb/BinaryBulbDataDisplay.qml:55
+#: server/activities/binary_bulb/BinaryBulbDataDisplay.qml:46 server/activities/binary_bulb/BinaryBulbDataDisplay.qml:55
 #, qt-format
 msgctxt "BinaryBulbDataDisplay|"
 msgid "%1 (%2)"
@@ -412,9 +379,7 @@ msgstr ""
 #: server/activities/binary_bulb/BinaryBulbEditor.qml:115
 #, qt-format
 msgctxt "BinaryBulbEditor|"
-msgid ""
-"These values are invalid for level %1: %2. The values must be integer "
-"numbers between 0 and %3."
+msgid "These values are invalid for level %1: %2. The values must be integer numbers between 0 and %3."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -491,9 +456,7 @@ msgid "Fixed hour"
 msgstr ""
 
 #. +> trunk6 stable6
-#: server/activities/clockgame/ClockgameEditor.qml:36
-#: server/activities/clockgame/ClockgameEditor.qml:38
-#: server/activities/clockgame/ClockgameEditor.qml:40
+#: server/activities/clockgame/ClockgameEditor.qml:36 server/activities/clockgame/ClockgameEditor.qml:38 server/activities/clockgame/ClockgameEditor.qml:40
 msgctxt "ClockgameEditor|"
 msgid "Value"
 msgstr ""
@@ -631,8 +594,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: server/activities/fractions_create/ActivityEditor.qml:14
 msgctxt "ActivityEditor|"
-msgid ""
-"\"Instruction\" must contain some text telling the fraction to represent."
+msgid "\"Instruction\" must contain some text telling the fraction to represent."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -819,17 +781,13 @@ msgstr ""
 #. +> trunk6 stable6
 #: server/activities/learn_additions/ActivityEditor.qml:16
 msgctxt "ActivityEditor|"
-msgid ""
-"\"Additions\" must contain a list of additions which results are between 0 "
-"and 9."
+msgid "\"Additions\" must contain a list of additions which results are between 0 and 9."
 msgstr ""
 
 #. +> trunk6 stable6
-#: server/activities/learn_additions/ActivityEditor.qml:18
-#: server/activities/learn_subtractions/ActivityEditor.qml:18
+#: server/activities/learn_additions/ActivityEditor.qml:18 server/activities/learn_subtractions/ActivityEditor.qml:18
 msgctxt "ActivityEditor|"
-msgid ""
-"\"Number of circles\" can not be smaller than the largest result to find."
+msgid "\"Number of circles\" can not be smaller than the largest result to find."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -983,8 +941,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: server/activities/learn_digits/ActivityEditor.qml:17
 msgctxt "ActivityEditor|"
-msgid ""
-"\"Number of circles\" can not be smaller than the largest number to find."
+msgid "\"Number of circles\" can not be smaller than the largest number to find."
 msgstr ""
 
 #. %1 is an operation, %2 the result. Example: "2 x 5 = 10"
@@ -1024,25 +981,19 @@ msgstr ""
 #. +> trunk6 stable6
 #: server/activities/learn_digits/LearnDigitsEditor.qml:101
 msgctxt "LearnDigitsEditor|"
-msgid ""
-"\"Numbers\" must only contain integer numbers between 0 and 9, and must not "
-"be empty."
+msgid "\"Numbers\" must only contain integer numbers between 0 and 9, and must not be empty."
 msgstr ""
 
 #. +> trunk6 stable6
 #: server/activities/learn_digits/LearnDigitsEditor.qml:103
 msgctxt "LearnDigitsEditor|"
-msgid ""
-"\"Additions\" must only contain additions which results are integer numbers "
-"between 0 and 9, and must not be empty."
+msgid "\"Additions\" must only contain additions which results are integer numbers between 0 and 9, and must not be empty."
 msgstr ""
 
 #. +> trunk6 stable6
 #: server/activities/learn_digits/LearnDigitsEditor.qml:105
 msgctxt "LearnDigitsEditor|"
-msgid ""
-"\"Subtractions\" must only contain subtractions which results are integer "
-"numbers between 0 and 9, and must not be empty."
+msgid "\"Subtractions\" must only contain subtractions which results are integer numbers between 0 and 9, and must not be empty."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -1084,9 +1035,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: server/activities/learn_subtractions/ActivityEditor.qml:16
 msgctxt "ActivityEditor|"
-msgid ""
-"\"Subtractions\" must contain a list of subtractions which results are "
-"between 0 and 9."
+msgid "\"Subtractions\" must contain a list of subtractions which results are between 0 and 9."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -1140,47 +1089,36 @@ msgstr ""
 #, qt-format
 msgctxt "MagicHatEditor|"
 msgid ""
-"\"Maximum number of stars\" and \"Minimum number of stars\" limit the number "
-"of stars for each of the 3 rows of the first operand (the top one). They "
-"must contain exactly 3 integer numbers, one for each row. The first entry "
-"must be between %1 and %2, the others between 0 and %2. Also the minimum "
-"numbers must not be larger than the corresponding maximum numbers."
+"\"Maximum number of stars\" and \"Minimum number of stars\" limit the number of stars for each of the 3 rows of the first operand (the top one). They must contain exactly 3 integer numbers, one for "
+"each row. The first entry must be between %1 and %2, the others between 0 and %2. Also the minimum numbers must not be larger than the corresponding maximum numbers."
 msgstr ""
 
 #. +> trunk6
 #: server/activities/magic-hat-minus/MagicHatEditor.qml:36
 msgctxt "MagicHatEditor|"
 msgid ""
-"Each row of the second operand (the bottom one) will contain a number of "
-"stars generated in such a way that when subtracted from the number of stars "
-"of the corresponding row of the first operand, the result will not be more "
-"than the \"Maximum result per row\" value."
+"Each row of the second operand (the bottom one) will contain a number of stars generated in such a way that when subtracted from the number of stars of the corresponding row of the first operand, "
+"the result will not be more than the \"Maximum result per row\" value."
 msgstr ""
 
 #. +> trunk6
 #: server/activities/magic-hat-minus/MagicHatEditor.qml:37
 msgctxt "MagicHatEditor|"
 msgid ""
-"Each row of the second operand (the bottom one) will contain a number of "
-"stars generated in such a way that when added to the number of stars of the "
-"corresponding row of the first operand, the result will not be more than the "
-"\"Maximum result per row\" value."
+"Each row of the second operand (the bottom one) will contain a number of stars generated in such a way that when added to the number of stars of the corresponding row of the first operand, the "
+"result will not be more than the \"Maximum result per row\" value."
 msgstr ""
 
 #. +> trunk6
 #: server/activities/magic-hat-minus/MagicHatEditor.qml:41
 msgctxt "MagicHatEditor|"
-msgid ""
-"If \"Maximum number of stars\" for a row is 0, this row will be empty and "
-"hidden for both operands."
+msgid "If \"Maximum number of stars\" for a row is 0, this row will be empty and hidden for both operands."
 msgstr ""
 
 #. +> trunk6
 #: server/activities/magic-hat-minus/MagicHatEditor.qml:44
 msgctxt "MagicHatEditor|"
-msgid ""
-"\"Maximum result per row\" must be larger than any value in \"Maximum number "
-"of stars\"."
+msgid "\"Maximum result per row\" must be larger than any value in \"Maximum number of stars\"."
 msgstr ""
 
 #. +> trunk6
@@ -1192,10 +1130,7 @@ msgstr ""
 #. +> trunk6
 #: server/activities/magic-hat-minus/MagicHatEditor.qml:48
 msgctxt "MagicHatEditor|"
-msgid ""
-"\"Row coefficients\" must contain exactly 3 integer numbers. The first entry "
-"must be between 1 and 10, the others between 0 and 10, and the sum of the 3 "
-"entries must not be larger than 10."
+msgid "\"Row coefficients\" must contain exactly 3 integer numbers. The first entry must be between 1 and 10, the others between 0 and 10, and the sum of the 3 entries must not be larger than 10."
 msgstr ""
 
 #. +> trunk6
@@ -1250,10 +1185,7 @@ msgstr ""
 #: server/activities/magic-hat-minus/MagicHatEditor.qml:149
 #, qt-format
 msgctxt "MagicHatEditor|"
-msgid ""
-"Level %1 must contain exactly 3 integer numbers in \"Maximum number of "
-"stars\". The first entry must be between %2 and %3, the others between 0 and "
-"%3."
+msgid "Level %1 must contain exactly 3 integer numbers in \"Maximum number of stars\". The first entry must be between %2 and %3, the others between 0 and %3."
 msgstr ""
 
 #. +> trunk6
@@ -1261,19 +1193,15 @@ msgstr ""
 #, qt-format
 msgctxt "MagicHatEditor|"
 msgid ""
-"Level %1 must contain exactly 3 integer numbers in \"Minimum number of "
-"stars\". The first entry must be between %2 and %3, the others between 0 and "
-"%3, and each number must not be larger than the corresponding number in "
-"\"Maximum number of stars\"."
+"Level %1 must contain exactly 3 integer numbers in \"Minimum number of stars\". The first entry must be between %2 and %3, the others between 0 and %3, and each number must not be larger than the "
+"corresponding number in \"Maximum number of stars\"."
 msgstr ""
 
 #. +> trunk6
 #: server/activities/magic-hat-minus/MagicHatEditor.qml:183
 #, qt-format
 msgctxt "MagicHatEditor|"
-msgid ""
-"In Level %1, \"Maximum result per row\" must be larger than any value in "
-"\"Maximum number of stars\"."
+msgid "In Level %1, \"Maximum result per row\" must be larger than any value in \"Maximum number of stars\"."
 msgstr ""
 
 #. +> trunk6
@@ -1281,9 +1209,8 @@ msgstr ""
 #, qt-format
 msgctxt "MagicHatEditor|"
 msgid ""
-"Level %1 must contain exactly 3 integer numbers in \"Row coefficients\". The "
-"first entry must be between 1 and 10, the others between 0 and 10, and the "
-"sum of the 3 entries must not be larger than 10."
+"Level %1 must contain exactly 3 integer numbers in \"Row coefficients\". The first entry must be between 1 and 10, the others between 0 and 10, and the sum of the 3 entries must not be larger than "
+"10."
 msgstr ""
 
 #. +> trunk6
@@ -1304,26 +1231,19 @@ msgstr ""
 #. +> trunk6 stable6
 #: server/activities/multiple_choice_questions/ActivityEditor.qml:15
 msgctxt "ActivityEditor|"
-msgid ""
-"In \"Single answer\" mode, users can select only one answer. In \"Multiple "
-"answers\" mode, they can select multiple answers."
+msgid "In \"Single answer\" mode, users can select only one answer. In \"Multiple answers\" mode, they can select multiple answers."
 msgstr ""
 
 #. +> trunk6 stable6
 #: server/activities/multiple_choice_questions/ActivityEditor.qml:17
 msgctxt "ActivityEditor|"
-msgid ""
-"All entries in the \"Correct answers\" list must also be present in the "
-"\"Answers\" list."
+msgid "All entries in the \"Correct answers\" list must also be present in the \"Answers\" list."
 msgstr ""
 
 #. +> trunk6 stable6
 #: server/activities/multiple_choice_questions/ActivityEditor.qml:19
 msgctxt "ActivityEditor|"
-msgid ""
-"\"Correct answer text\" and \"Wrong answer text\" are optional messages "
-"displayed after users validate their answer. You can leave those empty if "
-"you want."
+msgid "\"Correct answer text\" and \"Wrong answer text\" are optional messages displayed after users validate their answer. You can leave those empty if you want."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -1436,9 +1356,7 @@ msgstr ""
 #: server/activities/multiple_choice_questions/MultipleChoiceEditor.qml:155
 #, qt-format
 msgctxt "MultipleChoiceEditor|"
-msgid ""
-"In Sublevel %1 of Level %2, the correct answer \"%3\" is not in the "
-"\"Answers\" list."
+msgid "In Sublevel %1 of Level %2, the correct answer \"%3\" is not in the \"Answers\" list."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -1467,8 +1385,7 @@ msgid "Mode"
 msgstr ""
 
 #. +> trunk6
-#: server/activities/tens_complement_find/ActivityEditor.qml:15
-#: server/activities/tens_complement_use/ActivityEditor.qml:15
+#: server/activities/tens_complement_find/ActivityEditor.qml:15 server/activities/tens_complement_use/ActivityEditor.qml:15
 msgctxt "ActivityEditor|"
 msgid "All numbers must be positive integers"
 msgstr ""
@@ -1476,19 +1393,13 @@ msgstr ""
 #. +> trunk6
 #: server/activities/tens_complement_find/ActivityEditor.qml:17
 msgctxt "ActivityEditor|"
-msgid ""
-"Do not add too many \"Extra cards\"! Each sublevel must not have more than 6 "
-"cards, and there is already 1 card per addition, or 2 cards per addition if "
-"\"Find both numbers\" is selected."
+msgid "Do not add too many \"Extra cards\"! Each sublevel must not have more than 6 cards, and there is already 1 card per addition, or 2 cards per addition if \"Find both numbers\" is selected."
 msgstr ""
 
 #. +> trunk6
 #: server/activities/tens_complement_find/ActivityEditor.qml:19
 msgctxt "ActivityEditor|"
-msgid ""
-"If \"Random questions\" is not selected, \"First operands\" of each sublevel "
-"must contain 1, 2 or 3 numbers between 1 and 9. There is one addition for "
-"each \"First operand\" number."
+msgid "If \"Random questions\" is not selected, \"First operands\" of each sublevel must contain 1, 2 or 3 numbers between 1 and 9. There is one addition for each \"First operand\" number."
 msgstr ""
 
 #. +> trunk6
@@ -1504,8 +1415,7 @@ msgid "Find both numbers"
 msgstr ""
 
 #. +> trunk6
-#: server/activities/tens_complement_find/TensComplementFindEditor.qml:29
-#: server/activities/tens_complement_find/TensComplementFindEditor.qml:35
+#: server/activities/tens_complement_find/TensComplementFindEditor.qml:29 server/activities/tens_complement_find/TensComplementFindEditor.qml:35
 msgctxt "TensComplementFindEditor|"
 msgid "Sublevels"
 msgstr ""
@@ -1517,8 +1427,7 @@ msgid "Additions per sublevel"
 msgstr ""
 
 #. +> trunk6
-#: server/activities/tens_complement_find/TensComplementFindEditor.qml:31
-#: server/activities/tens_complement_find/TensComplementFindEditor.qml:41
+#: server/activities/tens_complement_find/TensComplementFindEditor.qml:31 server/activities/tens_complement_find/TensComplementFindEditor.qml:41
 msgctxt "TensComplementFindEditor|"
 msgid "Extra cards"
 msgstr ""
@@ -1618,19 +1527,16 @@ msgstr ""
 #: server/activities/tens_complement_swap/TensComplementSwapEditor.qml:29
 msgctxt "TensComplementSwapEditor|"
 msgid ""
-"If \"Random operands\" is not selected, \"Operands\" must contain 1, 2 or 3 "
-"entries. Each entry must be a number between 1 and 9. The resulting addition "
-"will contain the given entries and their complement to 10."
+"If \"Random operands\" is not selected, \"Operands\" must contain 1, 2 or 3 entries. Each entry must be a number between 1 and 9. The resulting addition will contain the given entries and their "
+"complement to 10."
 msgstr ""
 
 #. +> trunk6
 #: server/activities/tens_complement_swap/TensComplementSwapEditor.qml:31
 msgctxt "TensComplementSwapEditor|"
 msgid ""
-"\"Extra operand\" can contain 1 number between 1 and 9 which will be added "
-"to the addition. It is mandatory if \"Operands\" contains 1 number, optional "
-"if \"Operands\" contains 2 numbers, and not used if \"Operands\" contains 3 "
-"numbers."
+"\"Extra operand\" can contain 1 number between 1 and 9 which will be added to the addition. It is mandatory if \"Operands\" contains 1 number, optional if \"Operands\" contains 2 numbers, and not "
+"used if \"Operands\" contains 3 numbers."
 msgstr ""
 
 #. +> trunk6
@@ -1686,9 +1592,7 @@ msgstr ""
 #: server/activities/tens_complement_swap/TensComplementSwapEditor.qml:192
 #, qt-format
 msgctxt "TensComplementSwapEditor|"
-msgid ""
-"Content of Addition %2 of Level %1 is not valid. Please check the "
-"instructions."
+msgid "Content of Addition %2 of Level %1 is not valid. Please check the instructions."
 msgstr ""
 
 #. +> trunk6
@@ -1701,17 +1605,13 @@ msgstr ""
 #. +> trunk6
 #: server/activities/tens_complement_use/ActivityEditor.qml:17
 msgctxt "ActivityEditor|"
-msgid ""
-"Do not add too many \"Extra cards\"! Each sublevel must not have more than 6 "
-"cards, and there are already 2 cards per addition."
+msgid "Do not add too many \"Extra cards\"! Each sublevel must not have more than 6 cards, and there are already 2 cards per addition."
 msgstr ""
 
 #. +> trunk6
 #: server/activities/tens_complement_use/ActivityEditor.qml:19
 msgctxt "ActivityEditor|"
-msgid ""
-"In \"Additions\", each entry must be an addition which first number is "
-"between 1 and 9, and which result is between 11 and 99."
+msgid "In \"Additions\", each entry must be an addition which first number is between 1 and 9, and which result is between 11 and 99."
 msgstr ""
 
 #. +> trunk6
@@ -1739,8 +1639,7 @@ msgid "Random questions"
 msgstr ""
 
 #. +> trunk6
-#: server/activities/tens_complement_use/TensComplementUseEditor.qml:28
-#: server/activities/tens_complement_use/TensComplementUseEditor.qml:34
+#: server/activities/tens_complement_use/TensComplementUseEditor.qml:28 server/activities/tens_complement_use/TensComplementUseEditor.qml:34
 msgctxt "TensComplementUseEditor|"
 msgid "Sublevels"
 msgstr ""
@@ -1752,8 +1651,7 @@ msgid "Additions per sublevel"
 msgstr ""
 
 #. +> trunk6
-#: server/activities/tens_complement_use/TensComplementUseEditor.qml:30
-#: server/activities/tens_complement_use/TensComplementUseEditor.qml:40
+#: server/activities/tens_complement_use/TensComplementUseEditor.qml:30 server/activities/tens_complement_use/TensComplementUseEditor.qml:40
 msgctxt "TensComplementUseEditor|"
 msgid "Extra cards"
 msgstr ""
@@ -1964,8 +1862,7 @@ msgid "Your system default"
 msgstr ""
 
 #. +> trunk6 stable6
-#: server/controllers/database-controller.cpp:79
-#: server/controllers/database-controller.cpp:85
+#: server/controllers/database-controller.cpp:79 server/controllers/database-controller.cpp:85
 #, qt-format
 msgctxt "controllers::DatabaseController|"
 msgid ""
@@ -2339,15 +2236,13 @@ msgstr ""
 #. +> trunk6 stable6
 #: server/dialogs/RemoveDatasetDialog.qml:70
 msgctxt "RemoveDatasetDialog|"
-msgid ""
-"Are you sure you want to delete the following dataset from the database?"
+msgid "Are you sure you want to delete the following dataset from the database?"
 msgstr ""
 
 #. +> trunk6 stable6
 #: server/dialogs/RemovePupilsDialog.qml:76
 msgctxt "RemovePupilsDialog|"
-msgid ""
-"Are you sure you want to remove the following pupils from the database ?"
+msgid "Are you sure you want to remove the following pupils from the database ?"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -2365,9 +2260,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: server/dialogs/SendDatasetDialog.qml:95
 msgctxt "SendDatasetDialog|"
-msgid ""
-"Are you sure you want to remove all the existing datasets from selected "
-"pupils?"
+msgid "Are you sure you want to remove all the existing datasets from selected pupils?"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -2679,8 +2572,7 @@ msgid "You are about to duplicate datas"
 msgstr ""
 
 #. +> trunk6 stable6
-#: server/views/datas/DuplicateData.qml:199
-#: server/views/datas/DuplicateData.qml:212
+#: server/views/datas/DuplicateData.qml:199 server/views/datas/DuplicateData.qml:212
 msgctxt "DuplicateData|"
 msgid "No action now"
 msgstr ""

@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the gcompris package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: gcompris_voices\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-12-23 09:04+0100\n"
-"PO-Revision-Date: 2017-05-20 22:03-0700\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: gcompris\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "adjacent_numbers"
 #. +> trunk6 stable6
@@ -32,71 +31,56 @@ msgstr ""
 #. +> trunk6 stable6
 #: activities/algebra_by/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Multiply the two numbers together and type in your answer before the balloon "
-"lands in the water"
+msgid "Multiply the two numbers together and type in your answer before the balloon lands in the water"
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "algebra_div"
 #. +> trunk6 stable6
 #: activities/algebra_div/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Find the result of the division and type in your answer before the balloon "
-"lands in the water"
+msgid "Find the result of the division and type in your answer before the balloon lands in the water"
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "algebra_minus"
 #. +> trunk6 stable6
 #: activities/algebra_minus/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Subtract the two numbers and type in your answer before the balloon lands in "
-"the water"
+msgid "Subtract the two numbers and type in your answer before the balloon lands in the water"
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "algebra_plus"
 #. +> trunk6 stable6
 #: activities/algebra_plus/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Add the two numbers together and type in your answer before the balloon "
-"lands in the water"
+msgid "Add the two numbers together and type in your answer before the balloon lands in the water"
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "algorithm"
 #. +> trunk6 stable6
 #: activities/algorithm/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Click on the missing items on the table and follow the logical sequence "
-"displayed above it."
+msgid "Click on the missing items on the table and follow the logical sequence displayed above it."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "align4"
 #. +> trunk6 stable6
 #: activities/align4/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Click on the column where you wish your token to fall and try to align 4 "
-"tokens before Tux."
+msgid "Click on the column where you wish your token to fall and try to align 4 tokens before Tux."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "align4_2players"
 #. +> trunk6 stable6
 #: activities/align4_2players/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Click on the column where you wish your token to fall and try to align 4 "
-"tokens to win."
+msgid "Click on the column where you wish your token to fall and try to align 4 tokens to win."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "alphabet-sequence"
 #. +> trunk6 stable6
 #: activities/alphabet-sequence/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Move the helicopter to catch the clouds following the order of the alphabet."
+msgid "Move the helicopter to catch the clouds following the order of the alphabet."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "analog_electricity"
@@ -124,9 +108,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: activities/baby_tangram/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Move each puzzle piece, to obtain the completed puzzle. You can change their "
-"orientation by clicking on the arrows."
+msgid "Move each puzzle piece, to obtain the completed puzzle. You can change their orientation by clicking on the arrows."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "baby_wordprocessor"
@@ -161,28 +143,22 @@ msgstr ""
 #. +> trunk6 stable6
 #: activities/ballcatch/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Press the left and right arrows at the same time to send the ball straight on"
+msgid "Press the left and right arrows at the same time to send the ball straight on"
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "bargame"
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "bargame_2players"
 #. +> trunk6 stable6
-#: activities/bargame/ActivityInfo.qml:18
-#: activities/bargame_2players/ActivityInfo.qml:18
+#: activities/bargame/ActivityInfo.qml:18 activities/bargame_2players/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Select the number of balls you wish to place in the holes and then click on "
-"the OK button. The winner is the one who hasn't put a ball in the red hole."
+msgid "Select the number of balls you wish to place in the holes and then click on the OK button. The winner is the one who hasn't put a ball in the red hole."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "binary_bulb"
 #. +> trunk6 stable6
 #: activities/binary_bulb/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Turn on the right bulbs to represent the binary of the given decimal number. "
-"When you have achieved it, press OK"
+msgid "Turn on the right bulbs to represent the binary of the given decimal number. When you have achieved it, press OK"
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "braille_alphabets"
@@ -204,9 +180,8 @@ msgstr ""
 #: activities/calcudoku/ActivityInfo.qml:17
 #, kde-format
 msgid ""
-"Select a number and click on its target position. Each number must appear "
-"only once in a row and in a column. The numbers in the cells of a cage must "
-"produce the given result when combined using the given operator."
+"Select a number and click on its target position. Each number must appear only once in a row and in a column. The numbers in the cells of a cage must produce the given result when combined using the"
+" given operator."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "calendar"
@@ -221,9 +196,7 @@ msgstr ""
 #: activities/canal_lock/ActivityInfo.qml:18
 #, kde-format
 msgid ""
-"You are responsible for the lock and you must help Tux pass through. Click "
-"on the valves to cause either a drop or an increase in the water level, and "
-"click on the gates to open or close a path."
+"You are responsible for the lock and you must help Tux pass through. Click on the valves to cause either a drop or an increase in the water level, and click on the gates to open or close a path."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "categorization"
@@ -265,9 +238,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: activities/chess_partyend/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Click on a white chess piece and green boxes will appear to indicate all the "
-"movements that piece can make. Try and get the black king into checkmate."
+msgid "Click on a white chess piece and green boxes will appear to indicate all the movements that piece can make. Try and get the black king into checkmate."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "chronos"
@@ -280,12 +251,9 @@ msgstr ""
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "click_on_letter_up"
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "click_on_letter"
 #. +> trunk6 stable6
-#: activities/click_on_letter/ActivityInfo.qml:18
-#: activities/click_on_letter_up/ActivityInfo.qml:18
+#: activities/click_on_letter/ActivityInfo.qml:18 activities/click_on_letter_up/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Click on the required letter. You can listen to it again by clicking on the "
-"mouth."
+msgid "Click on the required letter. You can listen to it again by clicking on the mouth."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "clickanddraw"
@@ -334,17 +302,14 @@ msgstr ""
 #. +> trunk6 stable6
 #: activities/comparator/ActivityInfo.qml:20
 #, kde-format
-msgid ""
-"Select the correct comparator sign for each pair of numbers in the list."
+msgid "Select the correct comparator sign for each pair of numbers in the list."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "crane"
 #. +> trunk6 stable6
 #: activities/crane/ActivityInfo.qml:23
 #, kde-format
-msgid ""
-" Click on each item in turn, in the blue frame, and move them to reproduce "
-"the pattern from the pink frame."
+msgid " Click on each item in turn, in the blue frame, and move them to reproduce the pattern from the pink frame."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "details"
@@ -386,8 +351,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: activities/enumerate/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Count the elements by organizing them then type the answer on your keyboard."
+msgid "Count the elements by organizing them then type the answer on your keyboard."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "erase"
@@ -457,10 +421,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: activities/fifteen/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Click or drag an element next to a free space, the element will move and "
-"release its space. You must put all the pieces in the correct order. The "
-"numbers on the pieces can help you."
+msgid "Click or drag an element next to a free space, the element will move and release its space. You must put all the pieces in the correct order. The numbers on the pieces can help you."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "find_the_day"
@@ -488,8 +449,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: activities/fractions_create/ActivityInfo.qml:17
 #, kde-format
-msgid ""
-"Select the appropriate number of parts as described in the instructions."
+msgid "Select the appropriate number of parts as described in the instructions."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "fractions_find"
@@ -531,45 +491,35 @@ msgstr ""
 #. +> trunk6 stable6
 #: activities/gnumch-equality/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Guide the number eater with the arrow keys to the required numbers and press "
-"the space bar to swallow them."
+msgid "Guide the number eater with the arrow keys to the required numbers and press the space bar to swallow them."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "gnumch-factors"
 #. +> trunk6 stable6
 #: activities/gnumch-factors/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Guide the number eater with the arrow keys to the factors of the displayed "
-"number and press space to swallow them."
+msgid "Guide the number eater with the arrow keys to the factors of the displayed number and press space to swallow them."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "gnumch-inequality"
 #. +> trunk6 stable6
 #: activities/gnumch-inequality/ActivityInfo.qml:19
 #, kde-format
-msgid ""
-"Guide the number eater with the arrow keys to the numbers that are different "
-"from the ones displayed and press the space bar to swallow them."
+msgid "Guide the number eater with the arrow keys to the numbers that are different from the ones displayed and press the space bar to swallow them."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "gnumch-multiples"
 #. +> trunk6 stable6
 #: activities/gnumch-multiples/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Guide the number eater with the arrow keys to the multiples of the displayed "
-"number and press space to swallow them."
+msgid "Guide the number eater with the arrow keys to the multiples of the displayed number and press space to swallow them."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "gnumch-primes"
 #. +> trunk6 stable6
 #: activities/gnumch-primes/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Guide the number eater with the arrow keys to the prime numbers and press "
-"space to swallow them."
+msgid "Guide the number eater with the arrow keys to the prime numbers and press space to swallow them."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "graduated_line_read"
@@ -589,8 +539,7 @@ msgstr ""
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "grammar_classes"
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "grammar_analysis"
 #. +> trunk6 stable6
-#: activities/grammar_analysis/ActivityInfo.qml:21
-#: activities/grammar_classes/ActivityInfo.qml:21
+#: activities/grammar_analysis/ActivityInfo.qml:21 activities/grammar_classes/ActivityInfo.qml:21
 #, kde-format
 msgid "Assign the requested grammatical classes to the corresponding words."
 msgstr ""
@@ -606,8 +555,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: activities/gravity/ActivityInfo.qml:22
 #, kde-format
-msgid ""
-"Move the spaceship to avoid hitting the planets and reach the space station."
+msgid "Move the spaceship to avoid hitting the planets and reach the space station."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "guess24"
@@ -621,8 +569,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: activities/guesscount/ActivityInfo.qml:22
 #, kde-format
-msgid ""
-"Use the numbers and operations suggested to find the results proposed above."
+msgid "Use the numbers and operations suggested to find the results proposed above."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "guessnumber"
@@ -643,27 +590,21 @@ msgstr ""
 #. +> trunk6 stable6
 #: activities/hanoi/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Rebuild the same tower in the empty area as the one you see on the right "
-"hand side."
+msgid "Rebuild the same tower in the empty area as the one you see on the right hand side."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "hanoi_real"
 #. +> trunk6 stable6
 #: activities/hanoi_real/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Rebuild the model tower on the right support. Take care, no disc may be "
-"placed atop a smaller disc."
+msgid "Rebuild the model tower on the right support. Take care, no disc may be placed atop a smaller disc."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "hexagon"
 #. +> trunk6 stable6
 #: activities/hexagon/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Click on the hexagons to find the hidden object, the red zone indicates that "
-"you're close to it!"
+msgid "Click on the hexagons to find the hidden object, the red zone indicates that you're close to it!"
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "imagename"
@@ -691,16 +632,13 @@ msgstr ""
 #. +> trunk6 stable6
 #: activities/lang/ActivityInfo.qml:24
 #, kde-format
-msgid ""
-"Select the language you want to learn then review the words before doing the "
-"exercises."
+msgid "Select the language you want to learn then review the words before doing the exercises."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "learn_additions"
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "learn_subtractions"
 #. +> trunk6 stable6
-#: activities/learn_additions/ActivityInfo.qml:18
-#: activities/learn_subtractions/ActivityInfo.qml:18
+#: activities/learn_additions/ActivityInfo.qml:18 activities/learn_subtractions/ActivityInfo.qml:18
 #, kde-format
 msgid "Click on the circles to give the operation's result."
 msgstr ""
@@ -709,18 +647,14 @@ msgstr ""
 #. +> trunk6 stable6
 #: activities/learn_decimals/ActivityInfo.qml:17
 #, kde-format
-msgid ""
-"Drag the arrow to select a part of the bar, and drag the selected part of "
-"the bar to the empty area to represent the decimal number."
+msgid "Drag the arrow to select a part of the bar, and drag the selected part of the bar to the empty area to represent the decimal number."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "learn_decimals_additions"
 #. +> trunk6 stable6
 #: activities/learn_decimals_additions/ActivityInfo.qml:17
 #, kde-format
-msgid ""
-"Drag the arrow to select a part of the bar, and drag the selected part of "
-"the bar to the empty area to represent the result of the addition."
+msgid "Drag the arrow to select a part of the bar, and drag the selected part of the bar to the empty area to represent the result of the addition."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "learn_decimals_subtractions"
@@ -741,26 +675,21 @@ msgstr ""
 #. +> trunk6 stable6
 #: activities/learn_quantities/ActivityInfo.qml:17
 #, kde-format
-msgid ""
-"Drag the arrow to select a number of oranges, and drag the oranges to the "
-"empty area to represent the requested quantity."
+msgid "Drag the arrow to select a number of oranges, and drag the oranges to the empty area to represent the requested quantity."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "left_right_click"
 #. +> trunk6 stable6
 #: activities/left_right_click/ActivityInfo.qml:17
 #, kde-format
-msgid ""
-"Move animals to their homes using a left click or right click on your mouse."
+msgid "Move animals to their homes using a left click or right click on your mouse."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "leftright"
 #. +> trunk6 stable6
 #: activities/leftright/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Guess if the picture presents a left or right hand and click on the correct "
-"answer."
+msgid "Guess if the picture presents a left or right hand and click on the correct answer."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "letter-in-word"
@@ -795,51 +724,41 @@ msgstr ""
 #. +> trunk6 stable6
 #: activities/magic-hat-plus/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Count the number of stars hidden under the hat and then click on the stars "
-"to indicate their number."
+msgid "Count the number of stars hidden under the hat and then click on the stars to indicate their number."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "maze"
 #. +> trunk6 stable6
 #: activities/maze/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Use the arrows keys or swipe the touch screen to help Tux find his way out."
+msgid "Use the arrows keys or swipe the touch screen to help Tux find his way out."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "mazeinvisible"
 #. +> trunk6 stable6
 #: activities/mazeinvisible/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Use the arrow keys or swipe the touch screen to guide Tux out. Use the maze "
-"icon or the space key to see the map."
+msgid "Use the arrow keys or swipe the touch screen to guide Tux out. Use the maze icon or the space key to see the map."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "mazerelative"
 #. +> trunk6 stable6
 #: activities/mazerelative/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Help Tux find his way out. Left and right are used to turn and up to go "
-"forward."
+msgid "Help Tux find his way out. Left and right are used to turn and up to go forward."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "melody"
 #. +> trunk6 stable6
 #: activities/melody/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Listen to the sound sequence played, and reproduce it by clicking on the "
-"xylophone's bars"
+msgid "Listen to the sound sequence played, and reproduce it by clicking on the xylophone's bars"
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-case-association-tux"
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-case-association"
 #. +> trunk6 stable6
-#: activities/memory-case-association-tux/ActivityInfo.qml:18
-#: activities/memory-case-association/ActivityInfo.qml:18
+#: activities/memory-case-association-tux/ActivityInfo.qml:18 activities/memory-case-association/ActivityInfo.qml:18
 #, kde-format
 msgid "Match the upper case card with its lower case pair."
 msgstr ""
@@ -848,8 +767,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: activities/memory-enumerate/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Match a number card with a card displaying the same number of butterflies."
+msgid "Match a number card with a card displaying the same number of butterflies."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-math-minus"
@@ -867,20 +785,11 @@ msgstr ""
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-math-mult-tux"
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-math-minus-tux"
 #. +> trunk6 stable6
-#: activities/memory-math-add-minus-mult-div-tux/ActivityInfo.qml:18
-#: activities/memory-math-add-minus-mult-div/ActivityInfo.qml:18
-#: activities/memory-math-add-minus-tux/ActivityInfo.qml:18
-#: activities/memory-math-add-minus/ActivityInfo.qml:18
-#: activities/memory-math-add-tux/ActivityInfo.qml:18
-#: activities/memory-math-add/ActivityInfo.qml:18
-#: activities/memory-math-div-tux/ActivityInfo.qml:18
-#: activities/memory-math-div/ActivityInfo.qml:18
-#: activities/memory-math-minus-tux/ActivityInfo.qml:18
-#: activities/memory-math-minus/ActivityInfo.qml:18
-#: activities/memory-math-mult-div-tux/ActivityInfo.qml:18
-#: activities/memory-math-mult-div/ActivityInfo.qml:18
-#: activities/memory-math-mult-tux/ActivityInfo.qml:18
-#: activities/memory-math-mult/ActivityInfo.qml:18
+#: activities/memory-math-add-minus-mult-div-tux/ActivityInfo.qml:18 activities/memory-math-add-minus-mult-div/ActivityInfo.qml:18 activities/memory-math-add-minus-tux/ActivityInfo.qml:18
+#: activities/memory-math-add-minus/ActivityInfo.qml:18 activities/memory-math-add-tux/ActivityInfo.qml:18 activities/memory-math-add/ActivityInfo.qml:18
+#: activities/memory-math-div-tux/ActivityInfo.qml:18 activities/memory-math-div/ActivityInfo.qml:18 activities/memory-math-minus-tux/ActivityInfo.qml:18
+#: activities/memory-math-minus/ActivityInfo.qml:18 activities/memory-math-mult-div-tux/ActivityInfo.qml:18 activities/memory-math-mult-div/ActivityInfo.qml:18
+#: activities/memory-math-mult-tux/ActivityInfo.qml:18 activities/memory-math-mult/ActivityInfo.qml:18
 #, kde-format
 msgid "Turn over two cards to match the calculation with its answer."
 msgstr ""
@@ -888,8 +797,7 @@ msgstr ""
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-sound"
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-sound-tux"
 #. +> trunk6 stable6
-#: activities/memory-sound-tux/ActivityInfo.qml:18
-#: activities/memory-sound/ActivityInfo.qml:18
+#: activities/memory-sound-tux/ActivityInfo.qml:18 activities/memory-sound/ActivityInfo.qml:18
 #, kde-format
 msgid "Click on an audio card and find its double."
 msgstr ""
@@ -897,8 +805,7 @@ msgstr ""
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-tux"
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "memory"
 #. +> trunk6 stable6
-#: activities/memory-tux/ActivityInfo.qml:18
-#: activities/memory/ActivityInfo.qml:18
+#: activities/memory-tux/ActivityInfo.qml:18 activities/memory/ActivityInfo.qml:18
 #, kde-format
 msgid "Click on a card and find its double."
 msgstr ""
@@ -914,19 +821,14 @@ msgstr ""
 #. +> trunk6 stable6
 #: activities/mining/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Looking at the rockwall, you can see a sparkle somewhere. Move the mouse "
-"cursor next to this sparkle and use the mousewheel or the zoom gesture to "
-"zoom in."
+msgid "Looking at the rockwall, you can see a sparkle somewhere. Move the mouse cursor next to this sparkle and use the mousewheel or the zoom gesture to zoom in."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "missing-letter"
 #. +> trunk6 stable6
 #: activities/missing-letter/ActivityInfo.qml:19
 #, kde-format
-msgid ""
-"Find the missing letter and complete the word by clicking on one of the "
-"letters proposed on the side."
+msgid "Find the missing letter and complete the word by clicking on one of the letters proposed on the side."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "money"
@@ -939,8 +841,7 @@ msgstr ""
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "money_back_cents"
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "money_back"
 #. +> trunk6 stable6
-#: activities/money_back/ActivityInfo.qml:18
-#: activities/money_back_cents/ActivityInfo.qml:18
+#: activities/money_back/ActivityInfo.qml:18 activities/money_back_cents/ActivityInfo.qml:18
 #, kde-format
 msgid "Click on the money at the bottom of the screen to give Tux his change."
 msgstr ""
@@ -977,18 +878,14 @@ msgstr ""
 #. +> trunk6 stable6
 #: activities/nine_men_morris/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Click on the dot where you wish to place your piece and try to take all "
-"Tux's pieces."
+msgid "Click on the dot where you wish to place your piece and try to take all Tux's pieces."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "nine_men_morris_2players"
 #. +> trunk6 stable6
 #: activities/nine_men_morris_2players/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Click on the dot where you wish to place your piece and try to take all your "
-"friend's pieces."
+msgid "Click on the dot where you wish to place your piece and try to take all your friend's pieces."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "note_names"
@@ -1009,9 +906,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: activities/numbers-odd-even/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Move the helicopter to catch the clouds having even or odd numbers, in the "
-"shown order."
+msgid "Move the helicopter to catch the clouds having even or odd numbers, in the shown order."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "ordering_alphabets"
@@ -1045,8 +940,7 @@ msgstr ""
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "oware_2players"
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "oware"
 #. +> trunk6 stable6
-#: activities/oware/ActivityInfo.qml:17
-#: activities/oware_2players/ActivityInfo.qml:17
+#: activities/oware/ActivityInfo.qml:17 activities/oware_2players/ActivityInfo.qml:17
 #, kde-format
 msgid "Capture at least 25 seeds to win the game"
 msgstr ""
@@ -1061,19 +955,15 @@ msgstr ""
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "path_decoding"
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "path_decoding_relative"
 #. +> trunk6 stable6
-#: activities/path_decoding/ActivityInfo.qml:17
-#: activities/path_decoding_relative/ActivityInfo.qml:17
+#: activities/path_decoding/ActivityInfo.qml:17 activities/path_decoding_relative/ActivityInfo.qml:17
 #, kde-format
-msgid ""
-"Click on the grid squares following the given directions to help Tux reach "
-"the target."
+msgid "Click on the grid squares following the given directions to help Tux reach the target."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "path_encoding"
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "path_encoding_relative"
 #. +> trunk6 stable6
-#: activities/path_encoding/ActivityInfo.qml:17
-#: activities/path_encoding_relative/ActivityInfo.qml:17
+#: activities/path_encoding/ActivityInfo.qml:17 activities/path_encoding_relative/ActivityInfo.qml:17
 #, kde-format
 msgid "Use the arrows to move Tux along the path and reach the target."
 msgstr ""
@@ -1096,18 +986,14 @@ msgstr ""
 #. +> trunk6 stable6
 #: activities/piano_composition/ActivityInfo.qml:19
 #, kde-format
-msgid ""
-"Learn to compose piano music using the octaves and the tools presented above "
-"the staff."
+msgid "Learn to compose piano music using the octaves and the tools presented above the staff."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "planegame"
 #. +> trunk6 stable6
 #: activities/planegame/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Move the helicopter with the arrow keys and catch the numbers in the clouds, "
-"in ascending order."
+msgid "Move the helicopter with the arrow keys and catch the numbers in the clouds, in ascending order."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "play_piano"
@@ -1135,8 +1021,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: activities/programmingMaze/ActivityInfo.qml:19
 #, kde-format
-msgid ""
-"Arrange the instructions and traverse the correct path to reach the fish."
+msgid "Arrange the instructions and traverse the correct path to reach the fish."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "railroad"
@@ -1149,8 +1034,7 @@ msgstr ""
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "readingh"
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "readingv"
 #. +> trunk6 stable6
-#: activities/readingh/ActivityInfo.qml:18
-#: activities/readingv/ActivityInfo.qml:18
+#: activities/readingh/ActivityInfo.qml:18 activities/readingv/ActivityInfo.qml:18
 #, kde-format
 msgid "Read a list of words and say if a given word is in it."
 msgstr ""
@@ -1166,8 +1050,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: activities/redraw_symmetrical/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Use the drawing tools to reproduce symmetrically the pattern on the right."
+msgid "Use the drawing tools to reproduce symmetrically the pattern on the right."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "renewable_energy"
@@ -1181,9 +1064,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: activities/reversecount/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Click on the domino and validate your choice with the OK button to indicate "
-"the number of ice blocks Tux will have to follow to eat a fish."
+msgid "Click on the domino and validate your choice with the OK button to indicate the number of ice blocks Tux will have to follow to eat a fish."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "roman_numerals"
@@ -1197,9 +1078,7 @@ msgstr ""
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "scalesboard_weight_avoirdupois"
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "scalesboard_weight"
 #. +> trunk6 stable6
-#: activities/scalesboard/ActivityInfo.qml:18
-#: activities/scalesboard_weight/ActivityInfo.qml:18
-#: activities/scalesboard_weight_avoirdupois/ActivityInfo.qml:18
+#: activities/scalesboard/ActivityInfo.qml:18 activities/scalesboard_weight/ActivityInfo.qml:18 activities/scalesboard_weight_avoirdupois/ActivityInfo.qml:18
 #, kde-format
 msgid "Drag the weights up to balance the scales."
 msgstr ""
@@ -1208,17 +1087,14 @@ msgstr ""
 #. +> trunk6 stable6
 #: activities/share/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Share the candies equally among the specified number of children and notice "
-"that there may be a rest left"
+msgid "Share the candies equally among the specified number of children and notice that there may be a rest left"
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "simplepaint"
 #. +> trunk6 stable6
 #: activities/simplepaint/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Select a color and paint the rectangles as you like to create a drawing."
+msgid "Select a color and paint the rectangles as you like to create a drawing."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "sketch"
@@ -1232,43 +1108,35 @@ msgstr ""
 #. +> trunk6 stable6
 #: activities/smallnumbers/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Count the number on the dice and type it on your keyboard before it reaches "
-"the ground."
+msgid "Count the number on the dice and type it on your keyboard before it reaches the ground."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "smallnumbers2"
 #. +> trunk6 stable6
 #: activities/smallnumbers2/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Count the numbers on the dominoes then type the result on your keyboard."
+msgid "Count the numbers on the dominoes then type the result on your keyboard."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "solar_system"
 #. +> trunk6 stable6
 #: activities/solar_system/ActivityInfo.qml:21
 #, kde-format
-msgid ""
-"Answer the questions presented and get a 100% correctness among the options."
+msgid "Answer the questions presented and get a 100% correctness among the options."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "submarine"
 #. +> trunk6 stable6
 #: activities/submarine/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Drive the submarine to the right end of the screen without colliding with "
-"any objects"
+msgid "Drive the submarine to the right end of the screen without colliding with any objects"
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "sudoku"
 #. +> trunk6 stable6
 #: activities/sudoku/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Select a number or a symbol and click its target area. Each symbol must "
-"appear only once in a row, in a column and in a subregion if any."
+msgid "Select a number or a symbol and click its target area. Each symbol must appear only once in a row, in a column and in a subregion if any."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "superbrain"
@@ -1276,19 +1144,15 @@ msgstr ""
 #: activities/superbrain/ActivityInfo.qml:18
 #, kde-format
 msgid ""
-"Find out the right combination of colors. A dot framed in a black square "
-"means that you found the correct colour in the correct position, while a dot "
-"framed in a white square means it's the correct colour, but in the wrong "
-"position."
+"Find out the right combination of colors. A dot framed in a black square means that you found the correct colour in the correct position, while a dot framed in a white square means it's the correct "
+"colour, but in the wrong position."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "tangram"
 #. +> trunk6 stable6
 #: activities/tangram/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Click on each object to obtain the same figure. You can change their "
-"orientation by clicking on the arrows."
+msgid "Click on each object to obtain the same figure. You can change their orientation by clicking on the arrows."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "target"
@@ -1302,57 +1166,43 @@ msgstr ""
 #. +> trunk6 stable6
 #: activities/tens_complement_calculate/ActivityInfo.qml:17
 #, kde-format
-msgid ""
-"Create pairs of numbers equal to ten. Select a number, then select another "
-"number of the same operation to swap their position. Then, select the result "
-"box to type the result."
+msgid "Create pairs of numbers equal to ten. Select a number, then select another number of the same operation to swap their position. Then, select the result box to type the result."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "tens_complement_find"
 #. +> trunk6 stable6
 #: activities/tens_complement_find/ActivityInfo.qml:17
 #, kde-format
-msgid ""
-"Create pairs of numbers equal to ten. Select a number in the list, then "
-"select an empty spot of an operation to move the selected number there."
+msgid "Create pairs of numbers equal to ten. Select a number in the list, then select an empty spot of an operation to move the selected number there."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "tens_complement_swap"
 #. +> trunk6 stable6
 #: activities/tens_complement_swap/ActivityInfo.qml:17
 #, kde-format
-msgid ""
-"Create pairs of numbers equal to ten. Select a number, then select another "
-"number of the same operation to swap their position."
+msgid "Create pairs of numbers equal to ten. Select a number, then select another number of the same operation to swap their position."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "tens_complement_use"
 #. +> trunk6 stable6
 #: activities/tens_complement_use/ActivityInfo.qml:17
 #, kde-format
-msgid ""
-"Decompose the operations to include a pair of numbers equal to ten. Select a "
-"number in the list, then select an empty spot of an operation to move the "
-"selected number there."
+msgid "Decompose the operations to include a pair of numbers equal to ten. Select a number in the list, then select an empty spot of an operation to move the selected number there."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "tic_tac_toe_2players"
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "tic_tac_toe"
 #. +> trunk6 stable6
-#: activities/tic_tac_toe/ActivityInfo.qml:21
-#: activities/tic_tac_toe_2players/ActivityInfo.qml:21
+#: activities/tic_tac_toe/ActivityInfo.qml:21 activities/tic_tac_toe_2players/ActivityInfo.qml:21
 #, kde-format
-msgid ""
-"Click on the square which you wish to mark and try to mark 3 consecutive "
-"squares before Tux."
+msgid "Click on the square which you wish to mark and try to mark 3 consecutive squares before Tux."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "traffic"
 #. +> trunk6 stable6
 #: activities/traffic/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Slide the cars to make a space so that the red car can go out of the box."
+msgid "Slide the cars to make a space so that the red car can go out of the box."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "vertical_addition"
@@ -1365,8 +1215,7 @@ msgstr ""
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "vertical_subtraction_compensation"
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "vertical_subtraction"
 #. +> trunk6 stable6
-#: activities/vertical_subtraction/ActivityInfo.qml:18
-#: activities/vertical_subtraction_compensation/ActivityInfo.qml:18
+#: activities/vertical_subtraction/ActivityInfo.qml:18 activities/vertical_subtraction_compensation/ActivityInfo.qml:18
 #, kde-format
 msgid "Solve the given subtraction."
 msgstr ""
@@ -1375,9 +1224,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: activities/watercycle/ActivityInfo.qml:18
 #, kde-format
-msgid ""
-"Click on the various active elements that make up the water supply. Then "
-"press the shower button for Tux."
+msgid "Click on the various active elements that make up the water supply. Then press the shower button for Tux."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "wordsgame"

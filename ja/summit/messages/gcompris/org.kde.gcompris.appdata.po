@@ -1,17 +1,13 @@
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: gcompris.appdata\n"
-"POT-Creation-Date: 2025-12-23 09:04+0100\n"
-"PO-Revision-Date: 2015-04-21 22:27-0700\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. (itstool) path: component/name
 #. +> trunk6 stable6
@@ -28,25 +24,19 @@ msgstr ""
 #. (itstool) path: description/p
 #. +> trunk6 stable6
 #: org.kde.gcompris.appdata.xml:19
-msgid ""
-"GCompris is a high quality educational software suite, including a large "
-"number of activities for children aged 2 to 10."
+msgid "GCompris is a high quality educational software suite, including a large number of activities for children aged 2 to 10."
 msgstr ""
 
 #. (itstool) path: description/p
 #. +> trunk6 stable6
 #: org.kde.gcompris.appdata.xml:20
-msgid ""
-"Some of the activities are game orientated, but nonetheless still "
-"educational."
+msgid "Some of the activities are game orientated, but nonetheless still educational."
 msgstr ""
 
 #. (itstool) path: description/p
 #. +> trunk6 stable6
 #: org.kde.gcompris.appdata.xml:22
-msgid ""
-"Below you can find a list of categories with some of the activities "
-"available in that category."
+msgid "Below you can find a list of categories with some of the activities available in that category."
 msgstr ""
 
 #. (itstool) path: ul/li
@@ -58,9 +48,7 @@ msgstr ""
 #. (itstool) path: ul/li
 #. +> trunk6 stable6
 #: org.kde.gcompris.appdata.xml:26
-msgid ""
-"arithmetic: table memory, enumeration, mirror image, balance the scale, "
-"change giving, etc."
+msgid "arithmetic: table memory, enumeration, mirror image, balance the scale, change giving, etc."
 msgstr ""
 
 #. (itstool) path: ul/li
@@ -84,18 +72,15 @@ msgstr ""
 #. (itstool) path: ul/li
 #. +> trunk6 stable6
 #: org.kde.gcompris.appdata.xml:31
-msgid ""
-"other: learn to tell time, the braille system, maze, music instruments, etc."
+msgid "other: learn to tell time, the braille system, maze, music instruments, etc."
 msgstr ""
 
 #. (itstool) path: description/p
 #. +> trunk6 stable6
 #: org.kde.gcompris.appdata.xml:34
 msgid ""
-"Currently GCompris offers in excess of 100 activities and more are being "
-"developed. GCompris is free software, that means that you can adapt it to "
-"your own needs, improve it and, most importantly, share it with children "
-"everywhere."
+"Currently GCompris offers in excess of 100 activities and more are being developed. GCompris is free software, that means that you can adapt it to your own needs, improve it and, most importantly, "
+"share it with children everywhere."
 msgstr ""
 
 #. (itstool) path: screenshot/caption
