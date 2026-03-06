@@ -1,9 +1,6 @@
 name: Sync Pontoon
 
 on:
-  push:
-    branches:
-      - pontoon
   workflow_dispatch:
 
 jobs:
