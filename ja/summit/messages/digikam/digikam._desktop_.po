@@ -1,26 +1,17 @@
-# Translation of desktop_extragear-graphics_digikam into Japanese.
-# Yukiko Bando <ybando@k6.dion.ne.jp>, 2005, 2006, 2007, 2008.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: desktop_extragear-graphics_digikam\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-12-05 10:41+0100\n"
-"PO-Revision-Date: 2008-08-07 21:17+0900\n"
-"Last-Translator: Yukiko Bando <ybando@k6.dion.ne.jp>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: desktop files\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: \n"
-"X-Text-Markup: \n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6
 #: core/app/main/digikam.notifyrc:4
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "digiKam"
 msgctxt "Comment"
 msgid "digiKam"
 msgstr "digiKam"
@@ -94,9 +85,7 @@ msgstr ""
 #. +> trunk6
 #: core/app/main/digikam.notifyrc:599
 msgctxt "Comment"
-msgid ""
-"The synchronization of the images' metadata with the database has been "
-"completed."
+msgid "The synchronization of the images' metadata with the database has been completed."
 msgstr ""
 
 #. +> trunk6
@@ -160,11 +149,9 @@ msgid "Photo Management Program"
 msgstr "フォト管理プログラム"
 
 #. +> trunk6
-#: core/app/main/org.kde.digikam.desktop:120
-#: core/showfoto/main/org.kde.showfoto.desktop:109
+#: core/app/main/org.kde.digikam.desktop:120 core/showfoto/main/org.kde.showfoto.desktop:109
 msgctxt "Comment"
-msgid ""
-"Manage your photographs like a professional with the power of open source"
+msgid "Manage your photographs like a professional with the power of open source"
 msgstr "オープンソースの力であなたの写真をプロのように管理します"
 
 #. +> trunk6
@@ -234,8 +221,7 @@ msgid "RawTherapee"
 msgstr ""
 
 #. +> trunk6
-#: core/data/applications/showfoto.desktop:3
-#: core/showfoto/main/org.kde.showfoto.desktop:2
+#: core/data/applications/showfoto.desktop:3 core/showfoto/main/org.kde.showfoto.desktop:2
 msgctxt "Name"
 msgid "showFoto"
 msgstr "showFoto"
@@ -265,8 +251,7 @@ msgid "XnView MP"
 msgstr ""
 
 #. +> trunk6
-#: core/dplugins/generic/tools/htmlgallery/themes/bluecurved/bluecurved.desktop:3
-#: core/dplugins/generic/tools/htmlgallery/themes/bluecurved/bluecurved.desktop:79
+#: core/dplugins/generic/tools/htmlgallery/themes/bluecurved/bluecurved.desktop:3 core/dplugins/generic/tools/htmlgallery/themes/bluecurved/bluecurved.desktop:79
 msgctxt "Name"
 msgid "Blue curves"
 msgstr ""
@@ -284,22 +269,19 @@ msgid "Vincent Deroo Blanquart"
 msgstr ""
 
 #. +> trunk6
-#: core/dplugins/generic/tools/htmlgallery/themes/bluecurved/bluecurved.desktop:159
-#: core/dplugins/generic/tools/htmlgallery/themes/dateframes/dateframes.desktop:277
+#: core/dplugins/generic/tools/htmlgallery/themes/bluecurved/bluecurved.desktop:159 core/dplugins/generic/tools/htmlgallery/themes/dateframes/dateframes.desktop:277
 msgctxt "Name"
 msgid "Gallery Introduction"
 msgstr ""
 
 #. +> trunk6
-#: core/dplugins/generic/tools/htmlgallery/themes/bluecurved/bluecurved.desktop:202
-#: core/dplugins/generic/tools/htmlgallery/themes/classic/classic.desktop:161
+#: core/dplugins/generic/tools/htmlgallery/themes/bluecurved/bluecurved.desktop:202 core/dplugins/generic/tools/htmlgallery/themes/classic/classic.desktop:161
 msgctxt "Name"
 msgid "Thumbnails per row"
 msgstr ""
 
 #. +> trunk6
-#: core/dplugins/generic/tools/htmlgallery/themes/blueframes/blueframes.desktop:3
-#: core/dplugins/generic/tools/htmlgallery/themes/blueframes/blueframes.desktop:115
+#: core/dplugins/generic/tools/htmlgallery/themes/blueframes/blueframes.desktop:3 core/dplugins/generic/tools/htmlgallery/themes/blueframes/blueframes.desktop:115
 msgctxt "Name"
 msgid "Blue Frames"
 msgstr ""
@@ -311,16 +293,14 @@ msgid "A theme variation based Frames theme"
 msgstr ""
 
 #. +> trunk6
-#: core/dplugins/generic/tools/htmlgallery/themes/blueframes/blueframes.desktop:74
-#: core/dplugins/generic/tools/htmlgallery/themes/cleanframes/cleanframes.desktop:77
+#: core/dplugins/generic/tools/htmlgallery/themes/blueframes/blueframes.desktop:74 core/dplugins/generic/tools/htmlgallery/themes/cleanframes/cleanframes.desktop:77
 #: core/dplugins/generic/tools/htmlgallery/themes/dateframes/dateframes.desktop:76
 msgctxt "Name"
 msgid "Elizabeth Marmorstein"
 msgstr ""
 
 #. +> trunk6
-#: core/dplugins/generic/tools/htmlgallery/themes/classic/classic.desktop:3
-#: core/dplugins/generic/tools/htmlgallery/themes/classic/classic.desktop:79
+#: core/dplugins/generic/tools/htmlgallery/themes/classic/classic.desktop:3 core/dplugins/generic/tools/htmlgallery/themes/classic/classic.desktop:79
 msgctxt "Name"
 msgid "Classic"
 msgstr ""
@@ -332,10 +312,8 @@ msgid "A port of the old HTML Export plugin theme"
 msgstr ""
 
 #. +> trunk6
-#: core/dplugins/generic/tools/htmlgallery/themes/classic/classic.desktop:120
-#: core/dplugins/generic/tools/htmlgallery/themes/matrix/matrix.desktop:76
-#: core/dplugins/generic/tools/htmlgallery/themes/simple/simple.desktop:76
-#: core/dplugins/generic/tools/htmlgallery/themes/snow/snow.desktop:77
+#: core/dplugins/generic/tools/htmlgallery/themes/classic/classic.desktop:120 core/dplugins/generic/tools/htmlgallery/themes/matrix/matrix.desktop:76
+#: core/dplugins/generic/tools/htmlgallery/themes/simple/simple.desktop:76 core/dplugins/generic/tools/htmlgallery/themes/snow/snow.desktop:77
 msgctxt "Name"
 msgid "Aurélien Gâteau"
 msgstr ""
@@ -361,8 +339,6 @@ msgstr ""
 #. +> trunk6
 #: core/dplugins/generic/tools/htmlgallery/themes/classic/classic.desktop:339
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "ImagePlugin_Border"
 msgctxt "Name"
 msgid "Image Border Size"
 msgstr "ImagePlugin_Border"
@@ -370,8 +346,6 @@ msgstr "ImagePlugin_Border"
 #. +> trunk6
 #: core/dplugins/generic/tools/htmlgallery/themes/classic/classic.desktop:384
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "ImagePlugin_Border"
 msgctxt "Name"
 msgid "Image Border Color"
 msgstr "ImagePlugin_Border"
@@ -389,32 +363,27 @@ msgid "Visited Link Color"
 msgstr ""
 
 #. +> trunk6
-#: core/dplugins/generic/tools/htmlgallery/themes/cleanframes/cleanframes.desktop:3
-#: core/dplugins/generic/tools/htmlgallery/themes/cleanframes/cleanframes.desktop:118
+#: core/dplugins/generic/tools/htmlgallery/themes/cleanframes/cleanframes.desktop:3 core/dplugins/generic/tools/htmlgallery/themes/cleanframes/cleanframes.desktop:118
 msgctxt "Name"
 msgid "Clean Frames"
 msgstr ""
 
 #. +> trunk6
-#: core/dplugins/generic/tools/htmlgallery/themes/cleanframes/cleanframes.desktop:40
-#: core/dplugins/generic/tools/htmlgallery/themes/dateframes/dateframes.desktop:39
+#: core/dplugins/generic/tools/htmlgallery/themes/cleanframes/cleanframes.desktop:40 core/dplugins/generic/tools/htmlgallery/themes/dateframes/dateframes.desktop:39
 msgctxt "Comment"
 msgid "A frame theme based on Ruediger Bente's frame theme"
 msgstr ""
 
 #. +> trunk6
-#: core/dplugins/generic/tools/htmlgallery/themes/cleanframes/cleanframes.desktop:158
-#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:363
-#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:180
-#: core/dplugins/generic/tools/htmlgallery/themes/simple/simple.desktop:117
+#: core/dplugins/generic/tools/htmlgallery/themes/cleanframes/cleanframes.desktop:158 core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:363
+#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:180 core/dplugins/generic/tools/htmlgallery/themes/simple/simple.desktop:117
 #: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:262
 msgctxt "Name"
 msgid "Style"
 msgstr ""
 
 #. +> trunk6
-#: core/dplugins/generic/tools/htmlgallery/themes/dateframes/dateframes.desktop:3
-#: core/dplugins/generic/tools/htmlgallery/themes/dateframes/dateframes.desktop:117
+#: core/dplugins/generic/tools/htmlgallery/themes/dateframes/dateframes.desktop:3 core/dplugins/generic/tools/htmlgallery/themes/dateframes/dateframes.desktop:117
 msgctxt "Name"
 msgid "Date Frames"
 msgstr ""
@@ -444,12 +413,9 @@ msgid "Caption Date Format (see xsltsl.sourceforge.net/date-time.html)"
 msgstr ""
 
 #. +> trunk6
-#: core/dplugins/generic/tools/htmlgallery/themes/dateframes/dateframes.desktop:352
-#: core/dplugins/generic/tools/htmlgallery/themes/dateframes/dateframes.desktop:422
+#: core/dplugins/generic/tools/htmlgallery/themes/dateframes/dateframes.desktop:352 core/dplugins/generic/tools/htmlgallery/themes/dateframes/dateframes.desktop:422
 msgctxt "Comment"
-msgid ""
-"XSL Date Format String: Use the syntax given at xsltsl.sourceforge.net/date-"
-"time.html"
+msgid "XSL Date Format String: Use the syntax given at xsltsl.sourceforge.net/date-time.html"
 msgstr ""
 
 #. +> trunk6
@@ -489,8 +455,7 @@ msgid "Footer information"
 msgstr ""
 
 #. +> trunk6
-#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:3
-#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:111
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:3 core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:111
 msgctxt "Name"
 msgid "Elegant"
 msgstr ""
@@ -498,57 +463,45 @@ msgstr ""
 #. +> trunk6
 #: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:38
 msgctxt "Comment"
-msgid ""
-"Based on the \"Simple\" theme. Uses Lytebox by Markus F. Hay to display the "
-"images in a slideshow."
+msgid "Based on the \"Simple\" theme. Uses Lytebox by Markus F. Hay to display the images in a slideshow."
 msgstr ""
 
 #. +> trunk6
-#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:73
-#: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:69
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:73 core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:69
 msgctxt "Name"
 msgid "Wojciech Jarosz"
 msgstr ""
 
 #. +> trunk6
-#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:149
-#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:139
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:149 core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:139
 #: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:107
 msgctxt "Name"
 msgid "Author"
 msgstr ""
 
 #. +> trunk6
-#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:190
-#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:232
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:190 core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:232
 #: core/dplugins/generic/tools/htmlgallery/themes/simplerounded/simplerounded.desktop:152
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "ImagePlugin_Border"
 msgctxt "Name"
 msgid "Images per page"
 msgstr "ImagePlugin_Border"
 
 #. +> trunk6
-#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:230
-#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:272
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:230 core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:272
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "ImagePlugin_Restoration"
 msgctxt "Name"
 msgid "Page links location"
 msgstr "ImagePlugin_Restoration"
 
 #. +> trunk6
-#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:274
-#: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:440
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:274 core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:440
 msgctxt "Name"
 msgid "Use LyteBox"
 msgstr ""
 
 #. +> trunk6
-#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:316
-#: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:482
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:316 core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:482
 msgctxt "Name"
 msgid "LyteBox Slideshow Interval"
 msgstr ""
@@ -592,8 +545,6 @@ msgstr ""
 #. +> trunk6
 #: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:645
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "ImagePlugin_Border"
 msgctxt "Name"
 msgid "Custom Frame Border Color"
 msgstr "ImagePlugin_Border"
@@ -607,15 +558,12 @@ msgstr ""
 #. +> trunk6
 #: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:720
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "ImagePlugin_Border"
 msgctxt "Name"
 msgid "Custom Selected Frame Border Color"
 msgstr "ImagePlugin_Border"
 
 #. +> trunk6
-#: core/dplugins/generic/tools/htmlgallery/themes/floatingcards/floatingcards.desktop:3
-#: core/dplugins/generic/tools/htmlgallery/themes/floatingcards/floatingcards.desktop:116
+#: core/dplugins/generic/tools/htmlgallery/themes/floatingcards/floatingcards.desktop:3 core/dplugins/generic/tools/htmlgallery/themes/floatingcards/floatingcards.desktop:116
 msgctxt "Name"
 msgid "Floating Cards"
 msgstr ""
@@ -623,9 +571,7 @@ msgstr ""
 #. +> trunk6
 #: core/dplugins/generic/tools/htmlgallery/themes/floatingcards/floatingcards.desktop:39
 msgctxt "Comment"
-msgid ""
-"A dark theme with floating thumbnail/description cards. Fast navigation "
-"through the gallery."
+msgid "A dark theme with floating thumbnail/description cards. Fast navigation through the gallery."
 msgstr ""
 
 #. +> trunk6
@@ -647,8 +593,7 @@ msgid "Preload"
 msgstr ""
 
 #. +> trunk6
-#: core/dplugins/generic/tools/htmlgallery/themes/frames/frames.desktop:3
-#: core/dplugins/generic/tools/htmlgallery/themes/frames/frames.desktop:118
+#: core/dplugins/generic/tools/htmlgallery/themes/frames/frames.desktop:3 core/dplugins/generic/tools/htmlgallery/themes/frames/frames.desktop:118
 msgctxt "Name"
 msgid "Frames"
 msgstr ""
@@ -666,8 +611,7 @@ msgid "Ruediger Bente"
 msgstr ""
 
 #. +> trunk6
-#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:3
-#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:101
+#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:3 core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:101
 msgctxt "Name"
 msgid "HTML5 Responsive"
 msgstr ""
@@ -675,9 +619,7 @@ msgstr ""
 #. +> trunk6
 #: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:35
 msgctxt "Comment"
-msgid ""
-"Generates a gallery using responsive HTML5 and CSS3 and UTF-8 encoding. "
-"Optionally uses PhotoSwipe by Dmitry Semenov to display the images."
+msgid "Generates a gallery using responsive HTML5 and CSS3 and UTF-8 encoding. Optionally uses PhotoSwipe by Dmitry Semenov to display the images."
 msgstr ""
 
 #. +> trunk6
@@ -729,8 +671,7 @@ msgid "Show GPS data"
 msgstr ""
 
 #. +> trunk6
-#: core/dplugins/generic/tools/htmlgallery/themes/matrix/matrix.desktop:3
-#: core/dplugins/generic/tools/htmlgallery/themes/matrix/matrix.desktop:117
+#: core/dplugins/generic/tools/htmlgallery/themes/matrix/matrix.desktop:3 core/dplugins/generic/tools/htmlgallery/themes/matrix/matrix.desktop:117
 msgctxt "Name"
 msgid "Matrix"
 msgstr ""
@@ -744,14 +685,11 @@ msgstr ""
 #. +> trunk6
 #: core/dplugins/generic/tools/htmlgallery/themes/s0/s0.desktop:3
 msgctxt "Comment"
-msgid ""
-"Yet another nice theme. Very simple and clean look with \"calligraphics\" "
-"icons."
+msgid "Yet another nice theme. Very simple and clean look with \"calligraphics\" icons."
 msgstr ""
 
 #. +> trunk6
-#: core/dplugins/generic/tools/htmlgallery/themes/s0/s0.desktop:40
-#: core/dplugins/generic/tools/htmlgallery/themes/s0/s0.desktop:117
+#: core/dplugins/generic/tools/htmlgallery/themes/s0/s0.desktop:40 core/dplugins/generic/tools/htmlgallery/themes/s0/s0.desktop:117
 msgctxt "Name"
 msgid "S0"
 msgstr ""
@@ -763,8 +701,7 @@ msgid "Petr Vaněk"
 msgstr ""
 
 #. +> trunk6
-#: core/dplugins/generic/tools/htmlgallery/themes/simple/simple.desktop:3
-#: core/dplugins/generic/tools/htmlgallery/themes/simple/simple.desktop:165
+#: core/dplugins/generic/tools/htmlgallery/themes/simple/simple.desktop:3 core/dplugins/generic/tools/htmlgallery/themes/simple/simple.desktop:165
 msgctxt "Name"
 msgid "Simple"
 msgstr ""
@@ -854,8 +791,7 @@ msgid "Simple Rounded Shapes"
 msgstr ""
 
 #. +> trunk6
-#: core/dplugins/generic/tools/htmlgallery/themes/simpleslides/simpleslides.desktop:3
-#: core/dplugins/generic/tools/htmlgallery/themes/simpleslides/simpleslides.desktop:188
+#: core/dplugins/generic/tools/htmlgallery/themes/simpleslides/simpleslides.desktop:3 core/dplugins/generic/tools/htmlgallery/themes/simpleslides/simpleslides.desktop:188
 msgctxt "Name"
 msgid "Simple Slideshow"
 msgstr ""
@@ -863,9 +799,7 @@ msgstr ""
 #. +> trunk6
 #: core/dplugins/generic/tools/htmlgallery/themes/simpleslides/simpleslides.desktop:36
 msgctxt "Comment"
-msgid ""
-"A slideshow designed for a kiosk-mode display. Generated from a simple "
-"template with javascript and css embedded into a single index.html file."
+msgid "A slideshow designed for a kiosk-mode display. Generated from a simple template with javascript and css embedded into a single index.html file."
 msgstr ""
 
 #. +> trunk6
@@ -887,8 +821,7 @@ msgid "Location of controls"
 msgstr ""
 
 #. +> trunk6
-#: core/dplugins/generic/tools/htmlgallery/themes/snow/snow.desktop:3
-#: core/dplugins/generic/tools/htmlgallery/themes/snow/snow.desktop:118
+#: core/dplugins/generic/tools/htmlgallery/themes/snow/snow.desktop:3 core/dplugins/generic/tools/htmlgallery/themes/snow/snow.desktop:118
 msgctxt "Name"
 msgid "Snow"
 msgstr ""
@@ -900,8 +833,7 @@ msgid "A perfect match for your mountain holidays"
 msgstr ""
 
 #. +> trunk6
-#: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:2
-#: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:529
+#: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:2 core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:529
 msgctxt "Name"
 msgid "Vanilla"
 msgstr ""
@@ -909,9 +841,7 @@ msgstr ""
 #. +> trunk6
 #: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:36
 msgctxt "Comment"
-msgid ""
-"This theme is based on the look of Adobe Lightroom's HTML export. It has a "
-"simple but usable grid layout and comes with various color presets."
+msgid "This theme is based on the look of Adobe Lightroom's HTML export. It has a simple but usable grid layout and comes with various color presets."
 msgstr ""
 
 #. +> trunk6
@@ -923,8 +853,6 @@ msgstr ""
 #. +> trunk6
 #: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:186
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "ImagePlugin_Border"
 msgctxt "Name"
 msgid "Rows per page"
 msgstr "ImagePlugin_Border"
@@ -932,8 +860,6 @@ msgstr "ImagePlugin_Border"
 #. +> trunk6
 #: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:224
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "ImagePlugin_Border"
 msgctxt "Name"
 msgid "Columns per page"
 msgstr "ImagePlugin_Border"
@@ -1135,295 +1061,3 @@ msgstr ""
 msgctxt "GenericName"
 msgid "Photo Viewer and Editor"
 msgstr "フォトビューア/エディタ"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "ImagePlugin_ColorFx"
-#~ msgctxt "Name"
-#~ msgid "ImagePlugin_Color"
-#~ msgstr "ImagePlugin_ColorFx"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "ImagePlugin_Core"
-#~ msgctxt "Name"
-#~ msgid "ImagePlugin_Decorate"
-#~ msgstr "ImagePlugin_Core"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "ImagePlugin_WhiteBalance"
-#~ msgctxt "Name"
-#~ msgid "ImagePlugin_Enhance"
-#~ msgstr "ImagePlugin_WhiteBalance"
-
-#, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "digiKam plugin to inpaint a photograph"
-#~ msgctxt "Comment"
-#~ msgid "digiKam plugin to enhance photograph"
-#~ msgstr "digiKam 写真修復プラグイン"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "ImagePlugin_FilmGrain"
-#~ msgctxt "Name"
-#~ msgid "ImagePlugin_FxFilters"
-#~ msgstr "ImagePlugin_FilmGrain"
-
-#, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Blur special effects plugin for digiKam"
-#~ msgctxt "Comment"
-#~ msgid "Special effect filters plugin for digiKam"
-#~ msgstr "digiKam ぼかし特殊効果プラグイン"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "ImagePlugin_Core"
-#~ msgctxt "Name"
-#~ msgid "ImagePlugin_Transform"
-#~ msgstr "ImagePlugin_Core"
-
-#~ msgctxt "Comment"
-#~ msgid "A digiKam Image Plugin"
-#~ msgstr "digiKam 画像プラグイン"
-
-#~ msgctxt "Description"
-#~ msgid "digiKam albums kioslave"
-#~ msgstr "digiKam アルバム kioslave"
-
-#~ msgctxt "Description"
-#~ msgid "digiKam dates kioslave"
-#~ msgstr "digiKam 日付 kioslave"
-
-#, fuzzy
-#~| msgctxt "Description"
-#~| msgid "digiKam dates kioslave"
-#~ msgctxt "Description"
-#~ msgid "digiKam mapimages kioslave"
-#~ msgstr "digiKam 日付 kioslave"
-
-#~ msgctxt "Description"
-#~ msgid "digiKam search kioslave"
-#~ msgstr "digiKam 検索 kioslave"
-
-#~ msgctxt "Description"
-#~ msgid "digikam tags kioslave"
-#~ msgstr "digiKam タグ kioslave"
-
-#~ msgctxt "Name"
-#~ msgid "Download Photos with digiKam"
-#~ msgstr "digiKam で写真をダウンロード"
-
-#~ msgctxt "Name"
-#~ msgid "digiKam Detect and Download"
-#~ msgstr "digiKam 検出とダウンロード"
-
-#~ msgctxt "Name"
-#~ msgid "ImagePlugin_SuperImpose"
-#~ msgstr "ImagePlugin_SuperImpose"
-
-#~ msgctxt "Comment"
-#~ msgid "Template superimpose plugin for digiKam"
-#~ msgstr "digiKam テンプレート重ね合わせプラグイン"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "ImagePlugin_Core"
-#~ msgctxt "Name"
-#~ msgid "ImagePlugin_ContentAwareResizing"
-#~ msgstr "ImagePlugin_Core"
-
-#, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Blur special effects plugin for digiKam"
-#~ msgctxt "Comment"
-#~ msgid "Liquid Rescale plugin for digiKam"
-#~ msgstr "digiKam ぼかし特殊効果プラグイン"
-
-#~ msgctxt "Name"
-#~ msgid "ImagePlugin_Core"
-#~ msgstr "ImagePlugin_Core"
-
-#~ msgctxt "Comment"
-#~ msgid "digiKam Core Image Plugin"
-#~ msgstr "digiKam コア画像プラグイン"
-
-#~ msgctxt "Name"
-#~ msgid "ImagePlugin_HotPixels"
-#~ msgstr "ImagePlugin_HotPixels"
-
-#~ msgctxt "Comment"
-#~ msgid "Hot pixel correction plugin for digiKam"
-#~ msgstr "digiKam ホットピクセル除去プラグイン"
-
-#~ msgctxt "Name"
-#~ msgid "ImagePlugin_InPainting"
-#~ msgstr "ImagePlugin_InPainting"
-
-#~ msgctxt "Name"
-#~ msgid "ImagePlugin_LensCorrection"
-#~ msgstr "ImagePlugin_LensCorrection"
-
-#~ msgctxt "Comment"
-#~ msgid "Lens aberrations correction tools"
-#~ msgstr "レンズ収差補正ツール"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "ImagePlugin_Core"
-#~ msgctxt "Name"
-#~ msgid "ImagePlugin_LocalContrast"
-#~ msgstr "ImagePlugin_Core"
-
-#, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Color special effects plugin for digiKam"
-#~ msgctxt "Comment"
-#~ msgid "Local contrast plugin for Digikam"
-#~ msgstr "digiKam 色特殊効果プラグイン"
-
-#~ msgctxt "Comment"
-#~ msgid "digiKam plugin to restore a photograph"
-#~ msgstr "digiKam 写真復元プラグイン"
-
-#~ msgctxt "Name"
-#~ msgid "ImagePlugin_BlurFX"
-#~ msgstr "ImagePlugin_BlurFX"
-
-#~ msgctxt "Comment"
-#~ msgid "Add border to image plugin for digiKam"
-#~ msgstr "digikam 画像装飾プラグイン"
-
-#~ msgctxt "Name"
-#~ msgid "ImagePlugin_Charcoal"
-#~ msgstr "ImagePlugin_Charcoal"
-
-#~ msgctxt "Comment"
-#~ msgid "Charcoal drawing image effect plugin for digiKam"
-#~ msgstr "digiKam 木炭画効果プラグイン"
-
-#~ msgctxt "Comment"
-#~ msgid "Color special effects plugin for digiKam"
-#~ msgstr "digiKam 色特殊効果プラグイン"
-
-#~ msgctxt "Name"
-#~ msgid "ImagePlugin_DistortionFX"
-#~ msgstr "ImagePlugin_DistortionFX"
-
-#~ msgctxt "Comment"
-#~ msgid "Distortion special effects plugin for digiKam"
-#~ msgstr "digiKam ゆがめ特殊効果プラグイン"
-
-#~ msgctxt "Name"
-#~ msgid "ImagePlugin_Emboss"
-#~ msgstr "ImagePlugin_Emboss"
-
-#~ msgctxt "Comment"
-#~ msgid "Emboss image effect plugin for digiKam"
-#~ msgstr "digiKam エンボス効果プラグイン"
-
-#~ msgctxt "Name"
-#~ msgid "ImagePlugin_FreeRotation"
-#~ msgstr "ImagePlugin_FreeRotation"
-
-#~ msgctxt "Comment"
-#~ msgid "Free rotation plugin for digiKam"
-#~ msgstr "digiKam 画像自由回転プラグイン"
-
-#~ msgctxt "Name"
-#~ msgid "ImagePlugin_InsertText"
-#~ msgstr "ImagePlugin_InsertText"
-
-#~ msgctxt "Comment"
-#~ msgid "Insert text to image plugin for digiKam"
-#~ msgstr "digiKam テキスト挿入プラグイン"
-
-#~ msgctxt "Name"
-#~ msgid "ImagePlugin_OilPaint"
-#~ msgstr "ImagePlugin_OilPaint"
-
-#~ msgctxt "Comment"
-#~ msgid "Oil paint image effect plugin for digiKam"
-#~ msgstr "digiKam 油絵効果プラグイン"
-
-#~ msgctxt "Name"
-#~ msgid "ImagePlugin_Perspective"
-#~ msgstr "ImagePlugin_Perspective"
-
-#~ msgctxt "Comment"
-#~ msgid "Perspective tool plugin for digiKam"
-#~ msgstr "digiKam 視点調整プラグイン"
-
-#~ msgctxt "Name"
-#~ msgid "ImagePlugin_RainDrop"
-#~ msgstr "ImagePlugin_RainDrop"
-
-#~ msgctxt "Comment"
-#~ msgid "Rain dropping image effect plugin for digiKam"
-#~ msgstr "digiKam 雨滴効果プラグイン"
-
-#~ msgctxt "Name"
-#~ msgid "ImagePlugin_ShearTool"
-#~ msgstr "ImagePlugin_ShearTool"
-
-#~ msgctxt "Comment"
-#~ msgid "Shear tool plugin for digiKam"
-#~ msgstr "digiKam 剪断変形プラグイン"
-
-#~ msgctxt "Name"
-#~ msgid "ImagePlugin_Texture"
-#~ msgstr "ImagePlugin_Texture"
-
-#~ msgctxt "Comment"
-#~ msgid "digiKam plugin to apply texture on image"
-#~ msgstr "digiKam テクスチャ適用プラグイン"
-
-#~ msgctxt "Comment"
-#~ msgid "Film grain image effect plugin for digiKam"
-#~ msgstr "digiKam フィルム粒子効果プラグイン"
-
-#~ msgctxt "Name"
-#~ msgid "ImagePlugin_AdjustCurves"
-#~ msgstr "ImagePlugin_AdjustCurves"
-
-#~ msgctxt "Comment"
-#~ msgid "Image histogram adjust curves plugin for digiKam"
-#~ msgstr "digiKam カーブ補正プラグイン"
-
-#~ msgctxt "Name"
-#~ msgid "ImagePlugin_AdjustLevels"
-#~ msgstr "ImagePlugin_AdjustLevels"
-
-#~ msgctxt "Comment"
-#~ msgid "Image histogram adjust levels plugin for digiKam"
-#~ msgstr "digiKam レベル補正プラグイン"
-
-#~ msgctxt "Name"
-#~ msgid "ImagePlugin_ChannelMixer"
-#~ msgstr "ImagePlugin_ChannelMixer"
-
-#~ msgctxt "Comment"
-#~ msgid "Image color channels mixer plugin for digiKam"
-#~ msgstr "digiKam カラーチャンネルミキサープラグイン"
-
-#~ msgctxt "Comment"
-#~ msgid "White balance correction plugin for digiKam"
-#~ msgstr "digiKam ホワイトバランス補正プラグイン"
-
-#~ msgctxt "Name"
-#~ msgid "ImagePlugin_Infrared"
-#~ msgstr "ImagePlugin_Infrared"
-
-#~ msgctxt "Comment"
-#~ msgid "Simulate infrared film plugin for digiKam"
-#~ msgstr "digiKam 赤外線フィルム効果プラグイン"
-
-#~ msgctxt "Name"
-#~ msgid "ImagePlugin_NoiseReduction"
-#~ msgstr "ImagePlugin_NoiseReduction"
-
-#~ msgctxt "Comment"
-#~ msgid "Noise Reduction plugin for digiKam"
-#~ msgstr "digiKam ノイズ低減プラグイン"
