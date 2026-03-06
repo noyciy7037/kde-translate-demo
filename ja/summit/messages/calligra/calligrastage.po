@@ -1,25 +1,17 @@
-# translation of kpresenter.po to Japanese
-# This file is distributed under the same license as the koffice package.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the calligra package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-# Taiki Komoda <kom@kde.gr.jp>, 2002, 2010.
-# Yukiko Bando <ybando@k6.dion.ne.jp>, 2005, 2006, 2007, 2009.
-# Fumiaki Okushi <okushi@kde.gr.jp>, 2010, 2011, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: kpresenter\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-11-09 11:24+0100\n"
-"PO-Revision-Date: 2012-06-09 22:56-0700\n"
-"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: calligra\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.0\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. i18n: ectx: Menu (edit)
 #. +> trunk6 stable6
@@ -73,7 +65,6 @@ msgstr "設定(&S)"
 #. +> trunk6 stable6
 #: part/commands/KPrAddCustomSlideShowCommand.cpp:19
 #, fuzzy
-#| msgid "Add custom slide show"
 msgctxt "(qtundo-format)"
 msgid "Add custom slide show"
 msgstr "新しいカスタムスライドショーを追加"
@@ -93,7 +84,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: part/commands/KPrAnimationRemoveCommand.cpp:30
 #, fuzzy
-#| msgid "Create shape animation"
 msgctxt "(qtundo-format)"
 msgid "Remove shape animation"
 msgstr "シェイプアニメーションを作成"
@@ -101,7 +91,6 @@ msgstr "シェイプアニメーションを作成"
 #. +> trunk6 stable6
 #: part/commands/KPrDelCustomSlideShowCommand.cpp:20
 #, fuzzy
-#| msgid "Delete custom slide show"
 msgctxt "(qtundo-format)"
 msgid "Delete custom slide show"
 msgstr "カスタムスライドショーを削除"
@@ -109,9 +98,6 @@ msgstr "カスタムスライドショーを削除"
 #. +> trunk6 stable6
 #: part/commands/KPrDeleteSlidesCommand.cpp:25
 #, fuzzy
-#| msgctxt "(qtundo-format)"
-#| msgid "Delete slide"
-#| msgid_plural "Delete slides"
 msgctxt "(qtundo-format) Delete one slide"
 msgid "Delete slide"
 msgstr "スライドを削除"
@@ -132,7 +118,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: part/commands/KPrEditCustomSlideShowsCommand.cpp:21
 #, fuzzy
-#| msgid "Edit custom slide show"
 msgctxt "(qtundo-format)"
 msgid "Edit custom slide show"
 msgstr "カスタムスライドショーを編集"
@@ -158,7 +143,6 @@ msgstr "スライド効果を削除"
 #. +> trunk6 stable6
 #: part/commands/KPrPageTransitionSetCommand.cpp:32
 #, fuzzy
-#| msgid "Slide Transitions"
 msgctxt "(qtundo-format)"
 msgid "Modify Slide Transition"
 msgstr "スライドの遷移"
@@ -166,7 +150,6 @@ msgstr "スライドの遷移"
 #. +> trunk6 stable6
 #: part/commands/KPrRenameCustomSlideShowCommand.cpp:24
 #, fuzzy
-#| msgid "Rename custom slide show"
 msgctxt "(qtundo-format)"
 msgid "Rename custom slide show"
 msgstr "カスタムスライドショーの名前変更"
@@ -174,7 +157,6 @@ msgstr "カスタムスライドショーの名前変更"
 #. +> trunk6 stable6
 #: part/commands/KPrReorderAnimationCommand.cpp:34
 #, fuzzy
-#| msgid "Slide Transitions"
 msgctxt "(qtundo-format)"
 msgid "Reorder animations"
 msgstr "スライドの遷移"
@@ -182,7 +164,6 @@ msgstr "スライドの遷移"
 #. +> trunk6 stable6
 #: part/KPrAboutData.h:19
 #, fuzzy, kde-format
-#| msgid "Configure Stage..."
 msgctxt "application name"
 msgid "Calligra Stage"
 msgstr "Stage を設定..."
@@ -190,14 +171,12 @@ msgstr "Stage を設定..."
 #. +> trunk6 stable6
 #: part/KPrAboutData.h:21
 #, fuzzy, kde-format
-#| msgid "Presentation"
 msgid "Presentation Tool"
 msgstr "プレゼンテーション"
 
 #. +> trunk6 stable6
 #: part/KPrAboutData.h:23
 #, fuzzy, kde-format
-#| msgid "(c) 1998-2011, The Stage Team"
 msgid "Copyright 1998-%1, The Stage Team"
 msgstr "(c) 1998-2011, Stage 開発チーム"
 
@@ -210,7 +189,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: part/KPrAboutData.h:30
 #, fuzzy, kde-format
-#| msgid "Maintainer"
 msgid "Maintainer/Port to Qt6"
 msgstr "メンテナ"
 
@@ -362,15 +340,13 @@ msgid "Your names"
 msgstr "Taiki Komoda,Yukiko Bando"
 
 #. +> trunk6 stable6
-#: part/KPrCustomSlideShowsModel.cpp:52
-#: part/KPrSlidesSorterDocumentModel.cpp:83
+#: part/KPrCustomSlideShowsModel.cpp:52 part/KPrSlidesSorterDocumentModel.cpp:83
 #, kde-format
 msgid "Unknown"
 msgstr "未知"
 
 #. +> trunk6 stable6
-#: part/KPrCustomSlideShowsModel.cpp:57
-#: part/KPrSlidesSorterDocumentModel.cpp:88 part/ui/KPrHtmlExportDialog.cpp:114
+#: part/KPrCustomSlideShowsModel.cpp:57 part/KPrSlidesSorterDocumentModel.cpp:88 part/ui/KPrHtmlExportDialog.cpp:114
 #, kde-format
 msgid "Slide %1"
 msgstr "スライド %1"
@@ -384,7 +360,6 @@ msgstr "プレゼンテーションの最後です。クリックして終了し
 #. +> trunk6 stable6
 #: part/KPrPageLayoutWidget.cpp:45 part/tools/KPrPlaceholderToolFactory.cpp:15
 #, fuzzy, kde-format
-#| msgid "Set Layout"
 msgid "Layout"
 msgstr "レイアウトの設定"
 
@@ -526,28 +501,20 @@ msgid "End of Slide Show"
 msgstr "スライドショーの最後"
 
 #. +> trunk6 stable6
-#: part/KPrShapeAnimations.cpp:191
-#: part/tools/animationtool/KPrEditAnimationsWidget.cpp:215
-#: part/tools/animationtool/KPrShapeAnimationDocker.cpp:510
+#: part/KPrShapeAnimations.cpp:191 part/tools/animationtool/KPrEditAnimationsWidget.cpp:215 part/tools/animationtool/KPrShapeAnimationDocker.cpp:510
 #, kde-format
 msgid "start on mouse click"
 msgstr ""
 
 #. +> trunk6 stable6
-#: part/KPrShapeAnimations.cpp:193
-#: part/tools/animationtool/KPrEditAnimationsWidget.cpp:218
-#: part/tools/animationtool/KPrShapeAnimationDocker.cpp:513
+#: part/KPrShapeAnimations.cpp:193 part/tools/animationtool/KPrEditAnimationsWidget.cpp:218 part/tools/animationtool/KPrShapeAnimationDocker.cpp:513
 #, fuzzy, kde-format
-#| msgid "Create shape animation"
 msgid "start after previous animation"
 msgstr "シェイプアニメーションを作成"
 
 #. +> trunk6 stable6
-#: part/KPrShapeAnimations.cpp:195
-#: part/tools/animationtool/KPrEditAnimationsWidget.cpp:221
-#: part/tools/animationtool/KPrShapeAnimationDocker.cpp:516
+#: part/KPrShapeAnimations.cpp:195 part/tools/animationtool/KPrEditAnimationsWidget.cpp:221 part/tools/animationtool/KPrShapeAnimationDocker.cpp:516
 #, fuzzy, kde-format
-#| msgid "Create shape animation"
 msgid "start with previous animation"
 msgstr "シェイプアニメーションを作成"
 
@@ -558,8 +525,7 @@ msgid "Start after %1 seconds. Duration of %2 seconds."
 msgstr ""
 
 #. +> trunk6 stable6
-#: part/KPrShapeAnimations.cpp:225
-#: part/tools/animationtool/KPrAnimationToolFactory.cpp:21
+#: part/KPrShapeAnimations.cpp:225 part/tools/animationtool/KPrAnimationToolFactory.cpp:21
 #, kde-format
 msgid "Animation"
 msgstr "アニメーション"
@@ -657,14 +623,12 @@ msgstr "前のスライド"
 #. +> trunk6 stable6
 #: part/KPrView.cpp:92 part/KPrView.cpp:93
 #, fuzzy, kde-format
-#| msgid "Previous Slide"
 msgid "Go to previous slide"
 msgstr "前のスライド"
 
 #. +> trunk6 stable6
 #: part/KPrView.cpp:95 part/KPrView.cpp:96
 #, fuzzy, kde-format
-#| msgid "Add a new slide"
 msgid "Go to next slide"
 msgstr "新しいスライドを追加"
 
@@ -677,7 +641,6 @@ msgstr "最初のスライド"
 #. +> trunk6 stable6
 #: part/KPrView.cpp:98 part/KPrView.cpp:99
 #, fuzzy, kde-format
-#| msgid "From First Slide"
 msgid "Go to first slide"
 msgstr "最初のスライドから"
 
@@ -690,7 +653,6 @@ msgstr "最後のスライド"
 #. +> trunk6 stable6
 #: part/KPrView.cpp:101 part/KPrView.cpp:102
 #, fuzzy, kde-format
-#| msgid "Last Slide"
 msgid "Go to last slide"
 msgstr "最後のスライド"
 
@@ -709,7 +671,6 @@ msgstr "HTML としてエクスポート..."
 #. +> trunk6 stable6
 #: part/KPrView.cpp:264
 #, fuzzy, kde-format
-#| msgid "Insert Pictures..."
 msgid "Insert Pictures as Slides..."
 msgstr "絵を挿入..."
 
@@ -746,7 +707,6 @@ msgstr "最初のスライドから"
 #. +> trunk6 stable6
 #: part/KPrView.cpp:293
 #, fuzzy, kde-format
-#| msgid "Start Presentation"
 msgid "Stop presentation"
 msgstr "プレゼンテーションを開始"
 
@@ -783,7 +743,6 @@ msgstr "プレゼンテーションビューを設定..."
 #. +> trunk6 stable6
 #: part/KPrView.cpp:318
 #, fuzzy, kde-format
-#| msgid "Start Presentation"
 msgid "Draw on the presentation..."
 msgstr "プレゼンテーションを開始"
 
@@ -808,7 +767,6 @@ msgstr "メモ"
 #. +> trunk6 stable6
 #: part/KPrViewModeSlidesSorter.cpp:64
 #, fuzzy, kde-format
-#| msgid "Slide Show"
 msgid "Slides Sorter"
 msgstr "スライドショー"
 
@@ -845,14 +803,12 @@ msgstr "現在のカスタムスライドショーからスライドを削除"
 #. +> trunk6 stable6
 #: part/KPrViewModeSlidesSorter.cpp:173
 #, fuzzy, kde-format
-#| msgid "Delete Slide"
 msgid "Duplicate Slide"
 msgstr "スライドを削除"
 
 #. +> trunk6 stable6
 #: part/KPrViewModeSlidesSorter.cpp:175
 #, fuzzy, kde-format
-#| msgid "Current Slideshow:"
 msgid "Start Slideshow"
 msgstr "現在のスライドショー:"
 
@@ -899,15 +855,13 @@ msgid "Slide Show %1"
 msgstr "スライドショー %1"
 
 #. +> trunk6 stable6
-#: part/KPrViewModeSlidesSorter.cpp:655
-#: part/ui/KPrConfigureSlideShowDialog.cpp:26
+#: part/KPrViewModeSlidesSorter.cpp:655 part/ui/KPrConfigureSlideShowDialog.cpp:26
 #, kde-format
 msgid "All slides"
 msgstr "すべてのスライド"
 
 #. +> trunk6 stable6
-#: part/KPrViewModeSlidesSorter.cpp:682 part/ui/KPrHtmlExportDialog.cpp:153
-#: part/ui/KPrHtmlExportDialog.cpp:207
+#: part/KPrViewModeSlidesSorter.cpp:682 part/ui/KPrHtmlExportDialog.cpp:153 part/ui/KPrHtmlExportDialog.cpp:207
 #, kde-format
 msgid "Error"
 msgstr "エラー"
@@ -919,8 +873,7 @@ msgid "There cannot be two slideshows with the same name."
 msgstr "同じ名前の 2 つのスライドショーは許されていません。"
 
 #. +> trunk6 stable6
-#: part/pagelayout/KPrPlaceholders.cpp:46
-#: part/pagelayout/KPrPlaceholders.cpp:47
+#: part/pagelayout/KPrPlaceholders.cpp:46 part/pagelayout/KPrPlaceholders.cpp:47
 msgctxt "(qtundo-format)"
 msgid "Set Layout"
 msgstr "レイアウトの設定"
@@ -932,10 +885,8 @@ msgid "Automatic animation preview"
 msgstr ""
 
 #. +> trunk6 stable6
-#: part/tools/animationtool/KPrAnimationSelectorWidget.cpp:301
-#: part/tools/animationtool/KPrAnimationSelectorWidget.cpp:309
+#: part/tools/animationtool/KPrAnimationSelectorWidget.cpp:301 part/tools/animationtool/KPrAnimationSelectorWidget.cpp:309
 #, fuzzy, kde-format
-#| msgid "Presentation"
 msgid "Preview animation"
 msgstr "プレゼンテーション"
 
@@ -954,7 +905,6 @@ msgstr "シェイプのクリックアクション"
 #. +> trunk6 stable6
 #: part/tools/animationtool/KPrAnimationTool.cpp:219
 #, fuzzy, kde-format
-#| msgid "Shape Animation"
 msgid "Shape Animations"
 msgstr "シェイプアニメーション"
 
@@ -967,8 +917,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: part/tools/animationtool/KPrEditAnimationsWidget.cpp:51
 #, fuzzy, kde-format
-#| msgctxt "Start of presentation"
-#| msgid "Start"
 msgid "Start: "
 msgstr "開始"
 
@@ -981,14 +929,12 @@ msgstr ""
 #. +> trunk6 stable6
 #: part/tools/animationtool/KPrEditAnimationsWidget.cpp:56
 #, fuzzy, kde-format
-#| msgid "Create shape animation"
 msgid "after previous animation"
 msgstr "シェイプアニメーションを作成"
 
 #. +> trunk6 stable6
 #: part/tools/animationtool/KPrEditAnimationsWidget.cpp:57
 #, fuzzy, kde-format
-#| msgid "Shape Animation"
 msgid "with previous animation"
 msgstr "シェイプアニメーション"
 
@@ -1005,10 +951,8 @@ msgid "Duration: "
 msgstr ""
 
 #. +> trunk6 stable6
-#: part/tools/animationtool/KPrEditAnimationsWidget.cpp:71
-#: part/tools/animationtool/KPrShapeAnimationDocker.cpp:124
+#: part/tools/animationtool/KPrEditAnimationsWidget.cpp:71 part/tools/animationtool/KPrShapeAnimationDocker.cpp:124
 #, fuzzy, kde-format
-#| msgid "Shape Animation"
 msgid "Preview Shape Animation"
 msgstr "シェイプアニメーション"
 
@@ -1039,14 +983,12 @@ msgstr ""
 #. +> trunk6 stable6
 #: part/tools/animationtool/KPrPageEffectDocker.cpp:89
 #, fuzzy, kde-format
-#| msgid "Slide Transitions"
 msgid "Slide Transition:"
 msgstr "スライドの遷移"
 
 #. +> trunk6 stable6
 #: part/tools/animationtool/KPrPageEffectDocker.cpp:98
 #, fuzzy, kde-format
-#| msgid "All slides"
 msgid "Apply To All Slides"
 msgstr "すべてのスライド"
 
@@ -1089,7 +1031,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: part/tools/animationtool/KPrPredefinedAnimationsLoader.cpp:184
 #, fuzzy, kde-format
-#| msgid "Click Actions"
 msgid "Ole Action"
 msgstr "アクションをクリック"
 
@@ -1100,25 +1041,20 @@ msgid "Media Call"
 msgstr ""
 
 #. +> trunk6 stable6
-#: part/tools/animationtool/KPrShapeAnimationDocker.cpp:77
-#: part/tools/animationtool/KPrShapeAnimationDocker.cpp:81
-#: part/tools/animationtool/KPrShapeAnimationDocker.cpp:505
+#: part/tools/animationtool/KPrShapeAnimationDocker.cpp:77 part/tools/animationtool/KPrShapeAnimationDocker.cpp:81 part/tools/animationtool/KPrShapeAnimationDocker.cpp:505
 #, fuzzy, kde-format
-#| msgid "Animation"
 msgid "Edit animation"
 msgstr "アニメーション"
 
 #. +> trunk6 stable6
 #: part/tools/animationtool/KPrShapeAnimationDocker.cpp:95
 #, fuzzy, kde-format
-#| msgid "Animation"
 msgid "Add new animation"
 msgstr "アニメーション"
 
 #. +> trunk6 stable6
 #: part/tools/animationtool/KPrShapeAnimationDocker.cpp:107
 #, fuzzy, kde-format
-#| msgid "Shape Animation"
 msgid "Remove animation"
 msgstr "シェイプアニメーション"
 
@@ -1131,28 +1067,24 @@ msgstr ""
 #. +> trunk6 stable6
 #: part/tools/animationtool/KPrShapeAnimationDocker.cpp:114
 #, fuzzy, kde-format
-#| msgid "Shape Animation"
 msgid "Move animation up"
 msgstr "シェイプアニメーション"
 
 #. +> trunk6 stable6
 #: part/tools/animationtool/KPrShapeAnimationDocker.cpp:119
 #, fuzzy, kde-format
-#| msgid "Animation tool"
 msgid "Move animation down"
 msgstr "アニメーションツール"
 
 #. +> trunk6 stable6
 #: part/tools/animationtool/KPrShapeAnimationDocker.cpp:503
 #, fuzzy, kde-format
-#| msgid "Add a new slide"
 msgid "Add a new animation"
 msgstr "新しいスライドを追加"
 
 #. +> trunk6 stable6
 #: part/tools/animationtool/KPrShapeAnimationDocker.cpp:504
 #, fuzzy, kde-format
-#| msgid "Delete the current slide"
 msgid "Delete current animation"
 msgstr "現在のスライドを削除します"
 
@@ -1293,8 +1225,7 @@ msgstr "発表者ビューを設定"
 
 #. i18n: ectx: property (windowTitle), widget (QWidget, KPrConfigureSlideShow)
 #. +> trunk6 stable6
-#: part/ui/KPrConfigureSlideShow.ui:13
-#: part/ui/KPrConfigureSlideShowDialog.cpp:32
+#: part/ui/KPrConfigureSlideShow.ui:13 part/ui/KPrConfigureSlideShowDialog.cpp:32
 #, kde-format
 msgid "Configure Slide Show"
 msgstr "スライドショーの設定"
@@ -1490,91 +1421,56 @@ msgid "Bar"
 msgstr "棒状"
 
 #. +> trunk6 stable6
-#: plugins/pageeffects/barwipe/KPrBarWipeEffectFactory.cpp:31
-#: plugins/pageeffects/clockwipe/saloondoorwipe/KPrSaloonDoorWipeEffectFactory.cpp:33
-#: plugins/pageeffects/edgewipe/barnveewipe/BarnVeeWipeEffectFactory.cpp:26
-#: plugins/pageeffects/edgewipe/veewipe/VeeWipeEffectFactory.cpp:26
-#: plugins/pageeffects/edgewipe/zigzagwipe/ZigZagWipeEffectFactory.cpp:25
-#: plugins/pageeffects/matrixwipe/snakewipe/KPrSnakeWipeEffectFactory.cpp:40
-#: plugins/pageeffects/slidewipe/KPrSlideWipeEffectFactory.cpp:40
-#: plugins/pageeffects/spacerotation/KPrSpaceRotationEffectFactory.cpp:29
+#: plugins/pageeffects/barwipe/KPrBarWipeEffectFactory.cpp:31 plugins/pageeffects/clockwipe/saloondoorwipe/KPrSaloonDoorWipeEffectFactory.cpp:33
+#: plugins/pageeffects/edgewipe/barnveewipe/BarnVeeWipeEffectFactory.cpp:26 plugins/pageeffects/edgewipe/veewipe/VeeWipeEffectFactory.cpp:26
+#: plugins/pageeffects/edgewipe/zigzagwipe/ZigZagWipeEffectFactory.cpp:25 plugins/pageeffects/matrixwipe/snakewipe/KPrSnakeWipeEffectFactory.cpp:40
+#: plugins/pageeffects/slidewipe/KPrSlideWipeEffectFactory.cpp:40 plugins/pageeffects/spacerotation/KPrSpaceRotationEffectFactory.cpp:29
 msgid "From Bottom"
 msgstr "下から"
 
 #. +> trunk6 stable6
-#: plugins/pageeffects/barwipe/KPrBarWipeEffectFactory.cpp:31
-#: plugins/pageeffects/clockwipe/saloondoorwipe/KPrSaloonDoorWipeEffectFactory.cpp:32
-#: plugins/pageeffects/edgewipe/barnveewipe/BarnVeeWipeEffectFactory.cpp:26
-#: plugins/pageeffects/edgewipe/veewipe/VeeWipeEffectFactory.cpp:26
-#: plugins/pageeffects/edgewipe/zigzagwipe/ZigZagWipeEffectFactory.cpp:25
-#: plugins/pageeffects/matrixwipe/snakewipe/KPrSnakeWipeEffectFactory.cpp:37
-#: plugins/pageeffects/slidewipe/KPrSlideWipeEffectFactory.cpp:37
-#: plugins/pageeffects/spacerotation/KPrSpaceRotationEffectFactory.cpp:29
+#: plugins/pageeffects/barwipe/KPrBarWipeEffectFactory.cpp:31 plugins/pageeffects/clockwipe/saloondoorwipe/KPrSaloonDoorWipeEffectFactory.cpp:32
+#: plugins/pageeffects/edgewipe/barnveewipe/BarnVeeWipeEffectFactory.cpp:26 plugins/pageeffects/edgewipe/veewipe/VeeWipeEffectFactory.cpp:26
+#: plugins/pageeffects/edgewipe/zigzagwipe/ZigZagWipeEffectFactory.cpp:25 plugins/pageeffects/matrixwipe/snakewipe/KPrSnakeWipeEffectFactory.cpp:37
+#: plugins/pageeffects/slidewipe/KPrSlideWipeEffectFactory.cpp:37 plugins/pageeffects/spacerotation/KPrSpaceRotationEffectFactory.cpp:29
 msgid "From Left"
 msgstr "左から"
 
 #. +> trunk6 stable6
-#: plugins/pageeffects/barwipe/KPrBarWipeEffectFactory.cpp:31
-#: plugins/pageeffects/clockwipe/saloondoorwipe/KPrSaloonDoorWipeEffectFactory.cpp:34
-#: plugins/pageeffects/edgewipe/barnveewipe/BarnVeeWipeEffectFactory.cpp:26
-#: plugins/pageeffects/edgewipe/veewipe/VeeWipeEffectFactory.cpp:26
-#: plugins/pageeffects/edgewipe/zigzagwipe/ZigZagWipeEffectFactory.cpp:25
-#: plugins/pageeffects/matrixwipe/snakewipe/KPrSnakeWipeEffectFactory.cpp:38
-#: plugins/pageeffects/slidewipe/KPrSlideWipeEffectFactory.cpp:38
-#: plugins/pageeffects/spacerotation/KPrSpaceRotationEffectFactory.cpp:29
+#: plugins/pageeffects/barwipe/KPrBarWipeEffectFactory.cpp:31 plugins/pageeffects/clockwipe/saloondoorwipe/KPrSaloonDoorWipeEffectFactory.cpp:34
+#: plugins/pageeffects/edgewipe/barnveewipe/BarnVeeWipeEffectFactory.cpp:26 plugins/pageeffects/edgewipe/veewipe/VeeWipeEffectFactory.cpp:26
+#: plugins/pageeffects/edgewipe/zigzagwipe/ZigZagWipeEffectFactory.cpp:25 plugins/pageeffects/matrixwipe/snakewipe/KPrSnakeWipeEffectFactory.cpp:38
+#: plugins/pageeffects/slidewipe/KPrSlideWipeEffectFactory.cpp:38 plugins/pageeffects/spacerotation/KPrSpaceRotationEffectFactory.cpp:29
 msgid "From Right"
 msgstr "右から"
 
 #. +> trunk6 stable6
-#: plugins/pageeffects/barwipe/KPrBarWipeEffectFactory.cpp:31
-#: plugins/pageeffects/clockwipe/saloondoorwipe/KPrSaloonDoorWipeEffectFactory.cpp:31
-#: plugins/pageeffects/edgewipe/barnveewipe/BarnVeeWipeEffectFactory.cpp:26
-#: plugins/pageeffects/edgewipe/veewipe/VeeWipeEffectFactory.cpp:26
-#: plugins/pageeffects/edgewipe/zigzagwipe/ZigZagWipeEffectFactory.cpp:25
-#: plugins/pageeffects/matrixwipe/snakewipe/KPrSnakeWipeEffectFactory.cpp:39
-#: plugins/pageeffects/slidewipe/KPrSlideWipeEffectFactory.cpp:39
-#: plugins/pageeffects/spacerotation/KPrSpaceRotationEffectFactory.cpp:29
+#: plugins/pageeffects/barwipe/KPrBarWipeEffectFactory.cpp:31 plugins/pageeffects/clockwipe/saloondoorwipe/KPrSaloonDoorWipeEffectFactory.cpp:31
+#: plugins/pageeffects/edgewipe/barnveewipe/BarnVeeWipeEffectFactory.cpp:26 plugins/pageeffects/edgewipe/veewipe/VeeWipeEffectFactory.cpp:26
+#: plugins/pageeffects/edgewipe/zigzagwipe/ZigZagWipeEffectFactory.cpp:25 plugins/pageeffects/matrixwipe/snakewipe/KPrSnakeWipeEffectFactory.cpp:39
+#: plugins/pageeffects/slidewipe/KPrSlideWipeEffectFactory.cpp:39 plugins/pageeffects/spacerotation/KPrSpaceRotationEffectFactory.cpp:29
 msgid "From Top"
 msgstr "上から"
 
 #. +> trunk6 stable6
-#: plugins/pageeffects/barwipe/KPrBarWipeEffectFactory.cpp:38
-#: plugins/pageeffects/clockwipe/clockwipe/KPrClockWipeEffectFactory.cpp:45
-#: plugins/pageeffects/clockwipe/doublefanwipe/KPrDoubleFanWipeEffectFactory.cpp:41
-#: plugins/pageeffects/clockwipe/doublesweepwipe/KPrDoubleSweepWipeEffectFactory.cpp:52
-#: plugins/pageeffects/clockwipe/fanwipe/KPrFanWipeEffectFactory.cpp:55
-#: plugins/pageeffects/clockwipe/pinwheelwipe/KPrPinWheelWipeEffectFactory.cpp:40
-#: plugins/pageeffects/clockwipe/saloondoorwipe/KPrSaloonDoorWipeEffectFactory.cpp:45
-#: plugins/pageeffects/clockwipe/singlesweepwipe/KPrSingleSweepWipeEffectFactory.cpp:61
-#: plugins/pageeffects/clockwipe/windshieldwipe/KPrWindShieldWipeEffectFactory.cpp:45
-#: plugins/pageeffects/edgewipe/barndoorwipe/BarnDoorWipeEffectFactory.cpp:44
-#: plugins/pageeffects/edgewipe/barnveewipe/BarnVeeWipeEffectFactory.cpp:33
-#: plugins/pageeffects/edgewipe/barnzigzagwipe/BarnZigZagWipeEffectFactory.cpp:32
-#: plugins/pageeffects/edgewipe/boxwipe/BoxWipeEffectFactory.cpp:44
-#: plugins/pageeffects/edgewipe/diagonalwipe/DiagonalWipeEffectFactory.cpp:33
-#: plugins/pageeffects/edgewipe/fourboxwipe/FourBoxWipeEffectFactory.cpp:34
-#: plugins/pageeffects/edgewipe/miscdiagonalwipe/MiscDiagonalWipeEffectFactory.cpp:35
-#: plugins/pageeffects/edgewipe/veewipe/VeeWipeEffectFactory.cpp:33
-#: plugins/pageeffects/edgewipe/zigzagwipe/ZigZagWipeEffectFactory.cpp:32
-#: plugins/pageeffects/fade/KPrFadeEffectFactory.cpp:33
-#: plugins/pageeffects/iriswipe/arrowHeadWipe/KPrArrowHeadWipeEffectFactory.cpp:86
-#: plugins/pageeffects/iriswipe/ellipseWipe/KPrEllipseWipeEffectFactory.cpp:52
-#: plugins/pageeffects/iriswipe/eyeWipe/KPrEyeWipeEffectFactory.cpp:55
-#: plugins/pageeffects/iriswipe/hexagonWipe/KPrHexagonWipeEffectFactory.cpp:66
-#: plugins/pageeffects/iriswipe/irisWipe/KPrIrisWipeEffectFactory.cpp:50
-#: plugins/pageeffects/iriswipe/miscShapeWipe/KPrMiscShapeWipeEffectFactory.cpp:50
-#: plugins/pageeffects/iriswipe/pentagonWipe/KPrPentagonWipeEffectFactory.cpp:57
-#: plugins/pageeffects/iriswipe/roundRectWipe/KPrRoundRectWipeEffectFactory.cpp:43
-#: plugins/pageeffects/iriswipe/starWipe/KPrStarWipeEffectFactory.cpp:95
-#: plugins/pageeffects/iriswipe/triangleWipe/KPrTriangleWipeEffectFactory.cpp:82
-#: plugins/pageeffects/matrixwipe/boxsnakes/KPrBoxSnakesWipeEffectFactory.cpp:52
-#: plugins/pageeffects/matrixwipe/parallelsnakes/KPrParallelSnakesWipeEffectFactory.cpp:70
-#: plugins/pageeffects/matrixwipe/snakewipe/KPrSnakeWipeEffectFactory.cpp:51
-#: plugins/pageeffects/matrixwipe/spiralwipe/KPrSpiralWipeEffectFactory.cpp:60
-#: plugins/pageeffects/matrixwipe/waterfallwipe/KPrWaterfallWipeEffectFactory.cpp:47
-#: plugins/pageeffects/slidewipe/KPrSlideWipeEffectFactory.cpp:51
-#: plugins/pageeffects/spacerotation/KPrSpaceRotationEffectFactory.cpp:36
-#: plugins/pageeffects/swapeffect/KPrSwapEffectFactory.cpp:30
+#: plugins/pageeffects/barwipe/KPrBarWipeEffectFactory.cpp:38 plugins/pageeffects/clockwipe/clockwipe/KPrClockWipeEffectFactory.cpp:45
+#: plugins/pageeffects/clockwipe/doublefanwipe/KPrDoubleFanWipeEffectFactory.cpp:41 plugins/pageeffects/clockwipe/doublesweepwipe/KPrDoubleSweepWipeEffectFactory.cpp:52
+#: plugins/pageeffects/clockwipe/fanwipe/KPrFanWipeEffectFactory.cpp:55 plugins/pageeffects/clockwipe/pinwheelwipe/KPrPinWheelWipeEffectFactory.cpp:40
+#: plugins/pageeffects/clockwipe/saloondoorwipe/KPrSaloonDoorWipeEffectFactory.cpp:45 plugins/pageeffects/clockwipe/singlesweepwipe/KPrSingleSweepWipeEffectFactory.cpp:61
+#: plugins/pageeffects/clockwipe/windshieldwipe/KPrWindShieldWipeEffectFactory.cpp:45 plugins/pageeffects/edgewipe/barndoorwipe/BarnDoorWipeEffectFactory.cpp:44
+#: plugins/pageeffects/edgewipe/barnveewipe/BarnVeeWipeEffectFactory.cpp:33 plugins/pageeffects/edgewipe/barnzigzagwipe/BarnZigZagWipeEffectFactory.cpp:32
+#: plugins/pageeffects/edgewipe/boxwipe/BoxWipeEffectFactory.cpp:44 plugins/pageeffects/edgewipe/diagonalwipe/DiagonalWipeEffectFactory.cpp:33
+#: plugins/pageeffects/edgewipe/fourboxwipe/FourBoxWipeEffectFactory.cpp:34 plugins/pageeffects/edgewipe/miscdiagonalwipe/MiscDiagonalWipeEffectFactory.cpp:35
+#: plugins/pageeffects/edgewipe/veewipe/VeeWipeEffectFactory.cpp:33 plugins/pageeffects/edgewipe/zigzagwipe/ZigZagWipeEffectFactory.cpp:32 plugins/pageeffects/fade/KPrFadeEffectFactory.cpp:33
+#: plugins/pageeffects/iriswipe/arrowHeadWipe/KPrArrowHeadWipeEffectFactory.cpp:86 plugins/pageeffects/iriswipe/ellipseWipe/KPrEllipseWipeEffectFactory.cpp:52
+#: plugins/pageeffects/iriswipe/eyeWipe/KPrEyeWipeEffectFactory.cpp:55 plugins/pageeffects/iriswipe/hexagonWipe/KPrHexagonWipeEffectFactory.cpp:66
+#: plugins/pageeffects/iriswipe/irisWipe/KPrIrisWipeEffectFactory.cpp:50 plugins/pageeffects/iriswipe/miscShapeWipe/KPrMiscShapeWipeEffectFactory.cpp:50
+#: plugins/pageeffects/iriswipe/pentagonWipe/KPrPentagonWipeEffectFactory.cpp:57 plugins/pageeffects/iriswipe/roundRectWipe/KPrRoundRectWipeEffectFactory.cpp:43
+#: plugins/pageeffects/iriswipe/starWipe/KPrStarWipeEffectFactory.cpp:95 plugins/pageeffects/iriswipe/triangleWipe/KPrTriangleWipeEffectFactory.cpp:82
+#: plugins/pageeffects/matrixwipe/boxsnakes/KPrBoxSnakesWipeEffectFactory.cpp:52 plugins/pageeffects/matrixwipe/parallelsnakes/KPrParallelSnakesWipeEffectFactory.cpp:70
+#: plugins/pageeffects/matrixwipe/snakewipe/KPrSnakeWipeEffectFactory.cpp:51 plugins/pageeffects/matrixwipe/spiralwipe/KPrSpiralWipeEffectFactory.cpp:60
+#: plugins/pageeffects/matrixwipe/waterfallwipe/KPrWaterfallWipeEffectFactory.cpp:47 plugins/pageeffects/slidewipe/KPrSlideWipeEffectFactory.cpp:51
+#: plugins/pageeffects/spacerotation/KPrSpaceRotationEffectFactory.cpp:36 plugins/pageeffects/swapeffect/KPrSwapEffectFactory.cpp:30
 #, kde-format
 msgid "Unknown subtype"
 msgstr "未知のサブタイプ"
@@ -1734,26 +1630,22 @@ msgid "Fan"
 msgstr "ファン"
 
 #. +> trunk6 stable6
-#: plugins/pageeffects/clockwipe/fanwipe/KPrFanWipeEffectFactory.cpp:37
-#: plugins/pageeffects/edgewipe/boxwipe/BoxWipeEffectFactory.cpp:35
+#: plugins/pageeffects/clockwipe/fanwipe/KPrFanWipeEffectFactory.cpp:37 plugins/pageeffects/edgewipe/boxwipe/BoxWipeEffectFactory.cpp:35
 msgid "Center Right"
 msgstr "中心 右"
 
 #. +> trunk6 stable6
-#: plugins/pageeffects/clockwipe/fanwipe/KPrFanWipeEffectFactory.cpp:38
-#: plugins/pageeffects/edgewipe/boxwipe/BoxWipeEffectFactory.cpp:34
+#: plugins/pageeffects/clockwipe/fanwipe/KPrFanWipeEffectFactory.cpp:38 plugins/pageeffects/edgewipe/boxwipe/BoxWipeEffectFactory.cpp:34
 msgid "Center Top"
 msgstr "中心 上"
 
 #. +> trunk6 stable6
-#: plugins/pageeffects/clockwipe/fanwipe/KPrFanWipeEffectFactory.cpp:39
-#: plugins/pageeffects/edgewipe/boxwipe/BoxWipeEffectFactory.cpp:37
+#: plugins/pageeffects/clockwipe/fanwipe/KPrFanWipeEffectFactory.cpp:39 plugins/pageeffects/edgewipe/boxwipe/BoxWipeEffectFactory.cpp:37
 msgid "Center Left"
 msgstr "中心 左"
 
 #. +> trunk6 stable6
-#: plugins/pageeffects/clockwipe/fanwipe/KPrFanWipeEffectFactory.cpp:40
-#: plugins/pageeffects/edgewipe/boxwipe/BoxWipeEffectFactory.cpp:36
+#: plugins/pageeffects/clockwipe/fanwipe/KPrFanWipeEffectFactory.cpp:40 plugins/pageeffects/edgewipe/boxwipe/BoxWipeEffectFactory.cpp:36
 msgid "Center Bottom"
 msgstr "中心 下"
 
@@ -1840,26 +1732,22 @@ msgid "Saloon Door"
 msgstr "サルーンドア"
 
 #. +> trunk6 stable6
-#: plugins/pageeffects/clockwipe/saloondoorwipe/KPrSaloonDoorWipeEffectFactory.cpp:35
-#: plugins/pageeffects/slidewipe/KPrSlideWipeEffectFactory.cpp:43
+#: plugins/pageeffects/clockwipe/saloondoorwipe/KPrSaloonDoorWipeEffectFactory.cpp:35 plugins/pageeffects/slidewipe/KPrSlideWipeEffectFactory.cpp:43
 msgid "To Top"
 msgstr "上へ"
 
 #. +> trunk6 stable6
-#: plugins/pageeffects/clockwipe/saloondoorwipe/KPrSaloonDoorWipeEffectFactory.cpp:36
-#: plugins/pageeffects/slidewipe/KPrSlideWipeEffectFactory.cpp:41
+#: plugins/pageeffects/clockwipe/saloondoorwipe/KPrSaloonDoorWipeEffectFactory.cpp:36 plugins/pageeffects/slidewipe/KPrSlideWipeEffectFactory.cpp:41
 msgid "To Left"
 msgstr "左へ"
 
 #. +> trunk6 stable6
-#: plugins/pageeffects/clockwipe/saloondoorwipe/KPrSaloonDoorWipeEffectFactory.cpp:37
-#: plugins/pageeffects/slidewipe/KPrSlideWipeEffectFactory.cpp:44
+#: plugins/pageeffects/clockwipe/saloondoorwipe/KPrSaloonDoorWipeEffectFactory.cpp:37 plugins/pageeffects/slidewipe/KPrSlideWipeEffectFactory.cpp:44
 msgid "To Bottom"
 msgstr "下へ"
 
 #. +> trunk6 stable6
-#: plugins/pageeffects/clockwipe/saloondoorwipe/KPrSaloonDoorWipeEffectFactory.cpp:38
-#: plugins/pageeffects/slidewipe/KPrSlideWipeEffectFactory.cpp:42
+#: plugins/pageeffects/clockwipe/saloondoorwipe/KPrSaloonDoorWipeEffectFactory.cpp:38 plugins/pageeffects/slidewipe/KPrSlideWipeEffectFactory.cpp:42
 msgid "To Right"
 msgstr "右へ"
 
@@ -1956,75 +1844,56 @@ msgid "Windshield"
 msgstr "ウィンドシールド"
 
 #. +> trunk6 stable6
-#: plugins/pageeffects/clockwipe/windshieldwipe/KPrWindShieldWipeEffectFactory.cpp:31
-#: plugins/pageeffects/iriswipe/arrowHeadWipe/KPrArrowHeadWipeEffectFactory.cpp:74
+#: plugins/pageeffects/clockwipe/windshieldwipe/KPrWindShieldWipeEffectFactory.cpp:31 plugins/pageeffects/iriswipe/arrowHeadWipe/KPrArrowHeadWipeEffectFactory.cpp:74
 #: plugins/pageeffects/iriswipe/triangleWipe/KPrTriangleWipeEffectFactory.cpp:70
 msgid "Right"
 msgstr "右"
 
 #. +> trunk6 stable6
-#: plugins/pageeffects/clockwipe/windshieldwipe/KPrWindShieldWipeEffectFactory.cpp:32
-#: plugins/pageeffects/iriswipe/arrowHeadWipe/KPrArrowHeadWipeEffectFactory.cpp:72
-#: plugins/pageeffects/iriswipe/pentagonWipe/KPrPentagonWipeEffectFactory.cpp:50
-#: plugins/pageeffects/iriswipe/triangleWipe/KPrTriangleWipeEffectFactory.cpp:68
+#: plugins/pageeffects/clockwipe/windshieldwipe/KPrWindShieldWipeEffectFactory.cpp:32 plugins/pageeffects/iriswipe/arrowHeadWipe/KPrArrowHeadWipeEffectFactory.cpp:72
+#: plugins/pageeffects/iriswipe/pentagonWipe/KPrPentagonWipeEffectFactory.cpp:50 plugins/pageeffects/iriswipe/triangleWipe/KPrTriangleWipeEffectFactory.cpp:68
 msgid "Up"
 msgstr "上"
 
 #. +> trunk6 stable6
-#: plugins/pageeffects/clockwipe/windshieldwipe/KPrWindShieldWipeEffectFactory.cpp:33
-#: plugins/pageeffects/edgewipe/barndoorwipe/BarnDoorWipeEffectFactory.cpp:30
-#: plugins/pageeffects/edgewipe/barnzigzagwipe/BarnZigZagWipeEffectFactory.cpp:25
-#: plugins/pageeffects/iriswipe/ellipseWipe/KPrEllipseWipeEffectFactory.cpp:45
-#: plugins/pageeffects/iriswipe/eyeWipe/KPrEyeWipeEffectFactory.cpp:44
-#: plugins/pageeffects/iriswipe/hexagonWipe/KPrHexagonWipeEffectFactory.cpp:59
+#: plugins/pageeffects/clockwipe/windshieldwipe/KPrWindShieldWipeEffectFactory.cpp:33 plugins/pageeffects/edgewipe/barndoorwipe/BarnDoorWipeEffectFactory.cpp:30
+#: plugins/pageeffects/edgewipe/barnzigzagwipe/BarnZigZagWipeEffectFactory.cpp:25 plugins/pageeffects/iriswipe/ellipseWipe/KPrEllipseWipeEffectFactory.cpp:45
+#: plugins/pageeffects/iriswipe/eyeWipe/KPrEyeWipeEffectFactory.cpp:44 plugins/pageeffects/iriswipe/hexagonWipe/KPrHexagonWipeEffectFactory.cpp:59
 #: plugins/pageeffects/iriswipe/roundRectWipe/KPrRoundRectWipeEffectFactory.cpp:36
 msgid "Vertical"
 msgstr "垂直"
 
 #. +> trunk6 stable6
-#: plugins/pageeffects/clockwipe/windshieldwipe/KPrWindShieldWipeEffectFactory.cpp:34
-#: plugins/pageeffects/edgewipe/barndoorwipe/BarnDoorWipeEffectFactory.cpp:32
-#: plugins/pageeffects/edgewipe/barnzigzagwipe/BarnZigZagWipeEffectFactory.cpp:25
-#: plugins/pageeffects/iriswipe/ellipseWipe/KPrEllipseWipeEffectFactory.cpp:45
-#: plugins/pageeffects/iriswipe/eyeWipe/KPrEyeWipeEffectFactory.cpp:46
-#: plugins/pageeffects/iriswipe/hexagonWipe/KPrHexagonWipeEffectFactory.cpp:59
-#: plugins/pageeffects/iriswipe/roundRectWipe/KPrRoundRectWipeEffectFactory.cpp:36
-#: plugins/pageeffects/swapeffect/KPrSwapEffectFactory.cpp:23
+#: plugins/pageeffects/clockwipe/windshieldwipe/KPrWindShieldWipeEffectFactory.cpp:34 plugins/pageeffects/edgewipe/barndoorwipe/BarnDoorWipeEffectFactory.cpp:32
+#: plugins/pageeffects/edgewipe/barnzigzagwipe/BarnZigZagWipeEffectFactory.cpp:25 plugins/pageeffects/iriswipe/ellipseWipe/KPrEllipseWipeEffectFactory.cpp:45
+#: plugins/pageeffects/iriswipe/eyeWipe/KPrEyeWipeEffectFactory.cpp:46 plugins/pageeffects/iriswipe/hexagonWipe/KPrHexagonWipeEffectFactory.cpp:59
+#: plugins/pageeffects/iriswipe/roundRectWipe/KPrRoundRectWipeEffectFactory.cpp:36 plugins/pageeffects/swapeffect/KPrSwapEffectFactory.cpp:23
 msgid "Horizontal"
 msgstr "水平"
 
 #. +> trunk6 stable6
-#: plugins/pageeffects/clockwipe/windshieldwipe/KPrWindShieldWipeEffectFactory.cpp:35
-#: plugins/pageeffects/iriswipe/arrowHeadWipe/KPrArrowHeadWipeEffectFactory.cpp:75
+#: plugins/pageeffects/clockwipe/windshieldwipe/KPrWindShieldWipeEffectFactory.cpp:35 plugins/pageeffects/iriswipe/arrowHeadWipe/KPrArrowHeadWipeEffectFactory.cpp:75
 #: plugins/pageeffects/iriswipe/triangleWipe/KPrTriangleWipeEffectFactory.cpp:71
 msgid "Right Reverse"
 msgstr "右反転"
 
 #. +> trunk6 stable6
-#: plugins/pageeffects/clockwipe/windshieldwipe/KPrWindShieldWipeEffectFactory.cpp:36
-#: plugins/pageeffects/iriswipe/arrowHeadWipe/KPrArrowHeadWipeEffectFactory.cpp:73
-#: plugins/pageeffects/iriswipe/pentagonWipe/KPrPentagonWipeEffectFactory.cpp:50
-#: plugins/pageeffects/iriswipe/triangleWipe/KPrTriangleWipeEffectFactory.cpp:69
+#: plugins/pageeffects/clockwipe/windshieldwipe/KPrWindShieldWipeEffectFactory.cpp:36 plugins/pageeffects/iriswipe/arrowHeadWipe/KPrArrowHeadWipeEffectFactory.cpp:73
+#: plugins/pageeffects/iriswipe/pentagonWipe/KPrPentagonWipeEffectFactory.cpp:50 plugins/pageeffects/iriswipe/triangleWipe/KPrTriangleWipeEffectFactory.cpp:69
 msgid "Up Reverse"
 msgstr "上反転"
 
 #. +> trunk6 stable6
-#: plugins/pageeffects/clockwipe/windshieldwipe/KPrWindShieldWipeEffectFactory.cpp:37
-#: plugins/pageeffects/edgewipe/barndoorwipe/BarnDoorWipeEffectFactory.cpp:31
-#: plugins/pageeffects/iriswipe/ellipseWipe/KPrEllipseWipeEffectFactory.cpp:45
-#: plugins/pageeffects/iriswipe/eyeWipe/KPrEyeWipeEffectFactory.cpp:45
-#: plugins/pageeffects/iriswipe/hexagonWipe/KPrHexagonWipeEffectFactory.cpp:59
-#: plugins/pageeffects/iriswipe/roundRectWipe/KPrRoundRectWipeEffectFactory.cpp:36
+#: plugins/pageeffects/clockwipe/windshieldwipe/KPrWindShieldWipeEffectFactory.cpp:37 plugins/pageeffects/edgewipe/barndoorwipe/BarnDoorWipeEffectFactory.cpp:31
+#: plugins/pageeffects/iriswipe/ellipseWipe/KPrEllipseWipeEffectFactory.cpp:45 plugins/pageeffects/iriswipe/eyeWipe/KPrEyeWipeEffectFactory.cpp:45
+#: plugins/pageeffects/iriswipe/hexagonWipe/KPrHexagonWipeEffectFactory.cpp:59 plugins/pageeffects/iriswipe/roundRectWipe/KPrRoundRectWipeEffectFactory.cpp:36
 msgid "Vertical Reverse"
 msgstr "垂直反転"
 
 #. +> trunk6 stable6
-#: plugins/pageeffects/clockwipe/windshieldwipe/KPrWindShieldWipeEffectFactory.cpp:38
-#: plugins/pageeffects/edgewipe/barndoorwipe/BarnDoorWipeEffectFactory.cpp:33
-#: plugins/pageeffects/iriswipe/ellipseWipe/KPrEllipseWipeEffectFactory.cpp:45
-#: plugins/pageeffects/iriswipe/eyeWipe/KPrEyeWipeEffectFactory.cpp:47
-#: plugins/pageeffects/iriswipe/hexagonWipe/KPrHexagonWipeEffectFactory.cpp:59
-#: plugins/pageeffects/iriswipe/roundRectWipe/KPrRoundRectWipeEffectFactory.cpp:36
+#: plugins/pageeffects/clockwipe/windshieldwipe/KPrWindShieldWipeEffectFactory.cpp:38 plugins/pageeffects/edgewipe/barndoorwipe/BarnDoorWipeEffectFactory.cpp:33
+#: plugins/pageeffects/iriswipe/ellipseWipe/KPrEllipseWipeEffectFactory.cpp:45 plugins/pageeffects/iriswipe/eyeWipe/KPrEyeWipeEffectFactory.cpp:47
+#: plugins/pageeffects/iriswipe/hexagonWipe/KPrHexagonWipeEffectFactory.cpp:59 plugins/pageeffects/iriswipe/roundRectWipe/KPrRoundRectWipeEffectFactory.cpp:36
 msgid "Horizontal Reverse"
 msgstr "水平反転"
 
@@ -2083,29 +1952,25 @@ msgid "Box"
 msgstr "箱"
 
 #. +> trunk6 stable6
-#: plugins/pageeffects/edgewipe/boxwipe/BoxWipeEffectFactory.cpp:30
-#: plugins/pageeffects/edgewipe/diagonalwipe/DiagonalWipeEffectFactory.cpp:26
+#: plugins/pageeffects/edgewipe/boxwipe/BoxWipeEffectFactory.cpp:30 plugins/pageeffects/edgewipe/diagonalwipe/DiagonalWipeEffectFactory.cpp:26
 #: plugins/pageeffects/matrixwipe/snakewipe/KPrSnakeWipeEffectFactory.cpp:41
 msgid "From Top Left"
 msgstr "左上から"
 
 #. +> trunk6 stable6
-#: plugins/pageeffects/edgewipe/boxwipe/BoxWipeEffectFactory.cpp:31
-#: plugins/pageeffects/edgewipe/diagonalwipe/DiagonalWipeEffectFactory.cpp:26
+#: plugins/pageeffects/edgewipe/boxwipe/BoxWipeEffectFactory.cpp:31 plugins/pageeffects/edgewipe/diagonalwipe/DiagonalWipeEffectFactory.cpp:26
 #: plugins/pageeffects/matrixwipe/snakewipe/KPrSnakeWipeEffectFactory.cpp:42
 msgid "From Top Right"
 msgstr "右上から"
 
 #. +> trunk6 stable6
-#: plugins/pageeffects/edgewipe/boxwipe/BoxWipeEffectFactory.cpp:32
-#: plugins/pageeffects/edgewipe/diagonalwipe/DiagonalWipeEffectFactory.cpp:26
+#: plugins/pageeffects/edgewipe/boxwipe/BoxWipeEffectFactory.cpp:32 plugins/pageeffects/edgewipe/diagonalwipe/DiagonalWipeEffectFactory.cpp:26
 #: plugins/pageeffects/matrixwipe/snakewipe/KPrSnakeWipeEffectFactory.cpp:43
 msgid "From Bottom Left"
 msgstr "左下から"
 
 #. +> trunk6 stable6
-#: plugins/pageeffects/edgewipe/boxwipe/BoxWipeEffectFactory.cpp:33
-#: plugins/pageeffects/edgewipe/diagonalwipe/DiagonalWipeEffectFactory.cpp:26
+#: plugins/pageeffects/edgewipe/boxwipe/BoxWipeEffectFactory.cpp:33 plugins/pageeffects/edgewipe/diagonalwipe/DiagonalWipeEffectFactory.cpp:26
 #: plugins/pageeffects/matrixwipe/snakewipe/KPrSnakeWipeEffectFactory.cpp:44
 msgid "From Bottom Right"
 msgstr "右下から"
@@ -2193,28 +2058,24 @@ msgid "ArrowHead"
 msgstr "アローヘッド"
 
 #. +> trunk6 stable6
-#: plugins/pageeffects/iriswipe/arrowHeadWipe/KPrArrowHeadWipeEffectFactory.cpp:76
-#: plugins/pageeffects/iriswipe/pentagonWipe/KPrPentagonWipeEffectFactory.cpp:50
+#: plugins/pageeffects/iriswipe/arrowHeadWipe/KPrArrowHeadWipeEffectFactory.cpp:76 plugins/pageeffects/iriswipe/pentagonWipe/KPrPentagonWipeEffectFactory.cpp:50
 #: plugins/pageeffects/iriswipe/triangleWipe/KPrTriangleWipeEffectFactory.cpp:72
 msgid "Down"
 msgstr "下"
 
 #. +> trunk6 stable6
-#: plugins/pageeffects/iriswipe/arrowHeadWipe/KPrArrowHeadWipeEffectFactory.cpp:77
-#: plugins/pageeffects/iriswipe/pentagonWipe/KPrPentagonWipeEffectFactory.cpp:50
+#: plugins/pageeffects/iriswipe/arrowHeadWipe/KPrArrowHeadWipeEffectFactory.cpp:77 plugins/pageeffects/iriswipe/pentagonWipe/KPrPentagonWipeEffectFactory.cpp:50
 #: plugins/pageeffects/iriswipe/triangleWipe/KPrTriangleWipeEffectFactory.cpp:73
 msgid "Down Reverse"
 msgstr "下反転"
 
 #. +> trunk6 stable6
-#: plugins/pageeffects/iriswipe/arrowHeadWipe/KPrArrowHeadWipeEffectFactory.cpp:78
-#: plugins/pageeffects/iriswipe/triangleWipe/KPrTriangleWipeEffectFactory.cpp:74
+#: plugins/pageeffects/iriswipe/arrowHeadWipe/KPrArrowHeadWipeEffectFactory.cpp:78 plugins/pageeffects/iriswipe/triangleWipe/KPrTriangleWipeEffectFactory.cpp:74
 msgid "Left"
 msgstr "左"
 
 #. +> trunk6 stable6
-#: plugins/pageeffects/iriswipe/arrowHeadWipe/KPrArrowHeadWipeEffectFactory.cpp:79
-#: plugins/pageeffects/iriswipe/triangleWipe/KPrTriangleWipeEffectFactory.cpp:75
+#: plugins/pageeffects/iriswipe/arrowHeadWipe/KPrArrowHeadWipeEffectFactory.cpp:79 plugins/pageeffects/iriswipe/triangleWipe/KPrTriangleWipeEffectFactory.cpp:75
 msgid "Left Reverse"
 msgstr "左反転"
 
@@ -2691,2605 +2552,3 @@ msgstr "ヘッダ"
 #, kde-format
 msgid "Footer"
 msgstr "フッタ"
-
-#, fuzzy
-#~| msgid "Calligra Presentation Tool"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Calligra Presentation Tool"
-#~ msgstr "Calligra プレゼンテーションツール"
-
-#, fuzzy
-#~| msgctxt "application name"
-#~| msgid "Stage"
-#~ msgctxt "(qtundo-format) application name"
-#~ msgid "Stage"
-#~ msgstr "Stage"
-
-#~ msgctxt "application name"
-#~ msgid "Stage"
-#~ msgstr "Stage"
-
-#~ msgid "Calligra Presentation Tool"
-#~ msgstr "Calligra プレゼンテーションツール"
-
-#, fuzzy
-#~| msgid "Maintainer"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Maintainer"
-#~ msgstr "メンテナ"
-
-#, fuzzy
-#~| msgid "(c) 1998-2011, The Stage Team"
-#~ msgid "© 1998-%1, The Stage Team"
-#~ msgstr "(c) 1998-2011, Stage 開発チーム"
-
-#, fuzzy
-#~| msgid "(c) 1998-2011, The Stage Team"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "© 1998-%1, The Stage Team"
-#~ msgstr "(c) 1998-2011, Stage 開発チーム"
-
-#, fuzzy
-#~| msgid "Former maintainer"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Former maintainer"
-#~ msgstr "以前のメンテナ"
-
-#, fuzzy
-#~| msgid "Thorsten Zachmann"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Thorsten Zachmann"
-#~ msgstr "Thorsten Zachmann"
-
-#, fuzzy
-#~| msgid "Laurent Montel"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Laurent Montel"
-#~ msgstr "Laurent Montel"
-
-#, fuzzy
-#~| msgid "Original author"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Original author"
-#~ msgstr "オリジナルの作者"
-
-#, fuzzy
-#~| msgid "Reginald Stadlbauer"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Reginald Stadlbauer"
-#~ msgstr "Reginald Stadlbauer"
-
-#, fuzzy
-#~| msgid "Werner Trobin"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Werner Trobin"
-#~ msgstr "Werner Trobin"
-
-#, fuzzy
-#~| msgid "David Faure"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "David Faure"
-#~ msgstr "David Faure"
-
-#, fuzzy
-#~| msgid "Toshitaka Fujioka"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Toshitaka Fujioka"
-#~ msgstr "Toshitaka Fujioka"
-
-#, fuzzy
-#~| msgid "Lukáš Tinkl"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Lukáš Tinkl"
-#~ msgstr "Lukáš Tinkl"
-
-#, fuzzy
-#~| msgid "Ariya Hidayat"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Ariya Hidayat"
-#~ msgstr "Ariya Hidayat"
-
-#, fuzzy
-#~| msgid "Percy Leonhardt"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Percy Leonhardt"
-#~ msgstr "Percy Leonhardt"
-
-#, fuzzy
-#~| msgid "Thomas Zander"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Thomas Zander"
-#~ msgstr "Thomas Zander"
-
-#, fuzzy
-#~| msgid "Peter Simonsson"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Peter Simonsson"
-#~ msgstr "Peter Simonsson"
-
-#, fuzzy
-#~| msgid "Boudewijn Rempt "
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Boudewijn Rempt "
-#~ msgstr "Boudewijn Rempt "
-
-#, fuzzy
-#~| msgid "Carlos Licea "
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Carlos Licea "
-#~ msgstr "Carlos Licea "
-
-#, fuzzy
-#~| msgid "C. Boemann "
-#~ msgctxt "(qtundo-format)"
-#~ msgid "C. Boemann "
-#~ msgstr "C. Boemann "
-
-#, fuzzy
-#~| msgid "Fredy Yanardi "
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Fredy Yanardi "
-#~ msgstr "Fredy Yanardi "
-
-#, fuzzy
-#~| msgid "Jan Hambrecht "
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Jan Hambrecht "
-#~ msgstr "Jan Hambrecht "
-
-#, fuzzy
-#~| msgid "Marijn Kruisselbrink "
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Marijn Kruisselbrink "
-#~ msgstr "Marijn Kruisselbrink "
-
-#, fuzzy
-#~| msgid "Martin Pfeiffer "
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Martin Pfeiffer "
-#~ msgstr "Martin Pfeiffer "
-
-#, fuzzy
-#~| msgid "Sven Langkamp "
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Sven Langkamp "
-#~ msgstr "Sven Langkamp "
-
-#, fuzzy
-#~| msgid "Timothée Lacroix "
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Timothée Lacroix "
-#~ msgstr "Timothée Lacroix "
-
-#, fuzzy
-#~| msgid "Unknown"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Unknown"
-#~ msgstr "未知"
-
-#, fuzzy
-#~| msgid "Slide %1"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Slide %1"
-#~ msgstr "スライド %1"
-
-#, fuzzy
-#~| msgid "End of presentation. Click to exit."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "End of presentation. Click to exit."
-#~ msgstr "プレゼンテーションの最後です。クリックして終了します。"
-
-#, fuzzy
-#~| msgid "Set Layout"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Layout"
-#~ msgstr "レイアウトの設定"
-
-#, fuzzy
-#~| msgid "Installation Error"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Installation Error"
-#~ msgstr "インストールエラー"
-
-#, fuzzy
-#~| msgid "Placeholder shape"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Placeholder shape"
-#~ msgstr "プレースホルダーの形"
-
-#, fuzzy
-#~| msgid "Double click to add a title"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Double click to add a title"
-#~ msgstr "ダブルクリックしてタイトルを追加します"
-
-#, fuzzy
-#~| msgid "Double click to add an outline"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Double click to add an outline"
-#~ msgstr "ダブルクリックしてアウトラインを追加します"
-
-#, fuzzy
-#~| msgid "Double click to add a text"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Double click to add a text"
-#~ msgstr "ダブルクリックしてテキストを追加します"
-
-#, fuzzy
-#~| msgid "Double click to add notes"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Double click to add notes"
-#~ msgstr "ダブルクリックしてメモを追加します"
-
-#, fuzzy
-#~| msgid "Double click to add a picture"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Double click to add a picture"
-#~ msgstr "ダブルクリックして画像を追加します"
-
-#, fuzzy
-#~| msgid "Double click to add a chart"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Double click to add a chart"
-#~ msgstr "ダブルクリックしてグラフを追加します"
-
-#, fuzzy
-#~| msgid "Double click to add an object"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Double click to add an object"
-#~ msgstr "ダブルクリックしてオブジェクトを追加します"
-
-#, fuzzy
-#~| msgid "Pen Color"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Pen Color"
-#~ msgstr "ペンの色"
-
-#, fuzzy
-#~| msgid "Pen Size"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Pen Size"
-#~ msgstr "ペンの太さ"
-
-#, fuzzy
-#~| msgid "Black"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Black"
-#~ msgstr "黒"
-
-#, fuzzy
-#~| msgid "White"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "White"
-#~ msgstr "白"
-
-#, fuzzy
-#~| msgid "Green"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Green"
-#~ msgstr "緑"
-
-#, fuzzy
-#~| msgid "Red"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Red"
-#~ msgstr "赤"
-
-#, fuzzy
-#~| msgid "Blue"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Blue"
-#~ msgstr "青"
-
-#, fuzzy
-#~| msgid "Yellow"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Yellow"
-#~ msgstr "黄"
-
-#, fuzzy
-#~| msgid "Next Slide"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Next Slide"
-#~ msgstr "次のスライド"
-
-#, fuzzy
-#~| msgid "Speaker Notes"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Speaker Notes"
-#~ msgstr "発表者の注釈"
-
-#, fuzzy
-#~| msgid "Current Slide %1 of %2"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Current Slide %1 of %2"
-#~ msgstr "現在のスライド %1 / %2"
-
-#, fuzzy
-#~| msgid "End of Slide Show"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "End of Slide Show"
-#~ msgstr "スライドショーの最後"
-
-#, fuzzy
-#~| msgid "Create shape animation"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "start after previous animation"
-#~ msgstr "シェイプアニメーションを作成"
-
-#, fuzzy
-#~| msgid "Create shape animation"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "start with previous animation"
-#~ msgstr "シェイプアニメーションを作成"
-
-#, fuzzy
-#~| msgid "Animation"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Animation"
-#~ msgstr "アニメーション"
-
-#, fuzzy
-#~| msgid "Shape"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Shape"
-#~ msgstr "図形"
-
-#, fuzzy
-#~| msgid "&Move Here"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "&Move Here"
-#~ msgstr "ここに移動(&M)"
-
-#, fuzzy
-#~| msgid "&Copy Here"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "&Copy Here"
-#~ msgstr "ここにコピー(&C)"
-
-#, fuzzy
-#~| msgid "C&ancel"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "C&ancel"
-#~ msgstr "キャンセル(&A)"
-
-#, fuzzy
-#~| msgid "Normal"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Normal"
-#~ msgstr "標準"
-
-#, fuzzy
-#~| msgid "Show Master Slides"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Show Master Slides"
-#~ msgstr "マスタースライドを表示"
-
-#, fuzzy
-#~| msgid "Import Slideshow..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Import Slideshow..."
-#~ msgstr "スライドショーをインポート..."
-
-#, fuzzy
-#~| msgid "Insert Slide"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert Slide"
-#~ msgstr "スライドを挿入"
-
-#, fuzzy
-#~| msgid "Insert a new slide after the current one"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert a new slide after the current one"
-#~ msgstr "現在のスライドの後に新しいスライドを挿入します"
-
-#, fuzzy
-#~| msgid "Copy Slide"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Copy Slide"
-#~ msgstr "スライドをコピー"
-
-#, fuzzy
-#~| msgid "Copy the current slide"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Copy the current slide"
-#~ msgstr "現在のスライドをコピーします"
-
-#, fuzzy
-#~| msgid "Delete Slide"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Delete Slide"
-#~ msgstr "スライドを削除"
-
-#, fuzzy
-#~| msgid "Delete the current slide"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Delete the current slide"
-#~ msgstr "現在のスライドを削除します"
-
-#, fuzzy
-#~| msgid "Master Slide..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Master Slide..."
-#~ msgstr "マスタースライド..."
-
-#, fuzzy
-#~| msgid "Previous Slide"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Previous Slide"
-#~ msgstr "前のスライド"
-
-#, fuzzy
-#~| msgid "Previous Slide"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Go to previous slide"
-#~ msgstr "前のスライド"
-
-#, fuzzy
-#~| msgid "Add a new slide"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Go to next slide"
-#~ msgstr "新しいスライドを追加"
-
-#, fuzzy
-#~| msgid "First Slide"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "First Slide"
-#~ msgstr "最初のスライド"
-
-#, fuzzy
-#~| msgid "From First Slide"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Go to first slide"
-#~ msgstr "最初のスライドから"
-
-#, fuzzy
-#~| msgid "Last Slide"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Last Slide"
-#~ msgstr "最後のスライド"
-
-#, fuzzy
-#~| msgid "Last Slide"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Go to last slide"
-#~ msgstr "最後のスライド"
-
-#, fuzzy
-#~| msgid "Configure Stage..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Configure Stage..."
-#~ msgstr "Stage を設定..."
-
-#, fuzzy
-#~| msgid "Export as HTML..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Export as HTML..."
-#~ msgstr "HTML としてエクスポート..."
-
-#, fuzzy
-#~| msgid "Insert Pictures..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert Pictures as Slides..."
-#~ msgstr "絵を挿入..."
-
-#, fuzzy
-#~| msgid "Create Appear Animation"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Create Appear Animation"
-#~ msgstr "登場アニメーションを作成"
-
-#, fuzzy
-#~| msgid "Edit Custom Slide Shows..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Edit Custom Slide Shows..."
-#~ msgstr "カスタムスライドショーを編集..."
-
-#, fuzzy
-#~| msgid "Start Presentation"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Start Presentation"
-#~ msgstr "プレゼンテーションを開始"
-
-#, fuzzy
-#~| msgid "From Current Slide"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "From Current Slide"
-#~ msgstr "現在のスライドから"
-
-#, fuzzy
-#~| msgid "From First Slide"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "From First Slide"
-#~ msgstr "最初のスライドから"
-
-#, fuzzy
-#~| msgid "Start Presentation"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Stop presentation"
-#~ msgstr "プレゼンテーションを開始"
-
-#, fuzzy
-#~| msgid "Configure Slide Show..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Configure Slide Show..."
-#~ msgstr "カスタムスライドショーを設定..."
-
-#, fuzzy
-#~| msgid "Configure Presenter View..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Configure Presenter View..."
-#~ msgstr "プレゼンテーションビューを設定..."
-
-#, fuzzy
-#~| msgid "Start Presentation"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Draw on the presentation..."
-#~ msgstr "プレゼンテーションを開始"
-
-#, fuzzy
-#~| msgid "Start Presentation"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Highlight the presentation..."
-#~ msgstr "プレゼンテーションを開始"
-
-#, fuzzy
-#~| msgid "Start Presentation"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Blackscreen on the presentation..."
-#~ msgstr "プレゼンテーションを開始"
-
-#, fuzzy
-#~| msgid "Notes"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Notes"
-#~ msgstr "メモ"
-
-#, fuzzy
-#~| msgid "Slide Show"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Slides Sorter"
-#~ msgstr "スライドショー"
-
-#, fuzzy
-#~| msgid "Slide Show: "
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Slide Show: "
-#~ msgstr "スライドショー:"
-
-#, fuzzy
-#~| msgid "Add a new custom slide show"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Add a new custom slide show"
-#~ msgstr "新しいカスタムスライドショーを追加"
-
-#, fuzzy
-#~| msgid "Delete current custom slide show"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Delete current custom slide show"
-#~ msgstr "現在のカスタムスライドショーを削除"
-
-#, fuzzy
-#~| msgid "Add slides to current custom slide show"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Add slides to current custom slide show"
-#~ msgstr "現在のカスタムスライドショーにスライドを追加"
-
-#, fuzzy
-#~| msgid "Remove slides from current custom slide show"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Remove slides from current custom slide show"
-#~ msgstr "現在のカスタムスライドショーからスライドを削除"
-
-#, fuzzy
-#~| msgid "Delete Slide"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Duplicate Slide"
-#~ msgstr "スライドを削除"
-
-#, fuzzy
-#~| msgid "Current Slideshow:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Start Slideshow"
-#~ msgstr "現在のスライドショー:"
-
-#, fuzzy
-#~| msgid "Add a new slide"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Add a new slide"
-#~ msgstr "新しいスライドを追加"
-
-#, fuzzy
-#~| msgid "Delete selected slides"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Delete selected slides"
-#~ msgstr "選択したスライドを削除します"
-
-#, fuzzy
-#~| msgid "Rename"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Rename"
-#~ msgstr "名前変更"
-
-#, fuzzy
-#~| msgid "Cut"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Cut"
-#~ msgstr "切り取り"
-
-#, fuzzy
-#~| msgid "Copy"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Copy"
-#~ msgstr "コピー"
-
-#, fuzzy
-#~| msgid "Paste"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Paste"
-#~ msgstr "貼り付け"
-
-#, fuzzy
-#~| msgid "Slide Show %1"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Slide Show %1"
-#~ msgstr "スライドショー %1"
-
-#, fuzzy
-#~| msgid "All slides"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "All slides"
-#~ msgstr "すべてのスライド"
-
-#, fuzzy
-#~| msgid "Error"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Error"
-#~ msgstr "エラー"
-
-#, fuzzy
-#~| msgid "There cannot be two slideshows with the same name."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "There cannot be two slideshows with the same name."
-#~ msgstr "同じ名前の 2 つのスライドショーは許されていません。"
-
-#, fuzzy
-#~| msgid "Presentation"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Preview animation"
-#~ msgstr "プレゼンテーション"
-
-#, fuzzy
-#~| msgid "Slide Transitions"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Slide Transitions"
-#~ msgstr "スライドの遷移"
-
-#, fuzzy
-#~| msgid "Shape Click Actions"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Shape Click Actions"
-#~ msgstr "シェイプのクリックアクション"
-
-#, fuzzy
-#~| msgid "Shape Animation"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Shape Animations"
-#~ msgstr "シェイプアニメーション"
-
-#, fuzzy
-#~| msgctxt "Start of presentation"
-#~| msgid "Start"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Start: "
-#~ msgstr "開始"
-
-#, fuzzy
-#~| msgid "Create shape animation"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "after previous animation"
-#~ msgstr "シェイプアニメーションを作成"
-
-#, fuzzy
-#~| msgid "Shape Animation"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "with previous animation"
-#~ msgstr "シェイプアニメーション"
-
-#, fuzzy
-#~| msgid "Shape Animation"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Preview Shape Animation"
-#~ msgstr "シェイプアニメーション"
-
-#, fuzzy
-#~| msgid "No Effect"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "No Effect"
-#~ msgstr "効果なし"
-
-#, fuzzy
-#~| msgid " sec"
-#~ msgctxt "(qtundo-format)"
-#~ msgid " sec"
-#~ msgstr " 秒"
-
-#, fuzzy
-#~| msgid "All slides"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Apply To All Slides"
-#~ msgstr "すべてのスライド"
-
-#, fuzzy
-#~| msgid "Click Actions"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Ole Action"
-#~ msgstr "アクションをクリック"
-
-#, fuzzy
-#~| msgid "Animation"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Edit animation"
-#~ msgstr "アニメーション"
-
-#, fuzzy
-#~| msgid "Animation"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Add new animation"
-#~ msgstr "アニメーション"
-
-#, fuzzy
-#~| msgid "Shape Animation"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Remove animation"
-#~ msgstr "シェイプアニメーション"
-
-#, fuzzy
-#~| msgid "Shape Animation"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Move animation up"
-#~ msgstr "シェイプアニメーション"
-
-#, fuzzy
-#~| msgid "Animation tool"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Move animation down"
-#~ msgstr "アニメーションツール"
-
-#, fuzzy
-#~| msgid "Add a new slide"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Add a new animation"
-#~ msgstr "新しいスライドを追加"
-
-#, fuzzy
-#~| msgid "Delete the current slide"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Delete current animation"
-#~ msgstr "現在のスライドを削除します"
-
-#, fuzzy
-#~| msgid "Monitor %1 (primary)"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Monitor %1 (primary)"
-#~ msgstr "モニタ %1 (主要)"
-
-#, fuzzy
-#~| msgid "Monitor %1"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Monitor %1"
-#~ msgstr "モニタ %1"
-
-#, fuzzy
-#~| msgid "Configure Presenter View"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Configure Presenter View"
-#~ msgstr "発表者ビューを設定"
-
-#, fuzzy
-#~| msgid "Delete Template"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Delete Template"
-#~ msgstr "テンプレートを削除"
-
-#, fuzzy
-#~| msgid "Delete Template"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Add Template"
-#~ msgstr "テンプレートを削除"
-
-#, fuzzy
-#~| msgid "Are you sure you want to remove \"%1\"?"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Are you sure you want to remove \"%1\"?"
-#~ msgstr "本当に「%1」を削除しますか？"
-
-#, fuzzy
-#~| msgid "Confirm remove"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Confirm remove"
-#~ msgstr "削除を確認"
-
-#, fuzzy
-#~| msgid "No sound"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "No sound"
-#~ msgstr "サウンドなし"
-
-#, fuzzy
-#~| msgid "Import..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Import..."
-#~ msgstr "インポート..."
-
-#, fuzzy
-#~| msgid "Bar"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Bar"
-#~ msgstr "棒状"
-
-#, fuzzy
-#~| msgid "From Left"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "From Left"
-#~ msgstr "左から"
-
-#, fuzzy
-#~| msgid "From Top"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "From Top"
-#~ msgstr "上から"
-
-#, fuzzy
-#~| msgid "From Right"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "From Right"
-#~ msgstr "右から"
-
-#, fuzzy
-#~| msgid "From Bottom"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "From Bottom"
-#~ msgstr "下から"
-
-#, fuzzy
-#~| msgid "Unknown subtype"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Unknown subtype"
-#~ msgstr "未知のサブタイプ"
-
-#, fuzzy
-#~| msgid "Clock"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Clock"
-#~ msgstr "時計"
-
-#, fuzzy
-#~| msgid "From Twelve Clockwise"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "From Twelve Clockwise"
-#~ msgstr "12時から時計回りに"
-
-#, fuzzy
-#~| msgid "From Three Clockwise"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "From Three Clockwise"
-#~ msgstr "3時から時計回りに"
-
-#, fuzzy
-#~| msgid "From Six Clockwise"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "From Six Clockwise"
-#~ msgstr "6時から時計回りに"
-
-#, fuzzy
-#~| msgid "From Nine Clockwise"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "From Nine Clockwise"
-#~ msgstr "9時から時計回りに"
-
-#, fuzzy
-#~| msgid "From Twelve Counterclockwise"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "From Twelve Counterclockwise"
-#~ msgstr "12時から反時計回りに"
-
-#, fuzzy
-#~| msgid "From Three Counterclockwise"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "From Three Counterclockwise"
-#~ msgstr "3時から反時計回りに"
-
-#, fuzzy
-#~| msgid "From Six Counterclockwise"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "From Six Counterclockwise"
-#~ msgstr "6時から反時計回りに"
-
-#, fuzzy
-#~| msgid "From Nine Counterclockwise"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "From Nine Counterclockwise"
-#~ msgstr "9時から反時計回りに"
-
-#, fuzzy
-#~| msgid "Double Fan"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Double Fan"
-#~ msgstr "2つのファン"
-
-#, fuzzy
-#~| msgid "Fan Out Vertical"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Fan Out Vertical"
-#~ msgstr "垂直にファンアウト"
-
-#, fuzzy
-#~| msgid "Fan Out Horizontal"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Fan Out Horizontal"
-#~ msgstr "水平にファンアウト"
-
-#, fuzzy
-#~| msgid "Fan In Vertical"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Fan In Vertical"
-#~ msgstr "垂直にファンイン"
-
-#, fuzzy
-#~| msgid "Fan In Horizontal"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Fan In Horizontal"
-#~ msgstr "水平にファンイン"
-
-#, fuzzy
-#~| msgid "Fan In Vertical Reverse"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Fan In Vertical Reverse"
-#~ msgstr "垂直にファンイン反転"
-
-#, fuzzy
-#~| msgid "Fan In Horizontal Reverse"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Fan In Horizontal Reverse"
-#~ msgstr "水平にファンイン反転"
-
-#, fuzzy
-#~| msgid "Double Sweep"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Double Sweep"
-#~ msgstr "ダブルスイープ"
-
-#, fuzzy
-#~| msgid "Parallel Vertical"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Parallel Vertical"
-#~ msgstr "平行に垂直"
-
-#, fuzzy
-#~| msgid "Parallel Diagonal"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Parallel Diagonal"
-#~ msgstr "平行に斜め"
-
-#, fuzzy
-#~| msgid "Opposite Vertical"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Opposite Vertical"
-#~ msgstr "反対方向に垂直"
-
-#, fuzzy
-#~| msgid "Opposite Horizontal"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Opposite Horizontal"
-#~ msgstr "反対方向に水平"
-
-#, fuzzy
-#~| msgid "Parallel Diagonal Top Left"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Parallel Diagonal Top Left"
-#~ msgstr "平行に斜め 上左"
-
-#, fuzzy
-#~| msgid "Parallel Diagonal Bottom Left"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Parallel Diagonal Bottom Left"
-#~ msgstr "平行に斜め 下左"
-
-#, fuzzy
-#~| msgid "Parallel Vertical Reverse"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Parallel Vertical Reverse"
-#~ msgstr "平行に垂直反転"
-
-#, fuzzy
-#~| msgid "Parallel Diagonal Reverse"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Parallel Diagonal Reverse"
-#~ msgstr "平行に斜め反転"
-
-#, fuzzy
-#~| msgid "Opposite Vertical Reverse"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Opposite Vertical Reverse"
-#~ msgstr "反対方向に垂直反転"
-
-#, fuzzy
-#~| msgid "Opposite Horizontal Reverse"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Opposite Horizontal Reverse"
-#~ msgstr "反対方向に水平反転"
-
-#, fuzzy
-#~| msgid "Parallel Diagonal Top Left Reverse"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Parallel Diagonal Top Left Reverse"
-#~ msgstr "平行に斜め反転 上左"
-
-#, fuzzy
-#~| msgid "Parallel Diagonal Bottom Left Reverse"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Parallel Diagonal Bottom Left Reverse"
-#~ msgstr "平行に斜め反転 下左"
-
-#, fuzzy
-#~| msgid "Fan"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Fan"
-#~ msgstr "ファン"
-
-#, fuzzy
-#~| msgid "Center Right"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Center Right"
-#~ msgstr "中心 右"
-
-#, fuzzy
-#~| msgid "Center Top"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Center Top"
-#~ msgstr "中心 上"
-
-#, fuzzy
-#~| msgid "Center Left"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Center Left"
-#~ msgstr "中心 左"
-
-#, fuzzy
-#~| msgid "Center Bottom"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Center Bottom"
-#~ msgstr "中心 下"
-
-#, fuzzy
-#~| msgid "Fan Out Top"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Fan Out Top"
-#~ msgstr "ファンアウト 上"
-
-#, fuzzy
-#~| msgid "Fan Out Right"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Fan Out Right"
-#~ msgstr "ファンアウト 右"
-
-#, fuzzy
-#~| msgid "Fan Out Bottom"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Fan Out Bottom"
-#~ msgstr "ファンアウト 下"
-
-#, fuzzy
-#~| msgid "Fan Out Left"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Fan Out Left"
-#~ msgstr "ファンアウト 左"
-
-#, fuzzy
-#~| msgid "Fan In Top"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Fan In Top"
-#~ msgstr "ファンイン 上"
-
-#, fuzzy
-#~| msgid "Fan In Right"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Fan In Right"
-#~ msgstr "ファンイン 右"
-
-#, fuzzy
-#~| msgid "Fan In Bottom"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Fan In Bottom"
-#~ msgstr "ファンイン 下"
-
-#, fuzzy
-#~| msgid "Fan In Left"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Fan In Left"
-#~ msgstr "ファンイン 左"
-
-#, fuzzy
-#~| msgid "Pin Wheel"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Pin Wheel"
-#~ msgstr "ピンホイール"
-
-#, fuzzy
-#~| msgid "Two Blades Vertical Clockwise"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Two Blades Vertical Clockwise"
-#~ msgstr "2つのブレード 垂直時計回り"
-
-#, fuzzy
-#~| msgid "Two Blades Horizontal Clockwise"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Two Blades Horizontal Clockwise"
-#~ msgstr "2つのブレード 水平時計回り"
-
-#, fuzzy
-#~| msgid "Four Blades Horizontal Clockwise"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Four Blades Horizontal Clockwise"
-#~ msgstr "4つのブレード 水平時計回り"
-
-#, fuzzy
-#~| msgid "Two Blades Vertical Counterclockwise"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Two Blades Vertical Counterclockwise"
-#~ msgstr "2つのブレード 垂直反時計回り"
-
-#, fuzzy
-#~| msgid "Two Blades Horizontal Counterclockwise"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Two Blades Horizontal Counterclockwise"
-#~ msgstr "2つのブレード 水平反時計回り"
-
-#, fuzzy
-#~| msgid "Four Blades Horizontal Counterclockwise"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Four Blades Horizontal Counterclockwise"
-#~ msgstr "4つのブレード 水平反時計回り"
-
-#, fuzzy
-#~| msgid "Saloon Door"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Saloon Door"
-#~ msgstr "サルーンドア"
-
-#, fuzzy
-#~| msgid "To Top"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "To Top"
-#~ msgstr "上へ"
-
-#, fuzzy
-#~| msgid "To Left"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "To Left"
-#~ msgstr "左へ"
-
-#, fuzzy
-#~| msgid "To Bottom"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "To Bottom"
-#~ msgstr "下へ"
-
-#, fuzzy
-#~| msgid "To Right"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "To Right"
-#~ msgstr "右へ"
-
-#, fuzzy
-#~| msgid "Single Sweep"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Single Sweep"
-#~ msgstr "シングルスイープ"
-
-#, fuzzy
-#~| msgid "Clockwise Top"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Clockwise Top"
-#~ msgstr "時計回り 上"
-
-#, fuzzy
-#~| msgid "Clockwise Right"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Clockwise Right"
-#~ msgstr "時計回り 右"
-
-#, fuzzy
-#~| msgid "Clockwise Bottom"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Clockwise Bottom"
-#~ msgstr "時計回り 下"
-
-#, fuzzy
-#~| msgid "Clockwise Left"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Clockwise Left"
-#~ msgstr "時計回り 左"
-
-#, fuzzy
-#~| msgid "Clockwise Top Left"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Clockwise Top Left"
-#~ msgstr "時計回り 上左"
-
-#, fuzzy
-#~| msgid "Counterclockwise Bottom Left"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Counterclockwise Bottom Left"
-#~ msgstr "反時計回り 下左"
-
-#, fuzzy
-#~| msgid "Clockwise Bottom Right"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Clockwise Bottom Right"
-#~ msgstr "時計回り 下右"
-
-#, fuzzy
-#~| msgid "Counterclockwise Top Right"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Counterclockwise Top Right"
-#~ msgstr "反時計回り 上右"
-
-#, fuzzy
-#~| msgid "Counterclockwise Top"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Counterclockwise Top"
-#~ msgstr "反時計回り 上"
-
-#, fuzzy
-#~| msgid "Counterclockwise Right"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Counterclockwise Right"
-#~ msgstr "反時計回り 右"
-
-#, fuzzy
-#~| msgid "Counterclockwise Bottom"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Counterclockwise Bottom"
-#~ msgstr "反時計回り 下"
-
-#, fuzzy
-#~| msgid "Counterclockwise Left"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Counterclockwise Left"
-#~ msgstr "反時計回り 左"
-
-#, fuzzy
-#~| msgid "Counterclockwise Top Left"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Counterclockwise Top Left"
-#~ msgstr "反時計回り 上左"
-
-#, fuzzy
-#~| msgid "Clockwise Bottom Left"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Clockwise Bottom Left"
-#~ msgstr "時計回り 下左"
-
-#, fuzzy
-#~| msgid "Counterclockwise Bottom Right"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Counterclockwise Bottom Right"
-#~ msgstr "反時計回り 下右"
-
-#, fuzzy
-#~| msgid "Clockwise Top Right"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Clockwise Top Right"
-#~ msgstr "時計回り 上右"
-
-#, fuzzy
-#~| msgid "Windshield"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Windshield"
-#~ msgstr "ウィンドシールド"
-
-#, fuzzy
-#~| msgid "Right"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Right"
-#~ msgstr "右"
-
-#, fuzzy
-#~| msgid "Up"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Up"
-#~ msgstr "上"
-
-#, fuzzy
-#~| msgid "Vertical"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Vertical"
-#~ msgstr "垂直"
-
-#, fuzzy
-#~| msgid "Horizontal"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Horizontal"
-#~ msgstr "水平"
-
-#, fuzzy
-#~| msgid "Right Reverse"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Right Reverse"
-#~ msgstr "右反転"
-
-#, fuzzy
-#~| msgid "Up Reverse"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Up Reverse"
-#~ msgstr "上反転"
-
-#, fuzzy
-#~| msgid "Vertical Reverse"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Vertical Reverse"
-#~ msgstr "垂直反転"
-
-#, fuzzy
-#~| msgid "Horizontal Reverse"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Horizontal Reverse"
-#~ msgstr "水平反転"
-
-#, fuzzy
-#~| msgid "Barn Door"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Barn Door"
-#~ msgstr "バーンドア"
-
-#, fuzzy
-#~| msgid "Diagonal Bottom Left"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Diagonal Bottom Left"
-#~ msgstr "斜め下左"
-
-#, fuzzy
-#~| msgid "Diagonal Bottom Left Reverse"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Diagonal Bottom Left Reverse"
-#~ msgstr "斜め下左反転"
-
-#, fuzzy
-#~| msgid "Diagonal Top Left"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Diagonal Top Left"
-#~ msgstr "斜め上左"
-
-#, fuzzy
-#~| msgid "Diagonal Top Left Reverse"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Diagonal Top Left Reverse"
-#~ msgstr "斜め上左反転"
-
-#, fuzzy
-#~| msgid "Barn Vee"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Barn Vee"
-#~ msgstr "バーン V"
-
-#, fuzzy
-#~| msgid "Barn Zig Zag"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Barn Zig Zag"
-#~ msgstr "バーンジグザグ"
-
-#, fuzzy
-#~| msgid "Vertical Reversed"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Vertical Reversed"
-#~ msgstr "垂直反転"
-
-#, fuzzy
-#~| msgid "Horizontal Reversed"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Horizontal Reversed"
-#~ msgstr "水平反転"
-
-#, fuzzy
-#~| msgid "Box"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Box"
-#~ msgstr "箱"
-
-#, fuzzy
-#~| msgid "From Top Left"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "From Top Left"
-#~ msgstr "左上から"
-
-#, fuzzy
-#~| msgid "From Top Right"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "From Top Right"
-#~ msgstr "右上から"
-
-#, fuzzy
-#~| msgid "From Bottom Left"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "From Bottom Left"
-#~ msgstr "左下から"
-
-#, fuzzy
-#~| msgid "From Bottom Right"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "From Bottom Right"
-#~ msgstr "右下から"
-
-#, fuzzy
-#~| msgid "Diagonal"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Diagonal"
-#~ msgstr "斜め"
-
-#, fuzzy
-#~| msgid "Four Box"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Four Box"
-#~ msgstr "4つの箱"
-
-#, fuzzy
-#~| msgid "Corners In"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Corners In"
-#~ msgstr "コーナーイン"
-
-#, fuzzy
-#~| msgid "Corners In Reverse"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Corners In Reverse"
-#~ msgstr "コーナーイン反転"
-
-#, fuzzy
-#~| msgid "Corners Out"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Corners Out"
-#~ msgstr "コーナーアウト"
-
-#, fuzzy
-#~| msgid "Corners Out Reverse"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Corners Out Reverse"
-#~ msgstr "コーナーアウト反転"
-
-#, fuzzy
-#~| msgid "Misc Diagonal"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Misc Diagonal"
-#~ msgstr "さまざまな斜め"
-
-#, fuzzy
-#~| msgid "Double Barn Door"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Double Barn Door"
-#~ msgstr "ダブルバーンドア"
-
-#, fuzzy
-#~| msgid "Double Diamond"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Double Diamond"
-#~ msgstr "ダブルダイアモンド"
-
-#, fuzzy
-#~| msgid "Vee"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Vee"
-#~ msgstr "V"
-
-#, fuzzy
-#~| msgid "Zig Zag"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Zig Zag"
-#~ msgstr "ジグザグ"
-
-#, fuzzy
-#~| msgid "Fade"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Fade"
-#~ msgstr "フェード"
-
-#, fuzzy
-#~| msgid "ArrowHead"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "ArrowHead"
-#~ msgstr "アローヘッド"
-
-#, fuzzy
-#~| msgid "Down"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Down"
-#~ msgstr "下"
-
-#, fuzzy
-#~| msgid "Down Reverse"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Down Reverse"
-#~ msgstr "下反転"
-
-#, fuzzy
-#~| msgid "Left"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Left"
-#~ msgstr "左"
-
-#, fuzzy
-#~| msgid "Left Reverse"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Left Reverse"
-#~ msgstr "左反転"
-
-#, fuzzy
-#~| msgid "Ellipse"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Ellipse"
-#~ msgstr "楕円"
-
-#, fuzzy
-#~| msgid "Circle"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Circle"
-#~ msgstr "円"
-
-#, fuzzy
-#~| msgid "Circle Reverse"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Circle Reverse"
-#~ msgstr "円反転"
-
-#, fuzzy
-#~| msgid "Eye"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Eye"
-#~ msgstr "目"
-
-#, fuzzy
-#~| msgid "Hexagon"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Hexagon"
-#~ msgstr "六角形"
-
-#, fuzzy
-#~| msgid "Iris"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Iris"
-#~ msgstr "虹"
-
-#, fuzzy
-#~| msgid "Rectangular"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Rectangular"
-#~ msgstr "矩形"
-
-#, fuzzy
-#~| msgid "Rectangular Reverse"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Rectangular Reverse"
-#~ msgstr "矩形反転"
-
-#, fuzzy
-#~| msgid "Diamond"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Diamond"
-#~ msgstr "ダイアモンド"
-
-#, fuzzy
-#~| msgid "Diamond Reverse"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Diamond Reverse"
-#~ msgstr "ダイアモンド反転"
-
-#, fuzzy
-#~| msgid "Misc"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Misc"
-#~ msgstr "その他"
-
-#, fuzzy
-#~| msgid "Heart"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Heart"
-#~ msgstr "ハート"
-
-#, fuzzy
-#~| msgid "Heart Reverse"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Heart Reverse"
-#~ msgstr "ハート反転"
-
-#, fuzzy
-#~| msgid "Keyhole"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Keyhole"
-#~ msgstr "鍵穴"
-
-#, fuzzy
-#~| msgid "Keyhole Reverse"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Keyhole Reverse"
-#~ msgstr "鍵穴反転"
-
-#, fuzzy
-#~| msgid "Pentagon"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Pentagon"
-#~ msgstr "五角形"
-
-#, fuzzy
-#~| msgid "RoundRect"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "RoundRect"
-#~ msgstr "丸み矩形"
-
-#, fuzzy
-#~| msgid "Star"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Star"
-#~ msgstr "星"
-
-#, fuzzy
-#~| msgid "Four Point Star"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Four Point Star"
-#~ msgstr "4頂点星"
-
-#, fuzzy
-#~| msgid "Four Point Star Reverse"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Four Point Star Reverse"
-#~ msgstr "4頂点星反転"
-
-#, fuzzy
-#~| msgid "Five Point Star"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Five Point Star"
-#~ msgstr "5頂点星"
-
-#, fuzzy
-#~| msgid "Five Point Star Reverse"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Five Point Star Reverse"
-#~ msgstr "5頂点星反転"
-
-#, fuzzy
-#~| msgid "Six Point Star"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Six Point Star"
-#~ msgstr "6頂点星"
-
-#, fuzzy
-#~| msgid "Six Point Star Reverse"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Six Point Star Reverse"
-#~ msgstr "6頂点星反転"
-
-#, fuzzy
-#~| msgid "Triangle"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Triangle"
-#~ msgstr "三角形"
-
-#, fuzzy
-#~| msgid "Box Snakes"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Box Snakes"
-#~ msgstr "ボックススネーク"
-
-#, fuzzy
-#~| msgid "Two Box Top In"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Two Box Top In"
-#~ msgstr "2つの箱 上からイン"
-
-#, fuzzy
-#~| msgid "Two Box Bottom In"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Two Box Bottom In"
-#~ msgstr "2つの箱 下からイン"
-
-#, fuzzy
-#~| msgid "Two Box Left In"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Two Box Left In"
-#~ msgstr "2つの箱 左からイン"
-
-#, fuzzy
-#~| msgid "Two Box Right In"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Two Box Right In"
-#~ msgstr "2つの箱 右からイン"
-
-#, fuzzy
-#~| msgid "Four Box Vertical In"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Four Box Vertical In"
-#~ msgstr "4つの箱 垂直イン"
-
-#, fuzzy
-#~| msgid "Four Box Horizontal In"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Four Box Horizontal In"
-#~ msgstr "4つの箱 水平イン"
-
-#, fuzzy
-#~| msgid "Two Box Top Out"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Two Box Top Out"
-#~ msgstr "2つの箱 上からアウト"
-
-#, fuzzy
-#~| msgid "Two Box Bottom Out"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Two Box Bottom Out"
-#~ msgstr "2つの箱 下からアウト"
-
-#, fuzzy
-#~| msgid "Two Box Left Out"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Two Box Left Out"
-#~ msgstr "2つの箱 左からアウト"
-
-#, fuzzy
-#~| msgid "Two Box Right Out"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Two Box Right Out"
-#~ msgstr "2つの箱 右からアウト"
-
-#, fuzzy
-#~| msgid "Four Box Vertical Out"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Four Box Vertical Out"
-#~ msgstr "4つの箱 垂直アウト"
-
-#, fuzzy
-#~| msgid "Four Box Horizontal Out"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Four Box Horizontal Out"
-#~ msgstr "4つの箱 水平アウト"
-
-#, fuzzy
-#~| msgid "Parallel Snakes"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Parallel Snakes"
-#~ msgstr "平行スネーク"
-
-#, fuzzy
-#~| msgid "Vertical Top Same In"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Vertical Top Same In"
-#~ msgstr "平行 上から 同時イン"
-
-#, fuzzy
-#~| msgid "Vertical Top Same Out"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Vertical Top Same Out"
-#~ msgstr "平行 上から 同時アウト"
-
-#, fuzzy
-#~| msgid "Vertical Bottom Same In"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Vertical Bottom Same In"
-#~ msgstr "平行 下から 同時イン"
-
-#, fuzzy
-#~| msgid "Vertical Bottom Same Out"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Vertical Bottom Same Out"
-#~ msgstr "平行 下から 同時アウト"
-
-#, fuzzy
-#~| msgid "Vertical Top Left Opposite In"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Vertical Top Left Opposite In"
-#~ msgstr "平行 上左 反対方向イン"
-
-#, fuzzy
-#~| msgid "Vertical Top Left Opposite Out"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Vertical Top Left Opposite Out"
-#~ msgstr "平行 上左 反対方向アウト"
-
-#, fuzzy
-#~| msgid "Vertical Bottom Left Opposite In"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Vertical Bottom Left Opposite In"
-#~ msgstr "平行 下左 反対方向イン"
-
-#, fuzzy
-#~| msgid "Vertical Bottom Left Opposite Out"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Vertical Bottom Left Opposite Out"
-#~ msgstr "平行 下左 反対方向アウト"
-
-#, fuzzy
-#~| msgid "Horizontal Left Same In"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Horizontal Left Same In"
-#~ msgstr "水平 左 同時イン"
-
-#, fuzzy
-#~| msgid "Horizontal Left Same Out"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Horizontal Left Same Out"
-#~ msgstr "水平 左 同時アウト"
-
-#, fuzzy
-#~| msgid "Horizontal Right Same In"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Horizontal Right Same In"
-#~ msgstr "水平 右 同時イン"
-
-#, fuzzy
-#~| msgid "Horizontal Right Same Out"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Horizontal Right Same Out"
-#~ msgstr "水平 右 同時アウト"
-
-#, fuzzy
-#~| msgid "Horizontal Top Left Opposite In"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Horizontal Top Left Opposite In"
-#~ msgstr "水平 上左 反対方向イン"
-
-#, fuzzy
-#~| msgid "Horizontal Top Left Opposite Out"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Horizontal Top Left Opposite Out"
-#~ msgstr "水平 上左 反対方向アウト"
-
-#, fuzzy
-#~| msgid "Horizontal Top Right Opposite In"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Horizontal Top Right Opposite In"
-#~ msgstr "水平 上右 反対方向イン"
-
-#, fuzzy
-#~| msgid "Horizontal Top Right Opposite Out"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Horizontal Top Right Opposite Out"
-#~ msgstr "水平 上右 反対方向アウト"
-
-#, fuzzy
-#~| msgid "Diagonal Bottom Left Opposite In"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Diagonal Bottom Left Opposite In"
-#~ msgstr "斜め 下左 反対方向イン"
-
-#, fuzzy
-#~| msgid "Diagonal Bottom Left Opposite Out"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Diagonal Bottom Left Opposite Out"
-#~ msgstr "斜め 下左 反対方向アウト"
-
-#, fuzzy
-#~| msgid "Diagonal Top Left Opposite In"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Diagonal Top Left Opposite In"
-#~ msgstr "斜め 上左 反対方向イン"
-
-#, fuzzy
-#~| msgid "Diagonal Top Left Opposite Out"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Diagonal Top Left Opposite Out"
-#~ msgstr "斜め 上左 反対方向アウト"
-
-#, fuzzy
-#~| msgid "Snake"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Snake"
-#~ msgstr "スネーク"
-
-#, fuzzy
-#~| msgid "Spiral"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Spiral"
-#~ msgstr "らせん"
-
-#, fuzzy
-#~| msgid "Clockwise Top Left In"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Clockwise Top Left In"
-#~ msgstr "時計回り 上左イン"
-
-#, fuzzy
-#~| msgid "Clockwise Top Left Out"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Clockwise Top Left Out"
-#~ msgstr "時計回り 上左アウト"
-
-#, fuzzy
-#~| msgid "Clockwise Top Right In"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Clockwise Top Right In"
-#~ msgstr "時計回り 上右イン"
-
-#, fuzzy
-#~| msgid "Clockwise Top Right Out"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Clockwise Top Right Out"
-#~ msgstr "時計回り 上右アウト"
-
-#, fuzzy
-#~| msgid "Clockwise Bottom Left In"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Clockwise Bottom Left In"
-#~ msgstr "時計回り 下左イン"
-
-#, fuzzy
-#~| msgid "Clockwise Bottom Left Out"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Clockwise Bottom Left Out"
-#~ msgstr "時計回り 下左アウト"
-
-#, fuzzy
-#~| msgid "Clockwise Bottom Right In"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Clockwise Bottom Right In"
-#~ msgstr "時計回り 下右イン"
-
-#, fuzzy
-#~| msgid "Clockwise Bottom Right Out"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Clockwise Bottom Right Out"
-#~ msgstr "時計回り 下右アウト"
-
-#, fuzzy
-#~| msgid "Counterclockwise Top Left In"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Counterclockwise Top Left In"
-#~ msgstr "反時計回り 上左イン"
-
-#, fuzzy
-#~| msgid "Counterclockwise Top Left Out"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Counterclockwise Top Left Out"
-#~ msgstr "反時計回り 上左アウト"
-
-#, fuzzy
-#~| msgid "Counterclockwise Top Right In"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Counterclockwise Top Right In"
-#~ msgstr "反時計回り 上右イン"
-
-#, fuzzy
-#~| msgid "Counterclockwise Top Right Out"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Counterclockwise Top Right Out"
-#~ msgstr "反時計回り 上右アウト"
-
-#, fuzzy
-#~| msgid "Counterclockwise Bottom Left In"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Counterclockwise Bottom Left In"
-#~ msgstr "反時計回り 下左イン"
-
-#, fuzzy
-#~| msgid "Counterclockwise Bottom Left Out"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Counterclockwise Bottom Left Out"
-#~ msgstr "反時計回り 下左アウト"
-
-#, fuzzy
-#~| msgid "Counterclockwise Bottom Right In"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Counterclockwise Bottom Right In"
-#~ msgstr "反時計回り 下右イン"
-
-#, fuzzy
-#~| msgid "Counterclockwise Bottom Right Out"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Counterclockwise Bottom Right Out"
-#~ msgstr "反時計回り 下右アウト"
-
-#, fuzzy
-#~| msgid "Waterfall"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Waterfall"
-#~ msgstr "滝"
-
-#, fuzzy
-#~| msgid "Top Left Vertical"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Top Left Vertical"
-#~ msgstr "上左垂直"
-
-#, fuzzy
-#~| msgid "Top Left Horizontal"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Top Left Horizontal"
-#~ msgstr "上左水平"
-
-#, fuzzy
-#~| msgid "Top Right Vertical"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Top Right Vertical"
-#~ msgstr "上右垂直"
-
-#, fuzzy
-#~| msgid "Top Right Horizontal"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Top Right Horizontal"
-#~ msgstr "上右水平"
-
-#, fuzzy
-#~| msgid "Bottom Left Vertical"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Bottom Left Vertical"
-#~ msgstr "下左垂直"
-
-#, fuzzy
-#~| msgid "Bottom Left Horizontal"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Bottom Left Horizontal"
-#~ msgstr "下左水平"
-
-#, fuzzy
-#~| msgid "Bottom Right Vertical"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Bottom Right Vertical"
-#~ msgstr "下右垂直"
-
-#, fuzzy
-#~| msgid "Bottom Right Horizontal"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Bottom Right Horizontal"
-#~ msgstr "下右水平"
-
-#, fuzzy
-#~| msgid "Slide"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Slide"
-#~ msgstr "スライド"
-
-#, fuzzy
-#~| msgid "Space Rotation"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Space Rotation"
-#~ msgstr "スペース回転"
-
-#, fuzzy
-#~| msgid "Swap effect"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Swap effect"
-#~ msgstr "スワップ効果"
-
-#, fuzzy
-#~| msgid "Header"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Header"
-#~ msgstr "ヘッダ"
-
-#, fuzzy
-#~| msgid "Footer"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Footer"
-#~ msgstr "フッタ"
-
-#, fuzzy
-#~| msgctxt "NAME OF TRANSLATORS"
-#~| msgid "Your names"
-#~ msgctxt "(qtundo-format) NAME OF TRANSLATORS"
-#~ msgid "Your names"
-#~ msgstr "Taiki Komoda,Yukiko Bando"
-
-#, fuzzy
-#~| msgctxt "EMAIL OF TRANSLATORS"
-#~| msgid "Your emails"
-#~ msgctxt "(qtundo-format) EMAIL OF TRANSLATORS"
-#~ msgid "Your emails"
-#~ msgstr "kom@kde.gr.jp,ybando@k6.dion.ne.jp"
-
-#, fuzzy
-#~| msgid "&Edit"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "&Edit"
-#~ msgstr "編集(&E)"
-
-#, fuzzy
-#~| msgid "&View"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "&View"
-#~ msgstr "表示(&V)"
-
-#, fuzzy
-#~| msgid "&Insert"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "&Insert"
-#~ msgstr "挿入(&I)"
-
-#, fuzzy
-#~| msgid "F&ormat"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "F&ormat"
-#~ msgstr "フォーマット(&O)"
-
-#, fuzzy
-#~| msgid "&Slide"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "&Slide"
-#~ msgstr "スライド(&S)"
-
-#, fuzzy
-#~| msgid "Sli&de Show"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Sli&de Show"
-#~ msgstr "スライドショー(&D)"
-
-#, fuzzy
-#~| msgid "&Settings"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "&Settings"
-#~ msgstr "設定(&S)"
-
-#, fuzzy
-#~| msgid "Crop"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Crop"
-#~ msgstr "切り取り"
-
-#, fuzzy
-#~| msgid "X:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "X:"
-#~ msgstr "X:"
-
-#, fuzzy
-#~| msgid "W&idth:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "W&idth:"
-#~ msgstr "幅(&I):"
-
-#, fuzzy
-#~| msgid "Will keep the width of the crop constant"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Will keep the width of the crop constant"
-#~ msgstr "切り取りの幅を一定に保つ"
-
-#, fuzzy
-#~| msgid "&Height:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "&Height:"
-#~ msgstr "高さ(&H):"
-
-#, fuzzy
-#~| msgid "Will keep the height of the crop constant"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Will keep the height of the crop constant"
-#~ msgstr "切り取りの高さを一定に保つ"
-
-#, fuzzy
-#~| msgid "Y:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Y:"
-#~ msgstr "Y:"
-
-#, fuzzy
-#~| msgid "R&atio:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "R&atio:"
-#~ msgstr "比率(&A):"
-
-#, fuzzy
-#~| msgid "Will keep the ratio constant"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Will keep the ratio constant"
-#~ msgstr "比率を一定に保つ"
-
-#, fuzzy
-#~| msgid "Layer"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Layer"
-#~ msgstr "レイヤー"
-
-#, fuzzy
-#~| msgid "Image"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Image"
-#~ msgstr "画像"
-
-#, fuzzy
-#~| msgid "&Crop"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "&Crop"
-#~ msgstr "切り取り(&C)"
-
-#, fuzzy
-#~| msgid "Slides"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Slides"
-#~ msgstr "スライド"
-
-#, fuzzy
-#~| msgid "Presentation Slides:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Presentation Slides:"
-#~ msgstr "プレゼンテーションスライド:"
-
-#, fuzzy
-#~| msgid "Edit Custom Slide Shows ..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Edit Custom Slide Shows ..."
-#~ msgstr "カスタムスライドショーを編集..."
-
-#, fuzzy
-#~| msgid "Delete Template"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Select template (.css) :"
-#~ msgstr "テンプレートを削除"
-
-#, fuzzy
-#~| msgid "Title"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Title"
-#~ msgstr "タイトル"
-
-#, fuzzy
-#~| msgid "Delete Favorite"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Delete Favorite"
-#~ msgstr "お気に入りを削除"
-
-#, fuzzy
-#~| msgid "Multiple monitors"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Multiple monitors"
-#~ msgstr "マルチモニタ"
-
-#, fuzzy
-#~| msgid "Presentation monitor:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Presentation monitor:"
-#~ msgstr "プレゼンテーションモニタ:"
-
-#, fuzzy
-#~| msgid "Enable presenter view"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Enable presenter view"
-#~ msgstr "プレゼンテーションビューを有効にする"
-
-#~ msgid "File to open"
-#~ msgstr "開くファイル"
-
-#, fuzzy
-#~| msgid "File to open"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "File to open"
-#~ msgstr "開くファイル"
-
-#, fuzzy
-#~| msgid "Configure Slide Show"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Configure Slide Show"
-#~ msgstr "スライドショーの設定"
-
-#, fuzzy
-#~| msgid "Configure Stage..."
-#~ msgctxt "(qtundo-format) application name"
-#~ msgid "Calligra Stage"
-#~ msgstr "Stage を設定..."
-
-#, fuzzy
-#~| msgid "Presentation"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Presentation Tool"
-#~ msgstr "プレゼンテーション"
-
-#, fuzzy
-#~| msgid "(c) 1998-2011, The Stage Team"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Copyright 1998-%1, The Stage Team"
-#~ msgstr "(c) 1998-2011, Stage 開発チーム"
-
-#~ msgid "Add custom slide show"
-#~ msgstr "新しいカスタムスライドショーを追加"
-
-#~ msgid "Delete custom slide show"
-#~ msgstr "カスタムスライドショーを削除"
-
-#~ msgid "Edit custom slide show"
-#~ msgstr "カスタムスライドショーを編集"
-
-#~ msgid "Rename custom slide show"
-#~ msgstr "カスタムスライドショーの名前変更"
-
-#, fuzzy
-#~| msgid "(c) 1998-2011, The Stage Team"
-#~ msgid "(c) 1998-2013, The Stage Team"
-#~ msgstr "(c) 1998-2011, Stage 開発チーム"
-
-#~ msgid "Set Layout"
-#~ msgstr "レイアウトの設定"
-
-#~ msgid "Layout Tool"
-#~ msgstr "レイアウトツール"
-
-#~ msgid "Slide Layouts"
-#~ msgstr "スライドレイアウト"
-
-#~ msgid "&File"
-#~ msgstr "ファイル(&F)"
-
-#~ msgid "Line"
-#~ msgstr "線"
-
-#~ msgid "Arra&nge Objects"
-#~ msgstr "オブジェクトを配置(&N)"
-
-#~ msgid "&Align Objects"
-#~ msgstr "オブジェクトを整列(&A)"
-
-#~ msgid "Te&xt"
-#~ msgstr "テキスト(&X)"
-
-#~ msgid "&Align"
-#~ msgstr "整列(&A)"
-
-#~ msgid "T&ype"
-#~ msgstr "タイプ(&Y)"
-
-#~ msgid "Spellcheck"
-#~ msgstr "スペルチェック"
-
-#~ msgid "Autocorrection"
-#~ msgstr "自動修正"
-
-#~ msgid "File"
-#~ msgstr "ファイル"
-
-#~ msgid "Edit"
-#~ msgstr "編集"
-
-#~ msgid "Insert"
-#~ msgstr "挿入"
-
-#~ msgid "Tools"
-#~ msgstr "ツール"
-
-#~ msgid "Format"
-#~ msgstr "フォーマット"
-
-#~ msgid "Text"
-#~ msgstr "テキスト"
-
-#~ msgid "Slide Show"
-#~ msgstr "スライドショー"
-
-#~ msgid "Navigation"
-#~ msgstr "ナビゲーション"
-
-#~ msgid "Vertical Alignment"
-#~ msgstr "垂直位置合わせ"
-
-#~ msgid "Flip Objects"
-#~ msgstr "オブジェクトを反転"
-
-#~ msgid "&Scale to Show the Picture 1:1 In"
-#~ msgstr "中で 1:1 表示されるように画像をスケール(&S)"
-
-#~ msgid "Spell Check Result"
-#~ msgstr "スペルチェックの結果"
-
-#~ msgid "Create shape animation"
-#~ msgstr "シェイプアニメーションを作成"
-
-#~ msgid "Create page effect"
-#~ msgstr "ページ効果を作成"
-
-#~ msgid "Modify page effect"
-#~ msgstr "ページ効果を編集"
-
-#~ msgid "Delete page effect"
-#~ msgstr "ページ効果を削除"
-
-#~ msgid "KOffice Presentation Tool"
-#~ msgstr "KOffice プレゼンテーションツール"
-
-#~ msgid "Showcase"
-#~ msgstr "Showcase"
-
-#~ msgid "(c) 1998-2011, The Showcase Team"
-#~ msgstr "(c) 1998-2011, Showcase 開発チーム"
-
-#~ msgid "Casper Boemann "
-#~ msgstr "Casper Boemann "
-
-#~ msgid "Insert Pictures"
-#~ msgstr "絵を挿入"
-
-#~ msgid "Configure Showcase..."
-#~ msgstr "Showcase を設定..."
-
-#~ msgctxt "@action:inmenu Default View"
-#~ msgid "Normal"
-#~ msgstr "標準"
-
-#~ msgid "Insert Pictures..."
-#~ msgstr "絵を挿入..."
-
-#~ msgctxt "Start of presentation"
-#~ msgid "Start"
-#~ msgstr "開始"
-
-#~ msgid "Transitions"
-#~ msgstr "遷移"
-
-#~ msgid "Click Actions"
-#~ msgstr "アクションをクリック"
-
-#~ msgid "Not implemented in 2.0"
-#~ msgstr "2.0 には実装されていません"
-
-#~ msgid "Shape Animation"
-#~ msgstr "シェイプアニメーション"
-
-#~ msgid "Animation tool"
-#~ msgstr "アニメーションツール"
-
-#~ msgid "Edit Shape"
-#~ msgstr "シェイプを編集"
-
-#~ msgid "New Slide Show %1"
-#~ msgstr "新しいスライドショー %1"
-
-#~ msgid "Are you sure you want to delete the selected slide show?"
-#~ msgstr "本当に選択したスライドショーを削除しますか？"
-
-#~ msgid "Confirm action"
-#~ msgstr "確認アクション"
-
-#~ msgid "Custom Slideshows editor"
-#~ msgstr "カスタムスライドショーエディタ"
-
-#~ msgid "Customs Slideshows"
-#~ msgstr "カスタムスライドショー"
-
-#~ msgid "Add new slideshow"
-#~ msgstr "新しいスライドショーを追加"
-
-#~ msgid "Delete slideshow"
-#~ msgstr "スライドショーを削除"
-
-#~ msgid "Available Slides"
-#~ msgstr "利用可能なスライド"
-
-#~ msgid "Current Slideshow:"
-#~ msgstr "現在のスライドショー:"
-
-#~ msgid "Add Slide"
-#~ msgstr "スライドを追加"
-
-#~ msgid "Undo"
-#~ msgstr "元に戻す"
-
-#, fuzzy
-#~| msgid "&OK"
-#~ msgid "OK"
-#~ msgstr "&OK"
-
-#~ msgid "Close"
-#~ msgstr "閉じる"
-
-#~ msgid "Change sound action"
-#~ msgstr "サウンドアクションを変更"
-
-#~ msgid "Ok"
-#~ msgstr "OK"
-
-#~ msgid "KPresenter"
-#~ msgstr "KPresenter"
-
-#~ msgid "(c) 1998-2008, The KPresenter Team"
-#~ msgstr "(c) 1998-2008, KPresenter 開発チーム"
-
-#~ msgid "Configure KPresenter..."
-#~ msgstr "KPresenter を設定..."
-
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Create page effect"
-#~ msgstr "ページ効果を作成"
-
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Modify page effect"
-#~ msgstr "ページ効果を編集"
-
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Delete page effect"
-#~ msgstr "ページ効果を削除"
-
-#, fuzzy
-#~| msgid "Edit"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Edit"
-#~ msgstr "編集"
-
-#, fuzzy
-#~| msgid "(c) 1998-2008, The KPresenter Team"
-#~ msgid "(c) 1998-2011, The KPresenter Team"
-#~ msgstr "(c) 1998-2008, KPresenter 開発チーム"
-
-#~ msgid ""
-#~ "Choose a predefined shape by clicking on it then clicking the OK button "
-#~ "(or just double-click on the shape). You can then insert the shape onto "
-#~ "your slide by drawing the area with the mouse pointer."
-#~ msgstr ""
-#~ "あらかじめ定義された図形をクリックし「OK」ボタンをクリック (または図形の上"
-#~ "でダブルクリック) します。次にマウスで領域を選択してスライドに図形を挿入し"
-#~ "てください。"
-
-#~ msgid "&Page"
-#~ msgstr "ページ(&P)"
-
-#, fuzzy
-#~| msgid "Create page effect"
-#~ msgid "Click to preview the page effect."
-#~ msgstr "ページ効果を作成"
-
-#, fuzzy
-#~| msgid "Create page effect"
-#~ msgid "Pentagon Wipe Effect"
-#~ msgstr "ページ効果を作成"
-
-#, fuzzy
-#~| msgid "No Effect"
-#~ msgid "Misc Wipe Effect"
-#~ msgstr "効果なし"
-
-#, fuzzy
-#~| msgid "No Effect"
-#~ msgid "Ellipse Wipe Effect"
-#~ msgstr "効果なし"
-
-#, fuzzy
-#~| msgid "No Effect"
-#~ msgid "Iris Wipe Effect"
-#~ msgstr "効果なし"
-
-#, fuzzy
-#~| msgid "Create page effect"
-#~ msgid "Eye Wipe Effect"
-#~ msgstr "ページ効果を作成"
-
-#, fuzzy
-#~| msgid "Create page effect"
-#~ msgid "Hexagon Wipe Effect"
-#~ msgstr "ページ効果を作成"
-
-#, fuzzy
-#~| msgid "No Effect"
-#~ msgid "Triangle Wipe Effect"
-#~ msgstr "効果なし"
-
-#, fuzzy
-#~| msgid "No Effect"
-#~ msgid "Star Wipe Effect"
-#~ msgstr "効果なし"
-
-#, fuzzy
-#~| msgid "Create page effect"
-#~ msgid "Barn Vee Wipe Effect"
-#~ msgstr "ページ効果を作成"
-
-#, fuzzy
-#~| msgid "No Effect"
-#~ msgid "Zig Zag Wipe Effect"
-#~ msgstr "効果なし"
-
-#, fuzzy
-#~| msgid "Create page effect"
-#~ msgid "Vee Wipe Effect"
-#~ msgstr "ページ効果を作成"
-
-#, fuzzy
-#~| msgid "No Effect"
-#~ msgid "Box Wipe Effect"
-#~ msgstr "効果なし"
-
-#, fuzzy
-#~| msgid "Navigation"
-#~ msgid "Navigate to:"
-#~ msgstr "ナビゲーション"

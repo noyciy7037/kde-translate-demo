@@ -1,26 +1,17 @@
-# translation of KarbonTools.po to Japanese
-# Copyright (C) 2007 This_file_is_part_of_KDE
-# This file is distributed under the same license as the koffice package.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the calligra package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-# Yukiko Bando <ybando@k6.dion.ne.jp>, 2007.
-# Tsugumi Harabayashi <tu.hrby@gmail.com>, 2014.
-# Fumiaki Okushi <okushi@kde.gr.jp>, 2014.
 msgid ""
 msgstr ""
-"Project-Id-Version: KarbonTools\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-11-09 11:24+0100\n"
-"PO-Revision-Date: 2014-07-13 00:28-0700\n"
-"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: calligra\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
-"X-Generator: Lokalize 1.5\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6 stable6
 #: CalligraphyTool/KarbonCalligraphicShapeFactory.cpp:15
@@ -107,9 +98,7 @@ msgid "Drag:"
 msgstr "ドラッグ:"
 
 #. +> trunk6 stable6
-#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:188
-#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:189
-#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:216
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:188 CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:189 CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:216
 #, kde-format
 msgid "Current"
 msgstr "カレント"
@@ -148,8 +137,7 @@ msgid ""
 msgstr "そのファイル名は既に存在しています。上書きしますか？"
 
 #. +> trunk6 stable6
-#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:340
-#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:365
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:340 CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:365
 #, kde-format
 msgid "Mouse"
 msgstr "マウス"
@@ -191,9 +179,7 @@ msgid "Calligraphy: decrease angle"
 msgstr "カリグラフィー: 角度を下げる"
 
 #. +> trunk6 stable6
-#: CalligraphyTool/KarbonCalligraphyTool.cpp:380
-#: CalligraphyTool/KarbonCalligraphyTool.cpp:381
-#: CalligraphyTool/KarbonCalligraphyToolFactory.cpp:19
+#: CalligraphyTool/KarbonCalligraphyTool.cpp:380 CalligraphyTool/KarbonCalligraphyTool.cpp:381 CalligraphyTool/KarbonCalligraphyToolFactory.cpp:19
 #, kde-format
 msgid "Calligraphy"
 msgstr "カリグラフィー"
@@ -236,8 +222,7 @@ msgstr "フィルタに名前を入れてください"
 
 #. i18n: ectx: property (windowTitle), widget (QWidget, FilterEffectEditWidget)
 #. +> trunk6 stable6
-#: filterEffectTool/FilterEffectEditWidget.ui:32
-#: filterEffectTool/KarbonFilterEffectsTool.cpp:320
+#: filterEffectTool/FilterEffectEditWidget.ui:32 filterEffectTool/KarbonFilterEffectsTool.cpp:320
 #, kde-format
 msgid "Filter Effect Editor"
 msgstr "フィルタ効果編集ツール"
@@ -256,12 +241,8 @@ msgstr "効果と接続"
 #. i18n: ectx: property (text), widget (QToolButton, addPreset)
 #. i18n: ectx: property (text), widget (QToolButton, removePreset)
 #. +> trunk6 stable6
-#: filterEffectTool/FilterEffectEditWidget.ui:57
-#: filterEffectTool/FilterEffectEditWidget.ui:67
-#: filterEffectTool/FilterEffectEditWidget.ui:74
-#: filterEffectTool/FilterEffectEditWidget.ui:81
-#: filterEffectTool/FilterEffectEditWidget.ui:102
-#: filterEffectTool/FilterEffectEditWidget.ui:109
+#: filterEffectTool/FilterEffectEditWidget.ui:57 filterEffectTool/FilterEffectEditWidget.ui:67 filterEffectTool/FilterEffectEditWidget.ui:74 filterEffectTool/FilterEffectEditWidget.ui:81
+#: filterEffectTool/FilterEffectEditWidget.ui:102 filterEffectTool/FilterEffectEditWidget.ui:109
 #, kde-format
 msgid "..."
 msgstr "..."
@@ -275,8 +256,7 @@ msgstr "フィルタのプリセット"
 
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #. +> trunk6 stable6
-#: filterEffectTool/FilterEffectEditWidget.ui:116
-#: filterEffectTool/KarbonFilterEffectsTool.cpp:474
+#: filterEffectTool/FilterEffectEditWidget.ui:116 filterEffectTool/KarbonFilterEffectsTool.cpp:474
 #, kde-format
 msgid "Effect Properties"
 msgstr "効果のプロパティ"
@@ -363,9 +343,7 @@ msgstr "ドラッグでグラデーション位置を移動します"
 #: KarbonGradientTool.cpp:208
 #, kde-format
 msgid "Drag to move color stop. Double click to remove color stop."
-msgstr ""
-"ドラッグでカラーストップを移動します。ダブルクリックでカラーストップを削除し"
-"ます"
+msgstr "ドラッグでカラーストップを移動します。ダブルクリックでカラーストップを削除します"
 
 #. +> trunk6 stable6
 #: KarbonGradientTool.cpp:210
@@ -377,9 +355,7 @@ msgstr "ドラッグでカラーストップを移動します"
 #: KarbonGradientTool.cpp:217
 #, kde-format
 msgid "Drag to move gradient position. Double click to insert color stop."
-msgstr ""
-"ドラッグでグラデーションの位置をい移動します。ダブルクリックでカラーストップ"
-"を挿入します"
+msgstr "ドラッグでグラデーションの位置をい移動します。ダブルクリックでカラーストップを挿入します"
 
 #. +> trunk6 stable6
 #: KarbonGradientTool.cpp:493
@@ -488,536 +464,3 @@ msgstr "パターン"
 #, kde-format
 msgid "Pattern editing"
 msgstr "パターンの編集"
-
-#, fuzzy
-#~| msgid "Effects and Connections"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Effects and Connections"
-#~ msgstr "効果と接続"
-
-#, fuzzy
-#~| msgid "..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "..."
-#~ msgstr "..."
-
-#, fuzzy
-#~| msgid "Filter Presets"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Filter Presets"
-#~ msgstr "フィルタのプリセット"
-
-#, fuzzy
-#~| msgid "A calligraphic shape"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "A calligraphic shape"
-#~ msgstr "カリグラフィー"
-
-#, fuzzy
-#~| msgid "Calligraphic Shape"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Calligraphic Shape"
-#~ msgstr "カリグラフィー"
-
-#, fuzzy
-#~| msgid "Save profile as..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Save profile as..."
-#~ msgstr "プロファイルを別名で保存..."
-
-#, fuzzy
-#~| msgid "Remove profile"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Remove profile"
-#~ msgstr "プロファイルの削除"
-
-#, fuzzy
-#~| msgid "&Follow selected path"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "&Follow selected path"
-#~ msgstr "選択したパスに従う(&F)"
-
-#, fuzzy
-#~| msgid "Use tablet &pressure"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Use tablet &pressure"
-#~ msgstr "タブレットの筆圧を使用する(&P)"
-
-#, fuzzy
-#~| msgid "Width:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Width:"
-#~ msgstr "幅:"
-
-#, fuzzy
-#~| msgid "Thinning:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Thinning:"
-#~ msgstr "細くする:"
-
-#, fuzzy
-#~| msgid "Use tablet &angle"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Use tablet &angle"
-#~ msgstr "タブレットの傾きを使用する(&A)"
-
-#, fuzzy
-#~| msgid "Angle:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Angle:"
-#~ msgstr "角度:"
-
-#, fuzzy
-#~| msgid "Fixation:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Fixation:"
-#~ msgstr "定着度:"
-
-#, fuzzy
-#~| msgid "Caps:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Caps:"
-#~ msgstr "頂点:"
-
-#, fuzzy
-#~| msgid "Mass:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Mass:"
-#~ msgstr "集合:"
-
-#, fuzzy
-#~| msgid "Drag:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Drag:"
-#~ msgstr "ドラッグ:"
-
-#, fuzzy
-#~| msgid "Current"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Current"
-#~ msgstr "カレント"
-
-#, fuzzy
-#~| msgid "Profile name"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Profile name"
-#~ msgstr "プロファイルの名前"
-
-#, fuzzy
-#~| msgid "Please insert the name by which you want to save this profile:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Please insert the name by which you want to save this profile:"
-#~ msgstr "セーブするプロファイルの名前を入れてください:"
-
-#, fuzzy
-#~| msgid "Sorry, the name you entered is invalid."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Sorry, the name you entered is invalid."
-#~ msgstr "入力した名前は無効です"
-
-#, fuzzy
-#~| msgctxt "invalid profile name"
-#~| msgid "Invalid name."
-#~ msgctxt "(qtundo-format) invalid profile name"
-#~ msgid "Invalid name."
-#~ msgstr "無効な名前です"
-
-#, fuzzy
-#~| msgid ""
-#~| "A profile with that name already exists.\n"
-#~| "Do you want to overwrite it?"
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "A profile with that name already exists.\n"
-#~ "Do you want to overwrite it?"
-#~ msgstr "そのファイル名は既に存在しています。上書きしますか？"
-
-#, fuzzy
-#~| msgid "Mouse"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Mouse"
-#~ msgstr "マウス"
-
-#, fuzzy
-#~| msgid "Graphics Pen"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Graphics Pen"
-#~ msgstr "グラフィックペン"
-
-#, fuzzy
-#~| msgid "Fill"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Fill"
-#~ msgstr "フィル"
-
-#, fuzzy
-#~| msgid "Calligraphy: increase width"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Calligraphy: increase width"
-#~ msgstr "カリグラフィ:幅を広げる"
-
-#, fuzzy
-#~| msgid "Calligraphy: decrease width"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Calligraphy: decrease width"
-#~ msgstr "カリグラフィー:幅を狭める"
-
-#, fuzzy
-#~| msgid "Calligraphy: increase angle"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Calligraphy: increase angle"
-#~ msgstr "カリグラフィ: 角度を上げる"
-
-#, fuzzy
-#~| msgid "Calligraphy: decrease angle"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Calligraphy: decrease angle"
-#~ msgstr "カリグラフィー: 角度を下げる"
-
-#, fuzzy
-#~| msgid "Calligraphy"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Calligraphy"
-#~ msgstr "カリグラフィー"
-
-#, fuzzy
-#~| msgid "Add effect to current filter stack"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Add effect to current filter stack"
-#~ msgstr "適用しているフィルタに効果を追加"
-
-#, fuzzy
-#~| msgid "Add to filter presets"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Add to filter presets"
-#~ msgstr "フィルタプリセットの追加"
-
-#, fuzzy
-#~| msgid "Remove filter preset"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Remove filter preset"
-#~ msgstr "フィルタプリセットの削除"
-
-#, fuzzy
-#~| msgid "Effect name"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Effect name"
-#~ msgstr "エフェクトの名前"
-
-#, fuzzy
-#~| msgid "Please enter a name for the filter effect"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Please enter a name for the filter effect"
-#~ msgstr "フィルタに名前を入れてください"
-
-#, fuzzy
-#~| msgid "Filter Effect Editor"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Filter Effect Editor"
-#~ msgstr "フィルタ効果編集ツール"
-
-#, fuzzy
-#~| msgid "Effects"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Effects"
-#~ msgstr "エフェクト"
-
-#, fuzzy
-#~| msgid "View and edit filter"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "View and edit filter"
-#~ msgstr "フィルタの編集とビュー"
-
-#, fuzzy
-#~| msgid "Remove filter from object"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Remove filter from object"
-#~ msgstr "オブジェクトに掛けたフィルタを解除"
-
-#, fuzzy
-#~| msgid "Add Filter"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Add Filter"
-#~ msgstr "フィルタの追加"
-
-#, fuzzy
-#~| msgid "Effect Properties"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Effect Properties"
-#~ msgstr "効果のプロパティ"
-
-#, fuzzy
-#~| msgid "X:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "X:"
-#~ msgstr "X:"
-
-#, fuzzy
-#~| msgid "Y:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Y:"
-#~ msgstr "Y:"
-
-#, fuzzy
-#~| msgid "W:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "W:"
-#~ msgstr "幅:"
-
-#, fuzzy
-#~| msgid "H:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "H:"
-#~ msgstr "高さ:"
-
-#, fuzzy
-#~| msgid "Effect Region"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Effect Region"
-#~ msgstr "効果領域"
-
-#, fuzzy
-#~| msgid "Filter effects editing"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Filter effects editing"
-#~ msgstr "フィルタ効果の編集"
-
-#, fuzzy
-#~| msgid "Drag to move gradient position."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Drag to move gradient position."
-#~ msgstr "ドラッグでグラデーション位置を移動します"
-
-#, fuzzy
-#~| msgid "Drag to move color stop. Double click to remove color stop."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Drag to move color stop. Double click to remove color stop."
-#~ msgstr ""
-#~ "ドラッグでカラーストップを移動します。ダブルクリックでカラーストップを削除"
-#~ "します"
-
-#, fuzzy
-#~| msgid "Drag to move color stop."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Drag to move color stop."
-#~ msgstr "ドラッグでカラーストップを移動します"
-
-#, fuzzy
-#~| msgid "Drag to move gradient position. Double click to insert color stop."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Drag to move gradient position. Double click to insert color stop."
-#~ msgstr ""
-#~ "ドラッグでグラデーションの位置をい移動します。ダブルクリックでカラーストッ"
-#~ "プを挿入します"
-
-#, fuzzy
-#~| msgid "Edit Gradient"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Edit Gradient"
-#~ msgstr "グラデーションの編集"
-
-#, fuzzy
-#~| msgid "Predefined Gradients"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Predefined Gradients"
-#~ msgstr "グラデーションの定義"
-
-#, fuzzy
-#~| msgid "Gradient editing"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Gradient editing"
-#~ msgstr "グラデーションの編集"
-
-#, fuzzy
-#~| msgid "Original"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Original"
-#~ msgstr "オリジナル"
-
-#, fuzzy
-#~| msgid "Tiled"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Tiled"
-#~ msgstr "タイル"
-
-#, fuzzy
-#~| msgid "Stretched"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Stretched"
-#~ msgstr "ストレッチ"
-
-#, fuzzy
-#~| msgid "Top Left"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Top Left"
-#~ msgstr "左上"
-
-#, fuzzy
-#~| msgid "Top"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Top"
-#~ msgstr "上"
-
-#, fuzzy
-#~| msgid "Top Right"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Top Right"
-#~ msgstr "右上"
-
-#, fuzzy
-#~| msgid "Left"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Left"
-#~ msgstr "左"
-
-#, fuzzy
-#~| msgid "Center"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Center"
-#~ msgstr "中央"
-
-#, fuzzy
-#~| msgid "Right"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Right"
-#~ msgstr "右"
-
-#, fuzzy
-#~| msgid "Bottom Left"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Bottom Left"
-#~ msgstr "左下"
-
-#, fuzzy
-#~| msgid "Bottom"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Bottom"
-#~ msgstr "下"
-
-#, fuzzy
-#~| msgid "Bottom Right"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Bottom Right"
-#~ msgstr "右下"
-
-#, fuzzy
-#~| msgid "Pattern Options"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Pattern Options"
-#~ msgstr "パターンオプション"
-
-#, fuzzy
-#~| msgid "Patterns"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Patterns"
-#~ msgstr "パターン"
-
-#, fuzzy
-#~| msgid "Pattern editing"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Pattern editing"
-#~ msgstr "パターンの編集"
-
-#~ msgid "Target:"
-#~ msgstr "対象:"
-
-#~ msgid "Line"
-#~ msgstr "ライン"
-
-#~ msgid "Type:"
-#~ msgstr "タイプ:"
-
-#~ msgctxt "Linear gradient type"
-#~ msgid "Linear"
-#~ msgstr "線形"
-
-#~ msgctxt "Radial gradient type"
-#~ msgid "Radial"
-#~ msgstr "半径"
-
-#~ msgctxt "Conical gradient type"
-#~ msgid "Conical"
-#~ msgstr "円錐形"
-
-#~ msgid "Repeat:"
-#~ msgstr "繰り返し:"
-
-#~ msgctxt "No gradient spread"
-#~ msgid "None"
-#~ msgstr "なし"
-
-#~ msgid "Reflect"
-#~ msgstr "反射"
-
-#~ msgid "Repeat"
-#~ msgstr "繰り返し"
-
-#~ msgid "Overall opacity:"
-#~ msgstr "全体の透過度:"
-
-#~ msgid "Color stop:"
-#~ msgstr "カラーストップ:"
-
-#~ msgid "Stop color."
-#~ msgstr "停止色"
-
-#~ msgid "&Add to Predefined Gradients"
-#~ msgstr "グラデーション定義の追加(&A)"
-
-#~ msgid "Reference Point:"
-#~ msgstr "参照点:"
-
-#~ msgid "Reference Point Offset"
-#~ msgstr "参照点のオフセット"
-
-#~ msgid "Tile Offset"
-#~ msgstr "タイルのオフセット"
-
-#~ msgid "Pattern Size"
-#~ msgstr "パターンサイズ"
-
-#~ msgctxt "The raw line data"
-#~ msgid "Raw"
-#~ msgstr "加工なし"
-
-#~ msgid "Curve"
-#~ msgstr "カーブ"
-
-#~ msgid "Optimize"
-#~ msgstr "最適化"
-
-#~ msgid "Exactness:"
-#~ msgstr "平坦度:"
-
-#~ msgid "Combine angle:"
-#~ msgstr "合成角度:"
-
-#~ msgid "Freehand Path Drawing Tool"
-#~ msgstr "フリーハンドパス描画ツール"
-
-#~ msgid "Pencil tool"
-#~ msgstr "ペンシルツール"
-
-#, fuzzy
-#~ msgid "Straight"
-#~ msgstr "右"
-
-#, fuzzy
-#~ msgid "Gradient tool"
-#~ msgstr "グラデーションの編集"
-
-#, fuzzy
-#~ msgid "Pattern tool"
-#~ msgstr "パターンオプション"
-
-#, fuzzy
-#~ msgid "Gradient"
-#~ msgstr "グラデーションの編集"
-
-#, fuzzy
-#~ msgid "Pattern"
-#~ msgstr "パターン"
-
-#, fuzzy
-#~ msgid "Choose Pattern"
-#~ msgstr "パターン"

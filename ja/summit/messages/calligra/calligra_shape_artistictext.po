@@ -1,21 +1,17 @@
-# Taiki Komoda <kom@kde.gr.jp>, 2010.
-# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2012, 2014, 2015.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the calligra package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: ArtisticTextShape\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-11-09 11:24+0100\n"
-"PO-Revision-Date: 2015-03-14 20:18-0700\n"
-"Last-Translator: Fumiaki Okushi <fumiaki.okushi@gmail.com>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: calligra\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
-"X-Generator: Lokalize 1.5\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6 stable6
 #: AddTextRangeCommand.cpp:19 AddTextRangeCommand.cpp:29
@@ -192,159 +188,7 @@ msgid "Remove text range"
 msgstr "テキスト範囲を削除"
 
 #. +> trunk6 stable6
-#: ReplaceTextRangeCommand.cpp:23 ReplaceTextRangeCommand.cpp:40
-#: ReplaceTextRangeCommand.cpp:57
+#: ReplaceTextRangeCommand.cpp:23 ReplaceTextRangeCommand.cpp:40 ReplaceTextRangeCommand.cpp:57
 msgctxt "(qtundo-format)"
 msgid "Replace text range"
 msgstr "テキスト範囲を削除"
-
-#, fuzzy
-#~| msgid "ArtisticTextShape"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "ArtisticTextShape"
-#~ msgstr "デザインテキスト図形"
-
-#, fuzzy
-#~| msgid "A shape which shows a single text line"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "A shape which shows a single text line"
-#~ msgstr "単一行のテキスト図形"
-
-#, fuzzy
-#~| msgid "Artistic Text"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Artistic Text"
-#~ msgstr "デザインテキスト"
-
-#, fuzzy
-#~| msgid "Bold text"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Bold text"
-#~ msgstr "太字テキスト"
-
-#, fuzzy
-#~| msgid "Italic text"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Italic text"
-#~ msgstr "斜体テキスト"
-
-#, fuzzy
-#~| msgid "Superscript"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Superscript"
-#~ msgstr "上付き文字"
-
-#, fuzzy
-#~| msgid "Subscript"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Subscript"
-#~ msgstr "下付き文字"
-
-#, fuzzy
-#~| msgid "Anchor at Start"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Anchor at Start"
-#~ msgstr "先頭にアンカー"
-
-#, fuzzy
-#~| msgid "Anchor at Middle"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Anchor at Middle"
-#~ msgstr "中心にアンカー"
-
-#, fuzzy
-#~| msgid "Anchor at End"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Anchor at End"
-#~ msgstr "最後尾にアンカー"
-
-#, fuzzy
-#~| msgid "Click to change cursor position."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Click to change cursor position."
-#~ msgstr "カーソル位置を変更するにはクリックします。"
-
-#, fuzzy
-#~| msgid "Click to select text shape."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Click to select text shape."
-#~ msgstr "テキスト図形を選択するにはクリックします。"
-
-#, fuzzy
-#~| msgid "Double click to put text on path."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Double click to put text on path."
-#~ msgstr "パス上にテキストを配置するにはダブルクリックします。"
-
-#, fuzzy
-#~| msgid "Drag handle to change start offset."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Drag handle to change start offset."
-#~ msgstr "開始オフセットを変更するにはハンドルをドラッグします。"
-
-#, fuzzy
-#~| msgid "Press escape to finish editing."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Press escape to finish editing."
-#~ msgstr "編集を終えるには ESC を押下します。"
-
-#, fuzzy
-#~| msgid "Press return to finish editing."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Press return to finish editing."
-#~ msgstr "編集を終えるには Return を押下します。"
-
-#, fuzzy
-#~| msgid "Text Properties"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Text Properties"
-#~ msgstr "テキストのプロパティ"
-
-#, fuzzy
-#~| msgid "Text On Path"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Text On Path"
-#~ msgstr "パス上のテキスト"
-
-#, fuzzy
-#~| msgid "Artistic text editing"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Artistic text editing"
-#~ msgstr "デザインテキスト編集ツール"
-
-#~ msgid "Family:"
-#~ msgstr "ファミリ:"
-
-#~ msgid "Size:"
-#~ msgstr "サイズ:"
-
-#~ msgid "Offset:"
-#~ msgstr "オフセット:"
-
-#, fuzzy
-#~ msgid "Artistic Text Editing Tool"
-#~ msgstr "デザインテキスト編集ツール"
-
-#, fuzzy
-#~ msgid "Add text range"
-#~ msgstr "テキスト範囲を追加"
-
-#, fuzzy
-#~ msgid "Attach Path"
-#~ msgstr "パスの取り付け"
-
-#, fuzzy
-#~ msgid "Remove text range"
-#~ msgstr "テキスト範囲を削除"
-
-#, fuzzy
-#~ msgid "Change text anchor"
-#~ msgstr "テキストアンカーを変更"
-
-#, fuzzy
-#~ msgid "Change font"
-#~ msgstr "フォントを変更"
-
-#, fuzzy
-#~ msgid "Change Text Offset"
-#~ msgstr "テキストオフセットを変更"

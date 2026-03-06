@@ -1,26 +1,18 @@
-# Translation of TextShape into Japanese.
-# This file is distributed under the same license as the koffice package.
-# Yukiko Bando <ybando@k6.dion.ne.jp>, 2007, 2008, 2009.
-# Taiki Komoda <kom@kde.gr.jp>, 2010.
-# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2010, 2011, 2014.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the calligra package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: TextShape\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-11-09 11:24+0100\n"
-"PO-Revision-Date: 2014-11-09 15:29-0800\n"
-"Last-Translator: Fumiaki Okushi <fumiaki.okushi@gmail.com>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: calligra\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
-"X-Generator: Poedit 1.6.5\n"
+"Generated-By: Pontoon\n"
 
-# normal distance + absolute value
 #. +> trunk6 stable6
 #: AnnotationTextShapeFactory.cpp:31 AnnotationTextShapeFactory.cpp:39
 #, kde-format
@@ -33,7 +25,6 @@ msgstr "注釈"
 msgid "Annotation shape to show annotation content"
 msgstr "注釈文を表示する注釈形状"
 
-# normal distance + absolute value
 #. +> trunk6 stable6
 #: AnnotationTextShapeFactory.cpp:41
 #, kde-format
@@ -109,9 +100,7 @@ msgstr "変更を隠す"
 #. i18n: ectx: property (windowTitle), widget (QDialog, AcceptRejectChangeDialog)
 #. i18n: ectx: property (windowTitle), widget (QDialog, TableOfContentsConfigure)
 #. +> trunk6 stable6
-#: dialogs/AcceptRejectChangeDialog.ui:26
-#: dialogs/TableOfContentsConfigure.ui:14
-#: dialogs/TableOfContentsStyleConfigure.ui:14
+#: dialogs/AcceptRejectChangeDialog.ui:26 dialogs/TableOfContentsConfigure.ui:14 dialogs/TableOfContentsStyleConfigure.ui:14
 #, kde-format
 msgid "Dialog"
 msgstr "対話"
@@ -180,8 +169,7 @@ msgstr "降順"
 #. i18n: ectx: property (windowTitle), widget (QDialog, BibliographyConfigureDialog)
 #. i18n: ectx: property (toolTip), widget (QToolButton, configureBibliography)
 #. +> trunk6 stable6
-#: dialogs/BibliographyConfigureDialog.ui:14
-#: dialogs/SimpleCitationBibliographyWidget.ui:55
+#: dialogs/BibliographyConfigureDialog.ui:14 dialogs/SimpleCitationBibliographyWidget.ui:55
 #, kde-format
 msgid "Configure bibliography"
 msgstr "書誌情報の設定"
@@ -197,8 +185,7 @@ msgstr "書誌情報記入の書式"
 #. i18n: ectx: property (text), widget (QLabel, label)
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #. +> trunk6 stable6
-#: dialogs/BibliographyConfigureDialog.ui:28 dialogs/ListLevelWidget.ui:396
-#: dialogs/ParagraphBulletsNumbers.ui:70
+#: dialogs/BibliographyConfigureDialog.ui:28 dialogs/ListLevelWidget.ui:396 dialogs/ParagraphBulletsNumbers.ui:70
 #, kde-format
 msgid "Prefix:"
 msgstr "接頭語:"
@@ -206,8 +193,7 @@ msgstr "接頭語:"
 #. i18n: ectx: property (text), widget (QLabel, suffixLabel)
 #. i18n: ectx: property (text), widget (QLabel, label_5)
 #. +> trunk6 stable6
-#: dialogs/BibliographyConfigureDialog.ui:48 dialogs/ListLevelWidget.ui:373
-#: dialogs/ParagraphBulletsNumbers.ui:86
+#: dialogs/BibliographyConfigureDialog.ui:48 dialogs/ListLevelWidget.ui:373 dialogs/ParagraphBulletsNumbers.ui:86
 #, kde-format
 msgid "Suffix:"
 msgstr "接尾語:"
@@ -351,8 +337,7 @@ msgstr "挿入"
 #. i18n: ectx: property (text), widget (QLabel, deletionColorLabel)
 #. i18n: ectx: property (text), widget (QLabel, formatColorLabel)
 #. +> trunk6 stable6
-#: dialogs/ChangeConfigureDialog.ui:105 dialogs/ChangeConfigureDialog.ui:188
-#: dialogs/ChangeConfigureDialog.ui:247
+#: dialogs/ChangeConfigureDialog.ui:105 dialogs/ChangeConfigureDialog.ui:188 dialogs/ChangeConfigureDialog.ui:247
 #, kde-format
 msgid "Background Color"
 msgstr "背景色"
@@ -385,21 +370,12 @@ msgstr "背景色"
 #. i18n: ectx: property (text), widget (QPushButton, formatColorButton)
 #. i18n: ectx: property (text), widget (QToolButton, customCharacter)
 #. +> trunk6 stable6
-#: dialogs/ChangeConfigureDialog.ui:127 dialogs/ChangeConfigureDialog.ui:207
-#: dialogs/ChangeConfigureDialog.ui:266 dialogs/CharacterHighlighting.ui:40
-#: dialogs/CharacterHighlighting.ui:84 dialogs/FontDecorations.ui:36
-#: dialogs/FontDecorations.ui:62 dialogs/FontDecorations.ui:109
-#: dialogs/FontDecorations.ui:122 dialogs/FontDecorations.ui:135
-#: dialogs/FontDecorations.ui:148 dialogs/FontDecorations.ui:161
-#: dialogs/FontDecorations.ui:174 dialogs/FontDecorations.ui:187
-#: dialogs/FontDecorations.ui:200 dialogs/ParagraphBulletsNumbers.ui:221
-#: dialogs/SimpleCharacterWidget.ui:128 dialogs/SimpleInsertWidget.ui:49
-#: dialogs/SimpleInsertWidget.ui:62 dialogs/SimpleInsertWidget.ui:75
-#: dialogs/SimpleInsertWidget.ui:88 dialogs/SimpleInsertWidget.ui:101
-#: dialogs/SimpleInsertWidget.ui:114 dialogs/SimpleInsertWidget.ui:124
-#: dialogs/SimpleParagraphWidget.ui:73 dialogs/SimpleParagraphWidget.ui:167
-#: dialogs/SimpleSpellCheckingWidget.ui:26 dialogs/SimpleTableWidget.ui:101
-#: dialogs/SimpleTableWidget.ui:111 dialogs/SimpleTableWidget.ui:137
+#: dialogs/ChangeConfigureDialog.ui:127 dialogs/ChangeConfigureDialog.ui:207 dialogs/ChangeConfigureDialog.ui:266 dialogs/CharacterHighlighting.ui:40 dialogs/CharacterHighlighting.ui:84
+#: dialogs/FontDecorations.ui:36 dialogs/FontDecorations.ui:62 dialogs/FontDecorations.ui:109 dialogs/FontDecorations.ui:122 dialogs/FontDecorations.ui:135 dialogs/FontDecorations.ui:148
+#: dialogs/FontDecorations.ui:161 dialogs/FontDecorations.ui:174 dialogs/FontDecorations.ui:187 dialogs/FontDecorations.ui:200 dialogs/ParagraphBulletsNumbers.ui:221
+#: dialogs/SimpleCharacterWidget.ui:128 dialogs/SimpleInsertWidget.ui:49 dialogs/SimpleInsertWidget.ui:62 dialogs/SimpleInsertWidget.ui:75 dialogs/SimpleInsertWidget.ui:88
+#: dialogs/SimpleInsertWidget.ui:101 dialogs/SimpleInsertWidget.ui:114 dialogs/SimpleInsertWidget.ui:124 dialogs/SimpleParagraphWidget.ui:73 dialogs/SimpleParagraphWidget.ui:167
+#: dialogs/SimpleSpellCheckingWidget.ui:26 dialogs/SimpleTableWidget.ui:101 dialogs/SimpleTableWidget.ui:111 dialogs/SimpleTableWidget.ui:137
 #, kde-format
 msgid "..."
 msgstr "..."
@@ -409,100 +385,35 @@ msgstr "..."
 #: dialogs/ChangeConfigureDialog.ui:158
 #, kde-format
 msgid ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-"REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-"css\">\n"
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:'Bitstream Vera Sans'; font-"
-"size:9pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
-"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
-"style=\" font-family:'MS Shell Dlg 2'; font-size:11pt; font-weight:600; text-"
-"decoration: underline;\">Preview</span></p>\n"
-"<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; margin-"
-"bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
-"indent:0px; font-family:'MS Shell Dlg 2'; font-size:12pt; font-"
-"weight:600;\"></p>\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-"family:'MS Shell Dlg 2'; font-weight:600;\">Inserted Text</span></p>\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-"family:'MS Shell Dlg 2'; font-size:8pt;\">This is a line of text before the "
-"inserted text. This is a line of inserted text. This is a line after the "
-"inserted text.</span></p>\n"
-"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-"
-"family:'MS Shell Dlg 2';\"></p>\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-"family:'MS Shell Dlg 2'; font-weight:600;\">Deleted Text</span></p>\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-"family:'MS Shell Dlg 2'; font-size:8pt;\">This is a line of text before the "
-"deleted text. This is a line of deleted text. This is a line after the "
-"deleted text.</span></p>\n"
-"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-"
-"family:'MS Shell Dlg 2';\"></p>\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-"family:'MS Shell Dlg 2'; font-weight:600;\">Formatted Text</span></p>\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-"family:'MS Shell Dlg 2'; font-size:8pt;\">This is a line of text before the "
-"format-change text. This is a line of text whose format has been changed. "
-"This is a line of text after the format-change text.</span></p></body></html>"
+"</style></head><body style=\" font-family:'Bitstream Vera Sans'; font-size:9pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'MS Shell Dlg 2'; font-size:11pt; font-weight:600; text-decoration: underline;\">Preview</span></p>\n"
+"<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'MS Shell Dlg 2'; font-size:12pt; font-weight:600;\"></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'MS Shell Dlg 2'; font-weight:600;\">Inserted Text</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'MS Shell Dlg 2'; font-size:8pt;\">This is a line of text before the inserted text. This is a line of inserted text. This is a line after the inserted text.</span></p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'MS Shell Dlg 2';\"></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'MS Shell Dlg 2'; font-weight:600;\">Deleted Text</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'MS Shell Dlg 2'; font-size:8pt;\">This is a line of text before the deleted text. This is a line of deleted text. This is a line after the deleted text.</span></p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'MS Shell Dlg 2';\"></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'MS Shell Dlg 2'; font-weight:600;\">Formatted Text</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'MS Shell Dlg 2'; font-size:8pt;\">This is a line of text before the format-change text. This is a line of text whose format has been changed. This is a line of text after the format-change text.</span></p></body></html>"
 msgstr ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-"REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-"css\">\n"
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:'Sans'; font-size:10pt; font-"
-"weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
-"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
-"style=\" font-family:'MS Shell Dlg 2'; font-size:11pt; font-weight:600; text-"
-"decoration: underline;\">プレビュー</span></p>\n"
-"<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; margin-"
-"bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
-"indent:0px; font-family:'MS Shell Dlg 2'; font-size:12pt; font-"
-"weight:600;\"></p>\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-"family:'MS Shell Dlg 2'; font-size:9pt; font-weight:600;\">挿入されたテキスト"
-"</span></p>\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-"family:'MS Shell Dlg 2'; font-size:8pt;\">これは挿入されたテキストの前の行で"
-"す。これは挿入されたテキストです。これは挿入されたテキストの後の行です。</"
-"span></p>\n"
-"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-"
-"family:'MS Shell Dlg 2'; font-size:9pt;\"></p>\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-"family:'MS Shell Dlg 2'; font-size:9pt; font-weight:600;\">削除されたテキスト"
-"</span></p>\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-"family:'MS Shell Dlg 2'; font-size:8pt;\">これは削除されたテキストの前の行で"
-"す。これは削除されたテキストです。これは削除されたテキストの後の行です。</"
-"span></p>\n"
-"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-"
-"family:'MS Shell Dlg 2'; font-size:9pt;\"></p>\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-"family:'MS Shell Dlg 2'; font-size:9pt; font-weight:600;\">フォーマットされた"
-"テキスト</span></p>\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-"family:'MS Shell Dlg 2'; font-size:8pt;\">これはフォーマット変更されたテキス"
-"トの前の行です。これはフォーマット変更されたテキストの行です。これはフォー"
-"マット変更された後のテキストの行です。</span></p></body></html>"
+"</style></head><body style=\" font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'MS Shell Dlg 2'; font-size:11pt; font-weight:600; text-decoration: underline;\">プレビュー</span></p>\n"
+"<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'MS Shell Dlg 2'; font-size:12pt; font-weight:600;\"></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'MS Shell Dlg 2'; font-size:9pt; font-weight:600;\">挿入されたテキスト</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'MS Shell Dlg 2'; font-size:8pt;\">これは挿入されたテキストの前の行です。これは挿入されたテキストです。これは挿入されたテキストの後の行です。</span></p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'MS Shell Dlg 2'; font-size:9pt;\"></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'MS Shell Dlg 2'; font-size:9pt; font-weight:600;\">削除されたテキスト</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'MS Shell Dlg 2'; font-size:8pt;\">これは削除されたテキストの前の行です。これは削除されたテキストです。これは削除されたテキストの後の行です。</span></p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'MS Shell Dlg 2'; font-size:9pt;\"></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'MS Shell Dlg 2'; font-size:9pt; font-weight:600;\">フォーマットされたテキスト</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'MS Shell Dlg 2'; font-size:8pt;\">これはフォーマット変更されたテキストの前の行です。これはフォーマット変更されたテキストの行です。これはフォーマット変更された後のテキストの行です。</span></p></body></html>"
 
 #. i18n: ectx: property (title), widget (QGroupBox, deletionGroupBox)
 #. +> trunk6 stable6
@@ -639,8 +550,7 @@ msgstr "テキスト色:"
 
 #. i18n: ectx: property (text), widget (QLabel, backgroundColorLabel)
 #. +> trunk6 stable6
-#: dialogs/CharacterHighlighting.ui:71 dialogs/FontDecorations.ui:69
-#: dialogs/ParagraphDecorations.ui:15
+#: dialogs/CharacterHighlighting.ui:71 dialogs/FontDecorations.ui:69 dialogs/ParagraphDecorations.ui:15
 #, kde-format
 msgid "Background color:"
 msgstr "背景色:"
@@ -670,7 +580,6 @@ msgstr "先頭大文字化:"
 #. +> trunk6 stable6
 #: dialogs/CharacterHighlighting.ui:185
 #, fuzzy, kde-format
-#| msgid "Position:"
 msgctxt "Character position"
 msgid "Position:"
 msgstr "位置:"
@@ -698,8 +607,7 @@ msgstr ""
 "今あるエントリを修正しますか？"
 
 #. +> trunk6 stable6
-#: dialogs/CitationInsertionDialog.cpp:58
-#: dialogs/CitationInsertionDialog.cpp:75
+#: dialogs/CitationInsertionDialog.cpp:58 dialogs/CitationInsertionDialog.cpp:75
 #, kde-format
 msgid "Short name%1"
 msgstr "短縮名%1"
@@ -796,8 +704,7 @@ msgstr "Inproceedings"
 #. i18n: ectx: property (text), item, widget (QComboBox, sourceType)
 #. i18n: ectx: property (text), item, widget (QListWidget, bibTypes)
 #. +> trunk6 stable6
-#: dialogs/CitationInsertionDialog.ui:100
-#: dialogs/InsertBibliographyDialog.ui:101
+#: dialogs/CitationInsertionDialog.ui:100 dialogs/InsertBibliographyDialog.ui:101
 #, kde-format
 msgid "Journal"
 msgstr "ジャーナル"
@@ -805,8 +712,7 @@ msgstr "ジャーナル"
 #. i18n: ectx: property (text), item, widget (QComboBox, sourceType)
 #. i18n: ectx: property (text), item, widget (QListWidget, bibTypes)
 #. +> trunk6 stable6
-#: dialogs/CitationInsertionDialog.ui:105
-#: dialogs/InsertBibliographyDialog.ui:106
+#: dialogs/CitationInsertionDialog.ui:105 dialogs/InsertBibliographyDialog.ui:106
 #, kde-format
 msgid "Manual"
 msgstr "マニュアル"
@@ -814,8 +720,7 @@ msgstr "マニュアル"
 #. i18n: ectx: property (text), item, widget (QComboBox, sourceType)
 #. i18n: ectx: property (text), item, widget (QListWidget, bibTypes)
 #. +> trunk6 stable6
-#: dialogs/CitationInsertionDialog.ui:110
-#: dialogs/InsertBibliographyDialog.ui:111
+#: dialogs/CitationInsertionDialog.ui:110 dialogs/InsertBibliographyDialog.ui:111
 #, kde-format
 msgid "Masters thesis"
 msgstr "修士論文"
@@ -823,8 +728,7 @@ msgstr "修士論文"
 #. i18n: ectx: property (text), item, widget (QComboBox, sourceType)
 #. i18n: ectx: property (text), item, widget (QListWidget, bibTypes)
 #. +> trunk6 stable6
-#: dialogs/CitationInsertionDialog.ui:115
-#: dialogs/InsertBibliographyDialog.ui:116
+#: dialogs/CitationInsertionDialog.ui:115 dialogs/InsertBibliographyDialog.ui:116
 #, kde-format
 msgid "Misc"
 msgstr "その他"
@@ -832,8 +736,7 @@ msgstr "その他"
 #. i18n: ectx: property (text), item, widget (QComboBox, sourceType)
 #. i18n: ectx: property (text), item, widget (QListWidget, bibTypes)
 #. +> trunk6 stable6
-#: dialogs/CitationInsertionDialog.ui:120
-#: dialogs/InsertBibliographyDialog.ui:121
+#: dialogs/CitationInsertionDialog.ui:120 dialogs/InsertBibliographyDialog.ui:121
 #, kde-format
 msgid "PhD thesis"
 msgstr "博士論文"
@@ -841,8 +744,7 @@ msgstr "博士論文"
 #. i18n: ectx: property (text), item, widget (QComboBox, sourceType)
 #. i18n: ectx: property (text), item, widget (QListWidget, bibTypes)
 #. +> trunk6 stable6
-#: dialogs/CitationInsertionDialog.ui:125
-#: dialogs/InsertBibliographyDialog.ui:126
+#: dialogs/CitationInsertionDialog.ui:125 dialogs/InsertBibliographyDialog.ui:126
 #, kde-format
 msgid "Proceedings"
 msgstr "会議録"
@@ -857,8 +759,7 @@ msgstr "テクニカルレポート"
 #. i18n: ectx: property (text), item, widget (QComboBox, sourceType)
 #. i18n: ectx: property (text), item, widget (QListWidget, bibTypes)
 #. +> trunk6 stable6
-#: dialogs/CitationInsertionDialog.ui:135
-#: dialogs/InsertBibliographyDialog.ui:136
+#: dialogs/CitationInsertionDialog.ui:135 dialogs/InsertBibliographyDialog.ui:136
 #, kde-format
 msgid "Unpublished"
 msgstr "未発表"
@@ -866,8 +767,7 @@ msgstr "未発表"
 #. i18n: ectx: property (text), item, widget (QComboBox, sourceType)
 #. i18n: ectx: property (text), item, widget (QListWidget, bibTypes)
 #. +> trunk6 stable6
-#: dialogs/CitationInsertionDialog.ui:140
-#: dialogs/InsertBibliographyDialog.ui:141
+#: dialogs/CitationInsertionDialog.ui:140 dialogs/InsertBibliographyDialog.ui:141
 #, kde-format
 msgid "WWW"
 msgstr "WWW"
@@ -916,8 +816,7 @@ msgstr "作者:"
 
 #. i18n: ectx: property (text), widget (QLabel, titleLabel)
 #. +> trunk6 stable6
-#: dialogs/CitationInsertionDialog.ui:183
-#: dialogs/InsertBibliographyDialog.ui:32
+#: dialogs/CitationInsertionDialog.ui:183 dialogs/InsertBibliographyDialog.ui:32
 #, kde-format
 msgid "Title:"
 msgstr "題名:"
@@ -985,7 +884,6 @@ msgstr "ページ:"
 msgid "Book title:"
 msgstr "書名:"
 
-# normal distance + absolute value
 #. i18n: ectx: property (text), widget (QLabel, editionLabel)
 #. +> trunk6 stable6
 #: dialogs/CitationInsertionDialog.ui:283
@@ -1070,7 +968,6 @@ msgstr "数:"
 msgid "Note:"
 msgstr "注:"
 
-# normal distance + absolute value
 #. i18n: ectx: property (text), widget (QLabel, annotationLabel)
 #. +> trunk6 stable6
 #: dialogs/CitationInsertionDialog.ui:403
@@ -1203,8 +1100,7 @@ msgstr "フォント"
 #. i18n: ectx: property (text), widget (FormattingButton, addBibliography)
 #. i18n: ectx: property (windowTitle), widget (QDialog, InsertBibliographyDialog)
 #. +> trunk6 stable6
-#: dialogs/InsertBibliographyDialog.ui:17
-#: dialogs/SimpleCitationBibliographyWidget.ui:39 ReferencesTool.cpp:162
+#: dialogs/InsertBibliographyDialog.ui:17 dialogs/SimpleCitationBibliographyWidget.ui:39 ReferencesTool.cpp:162
 #, kde-format
 msgid "Insert Bibliography"
 msgstr "書誌情報を挿入"
@@ -1336,8 +1232,7 @@ msgstr "特殊文字"
 
 #. i18n: ectx: property (text), widget (QPushButton, buttonInsert)
 #. +> trunk6 stable6
-#: dialogs/InsertCharacter.cpp:26 dialogs/ManageBookmark.ui:34
-#: ReferencesTool.cpp:114 TextTool.cpp:2261
+#: dialogs/InsertCharacter.cpp:26 dialogs/ManageBookmark.ui:34 ReferencesTool.cpp:114 TextTool.cpp:2261
 #, kde-format
 msgid "Insert"
 msgstr "挿入"
@@ -1357,8 +1252,7 @@ msgid "Quick search:"
 msgstr "クイック検索:"
 
 #. +> trunk6 stable6
-#: dialogs/LinkInsertionDialog.cpp:71 dialogs/LinkInsertionDialog.cpp:152
-#: dialogs/LinkInsertionDialog.cpp:186 dialogs/LinkInsertionDialog.cpp:278
+#: dialogs/LinkInsertionDialog.cpp:71 dialogs/LinkInsertionDialog.cpp:152 dialogs/LinkInsertionDialog.cpp:186 dialogs/LinkInsertionDialog.cpp:278
 #, kde-format
 msgid "The URL is invalid"
 msgstr "この URL は不正です"
@@ -1406,12 +1300,9 @@ msgstr "ウェブリンク"
 #: dialogs/LinkInsertionDialog.ui:34
 #, kde-format
 msgid ""
-"Insert links to web documents. You can provide both URL and a label for the "
-"link,\n"
+"Insert links to web documents. You can provide both URL and a label for the link,\n"
 " or just enter the URL and hit \"Fetch the title from URL\""
-msgstr ""
-"ウェブドキュメントへのリンクを挿入。URL とラベルを入力するか、URL だけを入力"
-"して\"URL からタイトルを取得\"をクリックしてください。"
+msgstr "ウェブドキュメントへのリンクを挿入。URL とラベルを入力するか、URL だけを入力して\"URL からタイトルを取得\"をクリックしてください。"
 
 #. i18n: ectx: property (toolTip), widget (QLabel, label_2)
 #. +> trunk6 stable6
@@ -1431,12 +1322,8 @@ msgstr " URL:"
 #. +> trunk6 stable6
 #: dialogs/LinkInsertionDialog.ui:58
 #, kde-format
-msgid ""
-"Hit this button to get the title from the URL. Redirections are also "
-"handled. "
-msgstr ""
-"このボタンをクリックして URL からタイトルを取得します。リダイレクトも適切に処"
-"理します。"
+msgid "Hit this button to get the title from the URL. Redirections are also handled. "
+msgstr "このボタンをクリックして URL からタイトルを取得します。リダイレクトも適切に処理します。"
 
 #. i18n: ectx: property (text), widget (QPushButton, fetchTitleButton)
 #. +> trunk6 stable6
@@ -1501,12 +1388,10 @@ msgstr "名前:"
 msgid "<p><ul><li><b>Single</b>: The normal linespacing</li></ul></p> "
 msgstr "<p><ul><li>シングル: 普通の行送り</li></ul></p> "
 
-# normal distance + absolute value
 #. i18n: ectx: property (text), widget (QCheckBox, addTabStop)
 #. +> trunk6 stable6
 #: dialogs/ListLevelWidget.ui:47
 #, fuzzy, kde-format
-#| msgid "Add caption"
 msgid "Add tab stop"
 msgstr "表題を追加"
 
@@ -1514,7 +1399,6 @@ msgstr "表題を追加"
 #. +> trunk6 stable6
 #: dialogs/ListLevelWidget.ui:71
 #, fuzzy, kde-format
-#| msgid "Character"
 msgid "Tab character"
 msgstr "文字"
 
@@ -1522,7 +1406,6 @@ msgstr "文字"
 #. +> trunk6 stable6
 #: dialogs/ListLevelWidget.ui:76
 #, fuzzy, kde-format
-#| msgid "Special Characters"
 msgid "Space character"
 msgstr "特殊文字"
 
@@ -1530,8 +1413,6 @@ msgstr "特殊文字"
 #. +> trunk6 stable6
 #: dialogs/ListLevelWidget.ui:81
 #, fuzzy, kde-format
-#| msgctxt "None"
-#| msgid "Nothing"
 msgid "Nothing"
 msgstr "なし"
 
@@ -1540,13 +1421,9 @@ msgstr "なし"
 #: dialogs/ListLevelWidget.ui:95
 #, kde-format
 msgid ""
-"              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed "
-"do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad "
-"minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex "
-"ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate "
-"velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat "
-"cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id "
-"est laborum."
+"              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco "
+"laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non "
+"proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, labelLabel)
@@ -1605,7 +1482,6 @@ msgstr "数:"
 #. +> trunk6 stable6
 #: dialogs/ListLevelWidget.ui:366
 #, fuzzy, kde-format
-#| msgid " Format:"
 msgid "Format:"
 msgstr "書式:"
 
@@ -1613,7 +1489,6 @@ msgstr "書式:"
 #. +> trunk6 stable6
 #: dialogs/ListLevelWidget.ui:429
 #, fuzzy, kde-format
-#| msgid "Display Levels:"
 msgid "Display levels above:"
 msgstr "表示レベル:"
 
@@ -1621,7 +1496,6 @@ msgstr "表示レベル:"
 #. +> trunk6 stable6
 #: dialogs/ListLevelWidget.ui:436
 #, fuzzy, kde-format
-#| msgid "Letter Synchronization"
 msgid "Letter synchronization"
 msgstr "文字の同期"
 
@@ -1629,7 +1503,6 @@ msgstr "文字の同期"
 #. +> trunk6 stable6
 #: dialogs/ListLevelWidget.ui:454
 #, fuzzy, kde-format
-#| msgid "No Bullet"
 msgid "Bullet"
 msgstr "ビュレットなし"
 
@@ -1937,9 +1810,7 @@ msgstr "文頭の黒丸印/数字"
 #. i18n: ectx: property (suffix), widget (QDoubleSpinBox, doubleSpinBox_2)
 #. i18n: ectx: property (suffix), widget (QDoubleSpinBox, doubleSpinBox_3)
 #. +> trunk6 stable6
-#: dialogs/ParagraphBulletsNumbers.ui:158
-#: dialogs/ParagraphBulletsNumbers.ui:175
-#: dialogs/ParagraphBulletsNumbers.ui:192
+#: dialogs/ParagraphBulletsNumbers.ui:158 dialogs/ParagraphBulletsNumbers.ui:175 dialogs/ParagraphBulletsNumbers.ui:192
 #, kde-format
 msgid " cm"
 msgstr " cm"
@@ -2017,7 +1888,6 @@ msgstr "閲覧..."
 #. +> trunk6 stable6
 #: dialogs/ParagraphDecorations.cpp:18
 #, fuzzy, kde-format
-#| msgid "Background color"
 msgctxt "@action:button"
 msgid "Reset background color"
 msgstr "背景色"
@@ -2026,7 +1896,6 @@ msgstr "背景色"
 #. +> trunk6 stable6
 #: dialogs/ParagraphDecorations.ui:36
 #, fuzzy, kde-format
-#| msgid "Background color"
 msgid "Reset background color"
 msgstr "背景色"
 
@@ -2040,7 +1909,6 @@ msgstr "単語全体"
 #. +> trunk6 stable6
 #: dialogs/ParagraphDropCaps.ui:15
 #, fuzzy, kde-format
-#| msgid "Drop caps:"
 msgid "Enable drop caps"
 msgstr "ドロップキャップ:"
 
@@ -2110,7 +1978,6 @@ msgctxt "Line spacing value"
 msgid "Double"
 msgstr "ダブル"
 
-# called Proportional like in OO
 #. +> trunk6 stable6
 #: dialogs/ParagraphIndentSpacing.cpp:31
 #, kde-format
@@ -2118,7 +1985,6 @@ msgctxt "Line spacing type"
 msgid "Proportional"
 msgstr "プロポーショナル"
 
-# normal distance + absolute value
 #. +> trunk6 stable6
 #: dialogs/ParagraphIndentSpacing.cpp:32
 #, kde-format
@@ -2144,7 +2010,6 @@ msgstr "最低限"
 #. +> trunk6 stable6
 #: dialogs/ParagraphIndentSpacing.ui:22
 #, fuzzy, kde-format
-#| msgid "Indent"
 msgid "Left Indent:"
 msgstr "字下げ"
 
@@ -2152,7 +2017,6 @@ msgstr "字下げ"
 #. +> trunk6 stable6
 #: dialogs/ParagraphIndentSpacing.ui:35
 #, fuzzy, kde-format
-#| msgid "Indent"
 msgid "Right Indent:"
 msgstr "字下げ"
 
@@ -2160,7 +2024,6 @@ msgstr "字下げ"
 #. +> trunk6 stable6
 #: dialogs/ParagraphIndentSpacing.ui:48
 #, fuzzy, kde-format
-#| msgid "First Line:"
 msgid "First Line Indent:"
 msgstr "最初の行:"
 
@@ -2175,7 +2038,6 @@ msgstr "テキストのサイズから推測する"
 #. +> trunk6 stable6
 #: dialogs/ParagraphIndentSpacing.ui:75
 #, fuzzy, kde-format
-#| msgid "Line Spacing"
 msgid "Line Spacing:"
 msgstr "行送り"
 
@@ -2197,7 +2059,6 @@ msgstr "フォントメトリックを使う:"
 #. +> trunk6 stable6
 #: dialogs/ParagraphIndentSpacing.ui:136
 #, fuzzy, kde-format
-#| msgid "Paragraph Space"
 msgid "Paragraph Space Before:"
 msgstr "段落の間隔"
 
@@ -2205,7 +2066,6 @@ msgstr "段落の間隔"
 #. +> trunk6 stable6
 #: dialogs/ParagraphIndentSpacing.ui:146
 #, fuzzy, kde-format
-#| msgid "Paragraph Space"
 msgid "Paragraph Space After:"
 msgstr "段落の間隔"
 
@@ -2220,7 +2080,6 @@ msgstr "両端揃え"
 #. +> trunk6 stable6
 #: dialogs/ParagraphLayout.ui:50
 #, fuzzy, kde-format
-#| msgid "Behavior at End of Frame/Page"
 msgid "Behavior at end of frame and page:"
 msgstr "フレーム/ページの末尾での挙動"
 
@@ -2273,7 +2132,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: dialogs/SectionFormatDialog.cpp:100 dialogs/SectionsSplitDialog.cpp:20
 #, fuzzy, kde-format
-#| msgid "Configure Settings"
 msgid "Configure sections"
 msgstr "設定の変更"
 
@@ -2294,7 +2152,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: dialogs/SectionsSplitDialog.ui:6
 #, fuzzy, kde-format
-#| msgid "Split Cells"
 msgid "Split sections"
 msgstr "セルを分割"
 
@@ -2302,7 +2159,6 @@ msgstr "セルを分割"
 #. +> trunk6 stable6
 #: dialogs/SectionsSplitDialog.ui:12
 #, fuzzy, kde-format
-#| msgid "Paragraph..."
 msgid "Insert paragraph..."
 msgstr "段落..."
 
@@ -2317,7 +2173,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: dialogs/SectionsSplitDialog.ui:37
 #, fuzzy, kde-format
-#| msgid "Insert Citation"
 msgid "after end of section:"
 msgstr "引用を挿入"
 
@@ -2335,7 +2190,6 @@ msgstr "注釈を挿入"
 msgid "Remove Note"
 msgstr "注釈を削除"
 
-# normal distance + absolute value
 #. i18n: ectx: property (text), widget (QToolButton, addCitation)
 #. +> trunk6 stable6
 #: dialogs/SimpleCaptionsWidget.ui:34
@@ -2437,8 +2291,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, bDelete)
 #. +> trunk6 stable6
-#: dialogs/SimpleParagraphWidget.cpp:301 dialogs/SimpleParagraphWidget.cpp:356
-#: dialogs/StyleManager.ui:104 TextTool.cpp:2640
+#: dialogs/SimpleParagraphWidget.cpp:301 dialogs/SimpleParagraphWidget.cpp:356 dialogs/StyleManager.ui:104 TextTool.cpp:2640
 #, kde-format
 msgid "Delete"
 msgstr "削除"
@@ -2475,8 +2328,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (FormattingButton, addToC)
 #. +> trunk6 stable6
-#: dialogs/SimpleTableOfContentsWidget.ui:34
-#: dialogs/TableOfContentsTemplate.cpp:38
+#: dialogs/SimpleTableOfContentsWidget.ui:34 dialogs/TableOfContentsTemplate.cpp:38
 #, kde-format
 msgid "Contents"
 msgstr "目次"
@@ -2516,8 +2368,7 @@ msgstr "新しいスタイル"
 #: dialogs/StyleManager.cpp:442
 #, kde-format
 msgid "Another style named '%1' already exist. Please choose another name."
-msgstr ""
-"「%1」という名前のスタイルは既に存在しています。別の名前を選んでください"
+msgstr "「%1」という名前のスタイルは既に存在しています。別の名前を選んでください"
 
 #. i18n: ectx: attribute (title), widget (QListView, paragraphStylesListView)
 #. +> trunk6 stable6
@@ -2555,9 +2406,7 @@ msgstr "変更を保存"
 #. +> trunk6 stable6
 #: dialogs/StyleManagerDialog.cpp:54
 #, kde-format
-msgid ""
-"You have changes that are not applied. What do you want to do with those "
-"changes?"
+msgid "You have changes that are not applied. What do you want to do with those changes?"
 msgstr "適用されていない変更があります。どうしますか？"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
@@ -2565,38 +2414,19 @@ msgstr "適用されていない変更があります。どうしますか？"
 #: dialogs/StyleManagerWelcome.ui:42
 #, kde-format
 msgid ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-"REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-"css\">\n"
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:'DejaVu Sans'; font-size:9pt; font-"
-"weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\">It is possible to assign a "
-"named style to text and alter the style properties to change all text with "
-"that style.</p>\n"
-"<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\">Applying a style change "
-"will reformat all text that previously got the named style assigned to it. "
-"Use the Styles docker to apply styles to text.</p></body></html>"
+"</style></head><body style=\" font-family:'DejaVu Sans'; font-size:9pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">It is possible to assign a named style to text and alter the style properties to change all text with that style.</p>\n"
+"<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Applying a style change will reformat all text that previously got the named style assigned to it. Use the Styles docker to apply styles to text.</p></body></html>"
 msgstr ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-"REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-"css\">\n"
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:'DejaVu Sans'; font-size:9pt; font-"
-"weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\">名前ありのスタイルをテキス"
-"トに割り当てることは可能です、またそのスタイルにすべてのテキストを変更するた"
-"めスタイルプロパティを変更することも可能です。</p>\n"
-"<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\">スタイル変更を適用すると以"
-"前名前付きスタイルを割り当てられたすべてのテキストを再フォーマットします。テ"
-"キストにスタイルを適用するにはスタイルドッカーを使用してください。</p></"
-"body></html>"
+"</style></head><body style=\" font-family:'DejaVu Sans'; font-size:9pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">名前ありのスタイルをテキストに割り当てることは可能です、またそのスタイルにすべてのテキストを変更するためスタイルプロパティを変更することも可能です。</p>\n"
+"<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">スタイル変更を適用すると以前名前付きスタイルを割り当てられたすべてのテキストを再フォーマットします。テキストにスタイルを適用するにはスタイルドッカーを使用してください。</p></body></html>"
 
 #. +> trunk6 stable6
 #: dialogs/StylesComboPreview.cpp:68
@@ -2611,8 +2441,7 @@ msgid "New style"
 msgstr "新しいスタイル"
 
 #. +> trunk6 stable6
-#: dialogs/StylesModel.cpp:38 dialogs/StylesModel.cpp:112
-#: dialogs/StylesModel.cpp:195
+#: dialogs/StylesModel.cpp:38 dialogs/StylesModel.cpp:112 dialogs/StylesModel.cpp:195
 #, kde-format
 msgid "None"
 msgstr "なし"
@@ -2709,8 +2538,7 @@ msgid "Index"
 msgstr "索引"
 
 #. +> trunk6 stable6
-#: dialogs/TableOfContentsConfigure.cpp:68
-#: dialogs/TableOfContentsStyleModel.cpp:229
+#: dialogs/TableOfContentsConfigure.cpp:68 dialogs/TableOfContentsStyleModel.cpp:229
 #, kde-format
 msgid "Styles"
 msgstr "スタイル"
@@ -2724,8 +2552,7 @@ msgstr "タブ1"
 
 #. i18n: ectx: property (text), widget (QLabel, labelTitle)
 #. +> trunk6 stable6
-#: dialogs/TableOfContentsConfigure.ui:57
-#: dialogs/TableOfContentsEntryModel.cpp:27
+#: dialogs/TableOfContentsConfigure.ui:57 dialogs/TableOfContentsEntryModel.cpp:27
 #, kde-format
 msgid "Title"
 msgstr "タイトル"
@@ -2733,8 +2560,7 @@ msgstr "タイトル"
 #. i18n: ectx: property (text), widget (QCheckBox, useOutline)
 #. i18n: ectx: property (text), widget (QCheckBox, useStyles)
 #. +> trunk6 stable6
-#: dialogs/TableOfContentsConfigure.ui:69
-#: dialogs/TableOfContentsConfigure.ui:78
+#: dialogs/TableOfContentsConfigure.ui:69 dialogs/TableOfContentsConfigure.ui:78
 #, kde-format
 msgid "CheckBox"
 msgstr "チェックボックス"
@@ -2760,8 +2586,7 @@ msgid "Level %1"
 msgstr "レベル%1"
 
 #. +> trunk6 stable6
-#: dialogs/TableOfContentsEntryModel.cpp:139
-#: dialogs/TableOfContentsStyleModel.cpp:231
+#: dialogs/TableOfContentsEntryModel.cpp:139 dialogs/TableOfContentsStyleModel.cpp:231
 #, kde-format
 msgid "Level"
 msgstr "レベル"
@@ -2792,8 +2617,7 @@ msgid "TextLabel"
 msgstr "TextLabel"
 
 #. +> trunk6 stable6
-#: dialogs/TableOfContentsStyleDelegate.cpp:40
-#: dialogs/TableOfContentsStyleModel.cpp:95
+#: dialogs/TableOfContentsStyleDelegate.cpp:40 dialogs/TableOfContentsStyleModel.cpp:95
 #, kde-format
 msgid "Disabled"
 msgstr "無効"
@@ -2927,28 +2751,19 @@ msgstr "ブックマークを追加:"
 #. +> trunk6 stable6
 #: ReferencesTool.cpp:187
 #, kde-format
-msgid ""
-"Insert a Bookmark. This is useful to create links that point to areas within "
-"the document"
-msgstr ""
-"ブックマークを挿入します。これはドキュメント内の場所を指すリンクを新規作成す"
-"るのに便利です。"
+msgid "Insert a Bookmark. This is useful to create links that point to areas within the document"
+msgstr "ブックマークを挿入します。これはドキュメント内の場所を指すリンクを新規作成するのに便利です。"
 
 #. +> trunk6 stable6
 #: ReferencesTool.cpp:191
 #, kde-format
-msgid ""
-"Display a pop up that hosts the options to add new Bookmark or handle "
-"existing Bookmarks"
-msgstr ""
-"新しいブックマークを追加、あるいは既にあるブックマークを操作するオプションを"
-"提供するポップアップを表示します。"
+msgid "Display a pop up that hosts the options to add new Bookmark or handle existing Bookmarks"
+msgstr "新しいブックマークを追加、あるいは既にあるブックマークを操作するオプションを提供するポップアップを表示します。"
 
 #. +> trunk6 stable6
 #: ReferencesTool.cpp:195
 #, kde-format
-msgid ""
-"Manage your Bookmarks. Check where are they pointing to, Delete or Rename."
+msgid "Manage your Bookmarks. Check where are they pointing to, Delete or Rename."
 msgstr "ブックマークを管理します。リンク先を確認、削除、名前を変更します。"
 
 #. +> trunk6 stable6
@@ -3039,21 +2854,18 @@ msgstr "テキストシェイプ"
 #. +> trunk6 stable6
 #: TextTool.cpp:203
 #, fuzzy, kde-format
-#| msgid "Configure Settings"
 msgid "Configure current section"
 msgstr "設定の変更"
 
 #. +> trunk6 stable6
 #: TextTool.cpp:207
 #, fuzzy, kde-format
-#| msgid "Insert Citation"
 msgid "Insert new section"
 msgstr "引用を挿入"
 
 #. +> trunk6 stable6
 #: TextTool.cpp:211
 #, fuzzy, kde-format
-#| msgid "Insert Citation"
 msgid "Insert paragraph between sections"
 msgstr "引用を挿入"
 
@@ -3403,21 +3215,10 @@ msgstr "段落のマージン、テキストの流れ、境界、箇条書きの
 #. +> trunk6 stable6
 #: TextTool.cpp:460
 #, fuzzy, kde-format
-#| msgid ""
-#| "Change paragraph margins, text flow, borders, bullets, numbering etc."
-#| "<p>Select text in multiple paragraphs to change the formatting of all "
-#| "selected paragraphs.<p>If no text is selected, the paragraph where the "
-#| "cursor is located will be changed.</p>"
 msgid ""
-"<p>Change paragraph margins, text flow, borders, bullets, numbering etc.</"
-"p><p>Select text in multiple paragraphs to change the formatting of all "
-"selected paragraphs.</p><p>If no text is selected, the paragraph where the "
-"cursor is located will be changed.</p>"
-msgstr ""
-"<p>段落のマージン、テキストの流れ、境界、箇条書きの設定 (ビュレット/数字) な"
-"どを変更します。</p><p>複数の段落のテキストを選択すると、選択したすべての段落"
-"のフォーマットが変更されます。</p><p>テキストが選択されていなければ、カーソル"
-"のある段落のフォーマットが変更されます。</p>"
+"<p>Change paragraph margins, text flow, borders, bullets, numbering etc.</p><p>Select text in multiple paragraphs to change the formatting of all selected paragraphs.</p><p>If no text is selected, "
+"the paragraph where the cursor is located will be changed.</p>"
+msgstr "<p>段落のマージン、テキストの流れ、境界、箇条書きの設定 (ビュレット/数字) などを変更します。</p><p>複数の段落のテキストを選択すると、選択したすべての段落のフォーマットが変更されます。</p><p>テキストが選択されていなければ、カーソルのある段落のフォーマットが変更されます。</p>"
 
 #. +> trunk6 stable6
 #: TextTool.cpp:464
@@ -3434,15 +3235,8 @@ msgstr "スタイルの属性を変更"
 #. +> trunk6 stable6
 #: TextTool.cpp:467
 #, fuzzy, kde-format
-#| msgid ""
-#| "Change font and paragraph attributes of styles.<p>Multiple styles can be "
-#| "changed using the dialog box."
-msgid ""
-"<p>Change font and paragraph attributes of styles.</p><p>Multiple styles can "
-"be changed using the dialog box.</p>"
-msgstr ""
-"<p>スタイルのフォントと段落の属性を変更します。</p><p>ダイアログボックスを"
-"使って複数のスタイルを変更できます。</p>"
+msgid "<p>Change font and paragraph attributes of styles.</p><p>Multiple styles can be changed using the dialog box.</p>"
+msgstr "<p>スタイルのフォントと段落の属性を変更します。</p><p>ダイアログボックスを使って複数のスタイルを変更できます。</p>"
 
 #. +> trunk6 stable6
 #: TextTool.cpp:474
@@ -3569,3687 +3363,3 @@ msgstr "キー押下げ"
 #, kde-format
 msgid "Text editing"
 msgstr "テキスト編集ツール"
-
-#, kde-format
-#~ msgid "Number of characters:"
-#~ msgstr "文字数:"
-
-#, kde-format
-#~ msgid "Indent"
-#~ msgstr "字下げ"
-
-#, kde-format
-#~ msgid "Left:"
-#~ msgstr "左:"
-
-#, kde-format
-#~ msgid "Right:"
-#~ msgstr "右:"
-
-#, kde-format
-#~ msgid "First Line:"
-#~ msgstr "最初の行:"
-
-#, kde-format
-#~ msgid "Line Spacing"
-#~ msgstr "行送り"
-
-#, kde-format
-#~ msgid "Use Font Metrics:"
-#~ msgstr "フォントメトリックを使う:"
-
-#, kde-format
-#~ msgid "Paragraph Space"
-#~ msgstr "段落の間隔"
-
-#, kde-format
-#~ msgid "Before:"
-#~ msgstr "前:"
-
-#, kde-format
-#~ msgid "After:"
-#~ msgstr "後:"
-
-#, kde-format
-#~ msgid "Alignment"
-#~ msgstr "配置"
-
-#, kde-format
-#~ msgid ""
-#~ "This link points to the program or script '%1'.\n"
-#~ "Malicious programs can harm your computer. Are you sure that you want to "
-#~ "run this program?"
-#~ msgstr ""
-#~ "これはプログラムまたはスクリプト “%1” にリンクしています。\n"
-#~ "悪意のあるプログラムはあなたのコンピュータを損なうことができます。本当にこ"
-#~ "のプログラムを実行しますか？"
-
-#, kde-format
-#~ msgid "Open Link?"
-#~ msgstr "リンクを開きますか？"
-
-# normal distance + absolute value
-#, fuzzy
-#~| msgid "Annotation"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Annotation"
-#~ msgstr "注釈"
-
-#, fuzzy
-#~| msgid "Annotation shape to show annotation content"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Annotation shape to show annotation content"
-#~ msgstr "注釈文を表示する注釈形状"
-
-# normal distance + absolute value
-#, fuzzy
-#~| msgid "Annotation Shape"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Annotation Shape"
-#~ msgstr "注釈形状"
-
-#, fuzzy
-#~| msgctxt "Disable Shrink To Fit"
-#~| msgid "Disable"
-#~ msgctxt "(qtundo-format) Disable Shrink To Fit"
-#~ msgid "Disable"
-#~ msgstr "無効"
-
-#, fuzzy
-#~| msgctxt "Enable Shrink To Fit"
-#~| msgid "Enable"
-#~ msgctxt "(qtundo-format) Enable Shrink To Fit"
-#~ msgid "Enable"
-#~ msgstr "有効"
-
-#, fuzzy
-#~| msgid "Ascending"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Ascending"
-#~ msgstr "昇順"
-
-#, fuzzy
-#~| msgid "Descending"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Descending"
-#~ msgstr "降順"
-
-#, fuzzy
-#~| msgid "Bibliography"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Bibliography"
-#~ msgstr "書誌情報"
-
-#, fuzzy
-#~| msgid "References"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "References"
-#~ msgstr "参照"
-
-#, fuzzy
-#~| msgid "This is a line of inserted text."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "This is a line of inserted text."
-#~ msgstr "これは挿入されたテキスト行です。"
-
-#, fuzzy
-#~| msgid "This is a line of deleted text."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "This is a line of deleted text."
-#~ msgstr "これは削除されたテキスト行です。"
-
-#, fuzzy
-#~| msgid "This is a line of text whose format has been changed."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "This is a line of text whose format has been changed."
-#~ msgstr "これはフォーマット変更されたテキストです。"
-
-#, fuzzy
-#~| msgid "Normal"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Normal"
-#~ msgstr "普通"
-
-#, fuzzy
-#~| msgid "Small Caps"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Small Caps"
-#~ msgstr "小さい大文字"
-
-#, fuzzy
-#~| msgid "Uppercase"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Uppercase"
-#~ msgstr "大文字"
-
-#, fuzzy
-#~| msgid "Lowercase"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Lowercase"
-#~ msgstr "小文字"
-
-#, fuzzy
-#~| msgid "Capitalize"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Capitalize"
-#~ msgstr "先頭を大文字に"
-
-#, fuzzy
-#~| msgid "Superscript"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Superscript"
-#~ msgstr "上付き文字"
-
-#, fuzzy
-#~| msgid "Subscript"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Subscript"
-#~ msgstr "下付き文字"
-
-#, fuzzy
-#~| msgid "Select"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Select"
-#~ msgstr "選択"
-
-#, fuzzy
-#~| msgid ""
-#~| "The document already contains the bibliography entry with different "
-#~| "data.\n"
-#~| "Do you want to adjust existing entries?"
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "The document already contains the bibliography entry with different "
-#~ "data.\n"
-#~ "Do you want to adjust existing entries?"
-#~ msgstr ""
-#~ "このドキュメントは既に異なるデータの書誌情報を含んでいます。\n"
-#~ "今あるエントリを修正しますか？"
-
-#, fuzzy
-#~| msgid "Warning"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Warning"
-#~ msgstr "警告"
-
-#, fuzzy
-#~| msgid "Short name%1"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Short name%1"
-#~ msgstr "短縮名%1"
-
-#, fuzzy
-#~| msgid "Used Styles"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Used Styles"
-#~ msgstr "使用済みスタイル"
-
-#, fuzzy
-#~| msgid "Unused Styles"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Unused Styles"
-#~ msgstr "未使用のスタイル"
-
-#, fuzzy
-#~| msgid "Select Font"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Select Font"
-#~ msgstr "フォントを選択"
-
-#, fuzzy
-#~| msgid "Special Characters"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Special Characters"
-#~ msgstr "特殊文字"
-
-#, fuzzy
-#~| msgid "Insert"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert"
-#~ msgstr "挿入"
-
-#, fuzzy
-#~| msgctxt "Close dialog"
-#~| msgid "Close"
-#~ msgctxt "(qtundo-format) Close dialog"
-#~ msgid "Close"
-#~ msgstr "閉じる"
-
-#, fuzzy
-#~| msgid "The URL is invalid"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "The URL is invalid"
-#~ msgstr "この URL は不正です"
-
-#, fuzzy
-#~| msgid "Bookmark does not exist"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Bookmark does not exist"
-#~ msgstr "ブックマークは存在しません"
-
-#, fuzzy
-#~| msgid "Fetching the title: 0% complete"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Fetching the title: 0% complete"
-#~ msgstr "タイトルを取得中: 0%完了"
-
-#, fuzzy
-#~| msgid "Fetch timed out"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Fetch timed out"
-#~ msgstr "取得時間切れ"
-
-#, fuzzy
-#~| msgid "Fetching the title: %1% complete"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Fetching the title: %1% complete"
-#~ msgstr "タイトルを取得中: %1%完了"
-
-#, fuzzy
-#~| msgid "Rename Bookmark"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Rename Bookmark"
-#~ msgstr "ブックマークの名前を変更"
-
-#, fuzzy
-#~| msgid "Please provide a new name for the bookmark"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Please provide a new name for the bookmark"
-#~ msgstr "ブックマークに新しい名前を付けてください"
-
-#, fuzzy
-#~| msgid "A bookmark with the name \"%1\" already exists."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "A bookmark with the name \"%1\" already exists."
-#~ msgstr "\"%1\"という名前のブックマークは既に存在しています"
-
-#, fuzzy
-#~| msgid "Insert Bookmark"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert Bookmark"
-#~ msgstr "ブックマークを挿入"
-
-#, fuzzy
-#~| msgid "Please provide a name for the bookmark"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Please provide a name for the bookmark"
-#~ msgstr "ブックマークに名前を付けてください"
-
-#, fuzzy
-#~| msgid "Manage Bookmarks"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Manage Bookmarks"
-#~ msgstr "ブックマークを管理"
-
-#, fuzzy
-#~| msgid "Footnote Settings"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Footnote Settings"
-#~ msgstr "脚注の設定"
-
-#, fuzzy
-#~| msgid "Endnote Settings"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Endnote Settings"
-#~ msgstr "後注の設定"
-
-#, fuzzy
-#~ msgctxt "(qtundo-format) Automatic horizontal alignment"
-#~ msgid "Auto"
-#~ msgstr "自動"
-
-#~ msgid "Custom Bullet"
-#~ msgstr "カスタムビュレット"
-
-#, fuzzy
-#~| msgid "Custom Bullet"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Custom Bullet"
-#~ msgstr "カスタムビュレット"
-
-#, fuzzy
-#~| msgid "Left"
-#~ msgctxt "(qtundo-format) Text alignment"
-#~ msgid "Left"
-#~ msgstr "左"
-
-#~ msgid "No Bullet"
-#~ msgstr "ビュレットなし"
-
-#, fuzzy
-#~| msgid "No Bullet"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "No Bullet"
-#~ msgstr "ビュレットなし"
-
-#, fuzzy
-#~| msgid "Right"
-#~ msgctxt "(qtundo-format) Text alignment"
-#~ msgid "Right"
-#~ msgstr "右"
-
-#, fuzzy
-#~| msgctxt "Text alignment"
-#~| msgid "Centered"
-#~ msgctxt "(qtundo-format) Text alignment"
-#~ msgid "Centered"
-#~ msgstr "中央"
-
-#, fuzzy
-#~| msgctxt "Tab follows the bullet or number"
-#~| msgid "Tab Stop"
-#~ msgctxt "(qtundo-format) Tab follows the bullet or number"
-#~ msgid "Tab Stop"
-#~ msgstr "タブストップ"
-
-#, fuzzy
-#~| msgctxt "Space"
-#~| msgid "Space"
-#~ msgctxt "(qtundo-format) Space"
-#~ msgid "Space"
-#~ msgstr "スペース"
-
-#, fuzzy
-#~| msgctxt "None"
-#~| msgid "Nothing"
-#~ msgctxt "(qtundo-format) None"
-#~ msgid "Nothing"
-#~ msgstr "なし"
-
-#, fuzzy
-#~| msgid "Whole Word"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Whole Word"
-#~ msgstr "単語全体"
-
-#, fuzzy
-#~| msgid "Indent/Spacing"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Indent/Spacing"
-#~ msgstr "字下げ/間隔"
-
-#, fuzzy
-#~| msgid "General Layout"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "General Layout"
-#~ msgstr "全般的なレイアウト"
-
-#, fuzzy
-#~| msgid "Bullets/Numbers"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Bullets/Numbers"
-#~ msgstr "ビュレット/数字"
-
-#, fuzzy
-#~| msgid "Decorations"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Decorations"
-#~ msgstr "装飾"
-
-#, fuzzy
-#~| msgid "Drop Caps"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Drop Caps"
-#~ msgstr "ドロップキャップ"
-
-#, fuzzy
-#~| msgctxt "Line spacing value"
-#~| msgid "Single"
-#~ msgctxt "(qtundo-format) Line spacing value"
-#~ msgid "Single"
-#~ msgstr "シングル"
-
-#, fuzzy
-#~| msgctxt "Line spacing value"
-#~| msgid "1.5 Lines"
-#~ msgctxt "(qtundo-format) Line spacing value"
-#~ msgid "1.5 Lines"
-#~ msgstr "1.5 行"
-
-#, fuzzy
-#~| msgctxt "Line spacing value"
-#~| msgid "Double"
-#~ msgctxt "(qtundo-format) Line spacing value"
-#~ msgid "Double"
-#~ msgstr "ダブル"
-
-# called Proportional like in OO
-#, fuzzy
-#~| msgctxt "Line spacing type"
-#~| msgid "Proportional"
-#~ msgctxt "(qtundo-format) Line spacing type"
-#~ msgid "Proportional"
-#~ msgstr "プロポーショナル"
-
-# normal distance + absolute value
-#, fuzzy
-#~| msgctxt "Line spacing type"
-#~| msgid "Additional"
-#~ msgctxt "(qtundo-format) Line spacing type"
-#~ msgid "Additional"
-#~ msgstr "追加"
-
-#, fuzzy
-#~| msgctxt "Line spacing type"
-#~| msgid "Fixed"
-#~ msgctxt "(qtundo-format) Line spacing type"
-#~ msgid "Fixed"
-#~ msgstr "固定"
-
-#, fuzzy
-#~| msgctxt "Line spacing type"
-#~| msgid "At least"
-#~ msgctxt "(qtundo-format) Line spacing type"
-#~ msgid "At least"
-#~ msgstr "最低限"
-
-#, fuzzy
-#~| msgid "Paragraph Format"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Paragraph Format"
-#~ msgstr "段落のフォーマット"
-
-#, fuzzy
-#~| msgid "Insert a table"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert a table"
-#~ msgstr "表を挿入"
-
-#, fuzzy
-#~| msgid "Configure Settings"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Configure sections"
-#~ msgstr "設定の変更"
-
-#, fuzzy
-#~| msgid "Change font format"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Change font format"
-#~ msgstr "フォント書式を変更"
-
-#, fuzzy
-#~| msgid "Inserts a footnote at the current cursor position"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Inserts a footnote at the current cursor position"
-#~ msgstr "現在のカーソル位置に脚注を挿入"
-
-#, fuzzy
-#~| msgid "Inserts an endnote at the current cursor position"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Inserts an endnote at the current cursor position"
-#~ msgstr "現在のカーソル位置に後注を挿入"
-
-#, fuzzy
-#~| msgid "Change paragraph format"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Change paragraph format"
-#~ msgstr "段落のフォーマットを変更"
-
-#~ msgid "Change the level the list is at"
-#~ msgstr "リストの位置するレベルを変更"
-
-#, fuzzy
-#~| msgid "Change the level the list is at"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Change the level the list is at"
-#~ msgstr "リストの位置するレベルを変更"
-
-#~ msgid "Change List Level"
-#~ msgstr "リストのレベルを変更"
-
-#, fuzzy
-#~| msgid "Set Border Color..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Set Border Color..."
-#~ msgstr "境界線の色を設定..."
-
-#, fuzzy
-#~| msgid "None"
-#~ msgctxt "(qtundo-format) No border - has to fit in 48pixels"
-#~ msgid "None"
-#~ msgstr "なし"
-
-#, fuzzy
-#~| msgid "No Border"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "No Border"
-#~ msgstr "境界線なし"
-
-#, fuzzy
-#~| msgid "Create a new style inheriting the current style"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Create a new style inheriting the current style"
-#~ msgstr "現在のスタイルを受け継いで新しいスタイルを新規作成"
-
-#, fuzzy
-#~| msgid "New Style"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "New Style"
-#~ msgstr "新しいスタイル"
-
-#, fuzzy
-#~| msgid "Another style named '%1' already exist. Please choose another name."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Another style named '%1' already exist. Please choose another name."
-#~ msgstr ""
-#~ "「%1」という名前のスタイルは既に存在しています。別の名前を選んでください"
-
-#, fuzzy
-#~| msgid "Style Manager"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Style Manager"
-#~ msgstr "スタイルマネージャ"
-
-#, fuzzy
-#~| msgid "Save Changes"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Save Changes"
-#~ msgstr "変更を保存"
-
-#, fuzzy
-#~| msgid ""
-#~| "You have changes that are not applied. What do you want to do with those "
-#~| "changes?"
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "You have changes that are not applied. What do you want to do with those "
-#~ "changes?"
-#~ msgstr "適用されていない変更があります。どうしますか？"
-
-#, fuzzy
-#~| msgid "Create a new style with the current properties"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Create a new style with the current properties"
-#~ msgstr "現在のプロパティで新しいスタイルを新規作成"
-
-#, fuzzy
-#~| msgid "New style"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "New style"
-#~ msgstr "新しいスタイル"
-
-#, fuzzy
-#~| msgid "None"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "None"
-#~ msgstr "なし"
-
-#, fuzzy
-#~| msgid "Insert Table"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert Table"
-#~ msgstr "表を挿入"
-
-#, fuzzy
-#~| msgid "Table of Contents - Configure"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Table of Contents - Configure"
-#~ msgstr "目次 - 設定"
-
-#, fuzzy
-#~| msgid "Table Title"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Table Title"
-#~ msgstr "表題"
-
-#, fuzzy
-#~| msgid "Use outline"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Use outline"
-#~ msgstr "アウトラインを使用"
-
-#, fuzzy
-#~| msgid "Use styles"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Use styles"
-#~ msgstr "スタイルを使用"
-
-#, fuzzy
-#~| msgid "Configure"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Configure"
-#~ msgstr "設定"
-
-#, fuzzy
-#~| msgid "Index"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Index"
-#~ msgstr "索引"
-
-#, fuzzy
-#~| msgid "Styles"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Styles"
-#~ msgstr "スタイル"
-
-#, fuzzy
-#~| msgid "Title"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Title"
-#~ msgstr "タイトル"
-
-#, fuzzy
-#~| msgid "Level %1"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Level %1"
-#~ msgstr "レベル%1"
-
-#, fuzzy
-#~| msgid "Level"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Level"
-#~ msgstr "レベル"
-
-#, fuzzy
-#~| msgid "Style"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Style"
-#~ msgstr "スタイル"
-
-#, fuzzy
-#~| msgid "Table of Contents - Configure Styles"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Table of Contents - Configure Styles"
-#~ msgstr "目次 - スタイルの設定"
-
-#, fuzzy
-#~| msgid "Styles available"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Styles available"
-#~ msgstr "利用可能なスタイル"
-
-#, fuzzy
-#~| msgid "Disabled"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Disabled"
-#~ msgstr "無効"
-
-#, fuzzy
-#~| msgid "Table Of Contents"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Table Of Contents"
-#~ msgstr "目次"
-
-#, fuzzy
-#~| msgid "Contents"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Contents"
-#~ msgstr "目次"
-
-#, fuzzy
-#~| msgid "Insert a Table of Contents into the document."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert a Table of Contents into the document."
-#~ msgstr "文書に目次を挿入。"
-
-#, fuzzy
-#~| msgid "Insert Custom..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert Custom..."
-#~ msgstr "カスタムを挿入..."
-
-#, fuzzy
-#~| msgid "Insert a custom Table of Contents into the document."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert a custom Table of Contents into the document."
-#~ msgstr "文書にカスタムな目次を挿入"
-
-#, fuzzy
-#~| msgid "Configure..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Configure..."
-#~ msgstr "設定..."
-
-#, fuzzy
-#~| msgid "Configure the Table of Contents"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Configure the Table of Contents"
-#~ msgstr "目次の設定"
-
-#, fuzzy
-#~| msgid "Insert footnote with auto number"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert footnote with auto number"
-#~ msgstr "自動番号付きで脚注を挿入"
-
-#, fuzzy
-#~| msgid "Insert Labeled Footnote"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert Labeled Footnote"
-#~ msgstr "ラベル付脚注を挿入"
-
-#, fuzzy
-#~| msgid "Insert with label:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert with label:"
-#~ msgstr "ラベル付で挿入:"
-
-#, fuzzy
-#~| msgid "Insert endnote with auto number"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert endnote with auto number"
-#~ msgstr "自動番号付きで後注を挿入"
-
-#, fuzzy
-#~| msgid "Insert Labeled Endnote"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert Labeled Endnote"
-#~ msgstr "ラベル付後注を挿入"
-
-#, fuzzy
-#~| msgid "Settings..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Settings..."
-#~ msgstr "設定..."
-
-#, fuzzy
-#~| msgid "Insert Citation"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert Citation"
-#~ msgstr "引用を挿入"
-
-#, fuzzy
-#~| msgid "Insert a citation into the document."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert a citation into the document."
-#~ msgstr "引用をドキュメントに挿入"
-
-#, fuzzy
-#~| msgid "Insert a bibliography into the document."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert a bibliography into the document."
-#~ msgstr "ドキュメントに書誌情報を挿入。"
-
-#, fuzzy
-#~| msgid "Insert Bibliography"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert Bibliography"
-#~ msgstr "書誌情報を挿入"
-
-#, fuzzy
-#~| msgid "Insert Custom Bibliography"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert Custom Bibliography"
-#~ msgstr "カスタム書誌情報を挿入"
-
-#, fuzzy
-#~| msgid "Insert a custom Bibliography into the document."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert a custom Bibliography into the document."
-#~ msgstr "ドキュメントにカスタム書誌情報を挿入。"
-
-#, fuzzy
-#~| msgid "Configure the bibliography"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Configure the bibliography"
-#~ msgstr "書誌情報を設定"
-
-#, fuzzy
-#~| msgid "Insert Link"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert Link"
-#~ msgstr "リンクを挿入"
-
-#, fuzzy
-#~| msgid "Insert a weblink or link to a bookmark."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert a weblink or link to a bookmark."
-#~ msgstr "ウェブリンクあるいはリンクをブックマークに挿入"
-
-#, fuzzy
-#~| msgid "Add Bookmark"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Add Bookmark"
-#~ msgstr "ブックマークを追加"
-
-#, fuzzy
-#~| msgid "Add Bookmark :"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Add Bookmark :"
-#~ msgstr "ブックマークを追加:"
-
-#, fuzzy
-#~| msgid "Bookmarks"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Bookmarks"
-#~ msgstr "ブックマーク"
-
-#, fuzzy
-#~| msgid ""
-#~| "Insert a Bookmark. This is useful to create links that point to areas "
-#~| "within the document"
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "Insert a Bookmark. This is useful to create links that point to areas "
-#~ "within the document"
-#~ msgstr ""
-#~ "ブックマークを挿入します。これはドキュメント内の場所を指すリンクを新規作成"
-#~ "するのに便利です。"
-
-#, fuzzy
-#~| msgid ""
-#~| "Display a pop up that hosts the options to add new Bookmark or handle "
-#~| "existing Bookmarks"
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "Display a pop up that hosts the options to add new Bookmark or handle "
-#~ "existing Bookmarks"
-#~ msgstr ""
-#~ "新しいブックマークを追加、あるいは既にあるブックマークを操作するオプション"
-#~ "を提供するポップアップを表示します。"
-
-#, fuzzy
-#~| msgid ""
-#~| "Manage your Bookmarks. Check where are they pointing to, Delete or "
-#~| "Rename."
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "Manage your Bookmarks. Check where are they pointing to, Delete or Rename."
-#~ msgstr "ブックマークを管理します。リンク先を確認、削除、名前を変更します。"
-
-#, fuzzy
-#~| msgctxt "as in table of contents, list of pictures, index"
-#~| msgid "Tables, Lists & Indexes"
-#~ msgctxt "(qtundo-format) as in table of contents, list of pictures, index"
-#~ msgid "Tables, Lists & Indexes"
-#~ msgstr "表・一覧・索引"
-
-#, fuzzy
-#~| msgid "Footnotes and Endnotes"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Footnotes and Endnotes"
-#~ msgstr "後注と脚注"
-
-#, fuzzy
-#~| msgid "Citations and Bibliography"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Citations and Bibliography"
-#~ msgstr "引用と書誌情報"
-
-#, fuzzy
-#~| msgid "Links and Bookmarks"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Links and Bookmarks"
-#~ msgstr "リンクとブックマーク"
-
-#, fuzzy
-#~| msgid "Bookmark cannot be empty"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Bookmark cannot be empty"
-#~ msgstr "ブックマークは空にはできません"
-
-#, fuzzy
-#~| msgid "Duplicate Name. Click \"Manage Bookmarks\""
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Duplicate Name. Click \"Manage Bookmarks\""
-#~ msgstr "名前を複製します。\"ブックマークを管理\"をクリックしてください"
-
-#, fuzzy
-#~| msgid "to Rename or Delete Bookmarks"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "to Rename or Delete Bookmarks"
-#~ msgstr "ブックマークの名前を変更/削除する"
-
-#, fuzzy
-#~| msgid "Remove Comment"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Remove Comment"
-#~ msgstr "コメントを削除"
-
-#, fuzzy
-#~| msgid "Spell check"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Spell check"
-#~ msgstr "スペルチェック"
-
-#, fuzzy
-#~| msgid "Comments"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Comments"
-#~ msgstr "コメント"
-
-#, fuzzy
-#~| msgid "Review"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Review"
-#~ msgstr "レビュー"
-
-#, fuzzy
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Text"
-#~ msgstr "テキスト"
-
-#, fuzzy
-#~| msgid "A shape that shows text"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "A shape that shows text"
-#~ msgstr "テキストを表示するシェイプ"
-
-#, fuzzy
-#~| msgid "Text Shape"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Text Shape"
-#~ msgstr "テキストシェイプ"
-
-#, fuzzy
-#~| msgid "Configure Settings"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Configure current section"
-#~ msgstr "設定の変更"
-
-#, fuzzy
-#~| msgid "Insert Citation"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert new section"
-#~ msgstr "引用を挿入"
-
-#, fuzzy
-#~| msgid "Paste As Text"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Paste As Text"
-#~ msgstr "テキストとして貼り付け"
-
-#, fuzzy
-#~| msgid "Bold"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Bold"
-#~ msgstr "ボールド"
-
-#, fuzzy
-#~| msgid "Italic"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Italic"
-#~ msgstr "イタリック"
-
-#, fuzzy
-#~| msgctxt "Text formatting"
-#~| msgid "Underline"
-#~ msgctxt "(qtundo-format) Text formatting"
-#~ msgid "Underline"
-#~ msgstr "下線"
-
-#, fuzzy
-#~| msgid "Strikethrough"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Strikethrough"
-#~ msgstr "取り消し線"
-
-#, fuzzy
-#~| msgid "Align Left"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Align Left"
-#~ msgstr "左揃え"
-
-#, fuzzy
-#~| msgid "Align Right"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Align Right"
-#~ msgstr "右揃え"
-
-#, fuzzy
-#~| msgid "Align Center"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Align Center"
-#~ msgstr "中央揃え"
-
-#, fuzzy
-#~| msgid "Align Block"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Align Block"
-#~ msgstr "両端揃え"
-
-#, fuzzy
-#~| msgid "Change text direction"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Change text direction"
-#~ msgstr "テキスト方向を変更"
-
-#, fuzzy
-#~| msgid "Change writing direction"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Change writing direction"
-#~ msgstr "書く方向の変更"
-
-#, fuzzy
-#~| msgid "Increase Indent"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Increase Indent"
-#~ msgstr "字下げを増やす"
-
-#~ msgid "Bullet list"
-#~ msgstr "黒丸印一覧"
-
-#, fuzzy
-#~| msgid "Decrease Indent"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Decrease Indent"
-#~ msgstr "字下げを減らす"
-
-#~ msgid "Numbered list"
-#~ msgstr "数字付一覧"
-
-#, fuzzy
-#~| msgid "Increase Font Size"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Increase Font Size"
-#~ msgstr "フォントサイズを大きく"
-
-#, fuzzy
-#~| msgid "Decrease Font Size"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Decrease Font Size"
-#~ msgstr "フォントサイズを小さく"
-
-#, fuzzy
-#~| msgid "Font Family"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Font Family"
-#~ msgstr "フォントファミリー"
-
-#, fuzzy
-#~| msgid "Variable"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Variable"
-#~ msgstr "可変"
-
-#, fuzzy
-#~| msgid "Insert Non-Breaking Space"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert Non-Breaking Space"
-#~ msgstr "非改行スペースを挿入"
-
-#, fuzzy
-#~| msgid "Insert Non-Breaking Hyphen"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert Non-Breaking Hyphen"
-#~ msgstr "非改行ハイフンを挿入"
-
-#, fuzzy
-#~| msgid "Insert Index"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert Index"
-#~ msgstr "見出しを挿入"
-
-#, fuzzy
-#~| msgid "Insert Soft Hyphen"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert Soft Hyphen"
-#~ msgstr "ソフトハイフンを挿入"
-
-#, fuzzy
-#~| msgid "Line Break"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Line Break"
-#~ msgstr "改行"
-
-#, fuzzy
-#~| msgid "Page Break"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Page Break"
-#~ msgstr "改ページ"
-
-#, fuzzy
-#~| msgid "Insert a page break"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert a page break"
-#~ msgstr "ページの区切りを挿入"
-
-#, fuzzy
-#~| msgid "All text after this point will be moved into the next page."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "All text after this point will be moved into the next page."
-#~ msgstr "ここ以降の全テキストは次のページに移動されます。"
-
-#, fuzzy
-#~| msgid "Font..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Font..."
-#~ msgstr "フォント..."
-
-#, fuzzy
-#~| msgid "Change character size, font, boldface, italics etc."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Change character size, font, boldface, italics etc."
-#~ msgstr "文字の大きさ、フォント、ボールド、イタリックなどを変更します。"
-
-#, fuzzy
-#~| msgid "Change the attributes of the currently selected characters."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Change the attributes of the currently selected characters."
-#~ msgstr "現在選択されている文字の属性を変更します。"
-
-#, fuzzy
-#~| msgid "Font Size"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Font Size"
-#~ msgstr "フォントサイズ"
-
-#, fuzzy
-#~| msgid "Text Color..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Text Color..."
-#~ msgstr "テキスト色..."
-
-#, fuzzy
-#~| msgid "Text Color"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Text Color"
-#~ msgstr "テキスト色"
-
-#, fuzzy
-#~| msgid "Background Color..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Background Color..."
-#~ msgstr "背景色..."
-
-#, fuzzy
-#~| msgid "Grow To Fit Width"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Grow To Fit Width"
-#~ msgstr "拡大して幅を合わせる"
-
-#, fuzzy
-#~| msgid "Grow To Fit Height"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Grow To Fit Height"
-#~ msgstr "拡大して高さを合わせる"
-
-#, fuzzy
-#~| msgid "Shrink To Fit"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Shrink To Fit"
-#~ msgstr "縮小して合わせる"
-
-#, fuzzy
-#~| msgid "Insert a table into the document."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert a table into the document."
-#~ msgstr "文書に表を挿入。"
-
-#, fuzzy
-#~| msgid "Row Above"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Row Above"
-#~ msgstr "上の行"
-
-#, fuzzy
-#~| msgid "Insert Row Above"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert Row Above"
-#~ msgstr "行を上に挿入"
-
-#, fuzzy
-#~| msgid "Row Below"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Row Below"
-#~ msgstr "下の行"
-
-#, fuzzy
-#~| msgid "Insert Row Below"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert Row Below"
-#~ msgstr "行を下に挿入"
-
-#, fuzzy
-#~| msgid "Column Left"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Column Left"
-#~ msgstr "左の列"
-
-#, fuzzy
-#~| msgid "Insert Column Left"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert Column Left"
-#~ msgstr "列を左に挿入"
-
-#, fuzzy
-#~| msgid "Column Right"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Column Right"
-#~ msgstr "右の列"
-
-#, fuzzy
-#~| msgid "Insert Column Right"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert Column Right"
-#~ msgstr "列を右に挿入"
-
-#, fuzzy
-#~| msgid "Column"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Column"
-#~ msgstr "列"
-
-#, fuzzy
-#~| msgid "Delete Column"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Delete Column"
-#~ msgstr "列を削除"
-
-#, fuzzy
-#~| msgid "Row"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Row"
-#~ msgstr "行"
-
-#, fuzzy
-#~| msgid "Delete Row"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Delete Row"
-#~ msgstr "行を削除"
-
-#, fuzzy
-#~| msgid "Merge Cells"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Merge Cells"
-#~ msgstr "セルを結合"
-
-#, fuzzy
-#~| msgid "Split Cells"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Split Cells"
-#~ msgstr "セルを分割"
-
-#, fuzzy
-#~| msgid "Paragraph..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Paragraph..."
-#~ msgstr "段落..."
-
-#, fuzzy
-#~| msgid ""
-#~| "Change paragraph margins, text flow, borders, bullets, numbering etc."
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "Change paragraph margins, text flow, borders, bullets, numbering etc."
-#~ msgstr "段落のマージン、テキストの流れ、境界、箇条書きの設定などを変更"
-
-#, fuzzy
-#~| msgid ""
-#~| "Change paragraph margins, text flow, borders, bullets, numbering etc."
-#~| "<p>Select text in multiple paragraphs to change the formatting of all "
-#~| "selected paragraphs.<p>If no text is selected, the paragraph where the "
-#~| "cursor is located will be changed.</p>"
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "<p>Change paragraph margins, text flow, borders, bullets, numbering etc.</"
-#~ "p><p>Select text in multiple paragraphs to change the formatting of all "
-#~ "selected paragraphs.</p><p>If no text is selected, the paragraph where "
-#~ "the cursor is located will be changed.</p>"
-#~ msgstr ""
-#~ "<p>段落のマージン、テキストの流れ、境界、箇条書きの設定 (ビュレット/数字) "
-#~ "などを変更します。</p><p>複数の段落のテキストを選択すると、選択したすべて"
-#~ "の段落のフォーマットが変更されます。</p><p>テキストが選択されていなけれ"
-#~ "ば、カーソルのある段落のフォーマットが変更されます。</p>"
-
-#, fuzzy
-#~| msgid "Style Manager..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Style Manager..."
-#~ msgstr "スタイルマネージャ..."
-
-#, fuzzy
-#~| msgid "Change attributes of styles"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Change attributes of styles"
-#~ msgstr "スタイルの属性を変更"
-
-#, fuzzy
-#~| msgid ""
-#~| "Change font and paragraph attributes of styles.<p>Multiple styles can be "
-#~| "changed using the dialog box."
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "<p>Change font and paragraph attributes of styles.</p><p>Multiple styles "
-#~ "can be changed using the dialog box.</p>"
-#~ msgstr ""
-#~ "<p>スタイルのフォントと段落の属性を変更します。</p><p>ダイアログボックスを"
-#~ "使って複数のスタイルを変更できます。</p>"
-
-#, fuzzy
-#~| msgid "Special Character..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Special Character..."
-#~ msgstr "特殊文字..."
-
-#, fuzzy
-#~| msgid "Insert one or more symbols or characters not found on the keyboard"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert one or more symbols or characters not found on the keyboard"
-#~ msgstr "キーボードにない記号や文字を挿入"
-
-#, fuzzy
-#~| msgid "Insert one or more symbols or characters not found on the keyboard."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert one or more symbols or characters not found on the keyboard."
-#~ msgstr "キーボードにない記号や文字を挿入します。"
-
-#, fuzzy
-#~| msgid "Repaint"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Repaint"
-#~ msgstr "塗り替え"
-
-#, fuzzy
-#~| msgid "Insert Comment"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert Comment"
-#~ msgstr "コメントを挿入"
-
-#, fuzzy
-#~| msgid "Insertion"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insertion"
-#~ msgstr "挿入"
-
-#, fuzzy
-#~| msgid "Deletion"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Deletion"
-#~ msgstr "削除"
-
-#, fuzzy
-#~| msgid "Formatting"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Formatting"
-#~ msgstr "フォーマット"
-
-#, fuzzy
-#~| msgid "Ctrl+click to go to link "
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Ctrl+click to go to link "
-#~ msgstr "Ctrl+クリックでリンクへ移動"
-
-#, fuzzy
-#~| msgid "Ctrl+click to go to the note "
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Ctrl+click to go to the note "
-#~ msgstr "Ctrl+クリックで注釈へと移動"
-
-#, fuzzy
-#~| msgid "Ctrl+click to go to the note reference"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Ctrl+click to go to the note reference"
-#~ msgstr "Ctrl+クリックで注釈参照へと移動"
-
-#, fuzzy
-#~| msgid "follows along"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "follows along"
-#~ msgstr "追従する"
-
-#, fuzzy
-#~| msgid "Press shift to not resize this"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Press shift to not resize this"
-#~ msgstr "これの大きさを変更しないように Shift キーを押す"
-
-#, fuzzy
-#~| msgid "Bullet list"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Bullet list"
-#~ msgstr "黒丸印一覧"
-
-#, fuzzy
-#~| msgid "Numbered list"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Numbered list"
-#~ msgstr "数字付一覧"
-
-#, fuzzy
-#~| msgid "Background"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Background"
-#~ msgstr "背景"
-
-#, fuzzy
-#~| msgid "Character"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Character"
-#~ msgstr "文字"
-
-#, fuzzy
-#~| msgid "Paragraph"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Paragraph"
-#~ msgstr "段落"
-
-#, fuzzy
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Delete"
-#~ msgstr "削除"
-
-#, fuzzy
-#~| msgid "Table"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Table"
-#~ msgstr "表"
-
-#, fuzzy
-#~| msgid "Autocorrection"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Autocorrection"
-#~ msgstr "自動修正"
-
-#, fuzzy
-#~| msgid "Key Press"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Key Press"
-#~ msgstr "キー押下げ"
-
-#, fuzzy
-#~| msgid ""
-#~| "This link points to the program or script '%1'.\n"
-#~| "Malicious programs can harm your computer. Are you sure that you want to "
-#~| "run this program?"
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "This link points to the program or script '%1'.\n"
-#~ "Malicious programs can harm your computer. Are you sure that you want to "
-#~ "run this program?"
-#~ msgstr ""
-#~ "これはプログラムまたはスクリプト “%1” にリンクしています。\n"
-#~ "悪意のあるプログラムはあなたのコンピュータを損なうことができます。本当にこ"
-#~ "のプログラムを実行しますか？"
-
-#, fuzzy
-#~| msgid "Open Link?"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Open Link?"
-#~ msgstr "リンクを開きますか？"
-
-#, fuzzy
-#~| msgid "Text editing"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Text editing"
-#~ msgstr "テキスト編集ツール"
-
-#, fuzzy
-#~| msgid "Quick search:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Quick search:"
-#~ msgstr "クイック検索:"
-
-#, fuzzy
-#~| msgid "Insert Note"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert Note"
-#~ msgstr "注釈を挿入"
-
-#, fuzzy
-#~| msgid "Remove Note"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Remove Note"
-#~ msgstr "注釈を削除"
-
-#, fuzzy
-#~| msgid "..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "..."
-#~ msgstr "..."
-
-#, fuzzy
-#~| msgid "Dialog"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Dialog"
-#~ msgstr "対話"
-
-#, fuzzy
-#~| msgid "Accept"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Accept"
-#~ msgstr "許可"
-
-#, fuzzy
-#~| msgid "Reject"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Reject"
-#~ msgstr "拒否"
-
-#, fuzzy
-#~| msgid "Cancel"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Cancel"
-#~ msgstr "キャンセル"
-
-#, fuzzy
-#~| msgid "Change Log"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Change Log"
-#~ msgstr "ログを変更"
-
-#, fuzzy
-#~| msgid "Author"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Author"
-#~ msgstr "作者"
-
-#, fuzzy
-#~| msgid "Date"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Date"
-#~ msgstr "日付"
-
-#, fuzzy
-#~| msgid "Type"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Type"
-#~ msgstr "タイプ"
-
-#, fuzzy
-#~| msgid "Start at:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Start at:"
-#~ msgstr "開始位置:"
-
-#, fuzzy
-#~| msgid "Alignment:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Alignment:"
-#~ msgstr "配置:"
-
-#, fuzzy
-#~| msgid "Prefix:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Prefix:"
-#~ msgstr "接頭語:"
-
-#, fuzzy
-#~| msgid "Suffix:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Suffix:"
-#~ msgstr "接尾語:"
-
-#, fuzzy
-#~| msgid "Depth:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Depth:"
-#~ msgstr "深さ:"
-
-#, fuzzy
-#~| msgid "Display Levels:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Display Levels:"
-#~ msgstr "表示レベル:"
-
-#, fuzzy
-#~| msgid "Bullet/Number followed by"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Bullet/Number followed by"
-#~ msgstr "文頭の黒丸印/数字"
-
-#, fuzzy
-#~| msgid " cm"
-#~ msgctxt "(qtundo-format)"
-#~ msgid " cm"
-#~ msgstr " cm"
-
-#, fuzzy
-#~| msgid "at"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "at"
-#~ msgstr "貼り付け"
-
-#, fuzzy
-#~| msgid "Aligned at"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Aligned at"
-#~ msgstr "整列"
-
-#, fuzzy
-#~| msgid "Indented at"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Indented at"
-#~ msgstr "字下げ"
-
-#, fuzzy
-#~| msgid "Custom character:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Custom character:"
-#~ msgstr "カスタム文字:"
-
-#, fuzzy
-#~| msgid "Restart numbering at this paragraph"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Restart numbering at this paragraph"
-#~ msgstr "この段落で番号付けを再開する"
-
-#, fuzzy
-#~| msgid "Letter Synchronization"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Letter Synchronization"
-#~ msgstr "文字の同期"
-
-#, fuzzy
-#~| msgid "Width"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Width"
-#~ msgstr "幅"
-
-#, fuzzy
-#~| msgid "Insert Image"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert Image"
-#~ msgstr "画像を挿入"
-
-#, fuzzy
-#~| msgid "Height"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Height"
-#~ msgstr "高さ"
-
-#, fuzzy
-#~| msgid "Browse..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Browse..."
-#~ msgstr "閲覧..."
-
-#, fuzzy
-#~| msgid "Alignment"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Alignment"
-#~ msgstr "配置"
-
-#, fuzzy
-#~| msgid "Left"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Left"
-#~ msgstr "左"
-
-#, fuzzy
-#~| msgid "Center"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Center"
-#~ msgstr "中央揃え"
-
-#, fuzzy
-#~| msgid "Right"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Right"
-#~ msgstr "右"
-
-#, fuzzy
-#~| msgid "Justify"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Justify"
-#~ msgstr "両端揃え"
-
-#, fuzzy
-#~| msgid "Behavior at End of Frame/Page"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Behavior at End of Frame/Page"
-#~ msgstr "フレーム/ページの末尾での挙動"
-
-#, fuzzy
-#~| msgid "Keep lines together"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Keep lines together"
-#~ msgstr "段落の全行を次のフレーム/ページに移動"
-
-#, fuzzy
-#~| msgid "Insert break before paragraph"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert break before paragraph"
-#~ msgstr "段落の前に改行を挿入"
-
-#, fuzzy
-#~| msgid "Insert break after paragraph"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert break after paragraph"
-#~ msgstr "段落の後に改行を挿入"
-
-#, fuzzy
-#~| msgid "Leave at least this many lines (orphans):"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Leave at least this many lines (orphans):"
-#~ msgstr "少なくともこの数行(離れ行)を残す:"
-
-#, fuzzy
-#~| msgid "&Rename"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "&Rename"
-#~ msgstr "名前変更(&R)"
-
-#, fuzzy
-#~| msgid "&Delete"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "&Delete"
-#~ msgstr "削除(&D)"
-
-# normal distance + absolute value
-#, fuzzy
-#~| msgid "Add caption"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Add caption"
-#~ msgstr "表題を追加"
-
-#, fuzzy
-#~| msgid "General"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "General"
-#~ msgstr "全般"
-
-#, fuzzy
-#~ msgctxt "(qtundo-format) Name of the style"
-#~ msgid "Name:"
-#~ msgstr "名前:"
-
-#, fuzzy
-#~| msgid "Next style:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Next style:"
-#~ msgstr "次のスタイル:"
-
-#, fuzzy
-#~| msgid "Parent style:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Parent style:"
-#~ msgstr "親スタイル:"
-
-#, fuzzy
-#~| msgid "Include in table of contents"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Include in table of contents"
-#~ msgstr "目次に含める"
-
-#, fuzzy
-#~| msgid "Tab 1"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Tab 1"
-#~ msgstr "タブ1"
-
-#, fuzzy
-#~| msgid "CheckBox"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "CheckBox"
-#~ msgstr "チェックボックス"
-
-#, fuzzy
-#~| msgid "PushButton"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "PushButton"
-#~ msgstr "プッシュボタン"
-
-#, fuzzy
-#~| msgid "Tab 2"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Tab 2"
-#~ msgstr "タブ2"
-
-#, fuzzy
-#~| msgid "Text color:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Text color:"
-#~ msgstr "テキスト色:"
-
-#, fuzzy
-#~| msgid "Background color:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Background color:"
-#~ msgstr "背景色:"
-
-#, fuzzy
-#~| msgid "Underlining:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Underlining:"
-#~ msgstr "下線:"
-
-#, fuzzy
-#~| msgid "Strikethrough:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Strikethrough:"
-#~ msgstr "取り消し線:"
-
-#, fuzzy
-#~| msgid "Capitalization:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Capitalization:"
-#~ msgstr "先頭大文字化:"
-
-#, fuzzy
-#~| msgid "Position:"
-#~ msgctxt "(qtundo-format) Character position"
-#~ msgid "Position:"
-#~ msgstr "位置:"
-
-#, fuzzy
-#~| msgid ""
-#~| "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/"
-#~| "TR/REC-html40/strict.dtd\">\n"
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'DejaVu Sans'; font-size:9pt; "
-#~| "font-weight:400; font-style:normal;\">\n"
-#~| "<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\">It is possible to "
-#~| "assign a named style to text and alter the style properties to change "
-#~| "all text with that style.</p>\n"
-#~| "<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\">Applying a style "
-#~| "change will reformat all text that previously got the named style "
-#~| "assigned to it. Use the Styles docker to apply styles to text.</p></"
-#~| "body></html>"
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-#~ "REC-html40/strict.dtd\">\n"
-#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~ "css\">\n"
-#~ "p, li { white-space: pre-wrap; }\n"
-#~ "</style></head><body style=\" font-family:'DejaVu Sans'; font-size:9pt; "
-#~ "font-weight:400; font-style:normal;\">\n"
-#~ "<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">It is possible to "
-#~ "assign a named style to text and alter the style properties to change all "
-#~ "text with that style.</p>\n"
-#~ "<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Applying a style change "
-#~ "will reformat all text that previously got the named style assigned to "
-#~ "it. Use the Styles docker to apply styles to text.</p></body></html>"
-#~ msgstr ""
-#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-#~ "REC-html40/strict.dtd\">\n"
-#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~ "css\">\n"
-#~ "p, li { white-space: pre-wrap; }\n"
-#~ "</style></head><body style=\" font-family:'DejaVu Sans'; font-size:9pt; "
-#~ "font-weight:400; font-style:normal;\">\n"
-#~ "<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">名前ありのスタイルをテキ"
-#~ "ストに割り当てることは可能です、またそのスタイルにすべてのテキストを変更す"
-#~ "るためスタイルプロパティを変更することも可能です。</p>\n"
-#~ "<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">スタイル変更を適用すると"
-#~ "以前名前付きスタイルを割り当てられたすべてのテキストを再フォーマットしま"
-#~ "す。テキストにスタイルを適用するにはスタイルドッカーを使用してください。</"
-#~ "p></body></html>"
-
-#, fuzzy
-#~| msgid "Insert Bibliography entry"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert Bibliography entry"
-#~ msgstr "書誌情報を挿入"
-
-#, fuzzy
-#~| msgid "Insert Bibliography Entry Details"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert Bibliography Entry Details"
-#~ msgstr "書誌情報詳細を挿入"
-
-#, fuzzy
-#~| msgid "Short Name:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Short Name:"
-#~ msgstr "短縮名:"
-
-#, fuzzy
-#~| msgid "Source:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Source:"
-#~ msgstr "ソース:"
-
-#, fuzzy
-#~| msgid "Article"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Article"
-#~ msgstr "記事"
-
-#, fuzzy
-#~| msgid "Book"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Book"
-#~ msgstr "本"
-
-#, fuzzy
-#~| msgid "Booklet"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Booklet"
-#~ msgstr "小冊子"
-
-#, fuzzy
-#~| msgid "Conference"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Conference"
-#~ msgstr "会合"
-
-#, fuzzy
-#~| msgid "Email"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Email"
-#~ msgstr "メール"
-
-#, fuzzy
-#~| msgid "Inbook"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Inbook"
-#~ msgstr "Inbook"
-
-#, fuzzy
-#~| msgid "Incollection"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Incollection"
-#~ msgstr "Incollection"
-
-#, fuzzy
-#~| msgid "Inproceedings"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Inproceedings"
-#~ msgstr "Inproceedings"
-
-#, fuzzy
-#~| msgid "Journal"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Journal"
-#~ msgstr "ジャーナル"
-
-#, fuzzy
-#~| msgid "Manual"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Manual"
-#~ msgstr "マニュアル"
-
-#, fuzzy
-#~| msgid "Masters thesis"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Masters thesis"
-#~ msgstr "修士論文"
-
-#, fuzzy
-#~| msgid "Misc"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Misc"
-#~ msgstr "その他"
-
-#, fuzzy
-#~| msgid "PhD thesis"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "PhD thesis"
-#~ msgstr "博士論文"
-
-#, fuzzy
-#~| msgid "Proceedings"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Proceedings"
-#~ msgstr "会議録"
-
-#, fuzzy
-#~| msgid "Tech Report"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Tech Report"
-#~ msgstr "テクニカルレポート"
-
-#, fuzzy
-#~| msgid "Unpublished"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Unpublished"
-#~ msgstr "未発表"
-
-#, fuzzy
-#~| msgid "WWW"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "WWW"
-#~ msgstr "WWW"
-
-#, fuzzy
-#~| msgid "custom 1"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "custom 1"
-#~ msgstr "カスタム 1"
-
-#, fuzzy
-#~| msgid "custom 2"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "custom 2"
-#~ msgstr "カスタム 2"
-
-#, fuzzy
-#~| msgid "custom 3"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "custom 3"
-#~ msgstr "カスタム 3"
-
-#, fuzzy
-#~| msgid "custom 4"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "custom 4"
-#~ msgstr "カスタム 4"
-
-#, fuzzy
-#~| msgid "custom 5"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "custom 5"
-#~ msgstr "カスタム 5"
-
-#, fuzzy
-#~| msgid "Author:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Author:"
-#~ msgstr "作者:"
-
-#, fuzzy
-#~| msgid "Title:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Title:"
-#~ msgstr "題名:"
-
-#, fuzzy
-#~| msgid "Year:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Year:"
-#~ msgstr "年:"
-
-#, fuzzy
-#~| msgid "Publisher:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Publisher:"
-#~ msgstr "出版社:"
-
-#, fuzzy
-#~| msgid "Address:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Address:"
-#~ msgstr "住所:"
-
-#, fuzzy
-#~| msgid "ISBN:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "ISBN:"
-#~ msgstr "ISBN:"
-
-#, fuzzy
-#~| msgid "Chapter:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Chapter:"
-#~ msgstr "章:"
-
-#, fuzzy
-#~| msgid "ISSN:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "ISSN:"
-#~ msgstr "ISSN:"
-
-#, fuzzy
-#~| msgid "Editor:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Editor:"
-#~ msgstr "編集者:"
-
-#, fuzzy
-#~| msgid "Page(s):"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Page(s):"
-#~ msgstr "ページ:"
-
-#, fuzzy
-#~| msgid "Book title:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Book title:"
-#~ msgstr "書名:"
-
-# normal distance + absolute value
-#, fuzzy
-#~| msgid "Edition:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Edition:"
-#~ msgstr "版:"
-
-#, fuzzy
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Publication:"
-#~ msgstr "発表:"
-
-#, fuzzy
-#~| msgid "Volume:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Volume:"
-#~ msgstr "巻:"
-
-#, fuzzy
-#~| msgid "Institution:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Institution:"
-#~ msgstr "団体:"
-
-#, fuzzy
-#~| msgid "Organisation:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Organisation:"
-#~ msgstr "組織:"
-
-#, fuzzy
-#~| msgid "Type of Report:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Type of Report:"
-#~ msgstr "報告の種類:"
-
-#, fuzzy
-#~| msgid "University:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "University:"
-#~ msgstr "大学:"
-
-#, fuzzy
-#~| msgid "Journal:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Journal:"
-#~ msgstr "ジャーナル:"
-
-#, fuzzy
-#~| msgid "Month:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Month:"
-#~ msgstr "月:"
-
-#, fuzzy
-#~| msgid "Series:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Series:"
-#~ msgstr "シリーズ:"
-
-#, fuzzy
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Number:"
-#~ msgstr "数:"
-
-#, fuzzy
-#~| msgid "Note:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Note:"
-#~ msgstr "注:"
-
-# normal distance + absolute value
-#, fuzzy
-#~| msgid "Annotation:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Annotation:"
-#~ msgstr "注釈:"
-
-#, fuzzy
-#~| msgid "URL:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "URL:"
-#~ msgstr "URL:"
-
-#, fuzzy
-#~| msgid "User-defined 1:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "User-defined 1:"
-#~ msgstr "ユーザ定義1:"
-
-#, fuzzy
-#~| msgid "User-defined 3:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "User-defined 3:"
-#~ msgstr "ユーザ定義3:"
-
-#, fuzzy
-#~| msgid "User-defined 2:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "User-defined 2:"
-#~ msgstr "ユーザ定義2:"
-
-#, fuzzy
-#~| msgid "User-defined 4:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "User-defined 4:"
-#~ msgstr "ユーザ定義4:"
-
-#, fuzzy
-#~| msgid "User-defined 5:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "User-defined 5:"
-#~ msgstr "ユーザ定義5:"
-
-#, fuzzy
-#~| msgid "OR"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "OR"
-#~ msgstr "OR"
-
-#, fuzzy
-#~| msgid "From the document:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "From the document:"
-#~ msgstr "ドキュメントより:"
-
-#, fuzzy
-#~| msgid "Background color"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Background color"
-#~ msgstr "背景色"
-
-#, fuzzy
-#~| msgid "Insert citation at current position"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert citation at current position"
-#~ msgstr "現在の位置に引用を挿入"
-
-#, fuzzy
-#~| msgid "Configure bibliography"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Configure bibliography"
-#~ msgstr "書誌情報の設定"
-
-#, fuzzy
-#~| msgid "Configure Bibliography"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Configure Bibliography"
-#~ msgstr "書誌情報の設定"
-
-#, fuzzy
-#~| msgid "Configure Change Tracking"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Configure Change Tracking"
-#~ msgstr "変更追跡の設定"
-
-#, fuzzy
-#~| msgid "General Settings"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "General Settings"
-#~ msgstr "一般設定"
-
-#, fuzzy
-#~| msgid "Saving Format"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Saving Format"
-#~ msgstr "保存する書式"
-
-#, fuzzy
-#~| msgid "ODF 1.2"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "ODF 1.2"
-#~ msgstr "ODF 1.2"
-
-#, fuzzy
-#~| msgid "DeltaXML (Experimental)"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "DeltaXML (Experimental)"
-#~ msgstr "DeltaXML (試験的)"
-
-#, fuzzy
-#~| msgid "Author Name"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Author Name"
-#~ msgstr "作者名"
-
-#, fuzzy
-#~| msgid "Change Visualization Settings"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Change Visualization Settings"
-#~ msgstr "視覚エフェクト設定を変更"
-
-#, fuzzy
-#~| msgid "Insertions"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insertions"
-#~ msgstr "挿入"
-
-#, fuzzy
-#~| msgid "Background Color"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Background Color"
-#~ msgstr "背景色"
-
-#, fuzzy
-#~| msgid ""
-#~| "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/"
-#~| "TR/REC-html40/strict.dtd\">\n"
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Bitstream Vera Sans'; font-"
-#~| "size:9pt; font-weight:400; font-style:normal;\">\n"
-#~| "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
-#~| "left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
-#~| "style=\" font-family:'MS Shell Dlg 2'; font-size:11pt; font-weight:600; "
-#~| "text-decoration: underline;\">Preview</span></p>\n"
-#~| "<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; "
-#~| "margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-"
-#~| "indent:0; text-indent:0px; font-family:'MS Shell Dlg 2'; font-size:12pt; "
-#~| "font-weight:600;\"></p>\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~| "family:'MS Shell Dlg 2'; font-weight:600;\">Inserted Text</span></p>\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~| "family:'MS Shell Dlg 2'; font-size:8pt;\">This is a line of text before "
-#~| "the inserted text. This is a line of inserted text. This is a line after "
-#~| "the inserted text.</span></p>\n"
-#~| "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-#~| "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
-#~| "font-family:'MS Shell Dlg 2';\"></p>\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~| "family:'MS Shell Dlg 2'; font-weight:600;\">Deleted Text</span></p>\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~| "family:'MS Shell Dlg 2'; font-size:8pt;\">This is a line of text before "
-#~| "the deleted text. This is a line of deleted text. This is a line after "
-#~| "the deleted text.</span></p>\n"
-#~| "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-#~| "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
-#~| "font-family:'MS Shell Dlg 2';\"></p>\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~| "family:'MS Shell Dlg 2'; font-weight:600;\">Formatted Text</span></p>\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~| "family:'MS Shell Dlg 2'; font-size:8pt;\">This is a line of text before "
-#~| "the format-change text. This is a line of text whose format has been "
-#~| "changed. This is a line of text after the format-change text.</span></"
-#~| "p></body></html>"
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-#~ "REC-html40/strict.dtd\">\n"
-#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~ "css\">\n"
-#~ "p, li { white-space: pre-wrap; }\n"
-#~ "</style></head><body style=\" font-family:'Bitstream Vera Sans'; font-"
-#~ "size:9pt; font-weight:400; font-style:normal;\">\n"
-#~ "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
-#~ "left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
-#~ "style=\" font-family:'MS Shell Dlg 2'; font-size:11pt; font-weight:600; "
-#~ "text-decoration: underline;\">Preview</span></p>\n"
-#~ "<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; "
-#~ "margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px; font-family:'MS Shell Dlg 2'; font-size:12pt; font-"
-#~ "weight:600;\"></p>\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~ "family:'MS Shell Dlg 2'; font-weight:600;\">Inserted Text</span></p>\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~ "family:'MS Shell Dlg 2'; font-size:8pt;\">This is a line of text before "
-#~ "the inserted text. This is a line of inserted text. This is a line after "
-#~ "the inserted text.</span></p>\n"
-#~ "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
-#~ "font-family:'MS Shell Dlg 2';\"></p>\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~ "family:'MS Shell Dlg 2'; font-weight:600;\">Deleted Text</span></p>\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~ "family:'MS Shell Dlg 2'; font-size:8pt;\">This is a line of text before "
-#~ "the deleted text. This is a line of deleted text. This is a line after "
-#~ "the deleted text.</span></p>\n"
-#~ "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
-#~ "font-family:'MS Shell Dlg 2';\"></p>\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~ "family:'MS Shell Dlg 2'; font-weight:600;\">Formatted Text</span></p>\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~ "family:'MS Shell Dlg 2'; font-size:8pt;\">This is a line of text before "
-#~ "the format-change text. This is a line of text whose format has been "
-#~ "changed. This is a line of text after the format-change text.</span></p></"
-#~ "body></html>"
-#~ msgstr ""
-#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-#~ "REC-html40/strict.dtd\">\n"
-#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~ "css\">\n"
-#~ "p, li { white-space: pre-wrap; }\n"
-#~ "</style></head><body style=\" font-family:'Sans'; font-size:10pt; font-"
-#~ "weight:400; font-style:normal;\">\n"
-#~ "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
-#~ "left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
-#~ "style=\" font-family:'MS Shell Dlg 2'; font-size:11pt; font-weight:600; "
-#~ "text-decoration: underline;\">プレビュー</span></p>\n"
-#~ "<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; "
-#~ "margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px; font-family:'MS Shell Dlg 2'; font-size:12pt; font-"
-#~ "weight:600;\"></p>\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~ "family:'MS Shell Dlg 2'; font-size:9pt; font-weight:600;\">挿入されたテキ"
-#~ "スト</span></p>\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~ "family:'MS Shell Dlg 2'; font-size:8pt;\">これは挿入されたテキストの前の行"
-#~ "です。これは挿入されたテキストです。これは挿入されたテキストの後の行です。"
-#~ "</span></p>\n"
-#~ "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
-#~ "font-family:'MS Shell Dlg 2'; font-size:9pt;\"></p>\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~ "family:'MS Shell Dlg 2'; font-size:9pt; font-weight:600;\">削除されたテキ"
-#~ "スト</span></p>\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~ "family:'MS Shell Dlg 2'; font-size:8pt;\">これは削除されたテキストの前の行"
-#~ "です。これは削除されたテキストです。これは削除されたテキストの後の行です。"
-#~ "</span></p>\n"
-#~ "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
-#~ "font-family:'MS Shell Dlg 2'; font-size:9pt;\"></p>\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~ "family:'MS Shell Dlg 2'; font-size:9pt; font-weight:600;\">フォーマットさ"
-#~ "れたテキスト</span></p>\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~ "family:'MS Shell Dlg 2'; font-size:8pt;\">これはフォーマット変更されたテキ"
-#~ "ストの前の行です。これはフォーマット変更されたテキストの行です。これは"
-#~ "フォーマット変更された後のテキストの行です。</span></p></body></html>"
-
-#, fuzzy
-#~| msgid "Deletions"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Deletions"
-#~ msgstr "削除"
-
-#, fuzzy
-#~| msgid "Format Changes"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Format Changes"
-#~ msgstr "フォーマット変更"
-
-#, fuzzy
-#~| msgid "Link"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Link"
-#~ msgstr "リンク"
-
-#, fuzzy
-#~| msgid "Web Link"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Web Link"
-#~ msgstr "ウェブリンク"
-
-#, fuzzy
-#~| msgid ""
-#~| "Insert links to web documents. You can provide both URL and a label for "
-#~| "the link,\n"
-#~| " or just enter the URL and hit \"Fetch the title from URL\""
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "Insert links to web documents. You can provide both URL and a label for "
-#~ "the link,\n"
-#~ " or just enter the URL and hit \"Fetch the title from URL\""
-#~ msgstr ""
-#~ "ウェブドキュメントへのリンクを挿入。URL とラベルを入力するか、URL だけを入"
-#~ "力して\"URL からタイトルを取得\"をクリックしてください。"
-
-#, fuzzy
-#~| msgid "The address of your document (Uniform Resource Locator)"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "The address of your document (Uniform Resource Locator)"
-#~ msgstr "ドキュメントのアドレス(URL)"
-
-#, fuzzy
-#~| msgid " URL:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid " URL:"
-#~ msgstr " URL:"
-
-#, fuzzy
-#~| msgid ""
-#~| "Hit this button to get the title from the URL. Redirections are also "
-#~| "handled. "
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "Hit this button to get the title from the URL. Redirections are also "
-#~ "handled. "
-#~ msgstr ""
-#~ "このボタンをクリックして URL からタイトルを取得します。リダイレクトも適切"
-#~ "に処理します。"
-
-#, fuzzy
-#~| msgid "Fetch Title From URL"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Fetch Title From URL"
-#~ msgstr "URL からタイトルを取得"
-
-#, fuzzy
-#~| msgid "The text that will be displayed for your link"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "The text that will be displayed for your link"
-#~ msgstr "リンクとともに表示されるテキスト"
-
-#, fuzzy
-#~| msgid " Text:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid " Text:"
-#~ msgstr "テキスト:"
-
-#, fuzzy
-#~| msgid "Link To Bookmark"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Link To Bookmark"
-#~ msgstr "ブックマークへのリンク"
-
-#, fuzzy
-#~| msgid ""
-#~| "Insert links to Bookmarks. To create bookmarks,\n"
-#~| "click \"Bookmarks\" in the Links and Bookmarks section"
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "Insert links to Bookmarks. To create bookmarks,\n"
-#~ "click \"Bookmarks\" in the Links and Bookmarks section"
-#~ msgstr ""
-#~ "ブックマークへのリンクを挿入。ブックマークを新規作成するには、\n"
-#~ "リンクとブックマークセクションの\"ブックマーク\"をクリックしてください"
-
-#, fuzzy
-#~| msgid "The name of the bookmark to where the link has to point to"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "The name of the bookmark to where the link has to point to"
-#~ msgstr "リンクが指し示すブックマークの名前"
-
-#, fuzzy
-#~| msgid " Name:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid " Name:"
-#~ msgstr "名前:"
-
-#, fuzzy
-#~| msgid "Bibliography title"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Bibliography title"
-#~ msgstr "書誌情報タイトル"
-
-#, fuzzy
-#~| msgid "Bibliography entries"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Bibliography entries"
-#~ msgstr "書誌情報エントリ"
-
-#, fuzzy
-#~| msgid "Bibliography type:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Bibliography type:"
-#~ msgstr "書誌情報種:"
-
-#, fuzzy
-#~| msgid "In book"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "In book"
-#~ msgstr "本の一部"
-
-#, fuzzy
-#~| msgid "In collection"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "In collection"
-#~ msgstr "コレクションの一部"
-
-#, fuzzy
-#~| msgid "In proceedings"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "In proceedings"
-#~ msgstr "会議録の一部"
-
-#, fuzzy
-#~| msgid "Tech report"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Tech report"
-#~ msgstr "テクニカルレポート"
-
-#, fuzzy
-#~| msgid "custom1"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "custom1"
-#~ msgstr "カスタム 1"
-
-#, fuzzy
-#~| msgid "custom2"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "custom2"
-#~ msgstr "カスタム 2"
-
-#, fuzzy
-#~| msgid "custom3"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "custom3"
-#~ msgstr "カスタム 3"
-
-#, fuzzy
-#~| msgid "custom4"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "custom4"
-#~ msgstr "カスタム 4"
-
-#, fuzzy
-#~| msgid "custom5"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "custom5"
-#~ msgstr "カスタム 5"
-
-#, fuzzy
-#~| msgid "Available fields "
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Available fields "
-#~ msgstr "利用可能な項目"
-
-#, fuzzy
-#~| msgid "Add >>"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Add >>"
-#~ msgstr "追加 >>"
-
-#, fuzzy
-#~| msgid "Span"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Span"
-#~ msgstr "期間"
-
-#, fuzzy
-#~| msgid "<<Remove"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "<<Remove"
-#~ msgstr "<< 削除"
-
-#, fuzzy
-#~| msgid "Fields added"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Fields added"
-#~ msgstr "追加された項目"
-
-#, fuzzy
-#~| msgid "Endnote"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Endnote"
-#~ msgstr "後注"
-
-#, fuzzy
-#~| msgid "Footnote"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Footnote"
-#~ msgstr "脚注"
-
-#, fuzzy
-#~| msgid "&New"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "&New"
-#~ msgstr "新規(&N)"
-
-#, fuzzy
-#~| msgid "Change Tracking Options"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Change Tracking Options"
-#~ msgstr "追跡オプションを変更"
-
-#, fuzzy
-#~| msgid "Configure Settings"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Configure Settings"
-#~ msgstr "設定の変更"
-
-#, fuzzy
-#~| msgid "Record Changes"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Record Changes"
-#~ msgstr "レコード変更"
-
-#, fuzzy
-#~| msgid "Colors"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Colors"
-#~ msgstr "色"
-
-#, fuzzy
-#~| msgid "Text Shadow"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Text Shadow"
-#~ msgstr "テキストの影"
-
-#, fuzzy
-#~| msgid "Color:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Color:"
-#~ msgstr "色:"
-
-#, fuzzy
-#~| msgid "Distance:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Distance:"
-#~ msgstr "距離:"
-
-#, fuzzy
-#~| msgid "Position"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Position"
-#~ msgstr "位置"
-
-#, fuzzy
-#~| msgid "Automatic hyphenation"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Automatic hyphenation"
-#~ msgstr "自動ハイフネーション"
-
-#, fuzzy
-#~| msgid "Hyperlinks"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Hyperlinks"
-#~ msgstr "ハイパーリンク"
-
-#, fuzzy
-#~| msgid "TextLabel"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "TextLabel"
-#~ msgstr "TextLabel"
-
-#, fuzzy
-#~| msgid "Drop caps:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Drop caps:"
-#~ msgstr "ドロップキャップ:"
-
-#, fuzzy
-#~| msgid "Distance to paragraph:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Distance to paragraph:"
-#~ msgstr "段落への距離:"
-
-#, fuzzy
-#~| msgid "Number of characters:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Number of characters:"
-#~ msgstr "文字数:"
-
-#, fuzzy
-#~| msgid "Number of lines it covers:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Number of lines it covers:"
-#~ msgstr "行数:"
-
-#, fuzzy
-#~| msgid "Columns and rows"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Columns and rows"
-#~ msgstr "行と列"
-
-#, fuzzy
-#~| msgid "Number of columns:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Number of columns:"
-#~ msgstr "列の数:"
-
-#, fuzzy
-#~| msgid "Number of rows:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Number of rows:"
-#~ msgstr "行の数:"
-
-#, fuzzy
-#~| msgid "Width strategy"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Width strategy"
-#~ msgstr "幅の決め方"
-
-#, fuzzy
-#~| msgid "Fixed column width:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Fixed column width:"
-#~ msgstr "固定列幅:"
-
-#, fuzzy
-#~| msgid "Fit to contents"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Fit to contents"
-#~ msgstr "内容に合わせる"
-
-#, fuzzy
-#~| msgid "Fit to available surrounding"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Fit to available surrounding"
-#~ msgstr "利用可能な外枠に合わせる"
-
-#, fuzzy
-#~| msgid "Formatting of bibliography entries"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Formatting of bibliography entries"
-#~ msgstr "書誌情報記入の書式"
-
-#, fuzzy
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Number entries"
-#~ msgstr "見出し語の数"
-
-#, fuzzy
-#~| msgid "Sort"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Sort"
-#~ msgstr "ソート"
-
-#, fuzzy
-#~| msgid "Sort by position"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Sort by position"
-#~ msgstr "位置でソート"
-
-#, fuzzy
-#~| msgid "Sort keys"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Sort keys"
-#~ msgstr "ソートキー"
-
-#, fuzzy
-#~| msgid "Add sort key"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Add sort key"
-#~ msgstr "ソートキーを追加"
-
-#, fuzzy
-#~| msgid "Sort algorithm:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Sort algorithm:"
-#~ msgstr "ソートアルゴリズム:"
-
-#, fuzzy
-#~| msgid "Alphanumeric"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Alphanumeric"
-#~ msgstr "英数字"
-
-#, fuzzy
-#~| msgid "<p><ul><li><b>Single</b>: The normal linespacing</li></ul></p> "
-#~ msgctxt "(qtundo-format)"
-#~ msgid "<p><ul><li><b>Single</b>: The normal linespacing</li></ul></p> "
-#~ msgstr "<p><ul><li>シングル: 普通の行送り</li></ul></p> "
-
-#, fuzzy
-#~| msgid "Indent"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Indent"
-#~ msgstr "字下げ"
-
-#, fuzzy
-#~| msgid "Left:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Left:"
-#~ msgstr "左:"
-
-#, fuzzy
-#~| msgid "Right:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Right:"
-#~ msgstr "右:"
-
-#, fuzzy
-#~| msgid "First Line:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "First Line:"
-#~ msgstr "最初の行:"
-
-#, fuzzy
-#~| msgid "Auto-infer from text size"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Auto-infer from text size"
-#~ msgstr "テキストのサイズから推測する"
-
-#, fuzzy
-#~| msgid "Line Spacing"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Line Spacing"
-#~ msgstr "行送り"
-
-#, fuzzy
-#~| msgid " %"
-#~ msgctxt "(qtundo-format)"
-#~ msgid " %"
-#~ msgstr " %"
-
-#, fuzzy
-#~| msgid "Use Font Metrics:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Use Font Metrics:"
-#~ msgstr "フォントメトリックを使う:"
-
-#, fuzzy
-#~| msgid "Paragraph Space"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Paragraph Space"
-#~ msgstr "段落の間隔"
-
-#, fuzzy
-#~| msgid "Before:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Before:"
-#~ msgstr "前:"
-
-#, fuzzy
-#~| msgid "After:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "After:"
-#~ msgstr "後:"
-
-#, fuzzy
-#~| msgid "Automatic Numbering:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Automatic Numbering:"
-#~ msgstr "自動番号割り当て:"
-
-#, fuzzy
-#~| msgid " Prefix:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid " Prefix:"
-#~ msgstr "接頭語:"
-
-#, fuzzy
-#~| msgid " Start at:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid " Start at:"
-#~ msgstr "開始位置:"
-
-#, fuzzy
-#~| msgid " Format:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid " Format:"
-#~ msgstr "書式:"
-
-#, fuzzy
-#~| msgid " Suffix:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid " Suffix:"
-#~ msgstr "接尾語:"
-
-#, fuzzy
-#~| msgid "Starts over at:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Starts over at:"
-#~ msgstr "最初からやり直す:"
-
-#, fuzzy
-#~| msgid "Page"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Page"
-#~ msgstr "ページ"
-
-#, fuzzy
-#~| msgid "Chapter"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Chapter"
-#~ msgstr "章"
-
-#, fuzzy
-#~| msgid "Document"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Document"
-#~ msgstr "文書"
-
-#, fuzzy
-#~| msgid "1, 2, 3, ..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "1, 2, 3, ..."
-#~ msgstr "1, 2, 3, ..."
-
-#, fuzzy
-#~| msgid "a, b, c, ..., aa, ab, ..., ba, bb, ..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "a, b, c, ..., aa, ab, ..., ba, bb, ..."
-#~ msgstr "a, b, c, ..., aa, ab, ..., ba, bb, ..."
-
-#, fuzzy
-#~| msgid "A, B, C, ..., AA, AB, ..., BA, BB, ..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "A, B, C, ..., AA, AB, ..., BA, BB, ..."
-#~ msgstr "A, B, C, ..., AA, AB, ..., BA, BB, ..."
-
-#, fuzzy
-#~| msgid "a, b, c, ..., aa, bb, ..., aaa, bbb, ..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "a, b, c, ..., aa, bb, ..., aaa, bbb, ..."
-#~ msgstr "a, b, c, ..., aa, bb, ..., aaa, bbb, ..."
-
-#, fuzzy
-#~| msgid "A, B, C, ..., AA, BB, ..., AAA, BBB, ..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "A, B, C, ..., AA, BB, ..., AAA, BBB, ..."
-#~ msgstr "A, B, C, ..., AA, BB, ..., AAA, BBB, ..."
-
-#, fuzzy
-#~| msgid "i, ii, iii, ..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "i, ii, iii, ..."
-#~ msgstr "i, ii, iii, ..."
-
-#, fuzzy
-#~| msgid "I,II,III, ..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "I,II,III, ..."
-#~ msgstr "I,II,III, ..."
-
-#, fuzzy
-#~| msgid "Continuation Notice:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Continuation Notice:"
-#~ msgstr "続行通知:"
-
-#, fuzzy
-#~| msgid "Text saying it is a continuation:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Text saying it is a continuation:"
-#~ msgstr "続行すると示しているテキスト:"
-
-#, fuzzy
-#~| msgid " Text saying it will continue:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid " Text saying it will continue:"
-#~ msgstr "続行すると示しているテキスト:"
-
-# normal distance + absolute value
-#, fuzzy
-#~| msgid "Add caption"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Add tab stop"
-#~ msgstr "表題を追加"
-
-#, fuzzy
-#~| msgid "Character"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Tab character"
-#~ msgstr "文字"
-
-#, fuzzy
-#~| msgid "Special Characters"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Space character"
-#~ msgstr "特殊文字"
-
-#, fuzzy
-#~| msgctxt "None"
-#~| msgid "Nothing"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Nothing"
-#~ msgstr "なし"
-
-#, fuzzy
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Number"
-#~ msgstr "数:"
-
-#, fuzzy
-#~| msgid " Format:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Format:"
-#~ msgstr "書式:"
-
-#, fuzzy
-#~| msgid "Display Levels:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Display levels above:"
-#~ msgstr "表示レベル:"
-
-#, fuzzy
-#~| msgid "Letter Synchronization"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Letter synchronization"
-#~ msgstr "文字の同期"
-
-#, fuzzy
-#~| msgid "No Bullet"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Bullet"
-#~ msgstr "ビュレットなし"
-
-#, fuzzy
-#~| msgid "Split Cells"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Split sections"
-#~ msgstr "セルを分割"
-
-#, fuzzy
-#~| msgid "Paragraph..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert paragraph..."
-#~ msgstr "段落..."
-
-#, fuzzy
-#~| msgid "Insert Citation"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "before start of section:"
-#~ msgstr "引用を挿入"
-
-#, fuzzy
-#~| msgid "Insert Citation"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "after end of section:"
-#~ msgstr "引用を挿入"
-
-#, fuzzy
-#~| msgid "Insert Citation"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert paragraph between sections"
-#~ msgstr "引用を挿入"
-
-#~ msgid "SpellCheck"
-#~ msgstr "スペルチェック"
-
-#~ msgid ""
-#~ "Change paragraph margins, text flow, borders, bullets, numbering etc."
-#~ "<p>Select text in multiple paragraphs to change the formatting of all "
-#~ "selected paragraphs.<p>If no text is selected, the paragraph where the "
-#~ "cursor is located will be changed.</p>"
-#~ msgstr ""
-#~ "<p>段落のマージン、テキストの流れ、境界、箇条書きの設定 (ビュレット/数字) "
-#~ "などを変更します。</p><p>複数の段落のテキストを選択すると、選択したすべて"
-#~ "の段落のフォーマットが変更されます。</p><p>テキストが選択されていなけれ"
-#~ "ば、カーソルのある段落のフォーマットが変更されます。</p>"
-
-#~ msgid ""
-#~ "Change font and paragraph attributes of styles.<p>Multiple styles can be "
-#~ "changed using the dialog box."
-#~ msgstr ""
-#~ "<p>スタイルのフォントと段落の属性を変更します。</p><p>ダイアログボックスを"
-#~ "使って複数のスタイルを変更できます。</p>"
-
-#~ msgid "Highlighting"
-#~ msgstr "強調表示"
-
-#~ msgid "<b>Character style properties</b>"
-#~ msgstr "文字スタイルのプロパティ"
-
-#~| msgid "List Style:"
-#~ msgid "List depth:"
-#~ msgstr "リストの深さ:"
-
-#~ msgid "Minimum:"
-#~ msgstr "最小:"
-
-#~ msgid "Apply %1"
-#~ msgstr "%1 を適用"
-
-#~ msgid "Abc"
-#~ msgstr "テキスト"
-
-#~ msgid "Tracked change manager"
-#~ msgstr "追跡変更マネージャ"
-
-#~ msgid "Paste"
-#~ msgstr "貼り付け"
-
-#~ msgid "Offset:"
-#~ msgstr "オフセット:"
-
-#~ msgid "Create"
-#~ msgstr "作成"
-
-#~ msgid "<b>Paragraph style properties</b>"
-#~ msgstr "段落スタイルのプロパティ"
-
-#~ msgid "Use named character style"
-#~ msgstr "名前付きの文字スタイルを使う"
-
-#~ msgctxt "Short for LeftToRight"
-#~ msgid "LTR"
-#~ msgstr "左から右"
-
-#~ msgctxt "Short for RightToLeft"
-#~ msgid "RTL"
-#~ msgstr "右から左"
-
-#~ msgid "Apply again"
-#~ msgstr "再び適用"
-
-#~ msgid "Apply selected style to text"
-#~ msgstr "選択したスタイルをテキストに適用"
-
-#~ msgid "Show properties"
-#~ msgstr "プロパティを表示"
-
-#~ msgid "Arabic"
-#~ msgstr "アラビア数字"
-
-#~ msgid "Lower Alphabetical"
-#~ msgstr "アルファベット小文字"
-
-#~ msgid "Upper Alphabetical"
-#~ msgstr "アルファベット大文字"
-
-#~ msgid "Check Mark Bullet"
-#~ msgstr "チェックマーク"
-
-#~ msgid "Rightwards Arrow Bullet"
-#~ msgstr "右矢印"
-
-#~ msgid "Rightwards Arrow Head Bullet"
-#~ msgstr "右矢印 (棒なし)"
-
-#~ msgid "Bengali"
-#~ msgstr "ベンガル文字"
-
-#~ msgid "Gujarati"
-#~ msgstr "グジャラート文字"
-
-#~ msgid "Gurumukhi"
-#~ msgstr "グルムキー文字"
-
-#~ msgid "Kannada"
-#~ msgstr "カンナダ文字"
-
-#~ msgid "Malayalam"
-#~ msgstr "マラヤーラム文字"
-
-#~ msgid "Oriya"
-#~ msgstr "オリヤー文字"
-
-#~ msgid "Tamil"
-#~ msgstr "タミル文字"
-
-#~ msgid "Telugu"
-#~ msgstr "テルグ文字"
-
-#~ msgid "Tibetan"
-#~ msgstr "チベット文字"
-
-#~ msgid "Thai"
-#~ msgstr "タイ文字"
-
-#~ msgid "Abjad"
-#~ msgstr "アブジャド"
-
-#~ msgid "AbjadMinor"
-#~ msgstr "アブジャドマイナー"
-
-#~ msgid "ArabicAlphabet"
-#~ msgstr "アラビア文字"
-
-#~| msgid "Paste"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Paste"
-#~ msgstr "貼り付け"
-
-#~ msgid "Language"
-#~ msgstr "言語"
-
-#, fuzzy
-#~ msgid "Table of Contents"
-#~ msgstr "目次"
-
-#, fuzzy
-#~ msgid "Accept change"
-#~ msgstr "変更を許可"
-
-#, fuzzy
-#~ msgid "Reject change"
-#~ msgstr "変更を拒否"
-
-#, fuzzy
-#~ msgid "Hide Changes"
-#~ msgstr "変更を隠す"
-
-#, fuzzy
-#~ msgid ""
-#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-#~ "REC-html40/strict.dtd\">\n"
-#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~ "css\">\n"
-#~ "p, li { white-space: pre-wrap; }\n"
-#~ "</style></head><body style=\" font-family:'Sans'; font-size:10pt; font-"
-#~ "weight:400; font-style:normal;\">\n"
-#~ "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
-#~ "left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
-#~ "style=\" font-family:'MS Shell Dlg 2'; font-size:11pt; font-weight:600; "
-#~ "text-decoration: underline;\">Preview</span></p>\n"
-#~ "<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; "
-#~ "margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px; font-family:'MS Shell Dlg 2'; font-size:12pt; font-"
-#~ "weight:600;\"></p>\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~ "family:'MS Shell Dlg 2'; font-size:9pt; font-weight:600;\">Inserted Text</"
-#~ "span></p>\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~ "family:'MS Shell Dlg 2'; font-size:8pt;\">This is a line of text before "
-#~ "the inserted text. This is a line of inserted text. This is a line after "
-#~ "the inserted text.</span></p>\n"
-#~ "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
-#~ "font-family:'MS Shell Dlg 2'; font-size:9pt;\"></p>\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~ "family:'MS Shell Dlg 2'; font-size:9pt; font-weight:600;\">Deleted Text</"
-#~ "span></p>\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~ "family:'MS Shell Dlg 2'; font-size:8pt;\">This is a line of text before "
-#~ "the deleted text. This is a line of deleted text. This is a line after "
-#~ "the deleted text.</span></p>\n"
-#~ "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
-#~ "font-family:'MS Shell Dlg 2'; font-size:9pt;\"></p>\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~ "family:'MS Shell Dlg 2'; font-size:9pt; font-weight:600;\">Formatted "
-#~ "Text</span></p>\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~ "family:'MS Shell Dlg 2'; font-size:8pt;\">This is a line of text before "
-#~ "the format-change text. This is a line of text whose format has been "
-#~ "changed. This is a line of text after the format-change text.</span></p></"
-#~ "body></html>"
-#~ msgstr ""
-#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-#~ "REC-html40/strict.dtd\">\n"
-#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~ "css\">\n"
-#~ "p, li { white-space: pre-wrap; }\n"
-#~ "</style></head><body style=\" font-family:'Sans'; font-size:10pt; font-"
-#~ "weight:400; font-style:normal;\">\n"
-#~ "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
-#~ "left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
-#~ "style=\" font-family:'MS Shell Dlg 2'; font-size:11pt; font-weight:600; "
-#~ "text-decoration: underline;\">プレビュー</span></p>\n"
-#~ "<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; "
-#~ "margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
-#~ "text-indent:0px; font-family:'MS Shell Dlg 2'; font-size:12pt; font-"
-#~ "weight:600;\"></p>\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~ "family:'MS Shell Dlg 2'; font-size:9pt; font-weight:600;\">挿入されたテキ"
-#~ "スト</span></p>\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~ "family:'MS Shell Dlg 2'; font-size:8pt;\">これは挿入されたテキストの前の行"
-#~ "です。これは挿入されたテキストです。これは挿入されたテキストの後の行です。"
-#~ "</span></p>\n"
-#~ "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
-#~ "font-family:'MS Shell Dlg 2'; font-size:9pt;\"></p>\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~ "family:'MS Shell Dlg 2'; font-size:9pt; font-weight:600;\">削除されたテキ"
-#~ "スト</span></p>\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~ "family:'MS Shell Dlg 2'; font-size:8pt;\">これは削除されたテキストの前の行"
-#~ "です。これは削除されたテキストです。これは削除されたテキストの後の行です。"
-#~ "</span></p>\n"
-#~ "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
-#~ "font-family:'MS Shell Dlg 2'; font-size:9pt;\"></p>\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~ "family:'MS Shell Dlg 2'; font-size:9pt; font-weight:600;\">フォーマットさ"
-#~ "れたテキスト</span></p>\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~ "family:'MS Shell Dlg 2'; font-size:8pt;\">これはフォーマット変更されたテキ"
-#~ "ストの前の行です。これはフォーマット変更されたテキストの行です。これは"
-#~ "フォーマット変更された後のテキストの行です。</span></p></body></html>"
-
-#, fuzzy
-#~ msgid "Layout"
-#~ msgstr "全般的なレイアウト"
-
-#, fuzzy
-#~ msgid "Capitalization"
-#~ msgstr "先頭大文字化:"
-
-#, fuzzy
-#~ msgid "Display"
-#~ msgstr "表示レベル:"
-
-#, fuzzy
-#~ msgctxt "Inherit style"
-#~ msgid "None"
-#~ msgstr "なし"
-
-#, fuzzy
-#~ msgid "Base on text size"
-#~ msgstr "フォントサイズを大きく"
-
-#, fuzzy
-#~ msgid "Paragraph Settings"
-#~ msgstr "段落の間隔"
-
-#, fuzzy
-#~ msgid "Form"
-#~ msgstr "書式:"
-
-#, fuzzy
-#~ msgid "Strike Out"
-#~ msgstr "取り消し線"
-
-#, fuzzy
-#~ msgid "Change Tracking"
-#~ msgstr "追跡オプションを変更"
-
-#, fuzzy
-#~ msgid "Default Format"
-#~ msgstr "書式:"
-
-#, fuzzy
-#~ msgid "Configure Change Tracking..."
-#~ msgstr "変更追跡の設定"
-
-#, fuzzy
-#~ msgid "Change text attributes to their default values"
-#~ msgstr "現在選択されている文字の属性を変更します。"
-
-#, fuzzy
-#~ msgid "Table..."
-#~ msgstr "表"
-
-#, fuzzy
-#~ msgid "Text editing tool"
-#~ msgstr "テキスト編集ツール"
-
-#, fuzzy
-#~ msgid "Change Tracking tool"
-#~ msgstr "追跡オプションを変更"
-
-#, fuzzy
-#~ msgid "Change List"
-#~ msgstr "リストのレベルを変更"
-
-#, fuzzy
-#~ msgid "Change List Numbering"
-#~ msgstr "リストのレベルを変更"
-
-#, fuzzy
-#~ msgid "Cut"
-#~ msgstr "切り取り"
-
-#, fuzzy
-#~ msgid "Custom"
-#~ msgstr "カスタム 1"
-
-#, fuzzy
-#~ msgid "Text:"
-#~ msgstr "テキスト:"
-
-#, fuzzy
-#~ msgid "Type:"
-#~ msgstr "タイプ"
-
-#, fuzzy
-#~ msgid "Paragraph style"
-#~ msgstr "段落"
-
-#, fuzzy
-#~ msgid "Character style"
-#~ msgstr "文字"
-
-#, fuzzy
-#~ msgid "Inherit style:"
-#~ msgstr "次のスタイル:"
-
-#, fuzzy
-#~ msgid "Style:"
-#~ msgstr "スタイル"
-
-#, fuzzy
-#~ msgctxt "Automatic direction detection"
-#~ msgid "Auto"
-#~ msgstr "自動"
-
-#, fuzzy
-#~ msgid "List Style:"
-#~ msgstr "使用済みスタイル:"
-
-#, fuzzy
-#~ msgid "new style"
-#~ msgstr "新しいスタイル"
-
-#, fuzzy
-#~ msgid "Create New Style"
-#~ msgstr "新しいスタイル"
-
-#, fuzzy
-#~ msgid "Edit Paragraph Style"
-#~ msgstr "段落の間隔"
-
-#, fuzzy
-#~ msgid "Edit Character Style"
-#~ msgstr "文字"
-
-#, fuzzy
-#~ msgid "Add a new style"
-#~ msgstr "新しいスタイル"
-
-#, fuzzy
-#~ msgctxt "Text list-style"
-#~ msgid "None"
-#~ msgstr "なし"
-
-#, fuzzy
-#~ msgid "Lower Roman"
-#~ msgstr "小文字"
-
-#, fuzzy
-#~ msgid "Upper Roman"
-#~ msgstr "大文字"
-
-#, fuzzy
-#~ msgid "Disc Bullet"
-#~ msgstr "ビュレットなし"
-
-#, fuzzy
-#~ msgid "Square Bullet"
-#~ msgstr "ビュレットなし"
-
-#, fuzzy
-#~ msgid "Box Bullet"
-#~ msgstr "ビュレットなし"
-
-#, fuzzy
-#~ msgid "Rhombus Bullet"
-#~ msgstr "ビュレットなし"
-
-#, fuzzy
-#~ msgid "Circle Bullet"
-#~ msgstr "ビュレットなし"
-
-#, fuzzy
-#~ msgid "Ballot X Bullet"
-#~ msgstr "ビュレットなし"
-
-#, fuzzy
-#~ msgid "Changes"
-#~ msgstr "変更を表示"
-
-#, fuzzy
-#~ msgid "Insert Custom ..."
-#~ msgstr "カスタムを挿入"
-
-#, fuzzy
-#~ msgid "bibliography-type"
-#~ msgstr "書誌情報種:"
-
-# normal distance + absolute value
-#, fuzzy
-#~ msgid "edition"
-#~ msgstr "版:"
-
-#, fuzzy
-#~ msgid "institution"
-#~ msgstr "団体:"
-
-#, fuzzy
-#~ msgid "number"
-#~ msgstr "数:"
-
-#, fuzzy
-#~ msgid "organizations"
-#~ msgstr "組織:"
-
-# normal distance + absolute value
-#, fuzzy
-#~ msgid "Location"
-#~ msgstr "注釈"
-
-#, fuzzy
-#~ msgid " Prefix"
-#~ msgstr "接頭語:"
-
-#, fuzzy
-#~ msgid " Start at "
-#~ msgstr "開始:"
-
-#, fuzzy
-#~ msgid " Format"
-#~ msgstr "書式:"
-
-#, fuzzy
-#~ msgid " Suffix"
-#~ msgstr "接尾語:"
-
-#, fuzzy
-#~ msgid "Insert bibliography at current position"
-#~ msgstr "現在の位置に引用を挿入"
-
-#, fuzzy
-#~ msgid "Settings"
-#~ msgstr "設定..."
-
-#, fuzzy
-#~ msgid "Format Notes"
-#~ msgstr "フォーマット変更"
-
-#, fuzzy
-#~ msgid "Configure bibiliography"
-#~ msgstr "書誌情報の構成"
-
-#, fuzzy
-#~ msgid "Review tool"
-#~ msgstr "レビュー"
-
-#, fuzzy
-#~ msgid "Citation"
-#~ msgstr "引用を挿入"
-
-#, fuzzy
-#~ msgid "Label"
-#~ msgstr "TextLabel"
-
-#, fuzzy
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Change List"
-#~ msgstr "リストのレベルを変更"
-
-#, fuzzy
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Change List Numbering"
-#~ msgstr "リストのレベルを変更"
-
-#, fuzzy
-#~ msgid "Table of Contents..."
-#~ msgstr "目次"
-
-# normal distance + absolute value
-#, fuzzy
-#~ msgid "Captions"
-#~ msgstr "表題を追加"
-
-#, fuzzy
-#~ msgid "Small Bullet"
-#~ msgstr "ビュレットなし"
-
-#, fuzzy
-#~ msgid "Large Bullet"
-#~ msgstr "ビュレットなし"
-
-#, fuzzy
-#~ msgid "Paragraph Settings\n"
-#~ msgstr "段落の間隔"
-
-#, fuzzy
-#~ msgid "Record"
-#~ msgstr "レコード変更"

@@ -1,22 +1,17 @@
-# Taiki Komoda <kom@kde.gr.jp>, 2010.
-# Tsugumi Harabayashi <tu.hrby@gmail.com>, 2014.
-# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2014.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the calligra package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: VideoShape\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-11-09 11:24+0100\n"
-"PO-Revision-Date: 2014-11-29 23:34-0800\n"
-"Last-Translator: Fumiaki Okushi <fumiaki.okushi@gmail.com>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: calligra\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
-"X-Generator: Lokalize 1.5\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6 stable6
 #: ChangeVideoCommand.cpp:20
@@ -91,66 +86,3 @@ msgstr "ビデオ、埋め込みもしくはフルスクリーン"
 #, kde-format
 msgid "Video handling"
 msgstr "ビデオの処理"
-
-#, fuzzy
-#~| msgid "Play"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Play"
-#~ msgstr "再生"
-
-#, fuzzy
-#~| msgid "Pause"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Pause"
-#~ msgstr "一時停止"
-
-#, fuzzy
-#~| msgid "Stop"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Stop"
-#~ msgstr "停止"
-
-#, fuzzy
-#~| msgid "Unmute"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Unmute"
-#~ msgstr "ミュートの解除"
-
-#, fuzzy
-#~| msgid "Mute"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Mute"
-#~ msgstr "ミュート"
-
-#, fuzzy
-#~| msgid "Save as part of document"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Save as part of document"
-#~ msgstr "文書の一部として保存"
-
-#, fuzzy
-#~| msgid "Video"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Video"
-#~ msgstr "ビデオ"
-
-#, fuzzy
-#~| msgid "Video, embedded or fullscreen"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Video, embedded or fullscreen"
-#~ msgstr "ビデオ、埋め込みもしくはフルスクリーン"
-
-#, fuzzy
-#~| msgid "Video handling"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Video handling"
-#~ msgstr "ビデオの処理"
-
-#, fuzzy
-#~| msgid "Play Video"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Play Video"
-#~ msgstr "ビデオの再生"
-
-#~ msgid "Video tool"
-#~ msgstr "ビデオツール"

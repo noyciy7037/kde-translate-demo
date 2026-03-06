@@ -1,21 +1,18 @@
-# Tsugumi Harabayashi <tu.hrby@gmail.com>, 2014.
-# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2014.
+# POT_PART_NORMAL only
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the calligra package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: calligra_semanticitem_event\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-11-09 11:24+0100\n"
-"PO-Revision-Date: 2014-11-29 22:54-0800\n"
-"Last-Translator: Fumiaki Okushi <fumiaki.okushi@gmail.com>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: calligra\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
-"X-Generator: Lokalize 1.5\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6 stable6
 #: KoEventSemanticItemFactory.cpp:31
@@ -127,93 +124,3 @@ msgstr "カレンダーからイベントをインポート"
 #, kde-format
 msgid "Export event to iCal file..."
 msgstr "イベントを iCal ファイルにエクスポート"
-
-#, fuzzy
-#~| msgid "Select a calendar for saving:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Select a calendar for saving:"
-#~ msgstr "選択したカレンダーに保存:"
-
-#, fuzzy
-#~| msgid ""
-#~| "Could not add entry\n"
-#~| "%1"
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "Could not add entry\n"
-#~ "%1"
-#~ msgstr ""
-#~ "エントリの追加ができませんでした\n"
-#~ "%1"
-
-#, fuzzy
-#~| msgid ""
-#~| "Could not save iCal file\n"
-#~| "%1"
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "Could not save iCal file\n"
-#~ "%1"
-#~ msgstr ""
-#~ "iCal ファイルに保存できませんでした\n"
-#~ "%1"
-
-#, fuzzy
-#~| msgid "Calendar Event"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Calendar Event"
-#~ msgstr "イベントの日程"
-
-#, fuzzy
-#~| msgid "Edit..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Edit..."
-#~ msgstr "編集..."
-
-#, fuzzy
-#~| msgid "Import event to Calendar"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Import event to Calendar"
-#~ msgstr "カレンダーからイベントをインポート"
-
-#, fuzzy
-#~| msgid "Export event to iCal file..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Export event to iCal file..."
-#~ msgstr "イベントを iCal ファイルにエクスポート"
-
-#, fuzzy
-#~| msgid "&Summary:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "&Summary:"
-#~ msgstr "要約(&S):"
-
-#, fuzzy
-#~| msgid "&Location:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "&Location:"
-#~ msgstr "場所(&L):"
-
-#, fuzzy
-#~| msgid "&Start:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "&Start:"
-#~ msgstr "開始(&S):"
-
-#, fuzzy
-#~| msgid "&End:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "&End:"
-#~ msgstr "終了(&N):"
-
-#, fuzzy
-#~| msgid "Time and Date"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Time and Date"
-#~ msgstr "時間と日にち"
-
-#, fuzzy
-#~| msgid "Timezone"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Timezone"
-#~ msgstr "タイムゾーン"

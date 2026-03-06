@@ -1,18 +1,13 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-11-09 11:24+0100\n"
-"PO-Revision-Date: 2016-01-06 01:07-0800\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: \n"
-"X-Text-Markup: \n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6 stable6
 #: braindump/plugins/quickstates/braindumpquickstates.json
@@ -39,35 +34,23 @@ msgid "OpenDocument Presentation file renderer"
 msgstr ""
 
 #. +> trunk6 stable6
-#: extras/okularodpgenerator/libokularGenerator_odp.json
-#: filters/stage/powerpoint/libokularGenerator_ppt.json
-#: filters/stage/pptx/libokularGenerator_pptx.json
+#: extras/okularodpgenerator/libokularGenerator_odp.json filters/stage/powerpoint/libokularGenerator_ppt.json filters/stage/pptx/libokularGenerator_pptx.json
 msgctxt "Copyright"
 msgid "Copyright 2010-2016 Sven Langkamp, Friedrich W. H. Kossebau"
 msgstr ""
 
 #. +> trunk6 stable6
-#: extras/okularodpgenerator/libokularGenerator_odp.json
-#: extras/okularodtgenerator/libokularGenerator_odt.json
-#: filters/stage/powerpoint/libokularGenerator_ppt.json
-#: filters/stage/pptx/libokularGenerator_pptx.json
-#: filters/words/docx/import/libokularGenerator_docx.json
-#: filters/words/msword-odf/libokularGenerator_doc.json
-#: filters/words/rtf/import/libokularGenerator_rtf.json
-#: filters/words/wordperfect/import/libokularGenerator_wpd.json
+#: extras/okularodpgenerator/libokularGenerator_odp.json extras/okularodtgenerator/libokularGenerator_odt.json filters/stage/powerpoint/libokularGenerator_ppt.json
+#: filters/stage/pptx/libokularGenerator_pptx.json filters/words/docx/import/libokularGenerator_docx.json filters/words/msword-odf/libokularGenerator_doc.json
+#: filters/words/rtf/import/libokularGenerator_rtf.json filters/words/wordperfect/import/libokularGenerator_wpd.json
 msgctxt "Authors Name"
 msgid "Sven Langkamp"
 msgstr ""
 
 #. +> trunk6 stable6
-#: extras/okularodpgenerator/libokularGenerator_odp.json
-#: extras/okularodtgenerator/libokularGenerator_odt.json
-#: filters/stage/powerpoint/libokularGenerator_ppt.json
-#: filters/stage/pptx/libokularGenerator_pptx.json
-#: filters/words/docx/import/libokularGenerator_docx.json
-#: filters/words/msword-odf/libokularGenerator_doc.json
-#: filters/words/rtf/import/libokularGenerator_rtf.json
-#: filters/words/wordperfect/import/libokularGenerator_wpd.json
+#: extras/okularodpgenerator/libokularGenerator_odp.json extras/okularodtgenerator/libokularGenerator_odt.json filters/stage/powerpoint/libokularGenerator_ppt.json
+#: filters/stage/pptx/libokularGenerator_pptx.json filters/words/docx/import/libokularGenerator_docx.json filters/words/msword-odf/libokularGenerator_doc.json
+#: filters/words/rtf/import/libokularGenerator_rtf.json filters/words/wordperfect/import/libokularGenerator_wpd.json
 msgctxt "Authors Name"
 msgid "Friedrich W. H. Kossebau"
 msgstr ""
@@ -85,11 +68,8 @@ msgid "OpenDocument Text file renderer"
 msgstr ""
 
 #. +> trunk6 stable6
-#: extras/okularodtgenerator/libokularGenerator_odt.json
-#: filters/words/docx/import/libokularGenerator_docx.json
-#: filters/words/msword-odf/libokularGenerator_doc.json
-#: filters/words/rtf/import/libokularGenerator_rtf.json
-#: filters/words/wordperfect/import/libokularGenerator_wpd.json
+#: extras/okularodtgenerator/libokularGenerator_odt.json filters/words/docx/import/libokularGenerator_docx.json filters/words/msword-odf/libokularGenerator_doc.json
+#: filters/words/rtf/import/libokularGenerator_rtf.json filters/words/wordperfect/import/libokularGenerator_wpd.json
 msgctxt "Copyright"
 msgid "Copyright 2012-2016 Sven Langkamp, Friedrich W. H. Kossebau"
 msgstr ""
@@ -113,8 +93,7 @@ msgid "OpenDocument, Microsoft Office Documents"
 msgstr ""
 
 #. +> trunk6 stable6
-#: filters/karbon/eps/calligra_filter_eps2svgai.json
-#: filters/karbon/eps/karbon_ps_import.json
+#: filters/karbon/eps/calligra_filter_eps2svgai.json filters/karbon/eps/karbon_ps_import.json
 msgctxt "Name"
 msgid "Karbon EPS Import Filter"
 msgstr ""
@@ -132,8 +111,7 @@ msgid "Karbon 1.x Import Filter"
 msgstr ""
 
 #. +> trunk6 stable6
-#: filters/karbon/pdf/calligra_filter_pdf2odg.json
-#: filters/karbon/pdf/calligra_filter_pdf2svg.json
+#: filters/karbon/pdf/calligra_filter_pdf2odg.json filters/karbon/pdf/calligra_filter_pdf2svg.json
 msgctxt "Name"
 msgid "Karbon PDF Import Filter"
 msgstr ""
@@ -187,8 +165,7 @@ msgid "Karbon XFig Import Filter"
 msgstr ""
 
 #. +> trunk6 stable6
-#: filters/odg/visio/import/calligra_filter_vsdx2odg.json
-#: filters/words/works/import/calligra_filter_wps2odt.json
+#: filters/odg/visio/import/calligra_filter_vsdx2odg.json filters/words/works/import/calligra_filter_wps2odt.json
 msgctxt "Name"
 msgid "Flow Visio Import Filter"
 msgstr ""
@@ -338,8 +315,7 @@ msgid "PPTX file renderer"
 msgstr ""
 
 #. +> trunk6 stable6
-#: filters/stage/pptx/okularPptx_calligra.json
-#: filters/words/msword-odf/okularDoc_calligra.json
+#: filters/stage/pptx/okularPptx_calligra.json filters/words/msword-odf/okularDoc_calligra.json
 msgctxt "Name"
 msgid "okular"
 msgstr ""
@@ -711,18 +687,9 @@ msgid "BITAND, BITOR, BITXOR, BITLSHIFT, BITRSHIFT"
 msgstr ""
 
 #. +> trunk6 stable6
-#: sheets/functions/kspreadbitopsmodule.json
-#: sheets/functions/kspreadconversionmodule.json
-#: sheets/functions/kspreaddatabasemodule.json
-#: sheets/functions/kspreaddatetimemodule.json
-#: sheets/functions/kspreadengineeringmodule.json
-#: sheets/functions/kspreadfinancialmodule.json
-#: sheets/functions/kspreadinformationmodule.json
-#: sheets/functions/kspreadlogicmodule.json
-#: sheets/functions/kspreadmathmodule.json
-#: sheets/functions/kspreadreferencemodule.json
-#: sheets/functions/kspreadstatisticalmodule.json
-#: sheets/functions/kspreadtextmodule.json
+#: sheets/functions/kspreadbitopsmodule.json sheets/functions/kspreadconversionmodule.json sheets/functions/kspreaddatabasemodule.json sheets/functions/kspreaddatetimemodule.json
+#: sheets/functions/kspreadengineeringmodule.json sheets/functions/kspreadfinancialmodule.json sheets/functions/kspreadinformationmodule.json sheets/functions/kspreadlogicmodule.json
+#: sheets/functions/kspreadmathmodule.json sheets/functions/kspreadreferencemodule.json sheets/functions/kspreadstatisticalmodule.json sheets/functions/kspreadtextmodule.json
 #: sheets/functions/kspreadtrigonometrymodule.json
 msgctxt "Authors Name"
 msgid "The KSpread Team"
@@ -737,9 +704,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: sheets/functions/kspreadconversionmodule.json
 msgctxt "Description"
-msgid ""
-"ARABIC, ASCIITOCHAR, BOOL2INT, BOOL2STRING, CARX, CARY, CHARTOASCII, DECSEX, "
-"INT2BOOL, NUM2STRING, POLA, POLR, ROMAN, SEXDEC, STRING"
+msgid "ARABIC, ASCIITOCHAR, BOOL2INT, BOOL2STRING, CARX, CARY, CHARTOASCII, DECSEX, INT2BOOL, NUM2STRING, POLA, POLR, ROMAN, SEXDEC, STRING"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -751,9 +716,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: sheets/functions/kspreaddatabasemodule.json
 msgctxt "Description"
-msgid ""
-"DAVERAGE, DCOUNT, DCOUNTA, DGET, DMAX, DMIN, DPRODUCT, DSTDEV, DSTDEVP, "
-"DSUM, DVAR, DVARP, GETPIVOTDATA"
+msgid "DAVERAGE, DCOUNT, DCOUNTA, DGET, DMAX, DMIN, DPRODUCT, DSTDEV, DSTDEVP, DSUM, DVAR, DVARP, GETPIVOTDATA"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -766,12 +729,9 @@ msgstr ""
 #: sheets/functions/kspreaddatetimemodule.json
 msgctxt "Description"
 msgid ""
-"CURRENTDATE, CURRENTDATETIME, CURRENTTIME, DATE, DATE2UNIX, DATEDIF, "
-"DATEVALUE, DAY, DAYNAME, DAYOFYEAR, DAYS, DAYS360, DAYSINMONTH, DAYSINYEAR, "
-"EASTERSUNDAY, EDATE, EOMONTH, HOUR, HOURS, ISLEAPYEAR, ISOWEEKNUM, MINUTE, "
-"MINUTES, MONTH, MONTHNAME, MONTHS, NETWORKDAY, NOW, SECOND, SECONDS, TIME, "
-"TIMEVALUE, TODAY, UNIX2DATE, WEEKDAY, WEEKNUM, WEEKS, WEEKSINYEAR, WORKDAY, "
-"YEAR, YEARFRAC, YEARS"
+"CURRENTDATE, CURRENTDATETIME, CURRENTTIME, DATE, DATE2UNIX, DATEDIF, DATEVALUE, DAY, DAYNAME, DAYOFYEAR, DAYS, DAYS360, DAYSINMONTH, DAYSINYEAR, EASTERSUNDAY, EDATE, EOMONTH, HOUR, HOURS, "
+"ISLEAPYEAR, ISOWEEKNUM, MINUTE, MINUTES, MONTH, MONTHNAME, MONTHS, NETWORKDAY, NOW, SECOND, SECONDS, TIME, TIMEVALUE, TODAY, UNIX2DATE, WEEKDAY, WEEKNUM, WEEKS, WEEKSINYEAR, WORKDAY, YEAR, YEARFRAC,"
+" YEARS"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -784,11 +744,8 @@ msgstr ""
 #: sheets/functions/kspreadengineeringmodule.json
 msgctxt "Description"
 msgid ""
-"BASE, BESSELI, BESSELJ, BESSELK, BESSELY, BIN2DEC, BIN2HEX, BIN2OCT, "
-"COMPLEX, CONVERT, DEC2BIN, DEC2HEX, DEC2OCT, DELTA, ERF, ERFC, GESTEP, "
-"HEX2BIN, HEX2DEC, HEX2OCT, IMABS, IMAGINARY, IMARGUMENT, IMCONJUGATE, IMCOS, "
-"IMCOSH, IMDIV, IMEXP, IMLN, IMLOG10, IMLOG2, IMPOWER, IMPRODUCT, IMREAL, "
-"IMSIN, IMSINH, IMSQRT, IMSUB, IMSUM, IMTAN, IMTANH, OCT2BIN, OCT2DEC, OCT2HEX"
+"BASE, BESSELI, BESSELJ, BESSELK, BESSELY, BIN2DEC, BIN2HEX, BIN2OCT, COMPLEX, CONVERT, DEC2BIN, DEC2HEX, DEC2OCT, DELTA, ERF, ERFC, GESTEP, HEX2BIN, HEX2DEC, HEX2OCT, IMABS, IMAGINARY, IMARGUMENT, "
+"IMCONJUGATE, IMCOS, IMCOSH, IMDIV, IMEXP, IMLN, IMLOG10, IMLOG2, IMPOWER, IMPRODUCT, IMREAL, IMSIN, IMSINH, IMSQRT, IMSUB, IMSUM, IMTAN, IMTANH, OCT2BIN, OCT2DEC, OCT2HEX"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -801,13 +758,9 @@ msgstr ""
 #: sheets/functions/kspreadfinancialmodule.json
 msgctxt "Description"
 msgid ""
-"ACCRINT, ACCRINTM, AMORDEGRC, AMORLINC, COMPOUND, CONTINUOUS, COUPNUM, "
-"CUMIPMT, CUMPRINC, DB, DDB, DISC, DOLLARDE, DOLLARFR, DURATION, "
-"DURATION_ADD, EFFECT, EFFECTIVE, EURO, EUROCONVERT, FV, FV_ANNUITY, INTRATE, "
-"IPMT, ISPMT, LEVEL_COUPON, MDURATION, MIRR, NOMINAL, NPER, NPV, ODDLPRICE, "
-"ODDLYIELD, PMT, PPMT, PRICEMAT, PV, PV_ANNUITY, RECEIVED, RRI, SLN, SYD, "
-"TBILLEQ, TBILLPRICE, TBILLYIELD, VDB, XIRR, XNPV, YIELDDISC, YIELDMAT, "
-"ZERO_COUPON"
+"ACCRINT, ACCRINTM, AMORDEGRC, AMORLINC, COMPOUND, CONTINUOUS, COUPNUM, CUMIPMT, CUMPRINC, DB, DDB, DISC, DOLLARDE, DOLLARFR, DURATION, DURATION_ADD, EFFECT, EFFECTIVE, EURO, EUROCONVERT, FV, "
+"FV_ANNUITY, INTRATE, IPMT, ISPMT, LEVEL_COUPON, MDURATION, MIRR, NOMINAL, NPER, NPV, ODDLPRICE, ODDLYIELD, PMT, PPMT, PRICEMAT, PV, PV_ANNUITY, RECEIVED, RRI, SLN, SYD, TBILLEQ, TBILLPRICE, "
+"TBILLYIELD, VDB, XIRR, XNPV, YIELDDISC, YIELDMAT, ZERO_COUPON"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -819,10 +772,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: sheets/functions/kspreadinformationmodule.json
 msgctxt "Description"
-msgid ""
-"ERRORTYPE, FILENAME, INFO, ISBLANK, ISDATE, ISERR, ISERROR, ISEVEN, "
-"ISLOGICAL, ISNA, ISNONTEXT, ISNOTTEXT, ISNUM, ISNUMBER, ISODD, ISREF, "
-"ISTEXT, ISTIME, N, NA, TYPE"
+msgid "ERRORTYPE, FILENAME, INFO, ISBLANK, ISDATE, ISERR, ISERROR, ISEVEN, ISLOGICAL, ISNA, ISNONTEXT, ISNOTTEXT, ISNUM, ISNUMBER, ISODD, ISREF, ISTEXT, ISTIME, N, NA, TYPE"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -847,14 +797,9 @@ msgstr ""
 #: sheets/functions/kspreadmathmodule.json
 msgctxt "Description"
 msgid ""
-"ABS, CEIL, CEILING, COUNT, COUNTA, COUNTBLANK, COUNTIF, CUR, DIV, EPS, EVEN, "
-"EXP, FACT, FACTDOUBLE, FIB, FLOOR, GAMMA, GCD, G_PRODUCT, INT, INV, "
-"KPRODUCT, LCM, LN, LOG, LOG10, LOG2, LOGN, MAX, MAXA, MDETERM, MIN, MINA, "
-"MINVERSE, MMULT, MOD, MROUND, MULTINOMIAL, MULTIPLY, MUNIT, ODD, POW, POWER, "
-"PRODUCT, QUOTIENT, RAND, RANDBERNOULLI, RANDBETWEEN, RANDBINOM, RANDEXP, "
-"RANDNEGBINOM, RANDNORM, RANDPOISSON, ROOTN, ROUND, ROUNDDOWN, ROUNDUP, "
-"SERIESSUM, SIGN, SQRT, SQRTPI, SUBTOTAL, SUM, SUMA, SUMIF, SUMSQ, TRANSPOSE, "
-"TRUNC"
+"ABS, CEIL, CEILING, COUNT, COUNTA, COUNTBLANK, COUNTIF, CUR, DIV, EPS, EVEN, EXP, FACT, FACTDOUBLE, FIB, FLOOR, GAMMA, GCD, G_PRODUCT, INT, INV, KPRODUCT, LCM, LN, LOG, LOG10, LOG2, LOGN, MAX, MAXA,"
+" MDETERM, MIN, MINA, MINVERSE, MMULT, MOD, MROUND, MULTINOMIAL, MULTIPLY, MUNIT, ODD, POW, POWER, PRODUCT, QUOTIENT, RAND, RANDBERNOULLI, RANDBETWEEN, RANDBINOM, RANDEXP, RANDNEGBINOM, RANDNORM, "
+"RANDPOISSON, ROOTN, ROUND, ROUNDDOWN, ROUNDUP, SERIESSUM, SIGN, SQRT, SQRTPI, SUBTOTAL, SUM, SUMA, SUMIF, SUMSQ, TRANSPOSE, TRUNC"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -866,9 +811,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: sheets/functions/kspreadreferencemodule.json
 msgctxt "Description"
-msgid ""
-"ADDRESS, AREAS, CHOOSE, COLUMN, COLUMNS, HLOOKUP, INDEX, INDIRECT, LOOKUP, "
-"MULTIPLE.OPERATIONS ROW, ROWS, VLOOKUP"
+msgid "ADDRESS, AREAS, CHOOSE, COLUMN, COLUMNS, HLOOKUP, INDEX, INDIRECT, LOOKUP, MULTIPLE.OPERATIONS ROW, ROWS, VLOOKUP"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -881,15 +824,10 @@ msgstr ""
 #: sheets/functions/kspreadstatisticalmodule.json
 msgctxt "Description"
 msgid ""
-"AVEDEV, AVERAGE, AVERAGEA, BETADIST, BETAINV, BINO, CHIDIST, COMBIN, "
-"COMBINA, CONFIDENCE, CORREL, COVAR, DEVSQ, EXPONDIST, FDIST, FINV, FISHER, "
-"FISHERINV, FREQUENCY, GAMMADIST, GAMMAINV, GAMMALN, GAUSS, GEOMEAN, HARMEAN, "
-"HYPGEOMDIST, INTERCEPT, INVBINO, KURT, KURTP, LARGE, LEGACYFDIST, LOGINV, "
-"LOGNORMDIST, MEDIAN, MODE, NEGBINOMDIST, NORMDIST, NORMINV, NORMSDIST, "
-"NORMSINV, PEARSON, PERMUT, PERMUTATIONA, PHI, POISSON, RANK, RSQ, SKEW, "
-"SKEWP, SLOPE, SMALL, STANDARDIZE, STDEV, STDEVA, STDEVP, STDEVPA, STEYX, "
-"SUM2XMY, SUMPRODUCT, SUMX2MY2, SUMX2PY2, SUMXMY2, TDIST, TREND, TRIMMEAN, "
-"TTEST, VAR, VARA, VARIANCE, VARP, VARPA, WEIBULL, ZTEST"
+"AVEDEV, AVERAGE, AVERAGEA, BETADIST, BETAINV, BINO, CHIDIST, COMBIN, COMBINA, CONFIDENCE, CORREL, COVAR, DEVSQ, EXPONDIST, FDIST, FINV, FISHER, FISHERINV, FREQUENCY, GAMMADIST, GAMMAINV, GAMMALN, "
+"GAUSS, GEOMEAN, HARMEAN, HYPGEOMDIST, INTERCEPT, INVBINO, KURT, KURTP, LARGE, LEGACYFDIST, LOGINV, LOGNORMDIST, MEDIAN, MODE, NEGBINOMDIST, NORMDIST, NORMINV, NORMSDIST, NORMSINV, PEARSON, PERMUT, "
+"PERMUTATIONA, PHI, POISSON, RANK, RSQ, SKEW, SKEWP, SLOPE, SMALL, STANDARDIZE, STDEV, STDEVA, STDEVP, STDEVPA, STEYX, SUM2XMY, SUMPRODUCT, SUMX2MY2, SUMX2PY2, SUMXMY2, TDIST, TREND, TRIMMEAN, TTEST,"
+" VAR, VARA, VARIANCE, VARP, VARPA, WEIBULL, ZTEST"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -902,10 +840,8 @@ msgstr ""
 #: sheets/functions/kspreadtextmodule.json
 msgctxt "Description"
 msgid ""
-"ASC, BAHTTEXT, CHAR, CLEAN, CODE, COMPARE, CONCATENATE, DOLLAR, EXACT, FIND, "
-"FIXED, JIS, LEFT, LEN, LOWER, MID, PROPER, REGEXP, REGEXPRE, REPLACE, REPT, "
-"RIGHT, ROT, SEARCH, SLEEK, SUBSTITUTE, T, TEXT, TOGGLE, TRIM, UNICHAR, "
-"UNICODE, UPPER, VALUE"
+"ASC, BAHTTEXT, CHAR, CLEAN, CODE, COMPARE, CONCATENATE, DOLLAR, EXACT, FIND, FIXED, JIS, LEFT, LEN, LOWER, MID, PROPER, REGEXP, REGEXPRE, REPLACE, REPT, RIGHT, ROT, SEARCH, SLEEK, SUBSTITUTE, T, "
+"TEXT, TOGGLE, TRIM, UNICHAR, UNICODE, UPPER, VALUE"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -917,9 +853,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: sheets/functions/kspreadtrigonometrymodule.json
 msgctxt "Description"
-msgid ""
-"ACOS, ACOSH, ACOT, ASIN, ASINH, ATAN, ATAN2, ATANH, COS, COSH, DEGREES, PI, "
-"RADIANS, SIN, SINH, TAN, TANH"
+msgid "ACOS, ACOSH, ACOT, ASIN, ASINH, ATAN, ATAN2, ATANH, COS, COSH, DEGREES, PI, RADIANS, SIN, SINH, TAN, TANH"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -953,8 +887,7 @@ msgid "Sheets Solver Plugin"
 msgstr ""
 
 #. +> trunk6 stable6
-#: sheets/shape/calligra_shape_spreadsheet-deferred.json
-#: sheets/shape/calligra_shape_spreadsheet.json
+#: sheets/shape/calligra_shape_spreadsheet-deferred.json sheets/shape/calligra_shape_spreadsheet.json
 msgctxt "Name"
 msgid "Spreadsheet Shape"
 msgstr ""

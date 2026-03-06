@@ -1,30 +1,23 @@
-# Translation of kspread_plugin_tool_calendar into Japanese.
-# Yukiko Bando <ybando@k6.dion.ne.jp>, 2009.
-# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2015.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the calligra package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: kspread_plugin_tool_calendar\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-11-09 11:24+0100\n"
-"PO-Revision-Date: 2015-04-25 16:38-0700\n"
-"Last-Translator: Fumiaki Okushi <fumiaki.okushi@gmail.com>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: calligra\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6 stable6
 #: CalendarTool.cpp:62
 #, kde-format
-msgid ""
-"End date is before start date! Please make sure that end date comes after "
-"start date."
-msgstr ""
-"終了日が開始日より前になっています。終了日は開始日より後に設定してください。"
+msgid "End date is before start date! Please make sure that end date comes after start date."
+msgstr "終了日が開始日より前になっています。終了日は開始日より後に設定してください。"
 
 #. +> trunk6 stable6
 #: CalendarTool.cpp:62 CalendarTool.cpp:69
@@ -35,21 +28,14 @@ msgstr "エラー"
 #. +> trunk6 stable6
 #: CalendarTool.cpp:68
 #, kde-format
-msgid ""
-"Calendars should not be longer than 10 years. If you really need such long "
-"periods you need to split them up."
-msgstr ""
-"10 年を超えるカレンダーは作成できません。本当にそのような長い期間のカレンダー"
-"が必要な場合は、いくつかに分割して作成してください。"
+msgid "Calendars should not be longer than 10 years. If you really need such long periods you need to split them up."
+msgstr "10 年を超えるカレンダーは作成できません。本当にそのような長い期間のカレンダーが必要な場合は、いくつかに分割して作成してください。"
 
 #. +> trunk6 stable6
 #: CalendarTool.cpp:76
 #, kde-format
-msgid ""
-"Start and end dates are equal! Only one day will be inserted, do you want to "
-"continue?"
-msgstr ""
-"開始日と終了日が同じです。1 日だけのカレンダーが挿入されます。続けますか？"
+msgid "Start and end dates are equal! Only one day will be inserted, do you want to continue?"
+msgstr "開始日と終了日が同じです。1 日だけのカレンダーが挿入されます。続けますか？"
 
 #. +> trunk6 stable6
 #: CalendarTool.cpp:77 CalendarTool.cpp:87 CalendarTool.cpp:111
@@ -60,24 +46,16 @@ msgstr "警告"
 #. +> trunk6 stable6
 #: CalendarTool.cpp:86
 #, kde-format
-msgid ""
-"Creating a calendar for a longer period than a year can take up a lot of "
-"space, do you want to continue?"
-msgstr ""
-"期間が 1 年以上のカレンダーを作成すると非常に場所を取ります。続けますか？"
+msgid "Creating a calendar for a longer period than a year can take up a lot of space, do you want to continue?"
+msgstr "期間が 1 年以上のカレンダーを作成すると非常に場所を取ります。続けますか？"
 
 #. +> trunk6 stable6
 #: CalendarTool.cpp:109
 #, kde-format
 msgid ""
-"The area where the calendar is inserted is NOT empty, are you sure you want "
-"to continue, overwriting existing data? If you choose No the area that would "
-"be required for the desired calendar will be selected so you can see what "
-"data would be overwritten."
-msgstr ""
-"カレンダーを挿入する範囲が空ではありません。カレンダーを挿入して既存のデータ"
-"を上書きしますか？「いいえ」を選択すると、カレンダーが挿入される範囲が表示さ"
-"れ、この操作によって上書きされるデータを確認することができます。"
+"The area where the calendar is inserted is NOT empty, are you sure you want to continue, overwriting existing data? If you choose No the area that would be required for the desired calendar will be "
+"selected so you can see what data would be overwritten."
+msgstr "カレンダーを挿入する範囲が空ではありません。カレンダーを挿入して既存のデータを上書きしますか？「いいえ」を選択すると、カレンダーが挿入される範囲が表示され、この操作によって上書きされるデータを確認することができます。"
 
 #. +> trunk6 stable6
 #: CalendarTool.cpp:120
@@ -130,123 +108,3 @@ msgstr "終了日:"
 #, kde-format
 msgid "Start date:"
 msgstr "開始日:"
-
-#, fuzzy
-#~| msgid ""
-#~| "End date is before start date! Please make sure that end date comes "
-#~| "after start date."
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "End date is before start date! Please make sure that end date comes after "
-#~ "start date."
-#~ msgstr ""
-#~ "終了日が開始日より前になっています。終了日は開始日より後に設定してくださ"
-#~ "い。"
-
-#, fuzzy
-#~| msgid "Error"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Error"
-#~ msgstr "エラー"
-
-#, fuzzy
-#~| msgid ""
-#~| "Calendars should not be longer than 10 years. If you really need such "
-#~| "long periods you need to split them up."
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "Calendars should not be longer than 10 years. If you really need such "
-#~ "long periods you need to split them up."
-#~ msgstr ""
-#~ "10 年を超えるカレンダーは作成できません。本当にそのような長い期間のカレン"
-#~ "ダーが必要な場合は、いくつかに分割して作成してください。"
-
-#, fuzzy
-#~| msgid ""
-#~| "Start and end dates are equal! Only one day will be inserted, do you "
-#~| "want to continue?"
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "Start and end dates are equal! Only one day will be inserted, do you want "
-#~ "to continue?"
-#~ msgstr ""
-#~ "開始日と終了日が同じです。1 日だけのカレンダーが挿入されます。続けますか？"
-
-#, fuzzy
-#~| msgid "Warning"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Warning"
-#~ msgstr "警告"
-
-#, fuzzy
-#~| msgid ""
-#~| "Creating a calendar for a longer period than a year can take up a lot of "
-#~| "space, do you want to continue?"
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "Creating a calendar for a longer period than a year can take up a lot of "
-#~ "space, do you want to continue?"
-#~ msgstr ""
-#~ "期間が 1 年以上のカレンダーを作成すると非常に場所を取ります。続けますか？"
-
-#, fuzzy
-#~| msgid ""
-#~| "The area where the calendar is inserted is NOT empty, are you sure you "
-#~| "want to continue, overwriting existing data? If you choose No the area "
-#~| "that would be required for the desired calendar will be selected so you "
-#~| "can see what data would be overwritten."
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "The area where the calendar is inserted is NOT empty, are you sure you "
-#~ "want to continue, overwriting existing data? If you choose No the area "
-#~ "that would be required for the desired calendar will be selected so you "
-#~ "can see what data would be overwritten."
-#~ msgstr ""
-#~ "カレンダーを挿入する範囲が空ではありません。カレンダーを挿入して既存のデー"
-#~ "タを上書きしますか？「いいえ」を選択すると、カレンダーが挿入される範囲が表"
-#~ "示され、この操作によって上書きされるデータを確認することができます。"
-
-#, fuzzy
-#~| msgid "Calendar from %1 to %2"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Calendar from %1 to %2"
-#~ msgstr "%1 から %2 までのカレンダー"
-
-#, fuzzy
-#~| msgid "week"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "week"
-#~ msgstr "週"
-
-#, fuzzy
-#~| msgid "Calendar"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Calendar"
-#~ msgstr "カレンダー"
-
-#, fuzzy
-#~| msgid "Calendar Tool"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Calendar Tool"
-#~ msgstr "カレンダー作成ツール"
-
-#, fuzzy
-#~| msgid "Insert"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert"
-#~ msgstr "挿入"
-
-#, fuzzy
-#~| msgid "Start date:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Start date:"
-#~ msgstr "開始日:"
-
-#, fuzzy
-#~| msgid "End date:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "End date:"
-#~ msgstr "終了日:"
-
-#~ msgid "Insert Calendar"
-#~ msgstr "カレンダーを挿入"

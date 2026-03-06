@@ -1,23 +1,17 @@
-# Translation of ChartShape into Japanese.
-# Yukiko Bando <ybando@k6.dion.ne.jp>, 2009.
-# Taiki Komoda <kom@kde.gr.jp>, 2010.
-# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2013, 2015.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the calligra package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: ChartShape\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-11-09 11:24+0100\n"
-"PO-Revision-Date: 2015-06-23 23:44-0700\n"
-"Last-Translator: Fumiaki Okushi <fumiaki.okushi@gmail.com>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: calligra\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
-"X-Generator: Lokalize 1.0\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6 stable6
 #, kde-format
@@ -58,10 +52,8 @@ msgid "Other-side"
 msgstr ""
 
 #. +> trunk6 stable6
-#: AxesConfigWidget.cpp:245 AxesConfigWidget.cpp:253 ChartTool.cpp:914
-#: DataSetConfigWidget.cpp:345
+#: AxesConfigWidget.cpp:245 AxesConfigWidget.cpp:253 ChartTool.cpp:914 DataSetConfigWidget.cpp:345
 #, fuzzy, kde-format
-#| msgid "Show Grid Lines"
 msgid "Axistitle"
 msgstr "グリッドを表示する"
 
@@ -69,7 +61,6 @@ msgstr "グリッドを表示する"
 #. +> trunk6 stable6
 #: AxesConfigWidget.ui:45
 #, fuzzy, kde-format
-#| msgid "Show Grid Lines"
 msgid "Show Axis"
 msgstr "グリッドを表示する"
 
@@ -84,7 +75,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: AxesConfigWidget.ui:65
 #, fuzzy, kde-format
-#| msgid "Labels"
 msgid "Show Labels"
 msgstr "ラベル"
 
@@ -99,7 +89,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: AxesConfigWidget.ui:81
 #, fuzzy, kde-format
-#| msgid "Show Grid Lines"
 msgid "Show Major Grid"
 msgstr "グリッドを表示する"
 
@@ -107,7 +96,6 @@ msgstr "グリッドを表示する"
 #. +> trunk6 stable6
 #: AxesConfigWidget.ui:88
 #, fuzzy, kde-format
-#| msgid "Show Grid Lines"
 msgid "Show Minor Grid"
 msgstr "グリッドを表示する"
 
@@ -116,34 +104,23 @@ msgstr "グリッドを表示する"
 #: AxesConfigWidget.ui:119
 #, kde-format
 msgid ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-"REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-"css\">\n"
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; font-"
-"weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-"size:8pt; font-weight:600;\">Bar Properties</span></p></body></html>"
+"</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:8pt; font-weight:600;\">Bar Properties</span></p></body></html>"
 msgstr ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-"REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-"css\">\n"
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; font-"
-"weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-"size:8pt; font-weight:600;\">棒のプロパティ</span></p></body></html>"
+"</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:8pt; font-weight:600;\">棒のプロパティ</span></p></body></html>"
 
 #. i18n: ectx: property (suffix), widget (QSpinBox, explodeFactor)
 #. i18n: ectx: property (suffix), widget (QSpinBox, gapBetweenBars)
 #. i18n: ectx: property (suffix), widget (QSpinBox, gapBetweenSets)
 #. +> trunk6 stable6
-#: AxesConfigWidget.ui:132 AxesConfigWidget.ui:174 PieConfigWidget.ui:39
-#: widgets/RingConfigWidget.ui:147
+#: AxesConfigWidget.ui:132 AxesConfigWidget.ui:174 PieConfigWidget.ui:39 widgets/RingConfigWidget.ui:147
 #, no-c-format, kde-format
 msgid "%"
 msgstr "%"
@@ -166,7 +143,6 @@ msgstr "棒間の間隔"
 #. +> trunk6 stable6
 #: AxesConfigWidget.ui:193
 #, fuzzy, kde-format
-#| msgid "Show Grid Lines"
 msgid "Show Title"
 msgstr "グリッドを表示する"
 
@@ -209,19 +185,14 @@ msgstr "プラグインがありません"
 #. +> trunk6 stable6
 #: ChartShape.cpp:299
 #, kde-format
-msgid ""
-"The plugin needed for displaying text labels in a chart is not available."
+msgid "The plugin needed for displaying text labels in a chart is not available."
 msgstr "グラフにテキストラベルを表示するために必要なプラグインがありません。"
 
 #. +> trunk6 stable6
 #: ChartShape.cpp:303
 #, kde-format
-msgid ""
-"The plugin needed for displaying text labels is not compatible with the "
-"current version of the chart Flake shape."
-msgstr ""
-"テキストラベルを表示するために必要なプラグインが、グラフ Flake シェイプのバー"
-"ジョンと非互換です。"
+msgid "The plugin needed for displaying text labels is not compatible with the current version of the chart Flake shape."
+msgstr "テキストラベルを表示するために必要なプラグインが、グラフ Flake シェイプのバージョンと非互換です。"
 
 #. +> trunk6 stable6
 #: ChartShape.cpp:304
@@ -292,8 +263,7 @@ msgid "Business charts"
 msgstr "ビジネス用グラフ"
 
 #. +> trunk6 stable6
-#: ChartShapeFactory.cpp:77 DataSetConfigWidget.cpp:199
-#: PlotAreaConfigWidget.cpp:230
+#: ChartShapeFactory.cpp:77 DataSetConfigWidget.cpp:199 PlotAreaConfigWidget.cpp:230
 #, kde-format
 msgid "Bar Chart"
 msgstr "棒グラフ"
@@ -301,41 +271,35 @@ msgstr "棒グラフ"
 #. +> trunk6 stable6
 #: ChartShapeFactory.cpp:78
 #, fuzzy, kde-format
-#| msgid "Polar Chart"
 msgid "Normal bar chart"
 msgstr "極グラフ"
 
 #. +> trunk6 stable6
 #: ChartShapeFactory.cpp:88
 #, fuzzy, kde-format
-#| msgid "Stock Chart"
 msgid "Stacked Bar Chart"
 msgstr "株価チャート"
 
 #. +> trunk6 stable6
 #: ChartShapeFactory.cpp:89
 #, fuzzy, kde-format
-#| msgid "Stock Chart"
 msgid "Stacked bar chart"
 msgstr "株価チャート"
 
 #. +> trunk6 stable6
 #: ChartShapeFactory.cpp:99
 #, fuzzy, kde-format
-#| msgid "Bar Chart"
 msgid "Percent Bar Chart"
 msgstr "棒グラフ"
 
 #. +> trunk6 stable6
 #: ChartShapeFactory.cpp:100
 #, fuzzy, kde-format
-#| msgid "Bar Chart"
 msgid "Percent bar chart"
 msgstr "棒グラフ"
 
 #. +> trunk6 stable6
-#: ChartShapeFactory.cpp:110 DataSetConfigWidget.cpp:204
-#: PlotAreaConfigWidget.cpp:236
+#: ChartShapeFactory.cpp:110 DataSetConfigWidget.cpp:204 PlotAreaConfigWidget.cpp:236
 #, kde-format
 msgid "Line Chart"
 msgstr "折れ線グラフ"
@@ -343,41 +307,35 @@ msgstr "折れ線グラフ"
 #. +> trunk6 stable6
 #: ChartShapeFactory.cpp:111
 #, fuzzy, kde-format
-#| msgid "Line Chart"
 msgid "Normal line chart"
 msgstr "折れ線グラフ"
 
 #. +> trunk6 stable6
 #: ChartShapeFactory.cpp:121
 #, fuzzy, kde-format
-#| msgid "Line Chart"
 msgid "Stacked Line Chart"
 msgstr "折れ線グラフ"
 
 #. +> trunk6 stable6
 #: ChartShapeFactory.cpp:122
 #, fuzzy, kde-format
-#| msgid "Line Chart"
 msgid "Stacked line chart"
 msgstr "折れ線グラフ"
 
 #. +> trunk6 stable6
 #: ChartShapeFactory.cpp:132
 #, fuzzy, kde-format
-#| msgid "Line Chart"
 msgid "Percent Line Chart"
 msgstr "折れ線グラフ"
 
 #. +> trunk6 stable6
 #: ChartShapeFactory.cpp:133
 #, fuzzy, kde-format
-#| msgid "Line Chart"
 msgid "Percent line chart"
 msgstr "折れ線グラフ"
 
 #. +> trunk6 stable6
-#: ChartShapeFactory.cpp:143 DataSetConfigWidget.cpp:209
-#: PlotAreaConfigWidget.cpp:242
+#: ChartShapeFactory.cpp:143 DataSetConfigWidget.cpp:209 PlotAreaConfigWidget.cpp:242
 #, kde-format
 msgid "Area Chart"
 msgstr "面グラフ"
@@ -385,41 +343,35 @@ msgstr "面グラフ"
 #. +> trunk6 stable6
 #: ChartShapeFactory.cpp:144
 #, fuzzy, kde-format
-#| msgid "Area Chart"
 msgid "Normal area chart"
 msgstr "面グラフ"
 
 #. +> trunk6 stable6
 #: ChartShapeFactory.cpp:154
 #, fuzzy, kde-format
-#| msgid "Area Chart"
 msgid "Stacked Area Chart"
 msgstr "面グラフ"
 
 #. +> trunk6 stable6
 #: ChartShapeFactory.cpp:155
 #, fuzzy, kde-format
-#| msgid "Area Chart"
 msgid "Stacked area chart"
 msgstr "面グラフ"
 
 #. +> trunk6 stable6
 #: ChartShapeFactory.cpp:165
 #, fuzzy, kde-format
-#| msgid "Area Chart"
 msgid "Percent Area Chart"
 msgstr "面グラフ"
 
 #. +> trunk6 stable6
 #: ChartShapeFactory.cpp:166
 #, fuzzy, kde-format
-#| msgid "Area Chart"
 msgid "Percent area chart"
 msgstr "面グラフ"
 
 #. +> trunk6 stable6
-#: ChartShapeFactory.cpp:176 DataSetConfigWidget.cpp:214
-#: PlotAreaConfigWidget.cpp:250
+#: ChartShapeFactory.cpp:176 DataSetConfigWidget.cpp:214 PlotAreaConfigWidget.cpp:250
 #, kde-format
 msgid "Pie Chart"
 msgstr "円グラフ"
@@ -427,13 +379,11 @@ msgstr "円グラフ"
 #. +> trunk6 stable6
 #: ChartShapeFactory.cpp:177
 #, fuzzy, kde-format
-#| msgid "Pie Chart"
 msgid "Pie chart"
 msgstr "円グラフ"
 
 #. +> trunk6 stable6
-#: ChartShapeFactory.cpp:187 DataSetConfigWidget.cpp:215
-#: PlotAreaConfigWidget.cpp:251
+#: ChartShapeFactory.cpp:187 DataSetConfigWidget.cpp:215 PlotAreaConfigWidget.cpp:251
 #, kde-format
 msgid "Ring Chart"
 msgstr "ドーナツグラフ"
@@ -441,13 +391,11 @@ msgstr "ドーナツグラフ"
 #. +> trunk6 stable6
 #: ChartShapeFactory.cpp:188
 #, fuzzy, kde-format
-#| msgid "Ring Chart"
 msgid "Ring chart"
 msgstr "ドーナツグラフ"
 
 #. +> trunk6 stable6
-#: ChartShapeFactory.cpp:198 DataSetConfigWidget.cpp:226
-#: PlotAreaConfigWidget.cpp:264
+#: ChartShapeFactory.cpp:198 DataSetConfigWidget.cpp:226 PlotAreaConfigWidget.cpp:264
 #, kde-format
 msgid "Bubble Chart"
 msgstr "バブルチャート"
@@ -455,13 +403,11 @@ msgstr "バブルチャート"
 #. +> trunk6 stable6
 #: ChartShapeFactory.cpp:199
 #, fuzzy, kde-format
-#| msgid "Bubble Chart"
 msgid "Bubble chart"
 msgstr "バブルチャート"
 
 #. +> trunk6 stable6
-#: ChartShapeFactory.cpp:209 DataSetConfigWidget.cpp:228
-#: PlotAreaConfigWidget.cpp:263
+#: ChartShapeFactory.cpp:209 DataSetConfigWidget.cpp:228 PlotAreaConfigWidget.cpp:263
 #, kde-format
 msgid "Scatter Chart"
 msgstr "散布図"
@@ -469,42 +415,36 @@ msgstr "散布図"
 #. +> trunk6 stable6
 #: ChartShapeFactory.cpp:210
 #, fuzzy, kde-format
-#| msgid "Scatter Chart"
 msgid "Scatter chart"
 msgstr "散布図"
 
 #. +> trunk6 stable6
 #: ChartShapeFactory.cpp:220
 #, fuzzy, kde-format
-#| msgid "Bar Chart"
 msgid "Radar Chart"
 msgstr "棒グラフ"
 
 #. +> trunk6 stable6
 #: ChartShapeFactory.cpp:221
 #, fuzzy, kde-format
-#| msgid "Bar Chart"
 msgid "Radar chart"
 msgstr "棒グラフ"
 
 #. +> trunk6 stable6
 #: ChartShapeFactory.cpp:231
 #, fuzzy, kde-format
-#| msgid "Polar Chart"
 msgid "Filled Radar Chart"
 msgstr "極グラフ"
 
 #. +> trunk6 stable6
 #: ChartShapeFactory.cpp:232
 #, fuzzy, kde-format
-#| msgid "Polar Chart"
 msgid "Filled radar chart"
 msgstr "極グラフ"
 
 #. +> trunk6 stable6
 #: ChartShapeFactory.cpp:242
 #, fuzzy, kde-format
-#| msgid "Stock Chart"
 msgid "Candle Stick Stock Chart"
 msgstr "株価チャート"
 
@@ -517,7 +457,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: ChartShapeFactory.cpp:253
 #, fuzzy, kde-format
-#| msgid "Stock Chart"
 msgid "OHLC Stock Chart"
 msgstr "株価チャート"
 
@@ -530,7 +469,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: ChartShapeFactory.cpp:264
 #, fuzzy, kde-format
-#| msgid "Stock Chart"
 msgid "HLC Stock Chart"
 msgstr "株価チャート"
 
@@ -541,33 +479,26 @@ msgid "High Low Close stock chart"
 msgstr ""
 
 #. +> trunk6 stable6
-#: ChartShapeFactory.cpp:358 ChartShapeFactory.cpp:548
-#: ChartShapeFactory.cpp:631
+#: ChartShapeFactory.cpp:358 ChartShapeFactory.cpp:548 ChartShapeFactory.cpp:631
 #, kde-format
 msgid "January"
 msgstr "1月"
 
 #. +> trunk6 stable6
-#: ChartShapeFactory.cpp:359 ChartShapeFactory.cpp:549
-#: ChartShapeFactory.cpp:632
+#: ChartShapeFactory.cpp:359 ChartShapeFactory.cpp:549 ChartShapeFactory.cpp:632
 #, kde-format
 msgid "July"
 msgstr "7月"
 
 #. +> trunk6 stable6
-#: ChartShapeFactory.cpp:360 ChartShapeFactory.cpp:550
-#: ChartShapeFactory.cpp:633
+#: ChartShapeFactory.cpp:360 ChartShapeFactory.cpp:550 ChartShapeFactory.cpp:633
 #, kde-format
 msgid "December"
 msgstr "12月"
 
 #. +> trunk6 stable6
-#: ChartShapeFactory.cpp:363 ChartShapeFactory.cpp:364
-#: ChartShapeFactory.cpp:365 ChartShapeFactory.cpp:366
-#: ChartShapeFactory.cpp:553 ChartShapeFactory.cpp:554
-#: ChartShapeFactory.cpp:555 ChartShapeFactory.cpp:556
-#: ChartShapeFactory.cpp:636 ChartShapeFactory.cpp:637
-#: dialogs/BubbleDataEditor.cpp:70 dialogs/ScatterDataEditor.cpp:75
+#: ChartShapeFactory.cpp:363 ChartShapeFactory.cpp:364 ChartShapeFactory.cpp:365 ChartShapeFactory.cpp:366 ChartShapeFactory.cpp:553 ChartShapeFactory.cpp:554 ChartShapeFactory.cpp:555
+#: ChartShapeFactory.cpp:556 ChartShapeFactory.cpp:636 ChartShapeFactory.cpp:637 dialogs/BubbleDataEditor.cpp:70 dialogs/ScatterDataEditor.cpp:75
 #, kde-format
 msgid "Column %1"
 msgstr "列 %1"
@@ -629,7 +560,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: ChartShapeFactory.cpp:581
 #, fuzzy, kde-format
-#| msgid "Growth in %"
 msgid "Growth"
 msgstr "伸び率"
 
@@ -648,7 +578,6 @@ msgstr "他の何かをする"
 #. +> trunk6 stable6
 #: ChartTool.cpp:269
 #, fuzzy, kde-format
-#| msgid "Title"
 msgid "Titles"
 msgstr "タイトル"
 
@@ -667,7 +596,6 @@ msgstr "プロット領域"
 #. +> trunk6 stable6
 #: ChartTool.cpp:1061
 #, fuzzy
-#| msgid "Show Legend"
 msgctxt "(qtundo-format)"
 msgid "Show Legend"
 msgstr "凡例を表示する"
@@ -675,7 +603,6 @@ msgstr "凡例を表示する"
 #. +> trunk6 stable6
 #: ChartTool.cpp:1063
 #, fuzzy
-#| msgid "Legend"
 msgctxt "(qtundo-format)"
 msgid "Hide Legend"
 msgstr "凡例"
@@ -689,7 +616,6 @@ msgstr "グラフ編集"
 #. +> trunk6 stable6
 #: commands/AddRemoveAxisCommand.cpp:37
 #, fuzzy
-#| msgid "Attached Axis"
 msgctxt "(qtundo-format)"
 msgid "Add Axis"
 msgstr "追加された軸"
@@ -697,7 +623,6 @@ msgstr "追加された軸"
 #. +> trunk6 stable6
 #: commands/AddRemoveAxisCommand.cpp:40
 #, fuzzy
-#| msgid "New Axis"
 msgctxt "(qtundo-format)"
 msgid "Remove Axis"
 msgstr "新しい軸"
@@ -705,7 +630,6 @@ msgstr "新しい軸"
 #. +> trunk6 stable6
 #: commands/AxisCommand.cpp:111
 #, fuzzy
-#| msgid "Show Grid Lines"
 msgctxt "(qtundo-format)"
 msgid "Show Axis Title"
 msgstr "グリッドを表示する"
@@ -719,7 +643,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: commands/AxisCommand.cpp:138
 #, fuzzy
-#| msgid "Show Grid Lines"
 msgctxt "(qtundo-format)"
 msgid "Show Axis"
 msgstr "グリッドを表示する"
@@ -727,7 +650,6 @@ msgstr "グリッドを表示する"
 #. +> trunk6 stable6
 #: commands/AxisCommand.cpp:140
 #, fuzzy
-#| msgid "Attached Axis"
 msgctxt "(qtundo-format)"
 msgid "Hide Axis"
 msgstr "追加された軸"
@@ -735,7 +657,6 @@ msgstr "追加された軸"
 #. +> trunk6 stable6
 #: commands/AxisCommand.cpp:149
 #, fuzzy
-#| msgid "Labels"
 msgctxt "(qtundo-format)"
 msgid "Show Axis Labels"
 msgstr "ラベル"
@@ -743,7 +664,6 @@ msgstr "ラベル"
 #. +> trunk6 stable6
 #: commands/AxisCommand.cpp:151
 #, fuzzy
-#| msgid "Attached Axis"
 msgctxt "(qtundo-format)"
 msgid "Hide Axis Labels"
 msgstr "追加された軸"
@@ -751,7 +671,6 @@ msgstr "追加された軸"
 #. +> trunk6 stable6
 #: commands/AxisCommand.cpp:160
 #, fuzzy
-#| msgid "Show Grid Lines"
 msgctxt "(qtundo-format)"
 msgid "Show Axis Major Gridlines"
 msgstr "グリッドを表示する"
@@ -759,7 +678,6 @@ msgstr "グリッドを表示する"
 #. +> trunk6 stable6
 #: commands/AxisCommand.cpp:162
 #, fuzzy
-#| msgid "Show Grid Lines"
 msgctxt "(qtundo-format)"
 msgid "Hide Axis Major Gridlines"
 msgstr "グリッドを表示する"
@@ -767,7 +685,6 @@ msgstr "グリッドを表示する"
 #. +> trunk6 stable6
 #: commands/AxisCommand.cpp:171
 #, fuzzy
-#| msgid "Show Grid Lines"
 msgctxt "(qtundo-format)"
 msgid "Show Axis Minor Gridlines"
 msgstr "グリッドを表示する"
@@ -775,7 +692,6 @@ msgstr "グリッドを表示する"
 #. +> trunk6 stable6
 #: commands/AxisCommand.cpp:173
 #, fuzzy
-#| msgid "Show Grid Lines"
 msgctxt "(qtundo-format)"
 msgid "Hide Axis Minor Gridlines"
 msgstr "グリッドを表示する"
@@ -795,7 +711,6 @@ msgstr "線形目盛り"
 #. +> trunk6 stable6
 #: commands/AxisCommand.cpp:192
 #, fuzzy
-#| msgid "Step Width:"
 msgctxt "(qtundo-format)"
 msgid "Set Axis Step Width"
 msgstr "目盛りの幅:"
@@ -803,7 +718,6 @@ msgstr "目盛りの幅:"
 #. +> trunk6 stable6
 #: commands/AxisCommand.cpp:199
 #, fuzzy
-#| msgid "Substep Width:"
 msgctxt "(qtundo-format)"
 msgid "Set Axis Substep Width"
 msgstr "補助目盛りの幅:"
@@ -817,7 +731,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: commands/AxisCommand.cpp:209
 #, fuzzy
-#| msgid "Substep Width:"
 msgctxt "(qtundo-format)"
 msgid "Set Manual Step Width"
 msgstr "補助目盛りの幅:"
@@ -825,7 +738,6 @@ msgstr "補助目盛りの幅:"
 #. +> trunk6 stable6
 #: commands/AxisCommand.cpp:218
 #, fuzzy
-#| msgid "Substep Width:"
 msgctxt "(qtundo-format)"
 msgid "Automatic Substep Width"
 msgstr "補助目盛りの幅:"
@@ -833,7 +745,6 @@ msgstr "補助目盛りの幅:"
 #. +> trunk6 stable6
 #: commands/AxisCommand.cpp:220
 #, fuzzy
-#| msgid "Substep Width:"
 msgctxt "(qtundo-format)"
 msgid "Manual Substep Width"
 msgstr "補助目盛りの幅:"
@@ -847,7 +758,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: commands/AxisCommand.cpp:234
 #, fuzzy
-#| msgid "Positive"
 msgctxt "(qtundo-format)"
 msgid "Set Axis Position"
 msgstr "正値"
@@ -855,7 +765,6 @@ msgstr "正値"
 #. +> trunk6 stable6
 #: commands/AxisCommand.cpp:255
 #, fuzzy
-#| msgid "Substep Width:"
 msgctxt "(qtundo-format)"
 msgid "Set Axis Labels Position"
 msgstr "補助目盛りの幅:"
@@ -875,7 +784,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: commands/ChartTypeCommand.cpp:75
 #, fuzzy
-#| msgid "Polar Chart"
 msgctxt "(qtundo-format)"
 msgid "Normal Bar Chart"
 msgstr "極グラフ"
@@ -883,7 +791,6 @@ msgstr "極グラフ"
 #. +> trunk6 stable6
 #: commands/ChartTypeCommand.cpp:78
 #, fuzzy
-#| msgid "Stock Chart"
 msgctxt "(qtundo-format)"
 msgid "Stacked Bar Chart"
 msgstr "株価チャート"
@@ -891,7 +798,6 @@ msgstr "株価チャート"
 #. +> trunk6 stable6
 #: commands/ChartTypeCommand.cpp:81
 #, fuzzy
-#| msgid "Bar Chart"
 msgctxt "(qtundo-format)"
 msgid "Percent Bar Chart"
 msgstr "棒グラフ"
@@ -899,7 +805,6 @@ msgstr "棒グラフ"
 #. +> trunk6 stable6
 #: commands/ChartTypeCommand.cpp:90
 #, fuzzy
-#| msgid "Line Chart"
 msgctxt "(qtundo-format)"
 msgid "Normal Line Chart"
 msgstr "折れ線グラフ"
@@ -907,7 +812,6 @@ msgstr "折れ線グラフ"
 #. +> trunk6 stable6
 #: commands/ChartTypeCommand.cpp:93
 #, fuzzy
-#| msgid "Line Chart"
 msgctxt "(qtundo-format)"
 msgid "Stacked Line Chart"
 msgstr "折れ線グラフ"
@@ -915,7 +819,6 @@ msgstr "折れ線グラフ"
 #. +> trunk6 stable6
 #: commands/ChartTypeCommand.cpp:96
 #, fuzzy
-#| msgid "Line Chart"
 msgctxt "(qtundo-format)"
 msgid "Percent Line Chart"
 msgstr "折れ線グラフ"
@@ -923,7 +826,6 @@ msgstr "折れ線グラフ"
 #. +> trunk6 stable6
 #: commands/ChartTypeCommand.cpp:105
 #, fuzzy
-#| msgid "Area Chart"
 msgctxt "(qtundo-format)"
 msgid "Normal Area Chart"
 msgstr "面グラフ"
@@ -931,7 +833,6 @@ msgstr "面グラフ"
 #. +> trunk6 stable6
 #: commands/ChartTypeCommand.cpp:108
 #, fuzzy
-#| msgid "Area Chart"
 msgctxt "(qtundo-format)"
 msgid "Stacked Area Chart"
 msgstr "面グラフ"
@@ -939,7 +840,6 @@ msgstr "面グラフ"
 #. +> trunk6 stable6
 #: commands/ChartTypeCommand.cpp:111
 #, fuzzy
-#| msgid "Area Chart"
 msgctxt "(qtundo-format)"
 msgid "Percent Area Chart"
 msgstr "面グラフ"
@@ -947,7 +847,6 @@ msgstr "面グラフ"
 #. +> trunk6 stable6
 #: commands/ChartTypeCommand.cpp:118
 #, fuzzy
-#| msgid "Pie Chart"
 msgctxt "(qtundo-format)"
 msgid "Circle Chart"
 msgstr "円グラフ"
@@ -955,7 +854,6 @@ msgstr "円グラフ"
 #. +> trunk6 stable6
 #: commands/ChartTypeCommand.cpp:121
 #, fuzzy
-#| msgid "Ring Chart"
 msgctxt "(qtundo-format)"
 msgid "Ring Chart"
 msgstr "ドーナツグラフ"
@@ -963,7 +861,6 @@ msgstr "ドーナツグラフ"
 #. +> trunk6 stable6
 #: commands/ChartTypeCommand.cpp:124
 #, fuzzy
-#| msgid "Scatter Chart"
 msgctxt "(qtundo-format)"
 msgid "Scatter Chart"
 msgstr "散布図"
@@ -971,7 +868,6 @@ msgstr "散布図"
 #. +> trunk6 stable6
 #: commands/ChartTypeCommand.cpp:127
 #, fuzzy
-#| msgid "Bar Chart"
 msgctxt "(qtundo-format)"
 msgid "Radar Chart"
 msgstr "棒グラフ"
@@ -979,7 +875,6 @@ msgstr "棒グラフ"
 #. +> trunk6 stable6
 #: commands/ChartTypeCommand.cpp:130
 #, fuzzy
-#| msgid "Polar Chart"
 msgctxt "(qtundo-format)"
 msgid "Filled Radar Chart"
 msgstr "極グラフ"
@@ -987,7 +882,6 @@ msgstr "極グラフ"
 #. +> trunk6 stable6
 #: commands/ChartTypeCommand.cpp:133
 #, fuzzy
-#| msgid "Stock Chart"
 msgctxt "(qtundo-format)"
 msgid "Stock Chart"
 msgstr "株価チャート"
@@ -995,7 +889,6 @@ msgstr "株価チャート"
 #. +> trunk6 stable6
 #: commands/ChartTypeCommand.cpp:136
 #, fuzzy
-#| msgid "Bubble Chart"
 msgctxt "(qtundo-format)"
 msgid "Bubble Chart"
 msgstr "バブルチャート"
@@ -1003,7 +896,6 @@ msgstr "バブルチャート"
 #. +> trunk6 stable6
 #: commands/ChartTypeCommand.cpp:139
 #, fuzzy
-#| msgid "Surface Chart"
 msgctxt "(qtundo-format)"
 msgid "Surface Chart"
 msgstr "表面グラフ"
@@ -1011,7 +903,6 @@ msgstr "表面グラフ"
 #. +> trunk6 stable6
 #: commands/ChartTypeCommand.cpp:142
 #, fuzzy
-#| msgid "Gantt Chart"
 msgctxt "(qtundo-format)"
 msgid "Gantt Chart"
 msgstr "ガントチャート"
@@ -1085,7 +976,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: commands/DatasetCommand.cpp:202
 #, fuzzy
-#| msgid "Data Set %1"
 msgctxt "(qtundo-format)"
 msgid "Hide Dataset Marker"
 msgstr "データセット %1"
@@ -1099,7 +989,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: commands/DatasetCommand.cpp:212
 #, fuzzy
-#| msgid "Attached Axis"
 msgctxt "(qtundo-format)"
 msgid "Set Dataset Axis"
 msgstr "追加された軸"
@@ -1107,7 +996,6 @@ msgstr "追加された軸"
 #. +> trunk6 stable6
 #: commands/GapCommand.cpp:58
 #, fuzzy
-#| msgid "Gap Between Bars"
 msgctxt "(qtundo-format)"
 msgid "Set Gap Between Bars"
 msgstr "棒間の間隔"
@@ -1115,7 +1003,6 @@ msgstr "棒間の間隔"
 #. +> trunk6 stable6
 #: commands/GapCommand.cpp:65
 #, fuzzy
-#| msgid "Gap Between Sets"
 msgctxt "(qtundo-format)"
 msgid "Set Gap Between Sets"
 msgstr "セット間の間隔"
@@ -1129,7 +1016,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: commands/LegendCommand.cpp:81
 #, fuzzy
-#| msgid "Show Legend"
 msgctxt "(qtundo-format)"
 msgid "Set Legend Font"
 msgstr "凡例を表示する"
@@ -1143,7 +1029,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: commands/LegendCommand.cpp:95
 #, fuzzy
-#| msgid "Orientation"
 msgctxt "(qtundo-format)"
 msgid "Set Legend Orientation"
 msgstr "方向"
@@ -1169,23 +1054,18 @@ msgstr "級数 %1"
 #. +> trunk6 stable6
 #: DataSetConfigWidget.cpp:194 PlotAreaConfigWidget.cpp:226
 #, fuzzy, kde-format
-#| msgid "Chart Tool"
 msgid "Chart Type"
 msgstr "グラフツール"
 
 #. +> trunk6 stable6
-#: DataSetConfigWidget.cpp:200 DataSetConfigWidget.cpp:205
-#: DataSetConfigWidget.cpp:210 DataSetConfigWidget.cpp:218
-#: PlotAreaConfigWidget.cpp:231 PlotAreaConfigWidget.cpp:237
+#: DataSetConfigWidget.cpp:200 DataSetConfigWidget.cpp:205 DataSetConfigWidget.cpp:210 DataSetConfigWidget.cpp:218 PlotAreaConfigWidget.cpp:231 PlotAreaConfigWidget.cpp:237
 #: PlotAreaConfigWidget.cpp:243 PlotAreaConfigWidget.cpp:257
 #, kde-format
 msgid "Normal"
 msgstr "普通"
 
 #. +> trunk6 stable6
-#: DataSetConfigWidget.cpp:201 DataSetConfigWidget.cpp:206
-#: DataSetConfigWidget.cpp:211 PlotAreaConfigWidget.cpp:232
-#: PlotAreaConfigWidget.cpp:238 PlotAreaConfigWidget.cpp:244
+#: DataSetConfigWidget.cpp:201 DataSetConfigWidget.cpp:206 DataSetConfigWidget.cpp:211 PlotAreaConfigWidget.cpp:232 PlotAreaConfigWidget.cpp:238 PlotAreaConfigWidget.cpp:244
 #, kde-format
 msgid "Stacked"
 msgstr "積み重ね"
@@ -1194,11 +1074,8 @@ msgstr "積み重ね"
 #. i18n: ectx: property (text), widget (QCheckBox, datasetShowPercent)
 #. i18n: ectx: property (text), widget (QCheckBox, dataSetShowPercent)
 #. +> trunk6 stable6
-#: DataSetConfigWidget.cpp:202 DataSetConfigWidget.cpp:207
-#: DataSetConfigWidget.cpp:212 DataSetConfigWidget.ui:245
-#: PieConfigWidget.ui:189 PlotAreaConfigWidget.cpp:233
-#: PlotAreaConfigWidget.cpp:239 PlotAreaConfigWidget.cpp:245
-#: widgets/RadarDataSetConfigWidget.ui:166 widgets/RingConfigWidget.ui:120
+#: DataSetConfigWidget.cpp:202 DataSetConfigWidget.cpp:207 DataSetConfigWidget.cpp:212 DataSetConfigWidget.ui:245 PieConfigWidget.ui:189 PlotAreaConfigWidget.cpp:233 PlotAreaConfigWidget.cpp:239
+#: PlotAreaConfigWidget.cpp:245 widgets/RadarDataSetConfigWidget.ui:166 widgets/RingConfigWidget.ui:120
 #, kde-format
 msgid "Percent"
 msgstr "パーセント"
@@ -1241,9 +1118,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, errorType)
 #. +> trunk6 stable6
-#: DataSetConfigWidget.cpp:242 DataSetConfigWidget.cpp:379
-#: dialogs/FormatErrorBarDialog.ui:89 widgets/RadarDataSetConfigWidget.cpp:82
-#: widgets/RadarDataSetConfigWidget.cpp:180
+#: DataSetConfigWidget.cpp:242 DataSetConfigWidget.cpp:379 dialogs/FormatErrorBarDialog.ui:89 widgets/RadarDataSetConfigWidget.cpp:82 widgets/RadarDataSetConfigWidget.cpp:180
 #, kde-format
 msgid "None"
 msgstr ""
@@ -1251,8 +1126,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, automaticStepWidth)
 #. i18n: ectx: property (text), widget (QCheckBox, automaticSubStepWidth)
 #. +> trunk6 stable6
-#: DataSetConfigWidget.cpp:243 dialogs/AxisScalingDialog.ui:49
-#: dialogs/AxisScalingDialog.ui:85 widgets/RadarDataSetConfigWidget.cpp:83
+#: DataSetConfigWidget.cpp:243 dialogs/AxisScalingDialog.ui:49 dialogs/AxisScalingDialog.ui:85 widgets/RadarDataSetConfigWidget.cpp:83
 #, kde-format
 msgid "Automatic"
 msgstr "自動"
@@ -1270,19 +1144,14 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (QComboBox, footerPositioning)
 #. i18n: ectx: property (text), item, widget (QComboBox, footerResize)
 #. +> trunk6 stable6
-#: DataSetConfigWidget.cpp:388 TitlesConfigWidget.ui:52
-#: TitlesConfigWidget.ui:66 TitlesConfigWidget.ui:93 TitlesConfigWidget.ui:107
-#: TitlesConfigWidget.ui:134 TitlesConfigWidget.ui:148
+#: DataSetConfigWidget.cpp:388 TitlesConfigWidget.ui:52 TitlesConfigWidget.ui:66 TitlesConfigWidget.ui:93 TitlesConfigWidget.ui:107 TitlesConfigWidget.ui:134 TitlesConfigWidget.ui:148
 #: widgets/RadarDataSetConfigWidget.cpp:189
 #, fuzzy, kde-format
-#| msgid "Automatic"
 msgid "Auto"
 msgstr "自動"
 
 #. +> trunk6 stable6
-#: DataSetConfigWidget.cpp:651 PlotAreaConfigWidget.cpp:625
-#: PlotAreaConfigWidget.cpp:675 PlotAreaConfigWidget.cpp:851
-#: widgets/RadarDataSetConfigWidget.cpp:295
+#: DataSetConfigWidget.cpp:651 PlotAreaConfigWidget.cpp:625 PlotAreaConfigWidget.cpp:675 PlotAreaConfigWidget.cpp:851 widgets/RadarDataSetConfigWidget.cpp:295
 #, kde-format
 msgid "Data Set %1"
 msgstr "データセット %1"
@@ -1305,31 +1174,26 @@ msgstr ""
 #. +> trunk6 stable6
 #: DataSetConfigWidget.ui:78
 #, fuzzy, kde-format
-#| msgid "Attached Axis"
 msgid "Attach To Axis"
 msgstr "追加された軸"
 
 #. i18n: ectx: property (text), widget (QLabel, datasetPenLabel)
 #. +> trunk6 stable6
-#: DataSetConfigWidget.ui:112 PieConfigWidget.ui:56
-#: widgets/RadarDataSetConfigWidget.ui:33 widgets/RingConfigWidget.ui:28
+#: DataSetConfigWidget.ui:112 PieConfigWidget.ui:56 widgets/RadarDataSetConfigWidget.ui:33 widgets/RingConfigWidget.ui:28
 #, fuzzy, kde-format
-#| msgid "Stacked"
 msgid "Stroke"
 msgstr "積み重ね"
 
 #. i18n: ectx: property (text), widget (QLabel, datasetColorLabel)
 #. +> trunk6 stable6
-#: DataSetConfigWidget.ui:153 PieConfigWidget.ui:97
-#: widgets/RadarDataSetConfigWidget.ui:74 widgets/RingConfigWidget.ui:69
+#: DataSetConfigWidget.ui:153 PieConfigWidget.ui:97 widgets/RadarDataSetConfigWidget.ui:74 widgets/RingConfigWidget.ui:69
 #, kde-format
 msgid "Fill"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, datasetMarkerLabel)
 #. +> trunk6 stable6
-#: DataSetConfigWidget.ui:201 PieConfigWidget.ui:145
-#: widgets/RadarDataSetConfigWidget.ui:122
+#: DataSetConfigWidget.ui:201 PieConfigWidget.ui:145 widgets/RadarDataSetConfigWidget.ui:122
 #, kde-format
 msgid "Marker"
 msgstr ""
@@ -1338,9 +1202,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, datasetShowCategory)
 #. i18n: ectx: property (text), widget (QCheckBox, dataSetShowCategory)
 #. +> trunk6 stable6
-#: DataSetConfigWidget.ui:231 dialogs/PieDataEditor.cpp:35
-#: PieConfigWidget.ui:175 widgets/RadarDataSetConfigWidget.ui:152
-#: widgets/RingConfigWidget.ui:106
+#: DataSetConfigWidget.ui:231 dialogs/PieDataEditor.cpp:35 PieConfigWidget.ui:175 widgets/RadarDataSetConfigWidget.ui:152 widgets/RingConfigWidget.ui:106
 #, kde-format
 msgid "Category"
 msgstr "カテゴリ"
@@ -1348,8 +1210,7 @@ msgstr "カテゴリ"
 #. i18n: ectx: property (text), widget (QCheckBox, dataPointShowNumber)
 #. i18n: ectx: property (text), widget (QCheckBox, dataSetShowNumber)
 #. +> trunk6 stable6
-#: DataSetConfigWidget.ui:238 PieConfigWidget.ui:182
-#: widgets/RadarDataSetConfigWidget.ui:159 widgets/RingConfigWidget.ui:113
+#: DataSetConfigWidget.ui:238 PieConfigWidget.ui:182 widgets/RadarDataSetConfigWidget.ui:159 widgets/RingConfigWidget.ui:113
 #, kde-format
 msgid "Number"
 msgstr ""
@@ -1364,8 +1225,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QPushButton, insertRow)
 #. i18n: ectx: property (text), widget (QToolButton, formatErrorBar)
 #. +> trunk6 stable6
-#: DataSetConfigWidget.ui:312 dialogs/PieDataEditor.cpp:64
-#: dialogs/PieDataEditor.ui:33
+#: DataSetConfigWidget.ui:312 dialogs/PieDataEditor.cpp:64 dialogs/PieDataEditor.ui:33
 #, kde-format
 msgid "Insert"
 msgstr "挿入"
@@ -1402,46 +1262,37 @@ msgstr "補助目盛りの幅:"
 #. +> trunk6 stable6
 #: dialogs/BubbleDataEditor.cpp:108
 #, fuzzy, kde-format
-#| msgid "Bubble Chart"
 msgid "Bubble Data Editor"
 msgstr "バブルチャート"
 
 #. +> trunk6 stable6
 #: dialogs/BubbleDataEditor.cpp:114 dialogs/ScatterDataEditor.cpp:121
 #, fuzzy, kde-format
-#| msgid "Insert Columns"
 msgid "Insert Column Before"
 msgstr "列を挿入"
 
 #. +> trunk6 stable6
 #: dialogs/BubbleDataEditor.cpp:115 dialogs/ScatterDataEditor.cpp:122
 #, fuzzy, kde-format
-#| msgid "Insert Columns"
 msgid "Insert Column After"
 msgstr "列を挿入"
 
 #. +> trunk6 stable6
-#: dialogs/BubbleDataEditor.cpp:116 dialogs/ScatterDataEditor.cpp:123
-#: dialogs/StockDataEditor.cpp:98
+#: dialogs/BubbleDataEditor.cpp:116 dialogs/ScatterDataEditor.cpp:123 dialogs/StockDataEditor.cpp:98
 #, fuzzy, kde-format
-#| msgid "Insert Rows"
 msgid "Insert Row Above"
 msgstr "行を挿入"
 
 #. +> trunk6 stable6
-#: dialogs/BubbleDataEditor.cpp:117 dialogs/ScatterDataEditor.cpp:124
-#: dialogs/StockDataEditor.cpp:99
+#: dialogs/BubbleDataEditor.cpp:117 dialogs/ScatterDataEditor.cpp:124 dialogs/StockDataEditor.cpp:99
 #, fuzzy, kde-format
-#| msgid "Insert Rows"
 msgid "Insert Row Below"
 msgstr "行を挿入"
 
 #. i18n: ectx: property (text), widget (QPushButton, deleteSelection)
 #. +> trunk6 stable6
-#: dialogs/BubbleDataEditor.cpp:118 dialogs/PieDataEditor.cpp:65
-#: dialogs/PieDataEditor.ui:46 dialogs/ScatterDataEditor.cpp:125
+#: dialogs/BubbleDataEditor.cpp:118 dialogs/PieDataEditor.cpp:65 dialogs/PieDataEditor.ui:46 dialogs/ScatterDataEditor.cpp:125
 #, fuzzy, kde-format
-#| msgid "Delete Rows"
 msgid "Delete"
 msgstr "行を削除"
 
@@ -1450,15 +1301,13 @@ msgstr "行を削除"
 #. +> trunk6 stable6
 #: dialogs/BubbleDataEditor.ui:26 dialogs/ScatterDataEditor.ui:26
 #, fuzzy, kde-format
-#| msgid "Bubble Chart"
 msgid "Bubbles Editor"
 msgstr "バブルチャート"
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, insertColumnBefore)
 #. i18n: ectx: property (toolTip), widget (QToolButton, insertColumnLeft)
 #. +> trunk6 stable6
-#: dialogs/BubbleDataEditor.ui:39 dialogs/ChartTableEditor.ui:78
-#: dialogs/ScatterDataEditor.ui:39
+#: dialogs/BubbleDataEditor.ui:39 dialogs/ChartTableEditor.ui:78 dialogs/ScatterDataEditor.ui:39
 #, kde-format
 msgid "Insert data column before selected column"
 msgstr ""
@@ -1473,33 +1322,24 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QToolButton, insertColumnLeft)
 #. i18n: ectx: property (text), widget (QToolButton, insertColumnRight)
 #. +> trunk6 stable6
-#: dialogs/BubbleDataEditor.ui:42 dialogs/BubbleDataEditor.ui:62
-#: dialogs/BubbleDataEditor.ui:82 dialogs/BubbleDataEditor.ui:102
-#: dialogs/BubbleDataEditor.ui:122 dialogs/BubbleDataEditor.ui:215
-#: dialogs/BubbleDataEditor.ui:235 dialogs/ChartTableEditor.ui:55
-#: dialogs/ChartTableEditor.ui:68 dialogs/ChartTableEditor.ui:81
-#: dialogs/ChartTableEditor.ui:94 dialogs/ChartTableEditor.ui:107
-#: dialogs/ScatterDataEditor.ui:42 dialogs/ScatterDataEditor.ui:62
-#: dialogs/ScatterDataEditor.ui:82 dialogs/ScatterDataEditor.ui:102
-#: dialogs/ScatterDataEditor.ui:122 dialogs/ScatterDataEditor.ui:215
-#: dialogs/ScatterDataEditor.ui:235 dialogs/StockDataEditor.ui:42
-#: dialogs/StockDataEditor.ui:61 dialogs/StockDataEditor.ui:80
+#: dialogs/BubbleDataEditor.ui:42 dialogs/BubbleDataEditor.ui:62 dialogs/BubbleDataEditor.ui:82 dialogs/BubbleDataEditor.ui:102 dialogs/BubbleDataEditor.ui:122 dialogs/BubbleDataEditor.ui:215
+#: dialogs/BubbleDataEditor.ui:235 dialogs/ChartTableEditor.ui:55 dialogs/ChartTableEditor.ui:68 dialogs/ChartTableEditor.ui:81 dialogs/ChartTableEditor.ui:94 dialogs/ChartTableEditor.ui:107
+#: dialogs/ScatterDataEditor.ui:42 dialogs/ScatterDataEditor.ui:62 dialogs/ScatterDataEditor.ui:82 dialogs/ScatterDataEditor.ui:102 dialogs/ScatterDataEditor.ui:122 dialogs/ScatterDataEditor.ui:215
+#: dialogs/ScatterDataEditor.ui:235 dialogs/StockDataEditor.ui:42 dialogs/StockDataEditor.ui:61 dialogs/StockDataEditor.ui:80
 #, kde-format
 msgid "..."
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, insertRowBelow)
 #. +> trunk6 stable6
-#: dialogs/BubbleDataEditor.ui:59 dialogs/ChartTableEditor.ui:52
-#: dialogs/ScatterDataEditor.ui:59 dialogs/StockDataEditor.ui:39
+#: dialogs/BubbleDataEditor.ui:59 dialogs/ChartTableEditor.ui:52 dialogs/ScatterDataEditor.ui:59 dialogs/StockDataEditor.ui:39
 #, kde-format
 msgid "Insert data row below selected row"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, insertRowAbove)
 #. +> trunk6 stable6
-#: dialogs/BubbleDataEditor.ui:79 dialogs/ChartTableEditor.ui:65
-#: dialogs/ScatterDataEditor.ui:79 dialogs/StockDataEditor.ui:58
+#: dialogs/BubbleDataEditor.ui:79 dialogs/ChartTableEditor.ui:65 dialogs/ScatterDataEditor.ui:79 dialogs/StockDataEditor.ui:58
 #, kde-format
 msgid "Insert data row above selected row"
 msgstr ""
@@ -1507,18 +1347,15 @@ msgstr ""
 #. i18n: ectx: property (toolTip), widget (QToolButton, insertColumnAfter)
 #. i18n: ectx: property (toolTip), widget (QToolButton, insertColumnRight)
 #. +> trunk6 stable6
-#: dialogs/BubbleDataEditor.ui:99 dialogs/ChartTableEditor.ui:91
-#: dialogs/ScatterDataEditor.ui:99
+#: dialogs/BubbleDataEditor.ui:99 dialogs/ChartTableEditor.ui:91 dialogs/ScatterDataEditor.ui:99
 #, kde-format
 msgid "Insert data column after selected column"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, deleteSelection)
 #. +> trunk6 stable6
-#: dialogs/BubbleDataEditor.ui:119 dialogs/ChartTableEditor.ui:104
-#: dialogs/ScatterDataEditor.ui:119
+#: dialogs/BubbleDataEditor.ui:119 dialogs/ChartTableEditor.ui:104 dialogs/ScatterDataEditor.ui:119
 #, fuzzy, kde-format
-#| msgid "Delete Cells"
 msgid "Delete selection"
 msgstr "セルを削除"
 
@@ -1538,12 +1375,9 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, manualControl)
 #. i18n: ectx: property (text), item, widget (QComboBox, legendPosition)
 #. +> trunk6 stable6
-#: dialogs/BubbleDataEditor.ui:182 dialogs/ScatterDataEditor.ui:182
-#: LegendConfigWidget.ui:92 TitlesConfigWidget.ui:57 TitlesConfigWidget.ui:71
-#: TitlesConfigWidget.ui:98 TitlesConfigWidget.ui:112 TitlesConfigWidget.ui:139
-#: TitlesConfigWidget.ui:153
+#: dialogs/BubbleDataEditor.ui:182 dialogs/ScatterDataEditor.ui:182 LegendConfigWidget.ui:92 TitlesConfigWidget.ui:57 TitlesConfigWidget.ui:71 TitlesConfigWidget.ui:98 TitlesConfigWidget.ui:112
+#: TitlesConfigWidget.ui:139 TitlesConfigWidget.ui:153
 #, fuzzy, kde-format
-#| msgid "January"
 msgid "Manual"
 msgstr "1月"
 
@@ -1551,90 +1385,72 @@ msgstr "1月"
 #. +> trunk6 stable6
 #: dialogs/BubbleDataEditor.ui:192 dialogs/ScatterDataEditor.ui:192
 #, fuzzy, kde-format
-#| msgid "Select a data set"
 msgid "Remove data set"
 msgstr "データセットを選択します"
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, addDataSetAfter)
 #. i18n: ectx: property (toolTip), widget (QToolButton, addDataSetBefore)
 #. +> trunk6 stable6
-#: dialogs/BubbleDataEditor.ui:212 dialogs/BubbleDataEditor.ui:232
-#: dialogs/ScatterDataEditor.ui:212 dialogs/ScatterDataEditor.ui:232
+#: dialogs/BubbleDataEditor.ui:212 dialogs/BubbleDataEditor.ui:232 dialogs/ScatterDataEditor.ui:212 dialogs/ScatterDataEditor.ui:232
 #, kde-format
 msgid "Add data set after selected data set"
 msgstr ""
 
 #. +> trunk6 stable6
-#: dialogs/BubbleDataSetTableModel.cpp:103
-#: dialogs/ScatterDataSetTableModel.cpp:103
+#: dialogs/BubbleDataSetTableModel.cpp:103 dialogs/ScatterDataSetTableModel.cpp:103
 #, fuzzy, kde-format
-#| msgid "Data Set %1"
 msgid "Dataset Name"
 msgstr "データセット %1"
 
 #. +> trunk6 stable6
-#: dialogs/BubbleDataSetTableModel.cpp:105
-#: dialogs/ScatterDataSetTableModel.cpp:105
+#: dialogs/BubbleDataSetTableModel.cpp:105 dialogs/ScatterDataSetTableModel.cpp:105
 #, fuzzy, kde-format
-#| msgid "X Values:"
 msgid "X-Values"
 msgstr "X 値:"
 
 #. +> trunk6 stable6
-#: dialogs/BubbleDataSetTableModel.cpp:107
-#: dialogs/ScatterDataSetTableModel.cpp:107
+#: dialogs/BubbleDataSetTableModel.cpp:107 dialogs/ScatterDataSetTableModel.cpp:107
 #, fuzzy, kde-format
-#| msgid "Y Values:"
 msgid "Y-Values"
 msgstr "Y 値:"
 
 #. +> trunk6 stable6
 #: dialogs/BubbleDataSetTableModel.cpp:109
 #, fuzzy, kde-format
-#| msgid "Bubble Chart"
 msgid "Bubble Size"
 msgstr "バブルチャート"
 
 #. +> trunk6 stable6
-#: dialogs/BubbleDataSetTableModel.cpp:149
-#: dialogs/ScatterDataSetTableModel.cpp:144
+#: dialogs/BubbleDataSetTableModel.cpp:149 dialogs/ScatterDataSetTableModel.cpp:144
 #, fuzzy, kde-format
-#| msgid "Label"
 msgctxt "@info:tooltip"
 msgid "Label: %1"
 msgstr "ラベル"
 
 #. +> trunk6 stable6
-#: dialogs/BubbleDataSetTableModel.cpp:151
-#: dialogs/ScatterDataSetTableModel.cpp:146
+#: dialogs/BubbleDataSetTableModel.cpp:151 dialogs/ScatterDataSetTableModel.cpp:146
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Default label: %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: dialogs/BubbleDataSetTableModel.cpp:156
-#: dialogs/ScatterDataSetTableModel.cpp:151
+#: dialogs/BubbleDataSetTableModel.cpp:156 dialogs/ScatterDataSetTableModel.cpp:151
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "X-Values cell region: %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: dialogs/BubbleDataSetTableModel.cpp:158
-#: dialogs/BubbleDataSetTableModel.cpp:165
-#: dialogs/BubbleDataSetTableModel.cpp:172
-#: dialogs/ScatterDataSetTableModel.cpp:153
+#: dialogs/BubbleDataSetTableModel.cpp:158 dialogs/BubbleDataSetTableModel.cpp:165 dialogs/BubbleDataSetTableModel.cpp:172 dialogs/ScatterDataSetTableModel.cpp:153
 #: dialogs/ScatterDataSetTableModel.cpp:160
 #, fuzzy, kde-format
-#| msgid "Data Values"
 msgctxt "@info:tooltip"
 msgid "Default values used"
 msgstr "データの値"
 
 #. +> trunk6 stable6
-#: dialogs/BubbleDataSetTableModel.cpp:163
-#: dialogs/ScatterDataSetTableModel.cpp:158
+#: dialogs/BubbleDataSetTableModel.cpp:163 dialogs/ScatterDataSetTableModel.cpp:158
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Y-Values cell region: %1"
@@ -1680,23 +1496,17 @@ msgstr "カテゴリ:"
 #: dialogs/CellRegionDialog.ui:96
 #, kde-format
 msgid ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-"REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-"css\">\n"
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; font-"
-"weight:400; font-style:normal;\">\n"
-"<p align=\"right\" style=\" margin-top:0px; margin-bottom:0px; margin-"
-"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
-"style=\" font-weight:600;\">Name:</span></p></body></html>"
+"</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"right\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-weight:600;\">Name:</span></p></body></html>"
 msgstr "名前:"
 
 #. i18n: ectx: property (windowTitle), widget (QDialog, ChartTableEditor)
 #. +> trunk6 stable6
 #: dialogs/ChartTableEditor.ui:14
 #, fuzzy, kde-format
-#| msgid "Bubble Chart"
 msgid "Data Editor"
 msgstr "バブルチャート"
 
@@ -1704,7 +1514,6 @@ msgstr "バブルチャート"
 #. +> trunk6 stable6
 #: dialogs/ChartTableEditor.ui:29
 #, fuzzy, kde-format
-#| msgid "Data sets in rows"
 msgid "&Data sets in rows"
 msgstr "1 行が 1 つのデータセット"
 
@@ -1712,7 +1521,6 @@ msgstr "1 行が 1 つのデータセット"
 #. +> trunk6 stable6
 #: dialogs/ChartTableEditor.ui:36
 #, fuzzy, kde-format
-#| msgid "Data sets in columns"
 msgid "Data sets in &columns"
 msgstr "1 列が 1 つのデータセット"
 
@@ -1733,31 +1541,13 @@ msgstr ""
 #. +> trunk6 stable6
 #: dialogs/FormatErrorBarDialog.ui:69
 #, fuzzy, kde-format
-#| msgid ""
-#| "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-#| "REC-html40/strict.dtd\">\n"
-#| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#| "css\">\n"
-#| "p, li { white-space: pre-wrap; }\n"
-#| "</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; "
-#| "font-weight:400; font-style:normal;\">\n"
-#| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#| "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#| "size:8pt; font-weight:600;\">Axes</span></p></body></html>"
 msgid ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-"REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-"css\">\n"
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:'Ubuntu'; font-size:9pt; font-"
-"weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-"weight:600;\">Error Category</span></p>\n"
-"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-"
-"weight:600;\"></p></body></html>"
+"</style></head><body style=\" font-family:'Ubuntu'; font-size:9pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-weight:600;\">Error Category</span></p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-weight:600;\"></p></body></html>"
 msgstr "軸"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, errorType)
@@ -1842,28 +1632,12 @@ msgstr " %"
 #. +> trunk6 stable6
 #: dialogs/FormatErrorBarDialog.ui:303
 #, fuzzy, kde-format
-#| msgid ""
-#| "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-#| "REC-html40/strict.dtd\">\n"
-#| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#| "css\">\n"
-#| "p, li { white-space: pre-wrap; }\n"
-#| "</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; "
-#| "font-weight:400; font-style:normal;\">\n"
-#| "<p align=\"right\" style=\" margin-top:0px; margin-bottom:0px; margin-"
-#| "left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
-#| "style=\" font-weight:600;\">Name:</span></p></body></html>"
 msgid ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-"REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-"css\">\n"
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:'Ubuntu'; font-size:9pt; font-"
-"weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-"weight:600;\">Error Indicator</span></p></body></html>"
+"</style></head><body style=\" font-family:'Ubuntu'; font-size:9pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-weight:600;\">Error Indicator</span></p></body></html>"
 msgstr "名前:"
 
 #. i18n: ectx: property (text), widget (QRadioButton, posIndicator)
@@ -1932,7 +1706,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: dialogs/ScatterDataEditor.cpp:115
 #, fuzzy, kde-format
-#| msgid "Bubble Chart"
 msgid "Scatter Data Editor"
 msgstr "バブルチャート"
 
@@ -1940,14 +1713,12 @@ msgstr "バブルチャート"
 #. +> trunk6 stable6
 #: dialogs/StockDataEditor.cpp:90 dialogs/StockDataEditor.ui:26
 #, fuzzy, kde-format
-#| msgid "Bubble Chart"
 msgid "Stock Data Editor"
 msgstr "バブルチャート"
 
 #. +> trunk6 stable6
 #: dialogs/StockDataEditor.cpp:100
 #, fuzzy, kde-format
-#| msgid "Delete Rows"
 msgid "Delete Row"
 msgstr "行を削除"
 
@@ -1955,42 +1726,36 @@ msgstr "行を削除"
 #. +> trunk6 stable6
 #: dialogs/StockDataEditor.ui:77
 #, fuzzy, kde-format
-#| msgid "Delete Rows"
 msgid "Delete row"
 msgstr "行を削除"
 
 #. +> trunk6 stable6
 #: dialogs/TableEditorDialog.cpp:56
 #, fuzzy, kde-format
-#| msgid "Insert Rows"
 msgid "Insert Above"
 msgstr "行を挿入"
 
 #. +> trunk6 stable6
 #: dialogs/TableEditorDialog.cpp:57
 #, fuzzy, kde-format
-#| msgid "Insert Rows"
 msgid "Insert Below"
 msgstr "行を挿入"
 
 #. +> trunk6 stable6
 #: dialogs/TableEditorDialog.cpp:58
 #, fuzzy, kde-format
-#| msgid "Insert Columns"
 msgid "Insert Before"
 msgstr "列を挿入"
 
 #. +> trunk6 stable6
 #: dialogs/TableEditorDialog.cpp:59
 #, fuzzy, kde-format
-#| msgid "Insert Columns"
 msgid "Insert After"
 msgstr "列を挿入"
 
 #. +> trunk6 stable6
 #: dialogs/TableEditorDialog.cpp:60
 #, fuzzy, kde-format
-#| msgid "Delete Cells"
 msgid "Delete Selection"
 msgstr "セルを削除"
 
@@ -2003,7 +1768,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: dialogs/TableEditorDialog.cpp:212 dialogs/TableEditorDialog.cpp:236
 #, fuzzy, kde-format
-#| msgid "Insert Columns"
 msgid "New Column"
 msgstr "列を挿入"
 
@@ -2074,7 +1838,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: LegendConfigWidget.ui:82
 #, fuzzy, kde-format
-#| msgid "Bottom"
 msgid "Bottom-left"
 msgstr "下"
 
@@ -2082,7 +1845,6 @@ msgstr "下"
 #. +> trunk6 stable6
 #: LegendConfigWidget.ui:87
 #, fuzzy, kde-format
-#| msgid "Bottom"
 msgid "Bottom-right"
 msgstr "下"
 
@@ -2090,7 +1852,6 @@ msgstr "下"
 #. +> trunk6 stable6
 #: LegendConfigWidget.ui:100
 #, fuzzy, kde-format
-#| msgid "Positive"
 msgid "Position"
 msgstr "正値"
 
@@ -2112,14 +1873,12 @@ msgstr "方向"
 #. +> trunk6 stable6
 #: LegendConfigWidget.ui:147
 #, fuzzy, kde-format
-#| msgid "Edit Fonts..."
 msgid "Fonts..."
 msgstr "フォントを編集..."
 
 #. +> trunk6 stable6
 #: PieConfigWidget.cpp:98
 #, fuzzy, kde-format
-#| msgid "Data Set %1"
 msgid "Data Point %1"
 msgstr "データセット %1"
 
@@ -2127,7 +1886,6 @@ msgstr "データセット %1"
 #. +> trunk6 stable6
 #: PieConfigWidget.ui:29 widgets/RingConfigWidget.ui:137
 #, fuzzy, kde-format
-#| msgid "Explode Factor"
 msgid "E&xplode Factor"
 msgstr "爆発の係数"
 
@@ -2183,8 +1941,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, label_5)
 #. i18n: ectx: property (text), widget (QLabel, label)
 #. +> trunk6 stable6
-#: PlotAreaConfigWidget.ui:111 PlotAreaConfigWidget.ui:218
-#: widgets/RingConfigWidget.ui:171
+#: PlotAreaConfigWidget.ui:111 PlotAreaConfigWidget.ui:218 widgets/RingConfigWidget.ui:171
 #, kde-format
 msgid "Data Sets"
 msgstr "データセット"
@@ -2193,7 +1950,6 @@ msgstr "データセット"
 #. +> trunk6 stable6
 #: PlotAreaConfigWidget.ui:131
 #, fuzzy, kde-format
-#| msgid "Data Sets"
 msgid "Data Points"
 msgstr "データセット"
 
@@ -2222,7 +1978,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: TitlesConfigWidget.ui:18
 #, fuzzy, kde-format
-#| msgid "Positive"
 msgid "Positioning"
 msgstr "正値"
 
@@ -2237,7 +1992,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: widgets/RingConfigWidget.ui:18
 #, fuzzy, kde-format
-#| msgid "Categories:"
 msgid "Categories"
 msgstr "カテゴリ:"
 
@@ -2294,986 +2048,3 @@ msgstr ""
 #, kde-format
 msgid "Change the color of the line"
 msgstr ""
-
-#, fuzzy
-#~| msgid "Show Grid Lines"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Show Axis Gridlines"
-#~ msgstr "グリッドを表示する"
-
-#, fuzzy
-#~| msgid "Show Legend"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Show Legend Frame"
-#~ msgstr "凡例を表示する"
-
-#~ msgid "Data Format"
-#~ msgstr "データの形式"
-
-#~ msgid "Data sets in rows"
-#~ msgstr "1 行が 1 つのデータセット"
-
-#~ msgid "Data sets in columns"
-#~ msgstr "1 列が 1 つのデータセット"
-
-#~ msgid "Actions"
-#~ msgstr "アクション"
-
-#~ msgid "Insert Rows"
-#~ msgstr "行を挿入"
-
-#~ msgid "Delete Rows"
-#~ msgstr "行を削除"
-
-#~ msgid "Insert Columns"
-#~ msgstr "列を挿入"
-
-#~ msgid "Delete Columns"
-#~ msgstr "列を削除"
-
-#~ msgid "Data Ranges..."
-#~ msgstr "データ範囲..."
-
-#~ msgid "Axis %1"
-#~ msgstr "軸 %1"
-
-#~ msgid ""
-#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-#~ "REC-html40/strict.dtd\">\n"
-#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~ "css\">\n"
-#~ "p, li { white-space: pre-wrap; }\n"
-#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; "
-#~ "font-weight:400; font-style:normal;\">\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;\"><span "
-#~ "style=\" font-weight:600;\">Labels</span></p></body></html>"
-#~ msgstr "ラベル"
-
-#~ msgid ""
-#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-#~ "REC-html40/strict.dtd\">\n"
-#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~ "css\">\n"
-#~ "p, li { white-space: pre-wrap; }\n"
-#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; "
-#~ "font-weight:400; font-style:normal;\">\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~ "size:8pt; font-weight:600;\">Axes</span></p></body></html>"
-#~ msgstr "軸"
-
-#~ msgid "Label"
-#~ msgstr "ラベル"
-
-#~ msgid "Show Grid Lines"
-#~ msgstr "グリッドを表示する"
-
-#~ msgid "Scaling..."
-#~ msgstr "目盛り..."
-
-#~ msgid "Edit Fonts..."
-#~ msgstr "フォントを編集..."
-
-#~ msgid "Custom Type"
-#~ msgstr "カスタムタイプ"
-
-#~ msgid "Explode Factor"
-#~ msgstr "爆発の係数"
-
-#, fuzzy
-#~| msgid ""
-#~| "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/"
-#~| "TR/REC-html40/strict.dtd\">\n"
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; "
-#~| "font-weight:400; font-style:normal;\">\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~| "size:8pt; font-weight:600;\">Pie Properties</span></p></body></html>"
-#~ msgid ""
-#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-#~ "REC-html40/strict.dtd\">\n"
-#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~ "css\">\n"
-#~ "p, li { white-space: pre-wrap; }\n"
-#~ "</style></head><body style=\" font-family:'Ubuntu'; font-size:9pt; font-"
-#~ "weight:400; font-style:normal;\">\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~ "family:'Sans Serif'; font-size:8pt; font-weight:600;\">Pie Properties</"
-#~ "span></p></body></html>"
-#~ msgstr "パイのプロパティ"
-
-#~ msgid "Attached Axis"
-#~ msgstr "追加された軸"
-
-#~ msgid "Show Frame"
-#~ msgstr "枠を表示する"
-
-#~ msgid "v"
-#~ msgstr "垂直"
-
-#~ msgid "h"
-#~ msgstr "水平"
-
-#, fuzzy
-#~| msgid "Bar Chart"
-#~ msgid "Bar chart"
-#~ msgstr "棒グラフ"
-
-#, fuzzy
-#~| msgid "Line Chart"
-#~ msgid "Line chart"
-#~ msgstr "折れ線グラフ"
-
-#, fuzzy
-#~| msgid "Area Chart"
-#~ msgid "Area chart"
-#~ msgstr "面グラフ"
-
-#, fuzzy
-#~| msgid "Plot Area"
-#~ msgid "Area"
-#~ msgstr "プロット領域"
-
-#, fuzzy
-#~| msgid "Bar Chart"
-#~ msgid "Radar"
-#~ msgstr "棒グラフ"
-
-#, fuzzy
-#~| msgid "Scatter Chart"
-#~ msgid "Scatter"
-#~ msgstr "散布図"
-
-#, fuzzy
-#~| msgid "Bubble Chart"
-#~ msgid "Bubbles"
-#~ msgstr "バブルチャート"
-
-#, fuzzy
-#~| msgid "Stock Chart"
-#~ msgid "Stock HLC"
-#~ msgstr "株価チャート"
-
-#, fuzzy
-#~| msgid ""
-#~| "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/"
-#~| "TR/REC-html40/strict.dtd\">\n"
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; "
-#~| "font-weight:400; font-style:normal;\">\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~| "size:8pt; font-weight:600;\">Pie Properties</span></p></body></html>"
-#~ msgid ""
-#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-#~ "REC-html40/strict.dtd\">\n"
-#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~ "css\">\n"
-#~ "p, li { white-space: pre-wrap; }\n"
-#~ "</style></head><body style=\" font-family:'Noto Sans'; font-size:10pt; "
-#~ "font-weight:400; font-style:normal;\">\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~ "family:'Sans Serif'; font-size:8pt; font-weight:600;\">Chart Titles</"
-#~ "span></p></body></html>"
-#~ msgstr "パイのプロパティ"
-
-#, fuzzy
-#~| msgid "Edit Fonts..."
-#~ msgid "Edit Label Fonts..."
-#~ msgstr "フォントを編集..."
-
-#~ msgid ""
-#~ "Are you sure you want to remove this axis? All settings specific to this "
-#~ "axis will be lost."
-#~ msgstr "本当にこの軸を削除しますか？この軸の固有設定はすべて失われます。"
-
-#~ msgid "Axis Removal Confirmation"
-#~ msgstr "軸の削除の確認"
-
-#, fuzzy
-#~| msgid "Dialog"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Dialog"
-#~ msgstr "ダイアログ"
-
-#, fuzzy
-#~| msgid "Step Width:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Step Width:"
-#~ msgstr "目盛りの幅:"
-
-#, fuzzy
-#~| msgid "Substep Width:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Substep Width:"
-#~ msgstr "補助目盛りの幅:"
-
-#, fuzzy
-#~| msgid ""
-#~| "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/"
-#~| "TR/REC-html40/strict.dtd\">\n"
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; "
-#~| "font-weight:400; font-style:normal;\">\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~| "size:8pt; font-weight:600;\">Axes</span></p></body></html>"
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-#~ "REC-html40/strict.dtd\">\n"
-#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~ "css\">\n"
-#~ "p, li { white-space: pre-wrap; }\n"
-#~ "</style></head><body style=\" font-family:'Ubuntu'; font-size:9pt; font-"
-#~ "weight:400; font-style:normal;\">\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~ "weight:600;\">Error Category</span></p>\n"
-#~ "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
-#~ "font-weight:600;\"></p></body></html>"
-#~ msgstr "軸"
-
-#, fuzzy
-#~| msgid "Percentage"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Percentage"
-#~ msgstr "パーセント"
-
-#, fuzzy
-#~| msgid "From Data table"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "From Data table"
-#~ msgstr "データテーブルから"
-
-#, fuzzy
-#~| msgid "Positive "
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Positive "
-#~ msgstr "正値"
-
-#, fuzzy
-#~| msgid "Negative"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Negative"
-#~ msgstr "負値"
-
-#, fuzzy
-#~| msgid "Value"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Value"
-#~ msgstr "値"
-
-#, fuzzy
-#~| msgid " %"
-#~ msgctxt "(qtundo-format)"
-#~ msgid " %"
-#~ msgstr " %"
-
-#, fuzzy
-#~| msgid ""
-#~| "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/"
-#~| "TR/REC-html40/strict.dtd\">\n"
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; "
-#~| "font-weight:400; font-style:normal;\">\n"
-#~| "<p align=\"right\" style=\" margin-top:0px; margin-bottom:0px; margin-"
-#~| "left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
-#~| "style=\" font-weight:600;\">Name:</span></p></body></html>"
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-#~ "REC-html40/strict.dtd\">\n"
-#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~ "css\">\n"
-#~ "p, li { white-space: pre-wrap; }\n"
-#~ "</style></head><body style=\" font-family:'Ubuntu'; font-size:9pt; font-"
-#~ "weight:400; font-style:normal;\">\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~ "weight:600;\">Error Indicator</span></p></body></html>"
-#~ msgstr "名前:"
-
-#, fuzzy
-#~| msgid "Positive"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Positive"
-#~ msgstr "正値"
-
-#, fuzzy
-#~| msgid "New Axis"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "New Axis"
-#~ msgstr "新しい軸"
-
-#, fuzzy
-#~| msgid "Title:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Title:"
-#~ msgstr "タイトル:"
-
-#, fuzzy
-#~| msgid "Y Values:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Y Values:"
-#~ msgstr "Y 値:"
-
-#, fuzzy
-#~| msgid "X Values:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "X Values:"
-#~ msgstr "X 値:"
-
-#, fuzzy
-#~| msgid "<b>Choose a Data Set</b>"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "<b>Choose a Data Set</b>"
-#~ msgstr "データセットを選択"
-
-#, fuzzy
-#~| msgid "Categories:"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Categories:"
-#~ msgstr "カテゴリ:"
-
-#, fuzzy
-#~| msgid ""
-#~| "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/"
-#~| "TR/REC-html40/strict.dtd\">\n"
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; "
-#~| "font-weight:400; font-style:normal;\">\n"
-#~| "<p align=\"right\" style=\" margin-top:0px; margin-bottom:0px; margin-"
-#~| "left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
-#~| "style=\" font-weight:600;\">Name:</span></p></body></html>"
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-#~ "REC-html40/strict.dtd\">\n"
-#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~ "css\">\n"
-#~ "p, li { white-space: pre-wrap; }\n"
-#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; "
-#~ "font-weight:400; font-style:normal;\">\n"
-#~ "<p align=\"right\" style=\" margin-top:0px; margin-bottom:0px; margin-"
-#~ "left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
-#~ "style=\" font-weight:600;\">Name:</span></p></body></html>"
-#~ msgstr "名前:"
-
-#, fuzzy
-#~| msgid "Data Format"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Data Format"
-#~ msgstr "データの形式"
-
-#, fuzzy
-#~| msgid "Data sets in rows"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Data sets in rows"
-#~ msgstr "1 行が 1 つのデータセット"
-
-#, fuzzy
-#~| msgid "Data sets in columns"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Data sets in columns"
-#~ msgstr "1 列が 1 つのデータセット"
-
-#, fuzzy
-#~| msgid "Actions"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Actions"
-#~ msgstr "アクション"
-
-#, fuzzy
-#~| msgid "3D"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "3D"
-#~ msgstr "3D"
-
-#, fuzzy
-#~| msgid "Edit Data..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Edit Data..."
-#~ msgstr "データを編集..."
-
-#, fuzzy
-#~| msgid "Plot Area"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Plot Area"
-#~ msgstr "プロット領域"
-
-#, fuzzy
-#~| msgid ""
-#~| "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/"
-#~| "TR/REC-html40/strict.dtd\">\n"
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; "
-#~| "font-weight:400; font-style:normal;\">\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;\"><span "
-#~| "style=\" font-weight:600;\">Labels</span></p></body></html>"
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-#~ "REC-html40/strict.dtd\">\n"
-#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~ "css\">\n"
-#~ "p, li { white-space: pre-wrap; }\n"
-#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; "
-#~ "font-weight:400; font-style:normal;\">\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;\"><span "
-#~ "style=\" font-weight:600;\">Labels</span></p></body></html>"
-#~ msgstr "ラベル"
-
-#, fuzzy
-#~| msgid ""
-#~| "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/"
-#~| "TR/REC-html40/strict.dtd\">\n"
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; "
-#~| "font-weight:400; font-style:normal;\">\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~| "size:8pt; font-weight:600;\">Axes</span></p></body></html>"
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-#~ "REC-html40/strict.dtd\">\n"
-#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~ "css\">\n"
-#~ "p, li { white-space: pre-wrap; }\n"
-#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; "
-#~ "font-weight:400; font-style:normal;\">\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~ "size:8pt; font-weight:600;\">Axes</span></p></body></html>"
-#~ msgstr "軸"
-
-#, fuzzy
-#~| msgid "Label"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Label"
-#~ msgstr "ラベル"
-
-#, fuzzy
-#~| msgid "Show Grid Lines"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Show Grid Lines"
-#~ msgstr "グリッドを表示する"
-
-#, fuzzy
-#~| msgid "Scaling..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Scaling..."
-#~ msgstr "目盛り..."
-
-#, fuzzy
-#~| msgid "Edit Fonts..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Edit Fonts..."
-#~ msgstr "フォントを編集..."
-
-#, fuzzy
-#~| msgid "Data Sets"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Data Sets"
-#~ msgstr "データセット"
-
-#, fuzzy
-#~| msgid "Select a data set"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Select a data set"
-#~ msgstr "データセットを選択します"
-
-#, fuzzy
-#~| msgid "Custom Type"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Custom Type"
-#~ msgstr "カスタムタイプ"
-
-#, fuzzy
-#~| msgid "Gap Between Bars"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Gap Between Bars"
-#~ msgstr "棒間の間隔"
-
-#, fuzzy
-#~| msgid "%"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "%"
-#~ msgstr "%"
-
-#, fuzzy
-#~| msgid "Gap Between Sets"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Gap Between Sets"
-#~ msgstr "セット間の間隔"
-
-#, fuzzy
-#~| msgid ""
-#~| "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/"
-#~| "TR/REC-html40/strict.dtd\">\n"
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; "
-#~| "font-weight:400; font-style:normal;\">\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~| "size:8pt; font-weight:600;\">Bar Properties</span></p></body></html>"
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-#~ "REC-html40/strict.dtd\">\n"
-#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~ "css\">\n"
-#~ "p, li { white-space: pre-wrap; }\n"
-#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; "
-#~ "font-weight:400; font-style:normal;\">\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~ "size:8pt; font-weight:600;\">Bar Properties</span></p></body></html>"
-#~ msgstr ""
-#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-#~ "REC-html40/strict.dtd\">\n"
-#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~ "css\">\n"
-#~ "p, li { white-space: pre-wrap; }\n"
-#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; "
-#~ "font-weight:400; font-style:normal;\">\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~ "size:8pt; font-weight:600;\">棒のプロパティ</span></p></body></html>"
-
-#, fuzzy
-#~| msgid "Explode Factor"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Explode Factor"
-#~ msgstr "爆発の係数"
-
-#, fuzzy
-#~| msgid ""
-#~| "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/"
-#~| "TR/REC-html40/strict.dtd\">\n"
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; "
-#~| "font-weight:400; font-style:normal;\">\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~| "size:8pt; font-weight:600;\">Pie Properties</span></p></body></html>"
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-#~ "REC-html40/strict.dtd\">\n"
-#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~ "css\">\n"
-#~ "p, li { white-space: pre-wrap; }\n"
-#~ "</style></head><body style=\" font-family:'Ubuntu'; font-size:9pt; font-"
-#~ "weight:400; font-style:normal;\">\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~ "family:'Sans Serif'; font-size:8pt; font-weight:600;\">Pie Properties</"
-#~ "span></p></body></html>"
-#~ msgstr "パイのプロパティ"
-
-#, fuzzy
-#~| msgid "Attached Axis"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Attached Axis"
-#~ msgstr "追加された軸"
-
-#, fuzzy
-#~| msgid "Stacked"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Stroke"
-#~ msgstr "積み重ね"
-
-#, fuzzy
-#~| msgid "Insert"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert"
-#~ msgstr "挿入"
-
-#, fuzzy
-#~| msgid "Category"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Category"
-#~ msgstr "カテゴリ"
-
-#, fuzzy
-#~| msgid "Legend"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Legend"
-#~ msgstr "凡例"
-
-#, fuzzy
-#~| msgid "Show Frame"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Show Frame"
-#~ msgstr "枠を表示する"
-
-#, fuzzy
-#~| msgid "Orientation"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Orientation"
-#~ msgstr "方向"
-
-#, fuzzy
-#~| msgid "v"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "v"
-#~ msgstr "垂直"
-
-#, fuzzy
-#~| msgid "h"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "h"
-#~ msgstr "水平"
-
-#, fuzzy
-#~| msgid "Bar Chart"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Bar Chart"
-#~ msgstr "棒グラフ"
-
-#, fuzzy
-#~| msgid "Normal"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Normal"
-#~ msgstr "普通"
-
-#, fuzzy
-#~| msgid "Stacked"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Stacked"
-#~ msgstr "積み重ね"
-
-#, fuzzy
-#~| msgid "Percent"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Percent"
-#~ msgstr "パーセント"
-
-#, fuzzy
-#~| msgid "Line Chart"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Line Chart"
-#~ msgstr "折れ線グラフ"
-
-#, fuzzy
-#~| msgid "Area Chart"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Area Chart"
-#~ msgstr "面グラフ"
-
-#, fuzzy
-#~| msgid "Pie Chart"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Pie Chart"
-#~ msgstr "円グラフ"
-
-#, fuzzy
-#~| msgid "Polar Chart"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Polar Chart"
-#~ msgstr "極グラフ"
-
-#, fuzzy
-#~| msgid "Automatic"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Automatic"
-#~ msgstr "自動"
-
-#, fuzzy
-#~| msgid "Data Ranges..."
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Data Ranges..."
-#~ msgstr "データ範囲..."
-
-#, fuzzy
-#~| msgid "Axis %1"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Axis %1"
-#~ msgstr "軸 %1"
-
-#, fuzzy
-#~| msgid "Data Set %1"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Data Set %1"
-#~ msgstr "データセット %1"
-
-#, fuzzy
-#~| msgid ""
-#~| "Are you sure you want to remove this axis? All settings specific to this "
-#~| "axis will be lost."
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "Are you sure you want to remove this axis? All settings specific to this "
-#~ "axis will be lost."
-#~ msgstr "本当にこの軸を削除しますか？この軸の固有設定はすべて失われます。"
-
-#, fuzzy
-#~| msgid "Axis Removal Confirmation"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Axis Removal Confirmation"
-#~ msgstr "軸の削除の確認"
-
-#, fuzzy
-#~| msgid ""
-#~| "The plugin needed for displaying text labels in a chart is not available."
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "The plugin needed for displaying text labels in a chart is not available."
-#~ msgstr ""
-#~ "グラフにテキストラベルを表示するために必要なプラグインがありません。"
-
-#, fuzzy
-#~| msgid "Plugin Missing"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Plugin Missing"
-#~ msgstr "プラグインがありません"
-
-#, fuzzy
-#~| msgid ""
-#~| "The plugin needed for displaying text labels is not compatible with the "
-#~| "current version of the chart Flake shape."
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "The plugin needed for displaying text labels is not compatible with the "
-#~ "current version of the chart Flake shape."
-#~ msgstr ""
-#~ "テキストラベルを表示するために必要なプラグインが、グラフ Flake シェイプの"
-#~ "バージョンと非互換です。"
-
-#, fuzzy
-#~| msgid "Plugin Incompatible"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Plugin Incompatible"
-#~ msgstr "プラグインが非互換です"
-
-#, fuzzy
-#~| msgid "Title"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Title"
-#~ msgstr "タイトル"
-
-#, fuzzy
-#~| msgid "Subtitle"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Subtitle"
-#~ msgstr "サブタイトル"
-
-#, fuzzy
-#~| msgid "Footer"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Footer"
-#~ msgstr "フッタ"
-
-#, fuzzy
-#~| msgid ""
-#~| "This document contains an external link to a remote document\n"
-#~| "%1"
-#~ msgctxt "(qtundo-format)"
-#~ msgid ""
-#~ "This document contains an external link to a remote document\n"
-#~ "%1"
-#~ msgstr ""
-#~ "この文書にはリモート文書への外部リンクが含まれています\n"
-#~ "%1"
-
-#, fuzzy
-#~| msgid "Confirmation Required"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Confirmation Required"
-#~ msgstr "確認が必要です"
-
-#, fuzzy
-#~| msgid "Download"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Download"
-#~ msgstr "ダウンロード"
-
-#, fuzzy
-#~| msgid "Skip"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Skip"
-#~ msgstr "スキップ"
-
-#, fuzzy
-#~| msgid "Chart"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Chart"
-#~ msgstr "グラフ"
-
-#, fuzzy
-#~| msgid "Business charts"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Business charts"
-#~ msgstr "ビジネス用グラフ"
-
-#, fuzzy
-#~| msgid "January"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "January"
-#~ msgstr "1月"
-
-#, fuzzy
-#~| msgid "July"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "July"
-#~ msgstr "7月"
-
-#, fuzzy
-#~| msgid "December"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "December"
-#~ msgstr "12月"
-
-#, fuzzy
-#~| msgid "Column %1"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Column %1"
-#~ msgstr "列 %1"
-
-#, fuzzy
-#~| msgid "Month"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Month"
-#~ msgstr "月"
-
-#, fuzzy
-#~| msgid "Growth in %"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Growth in %"
-#~ msgstr "伸び率"
-
-#, fuzzy
-#~| msgid "Do something"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Do something"
-#~ msgstr "何かをする"
-
-#, fuzzy
-#~| msgid "Do something else"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Do something else"
-#~ msgstr "他の何かをする"
-
-#, fuzzy
-#~| msgid "Chart editing"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Chart editing"
-#~ msgstr "グラフ編集"
-
-#, fuzzy
-#~| msgid "Series %1"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Series %1"
-#~ msgstr "級数 %1"
-
-#, fuzzy
-#~| msgid "Show Legend"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Select Font"
-#~ msgstr "凡例を表示する"
-
-#, fuzzy
-#~| msgid "Insert Rows"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert Rows"
-#~ msgstr "行を挿入"
-
-#, fuzzy
-#~| msgid "Delete Rows"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Delete Rows"
-#~ msgstr "行を削除"
-
-#, fuzzy
-#~| msgid "Insert Columns"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Insert Columns"
-#~ msgstr "列を挿入"
-
-#, fuzzy
-#~| msgid "Delete Columns"
-#~ msgctxt "(qtundo-format)"
-#~ msgid "Delete Columns"
-#~ msgstr "列を削除"
-
-#~ msgid "Chart Editing Tool"
-#~ msgstr "グラフ編集ツール"
-
-#~ msgid ""
-#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-#~ "REC-html40/strict.dtd\">\n"
-#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~ "css\">\n"
-#~ "p, li { white-space: pre-wrap; }\n"
-#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; "
-#~ "font-weight:400; font-style:normal;\">\n"
-#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~ "size:8pt; font-weight:600;\">Pie Properties</span></p></body></html>"
-#~ msgstr "パイのプロパティ"
-
-#~ msgid "Color"
-#~ msgstr "色"
-
-#~ msgid "sdf"
-#~ msgstr "sdf"
-
-#~ msgid "Data Area"
-#~ msgstr "データ領域"
-
-#~ msgid "Use first row for labels"
-#~ msgstr "最初の行をラベルとして使う"
-
-#~ msgid "Use first column for labels"
-#~ msgstr "最初の列をラベルとして使う"
-
-#~ msgid "Cut Rows"
-#~ msgstr "行を切り取り"
-
-#~ msgid "Cut Columns"
-#~ msgstr "列を切り取り"
-
-#~ msgid "Cut Cells"
-#~ msgstr "セルを切り取り"
-
-#~ msgid "Copy Rows"
-#~ msgstr "行をコピー"
-
-#~ msgid "Copy Columns"
-#~ msgstr "列をコピー"
-
-#~ msgid "Copy Cells"
-#~ msgstr "セルをコピー"
-
-#~ msgid "Insert Cells"
-#~ msgstr "セルを挿入"
-
-#~ msgid "Position and Alignment..."
-#~ msgstr "位置と配置..."
