@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the calindori package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: calindori\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-07-30 10:04+0200\n"
-"PO-Revision-Date: 2019-07-06 19:29-0700\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6 stable6
 #, kde-format
@@ -173,19 +172,15 @@ msgid "No contacts found"
 msgstr ""
 
 #. +> trunk6 stable6
-#: contents/ui/AttendeeEditor.qml:116 contents/ui/AttendeePicker.qml:116
-#: contents/ui/Attendees.qml:20 contents/ui/CalendarEditor.qml:143
-#: contents/ui/ManageCalendarsPage.qml:23 contents/ui/Reminders.qml:19
+#: contents/ui/AttendeeEditor.qml:116 contents/ui/AttendeePicker.qml:116 contents/ui/Attendees.qml:20 contents/ui/CalendarEditor.qml:143 contents/ui/ManageCalendarsPage.qml:23
+#: contents/ui/Reminders.qml:19
 #, kde-format
 msgid "Add"
 msgstr ""
 
 #. +> trunk6 stable6
-#: contents/ui/AttendeeEditor.qml:128 contents/ui/AttendeePicker.qml:128
-#: contents/ui/CalendarEditor.qml:151 contents/ui/EventEditorPage.qml:232
-#: contents/ui/EventsCardView.qml:117 contents/ui/IncidencePage.qml:83
-#: contents/ui/MessageBoard.qml:48 contents/ui/TodoEditorPage.qml:222
-#: contents/ui/TodosCardView.qml:110
+#: contents/ui/AttendeeEditor.qml:128 contents/ui/AttendeePicker.qml:128 contents/ui/CalendarEditor.qml:151 contents/ui/EventEditorPage.qml:232 contents/ui/EventsCardView.qml:117
+#: contents/ui/IncidencePage.qml:83 contents/ui/MessageBoard.qml:48 contents/ui/TodoEditorPage.qml:222 contents/ui/TodosCardView.qml:110
 #, kde-format
 msgid "Cancel"
 msgstr ""
@@ -235,9 +230,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: contents/ui/Attendees.qml:25
 #, kde-format
-msgid ""
-"Attendee management is available only in external calendars that are "
-"synchronized online"
+msgid "Attendee management is available only in external calendars that are synchronized online"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -283,8 +276,7 @@ msgid "Name:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: contents/ui/CalendarEditor.qml:107 contents/ui/EventEditorPage.qml:209
-#: contents/ui/TodoEditorPage.qml:199
+#: contents/ui/CalendarEditor.qml:107 contents/ui/EventEditorPage.qml:209 contents/ui/TodoEditorPage.qml:199
 #, kde-format
 msgid "Save"
 msgstr ""
@@ -308,22 +300,19 @@ msgid "Today"
 msgstr ""
 
 #. +> trunk6 stable6
-#: contents/ui/CalendarMonthPage.qml:67 contents/ui/IncidenceListView.qml:30
-#: contents/ui/TodosCardView.qml:19
+#: contents/ui/CalendarMonthPage.qml:67 contents/ui/IncidenceListView.qml:30 contents/ui/TodosCardView.qml:19
 #, kde-format
 msgid "Tasks"
 msgstr ""
 
 #. +> trunk6 stable6
-#: contents/ui/CalendarMonthPage.qml:77 contents/ui/EventsCardView.qml:19
-#: contents/ui/IncidenceListView.qml:30 contents/ui/SettingsPage.qml:88
+#: contents/ui/CalendarMonthPage.qml:77 contents/ui/EventsCardView.qml:19 contents/ui/IncidenceListView.qml:30 contents/ui/SettingsPage.qml:88
 #, kde-format
 msgid "Events"
 msgstr ""
 
 #. +> trunk6 stable6
-#: contents/ui/CalindoriGlobalDrawer.qml:54
-#: contents/ui/CalindoriGlobalDrawer.qml:64
+#: contents/ui/CalindoriGlobalDrawer.qml:54 contents/ui/CalindoriGlobalDrawer.qml:64
 #, kde-format
 msgid "Calendar"
 msgstr ""
@@ -365,8 +354,7 @@ msgid "Calendars"
 msgstr ""
 
 #. +> trunk6 stable6
-#: contents/ui/CalindoriGlobalDrawer.qml:229
-#: contents/ui/ManageCalendarsPage.qml:75
+#: contents/ui/CalindoriGlobalDrawer.qml:229 contents/ui/ManageCalendarsPage.qml:75
 #, kde-format
 msgid "Calendar %1 has been activated"
 msgstr ""
@@ -390,17 +378,13 @@ msgid "Next day"
 msgstr ""
 
 #. +> trunk6 stable6
-#: contents/ui/DayView.qml:105 contents/ui/EventEditorPage.qml:44
-#: contents/ui/EventsCardView.qml:30 contents/ui/IncidenceListView.qml:39
-#: contents/ui/WeekView.qml:153
+#: contents/ui/DayView.qml:105 contents/ui/EventEditorPage.qml:44 contents/ui/EventsCardView.qml:30 contents/ui/IncidenceListView.qml:39 contents/ui/WeekView.qml:153
 #, kde-format
 msgid "Create Event"
 msgstr ""
 
 #. +> trunk6 stable6
-#: contents/ui/DayView.qml:118 contents/ui/IncidenceListView.qml:39
-#: contents/ui/TodoEditorPage.qml:33 contents/ui/TodosCardView.qml:28
-#: contents/ui/WeekView.qml:160
+#: contents/ui/DayView.qml:118 contents/ui/IncidenceListView.qml:39 contents/ui/TodoEditorPage.qml:33 contents/ui/TodosCardView.qml:28 contents/ui/WeekView.qml:160
 #, kde-format
 msgid "Create Task"
 msgstr ""
@@ -490,17 +474,14 @@ msgid "No events scheduled"
 msgstr ""
 
 #. +> trunk6 stable6
-#: contents/ui/EventsCardView.qml:59 contents/ui/EventsCardView.qml:108
-#: contents/ui/IncidencePage.qml:44 contents/ui/IncidencePage.qml:66
-#: contents/ui/ManageCalendarsPage.qml:80 contents/ui/TodosCardView.qml:55
-#: contents/ui/TodosCardView.qml:101
+#: contents/ui/EventsCardView.qml:59 contents/ui/EventsCardView.qml:108 contents/ui/IncidencePage.qml:44 contents/ui/IncidencePage.qml:66 contents/ui/ManageCalendarsPage.qml:80
+#: contents/ui/TodosCardView.qml:55 contents/ui/TodosCardView.qml:101
 #, kde-format
 msgid "Delete"
 msgstr ""
 
 #. +> trunk6 stable6
-#: contents/ui/EventsCardView.qml:70 contents/ui/IncidencePage.qml:51
-#: contents/ui/TodosCardView.qml:66
+#: contents/ui/EventsCardView.qml:70 contents/ui/IncidencePage.qml:51 contents/ui/TodosCardView.qml:66
 #, kde-format
 msgid "Edit"
 msgstr ""
@@ -640,8 +621,7 @@ msgid "Activate"
 msgstr ""
 
 #. +> trunk6 stable6
-#: contents/ui/ManageCalendarsPage.qml:85
-#: contents/ui/ManageCalendarsPage.qml:99
+#: contents/ui/ManageCalendarsPage.qml:85 contents/ui/ManageCalendarsPage.qml:99
 #, kde-format
 msgid "Calendar must not be active when being deleted."
 msgstr ""
@@ -679,8 +659,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: contents/ui/ManageCalendarsPage.qml:146
 #, kde-format
-msgid ""
-"All data included in this calendar will be deleted. Proceed with deletion?"
+msgid "All data included in this calendar will be deleted. Proceed with deletion?"
 msgstr ""
 
 #. +> trunk6 stable6
