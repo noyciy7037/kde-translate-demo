@@ -19,7 +19,7 @@ jobs:
           repository: 'mozilla/pontoon'
       - uses: actions/checkout@v6
         with:
-          path: 'media/translatons'
+          path: 'media/translations'
       - name: Link repository
         run: |-
           ./media/translations/link_repo.sh
