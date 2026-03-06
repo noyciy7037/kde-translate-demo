@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the arianna package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: arianna\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-11-16 11:29+0100\n"
-"PO-Revision-Date: 2022-12-29 23:26-0800\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6
 #: epubcontainer.cpp:35
@@ -174,8 +173,7 @@ msgid "Color theme"
 msgstr ""
 
 #. +> trunk6 stable6
-#: qml/EpubViewerPage.qml:80 qml/EpubViewerPage.qml:281
-#: qml/EpubViewerPage.qml:285
+#: qml/EpubViewerPage.qml:80 qml/EpubViewerPage.qml:281 qml/EpubViewerPage.qml:285
 #, kde-format
 msgid "Loading"
 msgstr ""
@@ -401,9 +399,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: qml/Main.qml:217
 #, kde-format
-msgctxt ""
-"Open a book from somewhere on disk (uses the open dialog, or a drilldown on "
-"touch devices)"
+msgctxt "Open a book from somewhere on disk (uses the open dialog, or a drilldown on touch devices)"
 msgid "Open Other..."
 msgstr ""
 
@@ -417,9 +413,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: qml/Main.qml:234
 #, kde-format
-msgctxt ""
-"Heading for switching to listing page showing items grouped by some "
-"properties"
+msgctxt "Heading for switching to listing page showing items grouped by some properties"
 msgid "Group By"
 msgstr ""
 
