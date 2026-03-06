@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the arca package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: arca\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-12-26 08:43+0100\n"
-"PO-Revision-Date: 2024-12-28 07:04+0900\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6
 #: src/code/main.cpp:38
@@ -63,46 +62,37 @@ msgid "Permissions"
 msgstr ""
 
 #. +> trunk6
-#: src/controls/previewer/FileProperties.qml:45
-#: src/controls/previewer/FileProperties.qml:148
+#: src/controls/previewer/FileProperties.qml:45 src/controls/previewer/FileProperties.qml:148
 #, kde-format
 msgid "Set file permissions to access this file"
 msgstr ""
 
 #. +> trunk6
-#: src/controls/previewer/FileProperties.qml:49
-#: src/controls/previewer/FileProperties.qml:152
+#: src/controls/previewer/FileProperties.qml:49 src/controls/previewer/FileProperties.qml:152
 #, kde-format
 msgid "Owner"
 msgstr ""
 
 #. +> trunk6
-#: src/controls/previewer/FileProperties.qml:58
-#: src/controls/previewer/FileProperties.qml:90
-#: src/controls/previewer/FileProperties.qml:122
+#: src/controls/previewer/FileProperties.qml:58 src/controls/previewer/FileProperties.qml:90 src/controls/previewer/FileProperties.qml:122
 #, kde-format
 msgid "Read"
 msgstr ""
 
 #. +> trunk6
-#: src/controls/previewer/FileProperties.qml:65
-#: src/controls/previewer/FileProperties.qml:97
-#: src/controls/previewer/FileProperties.qml:128
+#: src/controls/previewer/FileProperties.qml:65 src/controls/previewer/FileProperties.qml:97 src/controls/previewer/FileProperties.qml:128
 #, kde-format
 msgid "Write"
 msgstr ""
 
 #. +> trunk6
-#: src/controls/previewer/FileProperties.qml:72
-#: src/controls/previewer/FileProperties.qml:105
-#: src/controls/previewer/FileProperties.qml:134
+#: src/controls/previewer/FileProperties.qml:72 src/controls/previewer/FileProperties.qml:105 src/controls/previewer/FileProperties.qml:134
 #, kde-format
 msgid "Execute"
 msgstr ""
 
 #. +> trunk6
-#: src/controls/previewer/FileProperties.qml:80
-#: src/controls/previewer/FileProperties.qml:159
+#: src/controls/previewer/FileProperties.qml:80 src/controls/previewer/FileProperties.qml:159
 #, kde-format
 msgid "Group"
 msgstr ""
