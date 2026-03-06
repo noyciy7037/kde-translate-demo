@@ -1,24 +1,12 @@
-# Copyright (C) YEAR This_file_is_part_of_KDE
-# This file is distributed under the same license as the falkon package.
-# Daiki Noda <sys.pdr.pdm9@gmail.com>, 2017
-# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2023.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: falkon_statusbaricons_qt\n"
-"POT-Creation-Date: 2025-03-09 09:43+0100\n"
-"PO-Revision-Date: 2023-05-28 23:22-0700\n"
-"Last-Translator: Fumiaki Okushi <fumiaki.okushi@gmail.com>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Language: ja_JP\n"
-"X-Qt-Contexts: true\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: qtrich\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6 stable6
 #: sbi_imagesicon.cpp:34
@@ -120,18 +108,12 @@ msgstr "プロキシの管理"
 #: sbi_networkicon.cpp:103
 #, qt-format
 msgctxt "SBI_NetworkIcon|"
-msgid ""
-"Shows network status and manages proxy<br/><br/><b>Network:</b><br/>%1<br/"
-"><br/><b>Proxy:</b><br/>%2"
-msgstr ""
-"ネットワークステータスの表示とプロキシの管理<br/><br/><b>ネットワーク:</"
-"b><br/>%1<br/><br/><b>プロキシ:</b><br/>%2"
+msgid "Shows network status and manages proxy<br/><br/><b>Network:</b><br/>%1<br/><br/><b>Proxy:</b><br/>%2"
+msgstr "ネットワークステータスの表示とプロキシの管理<br/><br/><b>ネットワーク:</b><br/>%1<br/><br/><b>プロキシ:</b><br/>%2"
 
 #. +> trunk6 stable6
 #: sbi_networkicon.cpp:107
 #, fuzzy
-#| msgctxt "SBI_NetworkIcon|"
-#| msgid "Connected"
 msgctxt "SBI_NetworkIcon|"
 msgid "Connected - Online"
 msgstr "接続済"
@@ -139,8 +121,6 @@ msgstr "接続済"
 #. +> trunk6 stable6
 #: sbi_networkicon.cpp:110
 #, fuzzy
-#| msgctxt "SBI_NetworkIcon|"
-#| msgid "Connected"
 msgctxt "SBI_NetworkIcon|"
 msgid "Connected - Site"
 msgstr "接続済"
@@ -148,8 +128,6 @@ msgstr "接続済"
 #. +> trunk6 stable6
 #: sbi_networkicon.cpp:113
 #, fuzzy
-#| msgctxt "SBI_NetworkIcon|"
-#| msgid "Connected"
 msgctxt "SBI_NetworkIcon|"
 msgid "Connected - Local"
 msgstr "接続済"
@@ -157,8 +135,6 @@ msgstr "接続済"
 #. +> trunk6 stable6
 #: sbi_networkicon.cpp:116
 #, fuzzy
-#| msgctxt "SBI_NetworkIcon|"
-#| msgid "Connected"
 msgctxt "SBI_NetworkIcon|"
 msgid "Disconnected"
 msgstr "接続済"
@@ -233,9 +209,7 @@ msgstr "プロキシの削除"
 #: sbi_networkicondialog.ui:69
 msgctxt "SBI_NetworkIconDialog|"
 msgid "No proxies. You can add proxy by clicking on <b>Add</b> button."
-msgstr ""
-"プロキシがありません。<b>追加</b>ボタンをクリックするとプロキシが追加できま"
-"す。"
+msgstr "プロキシがありません。<b>追加</b>ボタンをクリックするとプロキシが追加できます。"
 
 #. +> trunk6 stable6
 #: sbi_networkicondialog.ui:104
@@ -339,11 +313,3 @@ msgstr "ズームウィジェット"
 msgctxt "SBI_ZoomWidget|"
 msgid "Zoom: %1%"
 msgstr "ズーム: %1%"
-
-#~ msgctxt "SBI_NetworkIcon|"
-#~ msgid "Connected"
-#~ msgstr "接続済"
-
-#~ msgctxt "SBI_NetworkIcon|"
-#~ msgid "Offline"
-#~ msgstr "オフライン"

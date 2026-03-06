@@ -1,24 +1,12 @@
-# Copyright (C) YEAR This_file_is_part_of_KDE
-# This file is distributed under the same license as the falkon package.
-# Daiki Noda <sys.pdr.pdm9@gmail.com>, 2017
-# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2023.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: falkon_pim_qt\n"
-"POT-Creation-Date: 2024-02-16 00:15+0100\n"
-"PO-Revision-Date: 2023-05-28 23:19-0700\n"
-"Last-Translator: Fumiaki Okushi <fumiaki.okushi@gmail.com>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Language: ja_JP\n"
-"X-Qt-Contexts: true\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: qtrich\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6 stable6
 #: PIM_handler.cpp:59
@@ -221,14 +209,6 @@ msgstr "その他3:"
 #. +> trunk6 stable6
 #: PIM_settings.ui:260
 #, fuzzy
-#| msgctxt "PIM_Settings|"
-#| msgid ""
-#| "<b>Note:</b> Press Ctrl+ENTER to autofill form fields for which QupZilla "
-#| "finds personal entries."
 msgctxt "PIM_Settings|"
-msgid ""
-"<b>Note:</b> Press Ctrl+ENTER to autofill form fields for which Falkon finds "
-"personal entries."
-msgstr ""
-"<b>使い方:</b> Ctrl+ENTERを押すと、QupZillaが該当箇所を検出し情報を自動的に挿"
-"入します。"
+msgid "<b>Note:</b> Press Ctrl+ENTER to autofill form fields for which Falkon finds personal entries."
+msgstr "<b>使い方:</b> Ctrl+ENTERを押すと、QupZillaが該当箇所を検出し情報を自動的に挿入します。"
