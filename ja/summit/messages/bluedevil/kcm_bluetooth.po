@@ -1,22 +1,17 @@
-# 百武 朋大 <tomhioo@outlook.jp>, 2019.
-# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2014, 2015, 2019.
-# SPDX-FileCopyrightText: 2022, 2024, 2025 Ryuichi Yamada <ryuichi_ya220@outlook.jp>
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the bluedevil package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: bluedevil\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-01-13 14:37+0100\n"
-"PO-Revision-Date: 2025-03-27 21:12+0900\n"
-"Last-Translator: Ryuichi Yamada <ryuichi_ya220@outlook.jp>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
-"X-Generator: Lokalize 24.12.3\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6 stable6 stable5
 #, kde-format
@@ -40,7 +35,6 @@ msgstr "%1 ネットワーク (%2)"
 #. +> trunk6 stable6
 #: bluetoothmoduledata.cpp:20
 #, fuzzy, kde-format
-#| msgid "Enable Bluetooth"
 msgctxt "@info:tooltip"
 msgid "Enable Bluetooth"
 msgstr "Bluetooth を有効化"
@@ -114,11 +108,7 @@ msgstr "ブロック済み"
 #. +> trunk6 stable6
 #: ui/Device.qml:197
 #, fuzzy, kde-format
-#| msgid ""
-#| "Any incoming connections from a blocked device will be immediately "
-#| "rejected."
-msgid ""
-"When enabled, all incoming connections from this device will be rejected."
+msgid "When enabled, all incoming connections from this device will be rejected."
 msgstr "ブロックしたデバイスからの接続は拒否されます。"
 
 #. +> trunk6 stable6 stable5
@@ -323,9 +313,7 @@ msgstr "ペアリングされたデバイスはありません"
 #, kde-kuit-format
 msgctxt "@info"
 msgid "Click <interface>Pair Device…</interface> to pair some"
-msgstr ""
-"<interface>デバイスとペアリング...</interface>をクリックしてペアリングしてく"
-"ださい"
+msgstr "<interface>デバイスとペアリング...</interface>をクリックしてペアリングしてください"
 
 #. +> trunk6 stable6 stable5
 #: ui/main.qml:182
@@ -446,8 +434,7 @@ msgstr "プリンタ"
 #. +> trunk6 stable6 stable5
 #: ui/script.js:41
 #, kde-format
-msgctxt ""
-"This device is an Imaging device (printer, scanner, camera, display, …)"
+msgctxt "This device is an Imaging device (printer, scanner, camera, display, …)"
 msgid "Imaging"
 msgstr "イメージングデバイス"
 
@@ -535,238 +522,3 @@ msgstr "ジョイパッド"
 msgctxt "Type of device: could not be determined"
 msgid "Unknown"
 msgstr "不明"
-
-#, kde-format
-#~ msgid ""
-#~ "Any incoming connections from a blocked device will be immediately "
-#~ "rejected."
-#~ msgstr "ブロックしたデバイスからの接続は拒否されます。"
-
-#, kde-kuit-format
-#~ msgctxt "@info"
-#~ msgid "Click <interface>Add New Device…</interface> to pair some"
-#~ msgstr ""
-#~ "<interface>新しいデバイスを追加...</interface>をクリックしてペアリングして"
-#~ "ください"
-
-#, kde-format
-#~ msgid "Remember previous status"
-#~ msgstr "以前の状態を記憶"
-
-#, kde-format
-#~ msgid "Confirm Deletion of Device"
-#~ msgstr "デバイスの削除を確認する"
-
-#, kde-format
-#~ msgid "Are you sure you want to forget '%1'"
-#~ msgstr "本当に '%1' を削除しますか？"
-
-#, kde-format
-#~ msgid "Remove"
-#~ msgstr "削除"
-
-#, kde-format
-#~ msgid "Bluetooth"
-#~ msgstr "Bluetooth"
-
-#, kde-format
-#~ msgid "Nicolas Fella"
-#~ msgstr "Nicolas Fella"
-
-#, kde-format
-#~ msgid "Trusted:"
-#~ msgstr "信頼済:"
-
-#, kde-format
-#~ msgid "Blocked:"
-#~ msgstr "ブロック済み:"
-
-#, kde-format
-#~ msgid "Setup NAP Network..."
-#~ msgstr "NAP ネットワークのセットアップ..."
-
-#, kde-format
-#~ msgid "Actions:"
-#~ msgstr "動作:"
-
-#, kde-format
-#~ msgctxt "Radio widget to set if we want the adapter to be hidden"
-#~ msgid "Hidden"
-#~ msgstr "隠す"
-
-#, kde-format
-#~ msgctxt "Radio widget to set if we want the adapter to be always visible"
-#~ msgid "Always visible"
-#~ msgstr "常に表示"
-
-#, kde-format
-#~ msgctxt ""
-#~ "Radio widget to set if we want the adapter to be temporarily visible"
-#~ msgid "Temporarily visible"
-#~ msgstr "一時的に表示"
-
-#, kde-format
-#~ msgctxt "Discover time for the adapter"
-#~ msgid "1 minute"
-#~ msgid_plural "%1 minutes"
-#~ msgstr[0] "%1 分"
-
-#, kde-format
-#~ msgctxt "Name of the adapter"
-#~ msgid "Name"
-#~ msgstr "名前"
-
-#, kde-format
-#~ msgctxt "Whether the adapter is powered or not"
-#~ msgid "Powered"
-#~ msgstr "電源オン"
-
-#, kde-format
-#~ msgctxt "Whether the adapter is visible or not"
-#~ msgid "Visibility"
-#~ msgstr "可視性"
-
-#, kde-format
-#~ msgctxt "How long the adapter will be discoverable"
-#~ msgid "Discover Time"
-#~ msgstr "探索時間"
-
-#, kde-format
-#~ msgid "1 minute"
-#~ msgid_plural "%1 minutes"
-#~ msgstr[0] "%1 分"
-
-#, kde-format
-#~ msgid "Bluetooth Adapters"
-#~ msgstr "Bluetooth アダプタ"
-
-#, kde-format
-#~ msgid "Bluetooth Adapters Control Panel Module"
-#~ msgstr "Bluetooth アダプタコントロールパネルモジュール"
-
-#, kde-format
-#~ msgid "(c) 2010 Rafael Fernández López"
-#~ msgstr "(c) 2010 Rafael Fernández López"
-
-#, kde-format
-#~ msgid "Previous Developer and Maintainer"
-#~ msgstr "最近の開発者とメンテナー"
-
-#, kde-format
-#~ msgid "No adapters found"
-#~ msgstr "アダプタが見つかりません"
-
-#, kde-format
-#~ msgid "Your default Bluetooth adapter is not visible for remote devices."
-#~ msgstr "あなたの標準の Bluetooth アダプタはリモートデバイスに表示されません"
-
-#, kde-format
-#~ msgid "Interaction with Bluetooth system is not optimal."
-#~ msgstr "Bluetooth システムとの相互作用は最適ではありません"
-
-#, kde-format
-#~ msgid "Bluetooth is not completely enabled."
-#~ msgstr "Bluetooth が完全に有効になっていません。"
-
-#, kde-format
-#~ msgid "Bluetooth Devices Control Panel Module"
-#~ msgstr "Bluetooth デバイスコントロールパネルモジュール"
-
-#, fuzzy, kde-format
-#~ msgid ""
-#~ "Are you sure that you want to remove %1 device from the list of known "
-#~ "devices?"
-#~ msgid_plural ""
-#~ "Are you sure that you want to remove %1 devices from the list of known "
-#~ "devices?"
-#~ msgstr[0] "本当に既知のデバイスリストから%1を削除しますか？"
-
-#, kde-format
-#~ msgid ""
-#~ "Are you sure that you want to remove device \"%1\" from the list of known "
-#~ "devices?"
-#~ msgstr "本当に既知のデバイスリストから%1を削除しますか？"
-
-#, kde-format
-#~ msgid "Select a device to configure"
-#~ msgstr "設定するデバイスを選択"
-
-#, kde-format
-#~ msgid "No devices found"
-#~ msgstr "デバイスが見つかりません"
-
-#, kde-format
-#~ msgid "Add new device"
-#~ msgstr "新しいデバイスを追加"
-
-#, kde-format
-#~ msgid "Add device"
-#~ msgstr "デバイスを追加"
-
-#, kde-format
-#~ msgid "Bluetooth Advanced Settings"
-#~ msgstr "Bluetooth の詳細設定"
-
-#, kde-format
-#~ msgid "Bluetooth Advanced Settings Control Panel Module"
-#~ msgstr "Bluetooth の詳細設定のコントロールパネルモジュール"
-
-#, kde-format
-#~ msgctxt "'Auto accept' option value"
-#~ msgid "Never"
-#~ msgstr "決してしない"
-
-#, kde-format
-#~ msgctxt "'Auto accept' option value"
-#~ msgid "Trusted devices"
-#~ msgstr "信頼したデバイス"
-
-#, kde-format
-#~ msgctxt "'Auto accept' option value"
-#~ msgid "All devices"
-#~ msgstr "すべてのデバイス"
-
-#, kde-format
-#~ msgid "Enable Bluetooth integration"
-#~ msgstr "Bluetooth 統合を有効にする"
-
-#, kde-format
-#~ msgid "<b>Receiving files</b>"
-#~ msgstr "<b>ファイルを受信中</b>"
-
-#, kde-format
-#~ msgid "Receive files from remote devices"
-#~ msgstr "リモートデバイスからファイルを受信"
-
-#, kde-format
-#~ msgid "Accept automatically:"
-#~ msgstr "自動的に承認:"
-
-#, fuzzy, kde-format
-#~| msgid "Receive files from remote devices"
-#~ msgid "Retrieving information from remote device..."
-#~ msgstr "リモートデバイスからファイルを受信"
-
-#, fuzzy, kde-format
-#~| msgid "Bluetooth is disabled."
-#~ msgid "Bluetooth Send File Wizard"
-#~ msgstr "Bluetooth が無効です。"
-
-#, fuzzy, kde-format
-#~| msgid "Bluetooth Devices"
-#~ msgid "Bluetooth Device Wizard"
-#~ msgstr "Bluetooth デバイス"
-
-#, fuzzy
-#~| msgctxt "Radio widget to set if we want the adapter to be always visible"
-#~| msgid "Always visible"
-#~ msgctxt "Action to fix a problem"
-#~ msgid "Make Visible"
-#~ msgstr "常に表示"
-
-#, fuzzy
-#~| msgctxt "Action to enable Bluetooth adapter"
-#~| msgid "Enable"
-#~ msgctxt "Action to fix a problem"
-#~ msgid "Enable"
-#~ msgstr "有効"
