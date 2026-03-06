@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the akonadiconsole package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: akonadiconsole\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-09-21 13:29+0200\n"
-"PO-Revision-Date: 2023-02-17 22:08-0800\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6 stable6
 #, kde-format
@@ -174,8 +173,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: agentwidget.cpp:431
 #, kde-format
-msgctxt ""
-"Two statuses, for example \"Online, Running (66%)\" or \"Offline, Broken\""
+msgctxt "Two statuses, for example \"Online, Running (66%)\" or \"Offline, Broken\""
 msgid "%1, %2"
 msgstr ""
 
@@ -287,9 +285,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, removeButton)
 #. +> trunk6 stable6
-#: agentwidget.ui:219 notificationmodel.cpp:93 notificationmodel.cpp:115
-#: notificationmodel.cpp:131 notificationmodel.cpp:143
-#: notificationmonitor.cpp:174 notificationmonitor.cpp:369
+#: agentwidget.ui:219 notificationmodel.cpp:93 notificationmodel.cpp:115 notificationmodel.cpp:131 notificationmodel.cpp:143 notificationmonitor.cpp:174 notificationmonitor.cpp:369
 #: notificationmonitor.cpp:403 notificationmonitor.cpp:427
 #, kde-format
 msgid "Remove"
@@ -318,8 +314,7 @@ msgid "Restart"
 msgstr ""
 
 #. +> trunk6 stable6
-#: akonadibrowsermodel.cpp:74 notificationmodel.cpp:75
-#: notificationmonitor.cpp:387
+#: akonadibrowsermodel.cpp:74 notificationmodel.cpp:75 notificationmonitor.cpp:387
 #, kde-format
 msgid "Collection"
 msgstr ""
@@ -493,9 +488,7 @@ msgstr ""
 #. i18n: ectx: attribute (title), widget (QWidget, tab_4)
 #. i18n: ectx: attribute (title), widget (QWidget, attributesTab)
 #. +> trunk6 stable6
-#: browserwidget_contentview.ui:103 collectionattributespage.cpp:21
-#: monitorswidget.cpp:112 monitorswidget.cpp:119 monitorswidget.cpp:152
-#: notificationmonitor.cpp:253 notificationmonitor.cpp:525
+#: browserwidget_contentview.ui:103 collectionattributespage.cpp:21 monitorswidget.cpp:112 monitorswidget.cpp:119 monitorswidget.cpp:152 notificationmonitor.cpp:253 notificationmonitor.cpp:525
 #: notificationmonitor.cpp:550 tagpropertiesdialog.ui:76
 #, kde-format
 msgid "Attributes"
@@ -504,8 +497,7 @@ msgstr ""
 #. i18n: ectx: property (placeholderText), widget (QLineEdit, attrName)
 #. i18n: ectx: property (placeholderText), widget (KLineEdit, newAttrEdit)
 #. +> trunk6 stable6
-#: browserwidget_contentview.ui:116 collectionattributespage.ui:23
-#: tagpropertiesdialog.ui:82
+#: browserwidget_contentview.ui:116 collectionattributespage.ui:23 tagpropertiesdialog.ui:82
 #, kde-format
 msgid "New Attribute"
 msgstr ""
@@ -515,8 +507,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QPushButton, addAttrButton)
 #. i18n: ectx: property (text), widget (QPushButton, addRIDButton)
 #. +> trunk6 stable6
-#: browserwidget_contentview.ui:123 collectionattributespage.ui:30
-#: tagpropertiesdialog.ui:89 tagpropertiesdialog.ui:126
+#: browserwidget_contentview.ui:123 collectionattributespage.ui:30 tagpropertiesdialog.ui:89 tagpropertiesdialog.ui:126
 #, kde-format
 msgid "&Add"
 msgstr ""
@@ -555,8 +546,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, size)
 #. i18n: ectx: property (text), widget (QLabel, modificationtime)
 #. +> trunk6 stable6
-#: browserwidget_contentview.ui:191 browserwidget_contentview.ui:249
-#: browserwidget_contentview.ui:273 browserwidget_contentview.ui:297
+#: browserwidget_contentview.ui:191 browserwidget_contentview.ui:249 browserwidget_contentview.ui:273 browserwidget_contentview.ui:297
 #, kde-format
 msgid "0"
 msgstr ""
@@ -615,16 +605,14 @@ msgstr ""
 #. i18n: ectx: property (title), widget (KEditListWidget, flags)
 #. i18n: ectx: property (title), widget (KEditListWidget, tags)
 #. +> trunk6 stable6
-#: browserwidget_contentview.ui:330 browserwidget_contentview.ui:345
-#: browserwidget_contentview.ui:370 notificationmonitor.cpp:270
+#: browserwidget_contentview.ui:330 browserwidget_contentview.ui:345 browserwidget_contentview.ui:370 notificationmonitor.cpp:270
 #, kde-format
 msgid "Flags"
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
 #. +> trunk6 stable6
-#: browserwidget_contentview.ui:355 monitorswidget.cpp:84
-#: notificationmonitor.cpp:271 notificationmonitor.cpp:449
+#: browserwidget_contentview.ui:355 monitorswidget.cpp:84 notificationmonitor.cpp:271 notificationmonitor.cpp:449
 #, kde-format
 msgid "Tags"
 msgstr ""
@@ -661,11 +649,8 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, changeItem)
 #. i18n: ectx: property (text), widget (QCheckBox, changeCollection)
 #. +> trunk6 stable6
-#: collectionaclpage.ui:30 collectionaclpage.ui:74 notificationmodel.cpp:89
-#: notificationmodel.cpp:111 notificationmodel.cpp:129
-#: notificationmodel.cpp:141 notificationmonitor.cpp:168
-#: notificationmonitor.cpp:363 notificationmonitor.cpp:400
-#: notificationmonitor.cpp:424
+#: collectionaclpage.ui:30 collectionaclpage.ui:74 notificationmodel.cpp:89 notificationmodel.cpp:111 notificationmodel.cpp:129 notificationmodel.cpp:141 notificationmonitor.cpp:168
+#: notificationmonitor.cpp:363 notificationmonitor.cpp:400 notificationmonitor.cpp:424
 #, kde-format
 msgid "Modify"
 msgstr ""
@@ -703,10 +688,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: collectionaclpage.ui:91
 #, kde-format
-msgid ""
-"<b>Note: </b>These values are provided by the corresponding backend and are "
-"not intended to be changed by you, so be warned if something breaks when "
-"changing them nevertheless!"
+msgid "<b>Note: </b>These values are provided by the corresponding backend and are not intended to be changed by you, so be warned if something breaks when changing them nevertheless!"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -883,9 +865,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: instanceselector.ui:20
 #, kde-format
-msgid ""
-"There are multiple instances of Akonadi running in the current D-Bus "
-"session. Please select the instance you want to connect to."
+msgid "There are multiple instances of Akonadi running in the current D-Bus session. Please select the instance you want to connect to."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -955,8 +935,7 @@ msgid "State"
 msgstr ""
 
 #. +> trunk6 stable6
-#: jobtrackermodel.cpp:223 jobtrackersearchwidget.cpp:45 logging.cpp:62
-#: loggingmodel.cpp:140
+#: jobtrackermodel.cpp:223 jobtrackersearchwidget.cpp:45 logging.cpp:62 loggingmodel.cpp:140
 #, kde-format
 msgid "Info"
 msgstr ""
@@ -1095,8 +1074,7 @@ msgid "Program"
 msgstr ""
 
 #. +> trunk6 stable6
-#: loggingmodel.cpp:109 notificationmodel.cpp:194 notificationmonitor.cpp:142
-#: notificationmonitor.cpp:246
+#: loggingmodel.cpp:109 notificationmodel.cpp:194 notificationmonitor.cpp:142 notificationmonitor.cpp:246
 #, kde-format
 msgid "Type"
 msgstr ""
@@ -1267,11 +1245,8 @@ msgstr ""
 #: mainwindow.cpp:35
 #, kde-format
 msgid ""
-"<p>Akonadi Console is purely a development tool. It allows you to view and "
-"change internal data structures of Akonadi. You should only change data in "
-"here if you know what you are doing, otherwise you risk damaging or losing "
-"your personal information management data.<br/><b>Use at your own risk!</b></"
-"p>"
+"<p>Akonadi Console is purely a development tool. It allows you to view and change internal data structures of Akonadi. You should only change data in here if you know what you are doing, otherwise "
+"you risk damaging or losing your personal information management data.<br/><b>Use at your own risk!</b></p>"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -1281,8 +1256,7 @@ msgid "Session/Subscriber"
 msgstr ""
 
 #. +> trunk6 stable6
-#: monitorswidget.cpp:78 notificationmodel.cpp:73 notificationmonitor.cpp:220
-#: notificationmonitor.cpp:443
+#: monitorswidget.cpp:78 notificationmodel.cpp:73 notificationmonitor.cpp:220 notificationmonitor.cpp:443
 #, kde-format
 msgid "Items"
 msgstr ""
@@ -1318,9 +1292,7 @@ msgid "Include Statistics"
 msgstr ""
 
 #. +> trunk6 stable6
-#: monitorswidget.cpp:101 notificationmonitor.cpp:194
-#: notificationmonitor.cpp:382 notificationmonitor.cpp:410
-#: notificationmonitor.cpp:523 tagpropertiesdialog.cpp:80
+#: monitorswidget.cpp:101 notificationmonitor.cpp:194 notificationmonitor.cpp:382 notificationmonitor.cpp:410 notificationmonitor.cpp:523 tagpropertiesdialog.cpp:80
 #, kde-format
 msgid "Resource"
 msgstr ""
@@ -1344,8 +1316,7 @@ msgid "Ancestor Fetch Scope"
 msgstr ""
 
 #. +> trunk6 stable6
-#: monitorswidget.cpp:113 monitorswidget.cpp:120 notificationmonitor.cpp:526
-#: notificationmonitor.cpp:547
+#: monitorswidget.cpp:113 monitorswidget.cpp:120 notificationmonitor.cpp:526 notificationmonitor.cpp:547
 #, kde-format
 msgid "Fetch ID Only"
 msgstr ""
@@ -1531,17 +1502,14 @@ msgid "Subscription"
 msgstr ""
 
 #. +> trunk6 stable6
-#: notificationmodel.cpp:87 notificationmodel.cpp:109 notificationmodel.cpp:127
-#: notificationmodel.cpp:139 notificationmonitor.cpp:165
-#: notificationmonitor.cpp:360 notificationmonitor.cpp:397
+#: notificationmodel.cpp:87 notificationmodel.cpp:109 notificationmodel.cpp:127 notificationmodel.cpp:139 notificationmonitor.cpp:165 notificationmonitor.cpp:360 notificationmonitor.cpp:397
 #: notificationmonitor.cpp:421
 #, kde-format
 msgid "Add"
 msgstr ""
 
 #. +> trunk6 stable6
-#: notificationmodel.cpp:91 notificationmodel.cpp:113
-#: notificationmonitor.cpp:171 notificationmonitor.cpp:366
+#: notificationmodel.cpp:91 notificationmodel.cpp:113 notificationmonitor.cpp:171 notificationmonitor.cpp:366
 #, kde-format
 msgid "Move"
 msgstr ""
@@ -1559,9 +1527,7 @@ msgid "ModifyTags"
 msgstr ""
 
 #. +> trunk6 stable6
-#: notificationmodel.cpp:103 notificationmodel.cpp:133
-#: notificationmodel.cpp:145 notificationmonitor.cpp:189
-#: notificationmonitor.cpp:406 notificationmonitor.cpp:430
+#: notificationmodel.cpp:103 notificationmodel.cpp:133 notificationmodel.cpp:145 notificationmonitor.cpp:189 notificationmonitor.cpp:406 notificationmonitor.cpp:430
 #, kde-format
 msgid "InvalidOp"
 msgstr ""
@@ -1591,9 +1557,7 @@ msgid "Unknown"
 msgstr ""
 
 #. +> trunk6 stable6
-#: notificationmodel.cpp:196 notificationmonitor.cpp:193
-#: notificationmonitor.cpp:381 notificationmonitor.cpp:409
-#: notificationmonitor.cpp:433
+#: notificationmodel.cpp:196 notificationmonitor.cpp:193 notificationmonitor.cpp:381 notificationmonitor.cpp:409 notificationmonitor.cpp:433
 #, kde-format
 msgid "Operation"
 msgstr ""
@@ -1701,8 +1665,7 @@ msgid "name"
 msgstr ""
 
 #. +> trunk6 stable6
-#: notificationmonitor.cpp:236 notificationmonitor.cpp:283
-#: notificationmonitor.cpp:331
+#: notificationmonitor.cpp:236 notificationmonitor.cpp:283 notificationmonitor.cpp:331
 #, kde-format
 msgid "Ancestor"
 msgstr ""
@@ -1726,8 +1689,7 @@ msgid "GID"
 msgstr ""
 
 #. +> trunk6 stable6
-#: notificationmonitor.cpp:247 notificationmonitor.cpp:321
-#: tagpropertiesdialog.cpp:80
+#: notificationmonitor.cpp:247 notificationmonitor.cpp:321 tagpropertiesdialog.cpp:80
 #, kde-format
 msgid "Remote ID"
 msgstr ""
@@ -1757,8 +1719,7 @@ msgid "RemoteRev"
 msgstr ""
 
 #. +> trunk6 stable6
-#: notificationmonitor.cpp:267 notificationmonitor.cpp:305
-#: notificationmonitor.cpp:327
+#: notificationmonitor.cpp:267 notificationmonitor.cpp:305 notificationmonitor.cpp:327
 #, kde-format
 msgid "Size"
 msgstr ""
