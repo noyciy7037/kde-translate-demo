@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the dolphin-plugins package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: fileviewsvnplugin\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-09-24 11:18+0200\n"
-"PO-Revision-Date: 2010-04-16 22:26+0900\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: dolphin-plugins\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6 stable6
 #: fileviewsvnplugin.cpp:70
@@ -134,8 +133,7 @@ msgid "Could not show local SVN changes: svn diff failed."
 msgstr ""
 
 #. +> trunk6 stable6
-#: fileviewsvnplugin.cpp:396 fileviewsvnplugin.cpp:597
-#: fileviewsvnplugin.cpp:620
+#: fileviewsvnplugin.cpp:396 fileviewsvnplugin.cpp:597 fileviewsvnplugin.cpp:620
 #, kde-format
 msgctxt "@info:status"
 msgid "Could not show local SVN changes: could not start kompare."
@@ -268,8 +266,7 @@ msgid "File reverted."
 msgstr ""
 
 #. +> trunk6 stable6
-#: fileviewsvnplugin.cpp:590 fileviewsvnplugin.cpp:607
-#: fileviewsvnplugin.cpp:612
+#: fileviewsvnplugin.cpp:590 fileviewsvnplugin.cpp:607 fileviewsvnplugin.cpp:612
 #, kde-format
 msgctxt "@info:status"
 msgid "Could not show local SVN changes for a file: could not get file."
@@ -348,8 +345,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QPushButton, pbOk)
 #. i18n: ectx: property (text), widget (QPushButton, buttonOk)
 #. +> trunk6 stable6
-#: svncheckoutdialog.ui:71 svncleanupdialog.ui:80 svnlogdialog.ui:146
-#: svnprogressdialog.ui:46
+#: svncheckoutdialog.ui:71 svncleanupdialog.ui:80 svnlogdialog.ui:146 svnprogressdialog.ui:46
 #, kde-format
 msgid "OK"
 msgstr ""

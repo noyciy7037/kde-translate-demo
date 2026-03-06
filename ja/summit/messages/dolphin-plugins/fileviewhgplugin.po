@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the dolphin-plugins package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: fileviewhgplugin\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-05-03 10:19+0200\n"
-"PO-Revision-Date: 2011-10-29 10:14-0700\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: dolphin-plugins\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6 stable6
 #: backoutdialog.cpp:29
@@ -96,8 +95,7 @@ msgid "<b>Current Branch: </b>"
 msgstr ""
 
 #. +> trunk6 stable6
-#: branchdialog.cpp:99 branchdialog.cpp:113 tagdialog.cpp:92 tagdialog.cpp:107
-#: tagdialog.cpp:121
+#: branchdialog.cpp:99 branchdialog.cpp:113 tagdialog.cpp:92 tagdialog.cpp:107 tagdialog.cpp:121
 #, kde-format
 msgid "Some error occurred"
 msgstr ""
@@ -131,9 +129,8 @@ msgid "Bundle all changesets in repository."
 msgstr ""
 
 #. +> trunk6 stable6
-#: bundledialog.cpp:68 exportdialog.cpp:52 importdialog.cpp:56
-#: pulldialog.cpp:36 pushdialog.cpp:36
-#, kde-format, kde-kuit-format
+#: bundledialog.cpp:68 exportdialog.cpp:52 importdialog.cpp:56 pulldialog.cpp:36 pushdialog.cpp:36
+#, kde-kuit-format, kde-format
 msgctxt "@label:group"
 msgid "Options"
 msgstr ""
@@ -780,8 +777,7 @@ msgstr ""
 #: fileviewhgplugin.cpp:489
 #, kde-kuit-format
 msgctxt "@info:status"
-msgid ""
-"Tagging operation in <application>Hg</application> repository is successful."
+msgid "Tagging operation in <application>Hg</application> repository is successful."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -802,8 +798,7 @@ msgstr ""
 #: fileviewhgplugin.cpp:499
 #, kde-kuit-format
 msgctxt "@info:status"
-msgid ""
-"Update of <application>Hg</application> working directory is successful."
+msgid "Update of <application>Hg</application> working directory is successful."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -824,9 +819,7 @@ msgstr ""
 #: fileviewhgplugin.cpp:509
 #, kde-kuit-format
 msgctxt "@info:status"
-msgid ""
-"Branch operation on <application>Hg</application> repository completed "
-"successfully."
+msgid "Branch operation on <application>Hg</application> repository completed successfully."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -867,9 +860,7 @@ msgstr ""
 #: fileviewhgplugin.cpp:618 fileviewhgplugin.cpp:639
 #, kde-kuit-format
 msgctxt "@info:status"
-msgid ""
-"Reverting files in <application>Hg</application> repository completed "
-"successfully."
+msgid "Reverting files in <application>Hg</application> repository completed successfully."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -951,8 +942,7 @@ msgstr ""
 #: fileviewhgplugin.cpp:715
 #, kde-kuit-format
 msgctxt "@info:status"
-msgid ""
-"Rollback of <application>Hg</application> repository completed successfully."
+msgid "Rollback of <application>Hg</application> repository completed successfully."
 msgstr ""
 
 #. i18n: ectx: label, entry (commitDialogHeight), group (CommitDialogSettings)
@@ -967,12 +957,8 @@ msgstr ""
 #. i18n: ectx: label, entry (serveDialogHeight), group (ServeDialogSettings)
 #. i18n: ectx: label, entry (backoutDialogHeight), group (BackoutDialogSettings)
 #. +> trunk6 stable6
-#: fileviewhgpluginsettings.kcfg:7 fileviewhgpluginsettings.kcfg:27
-#: fileviewhgpluginsettings.kcfg:39 fileviewhgpluginsettings.kcfg:49
-#: fileviewhgpluginsettings.kcfg:59 fileviewhgpluginsettings.kcfg:69
-#: fileviewhgpluginsettings.kcfg:79 fileviewhgpluginsettings.kcfg:89
-#: fileviewhgpluginsettings.kcfg:99 fileviewhgpluginsettings.kcfg:109
-#: fileviewhgpluginsettings.kcfg:119
+#: fileviewhgpluginsettings.kcfg:7 fileviewhgpluginsettings.kcfg:27 fileviewhgpluginsettings.kcfg:39 fileviewhgpluginsettings.kcfg:49 fileviewhgpluginsettings.kcfg:59 fileviewhgpluginsettings.kcfg:69
+#: fileviewhgpluginsettings.kcfg:79 fileviewhgpluginsettings.kcfg:89 fileviewhgpluginsettings.kcfg:99 fileviewhgpluginsettings.kcfg:109 fileviewhgpluginsettings.kcfg:119
 #, kde-format
 msgid "Dialog height"
 msgstr ""
@@ -989,12 +975,8 @@ msgstr ""
 #. i18n: ectx: label, entry (serveDialogWidth), group (ServeDialogSettings)
 #. i18n: ectx: label, entry (backoutDialogWidth), group (BackoutDialogSettings)
 #. +> trunk6 stable6
-#: fileviewhgpluginsettings.kcfg:12 fileviewhgpluginsettings.kcfg:32
-#: fileviewhgpluginsettings.kcfg:43 fileviewhgpluginsettings.kcfg:53
-#: fileviewhgpluginsettings.kcfg:63 fileviewhgpluginsettings.kcfg:73
-#: fileviewhgpluginsettings.kcfg:83 fileviewhgpluginsettings.kcfg:93
-#: fileviewhgpluginsettings.kcfg:103 fileviewhgpluginsettings.kcfg:113
-#: fileviewhgpluginsettings.kcfg:123
+#: fileviewhgpluginsettings.kcfg:12 fileviewhgpluginsettings.kcfg:32 fileviewhgpluginsettings.kcfg:43 fileviewhgpluginsettings.kcfg:53 fileviewhgpluginsettings.kcfg:63 fileviewhgpluginsettings.kcfg:73
+#: fileviewhgpluginsettings.kcfg:83 fileviewhgpluginsettings.kcfg:93 fileviewhgpluginsettings.kcfg:103 fileviewhgpluginsettings.kcfg:113 fileviewhgpluginsettings.kcfg:123
 #, kde-format
 msgid "Dialog width"
 msgstr ""

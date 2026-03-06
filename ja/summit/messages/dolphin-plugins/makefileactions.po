@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the dolphin-plugins package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: dolphin-plugins\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-09-24 11:18+0200\n"
-"PO-Revision-Date: 2023-08-13 17:33-0700\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6 stable6
 #: makefileactions.cpp:218
@@ -77,9 +76,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: makefileactions.cpp:305
 #, kde-format
-msgid ""
-"<b>Are you sure you can trust this file?</b><br>Trusted files may execute "
-"arbitrary code on context-menu invocation."
+msgid "<b>Are you sure you can trust this file?</b><br>Trusted files may execute arbitrary code on context-menu invocation."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -91,8 +88,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: makefileactions.cpp:320
 #, kde-format
-msgid ""
-"Open a new terminal window to see the output of making the chosen target."
+msgid "Open a new terminal window to see the output of making the chosen target."
 msgstr ""
 
 #. +> trunk6 stable6
