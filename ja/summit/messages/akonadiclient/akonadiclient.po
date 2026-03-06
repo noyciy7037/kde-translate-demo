@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the akonadiclient package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: akonadiclient\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-09-21 13:29+0200\n"
-"PO-Revision-Date: 2018-07-25 21:06-0700\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6
 #, kde-format
@@ -99,9 +98,7 @@ msgstr ""
 #. +> trunk6
 #: src/abstractcommand.cpp:182
 #, kde-format
-msgctxt ""
-"@info:shell %1 is application name, %2 is subcommand name, %3 is error "
-"message"
+msgctxt "@info:shell %1 is application name, %2 is subcommand name, %3 is error message"
 msgid "%3, see '%1 help %2'"
 msgstr ""
 
@@ -190,8 +187,7 @@ msgid "files..."
 msgstr ""
 
 #. +> trunk6
-#: src/addcommand.cpp:77 src/createcommand.cpp:63 src/listcommand.cpp:64
-#: src/renamecommand.cpp:52
+#: src/addcommand.cpp:77 src/createcommand.cpp:63 src/listcommand.cpp:64 src/renamecommand.cpp:52
 #, kde-format
 msgctxt "@info:shell"
 msgid "Missing collection argument"
@@ -431,8 +427,7 @@ msgid "Invalid parameters"
 msgstr ""
 
 #. +> trunk6
-#: src/agentscommand.cpp:179 src/agentscommand.cpp:211
-#: src/agentscommand.cpp:229 src/agentscommand.cpp:255
+#: src/agentscommand.cpp:179 src/agentscommand.cpp:211 src/agentscommand.cpp:229 src/agentscommand.cpp:255
 #, kde-format
 msgctxt "@info:shell"
 msgid "No agent exists with the identifier '%1'"
@@ -555,8 +550,7 @@ msgid "Only one operation mode option may be specified"
 msgstr ""
 
 #. +> trunk6
-#: src/attributescommand.cpp:211 src/dumpcommand.cpp:74
-#: src/exportcommand.cpp:50
+#: src/attributescommand.cpp:211 src/dumpcommand.cpp:74 src/exportcommand.cpp:50
 #, kde-format
 msgctxt "@info:shell"
 msgid "No collection specified"
@@ -598,8 +592,7 @@ msgid "Cannot read saved attributes from '%1'"
 msgstr ""
 
 #. +> trunk6
-#: src/attributescommand.cpp:270 src/folderscommand.cpp:181
-#: src/tagscommand.cpp:194
+#: src/attributescommand.cpp:270 src/folderscommand.cpp:181 src/tagscommand.cpp:194
 #, kde-format
 msgctxt "@info:shell"
 msgid "Run '%1 %2 --backup' first"
@@ -642,8 +635,7 @@ msgid "Found %1 current Akonadi collections"
 msgstr ""
 
 #. +> trunk6
-#: src/attributescommand.cpp:413 src/folderscommand.cpp:213
-#: src/tagscommand.cpp:543
+#: src/attributescommand.cpp:413 src/folderscommand.cpp:213 src/tagscommand.cpp:543
 #, kde-format
 msgctxt "@info:shell"
 msgid "Cannot save backup list to '%1'"
@@ -761,9 +753,7 @@ msgstr[0] ""
 #: src/attributescommand.cpp:711
 #, kde-kuit-format
 msgctxt "@info:shell"
-msgid ""
-"Attribute changes are required, execute the command:<nl/><bcode>  %1 %2 --"
-"restore</bcode><nl/>to implement the changes."
+msgid "Attribute changes are required, execute the command:<nl/><bcode>  %1 %2 --restore</bcode><nl/>to implement the changes."
 msgstr ""
 
 #. +> trunk6
@@ -1040,9 +1030,7 @@ msgstr ""
 #: src/createcommand.cpp:57
 #, kde-format
 msgctxt "@info:shell"
-msgid ""
-"The collection to create, either as a path or a name (with a parent "
-"specified)"
+msgid "The collection to create, either as a path or a name (with a parent specified)"
 msgstr ""
 
 #. +> trunk6
@@ -1452,8 +1440,7 @@ msgstr ""
 #: src/folderscommand.cpp:498
 #, kde-format
 msgctxt "@info:shell"
-msgid ""
-"Cannot update \"%1\" in group \"%2\" for folder \"%3\" which no longer exists"
+msgid "Cannot update \"%1\" in group \"%2\" for folder \"%3\" which no longer exists"
 msgstr ""
 
 #. +> trunk6
@@ -1481,18 +1468,14 @@ msgstr ""
 #: src/folderscommand.cpp:542
 #, kde-kuit-format
 msgctxt "@info:shell"
-msgid ""
-"Configuration changes are required (%1 group renames and %2 settings changes)"
+msgid "Configuration changes are required (%1 group renames and %2 settings changes)"
 msgstr ""
 
 #. +> trunk6
 #: src/folderscommand.cpp:544
 #, kde-kuit-format
 msgctxt "@info:shell"
-msgid ""
-"Quit all running PIM applications and stop the Akonadi server, then<nl/"
-">execute the command:<nl/><bcode>  %1 %2 --restore</bcode><nl/>to implement "
-"the changes."
+msgid "Quit all running PIM applications and stop the Akonadi server, then<nl/>execute the command:<nl/><bcode>  %1 %2 --restore</bcode><nl/>to implement the changes."
 msgstr ""
 
 #. +> trunk6
@@ -1569,8 +1552,7 @@ msgstr ""
 #: src/folderscommand.cpp:707
 #, kde-format
 msgctxt "@info:shell"
-msgid ""
-"New configuration file '%1' does not exist, or is older than folder list '%2'"
+msgid "New configuration file '%1' does not exist, or is older than folder list '%2'"
 msgstr ""
 
 #. +> trunk6
@@ -1737,8 +1719,7 @@ msgstr ""
 #: src/groupcommand.cpp:104
 #, kde-format
 msgctxt "@info:shell"
-msgid ""
-"Only one of the 'expand', 'add', 'delete' or 'clean' options may be specified"
+msgid "Only one of the 'expand', 'add', 'delete' or 'clean' options may be specified"
 msgstr ""
 
 #. +> trunk6
@@ -1828,9 +1809,7 @@ msgstr ""
 #. +> trunk6
 #: src/groupcommand.cpp:392
 #, kde-format
-msgctxt ""
-"@info:shell section header 1=item 2=groupref count 3=ref count 4=data count "
-"5=name"
+msgctxt "@info:shell section header 1=item 2=groupref count 3=ref count 4=data count 5=name"
 msgid "Group %1 \"%5\" has %2 groups, %3 references and %4 data items:"
 msgstr ""
 
@@ -1842,8 +1821,7 @@ msgid "Type"
 msgstr ""
 
 #. +> trunk6
-#: src/groupcommand.cpp:402 src/listcommand.cpp:182 src/listcommand.cpp:289
-#: src/tagscommand.cpp:511
+#: src/groupcommand.cpp:402 src/listcommand.cpp:182 src/listcommand.cpp:289 src/tagscommand.cpp:511
 #, kde-format
 msgctxt "@info:shell column header"
 msgid "ID"
@@ -1873,9 +1851,7 @@ msgstr ""
 #. +> trunk6
 #: src/groupcommand.cpp:497
 #, kde-format
-msgctxt ""
-"@info:shell section header 1=item 2=groupref count 3=ref count 4=data count "
-"5=name"
+msgctxt "@info:shell section header 1=item 2=groupref count 3=ref count 4=data count 5=name"
 msgid "Adding to group %1 \"%2\":"
 msgstr ""
 
@@ -1910,18 +1886,14 @@ msgstr ""
 #. +> trunk6
 #: src/groupcommand.cpp:583 src/groupcommand.cpp:666 src/groupcommand.cpp:715
 #, kde-format
-msgctxt ""
-"@info:shell section header 1=item 2=groupref count 3=ref count 4=data count "
-"5=name"
+msgctxt "@info:shell section header 1=item 2=groupref count 3=ref count 4=data count 5=name"
 msgid "Group %1 \"%5\" now has %2 groups, %3 references and %4 data items"
 msgstr ""
 
 #. +> trunk6
 #: src/groupcommand.cpp:601
 #, kde-format
-msgctxt ""
-"@info:shell section header 1=item 2=groupref count 3=ref count 4=data count "
-"5=name"
+msgctxt "@info:shell section header 1=item 2=groupref count 3=ref count 4=data count 5=name"
 msgid "Removing from group %1 \"%2\":"
 msgstr ""
 
@@ -1935,9 +1907,7 @@ msgstr ""
 #. +> trunk6
 #: src/groupcommand.cpp:682
 #, kde-format
-msgctxt ""
-"@info:shell section header 1=item 2=groupref count 3=ref count 4=data count "
-"5=name"
+msgctxt "@info:shell section header 1=item 2=groupref count 3=ref count 4=data count 5=name"
 msgid "Cleaning references from group %1 \"%2\":"
 msgstr ""
 
@@ -2715,9 +2685,7 @@ msgstr ""
 #: src/tagscommand.cpp:116
 #, kde-format
 msgctxt "@info:shell"
-msgid ""
-"Only one of the 'list', 'add', 'delete', or 'backup'/'restore' options may "
-"be specified"
+msgid "Only one of the 'list', 'add', 'delete', or 'backup'/'restore' options may be specified"
 msgstr ""
 
 #. +> trunk6
