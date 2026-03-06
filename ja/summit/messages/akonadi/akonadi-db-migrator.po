@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the akonadi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: akonadi\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-11-08 14:07+0100\n"
-"PO-Revision-Date: 2024-01-09 22:13-0800\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6 stable6
 #, kde-format
@@ -65,9 +64,7 @@ msgstr ""
 #: dbmigrator.cpp:495
 #, kde-format
 msgctxt "@info:status"
-msgid ""
-"Invalid database engine \"%1\" - valid values are \"sqlite\", \"mysql\" and "
-"\"postgres\"."
+msgid "Invalid database engine \"%1\" - valid values are \"sqlite\", \"mysql\" and \"postgres\"."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -158,9 +155,7 @@ msgstr ""
 #: dbmigrator.cpp:650
 #, kde-format
 msgctxt "@label"
-msgid ""
-"Backup directory already exists. Do you want to overwrite the previous "
-"backup?"
+msgid "Backup directory already exists. Do you want to overwrite the previous backup?"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -257,9 +252,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: main.cpp:31
 #, kde-format
-msgctxt ""
-"Options for user to input to command line prompt, parenthesis indicate which "
-"letter to type, capitalized option is default"
+msgctxt "Options for user to input to command line prompt, parenthesis indicate which letter to type, capitalized option is default"
 msgid " [(y)es/(N)o] "
 msgstr ""
 
@@ -273,9 +266,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: main.cpp:49
 #, kde-format
-msgctxt ""
-"Options for user to input to command line prompt, parenthesis indicate which "
-"letter to type, capitalized option is default"
+msgctxt "Options for user to input to command line prompt, parenthesis indicate which letter to type, capitalized option is default"
 msgid " [(y)es/(N)o/(s)kip] "
 msgstr ""
 
@@ -301,9 +292,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: main.cpp:85
 #, kde-format
-msgid ""
-"The new DB engine to use. Possible values are  \"sqlite\", \"mysql\" and "
-"\"postgres\""
+msgid "The new DB engine to use. Possible values are  \"sqlite\", \"mysql\" and \"postgres\""
 msgstr ""
 
 #. +> trunk6 stable6
