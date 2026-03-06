@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kate package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: katexmlcheck\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-12-18 07:33+0100\n"
-"PO-Revision-Date: 2016-06-20 21:04-0700\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: kate\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6 stable6
 #: plugin_katexmlcheck.cpp:90
@@ -33,9 +32,7 @@ msgid "Validate process crashed"
 msgstr ""
 
 #. +> trunk6 stable6
-#: plugin_katexmlcheck.cpp:125 plugin_katexmlcheck.cpp:143
-#: plugin_katexmlcheck.cpp:203 plugin_katexmlcheck.cpp:228
-#: plugin_katexmlcheck.cpp:248 plugin_katexmlcheck.cpp:331
+#: plugin_katexmlcheck.cpp:125 plugin_katexmlcheck.cpp:143 plugin_katexmlcheck.cpp:203 plugin_katexmlcheck.cpp:228 plugin_katexmlcheck.cpp:248 plugin_katexmlcheck.cpp:331
 #, kde-format
 msgid "XMLCheck"
 msgstr ""
@@ -62,17 +59,13 @@ msgstr ""
 #. +> trunk6 stable6
 #: plugin_katexmlcheck.cpp:246
 #, kde-format
-msgid ""
-"<b>Error:</b> Failed to find xmllint. Please make sure that xmllint is "
-"installed. It is part of libxml2."
+msgid "<b>Error:</b> Failed to find xmllint. Please make sure that xmllint is installed. It is part of libxml2."
 msgstr ""
 
 #. +> trunk6 stable6
 #: plugin_katexmlcheck.cpp:329
 #, kde-format
-msgid ""
-"<b>Error:</b> Failed to execute xmllint. Please make sure that xmllint is "
-"installed. It is part of libxml2."
+msgid "<b>Error:</b> Failed to execute xmllint. Please make sure that xmllint is installed. It is part of libxml2."
 msgstr ""
 
 #. i18n: ectx: Menu (xml)

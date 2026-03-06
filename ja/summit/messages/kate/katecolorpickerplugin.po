@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kate package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-09-23 10:36+0200\n"
-"PO-Revision-Date: 2020-12-28 21:45-0800\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6 stable6
 #: colorpickerconfigpage.cpp:34
@@ -25,8 +24,7 @@ msgstr ""
 #, kde-format
 msgid ""
 "Also show the color picker for known color names (e.g. skyblue).\n"
-"See https://www.w3.org/TR/SVG11/types.html#ColorKeywords for the list of "
-"colors."
+"See https://www.w3.org/TR/SVG11/types.html#ColorKeywords for the list of colors."
 msgstr ""
 
 #. +> trunk6 stable6

@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kate package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-02-16 09:20+0100\n"
-"PO-Revision-Date: 2019-06-30 16:17-0700\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6 stable6
 #: gotosymboldialog.cpp:157 lspclientsymbolview.cpp:361
@@ -21,8 +20,7 @@ msgid "Filter…"
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientconfigpage.cpp:105 lspclientconfigpage.cpp:110
-#: lspclientpluginview.cpp:479 lspclientpluginview.cpp:627
+#: lspclientconfigpage.cpp:105 lspclientconfigpage.cpp:110 lspclientpluginview.cpp:479 lspclientpluginview.cpp:627
 #, kde-format
 msgid "LSP Client"
 msgstr ""
@@ -72,10 +70,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: lspclientplugin.cpp:240
 #, kde-format
-msgid ""
-"Do you want the LSP server to be started?<br><br>The full command line is:"
-"<br><br><b>%1</b><br><br>The choice can be altered via the config page of "
-"the plugin."
+msgid "Do you want the LSP server to be started?<br><br>The full command line is:<br><br><b>%1</b><br><br>The choice can be altered via the config page of the plugin."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -323,8 +318,7 @@ msgid "Line: %1: "
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientpluginview.cpp:1509 lspclientpluginview.cpp:1858
-#: lspclientpluginview.cpp:1978
+#: lspclientpluginview.cpp:1509 lspclientpluginview.cpp:1858 lspclientpluginview.cpp:1978
 #, kde-format
 msgid "No results"
 msgstr ""
@@ -372,8 +366,7 @@ msgid "Highlight: %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: lspclientpluginview.cpp:1635 lspclientpluginview.cpp:1646
-#: lspclientpluginview.cpp:1659
+#: lspclientpluginview.cpp:1635 lspclientpluginview.cpp:1646 lspclientpluginview.cpp:1659
 #, kde-format
 msgid "No Actions"
 msgstr ""

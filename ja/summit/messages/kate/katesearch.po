@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kate package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: katesearch\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-02-22 07:18+0100\n"
-"PO-Revision-Date: 2011-05-14 09:30-0700\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: kate\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6 stable6
 #: KateSearchCommand.cpp:88
@@ -59,9 +58,7 @@ msgstr ""
 #. +> trunk6
 #: MatchExportDialog.cpp:21
 #, kde-format
-msgid ""
-"Export pattern: \\0 for full match, \\1,\\2,.. for regular expression "
-"captures"
+msgid "Export pattern: \\0 for full match, \\1,\\2,.. for regular expression captures"
 msgstr ""
 
 #. i18n: ectx: property (placeholderText), widget (QLineEdit, exportPatternText)
@@ -143,10 +140,8 @@ msgstr[0] ""
 #. +> trunk6 stable6
 #: MatchModel.cpp:609
 #, kde-format
-msgid ""
-"<b><i>One match (%3) found in all open projects (common parent: %2)</i></b>"
-msgid_plural ""
-"<b><i>%1 matches (%3) found in all open projects (common parent: %2)</i></b>"
+msgid "<b><i>One match (%3) found in all open projects (common parent: %2)</i></b>"
+msgid_plural "<b><i>%1 matches (%3) found in all open projects (common parent: %2)</i></b>"
 msgstr[0] ""
 
 #. +> trunk6 stable6
@@ -228,10 +223,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: search.ui:50
 #, kde-format
-msgctxt ""
-"Checked here refers to the items  on the list below that can have a "
-"checkmark or not. It's not about any verification or similar, plainly about "
-"user interface"
+msgctxt "Checked here refers to the items  on the list below that can have a checkmark or not. It's not about any verification or similar, plainly about user interface"
 msgid "Replace Checked"
 msgstr ""
 
@@ -262,9 +254,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: search.ui:134
 #, kde-format
-msgid ""
-"<html><head/><body><p>Enable regular expressions. Find help for regex syntax "
-"by using the buttons in the search and replace text fields.</p></body></html>"
+msgid "<html><head/><body><p>Enable regular expressions. Find help for regex syntax by using the buttons in the search and replace text fields.</p></body></html>"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, expandResults)
@@ -640,9 +630,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: SearchPlugin.cpp:353
 #, kde-format
-msgid ""
-"This will cut all highlighted search match lines from the current document "
-"to the clipboard"
+msgid "This will cut all highlighted search match lines from the current document to the clipboard"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -654,9 +642,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: SearchPlugin.cpp:360
 #, kde-format
-msgid ""
-"This will copy all highlighted search match lines in the current document to "
-"the clipboard"
+msgid "This will copy all highlighted search match lines in the current document to the clipboard"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -669,8 +655,7 @@ msgstr ""
 #: SearchPlugin.cpp:395
 #, kde-format
 msgid ""
-"Comma separated list of wildcard patterns to match files or directory names "
-"to exclude from the search.\n"
+"Comma separated list of wildcard patterns to match files or directory names to exclude from the search.\n"
 "Example: \"build*\"\n"
 "If the pattern contains a '/', the whole path is checked for a match."
 msgstr ""
@@ -763,9 +748,8 @@ msgstr ""
 #: SearchPlugin.cpp:2283
 #, kde-format
 msgid ""
-"Transform and export search matches using a replacement pattern. To export "
-"the whole matches, use \\0. To export regular expression captures, use "
-"\\1,\\2,... The other text in the pattern is returned in the export results."
+"Transform and export search matches using a replacement pattern. To export the whole matches, use \\0. To export regular expression captures, use \\1,\\2,... The other text in the pattern is "
+"returned in the export results."
 msgstr ""
 
 #. +> trunk6 stable6

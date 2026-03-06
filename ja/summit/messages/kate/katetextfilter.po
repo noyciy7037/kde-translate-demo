@@ -1,25 +1,17 @@
-# translation of katetextfilter.po to Japanese
-# Copyright (C) 2002-2007 This_file_is_part_of_KDE
-# This file is distributed under the same license as the kdesdk package.
-# Noboru Sinohara <shinobo@leo.bekkoame.ne.jp>, 2002.
-# hu <hu_renraku@yahoo.co.jp>, 2005.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kate package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: katetextfilter\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-11-09 11:25+0100\n"
-"PO-Revision-Date: 2006-04-18 22:00+0000\n"
-"Last-Translator: Yukiko Bando <ybando@k6.dion.ne.jp>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: kate\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.10.2\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6 stable6
 #: plugin_katetextfilter.cpp:89
@@ -39,12 +31,8 @@ msgstr ""
 #. +> trunk6 stable6
 #: plugin_katetextfilter.cpp:156
 #, kde-format
-msgid ""
-"You are not allowed to execute arbitrary external applications. If you want "
-"to be able to do this, contact your system administrator."
-msgstr ""
-"あなたには任意の外部アプリケーションを実行する権限がありません。実行できるよ"
-"うにするには、システム管理者に連絡してください。"
+msgid "You are not allowed to execute arbitrary external applications. If you want to be able to do this, contact your system administrator."
+msgstr "あなたには任意の外部アプリケーションを実行する権限がありません。実行できるようにするには、システム管理者に連絡してください。"
 
 #. +> trunk6 stable6
 #: plugin_katetextfilter.cpp:158
@@ -55,7 +43,6 @@ msgstr "アクセス制限"
 #. +> trunk6 stable6
 #: plugin_katetextfilter.cpp:176 plugin_katetextfilter.cpp:264
 #, fuzzy, kde-format
-#| msgid "Filter"
 msgid "Text Filter"
 msgstr "フィルタ"
 
@@ -68,12 +55,8 @@ msgstr "使い方: textfilter コマンド"
 #. +> trunk6 stable6
 #: plugin_katetextfilter.cpp:253
 #, kde-format
-msgid ""
-"<qt><p>Usage: <code>textfilter COMMAND</code></p><p>Replace the selection "
-"with the output of the specified shell command.</p></qt>"
-msgstr ""
-"<qt><p>使い方: <tt>textfilter コマンド</tt></p><p>選択したテキストを指定した"
-"シェルコマンドの出力に置換します。</p></qt>"
+msgid "<qt><p>Usage: <code>textfilter COMMAND</code></p><p>Replace the selection with the output of the specified shell command.</p></qt>"
+msgstr "<qt><p>使い方: <tt>textfilter コマンド</tt></p><p>選択したテキストを指定したシェルコマンドの出力に置換します。</p></qt>"
 
 #. +> trunk6 stable6
 #: plugin_katetextfilter.cpp:269
@@ -92,7 +75,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: textfilterwidget.ui:26
 #, fuzzy, kde-format
-#| msgid "Enter command to pipe selected text through:"
 msgid "Enter command to &pipe selected text through:"
 msgstr "選択したテキストを通すコマンドを入力してください:"
 
@@ -122,8 +104,7 @@ msgstr ""
 #: textfilterwidget.ui:57
 #, kde-format
 msgid ""
-"If checked, an output from STDOUT and STDERR will be merged and no errors "
-"will be reported.\n"
+"If checked, an output from STDOUT and STDERR will be merged and no errors will be reported.\n"
 "Otherwise, STDERR will be displayed as a passive message."
 msgstr ""
 
@@ -140,15 +121,3 @@ msgstr ""
 #, kde-format
 msgid "&Tools"
 msgstr "ツール(&T)"
-
-#~ msgid "Filter Te&xt..."
-#~ msgstr "テキストをフィルタ(&X)..."
-
-#~ msgid "Filter"
-#~ msgstr "フィルタ"
-
-#~ msgid "Enter command to pipe selected text through:"
-#~ msgstr "選択したテキストを通すコマンドを入力してください:"
-
-#~ msgid "You need to have a selection to use textfilter"
-#~ msgstr "textfilter を使うにはテキストを選択しておく必要があります。"

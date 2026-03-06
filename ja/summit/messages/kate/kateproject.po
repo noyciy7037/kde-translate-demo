@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kate package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: kateproject\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-02-16 09:20+0100\n"
-"PO-Revision-Date: 2012-08-15 23:01-0700\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: kate\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6 stable6
 #: branchcheckoutdialog.cpp:29
@@ -145,8 +144,7 @@ msgid "Commit Changes"
 msgstr ""
 
 #. +> trunk6 stable6
-#: gitcommitdialog.cpp:74 gitcommitdialog.cpp:120 gitwidget.cpp:286
-#: gitwidget.cpp:1110
+#: gitcommitdialog.cpp:74 gitcommitdialog.cpp:120 gitwidget.cpp:286 gitwidget.cpp:1110
 #, kde-format
 msgid "Commit"
 msgstr ""
@@ -496,8 +494,7 @@ msgid "Open .gitignore"
 msgstr ""
 
 #. +> trunk6 stable6
-#: gitwidget.cpp:1256 gitwidget.cpp:1305 gitwidget.cpp:1356
-#: kateprojectconfigpage.cpp:90 kateprojectconfigpage.cpp:102
+#: gitwidget.cpp:1256 gitwidget.cpp:1305 gitwidget.cpp:1356 kateprojectconfigpage.cpp:90 kateprojectconfigpage.cpp:102
 #, kde-format
 msgid "Show Diff"
 msgstr ""
@@ -623,9 +620,7 @@ msgid "Malformed JSON file '%1': %2"
 msgstr ""
 
 #. +> trunk6 stable6
-#: kateproject.cpp:423 kateprojectplugin.cpp:791 kateprojectpluginview.cpp:78
-#: kateprojectpluginview.cpp:225 kateprojectviewtree.cpp:351
-#: kateprojectviewtree.cpp:362 kateprojectviewtree.cpp:392
+#: kateproject.cpp:423 kateprojectplugin.cpp:791 kateprojectpluginview.cpp:78 kateprojectpluginview.cpp:225 kateprojectviewtree.cpp:351 kateprojectviewtree.cpp:362 kateprojectviewtree.cpp:392
 #: kateprojectviewtree.cpp:399
 #, kde-format
 msgid "Project"
@@ -653,9 +648,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: kateprojectconfigpage.cpp:26
 #, kde-format
-msgid ""
-"Project plugin is able to autoload repository working copies and build trees "
-"when there is no .kateproject file defined yet."
+msgid "Project plugin is able to autoload repository working copies and build trees when there is no .kateproject file defined yet."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -735,9 +728,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: kateprojectconfigpage.cpp:65
 #, kde-format
-msgid ""
-"The system temporary directory is used if not specified, which may overflow "
-"for very large repositories"
+msgid "The system temporary directory is used if not specified, which may overflow for very large repositories"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -750,8 +741,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: kateprojectconfigpage.cpp:73
 #, kde-format
-msgid ""
-"Project plugin is able to perform some operations across multiple projects"
+msgid "Project plugin is able to perform some operations across multiple projects"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -878,23 +868,17 @@ msgstr ""
 #. +> trunk6 stable6
 #: kateprojectinfoviewcodeanalysis.cpp:99
 #, kde-format
-msgid ""
-"'%1' is not installed on your system, %2.<br/><br/>%3. The tool will be run "
-"on all project files which match this list of file extensions:<br/><b>%4</b>"
+msgid "'%1' is not installed on your system, %2.<br/><br/>%3. The tool will be run on all project files which match this list of file extensions:<br/><b>%4</b>"
 msgstr ""
 
 #. +> trunk6 stable6
 #: kateprojectinfoviewcodeanalysis.cpp:109
 #, kde-format
-msgid ""
-"Using %1 installed at: %2.<br/><br/>%3. The tool will be run on all project "
-"files which match this list of file extensions:<br/><b>%4</b>"
+msgid "Using %1 installed at: %2.<br/><br/>%3. The tool will be run on all project files which match this list of file extensions:<br/><b>%4</b>"
 msgstr ""
 
 #. +> trunk6 stable6
-#: kateprojectinfoviewcodeanalysis.cpp:151
-#: kateprojectinfoviewcodeanalysis.cpp:211
-#: kateprojectinfoviewcodeanalysis.cpp:215
+#: kateprojectinfoviewcodeanalysis.cpp:151 kateprojectinfoviewcodeanalysis.cpp:211 kateprojectinfoviewcodeanalysis.cpp:215
 #, kde-format
 msgid "CodeAnalysis"
 msgstr ""
@@ -902,10 +886,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: kateprojectinfoviewcodeanalysis.cpp:206
 #, kde-format
-msgctxt ""
-"Message to the user that analysis finished. %1 is the name of the program "
-"that did the analysis, %2 is a number. e.g., [clang-tidy]Analysis on 5 files "
-"finished"
+msgctxt "Message to the user that analysis finished. %1 is the name of the program that did the analysis, %2 is a number. e.g., [clang-tidy]Analysis on 5 files finished"
 msgid "[%1]Analysis on %2 file finished."
 msgid_plural "[%1]Analysis on %2 files finished."
 msgstr[0] ""
@@ -991,9 +972,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: kateprojectplugin.cpp:673
 #, kde-format
-msgid ""
-"Full path to current project excluding the file name, with native path "
-"separator (backslash on Windows)."
+msgid "Full path to current project excluding the file name, with native path separator (backslash on Windows)."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -1228,10 +1207,8 @@ msgstr ""
 #: kateprojectworker.cpp:735
 #, kde-format
 msgid ""
-"Unable to load %1 based project because either %1 is not installed or it "
-"wasn't found in PATH environment variable. Please install %1 or "
-"alternatively disable the option 'Autoload Repositories && Build Trees' in "
-"project settings."
+"Unable to load %1 based project because either %1 is not installed or it wasn't found in PATH environment variable. Please install %1 or alternatively disable the option 'Autoload Repositories && "
+"Build Trees' in project settings."
 msgstr ""
 
 #. +> trunk6 stable6

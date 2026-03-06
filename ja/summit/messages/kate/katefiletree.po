@@ -1,33 +1,17 @@
-# Translation of kate into Japanese.
-# This file is distributed under the same license as the kdesdk package.
-# Noboru Sinohara <shinobo@leo.bekkoame.ne.jp>, 2002.
-# Taiki Komoda <kom@kde.gr.jp>, 2002, 2003, 2004, 2005.
-# AWASHIRO Ikuya <ikuya@oooug.jp>, 2004.
-# Kurose Shushi <md81@bird.email.ne.jp>, 2004.
-# oki <s-ooki@mic.jp>, 2004.
-# Shinsaku Nakagawa <shinsaku@users.sourceforge.jp>, 2004.
-# Toyohiro Asukai <toyohiro@ksmplus.com>, 2004.
-# hu <hu_renraku@yahoo.co.jp>, 2005.
-# Shinichi Tsunoda <tsuno@ngy.1st.ne.jp>, 2005.
-# Tom Mishima <tom340@kde.gr.jp>, 2005.
-# Yukiko Bando <ybando@k6.dion.ne.jp>, 2006, 2007, 2008, 2009.
-# Fumiaki Okushi <okushi@kde.gr.jp>, 2005, 2006, 2011, 2012, 2013.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kate package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-02-03 10:27+0100\n"
-"PO-Revision-Date: 2013-05-10 23:29-0700\n"
-"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
-"X-Generator: Lokalize 1.5\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6 stable6
 #: katefiletree.cpp:302
@@ -38,7 +22,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: katefiletree.cpp:306
 #, fuzzy, kde-format
-#| msgid "Open File"
 msgid "Open File"
 msgstr "ファイルを開く"
 
@@ -58,7 +41,6 @@ msgstr "開いている他の文書を閉じます。"
 #. +> trunk6 stable6
 #: katefiletree.cpp:317
 #, fuzzy, kde-format
-#| msgid "Close"
 msgctxt "@action:inmenu"
 msgid "Close"
 msgstr "閉じる"
@@ -95,11 +77,9 @@ msgstr ""
 msgid "Collapse the file list sub tree recursively."
 msgstr ""
 
-# ACCELERATOR added by translator
 #. +> trunk6 stable6
 #: katefiletree.cpp:329
 #, fuzzy, kde-format
-#| msgid "Close Other"
 msgctxt "@action:inmenu"
 msgid "Close Other"
 msgstr "他を閉じる(&T)"
@@ -107,14 +87,12 @@ msgstr "他を閉じる(&T)"
 #. +> trunk6 stable6
 #: katefiletree.cpp:331
 #, fuzzy, kde-format
-#| msgid "Close other open documents."
 msgid "Close other documents in this folder."
 msgstr "開いている他の文書を閉じます。"
 
 #. +> trunk6 stable6
 #: katefiletree.cpp:334
 #, fuzzy, kde-format
-#| msgid "Opening Order"
 msgctxt "@action:inmenu"
 msgid "Open Containing Folder"
 msgstr "開いた順番"
@@ -141,7 +119,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: katefiletree.cpp:342
 #, fuzzy, kde-format
-#| msgid "Open File"
 msgctxt "@action:inmenu"
 msgid "Rename..."
 msgstr "ファイルを開く"
@@ -161,14 +138,12 @@ msgstr "開いている他の文書を閉じます。"
 #. +> trunk6 stable6
 #: katefiletree.cpp:350
 #, fuzzy, kde-format
-#| msgid "Close the current document."
 msgid "Show print preview of current document"
 msgstr "現在の文書を閉じます。"
 
 #. +> trunk6 stable6
 #: katefiletree.cpp:352
 #, fuzzy, kde-format
-#| msgid "Delete File?"
 msgctxt "@action:inmenu"
 msgid "Delete"
 msgstr "ファイルを削除しますか？"
@@ -182,7 +157,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: katefiletree.cpp:362
 #, fuzzy, kde-format
-#| msgid "Tree Mode"
 msgctxt "@action:inmenu"
 msgid "Tree Mode"
 msgstr "ツリーモード"
@@ -196,7 +170,6 @@ msgstr "表示スタイルをツリーモードに設定"
 #. +> trunk6 stable6
 #: katefiletree.cpp:369
 #, fuzzy, kde-format
-#| msgid "List Mode"
 msgctxt "@action:inmenu"
 msgid "List Mode"
 msgstr "リストモード"
@@ -210,7 +183,6 @@ msgstr "表示スタイルをリストモードに設定"
 #. +> trunk6 stable6
 #: katefiletree.cpp:377
 #, fuzzy, kde-format
-#| msgid "Document Name"
 msgctxt "@action:inmenu sorting option"
 msgid "Document Name"
 msgstr "文書名"
@@ -224,7 +196,6 @@ msgstr "文書名でソート"
 #. +> trunk6 stable6
 #: katefiletree.cpp:383
 #, fuzzy, kde-format
-#| msgid "Document Path"
 msgctxt "@action:inmenu sorting option"
 msgid "Document Path"
 msgstr "文書パス"
@@ -238,7 +209,6 @@ msgstr "文書パスでソート"
 #. +> trunk6 stable6
 #: katefiletree.cpp:387
 #, fuzzy, kde-format
-#| msgid "Opening Order"
 msgctxt "@action:inmenu sorting option"
 msgid "Opening Order"
 msgstr "開いた順番"
@@ -284,21 +254,18 @@ msgstr ""
 #. +> trunk6 stable6
 #: katefiletree.cpp:444
 #, fuzzy, kde-format
-#| msgid "Documents"
 msgid "Unpin Document"
 msgstr "文書"
 
 #. +> trunk6 stable6
 #: katefiletree.cpp:446
 #, fuzzy, kde-format
-#| msgid "Documents"
 msgid "Pin Document"
 msgstr "文書"
 
 #. +> trunk6 stable6
 #: katefiletree.cpp:494
 #, fuzzy, kde-format
-#| msgid "View Mode"
 msgctxt "@action:inmenu"
 msgid "View Mode"
 msgstr "表示モード"
@@ -306,7 +273,6 @@ msgstr "表示モード"
 #. +> trunk6 stable6
 #: katefiletree.cpp:498
 #, fuzzy, kde-format
-#| msgid "Sort By"
 msgctxt "@action:inmenu"
 msgid "Sort By"
 msgstr "ソート順"
@@ -398,13 +364,8 @@ msgstr ""
 #. +> trunk6 stable6
 #: katefiletreeconfigpage.cpp:105
 #, kde-format
-msgid ""
-"When background shading is enabled, documents that have been viewed or "
-"edited within the current session will have a shaded background. The most "
-"recent documents have the strongest shade."
-msgstr ""
-"背景色の濃淡を有効にすると、セッション中で見たか変更した文書は濃淡のある背景"
-"色で表示されます。一番最近の文書が一番濃い色になります。"
+msgid "When background shading is enabled, documents that have been viewed or edited within the current session will have a shaded background. The most recent documents have the strongest shade."
+msgstr "背景色の濃淡を有効にすると、セッション中で見たか変更した文書は濃淡のある背景色で表示されます。一番最近の文書が一番濃い色になります。"
 
 #. +> trunk6 stable6
 #: katefiletreeconfigpage.cpp:108
@@ -415,32 +376,23 @@ msgstr "見た文書の色を設定します。"
 #. +> trunk6 stable6
 #: katefiletreeconfigpage.cpp:110
 #, kde-format
-msgid ""
-"Set the color for modified documents. This color is blended into the color "
-"for viewed files. The most recently edited documents get most of this color."
-msgstr ""
-"変更した文書の色を設定します。この色は見た文書の色に加えられます。一番最近変"
-"更した文書が最も多くこの色の影響を受けます。"
+msgid "Set the color for modified documents. This color is blended into the color for viewed files. The most recently edited documents get most of this color."
+msgstr "変更した文書の色を設定します。この色は見た文書の色に加えられます。一番最近変更した文書が最も多くこの色の影響を受けます。"
 
 #. +> trunk6 stable6
 #: katefiletreeconfigpage.cpp:115
 #, kde-format
-msgid ""
-"When enabled, in tree mode, top level folders will show up with their full "
-"path rather than just the last folder name."
+msgid "When enabled, in tree mode, top level folders will show up with their full path rather than just the last folder name."
 msgstr ""
 
 #. +> trunk6 stable6
 #: katefiletreeconfigpage.cpp:118
 #, kde-format
-msgid ""
-"When enabled, a toolbar with actions like “Save” are displayed above the "
-"list of documents."
+msgid "When enabled, a toolbar with actions like “Save” are displayed above the list of documents."
 msgstr ""
 
 #. +> trunk6 stable6
-#: katefiletreeconfigpage.cpp:154 katefiletreeplugin.cpp:130
-#: katefiletreeplugin.cpp:137
+#: katefiletreeconfigpage.cpp:154 katefiletreeplugin.cpp:130 katefiletreeplugin.cpp:137
 #, kde-format
 msgid "Documents"
 msgstr "文書"
@@ -454,8 +406,7 @@ msgstr "文書の設定"
 #. +> trunk6 stable6
 #: katefiletreemodel.cpp:498
 #, fuzzy, kde-format
-msgctxt ""
-"Open here is a description, i.e. 'list of widgets that are open' not a verb"
+msgctxt "Open here is a description, i.e. 'list of widgets that are open' not a verb"
 msgid "Open Widgets"
 msgstr "アプリケーションで開く(&I)"
 
@@ -463,8 +414,7 @@ msgstr "アプリケーションで開く(&I)"
 #: katefiletreemodel.cpp:649
 #, kde-format
 msgctxt "%1 is the full path"
-msgid ""
-"<p><b>%1</b></p><p>The document has been modified by another application.</p>"
+msgid "<p><b>%1</b></p><p>The document has been modified by another application.</p>"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -500,7 +450,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: katefiletreeplugin.cpp:264
 #, fuzzy, kde-format
-#| msgid "Close the current document."
 msgid "Save the current document"
 msgstr "現在の文書を閉じます。"
 
@@ -513,7 +462,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: katefiletreeplugin.cpp:270
 #, fuzzy, kde-format
-#| msgid "Close the current document."
 msgid "Save the current document under a new name"
 msgstr "現在の文書を閉じます。"
 
@@ -523,78 +471,3 @@ msgstr "現在の文書を閉じます。"
 #, kde-format
 msgid "&Go"
 msgstr ""
-
-#, fuzzy, kde-format
-#~| msgid "&Other..."
-#~ msgid "Filter..."
-#~ msgstr "その他(&O)..."
-
-#, fuzzy, kde-format
-#~| msgid "Delete File?"
-#~ msgid "Delete file?"
-#~ msgstr "ファイルを削除しますか？"
-
-#, fuzzy, kde-format
-#~ msgid "Open Widgets"
-#~ msgstr "アプリケーションで開く(&I)"
-
-#, fuzzy, kde-format
-#~| msgid "Filename"
-#~ msgid "New file name"
-#~ msgstr "ファイル名"
-
-#, fuzzy, kde-format
-#~| msgid "Opened file: %1"
-#~ msgid "Rename file"
-#~ msgstr "開いたファイル: %1"
-
-#, fuzzy, kde-format
-#~| msgid "Close the current document."
-#~ msgid "Save current document under new name"
-#~ msgstr "現在の文書を閉じます。"
-
-#, kde-format
-#~ msgctxt "NAME OF TRANSLATORS"
-#~ msgid "Your names"
-#~ msgstr "Noboru Sinohara,Tom Mishima,Shinichi Tsunoda"
-
-#, kde-format
-#~ msgctxt "EMAIL OF TRANSLATORS"
-#~ msgid "Your emails"
-#~ msgstr "shinobo@leo.bekkoame.ne.jp,tom340@kde.gr.jp,tsuno@ngy.1st.ne.jp"
-
-# ACCELERATOR added by translator
-#, fuzzy, kde-format
-#~| msgid "Close Other"
-#~ msgid "Close Widget"
-#~ msgstr "他を閉じる(&T)"
-
-#, fuzzy, kde-format
-#~ msgctxt "@action:inmenu"
-#~ msgid "Copy File Path"
-#~ msgstr "ファイル名"
-
-#, kde-format
-#~ msgid "&View"
-#~ msgstr "表示(&V)"
-
-#, fuzzy, kde-format
-#~| msgid "Close the current document."
-#~ msgid "Save Current Document"
-#~ msgstr "現在の文書を閉じます。"
-
-#, fuzzy, kde-format
-#~| msgid "Close the current document."
-#~ msgid "Save Current Document As"
-#~ msgstr "現在の文書を閉じます。"
-
-#~ msgid "Application '%1' not found."
-#~ msgstr "アプリケーション %1 が見つかりません。"
-
-#~ msgid "Application not found"
-#~ msgstr "アプリケーションが見つかりません"
-
-#, fuzzy
-#~ msgctxt "@action:inmenu"
-#~ msgid "Copy Filename"
-#~ msgstr "ファイル名"

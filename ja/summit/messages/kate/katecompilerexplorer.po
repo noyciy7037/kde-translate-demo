@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kate package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-01-03 08:08+0100\n"
-"PO-Revision-Date: 2024-05-19 09:01+0900\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6 stable6
 #: AsmView.cpp:303
@@ -147,8 +146,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: ce_widget.cpp:344
 #, kde-format
-msgid ""
-"Enter URL for the CompilerExplorer instance, e.g. “http://localhost:10240”"
+msgid "Enter URL for the CompilerExplorer instance, e.g. “http://localhost:10240”"
 msgstr ""
 
 #. +> trunk6 stable6

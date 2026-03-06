@@ -1,21 +1,17 @@
-# Translation of katebuild-plugin into Japanese.
-# Yukiko Bando <ybando@k6.dion.ne.jp>, 2008.
-# Fumiaki Okushi <okushi@kde.gr.jp>, 2011.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kate package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: katebuild-plugin\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-01-13 14:38+0100\n"
-"PO-Revision-Date: 2011-04-22 02:40-0700\n"
-"Last-Translator: Fumiaki Okushi <okushi@kde.gr.jp>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: kate\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6 stable6
 #, kde-format
@@ -40,7 +36,6 @@ msgstr "出力"
 #. +> trunk6 stable6
 #: build.ui:56
 #, fuzzy, kde-format
-#| msgid "Build Plugin"
 msgid "Build Again"
 msgstr "ビルドプラグイン"
 
@@ -54,21 +49,18 @@ msgstr ""
 #. +> trunk6 stable6
 #: buildconfig.cpp:47
 #, fuzzy, kde-format
-#| msgid "Build Plugin"
 msgid "Build & Run"
 msgstr "ビルドプラグイン"
 
 #. +> trunk6 stable6
 #: buildconfig.cpp:53
 #, fuzzy, kde-format
-#| msgid "Build failed."
 msgid "Build & Run Settings"
 msgstr "ビルドに失敗しました。"
 
 #. +> trunk6 stable6
 #: buildconfig.cpp:106
 #, fuzzy, kde-format
-#| msgid "Build failed."
 msgid "Delete selected entries"
 msgstr "ビルドに失敗しました。"
 
@@ -82,7 +74,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: buildconfigwidget.ui:33
 #, fuzzy, kde-format
-#| msgid "Settings"
 msgid "General Settings"
 msgstr "設定"
 
@@ -103,10 +94,8 @@ msgstr ""
 #. i18n: ectx: property (toolTip), widget (QCheckBox, u_showProgressCB)
 #. +> trunk6 stable6
 #: buildconfigwidget.ui:77
-#, no-c-format, kde-format
-msgid ""
-"If the output lines start with [ # / ## ] or [ ## % ], display the latest as "
-"a message."
+#, kde-format, no-c-format
+msgid "If the output lines start with [ # / ## ] or [ ## % ], display the latest as a message."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, u_showProgressCB)
@@ -124,8 +113,7 @@ msgid "Allowed && Blocked Commands"
 msgstr ""
 
 #. +> trunk6 stable6
-#: plugin_katebuild.cpp:268 plugin_katebuild.cpp:275 plugin_katebuild.cpp:756
-#: plugin_katebuild.cpp:992 plugin_katebuild.cpp:1005
+#: plugin_katebuild.cpp:268 plugin_katebuild.cpp:275 plugin_katebuild.cpp:756 plugin_katebuild.cpp:992 plugin_katebuild.cpp:1005
 #, kde-format
 msgid "Build"
 msgstr "ビルド"
@@ -133,21 +121,18 @@ msgstr "ビルド"
 #. +> trunk6 stable6
 #: plugin_katebuild.cpp:278
 #, fuzzy, kde-format
-#| msgid "Build failed."
 msgid "Select Target..."
 msgstr "ビルドに失敗しました。"
 
 #. +> trunk6 stable6
 #: plugin_katebuild.cpp:283
 #, fuzzy, kde-format
-#| msgid "Build failed."
 msgid "Build Selected Target"
 msgstr "ビルドに失敗しました。"
 
 #. +> trunk6 stable6
 #: plugin_katebuild.cpp:288
 #, fuzzy, kde-format
-#| msgid "Build failed."
 msgid "Build and Run Selected Target"
 msgstr "ビルドに失敗しました。"
 
@@ -199,15 +184,12 @@ msgstr "ターゲットの設定"
 #. +> trunk6 stable6
 #: plugin_katebuild.cpp:407
 #, kde-format
-msgid ""
-"<b>File not found:</b> %1<br><b>Search paths:</b><br>%2<br>Try adding a "
-"search path to the \"Working Directory\""
+msgid "<b>File not found:</b> %1<br><b>Search paths:</b><br>%2<br>Try adding a search path to the \"Working Directory\""
 msgstr ""
 
 #. +> trunk6 stable6
 #: plugin_katebuild.cpp:504
 #, fuzzy, kde-format
-#| msgid "Build command:"
 msgid "Build Information"
 msgstr "ビルドコマンド:"
 
@@ -220,25 +202,19 @@ msgstr "ビルドするファイルもディレクトリも指定されていま
 #. +> trunk6 stable6
 #: plugin_katebuild.cpp:767
 #, kde-format
-msgid ""
-"The file \"%1\" is not a local file. Non-local files cannot be compiled."
-msgstr ""
-"ファイル ‘%1’ はローカルファイルではありません。ローカルファイル以外はコンパ"
-"イルできません。"
+msgid "The file \"%1\" is not a local file. Non-local files cannot be compiled."
+msgstr "ファイル ‘%1’ はローカルファイルではありません。ローカルファイル以外はコンパイルできません。"
 
 #. +> trunk6 stable6
 #: plugin_katebuild.cpp:838
 #, fuzzy, kde-format
-#| msgid "Working directory"
 msgid "Create directory"
 msgstr "作業ディレクトリ"
 
 #. +> trunk6 stable6
 #: plugin_katebuild.cpp:841
 #, kde-format
-msgid ""
-"The configured working directory <b>%1</b> for the targetset <b>%2</b> does "
-"not exist.<br><br>Create the directory?"
+msgid "The configured working directory <b>%1</b> for the targetset <b>%2</b> does not exist.<br><br>Create the directory?"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -256,7 +232,6 @@ msgstr "%1 を実行できませんでした。終了ステータス = %2"
 #. +> trunk6 stable6
 #: plugin_katebuild.cpp:885
 #, fuzzy, kde-format
-#| msgid "Build failed."
 msgid "Building <b>%1: %2</b> cancelled"
 msgstr "ビルドに失敗しました。"
 
@@ -275,25 +250,19 @@ msgstr ""
 #. +> trunk6 stable6
 #: plugin_katebuild.cpp:1023
 #, kde-format
-msgid ""
-"Cannot make \"%f\" substitution. No open file or the current file is "
-"untitled!"
+msgid "Cannot make \"%f\" substitution. No open file or the current file is untitled!"
 msgstr ""
 
 #. +> trunk6 stable6
 #: plugin_katebuild.cpp:1027
 #, kde-format
-msgid ""
-"Cannot make \"%d\" substitution. No open file or the current file is "
-"untitled!"
+msgid "Cannot make \"%d\" substitution. No open file or the current file is untitled!"
 msgstr ""
 
 #. +> trunk6 stable6
 #: plugin_katebuild.cpp:1031
 #, kde-format
-msgid ""
-"Cannot make \"%n\" substitution. No open file or the current file is "
-"untitled!"
+msgid "Cannot make \"%n\" substitution. No open file or the current file is untitled!"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -311,7 +280,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: plugin_katebuild.cpp:1093
 #, fuzzy, kde-format
-#| msgid "There is no file or directory specified for building."
 msgid ""
 "Cannot execute: %1: %2 No working directory set.\n"
 "There is no local file or directory specified for building."
@@ -320,16 +288,13 @@ msgstr "ビルドするファイルもディレクトリも指定されていま
 #. +> trunk6 stable6
 #: plugin_katebuild.cpp:1214
 #, fuzzy, kde-format
-#| msgid "Build failed."
 msgid "Building target <b>%1: %2</b> ..."
 msgstr "ビルドに失敗しました。"
 
 #. +> trunk6 stable6
 #: plugin_katebuild.cpp:1251
 #, kde-format
-msgid ""
-"Cannot load targets, the file %1 does not contain a proper CMAKE_COMMAND "
-"entry !"
+msgid "Cannot load targets, the file %1 does not contain a proper CMAKE_COMMAND entry !"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -347,9 +312,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: plugin_katebuild.cpp:1279
 #, kde-format
-msgid ""
-"Generating CMake File API reply files for build directory %1 failed (using "
-"%2) !"
+msgid "Generating CMake File API reply files for build directory %1 failed (using %2) !"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -362,10 +325,8 @@ msgstr ""
 #: plugin_katebuild.cpp:1407
 #, kde-format
 msgid ""
-"The Kate build plugin needs to execute an external command to read the "
-"targets from the build tree.<br><br>The full command line is:<br><br><b>%1</"
-"b><br><br>Proceed and allow to run this command ?<br><br>The choice can be "
-"altered via the config page of the plugin."
+"The Kate build plugin needs to execute an external command to read the targets from the build tree.<br><br>The full command line is:<br><br><b>%1</b><br><br>Proceed and allow to run this command "
+"?<br><br>The choice can be altered via the config page of the plugin."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -398,8 +359,6 @@ msgstr[0] "%1 件の警告が見つかりました。"
 #. +> trunk6 stable6
 #: plugin_katebuild.cpp:1521
 #, fuzzy, kde-format
-#| msgid "Found one error."
-#| msgid_plural "Found %1 errors."
 msgid "Found one note."
 msgid_plural "Found %1 notes."
 msgstr[0] "%1 件のエラーが見つかりました。"
@@ -407,7 +366,6 @@ msgstr[0] "%1 件のエラーが見つかりました。"
 #. +> trunk6 stable6
 #: plugin_katebuild.cpp:1525
 #, fuzzy, kde-format
-#| msgid "Build failed."
 msgid "Build canceled."
 msgstr "ビルドに失敗しました。"
 
@@ -432,7 +390,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: plugin_katebuild.cpp:1815
 #, fuzzy, kde-format
-#| msgid "Next Error"
 msgctxt "The same word as 'gcc' uses for an error."
 msgid "error"
 msgstr "次のエラー"
@@ -440,7 +397,6 @@ msgstr "次のエラー"
 #. +> trunk6 stable6
 #: plugin_katebuild.cpp:1818
 #, fuzzy, kde-format
-#| msgid "Errors && Warnings"
 msgctxt "The same word as 'gcc' uses for a warning."
 msgid "warning"
 msgstr "エラーと警告"
@@ -466,30 +422,29 @@ msgid "Cannot save build targets in: %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: TargetHtmlDelegate.cpp:47
+#: TargetHtmlDelegate.cpp:48
 #, kde-format
 msgctxt "T as in Target set"
 msgid "<B>T:</B> %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: TargetHtmlDelegate.cpp:49
+#: TargetHtmlDelegate.cpp:50
 #, kde-format
 msgctxt "Dir as in working Directory"
 msgid "<B>Dir:</B> %1"
 msgstr ""
 
 #. +> trunk6 stable6
-#: TargetHtmlDelegate.cpp:100
+#: TargetHtmlDelegate.cpp:95
 #, fuzzy, kde-format
-#| msgid "Leave empty to use the directory of the current document. "
 msgid ""
 "Leave empty to use the directory of the current document.\n"
 "Add search directories by adding paths separated by ';'"
 msgstr "現在の文書のあるディレクトリを使用するには空のままにしてください。"
 
 #. +> trunk6 stable6
-#: TargetHtmlDelegate.cpp:107
+#: TargetHtmlDelegate.cpp:102
 #, kde-format
 msgid ""
 "Use:\n"
@@ -498,10 +453,8 @@ msgid ""
 msgstr ""
 
 #. +> trunk6 stable6
-#: TargetHtmlDelegate.cpp:111
+#: TargetHtmlDelegate.cpp:106
 #, fuzzy, kde-format
-#| msgid ""
-#| "Use \"%f\" for current file and \"%d\" for directory of current file."
 msgid ""
 "Use:\n"
 "\"%f\" for current file\n"
@@ -509,14 +462,11 @@ msgid ""
 "\"%n\" for current file name without suffix\n"
 "\"%B\" for current project's base directory\n"
 "\"%w\" for the working directory of the target"
-msgstr ""
-"現在のファイルには「%f」を、現在のファイルのあるディレクトリには「%d」を使"
-"用。"
+msgstr "現在のファイルには「%f」を、現在のファイルのあるディレクトリには「%d」を使用。"
 
 #. +> trunk6 stable6
 #: TargetModel.cpp:315 TargetModel.cpp:327 targets.cpp:254
 #, fuzzy, kde-format
-#| msgid "Targets"
 msgid "Target Set"
 msgstr "ターゲット"
 
@@ -541,14 +491,12 @@ msgstr ""
 #. +> trunk6 stable6
 #: TargetModel.cpp:681
 #, fuzzy, kde-format
-#| msgid "Working directory:"
 msgid "Build Command / Working Directory"
 msgstr "作業ディレクトリ:"
 
 #. +> trunk6 stable6
 #: TargetModel.cpp:684
 #, fuzzy, kde-format
-#| msgid "Clean command:"
 msgid "Run Command"
 msgstr "クリーンコマンド:"
 
@@ -591,14 +539,12 @@ msgstr ""
 #. +> trunk6 stable6
 #: targets.cpp:53
 #, fuzzy, kde-format
-#| msgid "Build failed."
 msgid "Build and run selected target"
 msgstr "ビルドに失敗しました。"
 
 #. +> trunk6 stable6
 #: targets.cpp:57
 #, fuzzy, kde-format
-#| msgid "Build failed."
 msgid "Move selected target up"
 msgstr "ビルドに失敗しました。"
 
@@ -629,7 +575,6 @@ msgstr ""
 #. +> trunk6 stable6
 #: targets.cpp:229 targets.cpp:256
 #, fuzzy, kde-format
-#| msgid "Clean command:"
 msgctxt "Name/Label for a compilation or build command"
 msgid "Build Command"
 msgstr "クリーンコマンド:"
@@ -637,7 +582,6 @@ msgstr "クリーンコマンド:"
 #. +> trunk6 stable6
 #: targets.cpp:255
 #, fuzzy, kde-format
-#| msgid "Config"
 msgctxt "Name/Label for a command to configure a build"
 msgid "Configure"
 msgstr "設定"
@@ -653,7 +597,6 @@ msgstr "ビルド(&B)"
 #. +> trunk6 stable6
 #: ui.rc:23
 #, fuzzy, kde-format
-#| msgid "Build Plugin"
 msgid "Build Plugin Toolbar"
 msgstr "ビルドプラグイン"
 
@@ -668,229 +611,3 @@ msgstr ""
 #, kde-format
 msgid "Select directory to insert"
 msgstr ""
-
-#, fuzzy, kde-format
-#~| msgid "There is no file or directory specified for building."
-#~ msgid "There is no local file or directory specified for building."
-#~ msgstr "ビルドするファイルもディレクトリも指定されていません。"
-
-#, fuzzy, kde-format
-#~| msgid "Build failed."
-#~ msgid "Building target <b>%1</b> ..."
-#~ msgstr "ビルドに失敗しました。"
-
-#, fuzzy, kde-format
-#~| msgid ""
-#~| "Use \"%f\" for current file and \"%d\" for directory of current file."
-#~ msgid ""
-#~ "Use:\n"
-#~ "\"%f\" for current file\n"
-#~ "\"%d\" for directory of current file\n"
-#~ "\"%n\" for current file name without suffix"
-#~ msgstr ""
-#~ "現在のファイルには「%f」を、現在のファイルのあるディレクトリには「%d」を使"
-#~ "用。"
-
-#, fuzzy, kde-format
-#~| msgid "Build Plugin"
-#~ msgid "Build again"
-#~ msgstr "ビルドプラグイン"
-
-#, fuzzy, kde-format
-#~| msgid "Working directory"
-#~ msgid "Working Directory / Command"
-#~ msgstr "作業ディレクトリ"
-
-#, kde-format
-#~ msgid "Clean"
-#~ msgstr "クリーン"
-
-#, kde-format
-#~ msgid "Config"
-#~ msgstr "設定"
-
-#, fuzzy, kde-format
-#~| msgid "Config"
-#~ msgid "ConfigClean"
-#~ msgstr "設定"
-
-#, fuzzy, kde-format
-#~| msgid "Build"
-#~ msgid "build"
-#~ msgstr "ビルド"
-
-#, fuzzy, kde-format
-#~| msgid "Clean"
-#~ msgid "clean"
-#~ msgstr "クリーン"
-
-#, kde-format
-#~ msgctxt "Header for the file name column"
-#~ msgid "File"
-#~ msgstr "ファイル"
-
-#, kde-format
-#~ msgctxt "Header for the line number column"
-#~ msgid "Line"
-#~ msgstr "行"
-
-#, kde-format
-#~ msgctxt "Header for the error message column"
-#~ msgid "Message"
-#~ msgstr "メッセージ"
-
-#, kde-format
-#~ msgid "Next Error"
-#~ msgstr "次のエラー"
-
-#, kde-format
-#~ msgid "Previous Error"
-#~ msgstr "前のエラー"
-
-#, fuzzy, kde-format
-#~| msgid "Next Error"
-#~ msgid "Error"
-#~ msgstr "次のエラー"
-
-#, fuzzy, kde-format
-#~| msgid "Errors && Warnings"
-#~ msgid "Warning"
-#~ msgstr "エラーと警告"
-
-#, fuzzy, kde-format
-#~| msgid "Next Error"
-#~ msgid "Only Errors"
-#~ msgstr "次のエラー"
-
-#, fuzzy, kde-format
-#~| msgid "Errors && Warnings"
-#~ msgid "Errors and Warnings"
-#~ msgstr "エラーと警告"
-
-#, fuzzy, kde-format
-#~| msgid "Build Output"
-#~ msgid "Parsed Output"
-#~ msgstr "ビルド出力"
-
-#, fuzzy, kde-format
-#~| msgid "Build Output"
-#~ msgid "Full Output"
-#~ msgstr "ビルド出力"
-
-#, fuzzy, kde-format
-#~| msgid "Build failed."
-#~ msgid "Build Default Target"
-#~ msgstr "ビルドに失敗しました。"
-
-#, fuzzy, kde-format
-#~| msgid "Build failed."
-#~ msgid "Build Previous Target"
-#~ msgstr "ビルドに失敗しました。"
-
-#, fuzzy, kde-format
-#~| msgid "Config"
-#~ msgid "config"
-#~ msgstr "設定"
-
-#, fuzzy, kde-format
-#~| msgid "Build failed."
-#~ msgid "Build and Run Default Target"
-#~ msgstr "ビルドに失敗しました。"
-
-#, kde-format
-#~ msgid "Build Output"
-#~ msgstr "ビルド出力"
-
-#, fuzzy
-#~| msgid "Leave empty to use the directory of the current document. "
-#~ msgid "Leave empty to use the directory of the current document."
-#~ msgstr "現在の文書のあるディレクトリを使用するには空のままにしてください。"
-
-#, fuzzy
-#~| msgid "Build failed."
-#~ msgid "Build Target..."
-#~ msgstr "ビルドに失敗しました。"
-
-#, fuzzy
-#~| msgid "Next Target"
-#~ msgid "Sets of Targets"
-#~ msgstr "次のターゲット"
-
-#, fuzzy
-#~| msgid "Next Target"
-#~ msgid "Next Set of Targets"
-#~ msgstr "次のターゲット"
-
-#, fuzzy
-#~| msgid "Target %1"
-#~ msgid "Target Set %1"
-#~ msgstr "ターゲット %1"
-
-#, fuzzy
-#~| msgid "Targets"
-#~ msgid "Target"
-#~ msgstr "ターゲット"
-
-#~ msgid "Make Results"
-#~ msgstr "make の結果"
-
-#, fuzzy
-#~| msgid "Targets"
-#~ msgid "Target set"
-#~ msgstr "ターゲット"
-
-#, fuzzy
-#~| msgid "Targets"
-#~ msgid "Target:"
-#~ msgstr "ターゲット"
-
-#~ msgid "Errors && Warnings"
-#~ msgstr "エラーと警告"
-
-#~ msgid "Quick Compile"
-#~ msgstr "クイックコンパイル"
-
-#~ msgid "Next Target"
-#~ msgstr "次のターゲット"
-
-#~ msgid "The custom command is empty."
-#~ msgstr "カスタムコマンドが空です。"
-
-#~ msgid "Target %1"
-#~ msgstr "ターゲット %1"
-
-#~ msgid "Targets"
-#~ msgstr "ターゲット"
-
-#~ msgid "Delete"
-#~ msgstr "削除"
-
-#~ msgid "Quick compile"
-#~ msgstr "クイックコンパイル"
-
-#~ msgid "Quick compile:"
-#~ msgstr "クイックコンパイル:"
-
-#~ msgid "..."
-#~ msgstr "..."
-
-#~ msgid "Run make"
-#~ msgstr "make を実行"
-
-#~ msgid "Make Clean"
-#~ msgstr "make clean"
-
-#~ msgctxt "Header for the file name collumn"
-#~ msgid "File"
-#~ msgstr "ファイル"
-
-#~ msgctxt "Header for the line number collumn"
-#~ msgid "Line"
-#~ msgstr "行"
-
-#~ msgctxt "Header for the error message collumn"
-#~ msgid "Message"
-#~ msgstr "メッセージ"
-
-#~ msgid "Found Warnings/Errors."
-#~ msgstr "警告/エラーが見つかりました。"
