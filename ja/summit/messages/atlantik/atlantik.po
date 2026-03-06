@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the atlantik package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: atlantik\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-05-07 09:54+0200\n"
-"PO-Revision-Date: 2019-04-14 11:37-0700\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6
 #, kde-format
@@ -121,9 +120,7 @@ msgstr ""
 #. +> trunk6
 #: client/atlantik.cpp:919
 #, kde-format
-msgid ""
-"You are currently part of an active game. Are you sure you want to close "
-"Atlantik? If you do, you forfeit the game."
+msgid "You are currently part of an active game. Are you sure you want to close Atlantik? If you do, you forfeit the game."
 msgstr ""
 
 #. +> trunk6
@@ -141,9 +138,7 @@ msgstr ""
 #. +> trunk6
 #: client/atlantik.cpp:952
 #, kde-format
-msgid ""
-"You are currently part of an active game. Are you sure you want to leave it? "
-"If you do, you forfeit the game."
+msgid "You are currently part of an active game. Are you sure you want to leave it? If you do, you forfeit the game."
 msgstr ""
 
 #. +> trunk6
@@ -183,9 +178,7 @@ msgstr ""
 #. +> trunk6
 #: client/configboard.ui:23
 #, kde-format
-msgid ""
-"If checked, unowned properties on the board display an estate card to "
-"indicate the property is for sale."
+msgid "If checked, unowned properties on the board display an estate card to indicate the property is for sale."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_IndicateUnowned)
@@ -199,9 +192,7 @@ msgstr ""
 #. +> trunk6
 #: client/configboard.ui:33
 #, kde-format
-msgid ""
-"If checked, unowned properties on the board are highlighted to indicate the "
-"property is for sale."
+msgid "If checked, unowned properties on the board are highlighted to indicate the property is for sale."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_HighlightUnowned)
@@ -215,9 +206,7 @@ msgstr ""
 #. +> trunk6
 #: client/configboard.ui:43
 #, kde-format
-msgid ""
-"If checked, mortgaged properties on the board will be colored darker than of "
-"the default color."
+msgid "If checked, mortgaged properties on the board will be colored darker than of the default color."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_DarkenMortgaged)
@@ -231,9 +220,7 @@ msgstr ""
 #. +> trunk6
 #: client/configboard.ui:53
 #, kde-format
-msgid ""
-"If checked, tokens will move across the board instead of jumping directly to "
-"their new location."
+msgid "If checked, tokens will move across the board instead of jumping directly to their new location."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_AnimateToken)
@@ -247,9 +234,7 @@ msgstr ""
 #. +> trunk6
 #: client/configboard.ui:63
 #, kde-format
-msgid ""
-"If checked, the colored headers of street estates on the board will have a "
-"Quartz effect similar to the Quartz KWin style."
+msgid "If checked, the colored headers of street estates on the board will have a Quartz effect similar to the Quartz KWin style."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_QuartzEffects)
@@ -308,9 +293,7 @@ msgstr ""
 #. +> trunk6
 #: client/configmetaserver.ui:17
 #, kde-format
-msgid ""
-"If checked, Atlantik connects to a meta server on start-up to request a list "
-"of Internet servers."
+msgid "If checked, Atlantik connects to a meta server on start-up to request a list of Internet servers."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_ConnectOnStart)
@@ -325,8 +308,7 @@ msgstr ""
 #: client/configmetaserver.ui:28
 #, kde-format
 msgid ""
-"Some of the Internet servers might be running development versions of the "
-"server software.\n"
+"Some of the Internet servers might be running development versions of the server software.\n"
 "If checked, Atlantik will not display these servers."
 msgstr ""
 
@@ -612,15 +594,13 @@ msgid "Create a new %1 Game"
 msgstr ""
 
 #. +> trunk6
-#: client/selectgame_widget.cpp:86 client/selectgame_widget.cpp:135
-#: client/selectgame_widget.cpp:159
+#: client/selectgame_widget.cpp:86 client/selectgame_widget.cpp:135 client/selectgame_widget.cpp:159
 #, kde-format
 msgid "Watch %1's %2 Game"
 msgstr ""
 
 #. +> trunk6
-#: client/selectgame_widget.cpp:88 client/selectgame_widget.cpp:137
-#: client/selectgame_widget.cpp:161
+#: client/selectgame_widget.cpp:88 client/selectgame_widget.cpp:137 client/selectgame_widget.cpp:161
 #, kde-format
 msgid "Join %1's %2 Game"
 msgstr ""
@@ -775,8 +755,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QTreeWidget, playerList)
 #. +> trunk6
-#: libatlantikui/auction.ui:21 libatlantikui/trade_widget.cpp:162
-#: libatlantikui/trade_widget.cpp:164
+#: libatlantikui/auction.ui:21 libatlantikui/trade_widget.cpp:162 libatlantikui/trade_widget.cpp:164
 #, kde-format
 msgid "Player"
 msgstr ""
