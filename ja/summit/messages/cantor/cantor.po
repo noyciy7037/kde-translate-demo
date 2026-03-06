@@ -1,18 +1,17 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the cantor package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: mathematik\n"
-"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-02-25 09:27+0100\n"
-"PO-Revision-Date: 2009-05-18 00:19+0900\n"
-"Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
-"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Project-Id-Version: cantor\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
+"Generated-By: Pontoon\n"
 
 #. +> trunk6 stable6
 #, kde-format
@@ -64,8 +63,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #. +> trunk6 stable6
-#: assistants/advancedplot/advancedplotdialog.ui:24
-#: backends/qalculate/plotassistant/qalculateplotassistant.cpp:24
+#: assistants/advancedplot/advancedplotdialog.ui:24 backends/qalculate/plotassistant/qalculateplotassistant.cpp:24
 #, kde-format
 msgid "Plot"
 msgstr ""
@@ -73,9 +71,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #. i18n: ectx: property (text), widget (QLabel, label)
 #. +> trunk6 stable6
-#: assistants/advancedplot/advancedplotdialog.ui:33
-#: assistants/differentiate/differentiatedlg.ui:19
-#: assistants/integrate/integratedlg.ui:19 assistants/plot2d/plot2ddlg.ui:19
+#: assistants/advancedplot/advancedplotdialog.ui:33 assistants/differentiate/differentiatedlg.ui:19 assistants/integrate/integratedlg.ui:19 assistants/plot2d/plot2ddlg.ui:19
 #: assistants/plot3d/plot3ddlg.ui:17
 #, kde-format
 msgid "Expression:"
@@ -90,9 +86,7 @@ msgstr ""
 
 #. i18n: ectx: Menu (Plot)
 #. +> trunk6 stable6
-#: assistants/advancedplot/cantor_advancedplot_assistant.rc:4
-#: assistants/plot2d/cantor_plot2d_assistant.rc:4
-#: assistants/plot3d/cantor_plot3d_assistant.rc:4
+#: assistants/advancedplot/cantor_advancedplot_assistant.rc:4 assistants/plot2d/cantor_plot2d_assistant.rc:4 assistants/plot3d/cantor_plot3d_assistant.rc:4
 #: backends/qalculate/plotassistant/cantor_qalculateplotassistant.rc:4
 #, kde-format
 msgid "&Plot"
@@ -107,9 +101,7 @@ msgstr ""
 
 #. i18n: ectx: Menu (calculate)
 #. +> trunk6 stable6
-#: assistants/differentiate/cantor_differentiate_assistant.rc:4
-#: assistants/integrate/cantor_integrate_assistant.rc:4
-#: assistants/solve/cantor_solve_assistant.rc:4
+#: assistants/differentiate/cantor_differentiate_assistant.rc:4 assistants/integrate/cantor_integrate_assistant.rc:4 assistants/solve/cantor_solve_assistant.rc:4
 #, kde-format
 msgid "&Calculate"
 msgstr ""
@@ -122,8 +114,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #. +> trunk6 stable6
-#: assistants/differentiate/differentiatedlg.ui:29
-#: assistants/integrate/integratedlg.ui:29
+#: assistants/differentiate/differentiatedlg.ui:29 assistants/integrate/integratedlg.ui:29
 #, kde-format
 msgid "Variable:"
 msgstr ""
@@ -131,9 +122,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (KLineEdit, variable)
 #. i18n: ectx: property (text), widget (KLineEdit, xVarEdit)
 #. +> trunk6 stable6
-#: assistants/differentiate/differentiatedlg.ui:36
-#: assistants/integrate/integratedlg.ui:36
-#: backends/qalculate/plotassistant/qalculateplotdialog.ui:123
+#: assistants/differentiate/differentiatedlg.ui:36 assistants/integrate/integratedlg.ui:36 backends/qalculate/plotassistant/qalculateplotdialog.ui:123
 #, kde-format
 msgid "x"
 msgstr ""
@@ -194,10 +183,8 @@ msgstr ""
 
 #. i18n: ectx: Menu (linear_algebra)
 #. +> trunk6 stable6
-#: assistants/linearalgebra/creatematrix/cantor_create_matrix_assistant.rc:4
-#: assistants/linearalgebra/eigenvalues/cantor_eigenvalues_assistant.rc:4
-#: assistants/linearalgebra/eigenvectors/cantor_eigenvectors_assistant.rc:4
-#: assistants/linearalgebra/invertmatrix/cantor_invert_matrix_assistant.rc:4
+#: assistants/linearalgebra/creatematrix/cantor_create_matrix_assistant.rc:4 assistants/linearalgebra/eigenvalues/cantor_eigenvalues_assistant.rc:4
+#: assistants/linearalgebra/eigenvectors/cantor_eigenvectors_assistant.rc:4 assistants/linearalgebra/invertmatrix/cantor_invert_matrix_assistant.rc:4
 #, kde-format
 msgid "&Linear Algebra"
 msgstr ""
@@ -230,9 +217,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #. +> trunk6 stable6
-#: assistants/linearalgebra/eigenvalues/eigenvaluesdlg.ui:17
-#: assistants/linearalgebra/eigenvectors/eigenvectorsdlg.ui:17
-#: assistants/linearalgebra/invertmatrix/invertmatrixdlg.ui:17
+#: assistants/linearalgebra/eigenvalues/eigenvaluesdlg.ui:17 assistants/linearalgebra/eigenvectors/eigenvectorsdlg.ui:17 assistants/linearalgebra/invertmatrix/invertmatrixdlg.ui:17
 #, kde-format
 msgid "Matrix:"
 msgstr ""
@@ -265,8 +250,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #. i18n: ectx: property (text), widget (QLabel, label_5)
 #. +> trunk6 stable6
-#: assistants/plot2d/plot2ddlg.ui:43 assistants/plot3d/plot3ddlg.ui:41
-#: assistants/plot3d/plot3ddlg.ui:86
+#: assistants/plot2d/plot2ddlg.ui:43 assistants/plot3d/plot3ddlg.ui:41 assistants/plot3d/plot3ddlg.ui:86
 #, kde-format
 msgid "Name"
 msgstr ""
@@ -274,8 +258,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #. i18n: ectx: property (text), widget (QLabel, label_6)
 #. +> trunk6 stable6
-#: assistants/plot2d/plot2ddlg.ui:53 assistants/plot3d/plot3ddlg.ui:51
-#: assistants/plot3d/plot3ddlg.ui:96
+#: assistants/plot2d/plot2ddlg.ui:53 assistants/plot3d/plot3ddlg.ui:51 assistants/plot3d/plot3ddlg.ui:96
 #, kde-format
 msgid "Minimum:"
 msgstr ""
@@ -283,8 +266,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, label_4)
 #. i18n: ectx: property (text), widget (QLabel, label_7)
 #. +> trunk6 stable6
-#: assistants/plot2d/plot2ddlg.ui:63 assistants/plot3d/plot3ddlg.ui:61
-#: assistants/plot3d/plot3ddlg.ui:106
+#: assistants/plot2d/plot2ddlg.ui:63 assistants/plot3d/plot3ddlg.ui:61 assistants/plot3d/plot3ddlg.ui:106
 #, kde-format
 msgid "Maximum:"
 msgstr ""
@@ -310,8 +292,7 @@ msgid "2nd Variable"
 msgstr ""
 
 #. +> trunk6 stable6
-#: assistants/runscript/runscriptassistant.cpp:26
-#: scripteditor/scripteditorwidget.cpp:38
+#: assistants/runscript/runscriptassistant.cpp:26 scripteditor/scripteditorwidget.cpp:38
 #, kde-format
 msgid "Run Script"
 msgstr ""
@@ -351,17 +332,13 @@ msgstr ""
 #. +> trunk6 stable6
 #: backendchoosedialog.cpp:113
 #, kde-format
-msgid ""
-"<hr><div>%1</div><br><div>See <a href=\"%2\">%2</a> for more information.</"
-"div>"
+msgid "<hr><div>%1</div><br><div>See <a href=\"%2\">%2</a> for more information.</div>"
 msgstr ""
 
 #. +> trunk6 stable6
 #: backendchoosedialog.cpp:125
 #, kde-format
-msgid ""
-"<hr><div><b><font color='#e50000'>Some requirements are not fulfilled: </"
-"font></b>%1</div>"
+msgid "<hr><div><b><font color='#e50000'>Some requirements are not fulfilled: </font></b>%1</div>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, makeDefault)
@@ -375,19 +352,14 @@ msgstr ""
 #: backends/julia/juliabackend.cpp:55
 #, kde-format
 msgid ""
-"<b>Julia</b> is a high-level, high-performance dynamic programming language "
-"for technical computing, with syntax that is familiar to users of other "
-"technical computing environments. It provides a sophisticated compiler, "
-"distributed parallel execution, numerical accuracy, and an extensive "
-"mathematical function library."
+"<b>Julia</b> is a high-level, high-performance dynamic programming language for technical computing, with syntax that is familiar to users of other technical computing environments. It provides a "
+"sophisticated compiler, distributed parallel execution, numerical accuracy, and an extensive mathematical function library."
 msgstr ""
 
 #. +> trunk6 stable6
 #: backends/julia/juliabackend.cpp:68
 #, kde-format
-msgctxt ""
-"The url to the documentation of Julia, please check if there is a translated "
-"version and use the correct url"
+msgctxt "The url to the documentation of Julia, please check if there is a translated version and use the correct url"
 msgid "https://docs.julialang.org/en/latest/"
 msgstr ""
 
@@ -396,8 +368,7 @@ msgstr ""
 #. i18n: ectx: label, entry (variableManagement), group (RBackend)
 #. i18n: ectx: label, entry (variableManagement), group (MaximaBackend)
 #. +> trunk6 stable6
-#: backends/julia/juliabackend.kcfg:10 backends/maxima/maximabackend.kcfg:26
-#: backends/python/pythonbackend.kcfg:14 backends/R/rserver/rserver.kcfg:16
+#: backends/julia/juliabackend.kcfg:10 backends/maxima/maximabackend.kcfg:26 backends/python/pythonbackend.kcfg:14 backends/R/rserver/rserver.kcfg:16
 #, kde-format
 msgid "Enable Variable Management"
 msgstr ""
@@ -412,12 +383,8 @@ msgstr ""
 #. i18n: ectx: label, entry (autorunScripts), group (MaximaBackend)
 #. i18n: ectx: label, entry (autorunScripts), group (QalculateBackend)
 #. +> trunk6 stable6
-#: backends/julia/juliabackend.kcfg:14 backends/kalgebra/kalgebrabackend.kcfg:9
-#: backends/lua/luabackend.kcfg:14 backends/maxima/maximabackend.kcfg:30
-#: backends/python/pythonbackend.kcfg:18
-#: backends/qalculate/qalculatebackend.kcfg:142
-#: backends/R/rserver/rserver.kcfg:20 backends/sage/sagebackend.kcfg:37
-#: backends/scilab/scilabbackend.kcfg:26
+#: backends/julia/juliabackend.kcfg:14 backends/kalgebra/kalgebrabackend.kcfg:9 backends/lua/luabackend.kcfg:14 backends/maxima/maximabackend.kcfg:30 backends/python/pythonbackend.kcfg:18
+#: backends/qalculate/qalculatebackend.kcfg:142 backends/R/rserver/rserver.kcfg:20 backends/sage/sagebackend.kcfg:37 backends/scilab/scilabbackend.kcfg:26
 #, kde-format
 msgid "List of scripts to autorun at the beginning of session"
 msgstr ""
@@ -429,9 +396,8 @@ msgstr ""
 #. i18n: ectx: label, entry (integratePlots), group (ScilabBackend)
 #. i18n: ectx: label, entry (integratePlots), group (MaximaBackend)
 #. +> trunk6 stable6
-#: backends/julia/juliabackend.kcfg:17 backends/maxima/maximabackend.kcfg:22
-#: backends/python/pythonbackend.kcfg:10 backends/R/rserver/rserver.kcfg:12
-#: backends/sage/sagebackend.kcfg:18 backends/scilab/scilabbackend.kcfg:22
+#: backends/julia/juliabackend.kcfg:17 backends/maxima/maximabackend.kcfg:22 backends/python/pythonbackend.kcfg:10 backends/R/rserver/rserver.kcfg:12 backends/sage/sagebackend.kcfg:18
+#: backends/scilab/scilabbackend.kcfg:22
 #, kde-format
 msgid "Integrate Plots into the Worksheet"
 msgstr ""
@@ -442,9 +408,7 @@ msgstr ""
 #. i18n: ectx: label, entry (plotWidth), group (RBackend)
 #. i18n: ectx: label, entry (plotWidth), group (MaximaBackend)
 #. +> trunk6 stable6
-#: backends/julia/juliabackend.kcfg:29 backends/maxima/maximabackend.kcfg:41
-#: backends/python/pythonbackend.kcfg:29 backends/R/rserver/rserver.kcfg:31
-#: backends/sage/sagebackend.kcfg:29
+#: backends/julia/juliabackend.kcfg:29 backends/maxima/maximabackend.kcfg:41 backends/python/pythonbackend.kcfg:29 backends/R/rserver/rserver.kcfg:31 backends/sage/sagebackend.kcfg:29
 #, kde-format
 msgid "Default plot width"
 msgstr ""
@@ -455,9 +419,7 @@ msgstr ""
 #. i18n: ectx: label, entry (plotHeight), group (RBackend)
 #. i18n: ectx: label, entry (plotHeight), group (MaximaBackend)
 #. +> trunk6 stable6
-#: backends/julia/juliabackend.kcfg:33 backends/maxima/maximabackend.kcfg:45
-#: backends/python/pythonbackend.kcfg:33 backends/R/rserver/rserver.kcfg:35
-#: backends/sage/sagebackend.kcfg:33
+#: backends/julia/juliabackend.kcfg:33 backends/maxima/maximabackend.kcfg:45 backends/python/pythonbackend.kcfg:33 backends/R/rserver/rserver.kcfg:35 backends/sage/sagebackend.kcfg:33
 #, kde-format
 msgid "Default plot height"
 msgstr ""
@@ -488,9 +450,7 @@ msgid "Failed to start Julia, please check Julia installation."
 msgstr ""
 
 #. +> trunk6 stable6
-#: backends/julia/juliasession.cpp:115 backends/julia/juliasession.cpp:124
-#: backends/maxima/maximasession.cpp:296 cantor_part.cpp:979
-#: lib/session.cpp:264 lib/session.cpp:266 worksheet.cpp:1216
+#: backends/julia/juliasession.cpp:115 backends/julia/juliasession.cpp:124 backends/maxima/maximasession.cpp:296 cantor_part.cpp:979 lib/session.cpp:264 lib/session.cpp:266 worksheet.cpp:1216
 #: worksheet.cpp:1244 worksheet.cpp:1259 worksheet.cpp:1275
 #, kde-format
 msgid "Error - Cantor"
@@ -499,9 +459,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: backends/julia/juliasession.cpp:115
 #, kde-format
-msgid ""
-"Julia session can't login due internal julia problem with missing internal "
-"file - \"%1\""
+msgid "Julia session can't login due internal julia problem with missing internal file - \"%1\""
 msgstr ""
 
 #. +> trunk6 stable6
@@ -532,45 +490,33 @@ msgstr ""
 #: backends/julia/juliasession.cpp:323
 #, kde-format
 msgid ""
-"For Julia only GR (https://gr-framework.org/), a framework for visualization "
-"applications, is supported at the moment. This package has to be installed "
-"first, if not done yet. For this, run Pkg.install(\"GR\") in Cantor or in "
-"Julia REPL. Note, this operation can take some time and it's better to "
-"perform it in Julia REPL that is able to show the current progress of the "
-"package installation."
+"For Julia only GR (https://gr-framework.org/), a framework for visualization applications, is supported at the moment. This package has to be installed first, if not done yet. For this, run "
+"Pkg.install(\"GR\") in Cantor or in Julia REPL. Note, this operation can take some time and it's better to perform it in Julia REPL that is able to show the current progress of the package "
+"installation."
 msgstr ""
 
 #. i18n: ectx: attribute (title), widget (QWidget, tabGeneral)
 #. i18n: ectx: attribute (title), widget (QWidget, tab_3)
 #. +> trunk6 stable6
-#: backends/julia/settings.ui:21 backends/lua/settings.ui:21
-#: backends/maxima/settings.ui:36 backends/octave/settings.ui:36
-#: backends/python/settings.ui:36 backends/qalculate/settings.ui:36
-#: backends/R/settings.ui:21 backends/sage/settings.ui:36
-#: backends/scilab/settings.ui:21 cantor.cpp:677
+#: backends/julia/settings.ui:21 backends/lua/settings.ui:21 backends/maxima/settings.ui:36 backends/octave/settings.ui:36 backends/python/settings.ui:36 backends/qalculate/settings.ui:36
+#: backends/R/settings.ui:21 backends/sage/settings.ui:36 backends/scilab/settings.ui:21 cantor.cpp:677
 #, kde-format
 msgid "General"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, kcfg_inlinePlotFormat)
 #. +> trunk6 stable6
-#: backends/julia/settings.ui:28 backends/maxima/settings.ui:187
-#: backends/octave/settings.ui:210 backends/python/settings.ui:200
-#: backends/R/settings.ui:168 backends/sage/settings.ui:217
+#: backends/julia/settings.ui:28 backends/maxima/settings.ui:187 backends/octave/settings.ui:210 backends/python/settings.ui:200 backends/R/settings.ui:168 backends/sage/settings.ui:217
 #, kde-format
 msgid "PDF"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_integratePlots)
 #. +> trunk6 stable6
-#: backends/julia/settings.ui:46 backends/maxima/settings.ui:81
-#: backends/octave/settings.ui:42 backends/python/settings.ui:94
-#: backends/R/settings.ui:157 backends/sage/settings.ui:111
+#: backends/julia/settings.ui:46 backends/maxima/settings.ui:81 backends/octave/settings.ui:42 backends/python/settings.ui:94 backends/R/settings.ui:157 backends/sage/settings.ui:111
 #: backends/scilab/settings.ui:44
 #, kde-format
-msgid ""
-"If enabled, plots will be shown inside of the worksheet. Otherwise, plots "
-"will be shown in an external window."
+msgid "If enabled, plots will be shown inside of the worksheet. Otherwise, plots will be shown in an external window."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_allowLatex)
@@ -585,17 +531,10 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_plotGrid)
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_plotBorder)
 #. +> trunk6 stable6
-#: backends/julia/settings.ui:49 backends/julia/settings.ui:66
-#: backends/maxima/settings.ui:62 backends/maxima/settings.ui:84
-#: backends/octave/settings.ui:45 backends/octave/settings.ui:143
-#: backends/python/settings.ui:52 backends/python/settings.ui:97
-#: backends/qalculate/settings.ui:105 backends/qalculate/settings.ui:146
-#: backends/qalculate/settings.ui:197 backends/qalculate/settings.ui:227
-#: backends/qalculate/settings.ui:333 backends/qalculate/settings.ui:340
-#: backends/qalculate/settings.ui:347 backends/qalculate/settings.ui:364
-#: backends/R/settings.ui:160 backends/R/settings.ui:189
-#: backends/sage/settings.ui:69 backends/sage/settings.ui:114
-#: backends/scilab/settings.ui:47 commandentry.cpp:347
+#: backends/julia/settings.ui:49 backends/julia/settings.ui:66 backends/maxima/settings.ui:62 backends/maxima/settings.ui:84 backends/octave/settings.ui:45 backends/octave/settings.ui:143
+#: backends/python/settings.ui:52 backends/python/settings.ui:97 backends/qalculate/settings.ui:105 backends/qalculate/settings.ui:146 backends/qalculate/settings.ui:197
+#: backends/qalculate/settings.ui:227 backends/qalculate/settings.ui:333 backends/qalculate/settings.ui:340 backends/qalculate/settings.ui:347 backends/qalculate/settings.ui:364
+#: backends/R/settings.ui:160 backends/R/settings.ui:189 backends/sage/settings.ui:69 backends/sage/settings.ui:114 backends/scilab/settings.ui:47 commandentry.cpp:347
 #, kde-format
 msgid "Enabled"
 msgstr ""
@@ -603,47 +542,35 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, label_5)
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #. +> trunk6 stable6
-#: backends/julia/settings.ui:56 backends/maxima/settings.ui:91
-#: backends/octave/settings.ui:133 backends/python/settings.ui:104
-#: backends/R/settings.ui:108 backends/sage/settings.ui:121
+#: backends/julia/settings.ui:56 backends/maxima/settings.ui:91 backends/octave/settings.ui:133 backends/python/settings.ui:104 backends/R/settings.ui:108 backends/sage/settings.ui:121
 #, kde-format
 msgid "Size:"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_variableManagement)
 #. +> trunk6 stable6
-#: backends/julia/settings.ui:63 backends/maxima/settings.ui:59
-#: backends/octave/settings.ui:140 backends/python/settings.ui:49
-#: backends/R/settings.ui:186
+#: backends/julia/settings.ui:63 backends/maxima/settings.ui:59 backends/octave/settings.ui:140 backends/python/settings.ui:49 backends/R/settings.ui:186
 #, kde-format
-msgid ""
-"Monitor the creation and destruction of variables and show the existing "
-"variables in the variable panel."
+msgid "Monitor the creation and destruction of variables and show the existing variables in the variable panel."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, lPlotIntegration)
 #. +> trunk6 stable6
-#: backends/julia/settings.ui:73 backends/maxima/settings.ui:234
-#: backends/octave/settings.ui:150 backends/python/settings.ui:87
-#: backends/R/settings.ui:131 backends/sage/settings.ui:104
+#: backends/julia/settings.ui:73 backends/maxima/settings.ui:234 backends/octave/settings.ui:150 backends/python/settings.ui:87 backends/R/settings.ui:131 backends/sage/settings.ui:104
 #, kde-format
 msgid "Integrated:"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, lVariableManagement)
 #. +> trunk6 stable6
-#: backends/julia/settings.ui:80 backends/maxima/settings.ui:52
-#: backends/octave/settings.ui:186 backends/python/settings.ui:42
-#: backends/R/settings.ui:150
+#: backends/julia/settings.ui:80 backends/maxima/settings.ui:52 backends/octave/settings.ui:186 backends/python/settings.ui:42 backends/R/settings.ui:150
 #, kde-format
 msgid "Variable Management:"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, lPlotWidth)
 #. +> trunk6 stable6
-#: backends/julia/settings.ui:108 backends/maxima/settings.ui:119
-#: backends/octave/settings.ui:73 backends/python/settings.ui:132
-#: backends/R/settings.ui:48 backends/sage/settings.ui:149
+#: backends/julia/settings.ui:108 backends/maxima/settings.ui:119 backends/octave/settings.ui:73 backends/python/settings.ui:132 backends/R/settings.ui:48 backends/sage/settings.ui:149
 #, kde-format
 msgid "width:"
 msgstr ""
@@ -651,21 +578,15 @@ msgstr ""
 #. i18n: ectx: property (suffix), widget (QDoubleSpinBox, kcfg_plotWidth)
 #. i18n: ectx: property (suffix), widget (QDoubleSpinBox, kcfg_plotHeight)
 #. +> trunk6 stable6
-#: backends/julia/settings.ui:115 backends/julia/settings.ui:145
-#: backends/maxima/settings.ui:126 backends/maxima/settings.ui:156
-#: backends/octave/settings.ui:80 backends/octave/settings.ui:110
-#: backends/python/settings.ui:139 backends/python/settings.ui:169
-#: backends/R/settings.ui:55 backends/R/settings.ui:85
-#: backends/sage/settings.ui:156 backends/sage/settings.ui:186
+#: backends/julia/settings.ui:115 backends/julia/settings.ui:145 backends/maxima/settings.ui:126 backends/maxima/settings.ui:156 backends/octave/settings.ui:80 backends/octave/settings.ui:110
+#: backends/python/settings.ui:139 backends/python/settings.ui:169 backends/R/settings.ui:55 backends/R/settings.ui:85 backends/sage/settings.ui:156 backends/sage/settings.ui:186
 #, kde-format
 msgid "cm"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, lPlotHeight)
 #. +> trunk6 stable6
-#: backends/julia/settings.ui:138 backends/maxima/settings.ui:149
-#: backends/octave/settings.ui:103 backends/python/settings.ui:162
-#: backends/R/settings.ui:78 backends/sage/settings.ui:179
+#: backends/julia/settings.ui:138 backends/maxima/settings.ui:149 backends/octave/settings.ui:103 backends/python/settings.ui:162 backends/R/settings.ui:78 backends/sage/settings.ui:179
 #, kde-format
 msgid "height:"
 msgstr ""
@@ -673,9 +594,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, label_4)
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_plotExtenstionGraphicPackage)
 #. +> trunk6 stable6
-#: backends/julia/settings.ui:173 backends/julia/settings.ui:231
-#: backends/maxima/settings.ui:74 backends/octave/settings.ui:162
-#: backends/python/settings.ui:80 backends/R/settings.ui:143
+#: backends/julia/settings.ui:173 backends/julia/settings.ui:231 backends/maxima/settings.ui:74 backends/octave/settings.ui:162 backends/python/settings.ui:80 backends/R/settings.ui:143
 #: backends/sage/settings.ui:97
 #, kde-format
 msgid "Plots"
@@ -684,9 +603,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #. +> trunk6 stable6
-#: backends/julia/settings.ui:196 backends/maxima/settings.ui:179
-#: backends/octave/settings.ui:169 backends/python/settings.ui:192
-#: backends/R/settings.ui:196 backends/sage/settings.ui:209
+#: backends/julia/settings.ui:196 backends/maxima/settings.ui:179 backends/octave/settings.ui:169 backends/python/settings.ui:192 backends/R/settings.ui:196 backends/sage/settings.ui:209
 #, kde-format
 msgid "Image Format:"
 msgstr ""
@@ -695,8 +612,7 @@ msgstr ""
 #. i18n: ectx: property (toolTip), widget (QLabel, label3)
 #. i18n: ectx: property (toolTip), widget (QLabel, label4)
 #. +> trunk6 stable6
-#: backends/julia/settings.ui:222 backends/julia/settings.ui:249
-#: backends/python/settings.ui:218 backends/python/settings.ui:234
+#: backends/julia/settings.ui:222 backends/julia/settings.ui:249 backends/python/settings.ui:218 backends/python/settings.ui:234
 #, kde-format
 msgid "Graphic package to be used in the Plot Assistant"
 msgstr ""
@@ -733,11 +649,8 @@ msgstr ""
 #. i18n: ectx: attribute (title), widget (QWidget, tabAutorun)
 #. i18n: ectx: attribute (title), widget (QWidget, tabAutoran)
 #. +> trunk6 stable6
-#: backends/julia/settings.ui:260 backends/lua/settings.ui:51
-#: backends/maxima/settings.ui:242 backends/octave/settings.ui:245
-#: backends/python/settings.ui:280 backends/qalculate/settings.ui:581
-#: backends/R/settings.ui:220 backends/sage/settings.ui:244
-#: backends/scilab/settings.ui:68
+#: backends/julia/settings.ui:260 backends/lua/settings.ui:51 backends/maxima/settings.ui:242 backends/octave/settings.ui:245 backends/python/settings.ui:280 backends/qalculate/settings.ui:581
+#: backends/R/settings.ui:220 backends/sage/settings.ui:244 backends/scilab/settings.ui:68
 #, kde-format
 msgid "Autorun"
 msgstr ""
@@ -746,22 +659,16 @@ msgstr ""
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #. +> trunk6 stable6
-#: backends/julia/settings.ui:266 backends/kalgebra/settings.ui:32
-#: backends/lua/settings.ui:57 backends/maxima/settings.ui:248
-#: backends/octave/settings.ui:251 backends/python/settings.ui:286
-#: backends/qalculate/settings.ui:587 backends/R/settings.ui:226
-#: backends/sage/settings.ui:250 backends/scilab/settings.ui:74
+#: backends/julia/settings.ui:266 backends/kalgebra/settings.ui:32 backends/lua/settings.ui:57 backends/maxima/settings.ui:248 backends/octave/settings.ui:251 backends/python/settings.ui:286
+#: backends/qalculate/settings.ui:587 backends/R/settings.ui:226 backends/sage/settings.ui:250 backends/scilab/settings.ui:74
 #, kde-format
 msgid "Commands to autorun"
 msgstr ""
 
 #. i18n: ectx: attribute (title), widget (QWidget, tabDocumentation)
 #. +> trunk6 stable6
-#: backends/julia/settings.ui:280 backends/lua/settings.ui:71
-#: backends/maxima/settings.ui:262 backends/octave/settings.ui:265
-#: backends/python/settings.ui:300 backends/qalculate/settings.ui:600
-#: backends/R/settings.ui:240 backends/sage/settings.ui:264
-#: backends/scilab/settings.ui:88
+#: backends/julia/settings.ui:280 backends/lua/settings.ui:71 backends/maxima/settings.ui:262 backends/octave/settings.ui:265 backends/python/settings.ui:300 backends/qalculate/settings.ui:600
+#: backends/R/settings.ui:240 backends/sage/settings.ui:264 backends/scilab/settings.ui:88
 #, kde-format
 msgid "Documentation"
 msgstr ""
@@ -769,15 +676,12 @@ msgstr ""
 #. +> trunk6 stable6
 #: backends/kalgebra/kalgebrabackend.cpp:58
 #, kde-format
-msgctxt ""
-"The url to the documentation of KAlgebra, please check if there is a "
-"translated version and use the correct url"
+msgctxt "The url to the documentation of KAlgebra, please check if there is a translated version and use the correct url"
 msgid "https://docs.kde.org/?application=kalgebra"
 msgstr ""
 
 #. +> trunk6 stable6
-#: backends/kalgebra/kalgebraexpression.cpp:44
-#: backends/maxima/maximasession.cpp:81
+#: backends/kalgebra/kalgebraexpression.cpp:44 backends/maxima/maximasession.cpp:81
 #, kde-format
 msgid "Error: %1"
 msgstr ""
@@ -792,9 +696,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: backends/kalgebra/settings.ui:29
 #, kde-format
-msgid ""
-"This autorun commands, which will run on start new worksheet. They can be "
-"useful for loading needed modules, changing environment, etc."
+msgid "This autorun commands, which will run on start new worksheet. They can be useful for loading needed modules, changing environment, etc."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -807,10 +709,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: backends/lua/luabackend.cpp:59
 #, kde-format
-msgid ""
-"<b>Lua</b> is a fast and lightweight scripting language, with a simple "
-"procedural syntax. There are several libraries in Lua aimed at math and "
-"science."
+msgid "<b>Lua</b> is a fast and lightweight scripting language, with a simple procedural syntax. There are several libraries in Lua aimed at math and science."
 msgstr ""
 
 #. i18n: ectx: label, entry (Path), group (LuaBackend)
@@ -842,9 +741,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: backends/maxima/maximabackend.cpp:72
 #, kde-format
-msgctxt ""
-"the url to the documentation of Maxima, please check if there is a "
-"translated version and use the correct url"
+msgctxt "the url to the documentation of Maxima, please check if there is a translated version and use the correct url"
 msgid "http://maxima.sourceforge.net/docs/manual/en/maxima.html"
 msgstr ""
 
@@ -852,53 +749,28 @@ msgstr ""
 #: backends/maxima/maximabackend.cpp:79
 #, kde-format
 msgid ""
-"<h1>Maxima's Help System</h1><h2>Function <i>apropos</i></h2>Searches for "
-"Maxima names which have name appearing anywhere within them; <i>name</i> "
-"must be a string or symbol. Thus, <i>apropos(exp)</i> returns a list of all "
-"the flags and functions which have exp as part of their name, such as "
-"<i>expand</i>, <i>exp</i>, and <i>exponentialize</i>. So, if you can only "
-"remember part of the name of a Maxima command or variable, you can use this "
-"command to find the rest of the name. Similarly, you can type "
-"<i>apropos(tr_)</i> to find a list of many of the switches relating to the "
-"translator, most of which begin with <i>tr_</i>.<br><br><i>apropos(\"\")</i> "
-"returns a list with all Maxima names.<br><br><i>apropos</i> returns the "
-"empty list [], if no name is found.<br><br><h2>Function <i>describe</i></"
-"h2><i>describe(string)</i> is equivalent to describe(string, exact)."
-"<br><br><i>describe(string, exact)</i> finds an item with title equal (case-"
-"insensitive) to string, if there is any such item."
-"<br><br><i>describe(string, inexact)</i> finds all documented items which "
-"contain string in their titles. If there is more than one such item, Maxima "
-"asks the user to select an item or items to display.<br><br><i>? foo</i> "
-"(with a space between <i>?</i> and <i>foo</i>) is equivalent to "
-"<i>describe(\"foo\", exact)</i>, and <i>?? foo</i> is equivalent to "
-"<i>describe(\"foo\", inexact)</i>.<br><br><i>describe(, inexact)</i> yields "
-"a list of all topics documented in the on-line manual.<br><br><i>describe</"
-"i> quotes its argument. <i>describe</i> returns <i>true</i> if some "
-"documentation is found, otherwise <i>false</i>.<br><h2>Function <i>example</"
-"i></h2><i>example(topic)</i> displays some examples of <i>topic</i>, which "
-"is a symbol or a string. To get examples for operators like <i>if</i>, "
-"<i>do</i>, or <i>lambda</i> the argument must be a string, e.g. "
-"<i>example(\"do\")</i>. <i>example</i> is not case sensitive. Most topics "
-"are function names.<br><br><i>example()</i> returns the list of all "
-"recognized topics.<br><br>The name of the file containing the examples is "
-"given by the global option variable <i>manual_demo</i>, which defaults to "
-"<i>\"manual.demo\"</i>.<br><br><i>example</i> quotes its argument. "
-"<i>example</i> returns <i>done</i> unless no examples are found or there is "
-"no argument, in which case <i>example</i> returns the list of all recognized "
-"topics."
+"<h1>Maxima's Help System</h1><h2>Function <i>apropos</i></h2>Searches for Maxima names which have name appearing anywhere within them; <i>name</i> must be a string or symbol. Thus, "
+"<i>apropos(exp)</i> returns a list of all the flags and functions which have exp as part of their name, such as <i>expand</i>, <i>exp</i>, and <i>exponentialize</i>. So, if you can only remember "
+"part of the name of a Maxima command or variable, you can use this command to find the rest of the name. Similarly, you can type <i>apropos(tr_)</i> to find a list of many of the switches relating "
+"to the translator, most of which begin with <i>tr_</i>.<br><br><i>apropos(\"\")</i> returns a list with all Maxima names.<br><br><i>apropos</i> returns the empty list [], if no name is "
+"found.<br><br><h2>Function <i>describe</i></h2><i>describe(string)</i> is equivalent to describe(string, exact).<br><br><i>describe(string, exact)</i> finds an item with title equal (case-"
+"insensitive) to string, if there is any such item.<br><br><i>describe(string, inexact)</i> finds all documented items which contain string in their titles. If there is more than one such item, "
+"Maxima asks the user to select an item or items to display.<br><br><i>? foo</i> (with a space between <i>?</i> and <i>foo</i>) is equivalent to <i>describe(\"foo\", exact)</i>, and <i>?? foo</i> is "
+"equivalent to <i>describe(\"foo\", inexact)</i>.<br><br><i>describe(, inexact)</i> yields a list of all topics documented in the on-line manual.<br><br><i>describe</i> quotes its argument. "
+"<i>describe</i> returns <i>true</i> if some documentation is found, otherwise <i>false</i>.<br><h2>Function <i>example</i></h2><i>example(topic)</i> displays some examples of <i>topic</i>, which is "
+"a symbol or a string. To get examples for operators like <i>if</i>, <i>do</i>, or <i>lambda</i> the argument must be a string, e.g. <i>example(\"do\")</i>. <i>example</i> is not case sensitive. Most"
+" topics are function names.<br><br><i>example()</i> returns the list of all recognized topics.<br><br>The name of the file containing the examples is given by the global option variable "
+"<i>manual_demo</i>, which defaults to <i>\"manual.demo\"</i>.<br><br><i>example</i> quotes its argument. <i>example</i> returns <i>done</i> unless no examples are found or there is no argument, in "
+"which case <i>example</i> returns the list of all recognized topics."
 msgstr ""
 
 #. +> trunk6 stable6
 #: backends/maxima/maximabackend.cpp:111
 #, kde-format
 msgid ""
-"<b>Maxima</b> is a system for the manipulation of symbolic and numerical "
-"expressions, including differentiation, integration, Taylor series, Laplace "
-"transforms, ordinary differential equations, systems of linear equations, "
-"polynomials, and sets, lists, vectors, matrices, and tensors. Maxima yields "
-"high precision numeric results by using exact fractions, arbitrary precision "
-"integers, and variable precision floating point numbers. Maxima can plot "
-"functions and data in two and three dimensions."
+"<b>Maxima</b> is a system for the manipulation of symbolic and numerical expressions, including differentiation, integration, Taylor series, Laplace transforms, ordinary differential equations, "
+"systems of linear equations, polynomials, and sets, lists, vectors, matrices, and tensors. Maxima yields high precision numeric results by using exact fractions, arbitrary precision integers, and "
+"variable precision floating point numbers. Maxima can plot functions and data in two and three dimensions."
 msgstr ""
 
 #. i18n: ectx: label, entry (Path), group (MaximaBackend)
@@ -909,9 +781,7 @@ msgid "Path to the Maxima executable"
 msgstr ""
 
 #. +> trunk6
-#: backends/maxima/maximaexpression.cpp:87
-#: backends/python/pythonexpression.cpp:61
-#: backends/qalculate/qalculateexpression.cpp:636
+#: backends/maxima/maximaexpression.cpp:87 backends/python/pythonexpression.cpp:61 backends/qalculate/qalculateexpression.cpp:636
 #, kde-format
 msgid "Failed to create a temporary file for writing."
 msgstr ""
@@ -955,9 +825,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: backends/maxima/maximasession.cpp:77
 #, kde-format
-msgid ""
-"Maxima didn't respond with the proper prompt, please check Maxima "
-"installation."
+msgid "Maxima didn't respond with the proper prompt, please check Maxima installation."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -981,9 +849,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, label)
 #. i18n: ectx: property (text), widget (QLabel, label_19)
 #. +> trunk6 stable6
-#: backends/maxima/settings.ui:42 backends/octave/settings.ui:179
-#: backends/qalculate/settings.ui:166 backends/sage/settings.ui:42
-#: backends/scilab/settings.ui:27
+#: backends/maxima/settings.ui:42 backends/octave/settings.ui:179 backends/qalculate/settings.ui:166 backends/sage/settings.ui:42 backends/scilab/settings.ui:27
 #, kde-format
 msgid "Executable:"
 msgstr ""
@@ -991,9 +857,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: backends/octave/octavebackend.cpp:64
 #, kde-format
-msgctxt ""
-"the url to the documentation of Octave, please check if there is a "
-"translated version and use the correct url"
+msgctxt "the url to the documentation of Octave, please check if there is a translated version and use the correct url"
 msgid "https://octave.org/doc/interpreter/"
 msgstr ""
 
@@ -1001,10 +865,8 @@ msgstr ""
 #: backends/octave/octavebackend.cpp:69
 #, kde-format
 msgid ""
-"<b>GNU Octave</b> is a high-level language, primarily intended for numerical "
-"computations. <br/>It provides a convenient command line interface for "
-"solving linear and nonlinear problems numerically, and for performing other "
-"numerical experiments using a language that is mostly compatible with Matlab."
+"<b>GNU Octave</b> is a high-level language, primarily intended for numerical computations. <br/>It provides a convenient command line interface for solving linear and nonlinear problems numerically,"
+" and for performing other numerical experiments using a language that is mostly compatible with Matlab."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -1044,10 +906,8 @@ msgid "The integration of plots will be disabled."
 msgstr ""
 
 #. +> trunk6 stable6
-#: backends/octave/octavesession.cpp:390 backends/sage/sagesession.cpp:358
-#: backends/sage/sagesession.cpp:369 cantor.cpp:233 cantor.cpp:235
-#: cantor.cpp:354 cantor.cpp:361 lib/session.cpp:334 main.cpp:48 main.cpp:105
-#: markdownentry.cpp:813 textentry.cpp:564 worksheet.cpp:1298
+#: backends/octave/octavesession.cpp:390 backends/sage/sagesession.cpp:358 backends/sage/sagesession.cpp:369 cantor.cpp:233 cantor.cpp:235 cantor.cpp:354 cantor.cpp:361 lib/session.cpp:334 main.cpp:48
+#: main.cpp:105 markdownentry.cpp:813 textentry.cpp:564 worksheet.cpp:1298
 #, kde-format
 msgid "Cantor"
 msgstr ""
@@ -1062,10 +922,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: backends/python/pythonbackend.cpp:72
 #, kde-format
-msgid ""
-"<b>Python</b> is a remarkably powerful dynamic programming language that is "
-"used in a wide variety of application domains. There are several Python "
-"packages to scientific programming."
+msgid "<b>Python</b> is a remarkably powerful dynamic programming language that is used in a wide variety of application domains. There are several Python packages to scientific programming."
 msgstr ""
 
 #. i18n: ectx: label, entry (plotExtenstionGraphicPackage), group (PythonBackend)
@@ -1114,18 +971,15 @@ msgstr ""
 #. +> trunk6 stable6
 #: backends/python/pythonsession.cpp:303
 #, kde-format
-msgid ""
-"For using integrated graphics with Matplotlib package, you need to install "
-"\"matplotlib\" python package first."
+msgid "For using integrated graphics with Matplotlib package, you need to install \"matplotlib\" python package first."
 msgstr ""
 
 #. +> trunk6 stable6
 #: backends/python/pythonsession.cpp:309
 #, kde-format
 msgid ""
-"For using integrated graphic with Plot.ly, you need to install \"plotly\" "
-"python package and special Plot.ly-compatible \"orca\" executable. See "
-"\"Static Image Export\" article in Plot.ly documentation for details."
+"For using integrated graphic with Plot.ly, you need to install \"plotly\" python package and special Plot.ly-compatible \"orca\" executable. See \"Static Image Export\" article in Plot.ly "
+"documentation for details."
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_plotExtenstionGraphicPackage)
@@ -1222,8 +1076,7 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (KComboBox, styleBox)
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_plotStyle)
 #. +> trunk6 stable6
-#: backends/qalculate/plotassistant/qalculateplotdialog.ui:145
-#: backends/qalculate/settings.ui:445
+#: backends/qalculate/plotassistant/qalculateplotdialog.ui:145 backends/qalculate/settings.ui:445
 #, kde-format
 msgid "Lines"
 msgstr ""
@@ -1231,8 +1084,7 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (KComboBox, styleBox)
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_plotStyle)
 #. +> trunk6 stable6
-#: backends/qalculate/plotassistant/qalculateplotdialog.ui:150
-#: backends/qalculate/settings.ui:450
+#: backends/qalculate/plotassistant/qalculateplotdialog.ui:150 backends/qalculate/settings.ui:450
 #, kde-format
 msgid "Points"
 msgstr ""
@@ -1240,8 +1092,7 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (KComboBox, styleBox)
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_plotStyle)
 #. +> trunk6 stable6
-#: backends/qalculate/plotassistant/qalculateplotdialog.ui:155
-#: backends/qalculate/settings.ui:455
+#: backends/qalculate/plotassistant/qalculateplotdialog.ui:155 backends/qalculate/settings.ui:455
 #, kde-format
 msgid "Points and Lines"
 msgstr ""
@@ -1249,8 +1100,7 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (KComboBox, styleBox)
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_plotStyle)
 #. +> trunk6 stable6
-#: backends/qalculate/plotassistant/qalculateplotdialog.ui:160
-#: backends/qalculate/settings.ui:460
+#: backends/qalculate/plotassistant/qalculateplotdialog.ui:160 backends/qalculate/settings.ui:460
 #, kde-format
 msgid "Boxes"
 msgstr ""
@@ -1258,8 +1108,7 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (KComboBox, styleBox)
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_plotStyle)
 #. +> trunk6 stable6
-#: backends/qalculate/plotassistant/qalculateplotdialog.ui:165
-#: backends/qalculate/settings.ui:465
+#: backends/qalculate/plotassistant/qalculateplotdialog.ui:165 backends/qalculate/settings.ui:465
 #, kde-format
 msgid "Histogram"
 msgstr ""
@@ -1274,8 +1123,7 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (KComboBox, styleBox)
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_plotStyle)
 #. +> trunk6 stable6
-#: backends/qalculate/plotassistant/qalculateplotdialog.ui:175
-#: backends/qalculate/settings.ui:475
+#: backends/qalculate/plotassistant/qalculateplotdialog.ui:175 backends/qalculate/settings.ui:475
 #, kde-format
 msgid "Candlesticks"
 msgstr ""
@@ -1283,8 +1131,7 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (KComboBox, styleBox)
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_plotStyle)
 #. +> trunk6 stable6
-#: backends/qalculate/plotassistant/qalculateplotdialog.ui:180
-#: backends/qalculate/settings.ui:480
+#: backends/qalculate/plotassistant/qalculateplotdialog.ui:180 backends/qalculate/settings.ui:480
 #, kde-format
 msgid "Dots"
 msgstr ""
@@ -1302,9 +1149,8 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_structuring)
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_plotSmoothing)
 #. +> trunk6 stable6
-#: backends/qalculate/plotassistant/qalculateplotdialog.ui:203
-#: backends/qalculate/settings.ui:123 backends/qalculate/settings.ui:235
-#: backends/qalculate/settings.ui:269 backends/qalculate/settings.ui:416
+#: backends/qalculate/plotassistant/qalculateplotdialog.ui:203 backends/qalculate/settings.ui:123 backends/qalculate/settings.ui:235 backends/qalculate/settings.ui:269
+#: backends/qalculate/settings.ui:416
 #, kde-format
 msgid "None"
 msgstr ""
@@ -1312,8 +1158,7 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (KComboBox, smoothingBox)
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_plotSmoothing)
 #. +> trunk6 stable6
-#: backends/qalculate/plotassistant/qalculateplotdialog.ui:208
-#: backends/qalculate/settings.ui:421
+#: backends/qalculate/plotassistant/qalculateplotdialog.ui:208 backends/qalculate/settings.ui:421
 #, kde-format
 msgid "Monotonic"
 msgstr ""
@@ -1328,8 +1173,7 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (KComboBox, smoothingBox)
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_plotSmoothing)
 #. +> trunk6 stable6
-#: backends/qalculate/plotassistant/qalculateplotdialog.ui:218
-#: backends/qalculate/settings.ui:431
+#: backends/qalculate/plotassistant/qalculateplotdialog.ui:218 backends/qalculate/settings.ui:431
 #, kde-format
 msgid "Bezier"
 msgstr ""
@@ -1337,8 +1181,7 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (KComboBox, smoothingBox)
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_plotSmoothing)
 #. +> trunk6 stable6
-#: backends/qalculate/plotassistant/qalculateplotdialog.ui:223
-#: backends/qalculate/settings.ui:436
+#: backends/qalculate/plotassistant/qalculateplotdialog.ui:223 backends/qalculate/settings.ui:436
 #, kde-format
 msgid "Bezier (monotonic)"
 msgstr ""
@@ -1430,8 +1273,7 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (KComboBox, legendBox)
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_plotLegend)
 #. +> trunk6 stable6
-#: backends/qalculate/plotassistant/qalculateplotdialog.ui:403
-#: backends/qalculate/settings.ui:499
+#: backends/qalculate/plotassistant/qalculateplotdialog.ui:403 backends/qalculate/settings.ui:499
 #, kde-format
 msgid "Hide legend"
 msgstr ""
@@ -1439,8 +1281,7 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (KComboBox, legendBox)
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_plotLegend)
 #. +> trunk6 stable6
-#: backends/qalculate/plotassistant/qalculateplotdialog.ui:408
-#: backends/qalculate/settings.ui:504
+#: backends/qalculate/plotassistant/qalculateplotdialog.ui:408 backends/qalculate/settings.ui:504
 #, kde-format
 msgid "Top-left"
 msgstr ""
@@ -1448,8 +1289,7 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (KComboBox, legendBox)
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_plotLegend)
 #. +> trunk6 stable6
-#: backends/qalculate/plotassistant/qalculateplotdialog.ui:413
-#: backends/qalculate/settings.ui:509
+#: backends/qalculate/plotassistant/qalculateplotdialog.ui:413 backends/qalculate/settings.ui:509
 #, kde-format
 msgid "Top-right"
 msgstr ""
@@ -1457,8 +1297,7 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (KComboBox, legendBox)
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_plotLegend)
 #. +> trunk6 stable6
-#: backends/qalculate/plotassistant/qalculateplotdialog.ui:418
-#: backends/qalculate/settings.ui:514
+#: backends/qalculate/plotassistant/qalculateplotdialog.ui:418 backends/qalculate/settings.ui:514
 #, kde-format
 msgid "Bottom-left"
 msgstr ""
@@ -1466,8 +1305,7 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (KComboBox, legendBox)
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_plotLegend)
 #. +> trunk6 stable6
-#: backends/qalculate/plotassistant/qalculateplotdialog.ui:423
-#: backends/qalculate/settings.ui:519
+#: backends/qalculate/plotassistant/qalculateplotdialog.ui:423 backends/qalculate/settings.ui:519
 #, kde-format
 msgid "Bottom-right"
 msgstr ""
@@ -1475,8 +1313,7 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (KComboBox, legendBox)
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_plotLegend)
 #. +> trunk6 stable6
-#: backends/qalculate/plotassistant/qalculateplotdialog.ui:428
-#: backends/qalculate/settings.ui:524
+#: backends/qalculate/plotassistant/qalculateplotdialog.ui:428 backends/qalculate/settings.ui:524
 #, kde-format
 msgid "Below"
 msgstr ""
@@ -1484,8 +1321,7 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (KComboBox, legendBox)
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_plotLegend)
 #. +> trunk6 stable6
-#: backends/qalculate/plotassistant/qalculateplotdialog.ui:433
-#: backends/qalculate/settings.ui:529
+#: backends/qalculate/plotassistant/qalculateplotdialog.ui:433 backends/qalculate/settings.ui:529
 #, kde-format
 msgid "Outside"
 msgstr ""
@@ -1583,8 +1419,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), item, widget (KComboBox, saveFileBox)
 #. +> trunk6 stable6
-#: backends/qalculate/plotassistant/qalculateplotdialog.ui:575
-#: worksheet.cpp:1859 worksheet.cpp:1885 worksheet.cpp:1905 worksheet.cpp:1923
+#: backends/qalculate/plotassistant/qalculateplotdialog.ui:575 worksheet.cpp:1859 worksheet.cpp:1885 worksheet.cpp:1905 worksheet.cpp:1923
 #, kde-format
 msgid "LaTeX"
 msgstr ""
@@ -1607,14 +1442,9 @@ msgstr ""
 #: backends/qalculate/qalculatebackend.cpp:51
 #, kde-format
 msgid ""
-"<b>Qalculate!</b> is a multi-purpose cross-platform desktop calculator. It "
-"is simple to use but provides power and versatility normally reserved for "
-"complicated math packages, as well as useful tools for everyday needs (such "
-"as currency conversion and percent calculation). Features include a large "
-"library of customizable functions, unit calculations and conversion, "
-"physical constants, symbolic calculations (including integrals and "
-"equations), arbitrary precision, uncertainty propagation, interval "
-"arithmetic, plotting,"
+"<b>Qalculate!</b> is a multi-purpose cross-platform desktop calculator. It is simple to use but provides power and versatility normally reserved for complicated math packages, as well as useful "
+"tools for everyday needs (such as currency conversion and percent calculation). Features include a large library of customizable functions, unit calculations and conversion, physical constants, "
+"symbolic calculations (including integrals and equations), arbitrary precision, uncertainty propagation, interval arithmetic, plotting,"
 msgstr ""
 
 #. i18n: ectx: label, entry (Path), group (QalculateBackend)
@@ -1628,9 +1458,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: backends/qalculate/qalculatebackend.kcfg:21
 #, kde-format
-msgid ""
-"If and how units will be automatically converted. If true, convert to the "
-"best suited SI units (the least amount of units)."
+msgid "If and how units will be automatically converted. If true, convert to the best suited SI units (the least amount of units)."
 msgstr ""
 
 #. i18n: ectx: label, entry (angleUnit), group (QalculateBackend)
@@ -1658,36 +1486,28 @@ msgstr ""
 #. +> trunk6 stable6
 #: backends/qalculate/qalculatebackend.kcfg:54
 #, kde-format
-msgid ""
-"If rational numbers will be displayed with decimals, as a fraction, or "
-"something in between."
+msgid "If rational numbers will be displayed with decimals, as a fraction, or something in between."
 msgstr ""
 
 #. i18n: ectx: label, entry (indicateInfiniteSeries), group (QalculateBackend)
 #. +> trunk6 stable6
 #: backends/qalculate/qalculatebackend.kcfg:58
 #, kde-format
-msgid ""
-"Show that the digit series of a number continues forever with three dots, "
-"instead of rounding (ex. 2/3 displays as 0.666666... instead of 0.666667)."
+msgid "Show that the digit series of a number continues forever with three dots, instead of rounding (ex. 2/3 displays as 0.666666... instead of 0.666667)."
 msgstr ""
 
 #. i18n: ectx: label, entry (useAllPrefixes), group (QalculateBackend)
 #. +> trunk6 stable6
 #: backends/qalculate/qalculatebackend.kcfg:62
 #, kde-format
-msgid ""
-"Use all decimal SI prefixes. If false, prefixes which is not a multiple of "
-"thousand (centi, deci, deca, hecto) will not be used automatically."
+msgid "Use all decimal SI prefixes. If false, prefixes which is not a multiple of thousand (centi, deci, deca, hecto) will not be used automatically."
 msgstr ""
 
 #. i18n: ectx: label, entry (negativeExponents), group (QalculateBackend)
 #. +> trunk6 stable6
 #: backends/qalculate/qalculatebackend.kcfg:66
 #, kde-format
-msgid ""
-"If true, negative exponents will be used instead of division (ex. 5/x^2 "
-"becomes 5*x^-2)."
+msgid "If true, negative exponents will be used instead of division (ex. 5/x^2 becomes 5*x^-2)."
 msgstr ""
 
 #. i18n: ectx: label, entry (minExp), group (QalculateBackend)
@@ -1701,9 +1521,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: backends/qalculate/qalculatebackend.kcfg:80
 #, kde-format
-msgid ""
-"If true, plots will be displayed inside the worksheet. If not they appear in "
-"a separate window."
+msgid "If true, plots will be displayed inside the worksheet. If not they appear in a separate window."
 msgstr ""
 
 #. i18n: ectx: label, entry (coloredPlot), group (QalculateBackend)
@@ -1805,15 +1623,13 @@ msgid "found multiple expressions in one plot command (%1 and %2)."
 msgstr ""
 
 #. +> trunk6 stable6
-#: backends/qalculate/qalculateexpression.cpp:686
-#: backends/qalculate/qalculateexpression.cpp:794
+#: backends/qalculate/qalculateexpression.cpp:686 backends/qalculate/qalculateexpression.cpp:794
 #, kde-format
 msgid "ERROR"
 msgstr ""
 
 #. +> trunk6 stable6
-#: backends/qalculate/qalculateexpression.cpp:688
-#: backends/qalculate/qalculateexpression.cpp:796
+#: backends/qalculate/qalculateexpression.cpp:688 backends/qalculate/qalculateexpression.cpp:796
 #, kde-format
 msgid "WARNING"
 msgstr ""
@@ -1911,9 +1727,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: backends/qalculate/qalculatesyntaxhelpobject.cpp:215
 #, kde-format
-msgid ""
-"Image to save plot to. If empty shows plot in a window on the screen. If "
-"inline=true the image is shown regardless of this option."
+msgid "Image to save plot to. If empty shows plot in a window on the screen. If inline=true the image is shown regardless of this option."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -1973,8 +1787,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: backends/qalculate/qalculatesyntaxhelpobject.cpp:225
 #, kde-format
-msgid ""
-"If the plot shall be surrounded by borders on all sides (not just axis)."
+msgid "If the plot shall be surrounded by borders on all sides (not just axis)."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -1986,9 +1799,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: backends/qalculate/qalculatesyntaxhelpobject.cpp:227
 #, kde-format
-msgid ""
-"Where the plot legend shall be placed. One of none, top_left, top_right, "
-"bottom_left, bottom_right, below, outside"
+msgid "Where the plot legend shall be placed. One of none, top_left, top_right, bottom_left, bottom_right, below, outside"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -2000,9 +1811,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: backends/qalculate/qalculatesyntaxhelpobject.cpp:229
 #, kde-format
-msgid ""
-"Plot style. One of lines, points, points_lines, boxes, histogram, steps, "
-"candlesticks, dots"
+msgid "Plot style. One of lines, points, points_lines, boxes, histogram, steps, candlesticks, dots"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -2050,13 +1859,11 @@ msgstr ""
 #. +> trunk6 stable6
 #: backends/qalculate/qalculatesyntaxhelpobject.cpp:243
 #, kde-format
-msgid ""
-"Save all currently defined variables to a file. They can be reloaded with %1."
+msgid "Save all currently defined variables to a file. They can be reloaded with %1."
 msgstr ""
 
 #. +> trunk6 stable6
-#: backends/qalculate/qalculatesyntaxhelpobject.cpp:244
-#: backends/qalculate/qalculatesyntaxhelpobject.cpp:253
+#: backends/qalculate/qalculatesyntaxhelpobject.cpp:244 backends/qalculate/qalculatesyntaxhelpobject.cpp:253
 #, kde-format
 msgid "file"
 msgstr ""
@@ -2494,9 +2301,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: backends/R/rbackend.cpp:80
 #, kde-format
-msgctxt ""
-"the url to the documentation of R, please check if there is a translated "
-"version and use the correct url"
+msgctxt "the url to the documentation of R, please check if there is a translated version and use the correct url"
 msgid "https://cran.r-project.org/manuals.html"
 msgstr ""
 
@@ -2504,41 +2309,24 @@ msgstr ""
 #: backends/R/rbackend.cpp:87
 #, kde-format
 msgid ""
-"<h1>R' Help System: <i>help()</i> and <i>?</i>:</h1><br>The <i>help()</i> "
-"function and <i>?</i> help operator in R provide access to the documentation "
-"pages for R functions, data sets, and other objects, both for packages in "
-"the standard R distribution and for contributed packages.<br><br>To access "
-"documentation for the standard <i>lm</i> (linear model) function, for "
-"example, enter the command <b><i>help(lm)</i></b> or <i>help(\"lm\")</i>, or "
-"<i>?lm</i> or <i>?\"lm\"</i> (i.e., the quotes are optional).<br><br>To "
-"access help for a function in a package that’s not currently loaded, specify "
-"in addition the name of the package: For example, to obtain documentation "
-"for the <i>rlm()</i> (robust linear model) function in the MASS package, "
-"<i>help(rlm, package=\"MASS\")</i>.<br><br>Standard names in R consist of "
-"upper- and lower-case letters, numerals (0-9), underscores (_), and periods "
-"(.), and must begin with a letter or a period. To obtain help for an object "
-"with a non-standard name (such as the help operator <i>?</i>), the name must "
-"be quoted: for example, <i>help('?')</i> or <i>?\"?\"</i>.<br><br>You may "
-"also use the <i>help()</i> function to access information about a package in "
-"your library — for example, <i>help(package=\"MASS\")</i> — which displays "
-"an index of available help pages for the package along with some other "
-"information.<br><br>Help pages for functions usually include a section with "
-"executable examples illustrating how the functions work. You can execute "
-"these examples in the current R session via the <i>example()</i> command: "
-"e.g., <i>example(lm)</i>."
+"<h1>R' Help System: <i>help()</i> and <i>?</i>:</h1><br>The <i>help()</i> function and <i>?</i> help operator in R provide access to the documentation pages for R functions, data sets, and other "
+"objects, both for packages in the standard R distribution and for contributed packages.<br><br>To access documentation for the standard <i>lm</i> (linear model) function, for example, enter the "
+"command <b><i>help(lm)</i></b> or <i>help(\"lm\")</i>, or <i>?lm</i> or <i>?\"lm\"</i> (i.e., the quotes are optional).<br><br>To access help for a function in a package that’s not currently loaded,"
+" specify in addition the name of the package: For example, to obtain documentation for the <i>rlm()</i> (robust linear model) function in the MASS package, <i>help(rlm, "
+"package=\"MASS\")</i>.<br><br>Standard names in R consist of upper- and lower-case letters, numerals (0-9), underscores (_), and periods (.), and must begin with a letter or a period. To obtain help"
+" for an object with a non-standard name (such as the help operator <i>?</i>), the name must be quoted: for example, <i>help('?')</i> or <i>?\"?\"</i>.<br><br>You may also use the <i>help()</i> "
+"function to access information about a package in your library — for example, <i>help(package=\"MASS\")</i> — which displays an index of available help pages for the package along with some other "
+"information.<br><br>Help pages for functions usually include a section with executable examples illustrating how the functions work. You can execute these examples in the current R session via the "
+"<i>example()</i> command: e.g., <i>example(lm)</i>."
 msgstr ""
 
 #. +> trunk6 stable6
 #: backends/R/rbackend.cpp:98
 #, kde-format
 msgid ""
-"<b>R</b> is a language and environment for statistical computing and "
-"graphics, similar to the S language and environment. <br/>It provides a wide "
-"variety of statistical (linear and nonlinear modelling, classical "
-"statistical tests, time-series analysis, classification, clustering, ...) "
-"and graphical techniques, and is highly extensible. The S language is often "
-"the vehicle of choice for research in statistical methodology, and R "
-"provides an Open Source route to participation in that activity."
+"<b>R</b> is a language and environment for statistical computing and graphics, similar to the S language and environment. <br/>It provides a wide variety of statistical (linear and nonlinear "
+"modelling, classical statistical tests, time-series analysis, classification, clustering, ...) and graphical techniques, and is highly extensible. The S language is often the vehicle of choice for "
+"research in statistical methodology, and R provides an Open Source route to participation in that activity."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -2587,19 +2375,14 @@ msgstr ""
 #. +> trunk6 stable6
 #: backends/sage/sagebackend.cpp:80
 #, kde-format
-msgctxt ""
-"the url to the documentation of Sage, please check if there is a translated "
-"version and use the correct url"
+msgctxt "the url to the documentation of Sage, please check if there is a translated version and use the correct url"
 msgid "https://doc.sagemath.org/html/en/reference/index.html"
 msgstr ""
 
 #. +> trunk6 stable6
 #: backends/sage/sagebackend.cpp:85
 #, kde-format
-msgid ""
-"<b>Sage</b> is a free open-source mathematics software system licensed under "
-"the GPL. <br/>It combines the power of many existing open-source packages "
-"into a common Python-based interface."
+msgid "<b>Sage</b> is a free open-source mathematics software system licensed under the GPL. <br/>It combines the power of many existing open-source packages into a common Python-based interface."
 msgstr ""
 
 #. i18n: ectx: label, entry (Path), group (SageBackend)
@@ -2646,9 +2429,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: backends/sage/sagesession.cpp:271
 #, kde-format
-msgid ""
-"Sage version %1.%2 is unsupported. Please update your installation to the "
-"versions 9.2 or higher."
+msgid "Sage version %1.%2 is unsupported. Please update your installation to the versions 9.2 or higher."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -2660,9 +2441,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: backends/sage/sagesession.cpp:292
 #, kde-format
-msgid ""
-"Failed to determine the version of Sage. Please check your installation and "
-"the output of 'sage -v'."
+msgid "Failed to determine the version of Sage. Please check your installation and the output of 'sage -v'."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -2706,17 +2485,13 @@ msgstr ""
 #. +> trunk6 stable6
 #: backends/sage/settings.ui:66
 #, kde-format
-msgid ""
-"Sage LaTeX output not always correct, so latex typesetting can be disabled "
-"for better experience"
+msgid "Sage LaTeX output not always correct, so latex typesetting can be disabled for better experience"
 msgstr ""
 
 #. +> trunk6 stable6
 #: backends/scilab/scilabbackend.cpp:68
 #, kde-format
-msgctxt ""
-"The url to the documentation of Scilab, please check if there is a "
-"translated version and use the correct url"
+msgctxt "The url to the documentation of Scilab, please check if there is a translated version and use the correct url"
 msgid "https://www.scilab.org/support/documentation"
 msgstr ""
 
@@ -2724,9 +2499,8 @@ msgstr ""
 #: backends/scilab/scilabbackend.cpp:73
 #, kde-format
 msgid ""
-"<b>Scilab</b> is a free software, cross-platform numerical computational "
-"package and a high-level, numerically oriented programming language.Scilab "
-"is distributed under CeCILL license (GPL compatible)."
+"<b>Scilab</b> is a free software, cross-platform numerical computational package and a high-level, numerically oriented programming language.Scilab is distributed under CeCILL license (GPL "
+"compatible)."
 msgstr ""
 
 #. i18n: ectx: label, entry (Path), group (ScilabBackend)
@@ -2794,9 +2568,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: cantor.cpp:244
 #, kde-format
-msgid ""
-"All supported files (*.cws *ipynb);;Cantor Worksheet (*.cws);;Jupyter "
-"Notebook (*.ipynb)"
+msgid "All supported files (*.cws *ipynb);;Cantor Worksheet (*.cws);;Jupyter Notebook (*.ipynb)"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -2805,15 +2577,11 @@ msgstr ""
 msgid ""
 "<h1>No Backend Found</h1>\n"
 "<div>You could try:\n"
-"  <ul>    <li>Changing the settings in the config dialog;</li>    "
-"<li>Installing packages for the following program:</li>     %2   </ul> </"
-"div> "
+"  <ul>    <li>Changing the settings in the config dialog;</li>    <li>Installing packages for the following program:</li>     %2   </ul> </div> "
 msgid_plural ""
 "<h1>No Backend Found</h1>\n"
 "<div>You could try:\n"
-"  <ul>    <li>Changing the settings in the config dialog;</li>    "
-"<li>Installing packages for one of the following programs:</li>     %2   </"
-"ul> </div> "
+"  <ul>    <li>Changing the settings in the config dialog;</li>    <li>Installing packages for one of the following programs:</li>     %2   </ul> </div> "
 msgstr[0] ""
 
 #. +> trunk6 stable6
@@ -2831,9 +2599,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: cantor.cpp:361
 #, kde-format
-msgid ""
-"%1 backend installed, but inactive. Please check installation and Cantor "
-"settings"
+msgid "%1 backend installed, but inactive. Please check installation and Cantor settings"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -2891,8 +2657,7 @@ msgid "Save Project"
 msgstr ""
 
 #. +> trunk6 stable6
-#: cantor.cpp:662 commandentry.cpp:168 commandentry.cpp:199
-#: horizontalruleentry.cpp:328
+#: cantor.cpp:662 commandentry.cpp:168 commandentry.cpp:199 horizontalruleentry.cpp:328
 #, kde-format
 msgid "Default"
 msgstr ""
@@ -2956,9 +2721,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: cantor.kcfg:38
 #, kde-format
-msgid ""
-"Enable rendering math expressions inside $$..$$ in Text and Markdown entries "
-"by default (needs pdflatex installed)"
+msgid "Enable rendering math expressions inside $$..$$ in Text and Markdown entries by default (needs pdflatex installed)"
 msgstr ""
 
 #. i18n: ectx: label, entry (WarnAboutEntryDelete), group (Cantor)
@@ -2987,9 +2750,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: cantor.kcfg:54
 #, kde-format
-msgid ""
-"Save rich text formatting of TextEntry, when save Worksheet in Jupyter "
-"notebook format"
+msgid "Save rich text formatting of TextEntry, when save Worksheet in Jupyter notebook format"
 msgstr ""
 
 #. i18n: ectx: label, entry (UseOldCantorEntriesIndent), group (Cantor)
@@ -3170,8 +2931,7 @@ msgid "Export to PDF"
 msgstr ""
 
 #. +> trunk6 stable6
-#: cantor_part.cpp:193 cantor_part.cpp:557 worksheet.cpp:1319
-#: worksheet.cpp:1325
+#: cantor_part.cpp:193 cantor_part.cpp:557 worksheet.cpp:1319 worksheet.cpp:1325
 #, kde-format
 msgid "Export to LaTeX"
 msgstr ""
@@ -3191,10 +2951,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: cantor_part.cpp:221
 #, kde-format
-msgctxt ""
-"Zoom percentage value %1 will be replaced by the actual zoom factor value, "
-"so make sure you include it in your translation in order to not to break "
-"anything"
+msgctxt "Zoom percentage value %1 will be replaced by the actual zoom factor value, so make sure you include it in your translation in order to not to break anything"
 msgid "%1%"
 msgstr ""
 
@@ -3312,7 +3069,6 @@ msgstr ""
 #. publishWorksheet->setIcon(QIcon::fromTheme(QLatin1String("get-hot-new-stuff")));
 #. collection->addAction(QLatin1String("file_publish_worksheet"), publishWorksheet);
 #. connect(publishWorksheet, &QAction::triggered, this, SLOT(publishWorksheet()));
-#.
 #. +> trunk6 stable6
 #: cantor_part.cpp:347
 #, kde-format
@@ -3388,9 +3144,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: cantor_part.cpp:602
 #, kde-format
-msgid ""
-"All the available calculation results will be lost. Do you really want to "
-"restart %1?"
+msgid "All the available calculation results will be lost. Do you really want to restart %1?"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -3547,8 +3301,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_ParagraphFontBold)
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_SubparagraphFontBold)
 #. +> trunk6 stable6
-#: commandentry.cpp:223 formating.ui:84 formating.ui:141 formating.ui:198
-#: formating.ui:255 formating.ui:312 formating.ui:369
+#: commandentry.cpp:223 formating.ui:84 formating.ui:141 formating.ui:198 formating.ui:255 formating.ui:312 formating.ui:369
 #, kde-format
 msgid "Bold"
 msgstr ""
@@ -3560,8 +3313,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_ParagraphFontItalic)
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_SubparagraphFontItalic)
 #. +> trunk6 stable6
-#: commandentry.cpp:230 formating.ui:91 formating.ui:148 formating.ui:205
-#: formating.ui:262 formating.ui:319 formating.ui:376
+#: commandentry.cpp:230 formating.ui:91 formating.ui:148 formating.ui:205 formating.ui:262 formating.ui:319 formating.ui:376
 #, kde-format
 msgid "Italic"
 msgstr ""
@@ -3634,16 +3386,14 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QToolButton, addFlag)
 #. i18n: ectx: property (text), widget (QToolButton, removeFlag)
 #. +> trunk6 stable6
-#: extendedsearchbar.ui:22 extendedsearchbar.ui:77 extendedsearchbar.ui:159
-#: extendedsearchbar.ui:166 standardsearchbar.ui:22 standardsearchbar.ui:85
+#: extendedsearchbar.ui:22 extendedsearchbar.ui:77 extendedsearchbar.ui:159 extendedsearchbar.ui:166 standardsearchbar.ui:22 standardsearchbar.ui:85
 #, kde-format
 msgid "..."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #. +> trunk6 stable6
-#: extendedsearchbar.ui:47
-#: panelplugins/documentationpanel/documentationpanelwidget.cpp:126
+#: extendedsearchbar.ui:47 panelplugins/documentationpanel/documentationpanelwidget.cpp:126
 #, kde-format
 msgid "Find:"
 msgstr ""
@@ -3712,8 +3462,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, lParagraphFontFamily)
 #. i18n: ectx: property (text), widget (QLabel, lSubparagraphFontFamily)
 #. +> trunk6 stable6
-#: formating.ui:48 formating.ui:105 formating.ui:162 formating.ui:219
-#: formating.ui:276 formating.ui:333
+#: formating.ui:48 formating.ui:105 formating.ui:162 formating.ui:219 formating.ui:276 formating.ui:333
 #, kde-format
 msgid "Fon&t Family:"
 msgstr ""
@@ -3725,8 +3474,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, lParagrapshFontSize)
 #. i18n: ectx: property (text), widget (QLabel, lSubparagraphFontSize)
 #. +> trunk6 stable6
-#: formating.ui:61 formating.ui:118 formating.ui:175 formating.ui:232
-#: formating.ui:289 formating.ui:346
+#: formating.ui:61 formating.ui:118 formating.ui:175 formating.ui:232 formating.ui:289 formating.ui:346
 #, kde-format
 msgid "Font Si&ze:"
 msgstr ""
@@ -4015,33 +3763,25 @@ msgstr ""
 #. +> trunk6 stable6
 #: lib/backend.cpp:167
 #, kde-format
-msgid ""
-"No path for the %1 executable specified. Please provide the correct path in "
-"the application settings and try again."
+msgid "No path for the %1 executable specified. Please provide the correct path in the application settings and try again."
 msgstr ""
 
 #. +> trunk6 stable6
 #: lib/backend.cpp:177
 #, kde-format
-msgid ""
-"The specified file '%1' for the %2 executable doesn't exist. Please provide "
-"the correct path in the application settings and try again."
+msgid "The specified file '%1' for the %2 executable doesn't exist. Please provide the correct path in the application settings and try again."
 msgstr ""
 
 #. +> trunk6 stable6
 #: lib/backend.cpp:186
 #, kde-format
-msgid ""
-"The specified file '%1' doesn't point to an executable. Please provide the "
-"correct path in the application settings and try again."
+msgid "The specified file '%1' doesn't point to an executable. Please provide the correct path in the application settings and try again."
 msgstr ""
 
 #. +> trunk6 stable6
 #: lib/backend.cpp:205
 #, kde-format
-msgid ""
-"The program %1 didn't finish the execution after %2 milliseconds during the "
-"plot integration test."
+msgid "The program %1 didn't finish the execution after %2 milliseconds during the plot integration test."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -4152,18 +3892,13 @@ msgstr ""
 #. +> trunk6 stable6
 #: lib/session.cpp:266
 #, kde-format
-msgid ""
-"%1 process has died unexpectedly with message \"%2\". All calculation "
-"results are lost."
+msgid "%1 process has died unexpectedly with message \"%2\". All calculation results are lost."
 msgstr ""
 
 #. +> trunk6 stable6
 #: lib/session.cpp:332
 #, kde-format
-msgid ""
-"You choose support for %1 graphic package, but the support can't be "
-"activated due to the missing requirements, so integration for this package "
-"will be disabled. %2"
+msgid "You choose support for %1 graphic package, but the support can't be activated due to the missing requirements, so integration for this package will be disabled. %2"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -4412,8 +4147,7 @@ msgid "Value:"
 msgstr ""
 
 #. +> trunk6 stable6
-#: panelplugins/variablemgr/variablemanagerwidget.cpp:48
-#: panelplugins/variablemgr/variablemanagerwidget.cpp:205
+#: panelplugins/variablemgr/variablemanagerwidget.cpp:48 panelplugins/variablemgr/variablemanagerwidget.cpp:205
 #, kde-format
 msgid "Add New Variable"
 msgstr ""
@@ -4431,8 +4165,7 @@ msgid "Save Variables"
 msgstr ""
 
 #. +> trunk6 stable6
-#: panelplugins/variablemgr/variablemanagerwidget.cpp:66
-#: panelplugins/variablemgr/variablemanagerwidget.cpp:144
+#: panelplugins/variablemgr/variablemanagerwidget.cpp:66 panelplugins/variablemgr/variablemanagerwidget.cpp:144
 #, kde-format
 msgid "Remove Variables"
 msgstr ""
@@ -4573,8 +4306,7 @@ msgid "Errors"
 msgstr ""
 
 #. +> trunk6 stable6
-#: searchbar.cpp:531 searchbar.cpp:560 worksheet.cpp:1851 worksheet.cpp:1880
-#: worksheet.cpp:1900 worksheet.cpp:1918
+#: searchbar.cpp:531 searchbar.cpp:560 worksheet.cpp:1851 worksheet.cpp:1880 worksheet.cpp:1900 worksheet.cpp:1918
 #, kde-format
 msgid "Text"
 msgstr ""
@@ -4611,9 +4343,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: settings.ui:66 settings.ui:119
 #, kde-format
-msgid ""
-"Create a new worksheet for the selected backend system. If none is selected, "
-"the user is asked about which system to use on startup."
+msgid "Create a new worksheet for the selected backend system. If none is selected, the user is asked about which system to use on startup."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label)
@@ -4642,18 +4372,14 @@ msgstr ""
 #. +> trunk6 stable6
 #: settings.ui:86
 #, kde-format
-msgid ""
-"Maximal number of visible rows in the result of a command entry. Use 0 to "
-"work without limitations."
+msgid "Maximal number of visible rows in the result of a command entry. Use 0 to work without limitations."
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_TypesetDefault)
 #. +> trunk6 stable6
 #: settings.ui:99
 #, kde-format
-msgid ""
-"Enable LaTeX typesetting for the results of the calculations, if supported "
-"by the backend system"
+msgid "Enable LaTeX typesetting for the results of the calculations, if supported by the backend system"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_TypesetDefault)
@@ -4681,8 +4407,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: settings.ui:178
 #, kde-format
-msgid ""
-"Enable LaTeX typesetting for mathematical expressions in Markdown entries"
+msgid "Enable LaTeX typesetting for mathematical expressions in Markdown entries"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_EmbeddedMathDefault)
@@ -4696,8 +4421,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: settings.ui:188
 #, kde-format
-msgid ""
-"If enabled, all entries below the current one will be evaluated automatically"
+msgid "If enabled, all entries below the current one will be evaluated automatically"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_AutoEval)
@@ -4718,8 +4442,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: settings.ui:243
 #, kde-format
-msgid ""
-"Use rich text format for text entries when saving in Jupyter Notebook Format"
+msgid "Use rich text format for text entries when saving in Jupyter Notebook Format"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_5)
@@ -4733,9 +4456,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: settings.ui:263
 #, kde-format
-msgid ""
-"If enabled, text entries are aligned at the worksheet border and not at the "
-"prompt border"
+msgid "If enabled, text entries are aligned at the worksheet border and not at the prompt border"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_UseOldCantorEntriesIndent)
@@ -4749,9 +4470,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: settings.ui:286
 #, kde-format
-msgid ""
-"If enabled, the user will be asked for confirmation prior to restarting the "
-"backend system"
+msgid "If enabled, the user will be asked for confirmation prior to restarting the backend system"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_ShowMathRenderError)
@@ -4908,9 +4627,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: worksheet.cpp:1298
 #, kde-format
-msgid ""
-"In read-only mode Cantor couldn't guarantee, that the export will be valid "
-"for %1"
+msgid "In read-only mode Cantor couldn't guarantee, that the export will be valid for %1"
 msgstr ""
 
 #. +> trunk6 stable6
@@ -4926,9 +4643,8 @@ msgid "Couldn't open the file %1."
 msgstr ""
 
 #. +> trunk6 stable6
-#: worksheet.cpp:1366 worksheet.cpp:1389 worksheet.cpp:1409 worksheet.cpp:1426
-#: worksheet.cpp:1458 worksheet.cpp:1469 worksheet.cpp:1578 worksheet.cpp:1593
-#: worksheet.cpp:1635 worksheet.cpp:1646 worksheet.cpp:1765 worksheet.cpp:1767
+#: worksheet.cpp:1366 worksheet.cpp:1389 worksheet.cpp:1409 worksheet.cpp:1426 worksheet.cpp:1458 worksheet.cpp:1469 worksheet.cpp:1578 worksheet.cpp:1593 worksheet.cpp:1635 worksheet.cpp:1646
+#: worksheet.cpp:1765 worksheet.cpp:1767
 #, kde-format
 msgid "Open File"
 msgstr ""
@@ -4954,9 +4670,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: worksheet.cpp:1448
 #, kde-format
-msgid ""
-"This worksheet was created using Python2 which is not supported anymore. "
-"Python3 will be used."
+msgid "This worksheet was created using Python2 which is not supported anymore. Python3 will be used."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -4968,8 +4682,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: worksheet.cpp:1458 worksheet.cpp:1634
 #, kde-format
-msgid ""
-"%1 backend was not found. Editing and executing entries is not possible."
+msgid "%1 backend was not found. Editing and executing entries is not possible."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -4984,25 +4697,19 @@ msgstr ""
 #. +> trunk6 stable6
 #: worksheet.cpp:1577
 #, kde-format
-msgid ""
-"Jupyter notebooks with versions lower than 4.5 (detected version %1.%2) are "
-"not supported."
+msgid "Jupyter notebooks with versions lower than 4.5 (detected version %1.%2) are not supported."
 msgstr ""
 
 #. +> trunk6 stable6
 #: worksheet.cpp:1592
 #, kde-format
-msgid ""
-"Jupyter notebooks with versions higher than 4.5 (detected version %1.%2) are "
-"not supported."
+msgid "Jupyter notebooks with versions higher than 4.5 (detected version %1.%2) are not supported."
 msgstr ""
 
 #. +> trunk6 stable6
 #: worksheet.cpp:1616
 #, kde-format
-msgid ""
-"This notebook was created using Python2 which is not supported anymore. "
-"Python3 will be used."
+msgid "This notebook was created using Python2 which is not supported anymore. Python3 will be used."
 msgstr ""
 
 #. +> trunk6 stable6
@@ -5289,9 +4996,7 @@ msgstr ""
 #. +> trunk6 stable6
 #: worksheet.cpp:2904
 #, kde-format
-msgid ""
-"This step cannot be undone. Do you really want to delete the selected "
-"entries?"
+msgid "This step cannot be undone. Do you really want to delete the selected entries?"
 msgstr ""
 
 #. +> trunk6 stable6
