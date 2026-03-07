@@ -16,10 +16,9 @@ jobs:
           repository: 'mozilla/pontoon'
       - uses: actions/checkout@v6
         with:
-          path: 'media/translations'
+          path: 'media/_translations'
       - name: Link repository
-        run: |-
-          ./media/translations/link_repo.sh
+        run: ./media/_translations/link_repo.sh
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
